@@ -498,7 +498,6 @@
         <PatientMobility>IMOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CBC_TESTING</ExaminationRef>
-
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
@@ -755,24 +754,6 @@
         <IconIndex>1301</IconIndex>
         <CustomIconBigAssetRef>ASSET_GYNECO_ICON_S12</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S12_SMALL</CustomIconSmallAssetRef>
-    </GameDBSymptom>
-
-    <GameDBSymptom ID="SYM_OBGYN_SYPHILIDE">
-        <DescriptionLocID>SYM_OBGYN_SYPHILIDE_DESCRIPTION</DescriptionLocID>
-        <DiscomfortLevel>Low</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>Medium</Hazard>
-        <PatientMobility>MOBILE</PatientMobility>
-        <Examinations>
-            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-        </Examinations>
-        <Treatments>
-            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
-        </Treatments>
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
-        <IconIndex>1029</IconIndex>
     </GameDBSymptom>
 
     <!-- Oncology -->
@@ -1231,31 +1212,6 @@
         <IconIndex>1595</IconIndex>
     </GameDBSymptom>
 
-    <GameDBSymptom ID="SYM_JM_ARDS">
-        <DescriptionLocID>SYM_JM_ARDS_DESCRIPTION</DescriptionLocID>
-        <DiscomfortLevel>None</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>High</Hazard>
-
-        <RiskOfCollapseStartHours>10</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>30</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
-
-        <PatientMobility>MOBILE</PatientMobility>
-        <Examinations>
-            <ExaminationRef>EXM_CT</ExaminationRef>
-            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
-        </Examinations>
-        <Treatments>
-            <TreatmentRef>TRT_ARTIFICIAL_VENTILATION</TreatmentRef>
-        </Treatments>
-        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-        <CanNotTalk>true</CanNotTalk>
-        <IconIndex>1793</IconIndex>
-    </GameDBSymptom>
-
     <GameDBSymptom ID="SYM_JM_RINGING_IN_THE_EARS">
         <DescriptionLocID>SYM_RINGING_IN_THE_EARS_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>Low</DiscomfortLevel>
@@ -1498,29 +1454,6 @@
         <ShameLevel>90</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>2214</IconIndex>
-    </GameDBSymptom>
-
-    <GameDBSymptom ID="SYM_JM_PNEUMONIA">
-        <DescriptionLocID>SYM_JM_PNEUMONIA_DESCRIPTION</DescriptionLocID>
-        <DiscomfortLevel>None</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>High</Hazard>
-
-        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_JM_ARDS</CollapseSymptomRef>
-
-        <PatientMobility>MOBILE</PatientMobility>
-        <Examinations>
-            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
-        </Examinations>
-        <Treatments>
-            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
-        </Treatments>
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
-        <IconIndex>1191</IconIndex>
     </GameDBSymptom>
 
     <!-- CRP -->
@@ -2500,10 +2433,6 @@
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
         </Examinations>
 
-        <Treatments>
-
-        </Treatments>
-
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
 
@@ -2727,8 +2656,8 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1</IconIndex>
 
-        <CustomIconBigAssetRef />
-        <CustomIconSmallAssetRef />
+        <CustomIconBigAssetRef/>
+        <CustomIconSmallAssetRef/>
 
     </GameDBSymptom>
 
@@ -7177,8 +7106,8 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1</IconIndex>
 
-        <CustomIconBigAssetRef />
-        <CustomIconSmallAssetRef />
+        <CustomIconBigAssetRef/>
+        <CustomIconSmallAssetRef/>
 
     </GameDBSymptom>
 
@@ -10653,7 +10582,6 @@
         <Hazard>Low</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
-            <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>

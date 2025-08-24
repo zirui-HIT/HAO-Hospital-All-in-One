@@ -5902,7 +5902,6 @@
                 </RequiredEquipment>
             </RequiredEquipmentList>
 
-
             <RequiredRoomTags>
                 <Tag>examinations_basic_equipment</Tag>
             </RequiredRoomTags>
@@ -7448,6 +7447,7 @@
                 <SkillRef>SKILL_DOC_SPEC_CARDIOLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -7464,10 +7464,12 @@
             <RequiredRoomTags>
                 <Tag>general_surgery_office</Tag>
                 <Tag>internal_medicine_office</Tag>
+                <Tag>hem_office</Tag>
                 <Tag>cardiology_office</Tag>
                 <Tag>icu</Tag>
                 <Tag>diag_office</Tag>
             </RequiredRoomTags>
+
             <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
             <AnimationSetupSitting>
                 <AnimationNameIn>stand_examination_in</AnimationNameIn>
@@ -7519,7 +7521,6 @@
                 <Tag>internal_medicine_office</Tag>
                 <Tag>otorhinolaryngology_office</Tag>
                 <Tag>observation</Tag>
-                <Tag>icu</Tag>
                 <Tag>diag_office</Tag>
             </RequiredRoomTags>
 

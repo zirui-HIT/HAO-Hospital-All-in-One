@@ -16,6 +16,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, Tuple, Set
 import xml.etree.ElementTree as ET
+from lxml import etree
 
 # ---- Target tags ----
 TAG_DIAGNOSIS = "GameDBMedicalCondition"
@@ -34,6 +35,18 @@ LOC_FIELD_PRIORITY = [
     "TitleLocID",
     "DisplayNameLocID",
 ]
+
+
+def is_main_symptom(sym_elem: etree._Element) -> bool:
+    def is_true_text(s: str | None) -> bool:
+        if not s:
+            return False
+        t = s.strip().lower()
+        return t in {"true", "1", "yes"}
+
+    # <IsMainSymptom> 可能不存在，视为 False
+    node = sym_elem.find(".//IsMainSymptom")
+    return is_true_text(node.text if node is not None else None)
 
 
 def localname(tag: str) -> str:
@@ -147,6 +160,7 @@ def extract_entities_and_departments(root_dirs: List[Path], zh_map: Dict[str, st
     names_by_cat = {
         "diagnoses": {},
         "symptoms": {},
+        "symptoms_main": {},
         "examinations": {},
         "treatments": {},
     }
@@ -188,7 +202,10 @@ def extract_entities_and_departments(root_dirs: List[Path], zh_map: Dict[str, st
                 if tag == TAG_DIAGNOSIS:
                     names_by_cat["diagnoses"][ent_id] = zh_name
                 elif tag == TAG_SYMPTOM:
-                    names_by_cat["symptoms"][ent_id] = zh_name
+                    if is_main_symptom(elem):
+                        names_by_cat["symptoms_main"][ent_id] = zh_name
+                    else:
+                        names_by_cat["symptoms"][ent_id] = zh_name
                 elif tag == TAG_EXAM:
                     names_by_cat["examinations"][ent_id] = zh_name
                 elif tag == TAG_TREATMENT:
@@ -260,7 +277,7 @@ def main():
     # Write names_zh.json (all four categories)
     args.out1.parent.mkdir(parents=True, exist_ok=True)
     names_by_cat: Dict[str, Dict[str, str]]
-    names_by_cat = {k: dict(sorted(v.items(), key=lambda item: item[1])) for k, v in names_by_cat.items()}
+    # names_by_cat = {k: dict(sorted(v.items(), key=lambda item: item[1])) for k, v in names_by_cat.items()}
     with args.out1.open("w", encoding="utf-8") as f:
         json.dump(names_by_cat, f, ensure_ascii=False, indent=4)
     print(f"[DONE] Wrote entity names -> {args.out1}")
@@ -268,8 +285,8 @@ def main():
     # Build and write disease -> department (zh)
     disease_to_dept_zh = build_disease_to_dept_zh(
         names_by_cat, disease_to_dept_ids, dept_id_to_name, zh_map)
-    disease_to_dept_zh = dict(
-        sorted(disease_to_dept_zh.items(), key=lambda item: (item[0])))
+    # disease_to_dept_zh = dict(
+    #     sorted(disease_to_dept_zh.items(), key=lambda item: (item[0])))
     args.out2.parent.mkdir(parents=True, exist_ok=True)
     with args.out2.open("w", encoding="utf-8") as f:
         json.dump(disease_to_dept_zh, f, ensure_ascii=False, indent=4)

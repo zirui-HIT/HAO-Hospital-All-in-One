@@ -238,27 +238,6 @@
 	</GameDBSymptom>
 
 
-	<GameDBSymptom ID="SYM_SH_UR">
-		<DescriptionLocID>SYM_SH_UR_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Medium</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
-			<ExaminationRef>EXM_SH_GENITAL_SWAB_TESTING</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>30</ShameLevel>
-		<IsMainSymptom>true</IsMainSymptom>
-		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
-		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_UR</CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_UR_SMALL</CustomIconSmallAssetRef>
-	</GameDBSymptom>
-
-
 	<GameDBSymptom ID="SYM_SH_ED">
 		<DescriptionLocID>SYM_SH_ED_DESCRIPTION</DescriptionLocID>
 		<DiscomfortLevel>None</DiscomfortLevel>
@@ -357,6 +336,27 @@
 		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
 		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_UR</CustomIconBigAssetRef>
 		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_UR_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<!-- Chlamydia -->
+
+	<GameDBSymptom ID="SYM_SH_CHLAMYDIA">
+		<DescriptionLocID>SYM_SH_CHLAMYDIA_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1425</IconIndex>
 	</GameDBSymptom>
 
 </Database>

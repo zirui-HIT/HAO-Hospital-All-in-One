@@ -4637,4 +4637,62 @@
 		</Tags>
 	</GameDBMedicalCondition>
 
+	<GameDBMedicalCondition ID="DIA_SH_PRO">
+		<AbbreviationLocID>DIA_SH_PRO_DESCRIPTION</AbbreviationLocID>
+		<Duration>1</Duration>
+		<OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<DayOfFirstOccurence>0</DayOfFirstOccurence>
+				<ProbabilityPercent>60</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+			<GameDBSymptomRules>
+				<DayOfFirstOccurence>0</DayOfFirstOccurence>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_SH_TESTICULAR_PAIN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+			<GameDBSymptomRules>
+				<DayOfFirstOccurence>0</DayOfFirstOccurence>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_BACK_PAIN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+			<GameDBSymptomRules>
+				<DayOfFirstOccurence>0</DayOfFirstOccurence>
+				<ProbabilityPercent>60</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_ABDOMINAL_PAIN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+			<GameDBSymptomRules>
+				<DayOfFirstOccurence>0</DayOfFirstOccurence>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_FEVER</GameDBSymptomRef>
+			</GameDBSymptomRules>
+			<GameDBSymptomRules>
+				<DayOfFirstOccurence>0</DayOfFirstOccurence>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_SH_PRO</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_UR</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_UR_SMALL</CustomIconSmallAssetRef>
+		<DepartmentRef>DPT_URKN</DepartmentRef>
+		<InsurancePayment>400</InsurancePayment>
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+		<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
+	</GameDBMedicalCondition>
+
 </Database>

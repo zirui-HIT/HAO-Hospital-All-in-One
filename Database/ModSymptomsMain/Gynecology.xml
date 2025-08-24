@@ -280,27 +280,6 @@
 		<IconIndex>1299</IconIndex>
 	</GameDBSymptom>
 
-	<GameDBSymptom ID="SYM_TREPONEMA_PALLIDUM">
-		<DescriptionLocID>SYM_TREPONEMA_PALLIDUM_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Medium</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_SEROLOGY_TESTING_TESTING</ExaminationRef>
-			<ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>0</ShameLevel>
-		<IsMainSymptom>true</IsMainSymptom>
-		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
-		<IconIndex>1141</IconIndex>
-		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM6</CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM6_SMALL</CustomIconSmallAssetRef>
-	</GameDBSymptom>
-
 	<GameDBSymptom ID="SYM_CANDIDA_ALBICANS">
 		<DescriptionLocID>SYM_CANDIDA_ALBICANS_DESCRIPTION</DescriptionLocID>
 		<DiscomfortLevel>Medium</DiscomfortLevel>
@@ -1248,24 +1227,6 @@
 		<IconIndex>1105</IconIndex>
 		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG22</CustomIconBigAssetRef>
 		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG22_SMALL</CustomIconSmallAssetRef>
-	</GameDBSymptom>
-
-	<GameDBSymptom ID="SYM_OBGYN_CHANCRE_SYPHILIS">
-		<DescriptionLocID>SYM_CHANCRE_SYPHILIS_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Medium</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>25</ShameLevel>
-		<IsMainSymptom>true</IsMainSymptom>
-		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
-		<IconIndex>1353</IconIndex>
 	</GameDBSymptom>
 
 	<GameDBSymptom ID="SYM_HEMORRAGIE_GEN">

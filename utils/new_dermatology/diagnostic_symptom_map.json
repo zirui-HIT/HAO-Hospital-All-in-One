@@ -1,0 +1,442 @@
+{
+    "DIA_SH_LGV": {
+        "primary_symptom": {
+            "id": "SYM_SH_LGV_NAAT_POS",
+            "name": "沙眼衣原体L1–L3型核酸检测阳性"
+        },
+        "secondary_symptoms": [
+            "SYM_CRP_INGUINAL_LYMPH_NODES",
+            "SYM_SWOLLEN_LYMPH_NODES",
+            "SYM_CRP_ULCERATION_GENITAL",
+            "SYM_SH_GENITAL_DISCHARGE",
+            "SYM_PAINFUL_URINATION",
+            "SYM_CRP_DOULEUR_PELV",
+            "SYM_FEVER",
+            "SYM_PAIN",
+            "SYM_TENDERNESS"
+        ]
+    },
+    "DIA_SH_INGUINAL": {
+        "primary_symptom": {
+            "id": "SYM_SH_DONOVAN_BODIES",
+            "name": "涂片/活检见Donovan小体"
+        },
+        "secondary_symptoms": [
+            "SYM_CRP_ULCERATION_GENITAL",
+            "SYM_BLEEDING2",
+            "SYM_PAIN",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING",
+            "SYM_CRP_ODEUR_VAGINALE",
+            "SYM_CRP_LEUCORRHEE",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_SWOLLEN_LYMPH_NODES"
+        ]
+    },
+    "DIA_SH_CANDIDIASIS": {
+        "primary_symptom": {
+            "id": "SYM_SH_KOH_CANDIDA_POS",
+            "name": "阴道分泌物10%KOH镜检见芽生酵母/假菌丝"
+        },
+        "secondary_symptoms": [
+            "SYM_CRP_ODEUR_VAGINALE",
+            "SYM_CRP_LEUCORRHEE",
+            "SYM_ITCHING",
+            "SYM_PAINFUL_URINATION",
+            "SYM_CRP_SECHERESSE_VAGIN",
+            "SYM_CRP_DOULEUR_PELV",
+            "SYM_PAIN",
+            "SYM_SWELLING",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_DER_SATELLITE_PUSTULES"
+        ]
+    },
+    "DIA_DER_ACNE": {
+        "primary_symptom": {
+            "id": "SYM_DER_COMEDONES",
+            "name": "开放/闭合粉刺（黑头/白头）"
+        },
+        "secondary_symptoms": [
+            "SYM_CRP_ACNE",
+            "SYM_PAIN",
+            "SYM_RASH",
+            "SYM_ITCHING",
+            "SYM_CRP_SEBORRHEE",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_WARMTH",
+            "SYM_DER_SEBUM_EXCESS",
+            "SYM_DER_PAPULOPUSTULES",
+            "SYM_DER_PIH"
+        ]
+    },
+    "DIA_DER_ROS": {
+        "primary_symptom": {
+            "id": "SYM_DER_CENTROFACIAL_TELANGIECTATIC_FLUSH",
+            "name": "持续性中央面部潮红并可见毛细血管扩张"
+        },
+        "secondary_symptoms": [
+            "SYM_CRP_TELANGIECTASIS",
+            "SYM_CRP_BOUFFEE_VASOMOTRICE",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_BURNING_SENSE",
+            "SYM_RED_EYE",
+            "SYM_EYE_PAIN",
+            "SYM_TEARING",
+            "SYM_PHOTOPHOBIA",
+            "SYM_ITCHING",
+            "SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL",
+            "SYM_DER_SEBUM_EXCESS",
+            "SYM_DER_PAPULOPUSTULES"
+        ]
+    },
+    "DIA_DER_ECZ": {
+        "primary_symptom": {
+            "id": "SYM_DER_FLEXURAL_ECZEMA",
+            "name": "屈侧湿疹样皮损伴显著瘙痒、苔藓样变"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_SWELLING",
+            "SYM_TENDERNESS",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_PAIN",
+            "SYM_SWEATING",
+            "SYM_DER_LICHENIFICATION",
+            "SYM_DER_EXCORIATIONS",
+            "SYM_DER_PIH",
+            "SYM_DER_PIHYPO"
+        ]
+    },
+    "DIA_DER_URT": {
+        "primary_symptom": {
+            "id": "SYM_DER_TRANSIENT_WHEALS_24H",
+            "name": "可压消、迁移性风团"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS",
+            "SYM_SWELLING",
+            "SYM_WARMTH",
+            "SYM_OL_LIP_EDEMA",
+            "SYM_OL_LARYNGEAL_EDEMA",
+            "SYM_SNEEZING",
+            "SYM_CRP_MILD_AR",
+            "SYM_DER_EXCORIATIONS"
+        ]
+    },
+    "DIA_DER_PSO": {
+        "primary_symptom": {
+            "id": "SYM_DER_AUSPITZ_SIGN",
+            "name": "去鳞后点状出血（Auspitz征）"
+        },
+        "secondary_symptoms": [
+            "SYM_RASH",
+            "SYM_ITCHING",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_PAIN",
+            "SYM_THICKENING_AND_DISTORTION_OF_THE_NAIL",
+            "SYM_CRUMBLY_NAIL",
+            "SYM_NAIL_DISCOLORATION",
+            "SYM_MUSCLES_AND_JOINTS_PAIN",
+            "SYM_DER_KOEBNER",
+            "SYM_DER_SCALP_SCALE",
+            "SYM_DER_NAIL_ONYCHOLYSIS"
+        ]
+    },
+    "DIA_DER_VIT": {
+        "primary_symptom": {
+            "id": "SYM_DER_WOOD_LAMP_DEPIGMENT",
+            "name": "伍德灯下乳白荧光的脱色斑"
+        },
+        "secondary_symptoms": [
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_ITCHING",
+            "SYM_TENDERNESS",
+            "SYM_PAIN",
+            "SYM_WARMTH",
+            "SYM_SWELLING",
+            "SYM_DER_KOEBNER"
+        ]
+    },
+    "DIA_DER_TINEA_COR": {
+        "primary_symptom": {
+            "id": "SYM_DER_KOH_DERMATOPHYTE_POS",
+            "name": "皮屑边缘10–20%KOH镜检见透明分隔性菌丝"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING",
+            "SYM_WARMTH",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_PAIN",
+            "SYM_DER_ANNULAR_BORDER",
+            "SYM_DER_CENTRAL_CLEARING"
+        ]
+    },
+    "DIA_DER_TINEA_CRU": {
+        "primary_symptom": {
+            "id": "SYM_DER_KOH_DERMATOPHYTE_POS_GROIN",
+            "name": "腹股沟皮屑KOH镜检阳性"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_CRP_INGUINAL_LYMPH_NODES",
+            "SYM_SWELLING",
+            "SYM_TENDERNESS",
+            "SYM_WARMTH",
+            "SYM_PAIN",
+            "SYM_DER_ANNULAR_BORDER",
+            "SYM_DER_CENTRAL_CLEARING"
+        ]
+    },
+    "DIA_DER_TINEA_CAP": {
+        "primary_symptom": {
+            "id": "SYM_DER_BLACK_DOT_TCAP",
+            "name": "黑点样脱发或KOH毛发检查阳性"
+        },
+        "secondary_symptoms": [
+            "SYM_HAIR_LOSS",
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING",
+            "SYM_FEVER",
+            "SYM_PAIN",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_DER_SCALP_SCALE"
+        ]
+    },
+    "DIA_DER_PITY": {
+        "primary_symptom": {
+            "id": "SYM_DER_SPAGHETTI_MEATBALLS_KOH",
+            "name": "皮屑KOH示短丝+酵母团"
+        },
+        "secondary_symptoms": [
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_WARMTH",
+            "SYM_SWELLING",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_SWEATING",
+            "SYM_TENDERNESS",
+            "SYM_DER_PIH",
+            "SYM_DER_PIHYPO"
+        ]
+    },
+    "DIA_DER_WART_VERR": {
+        "primary_symptom": {
+            "id": "SYM_DER_THROMBOSED_CAPILLARIES",
+            "name": "刮削后见黑点/点状出血"
+        },
+        "secondary_symptoms": [
+            "SYM_PAIN",
+            "SYM_TENDERNESS",
+            "SYM_BLEEDING2",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_SWELLING",
+            "SYM_OPEN_WOUND",
+            "SYM_WARMTH"
+        ]
+    },
+    "DIA_DER_WART_FLAT": {
+        "primary_symptom": {
+            "id": "SYM_DER_FLAT_WARTS_CLUSTERS",
+            "name": "面/手/腿多发细小扁平丘疹成群"
+        },
+        "secondary_symptoms": [
+            "SYM_RASH",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_ITCHING",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_SWELLING",
+            "SYM_TENDERNESS",
+            "SYM_PAIN",
+            "SYM_OPEN_WOUND",
+            "SYM_WARMTH"
+        ]
+    },
+    "DIA_DER_IMP": {
+        "primary_symptom": {
+            "id": "SYM_DER_HONEY_COLORED_CRUSTS",
+            "name": "蜂蜜色痂"
+        },
+        "secondary_symptoms": [
+            "SYM_ESCHAR",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING",
+            "SYM_FEVER",
+            "SYM_PAIN",
+            "SYM_SWOLLEN_LYMPH_NODES",
+            "SYM_ITCHING",
+            "SYM_DER_PIH",
+            "SYM_DER_PAPULOPUSTULES"
+        ]
+    },
+    "DIA_DER_PR": {
+        "primary_symptom": {
+            "id": "SYM_DER_HERALD_PATCH",
+            "name": "‘先驱斑’+随后圣诞树样分布"
+        },
+        "secondary_symptoms": [
+            "SYM_RASH_ON_TORSO",
+            "SYM_RASH_ON_NECK",
+            "SYM_RASH_ON_ARM",
+            "SYM_RASH_ON_LEG",
+            "SYM_ITCHING",
+            "SYM_FEVER",
+            "SYM_MALAISE",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_DER_COLLARETTE_SCALE",
+            "SYM_DER_PIHYPO"
+        ]
+    },
+    "DIA_DER_AA": {
+        "primary_symptom": {
+            "id": "SYM_DER_EXCLAMATION_MARK_HAIR",
+            "name": "脱发边缘‘感叹号样毛’"
+        },
+        "secondary_symptoms": [
+            "SYM_HAIR_LOSS",
+            "SYM_ITCHING",
+            "SYM_TENDERNESS",
+            "SYM_PAIN",
+            "SYM_DER_NAIL_PITTING",
+            "SYM_NAIL_DISCOLORATION",
+            "SYM_CRUMBLY_NAIL",
+            "SYM_THICKENING_AND_DISTORTION_OF_THE_NAIL",
+            "SYM_SKIN_DISCOLOURATION"
+        ]
+    },
+    "DIA_DER_LP": {
+        "primary_symptom": {
+            "id": "SYM_DER_WICKHAM_STRIAE",
+            "name": "皮损表面Wickham网状白纹"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_PAIN",
+            "SYM_TENDERNESS",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_SWELLING",
+            "SYM_WARMTH",
+            "SYM_OPEN_WOUND",
+            "SYM_DER_KOEBNER",
+            "SYM_DER_PIH",
+            "SYM_DER_LICHENIFICATION"
+        ]
+    },
+    "DIA_DER_DH": {
+        "primary_symptom": {
+            "id": "SYM_DER_DH_IGA_DIF_POS",
+            "name": "直接免疫荧光：乳头真皮颗粒状IgA沉积"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHY_BLISTERS",
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_PAIN",
+            "SYM_TENDERNESS",
+            "SYM_DIARRHEA",
+            "SYM_ABDOMINAL_CRAMPS",
+            "SYM_CRP_DRY_SKIN"
+        ]
+    },
+    "DIA_DER_MEL": {
+        "primary_symptom": {
+            "id": "SYM_DER_MELASMA_WOODLAMP_ENHANCE",
+            "name": "伍德灯提示表皮型色沉增强"
+        },
+        "secondary_symptoms": [
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_CRP_DRY_SKIN",
+            "SYM_DER_PHOTOEXACERBATION",
+            "SYM_DER_SYMMETRIC_MALAR_MACULES",
+            "SYM_DER_FOREHEAD_INVOLVEMENT",
+            "SYM_DER_UPPERLIP_PATCH",
+            "SYM_ITCHING"
+        ]
+    },
+    "DIA_DER_HS": {
+        "primary_symptom": {
+            "id": "SYM_DER_HS_SINUS_TRACTS",
+            "name": "腋/腹股沟反复结节脓肿并窦道/瘘道形成"
+        },
+        "secondary_symptoms": [
+            "SYM_ABSCESS",
+            "SYM_CRP_CHRONIC_WOUND",
+            "SYM_CRP_WOUND_INFECTION2",
+            "SYM_SWELLING",
+            "SYM_PAIN",
+            "SYM_TENDERNESS",
+            "SYM_KN_UNPL_ODOR",
+            "SYM_FEVER",
+            "SYM_CRP_SEROMA",
+            "SYM_DER_PIH",
+            "SYM_DER_LICHENIFICATION"
+        ]
+    },
+    "DIA_DER_SEB_DERM": {
+        "primary_symptom": {
+            "id": "SYM_DER_SEBDERM_SEBORRHEIC_PLAQUES",
+            "name": "脂溢区油腻性鳞屑性红斑"
+        },
+        "secondary_symptoms": [
+            "SYM_DER_GREASY_SCALE",
+            "SYM_DER_SEBUM_EXCESS",
+            "SYM_CRP_SEBORRHEE",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_ITCHING",
+            "SYM_DER_SCALP_SCALE",
+            "SYM_SKIN_DISCOLOURATION",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING"
+        ]
+    },
+    "DIA_SH_SCA": {
+        "primary_symptom": {
+            "id": "SYM_DER_SCABIES_BURROWS",
+            "name": "指缝/腕屈侧可见疥螨隧道"
+        },
+        "secondary_symptoms": [
+            "SYM_ITCHING",
+            "SYM_RASH",
+            "SYM_REDNESS_OF_SKIN",
+            "SYM_ITCHY_BLISTERS",
+            "SYM_DER_EXCORIATIONS",
+            "SYM_PAIN",
+            "SYM_TENDERNESS",
+            "SYM_SWELLING"
+        ]
+    }
+}

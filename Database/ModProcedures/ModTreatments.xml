@@ -5459,48 +5459,6 @@
     </GameDBTreatment>
 
 
-    <GameDBTreatment ID="TRT_MILTEFOSINE">
-        <AbbreviationLocID>TRT_MILTEFOSINE_DESC</AbbreviationLocID>
-        <DiscomfortLevel>None</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
-
-            <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredSkillsToPrescribe>
-
-            <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_ACUTE_MEDICINE</SkillRef>
-            </RequiredDoctorQualificationList>
-
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>receipt</Tag>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-
-
-            <RequiredRoomTags>
-                <Tag>receipt</Tag>
-            </RequiredRoomTags>
-
-            <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
-        </Procedure>
-        <TreatmentType>RECEIPT</TreatmentType>
-        <PharmacyPickup>true</PharmacyPickup>
-        <Cost>12000</Cost>
-        <IconIndex>1905</IconIndex>
-        <DurationHours>0</DurationHours>
-        <SuccessRatePercent>10</SuccessRatePercent>
-
-        <CustomIconBigAssetRef>ASSET_DIAG_TRT_ICON_003</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_DIAG_TRT_ICON_004</CustomIconSmallAssetRef>
-
-    </GameDBTreatment>
-
-
     <GameDBTreatment ID="TRT_ZAVESCA">
         <AbbreviationLocID>TRT_ZAVESCA_DESC</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -7797,8 +7755,7 @@
         <IconIndex>1903</IconIndex>
         <DurationHours>0</DurationHours>
     </GameDBTreatment>
-    <GameDBTreatment
-        ID="TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS">
+    <GameDBTreatment ID="TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS">
         <AbbreviationLocID>
             TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS_DESC</AbbreviationLocID>
         <DiscomfortLevel>Positive</DiscomfortLevel>

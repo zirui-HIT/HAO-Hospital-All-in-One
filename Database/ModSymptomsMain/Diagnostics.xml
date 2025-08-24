@@ -102,33 +102,6 @@
 	</GameDBSymptom>
 
 
-	<GameDBSymptom ID="SYM_DIAG_NAEGLERISIS">
-		<DescriptionLocID>SYM_DIAG_NAEGLERISIS_DESC</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>High</Hazard>
-		<RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-		<RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
-		<!-- <CollapseSymptomRef>SYM_OL_DEATH</CollapseSymptomRef> -->
-		<RiskOfDeathStartHours>1</RiskOfDeathStartHours>
-		<RiskOfDeathEndHours>36</RiskOfDeathEndHours>
-		<PatientMobility>MOBILE</PatientMobility>
-
-		<Examinations>
-			<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_TESTING</ExaminationRef>
-		</Examinations>
-
-		<ShameLevel>0</ShameLevel>
-		<IsMainSymptom>true</IsMainSymptom>
-
-		<IconIndex>1</IconIndex>
-
-		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_011</CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_012</CustomIconSmallAssetRef>
-
-	</GameDBSymptom>
-
-
 	<GameDBSymptom ID="SYM_DIAG_CLARKSONS">
 		<DescriptionLocID>SYM_DIAG_CLARKSONS_DESC</DescriptionLocID>
 		<DiscomfortLevel>None</DiscomfortLevel>

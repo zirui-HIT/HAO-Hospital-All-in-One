@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
 
-    
+
     <GameDBMedicalCondition ID="DIA_EPI">
         <AbbreviationLocID>DIA_EPI_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -54,22 +54,22 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>15</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_ATHEROSCLEROSIS</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_ATHEROSCLEROSIS</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_IRREGULAR_HEARTBEAT</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_IRREGULAR_HEARTBEAT</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_ECHO</ExaminationRef> 
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
             <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
             <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
             <ExaminationRef>EXM_ECG</ExaminationRef>
@@ -80,10 +80,10 @@
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_PERT</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef> 
-            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_REST</TreatmentRef>
         </Treatments>
         <IconIndex>1067</IconIndex>
@@ -94,7 +94,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_THD">
         <AbbreviationLocID>DIA_THD_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -142,34 +142,34 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_IRREGULAR_HEARTBEAT</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_IRREGULAR_HEARTBEAT</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_HYPERTENSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_HYPERTENSION</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
             <ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
-            <ExaminationRef>EXM_ECG</ExaminationRef> 
+            <ExaminationRef>EXM_ECG</ExaminationRef>
             <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
-            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef> 
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
-            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
         </Treatments>
         <IconIndex>1069</IconIndex>
@@ -180,7 +180,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_HPT">
         <AbbreviationLocID>DIA_HPT_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -253,17 +253,17 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_LDL_HIGH_LEVEL</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_LDL_HIGH_LEVEL</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_ATHEROSCLEROSIS</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_ATHEROSCLEROSIS</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
             <ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
@@ -278,8 +278,8 @@
         <Treatments>
             <TreatmentRef>TRT_SYNTHETIC_THYROID_HORMONES</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef> 
-            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef> 
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
             <TreatmentRef>TRT_REST</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
@@ -292,7 +292,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_HRT">
         <AbbreviationLocID>DIA_HRT_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -340,22 +340,22 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_HYPERTENSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_HYPERTENSION</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_IRREGULAR_HEARTBEAT</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_IRREGULAR_HEARTBEAT</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
-            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef> 
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_ECG</ExaminationRef>
             <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
@@ -365,11 +365,11 @@
             <TreatmentRef>TRT_ANTITHYROID_MEDICATION</TreatmentRef>
             <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
-            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef> 
-            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef> 
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1073</IconIndex>
@@ -381,7 +381,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OES">
         <AbbreviationLocID>DIA_OES_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -429,12 +429,12 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>50</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_WEIGHT_LOSS</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_WEIGHT_LOSS</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
             <ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
@@ -448,8 +448,8 @@
             <TreatmentRef>TRT_ANTACIDS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1075</IconIndex>
@@ -461,7 +461,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OEV">
         <AbbreviationLocID>DIA_OEV_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -504,12 +504,12 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_INTERNAL_BLEEDING_STOMACH</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_INTERNAL_BLEEDING_STOMACH</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_BARRIUM_SWALLOV_X_RAY</ExaminationRef>
             <ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
@@ -531,7 +531,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_HBP">
         <AbbreviationLocID>DIA_HBP_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -594,12 +594,12 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_HYPERACIDITY</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_HYPERACIDITY</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
@@ -611,7 +611,7 @@
             <TreatmentRef>TRT_TRIPLE_THERAPY_TREATMENT</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
-            <TreatmentRef>TRT_ANTACIDS</TreatmentRef> 
+            <TreatmentRef>TRT_ANTACIDS</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_REST</TreatmentRef>
         </Treatments>
@@ -623,7 +623,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_GAU">
         <AbbreviationLocID>DIA_GAU_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -681,12 +681,12 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>10</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_INTERNAL_BLEEDING_STOMACH</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_INTERNAL_BLEEDING_STOMACH</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
@@ -696,12 +696,12 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_PROTON_PUMP_INHIBITORS</TreatmentRef>
-            <TreatmentRef>TRT_ENDOSCOPIC_CAUTERIZATION</TreatmentRef> 
+            <TreatmentRef>TRT_ENDOSCOPIC_CAUTERIZATION</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_ANTACIDS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1079</IconIndex>
@@ -712,7 +712,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_GAS">
         <AbbreviationLocID>DIA_GAS_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -765,21 +765,21 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>35</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_ANEMIA</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_ANEMIA</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_SEPTIC_SHOCK</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_SEPTIC_SHOCK</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef> 
-            <ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef> 
+            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
@@ -787,9 +787,9 @@
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef> 
-            <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef> 
-            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef> 
+            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
+            <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1079</IconIndex>
@@ -800,7 +800,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_DUO">
         <AbbreviationLocID>DIA_DUO_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -843,22 +843,22 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_INTESTINAL_BLEEDING</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_INTESTINAL_BLEEDING</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>20</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef> 
-            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef> 
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
             <ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
@@ -867,8 +867,8 @@
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-            <TreatmentRef>TRT_ENDOSCOPIC_CAUTERIZATION</TreatmentRef> 
-            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef> 
+            <TreatmentRef>TRT_ENDOSCOPIC_CAUTERIZATION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
@@ -880,7 +880,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_APP">
         <AbbreviationLocID>DIA_APP_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -938,16 +938,16 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_CRP</ExaminationRef>
-            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef> 
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
@@ -956,13 +956,13 @@
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
-			 <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
-			<TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef> 
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
         </Treatments>
         <IconIndex>1083</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -972,7 +972,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CRH">
         <AbbreviationLocID>DIA_CRH_DESCRIPTION</AbbreviationLocID>
         <Duration>5</Duration>
@@ -1045,7 +1045,7 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_VITAMIN_DEFICIENCY</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_VITAMIN_DEFICIENCY</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
@@ -1055,7 +1055,7 @@
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
@@ -1069,12 +1069,12 @@
             <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef> 
-            <TreatmentRef>TRT_STOMACHICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
+            <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1085</IconIndex>
@@ -1086,7 +1086,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_ULC">
         <AbbreviationLocID>DIA_ULC_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -1154,12 +1154,12 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_DEHYDRATION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_DEHYDRATION</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
@@ -1173,10 +1173,10 @@
         <Treatments>
             <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef> 
+            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
             <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
@@ -1189,7 +1189,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_IBS">
         <AbbreviationLocID>DIA_IBS_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1246,7 +1246,7 @@
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
@@ -1259,7 +1259,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_FDR">
         <AbbreviationLocID>DIA_FDR_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -1307,17 +1307,17 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_DEHYDRATION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_DEHYDRATION</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_EXCESSIVE_BURPING</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_EXCESSIVE_BURPING</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
@@ -1326,11 +1326,11 @@
         <Treatments>
             <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_REHYDRATION</TreatmentRef> 
-            <TreatmentRef>TRT_STOMACHICS</TreatmentRef> 
-            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef> 
+            <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+            <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1087</IconIndex>
@@ -1341,7 +1341,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_FOI">
         <AbbreviationLocID>DIA_FOI_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1382,15 +1382,15 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-			 <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			  <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-			     <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1089</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1400,7 +1400,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_PER">
         <AbbreviationLocID>DIA_PER_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1458,34 +1458,34 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			 
+
             <ExaminationRef>EXM_CRP</ExaminationRef>
             <ExaminationRef>EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef> 
-            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef> 
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			    <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
-            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1091</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1495,7 +1495,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_HEF">
         <AbbreviationLocID>DIA_HEF_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1553,19 +1553,19 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_A1AT_DEFICIENCY</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_A1AT_DEFICIENCY</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_CRP</ExaminationRef>
             <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_FAST</ExaminationRef>
-            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef> 
+            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_TRANSIENT_ELASTOGRAPHY</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
@@ -1576,7 +1576,7 @@
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
             <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
-            <TreatmentRef>TRT_A1AT_REPLACEMENT</TreatmentRef> 
+            <TreatmentRef>TRT_A1AT_REPLACEMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1093</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1586,7 +1586,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CIR">
         <AbbreviationLocID>DIA_CIR_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -1659,24 +1659,24 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>50</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_CONFUSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_CONFUSION</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_HYPERTENSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_HYPERTENSION</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_USG</ExaminationRef>
-            <ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef> 
-            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef> 
+            <ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_TRANSIENT_ELASTOGRAPHY</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
@@ -1686,9 +1686,9 @@
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
             <TreatmentRef>TRT_A1AT_REPLACEMENT</TreatmentRef>
             <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
-            <TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
         </Treatments>
         <IconIndex>1095</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1698,7 +1698,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CLT">
         <AbbreviationLocID>DIA_CLT_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1751,31 +1751,31 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>40</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_GALLBLADDER_RUPTURE</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_GALLBLADDER_RUPTURE</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_FAST</ExaminationRef>
-            
+
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
-			
-            <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef> 
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-			     <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-				   <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+
+            <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1097</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1785,7 +1785,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CLS">
         <AbbreviationLocID>DIA_CLS_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1823,31 +1823,31 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>50</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_GALLBLADDER_RUPTURE</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_GALLBLADDER_RUPTURE</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_FAST</ExaminationRef>
-            
+
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-            <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef> 
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-			     <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-				   <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1099</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1857,7 +1857,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CLA">
         <AbbreviationLocID>DIA_CLA_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1868,7 +1868,7 @@
                 <ProbabilityPercent>70</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
             </GameDBSymptomRules>
-			<GameDBSymptomRules>
+            <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>40</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_HYPOTENSION</GameDBSymptomRef>
@@ -1913,7 +1913,7 @@
                 <ProbabilityPercent>50</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_NIGHT_SWEATS</GameDBSymptomRef>
             </GameDBSymptomRules>
-			<GameDBSymptomRules>
+            <GameDBSymptomRules>
                 <DayOfFirstOccurence>1</DayOfFirstOccurence>
                 <ProbabilityPercent>25</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_BACTEREMIA</GameDBSymptomRef>
@@ -1930,25 +1930,25 @@
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
             <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
-			<ExaminationRef>EXM_USG</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
-            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef> 
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
         </Treatments>
         <IconIndex>1099</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -1958,7 +1958,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_APT">
         <AbbreviationLocID>DIA_APT_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1969,7 +1969,7 @@
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_ABDOMINAL_PAIN</GameDBSymptomRef>
             </GameDBSymptomRules>
-			 <GameDBSymptomRules>
+            <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_PANCREATIC_ENZYMES_ELEVATED_RCDI</GameDBSymptomRef>
@@ -2021,60 +2021,60 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>40</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_MALNUTRITION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_MALNUTRITION</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>1</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_PORTAL_HYPERTENSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_PORTAL_HYPERTENSION</GameDBSymptomRef>
             </GameDBSymptomRules>
-			<GameDBSymptomRules>
+            <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>40</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_CRP_HIGH</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_CRP_HIGH</GameDBSymptomRef>
             </GameDBSymptomRules>
-			<GameDBSymptomRules>
+            <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>40</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_HYPOTENSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_HYPOTENSION</GameDBSymptomRef>
             </GameDBSymptomRules>
-			<GameDBSymptomRules>
+            <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>60</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_GALLSTONES_RCDI</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_GALLSTONES_RCDI</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>10</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_HYPOCALCAEMIA</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_HYPOCALCAEMIA</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_ECG</ExaminationRef>
             <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
             <ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef> 
-            <ExaminationRef>EXM_USG</ExaminationRef> 
+            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_CT</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
             <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
-            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef> 
-            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef> 
-            <TreatmentRef>TRT_INTRAVENOUS_CALCIUM_GLUCONATE</TreatmentRef> 
+            <TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_CALCIUM_GLUCONATE</TreatmentRef>
             <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
-			<TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef> 			
+            <TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
         </Treatments>
         <IconIndex>1101</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2084,7 +2084,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_COE">
         <AbbreviationLocID>DIA_COE_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -2137,33 +2137,33 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>40</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_MALNUTRITION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_MALNUTRITION</GameDBSymptomRef>
             </GameDBSymptomRules>
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>30</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_OSTEOPOROSIS</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_OSTEOPOROSIS</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef> 
-            <ExaminationRef>EXM_CT</ExaminationRef> 
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
             <ExaminationRef>EXM_SEROLOGY_TESTING_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
             <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			 <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
-            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef> 
-            <TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef> 
-            <TreatmentRef>TRT_REST</TreatmentRef> 
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+            <TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
+            <TreatmentRef>TRT_REST</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1103</IconIndex>
@@ -2175,7 +2175,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_LIP">
         <AbbreviationLocID>TRM_LIP_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2230,11 +2230,11 @@
             <TreatmentRef>TRT_PRESSURE_BANDAGE</TreatmentRef>
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			   <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			    <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
         </Treatments>
         <IconIndex>1113</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2244,7 +2244,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_LIB">
         <AbbreviationLocID>TRM_LIB_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2324,7 +2324,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_SRB">
         <AbbreviationLocID>TRM_SRB_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2404,13 +2404,13 @@
             <TreatmentRef>TRT_EMERGENCY_CARE</TreatmentRef>
             <TreatmentRef>TRT_COLD_TILING</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-			    <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
             <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
             <TreatmentRef>TRT_REST</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1119</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2420,7 +2420,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_SRP">
         <AbbreviationLocID>TRM_SRP_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2475,11 +2475,11 @@
             <TreatmentRef>TRT_PRESSURE_BANDAGE</TreatmentRef>
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-			     <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-				   <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			   
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+
         </Treatments>
         <IconIndex>1117</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2489,7 +2489,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_SCB">
         <AbbreviationLocID>TRM_SCB_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2539,7 +2539,7 @@
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
             <TreatmentRef>TRT_NSAIDS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1119</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2549,7 +2549,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_PCB">
         <AbbreviationLocID>TRM_PCB_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2588,7 +2588,7 @@
             <TreatmentRef>TRT_EMERGENCY_CARE</TreatmentRef>
             <TreatmentRef>TRT_COLD_TILING</TreatmentRef>
             <TreatmentRef>TRT_INTRAVENOUS_NUTRITION</TreatmentRef>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1123</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2598,7 +2598,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_PLB">
         <AbbreviationLocID>TRM_PLB_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2651,11 +2651,11 @@
             <TreatmentRef>TRT_COLD_TILING</TreatmentRef>
             <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			  <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>  
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> 
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
         </Treatments>
         <IconIndex>1123</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2665,7 +2665,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="TRM_PCP">
         <AbbreviationLocID>TRM_PCP_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2715,10 +2715,10 @@
             <TreatmentRef>TRT_PRESSURE_BANDAGE</TreatmentRef>
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
             <TreatmentRef>TRT_ABDOMINAL_SURGERY</TreatmentRef>
-			  <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			  <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
-			   <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
-			     <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_ANTISEPTICS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
         </Treatments>
         <IconIndex>1121</IconIndex>
         <DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
@@ -2728,7 +2728,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_048">
         <AbbreviationLocID>DIA_048_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -2792,8 +2792,8 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
-			 <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
-			  <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_ANTIDIARRHEALS</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
@@ -2808,9 +2808,6 @@
     </GameDBMedicalCondition>
 
 
-    
-
-    
     <GameDBMedicalCondition ID="DIA_HEPA">
         <AbbreviationLocID>DIA_HEPA_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -2886,7 +2883,7 @@
             <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
             <TreatmentRef>TRT_REST</TreatmentRef>
             <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
         </Treatments>
         <IconIndex>1065</IconIndex>
@@ -2899,7 +2896,7 @@
         <Disabled>true</Disabled>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_HEPB">
         <AbbreviationLocID>DIA_HEPB_DESCRIPTION</AbbreviationLocID>
         <Duration>4</Duration>
@@ -2962,17 +2959,17 @@
             <GameDBSymptomRules>
                 <DayOfFirstOccurence>0</DayOfFirstOccurence>
                 <ProbabilityPercent>25</ProbabilityPercent>
-                <GameDBSymptomRef>SYM_PORTAL_HYPERTENSION</GameDBSymptomRef> 
+                <GameDBSymptomRef>SYM_PORTAL_HYPERTENSION</GameDBSymptomRef>
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            
+
             <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_USG</ExaminationRef> 
+            <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
@@ -2982,8 +2979,8 @@
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
             <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
-            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef> 
-            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef> 
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
             <TreatmentRef>TRT_REST</TreatmentRef>
         </Treatments>
         <IconIndex>1065</IconIndex>

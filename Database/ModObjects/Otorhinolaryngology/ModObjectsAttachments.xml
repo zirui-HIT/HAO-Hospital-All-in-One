@@ -16,7 +16,7 @@
         <PlacedToEdge>false</PlacedToEdge>
         <AttachedToWall>false</AttachedToWall>
         <AttachedToObject>true</AttachedToObject>
-        <AllowsObjectsOnWallsAbove>false</AllowsObjectsOnWallsAbove>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
 
         <UseAnimations>
             <Animation>use_equipment_low</Animation>
@@ -29,6 +29,87 @@
         </Tags>
 
         <Cost>199</Cost>
+    </GameDBObject>
+
+    <GameDBObject ID="OBJECT_TABLE_EQUIPMENT">
+        <AbbreviationLocID>OBJECT_TABLE_EQUIPMENT_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>472</TextureIDNW>
+        <TextureIDNE>473</TextureIDNE>
+        <TextureIDSE>474</TextureIDSE>
+        <TextureIDSW>475</TextureIDSW>
+        <IconIndex>771</IconIndex>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+
+        <AttachmentSlot>
+            <HeightOffset>0.9</HeightOffset>
+            <AllowedTags>
+                <Tag>big_printer</Tag>
+                <Tag>ui_plants</Tag>
+                <Tag>pc</Tag>
+                <Tag>tv</Tag>
+                <Tag>radio</Tag>
+                <Tag>printer</Tag>
+                <Tag>lab_eq_small</Tag>
+                <Tag>microscope</Tag>
+                <Tag>hematoanalyzer</Tag>
+                <Tag>defibrillator</Tag>
+                <Tag>surgery_instruments</Tag>
+                <Tag>electrocautery_machine</Tag>
+                <Tag>fast_usg</Tag>
+                <Tag>RIA</Tag>
+                <Tag>tonometer</Tag>
+                <Tag>audiometer</Tag>
+                <Tag>crp_scan</Tag>
+                <Tag>spirometer</Tag>
+                <Tag>shockwave</Tag>
+                <Tag>lab_analyzer</Tag>
+                <Tag>stool_analyzer</Tag>
+                <Tag>thermal_cycler</Tag>
+                <Tag>electrocardiograph</Tag>
+                <Tag>campimeter</Tag>
+                <Tag>ui_coffee_machine</Tag>
+                <Tag>ui_sandwich</Tag>
+                <Tag>ui_cutlery</Tag>
+                <Tag>ui_juice</Tag>
+                <Tag>ui_fruit_snack</Tag>
+                <Tag>ui_donut_snack</Tag>
+                <Tag>ui_pathology_instruments</Tag>
+                <Tag>ui_polysomnograph</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+        <!--  <RequiredObjectsInRoom>
+            <RequiredObject>
+                <Tag>shockwave</Tag>
+                <MaxDistance>0</MaxDistance>
+                <RoomTag>shockwave</RoomTag>
+            </RequiredObject>
+            <RequiredObject>
+                <Tag>electrocardiograph</Tag>
+                <MaxDistance>0</MaxDistance>
+                <RoomTag>electrocardiograph</RoomTag>
+            </RequiredObject>
+        </RequiredObjectsInRoom>-->
+
+        <AttachedToObject>false</AttachedToObject>
+        <Placement>INDOORS</Placement>
+
+        <Tags>
+            <Tag>ui_furniture</Tag>
+            <Tag>table_equipment</Tag>
+            <Tag>ui_equipment_table</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_EQUIPMENT_CABINETS</ColorSetRef>
+
+        <Cost>99</Cost>
     </GameDBObject>
 
 </Database>
