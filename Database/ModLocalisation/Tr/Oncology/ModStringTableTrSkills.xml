@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_ONCOLOGY_SKILLS">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+    </Contributors>
+    <LocalizedStrings>
+      
+      <GameDBLocalizedString>
+        <LocID>DPT_ONCOLOGY</LocID>
+        <Text>Onkoloji</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO</LocID>
+        <Text>Onkoloji</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>
+        <Text>Onkoloji bölümü, farklı kanser türlerini tespit etmek, tanısını koymak ve tedavi etmek için gerekli prosedürlere olanak tanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>
+        <Text>Cerrahi Onkoloji</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>
+        <Text>Cerrahi Onkoloji, hekimin Onkoloji bölümünde baş cerrah olarak görev almasına olanak tanır ve ameliyatların komplikasyon riskini etkiler.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

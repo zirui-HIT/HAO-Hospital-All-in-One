@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    
+    <GameDBSymptom ID="SYM_CLOSED_ANGLE">
+        <DescriptionLocID>SYM_CLOSED_ANGLE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_GONIOSCOPY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_LASER_PI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1773</IconIndex>
+    </GameDBSymptom>
+
+    
+
+    
+    <GameDBSymptom ID="SYM_OPH_RETINAL_BREAK_DETACHMENT_SEEN">
+        <DescriptionLocID>SYM_OPH_RETINAL_BREAK_DETACHMENT_SEEN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_RETINAL_REATTACHMENT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1765</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_ANTERIOR_CHAMBER_CELLS_FLARE">
+        <DescriptionLocID>SYM_OPH_ANTERIOR_CHAMBER_CELLS_FLARE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ATROPINE_EYEDROP</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1687</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_LENS_OPACITY_SEEN">
+        <DescriptionLocID>SYM_OPH_LENS_OPACITY_SEEN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_PHACOEMULSIFICATION_SURGERY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1687</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_CENTRAL_VISION_LOSS">
+        <DescriptionLocID>SYM_OPH_CENTRAL_VISION_LOSS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1477</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_AMD_OCT_FA_CONFIRM">
+        <DescriptionLocID>SYM_OPH_AMD_OCT_FA_CONFIRM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1687</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_ORBITAL_CELLULITIS">
+        <DescriptionLocID>SYM_OPH_ORBITAL_CELLULITIS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1143</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_PURULENT_LID_PUSTULE">
+        <DescriptionLocID>SYM_OPH_PURULENT_LID_PUSTULE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1169</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_DR_FINDINGS_CONFIRMED">
+        <DescriptionLocID>SYM_OPH_DR_FINDINGS_CONFIRMED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1563</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_PTOSIS_LID_DROOP">
+        <DescriptionLocID>SYM_OPH_PTOSIS_LID_DROOP_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_PTOSIS_REPAIR</TreatmentRef>
+        </Treatments>
+        <ShameLevel>1</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1767</IconIndex>
+    </GameDBSymptom>
+
+    
+
+    
+    <GameDBSymptom ID="SYM_OPH_MGD_ORIFICE_OBSTRUCTION">
+        <DescriptionLocID>SYM_OPH_MGD_ORIFICE_OBSTRUCTION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1687</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_PTERYGIUM_GROWTH_SEEN">
+        <DescriptionLocID>SYM_OPH_PTERYGIUM_GROWTH_SEEN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1767</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_ENTROPION_WITH_TRICHIASIS">
+        <DescriptionLocID>SYM_OPH_ENTROPION_WITH_TRICHIASIS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1143</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_ECTROPION_WITH_PUNCTAL_EVERSION">
+        <DescriptionLocID>SYM_OPH_ECTROPION_WITH_PUNCTAL_EVERSION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1687</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_DENDRITIC_ULCER_STAIN_POSITIVE">
+        <DescriptionLocID>SYM_OPH_DENDRITIC_ULCER_STAIN_POSITIVE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1767</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_ABNORMAL_MEIBUM_EXPRESSION">
+        <DescriptionLocID>SYM_OPH_ABNORMAL_MEIBUM_EXPRESSION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1169</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_LACRIMAL_SAC_REFLUX">
+        <DescriptionLocID>SYM_OPH_LACRIMAL_SAC_REFLUX_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1169</IconIndex>
+    </GameDBSymptom>
+
+    
+
+    
+    <GameDBSymptom ID="SYM_OPH_MYOPIA_DEFINING">
+        <DescriptionLocID>SYM_OPH_MYOPIA_DEFINING_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1689</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_SCISSORING_REFLEX">
+        <DescriptionLocID>SYM_OPH_SCISSORING_REFLEX_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1687</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_WEISS_RING_SEEN">
+        <DescriptionLocID>SYM_OPH_WEISS_RING_SEEN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1765</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_CHOROIDAL_LESIONS_ACTIVE">
+        <DescriptionLocID>SYM_OPH_CHOROIDAL_LESIONS_ACTIVE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1765</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_VITRITIS_ACTIVE_CELLS">
+        <DescriptionLocID>SYM_OPH_VITRITIS_ACTIVE_CELLS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1477</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_RAPD_POSITIVE">
+        <DescriptionLocID>SYM_OPH_RAPD_POSITIVE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_CORTICOSTEROID_SHOCK_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1641</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_RETINAL_MICROANEURYSMS">
+        <DescriptionLocID>SYM_OPH_RETINAL_MICROANEURYSMS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+
+        
+        <IconIndex>1765</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM">
+        <DescriptionLocID>SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_VISION_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1689</IconIndex>
+    </GameDBSymptom>
+
+    
+    <GameDBSymptom ID="SYM_OPH_LOCALIZED_LID_NODULE">
+        <DescriptionLocID>SYM_OPH_LOCALIZED_LID_NODULE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+
+        <IconIndex>1767</IconIndex>
+        <CustomIconBigAssetRef>ASSET_OPH_EYECID_A</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OPH_EYECID_B</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+</Database>

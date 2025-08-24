@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_HU_ADDON_CRP_SLEEPY_EXAMINATIONS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT</LocID>                                      
+			<Text>Katekolamin vérminta</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_DESC</LocID>                                      
+			<Text>A katekolamin vérvizsgálatok mérik a katekolaminok mennyiségét a szervezetben. A „katekolaminok” a dopamin, a noradrenalin és az adrenalin hormonok ernyőfogalma. \n\nRequired Lab: Haematology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST</LocID>                                      
+			<Text>Katekolamin vérvizsgálat</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>                                      
+			<Text>A katekolamin vérvizsgálatok mérik a katekolaminok mennyiségét a szervezetben. A „katekolaminok” a dopamin, a noradrenalin és az adrenalin hormonok ernyőfogalma.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA</LocID>                                      
+			<Text>CA vérvétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_DESC</LocID>                                      
+			<Text>A Cancer Antigen (CA) teszt egy vérvizsgálat, amelyet bizonyos típusú rákok diagnosztizálásához és kezeléséhez használnak. A tumormarkerek olyan anyagok, általában fehérjék, amelyeket a szervezet termel a rák növekedésére reagálva, vagy maga a rákszövet. Egyes tumor markerek specifikusak egy ráktípusra, míg mások több ráktípusra jellemzőek. A jól ismert markerek közül sok a nem rákos állapotokban, valamint a rákban is megfigyelhető. Következésképpen nem használhatók rák diagnosztizálására. \n\nRequired Lab: Haematology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST</LocID>                                      
+			<Text>CA vérvizsgálat</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST_DESC</LocID>                                      
+			<Text>A Cancer Antigen (CA) teszt egy vérvizsgálat, amelyet bizonyos típusú rákok diagnosztizálásához és kezeléséhez használnak. A tumormarkerek olyan anyagok, általában fehérjék, amelyeket a szervezet termel a rák növekedésére reagálva, vagy maga a rákszövet. Egyes tumor markerek specifikusak egy ráktípusra, míg mások több ráktípusra jellemzőek. A jól ismert markerek közül sok a nem rákos állapotokban, valamint a rákban is megfigyelhető. Következésképpen nem használhatók rák diagnosztizálására.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY</LocID>                                      
+			<Text>Kolonoszkópia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>A kolonoszkópia olyan orvosi eljárás, amelyet rák, vastagbélpolipok vagy más rendellenességek keresésére végeznek a belében. A kolonoszkópiát egy kolonoszkóp (egyfajta endoszkóp) nevű műszer segítségével végezzük - egy hosszú, vékony, rugalmas csövet, amely kamerát és fényt tartalmaz.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS</LocID>                                      
+			<Text>Vizelet antigén képernyő mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_DESC</LocID>                                      
+			<Text>Vizeletvizsgálat a rák alapú antigének mennyiségének ellenőrzésére a vizeletben. A vizelettel történő kiválasztáshoz a vesékben lévő különféle kórokozók által leadott antigén koncentrációjának kiaknázásával vizeletantigén-vizsgálattal lehet gyors vizsgálati eredményeket elérni. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST</LocID>                                      
+			<Text>Vizelet antigén képernyő teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST_DESC</LocID>                                      
+			<Text>Vizeletvizsgálat a rák alapú antigének mennyiségének ellenőrzésére a vizeletben. A vizelettel történő kiválasztáshoz a vesékben lévő különféle kórokozók által leadott antigén koncentrációjának kiaknázásával vizeletantigén-vizsgálattal lehet gyors vizsgálati eredményeket elérni.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>Csontvelő biopsziás minta</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>A csontvelő biopsziája egy hengeres magmintát gyűjt, amely megőrzi a velő szerkezetét. A biopsziás mintát egy szakember értékeli a cellularitás meghatározása érdekében, a sejtek térfogatát összehasonlítják a csontvelő egyéb komponenseinek térfogatával, hogy a különböző sejtvonalak megfelelő számban vannak-e jelen és vannak-e rendellenes infiltrátumok a csontvelőben. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>Csontvelő biopszia teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>A csontvelő biopsziája egy hengeres magmintát gyűjt, amely megőrzi a velő szerkezetét. A biopsziás mintát egy szakember értékeli a cellularitás meghatározása érdekében, a sejtek térfogatát összehasonlítják a csontvelő egyéb komponenseinek térfogatával, hogy a különböző sejtvonalak megfelelő számban vannak-e jelen és vannak-e rendellenes infiltrátumok a csontvelőben.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT</LocID>                                      
+			<Text>Áramlási citometriás minta</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_DESC</LocID>                                      
+			<Text>Az áramlási citometria a sejtek vagy részecskék populációjának fizikai és kémiai jellemzőinek kimutatására és mérésére szolgál. A sejteket vagy részecskéket tartalmazó mintát egy folyadékban szuszpendáljuk, és az áramlási citométer készülékbe injektáljuk. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST</LocID>                                      
+			<Text>Áramlási citometriás teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>Az áramlási citometria a sejtek vagy részecskék populációjának fizikai és kémiai jellemzőinek kimutatására és mérésére szolgál. A sejteket vagy részecskéket tartalmazó mintát egy folyadékban szuszpendáljuk, és az áramlási citométer készülékbe injektáljuk.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CBC_SAMPLING</LocID>                                      
+			<Text>(Onkológia) CBC mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>Vérkenet mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>A vérfólia - vagy perifériás vérkenet - egy vékony vérréteg, amelyet egy üvegmikroszkóp tárgylemezére kennek, majd festenek oly módon, hogy lehetővé tegyék a különféle vérsejtek mikroszkópos vizsgálatát. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>Vérkenet minta tesztelése</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>A vérfólia - vagy perifériás vérkenet - egy vékony vérréteg, amelyet egy üvegmikroszkóp tárgylemezére kennek, majd festenek oly módon, hogy lehetővé tegyék a különféle vérsejtek mikroszkópos vizsgálatát.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>Májfunkciós teszt mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>A májfunkciós tesztek (más néven LFT-k) olyan vérvizsgálatok, amelyek információkat nyújthatnak a máj működéséről. Számos fehérje és enzim szintjét tesztelik, amelyeket vagy a májsejtek termelnek, vagy a májsejtek károsodása esetén a vérbe engednek. \n\nRequired Lab: Haematology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST</LocID>                                      
+			<Text>Májfunkciós teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>A májfunkciós tesztek (más néven LFT-k) olyan vérvizsgálatok, amelyek információkat nyújthatnak a máj működéséről. Számos fehérje és enzim szintjét tesztelik, amelyeket vagy a májsejtek termelnek, vagy a májsejtek károsodása esetén a vérbe engednek.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE</LocID>                                      
+			<Text>F.I.S.H. Mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>A fluoreszcencia in situ hibridizáció (FISH) egy molekuláris citogenetikai technika, amely fluoreszcens szondákat alkalmaz, amelyek a nukleinsav-szekvencia csak azokhoz a részeihez kötődnek, nagyfokú szekvencia-komplementaritással. Az orvostudományi kutatók az 1980-as évek elején fejlesztették ki a specifikus DNS-szekvenciák jelenlétének vagy hiányának kimutatására és lokalizálására a kromoszómákon. Fluoreszcens mikroszkóppal megtudhatjuk, hol kötődik a fluoreszcens szonda a kromoszómákhoz. A FISH-t gyakran használják a DNS specifikus jellemzőinek felkutatására genetikai tanácsadásban, orvostudományban és a fajok azonosításában. A FISH alkalmazható specifikus RNS-célpontok (mRNS, lncRNS és miRNS) detektálására és lokalizálására a sejtekben, a keringő tumorsejtekben és a szövetmintákban is. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST</LocID>                                      
+			<Text>F.I.S.H. Tesztelése</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST_DESC</LocID>                                      
+			<Text>A fluoreszcencia in situ hibridizáció (FISH) egy molekuláris citogenetikai technika, amely fluoreszcens szondákat alkalmaz, amelyek a nukleinsav-szekvencia csak azokhoz a részeihez kötődnek, nagyfokú szekvencia-komplementaritással. Az orvostudományi kutatók az 1980-as évek elején fejlesztették ki a specifikus DNS-szekvenciák jelenlétének vagy hiányának kimutatására és lokalizálására a kromoszómákon. Fluoreszcens mikroszkóppal megtudhatjuk, hol kötődik a fluoreszcens szonda a kromoszómákhoz. A FISH-t gyakran használják a DNS specifikus jellemzőinek felkutatására genetikai tanácsadásban, orvostudományban és a fajok azonosításában. A FISH alkalmazható specifikus RNS-célpontok (mRNS, lncRNS és miRNS) detektálására és lokalizálására a sejtekben, a keringő tumorsejtekben és a szövetmintákban is.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>In vitro festéses mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>A festés egy olyan technika, amelyet a minták kontrasztjának fokozására használnak, általában mikroszkopikus szinten. A foltokat és a színezékeket gyakran használják a szövettanban (a szövet mikroszkóppal végzett vizsgálata), valamint a hisztopatológia, a hematológia és a citopatológia orvosi területein, amelyek a vizsgálatra összpontosítanak és mikroszkópos szinten diagnosztizálják a betegségeket. A foltok felhasználhatók biológiai szövetek (például izomrostok vagy kötőszövet kiemelése), sejtpopulációk (különböző vérsejtek osztályozása) vagy organellumok meghatározására az egyes sejteken belül. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST</LocID>                                      
+			<Text>In vitro festéses teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>A festés egy olyan technika, amelyet a minták kontrasztjának fokozására használnak, általában mikroszkopikus szinten. A foltokat és a színezékeket gyakran használják a szövettanban (a szövet mikroszkóppal végzett vizsgálata), valamint a hisztopatológia, a hematológia és a citopatológia orvosi területein, amelyek a vizsgálatra összpontosítanak és mikroszkópos szinten diagnosztizálják a betegségeket. A foltok felhasználhatók biológiai szövetek (például izomrostok vagy kötőszövet kiemelése), sejtpopulációk (különböző vérsejtek osztályozása) vagy organellumok meghatározására az egyes sejteken belül.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>Mammográfia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>A mammográfia az emlőszövet röntgenfelvétele, amely túl kicsi változásokat észlel ahhoz, hogy a fizikai vizsgálat során érezhető legyen. \n\nRequired Room: X-Ray</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE</LocID>                                      
+			<Text>Finom tű aspirációs minta</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>A finom tűszívás gyorsabb, kevésbé fájdalmas biopsziás eljárás a szövet-, sejt- vagy folyadékminták eltávolítására. Finom tűszívás esetén egy vékony tűt helyeznek a kórosan megjelenő szövet vagy testfolyadék területére. Csakúgy, mint más típusú biopsziák esetében, a finom tűszívás során gyűjtött minta segíthet diagnózis felállításában vagy kizárhatja az olyan betegségeket, mint a rák. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST</LocID>                                      
+			<Text>Finom tű aspirációs teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST_DESC</LocID>                                      
+			<Text>A finom tűszívás gyorsabb, kevésbé fájdalmas biopsziás eljárás a szövet-, sejt- vagy folyadékminták eltávolítására. Finom tűszívás esetén egy vékony tűt helyeznek a kórosan megjelenő szövet vagy testfolyadék területére. Csakúgy, mint más típusú biopsziák esetében, a finom tűszívás során gyűjtött minta felhasználható a diagnózis alátámasztására.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>                                      
+			<Text>Elektronmikroszkópos minta</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>A diagnosztikai elektronmikroszkópiát fontos diagnosztikai eszközként használják az emberi szövetek nagy nagyítású (ultrastrukturális szinten) szűrésére. Diagnosztikai célokra szilárd szöveteket készítenek a TEM-hez ugyanúgy, mint más biológiai szöveteket, glutáraldehidbe és ozmium-tetroxidba rögzítik, majd dehidratálják és epoxigyantába ágyazzák. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST</LocID>                                      
+			<Text>Elektronmikroszkópos teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>A diagnosztikai elektronmikroszkópiát fontos diagnosztikai eszközként használják az emberi szövetek nagy nagyítású (ultrastrukturális szinten) szűrésére. Diagnosztikai célokra szilárd szöveteket készítenek a TEM-hez ugyanúgy, mint más biológiai szöveteket, glutáraldehidbe és ozmium-tetroxidba rögzítik, majd dehidratálják és epoxigyantába ágyazzák.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM</LocID>                                      
+			<Text>Medencevizsgálat</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>A kismedencei vizsgálat az orvos vizuális és fizikai vizsgálata a nő reproduktív szerveiről. A vizsga során az orvos megvizsgálja a hüvelyt, a méhnyakot, a petevezetékeket, a vulvát, a petefészket és a méhet.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM</LocID>                                      
+			<Text>Digitális végbélvizsga (DRE)</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>                                      
+			<Text>A digitális rektális vizsgálat (DRE) teszt mind a férfiak, mind a nők számára. Lehetővé teszi az orvos számára, hogy ellenőrizze az alsó végbél, a medence és az alhas rákot és egyéb egészségügyi problémákat, például prosztatarákot.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>                                      
+			<Text>Átfogó ásványi anyag mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>Az Átfogó Ásványi Anyag tesztelése magában foglalja a vér öt ásványi anyag vizsgálatát, és hiányosságok vagy túlexponálás (toxicitás) kimutatására szolgál az ásványi spektrumban. Ez a panel a következő öt ásványi anyag tesztelését tartalmazza: kalcium, réz, magnézium, mangán és cink. \n\nRequired Lab: Haematology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST</LocID>                                      
+			<Text>Átfogó ásványi anyag minta tesztelése</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>Az Átfogó Ásványi Anyag tesztelése magában foglalja a vér öt ásványi anyag vizsgálatát, és hiányosságok vagy túlexponálás (toxicitás) kimutatására szolgál az ásványi spektrumban. Ez a panel a következő öt ásványi anyag tesztelését tartalmazza: kalcium, réz, magnézium, mangán és cink.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>Nyirokcsomó biopsziás mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>A nyirokcsomó-biopszia olyan vizsgálat, amelynek során egy nyirokcsomót vagy egy nyirokcsomó-darabot eltávolítanak mikroszkóp alatt történő vizsgálat céljából. A nyirokcsomó-biopszia segíthet annak megállapításában, hogy a betegnek fertőzése, immunrendellenessége vagy rákja van-e. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>Nyirokcsomó biopszia teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>A nyirokcsomó-biopszia olyan vizsgálat, amelynek során egy nyirokcsomót vagy egy nyirokcsomó-darabot eltávolítanak mikroszkóp alatt történő vizsgálat céljából. A nyirokcsomó-biopszia segíthet annak megállapításában, hogy a betegnek fertőzése, immunrendellenessége vagy rákja van-e.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Kolonoszkópia biopsziás mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>A kolonoszkópia olyan orvosi eljárás, amelyet rák, vastagbélpolipok vagy más rendellenességek keresésére végeznek a belében. A kolonoszkópiát egy kolonoszkóp (egyfajta endoszkóp) nevű műszer segítségével végezzük - egy hosszú, vékony, rugalmas csövet, amely kamerát és fényt tartalmaz. A kolonoszkópia során az orvos műszert vezet át a kolonoszkópon, hogy biopsziát kapjon (a vastagbél bélésének kis mintája), amelyet tovább kell elemezni.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>Kolonoszkópia biopszia tesztelése</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>A kolonoszkópia olyan orvosi eljárás, amelyet rák, vastagbélpolipok vagy más rendellenességek keresésére végeznek a belében. A kolonoszkópiát egy kolonoszkóp (egyfajta endoszkóp) nevű műszer segítségével végezzük - egy hosszú, vékony, rugalmas csövet, amely kamerát és fényt tartalmaz. A kolonoszkópia során az orvos műszert vezet át a kolonoszkópon, hogy biopsziát kapjon (a vastagbél bélésének kis mintája), amelyet tovább kell elemezni.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Májbiopsziás mintavétel</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>A májbiopszia olyan eljárás, amelynek során egy kis tűt helyeznek a májba, hogy szövetmintát gyűjtsenek. A szövetet ezután laboratóriumban elemzik, hogy segítsenek az orvosoknak a máj különböző rendellenességeinek és betegségeinek diagnosztizálásában. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>Májbiopszia teszt</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>A májbiopszia olyan eljárás, amelynek során egy kis tűt helyeznek a májba, hogy szövetmintát gyűjtsenek. A szövetet ezután laboratóriumban elemzik, hogy segítsenek az orvosoknak a máj különböző rendellenességeinek és betegségeinek diagnosztizálásában.</Text>  
+			</GameDBLocalizedString>
+			
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

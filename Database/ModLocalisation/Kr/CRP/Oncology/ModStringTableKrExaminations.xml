@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_KR_ADDON_CRP_SLEEPY_EXAMINATIONS">
+
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>LimeCake</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            
+            <GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT</LocID>                                      
+			<Text>카테콜아민 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_DESC</LocID>                                      
+			<Text>[Catecholamine Blood Sampling]\n카테콜아민 혈액 검사는 체내 카테콜아민 측정을 의미한다. 카테콜아민은 호르몬 도파민, 노르에피네프린 및 에피네프린의 포괄적 용어이다. \n\n필요한 방: 혈액학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST</LocID>                                      
+			<Text>카테콜아민 혈액 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>                                      
+			<Text>[Catecholamine Blood Test]\n카테콜아민 혈액 검사는 체내 카테콜아민 측정을 의미한다. 카테콜아민은 호르몬 도파민, 노르에피네프린 및 에피네프린의 포괄적 용어이다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA</LocID>                                      
+			<Text>암항원 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_DESC</LocID>                                      
+			<Text>[CA Blood Sampling]\n암항원 검사는 특정 유형의 암을 진단하고 관리하는 데 사용되는 혈액 검사이다. 종양 마커는 암 성장 또는 암 조직 자체에 반응하여 신체에서 생성되는 물질이고, 일반적으로 단백질이다. 일부 종양 마커는 한 유형의 암에 특이적이지만, 일부 종양 마커는 여러 암에서 나타나기도 하고, 다수는 암이 아닌 상태에서도 나타나기에 특정 암 진단에 사용된다. \n\n필요한 방: 혈액학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST</LocID>                                      
+			<Text>암항원 혈액 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST_DESC</LocID>                                      
+			<Text>[CA Blood Test]\n암항원 검사는 특정 유형의 암을 진단하고 관리하는 데 사용되는 혈액 검사이다. 종양 마커는 암 성장 또는 암 조직 자체에 반응하여 신체에서 생성되는 물질이고, 일반적으로 단백질이다. 일부 종양 마커는 한 유형의 암에 특이적이지만, 일부 종양 마커는 여러 암에서 나타나기도 하고, 다수는 암이 아닌 상태에서도 나타나기에 특정 암 진단에 사용된다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY</LocID>                                      
+			<Text>대장내시경</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>[Colonoscopy]\n대장내시경 검사는 대장내 암, 대장용종 또는 기타 이상을 찾기 위해 행해지는 내시경 검사이다. 카메라와 광원이 들어있는 길고 얇은 유연한 튜브인 대장경이라는 기구를 사용한다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS</LocID>                                      
+			<Text>소변 항원 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_DESC</LocID>                                      
+			<Text>[Urine Antigen Screen Sampling]\n소변에서 암 항원의 양을 확인하기 위한 검사이다. 신장의 다양한 병원체에서 나온 항원의 농도를 활용함으로서 빠른 검사 결과를 얻을 수 있다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST</LocID>                                      
+			<Text>소변 항원 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST_DESC</LocID>                                      
+			<Text>[Urine Antigen Screen Test]\n소변에서 암 항원의 양을 확인하기 위한 검사이다. 신장의 다양한 병원체에서 나온 항원의 농도를 활용함으로서 빠른 검사 결과를 얻을 수 있다.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>골수 조직 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>[Bone Marrow Biopsy Sampling]\n골수 조직검사는 골수의 표본을 수집하여 생검 샘플을 전문가가 비교하도록 한다. 이때 세포의 부피를 골수의 다른 성분들의 부피와 비교하고, 다른 세포들과 적절한 수 비율로 존재하는지와 비정상적인 침투가 있는지 확인한다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>골수 조직 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>[Bone Marrow Biopsy Test]\n골수 조직검사는 골수의 표본을 수집하여 생검 샘플을 전문가가 비교하도록 한다. 이때 세포의 부피를 골수의 다른 성분들의 부피와 비교하고, 다른 세포들과 적절한 수 비율로 존재하는지와 비정상적인 침투가 있는지 확인한다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT</LocID>                                      
+			<Text>유세포 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_DESC</LocID>                                      
+			<Text>[Flow Cytometry Sample]\n유세포 분석은 세포 또는 입자들의 물리적, 화학적 특성을 탐지하고 측정하는 데 사용되는 기술이다. 세포 또는 입자 샘플을 유체에 현탁시키고 유세포 분석기에 주입하여 시행한다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST</LocID>                                      
+			<Text>유세포 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>[Flow Cytometry Test]\n유세포 분석은 세포 또는 입자들의 물리적, 화학적 특성을 탐지하고 측정하는 데 사용되는 기술이다. 세포 또는 입자 샘플을 유체에 현탁시키고 유세포 분석기에 주입하여 시행한다.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CBC_SAMPLING</LocID>                                      
+			<Text>일반 혈액검사(종양학과)</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>혈액 도말 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>[Blood Smear Sampling]\n혈액 도말 검사는 현미경으로 다양한 혈액 내 세포들을 직접 세고 검사하여 진단에 이용하는 방법을 의미한다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>혈액 도말 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>[Blood Smear Test]\n혈액 도말 검사는 현미경으로 다양한 혈액 내 세포들을 직접 세고 검사하여 진단에 이용하는 방법을 의미한다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>간기능검사 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>[Liver Function Test Sampling]\n간기능검사는 간이 어떻게 작동하고 있는지에 대한 정보를 제공할 수 있는 혈액 검사이다. 간 세포에 의해 생성되거나, 간 세포가 손상되었을 때 혈액으로 나오는 많은 단백질과 효소의 수치를 검사한다. \n\n필요한 방: 혈액학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST</LocID>                                      
+			<Text>간기능검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>[Liver Function Test]\n간기능검사는 간이 어떻게 작동하고 있는지에 대한 정보를 제공할 수 있는 혈액 검사이다. 간 세포에 의해 생성되거나, 간 세포가 손상되었을 때 혈액으로 나오는 많은 단백질과 효소의 수치를 검사한다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE</LocID>                                      
+			<Text>형광동소보합법 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>[Fluorescence In Situ Hybridization Sampling]\n형광동소보합법은 높은 수준의 서열 상보성을 가지는 핵산 서열의 일부에만 결합하는 형광 소식자를 이용하여 시행하는 분자 세포 유전학 기술이다. 이는 표적유전자의 유무와 위치를 확인함으로써 염색체 또는 유전자의 변이를 형광현미경으로 관찰할 수 있도록 해준다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST</LocID>                                      
+			<Text>형광동소보합법 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST_DESC</LocID>                                      
+			<Text>[Fluorescence In Situ Hybridization Test]\n형광동소보합법은 높은 수준의 서열 상보성을 가지는 핵산 서열의 일부에만 결합하는 형광 소식자를 이용하여 시행하는 분자 세포 유전학 기술이다. 이는 표적유전자의 유무와 위치를 확인함으로써 염색체 또는 유전자의 변이를 형광현미경으로 관찰할 수 있도록 해준다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>시험관 염색 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>[In Vitro Staining Sampling]\n염색은 현미경 수준에서 샘플의 대비를 향상시키는 데 사용되는 기술이다. 이는 생물학적 조직을 강조하기 위해 조직 병리학, 혈액학 및 세포 병리학의 의료 분야에서 자주 사용된다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST</LocID>                                      
+			<Text>시험관 염색 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>[In Vitro Staining Test]\n염색은 현미경 수준에서 샘플의 대비를 향상시키는 데 사용되는 기술이다. 이는 생물학적 조직을 강조하기 위해 조직 병리학, 혈액학 및 세포 병리학의 의료 분야에서 자주 사용된다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>유방 촬영술</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>[Mammogram]\n유방 촬영술은 신체 검사 중에 느끼기에는 너무 미세한 변화를 발견할 수 있는 유방 조직 엑스레이 기법이다. \n\n필요한 방: X-ray실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE</LocID>                                      
+			<Text>세침흡인검사 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>[Fine Needle Aspiration Sample]\n세침흡인검사는 조직, 세포 또는 체액 샘플을 채취하기 위해 더 빠르고 덜 고통스러운 생검 절차이다. 미세한 바늘을 비정상 조직에 꽂아서 샘플을 수집하여 상태를 진단하게 된다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST</LocID>                                      
+			<Text>세침흡인검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST_DESC</LocID>                                      
+			<Text>[Fine Needle Aspiration Test]\n세침흡인검사는 조직, 세포 또는 체액 샘플을 채취하기 위해 더 빠르고 덜 고통스러운 생검 절차이다. 미세한 바늘을 비정상 조직에 꽂아서 샘플을 수집하여 상태를 진단하게 된다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>                                      
+			<Text>전자 현미경 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>[Electron Microscopy Sample]\n전자 현미경 진단은 사람 조직을 고배율로 선별하는 중요한 진단 도구로 사용된다. 물체를 비출 때 빛 대신 진공 상태에서 음극선을 사용하여 물질의 미소 구조를 보는 데 이용된다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST</LocID>                                      
+			<Text>전자 현미경 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>[Electron Microscopy Test]\n전자 현미경 진단은 사람 조직을 고배율로 선별하는 중요한 진단 도구로 사용된다. 물체를 비출 때 빛 대신 진공 상태에서 음극선을 사용하여 물질의 미소 구조를 보는 데 이용된다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM</LocID>                                      
+			<Text>골반 검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>[Pelvic Exam]\n골반 검사는 여성의 생식 기관에 대한 의사의 육안 검사이다. 의사는 질, 자궁 경부, 난관, 외음부, 난소 및 자궁을 검사한다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM</LocID>                                      
+			<Text>직장수지검사</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>                                      
+			<Text>[Digital Rectal Exam]\n직장수지검사는 전립선 내에 국한된 전립선암을 찾는 중요한 검사 수단이며, 의사가 직장, 골반, 배 아래에 암이 있는지 검사할 수 있게 해주는 남녀 모두를 위한 시험이다.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>                                      
+			<Text>무기물 분석 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>[Mineral Panel Sampling]\n이는 5가지 미네랄에 대한 혈액 검사를 포함하여 미네랄 스펙트럼 전체에 걸쳐 결핍 또는 과다 감지에 사용된다. 이 패널에는 칼슘, 구리, 마그네슘, 망간, 아연 등 5개 무기물 분석이 포함된다. \n\n필요한 방: 혈액학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST</LocID>                                      
+			<Text>무기물 분석</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>[Mineral Panel Test]\n이는 5가지 미네랄에 대한 혈액 검사를 포함하여 미네랄 스펙트럼 전체에 걸쳐 결핍 또는 과다 감지에 사용된다. 이 패널에는 칼슘, 구리, 마그네슘, 망간, 아연 등 5개 무기물 분석이 포함된다.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>림프절 생검 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>[Lymph Node Biopsy Sampling]\n림프절 생검은 림프절을 현미경으로 검사하기 위해 채취하는 검사이다. 이는 환자에게 감염, 면역 장애 또는 암세포 유무를 확인하는 데 도움이 될 수 있다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>림프절 생검</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>[Lymph Node Biopsy Test]\n림프절 생검은 림프절을 현미경으로 검사하기 위해 채취하는 검사이다. 이는 환자에게 감염, 면역 장애 또는 암세포 유무를 확인하는 데 도움이 될 수 있다.</Text>  
+			</GameDBLocalizedString>
+				
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>대장내시경 생검 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>[Colonoscopy Biopsy Sampling]\n대장내시경 검사는 대장내 암, 대장용종 또는 기타 이상을 찾기 위해 행해지는 내시경 검사이다. 카메라와 광원이 들어있는 길고 얇은 유연한 튜브인 대장경이라는 기구를 사용한다. 이때 의사는 대장경을 통해 기구를 통과시켜 생체검사 샘플을 채취하여 추가 분석한다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>대장내시경 생검</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>[Colonoscopy Biopsy Testing]\n대장내시경 검사는 대장내 암, 대장용종 또는 기타 이상을 찾기 위해 행해지는 내시경 검사이다. 카메라와 광원이 들어있는 길고 얇은 유연한 튜브인 대장경이라는 기구를 사용한다. 이때 의사는 대장경을 통해 기구를 통과시켜 생체검사 샘플을 채취하여 추가 분석한다.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>간 생검 샘플링</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>[Liver Biopsy Sampling]\n간 생검은 작은 바늘을 간에 삽입하여 조직 샘플을 수집하는 절차이다. 그런 다음 의사는 간에서 다양한 장애와 질병을 진단 할 수 있도록 실험실에서 조직을 분석한다. \n\n필요한 방: 조직학 연구실</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>간 생검</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>[Liver Biopsy Testing]\n간 생검은 작은 바늘을 간에 삽입하여 조직 샘플을 수집하는 절차이다. 그런 다음 의사는 간에서 다양한 장애와 질병을 진단 할 수 있도록 실험실에서 조직을 분석한다.</Text>  
+			</GameDBLocalizedString>
+
+			
+			
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_TR_ADDON_OTOR_EXAMINATIONS">
+        <LanguageCode>tr</LanguageCode>
+        <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+        <Contributors>
+            <Name>Sezer Koklu</Name>
+        </Contributors>
+        <LocalizedStrings>
+            
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text> (ENT version) Laringoskopi</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_OTOR_LARYNGOSCOPY_DESCRIPTION</LocID>  
+			<Text>Küçük bir video kamera ve ucunda bir ışık kaynağı olan esnek bir tüpün (endoskop) gırtlak, glotis ve ses tellerini incelemek için burundan sokulduğu bir prosedür. Laringoskopi ayrıca trakeal entübasyonu kolaylaştırmak için kullanılır.. \n\nGerekli Oda: Doktor Odası / Gözlem odası / YBÜ</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_EAR_EXAMINATION</LocID>    
+			<Text>(ENT version) Kulak muayenesi</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>(ENT version) Odyometri</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>(ENT version) Cilt alerji testi</Text> 
+			</GameDBLocalizedString>
+			
+		  
+			
+			<GameDBLocalizedString>   
+			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+			<Text>Balgam Örneklemesi</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>   
+			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Balgam kültürü, akciğerleri veya solunum yollarını enfekte eden bakteri veya mantarları tespit etmek ve tanımlamak için yapılan bir testtir. Balgam, akciğerlerde ve komşu hava yollarında üretilen kalın bir sıvıdır. ... Bakteri veya mantar büyümezse, kültür negatiftir. \n\nGerekli Oda: Hematoloji Laboratuvarı</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>   
+			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+			<Text>Balgam Kültürü</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+			<Text>Balgam Kültürü için balgam örneklemesi. \n\nGerekli Oda: Hematoloji Laboratuvarı</Text> 
+			</GameDBLocalizedString>
+			
+			
+		 
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING</LocID>
+			<Text>Triptaz testi - Örnekleme</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Triptaz, histamin ve diğer kimyasallarla birlikte, normal bağışıklık tepkisinin bir parçası olarak ve alerjik (aşırı duyarlılık) tepkilerinin bir parçası olarak aktive edildiklerinde mast hücrelerinden salınan bir enzimdir. Bu test kandaki triptaz miktarını ölçer. \n\nGerekli oda: Hematoloji Laboratuvarı</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_JM_TRYPTASE_TEST_TESTING</LocID>
+			<Text>Triptaz testi - Test</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_TRYPTASE_TEST_TESTING_DESCRIPTION</LocID>  
+			<Text>Triptase testi için kan örneği. \n\nGerekli oda: Hematoloji Laboratuvarı</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING</LocID>
+			<Text>Histamin testi - Örnekleme</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Histamin testi, mast hücre aktivasyonunun yararlı bir göstergesidir. Test, bir kişinin anafilaktik reaksiyon geçirdiğini doğrulamaya yardımcı olmak için kullanılabilir veya mast hücrelerinin anormal çoğalmasıyla karakterize nadir bir hastalık grubu olan mastositozun teşhisine yardımcı olmak için kullanılabilir. \n\nGerekli oda: Hematoloji Laboratuvarı</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_JM_HISTAMINE_TEST_TESTING</LocID>
+			<Text>Histamin testi - Test</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_HISTAMINE_TEST_TESTING_DESCRIPTION</LocID>  
+			<Text>Histamin için kan örneklemesitestn\nGerekli oda: Hematoloji Laboratuvarı</Text>  
+			</GameDBLocalizedString>
+			
+            
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

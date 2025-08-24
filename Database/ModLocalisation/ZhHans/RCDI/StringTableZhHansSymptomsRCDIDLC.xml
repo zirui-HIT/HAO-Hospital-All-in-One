@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_SYMPTOMS_RCDI">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>WDZRMPCBIT</Name>
+
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>
+                <LocID>SYM_EXHAUSTION</LocID>
+                <Text>重度脱水</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_EXHAUSTION_DESCRIPTION</LocID>
+                <Text>患者流失了大量水分和体液。属于医疗紧急情况，需要立即积极补液！</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_HEART_FAILURE</LocID>
+                <Text>心搏骤停</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_HEART_FAILURE_DESCRIPTION</LocID>
+                <Text>心搏骤停是由于心脏无法有效泵血而导致的血流突然中断。</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_GALLSTONES_RCDI</LocID>
+                <Text>发现胆结石</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_GALLSTONES_RCDI_DESCRIPTION</LocID>
+                <Text>腹部超声检查显示有胆结石堵塞了胰管。</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_PANCREATIC_ENZYMES_ELEVATED_RCDI</LocID>
+                <Text>胰酶升高</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_PANCREATIC_ENZYMES_ELEVATED_RCDI_DESCRIPTION</LocID>
+                <Text>患者血液中的胰酶水平升高。</Text>
+            </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>
+                <LocID>SYM_INFLAMMED_BILDUCT</LocID>
+                <Text>胆道因梗阻而扩张</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_INFLAMMED_BILDUCT_DESCRIPTION</LocID>
+                <Text>影像学诊断显示胆管梗阻和炎症。此发现结合整体临床表现，提示急性胆管炎的诊断。</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_BRAIN_ARTERIES_BLOCKED</LocID>
+                <Text>脑动脉阻塞</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_BRAIN_ARTERIES_BLOCKED_DESCRIPTION</LocID>
+                <Text>影像学诊断显示，由于血栓，大脑中的一条重要血管被堵塞。</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_PANCREATIC_TISSUE_INFLAMMED</LocID>
+                <Text>胰腺炎症</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SYM_PANCREATIC_TISSUE_INFLAMMED_DESCRIPTION</LocID>
+                <Text>影像学诊断显示胰腺存在炎症。</Text>
+            </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

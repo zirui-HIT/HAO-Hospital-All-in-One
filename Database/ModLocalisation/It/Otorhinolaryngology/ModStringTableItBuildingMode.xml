@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_IT_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>it</LanguageCode>
+<LanguageNameLocalized>Italian</LanguageNameLocalized>
+<Contributors>
+<Name>Jerry76</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>Ambulatorio di Otorinolaringoiatria</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Ambulatorio diagnostico comune specializzato in orecchio, naso e gola. \n\nMin. Requisiti staff: \n1x Dottore</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>Unità Diagnostica</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>L'Unità Diagnostica presso il reparto di Otorinolaringoiatria fornisce procedure di esame e trattamento per i pazienti ricoverati. \n\nMin. Requisiti staff: \n1x Dottore \n(Personale nella stanza del Medico di Guardia)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>Unità di Ecografia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>L'unità di Ecografia fornisce esami e trattamenti specifici a base di ultrasuoni. \n\nMin. Requisiti staff: \n1x Tecnologo - ECO</Text>  
+	</GameDBLocalizedString>
+            
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

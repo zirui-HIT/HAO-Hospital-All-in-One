@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>
+                <Text>Gynecological office</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>
+                <Text>Gynecological office is common diagnostic outpatient office. \n\nMin. Staff requirements: \n1x Doctor</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>
+                <Text>Diagnostic unit</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>
+                <Text>Diagnostic unit at Gynecology department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor\n(Personnel based in On-call room)</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>OBJECT_DECAL_GYNECO_DPT</LocID>
+                <Text>Gynecology</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

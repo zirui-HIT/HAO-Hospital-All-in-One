@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_SEXUAL_HEALTH_DIAGNOSES">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <!-- Sexual Health -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_CHL</LocID>
+				<Text>Chlamydia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_CHL_DESCRIPTION</LocID>
+				<Text>Chlamydia is passed on through unprotected sex and is particularly common in sexually active teenagers and young adults.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_GON</LocID>
+				<Text>Gonorrhoea</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_GON_DESCRIPTION</LocID>
+				<Text>Gonorrhoea is a sexually transmitted infection (STI) caused by bacteria called Neisseria gonorrhoeae or gonococcus. It used to be known as "the clap".</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_PUB</LocID>
+				<Text>Pubic Lice</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_PUB_DESCRIPTION</LocID>
+				<Text>Pubic lice (sometimes called crabs) are tiny insects that live on coarse human body hair, such as pubic hair.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_SYP</LocID>
+				<Text>Syphilis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_SYP_DESCRIPTION</LocID>
+				<Text>Syphilis is a bacterial infection that's usually caught by having sex with someone who's infected.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HIV</LocID>
+				<Text>HIV</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HIV_DESCRIPTION</LocID>
+				<Text>Human Immunodeficiency Virus damages the cells in the immune system and weakens the ability to fight everyday infections and disease.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HER</LocID>
+				<Text>Genital herpes</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HER_DESCRIPTION</LocID>
+				<Text>Genital herpes is a sexually transmitted infection (STI) passed on through vaginal, anal and oral sex.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_SCA</LocID>
+				<Text>Scabies</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_SCA_DESCRIPTION</LocID>
+				<Text>Scabies is an itchy skin condition caused by tiny parasites. It’s passed through skin-to-skin contact, usually during sex.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HPV</LocID>
+				<Text>HPV</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HPV_DESCRIPTION</LocID>
+				<Text>HPV is the name of a very common group of viruses. They do not cause any problems in most people, but some types can cause genital warts or cancer.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_MCI</LocID>
+				<Text>Molluscum contagiosum</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_MCI_DESCRIPTION</LocID>
+				<Text>Molluscum contagiosum is an infection that causes small bumps on the skin. It can be contracted through touching infected skin, including during sex.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_TVI</LocID>
+				<Text>Trichomoniasis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_TVI_DESCRIPTION</LocID>
+				<Text>Trichomoniasis is a sexually transmitted infection (STI) caused by a tiny parasite called Trichomonas vaginalis (TV).</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_BV</LocID>
+				<Text>Bacterial vaginosis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_BV_DESCRIPTION</LocID>
+				<Text>Bacterial vaginosis (BV) is an imbalance of bacteria in the vagina and a common cause of unusual vaginal discharge.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_CERVICITIS</LocID>
+				<Text>Cervicitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_CERVICITIS_DESCRIPTION</LocID>
+				<Text>Cervicitis is an inflammation of the cervix commonly caused by sexually transmitted infections.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_MGEN_FEMALE</LocID>
+				<Text>Mycoplasma genitalium</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_MGEN_FEMALE_DESCRIPTION</LocID>
+				<Text>Mycoplasma genitalium is also known as MG or Mgen. It's a sexually transmitted bacterium that infects the urinary and genital tracts of men and women.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_MGEN_MALE</LocID>
+				<Text>Mycoplasma genitalium</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_MGEN_MALE_DESCRIPTION</LocID>
+				<Text>Mycoplasma genitalium is also known as MG or Mgen. It's a sexually transmitted bacterium that infects the urinary and genital tracts of men and women.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_PREP</LocID>
+				<Text>PrEP</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_PREP_DESCRIPTION</LocID>
+				<Text>The patient is eligable for PrEP, a drug used to prevent HIV.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_UR</LocID>
+				<Text>Urethritis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_UR_DESCRIPTION</LocID>
+				<Text>Urethritis is inflammation of the urethra, usually caused by an infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_ED</LocID>
+				<Text>Erectile dysfunction</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_ED_DESCRIPTION</LocID>
+				<Text>Erectile dysfunction (ED) is the inability to get or keep an erection firm enough to have sexual intercourse.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HYPERS</LocID>
+				<Text>Hyperspermia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HYPERS_DESCRIPTION</LocID>
+				<Text>Hyperspermia is a condition in which a male has an abnormally large ejaculate (or semen) volume, and is generally defined in humans when the ejaculate is above 5.5 ml.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HYPOS</LocID>
+				<Text>Hypospermia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_HYPOS_DESCRIPTION</LocID>
+				<Text>Hypospermia is a condition in which a male has an unusually low ejaculate (or semen) volume, less than 1.5 mL.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_EPI</LocID>
+				<Text>Epididymitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_EPI_DESCRIPTION</LocID>
+				<Text>Epididymitis is where a tube (the epididymis) at the back of the testicles becomes swollen and painful.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_BAL</LocID>
+				<Text>Balanitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_BAL_DESCRIPTION</LocID>
+				<Text>Balanitis is a skin irritation on the head of the penis that can affect men and boys.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_PRO</LocID>
+				<Text>Prostatitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_PRO_DESCRIPTION</LocID>
+				<Text>Prostatitis is inflammation (swelling) of the prostate gland.</Text>
+			</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

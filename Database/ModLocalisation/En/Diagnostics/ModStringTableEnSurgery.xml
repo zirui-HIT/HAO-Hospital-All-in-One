@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_EN_ADDON_DIAG_TREATMENTS_SURG">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Ollyver</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+
+		
+		<GameDBLocalizedString>      
+			<LocID>SUR_OL_DISTAL_PANCREATECTOMY</LocID>                         
+			<Text>Distal Pancreatectomy</Text>	
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>SUR_OL_DISTAL_PANCREATECTOMY_DESC</LocID>                         
+			<Text>Distal pancreatectomy is a surgery to remove the distal (body-tail) part of
+				your pancreas. \n\nRequired room: Operating room at Department of Diagnostics.</Text>	
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_FASCIOTOMY</LocID>
+			<Text>Fasciotomy</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_FASCIOTOMY_DESC</LocID>
+			<Text>Fasciotomy, a procedure in which the fascia is cut to relieve pressure in the muscle compartment, is used to treat people with acute or chronic compartment syndrome. \n\nRequired room: Operating room at Department of Diagnostics.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_GASTRECTOMY</LocID>
+			<Text>Gastrectomy</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_GASTRECTOMY_DESC</LocID>
+			<Text>A gastrectomy is a medical procedure where all or part of the stomach is surgically removed. \n\nRequired room: Operating room at Department of Diagnostics.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_LIVER_TRANSPLANT</LocID>
+			<Text>Liver Transplant</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_LIVER_TRANSPLANT_DESC</LocID>
+			<Text>A liver transplant is surgery to replace a diseased liver with a healthy liver from another person. A whole liver may be transplanted, or just part of one. \n\nRequired room: Operating room at Department of Diagnostics.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_MYOTOMY</LocID>
+			<Text>Myotomy</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_MYOTOMY_DESC</LocID>
+			<Text>Heller myotomy is a surgical procedure in which the muscles of the cardia are cut, allowing food and liquids to pass to the stomach. \n\nRequired room: Operating room at Department of Diagnostics.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_LAPAROSCOPY</LocID>
+			<Text>Laparoscopic surgery</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_LAPAROSCOPY_DESC</LocID>
+			<Text>A minimally invasive surgical technique. The surgery is performed by cutting a series of small incisions through which surgical equipment is inserted. \n\nRequired room: Operating room at Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_SPLENECTOMY</LocID>
+			<Text>Splenectomy</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_SPLENECTOMY_DESC</LocID>
+			<Text>Splenectomy is a surgical procedure to remove your spleen. The spleen is an organ that sits under your rib cage on the upper left side of your abdomen. It helps fight infection and filters unneeded material, such as old or damaged blood cells, from your blood. The most common reason for splenectomy is to treat a ruptured spleen, which is often caused by an abdominal injury. Splenectomy may be used to treat other conditions, including an enlarged spleen that is causing discomfort (splenomegaly), some blood disorders, certain cancers, infection, and noncancerous cysts or tumors. \n\nRequired room: Operating room at Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_ENDOSCOPIC_CAUTERIZATION</LocID>
+			<Text>Endoscopic cauterization</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_ENDOSCOPIC_CAUTERIZATION_DESCRIPTION</LocID>
+			<Text>Endoscopic cauterization is a surgical procedure where an electric current is used to burn/cautherize an area in order to open or close it off. It is commonly used to stop bleedings during surgeries. \n\nRequired room: Operating room at Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_AVM_RESECTION</LocID>
+			<Text>AVM Resection</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_AVM_RESECTION_DESC</LocID>
+			<Text>AVM resection involves delicately separating the AVM from the surrounding tissue. Using a microscope, a neurosurgeon cuts off the blood supply to the AVM and removes it. \n\nRequired room: Operating room at Neurology dpt</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_HEMISPHERECTOMY</LocID>
+			<Text>Anatomical Hemispherectomy</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SUR_OL_HEMISPHERECTOMY_DESC</LocID>
+			<Text>An anatomic hemispherectomy involves physically removing the diseased hemisphere of the brain including the frontal, parietal, temporal and occipital lobes. The deeper structures in the brain including the thalamus and basal ganglia are left in place. \n\nRequired room: Operating room at Neurology dpt</Text>
+		</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

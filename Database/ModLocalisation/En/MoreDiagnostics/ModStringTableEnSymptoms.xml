@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_MORE_DG_SYMPTOMS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+			<!-- ================================================== From CRP  ================================================== -->
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Splenomegaly</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Hypercalcemia</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Severe Hypercalcemia</Text>  </GameDBLocalizedString>
+	
+			<!-- ================================================== Normaux ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Systolic heart murmurs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Systolic heart murmurs are heart murmurs heard during systole. The systole is the part of the cardiac cycle during which some chambers of the heart muscle contract after refilling with blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Diastolic heart murmurs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>Diastolic heart murmurs are heart murmurs heard during diastole. Diastole is the part of the cardiac cycle during which the heart refills with blood after the emptying done during systole (contraction).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>LVH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>Left ventricular hypertrophy (LVH) is thickening of the heart muscle of the left ventricle of the heart, that is, left-sided ventricular hypertrophy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>Abbreviation which means “S wave in DI and Q wave in DIII” at the ECG. It translates a dextrorotation - physiological or pathological - along the longitudinal axis of the heart, which brings the right ventricle further forward and to the right of the left ventricle. This sign, alone or in combination with other ECG signs, is sometimes used to reinforce a hypothesis of pulmonary embolism.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Wells score positive</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>This is a diagnostic score for pulmonary embolism.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Positive Geneva score</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>This is a diagnostic score for pulmonary embolism and deep vein thrombosis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>High D-dimer</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>D-dimers are produced by the breakdown of fibrin, a protein involved in blood clotting. The doctor prescribes a dosage of D-dimers if he suspects the presence of blood clots.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>High BNP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>BNP (Brain natriuretic peptide), is a neuro-hormone synthesized by heart cells called cardiomyocytes in response to an increase in blood pressure, especially during the development of heart failure.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Compartment syndrome</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>Compartment syndrome is a condition in which increased pressure within one of the body's anatomical compartments results in insufficient blood supply to tissue within that space. There are two main types: acute and chronic. Compartments of the leg or arm are most commonly involved.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Para-umbilical mass</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Perception of a swinging and expansive para-umbilical mass.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Mesenteric ischemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Mesenteric ischemia is a medical condition in which injury to the small intestine occurs due to not enough blood supply. \n\nRequired room: Operating room at General Surgery dpt + ICU</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>Pituitary adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>Discovery of a pituitary adenoma on MRI. This doesn't provide information on the secreting nature or not of it.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>Brain abscess</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>Brain abscess (or cerebral abscess) is an abscess caused by inflammation and collection of infected material, coming from local (ear infection, dental abscess, infection of paranasal sinuses, infection of the mastoid air cells of the temporal bone, epidural abscess) or remote (lung, heart, kidney etc.) infectious sources, within the brain tissue.</Text>	</GameDBLocalizedString>
+
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================	
++++  v0.01  +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE</LocID>										<Text>Hypokalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE_DESCRIPTION</LocID>							<Text>Hypokalemia is a low level of potassium (K+) in the blood serum.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE</LocID>									<Text>Hyperkalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE_DESCRIPTION</LocID>						<Text>Hyperkalemia is an elevated level of potassium (K+) in the blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP</LocID>												<Text>Pulmonary edema</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP_DESCRIPTION</LocID>									<Text>Pulmonary edema is fluid accumulation in the tissue and air spaces of the lungs.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS</LocID>									<Text>No pulse</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS_DESCRIPTION</LocID>						<Text>There is no perceived pulse to a member.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE</LocID>											<Text>Livedo reticularis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE_DESCRIPTION</LocID>								<Text>Livedo reticularis is a common skin finding consisting of a mottled reticulated vascular pattern that appears as a lace-like purplish discoloration of the skin. The discoloration is caused by swelling of the venules owing to obstruction of capillaries by small blood clots.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE</LocID>									<Text>Hyperpulsatile pulse</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE_DESCRIPTION</LocID>						<Text>Pulp hyperpulsatility</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE</LocID>							<Text>JVD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE_DESCRIPTION</LocID>				<Text>Jugular vein distention (JVD) occurs when the pressure inside the vena cava increases and appears as a bulge running down the right side of a person’s neck.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ</LocID>										<Text>AJR</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ_DESCRIPTION</LocID>							<Text>The abdominojugular reflux (AJR) sign is useful in diagnosing right ventricular failure, but is often performed and interpreted incorrectly.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE</LocID>										<Text>Hepatalgia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE_DESCRIPTION</LocID>							<Text>A painful liver.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL</LocID>								<Text>Abdominal murmur</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL_DESCRIPTION</LocID>					<Text>The presence of an abdominal murmur may reflect the existence of an aneurysm of the abdominal aorta or a narrowing of the renal arteries.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE</LocID>								<Text>Vascular murmur</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE_DESCRIPTION</LocID>					<Text></Text>	</GameDBLocalizedString>
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA</LocID>											<Text>Macroglossia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA_DESCRIPTION</LocID>								<Text>Abnormal increase in tongue volume.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA</LocID>											<Text>Hypoglycemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA_DESCRIPTION</LocID>								<Text>Low blood glucose.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA</LocID>											<Text>Gynecomastia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA_DESCRIPTION</LocID>								<Text>Abnormal increase in breast volume in men.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE</LocID>									<Text>Testicular atrophy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE_DESCRIPTION</LocID>						<Text>Decrease in testicle size.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN</LocID>												<Text>Xerosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN_DESCRIPTION</LocID>									<Text>Dry skin is skin that has lost its protective fatty layer and becomes dehydrated.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL</LocID>												<Text>Hyperprolactinemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL_DESCRIPTION</LocID>									<Text>Abnormal increase in plasma prolactin concentration.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE</LocID>								<Text>Acute adrenal insufficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE_DESCRIPTION</LocID>					<Text>A primary adrenal insufficiency caused by a sudden defective production of adrenal steroids.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA</LocID>											<Text>Hypocalcemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA_DESCRIPTION</LocID>								<Text>Hypocalcemia is an abnormal drop in the level of calcium in the blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE</LocID>										<Text>Thrombocytosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE_DESCRIPTION</LocID>							<Text>Thrombocytosis is a condition in which there is an excessive number of platelets in the blood.</Text>	</GameDBLocalizedString>
++++ v0.03 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GALLSTONES</LocID>										<Text>GALLSTONES</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HTAP</LocID>												<Text>Pulmonary hypertension</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOLYSE</LocID>											<Text>HEMOLYSE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA</LocID>										<Text>Bone aplasia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA_DESCRIPTION</LocID>							<Text>Bone marrow aplasia refers to those hematologic conditions that are caused by a marked reduction and/or defect in the pluripotent or committed stem cells, or the failure of the bone marrow microenvironment to support hematopoiesis.</Text>	</GameDBLocalizedString>
++++ v0.03.2 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS</LocID>									<Text>Hepatitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS_DESCRIPTION</LocID>						<Text>Liver inflammation.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS</LocID>								<Text>Telangiectasia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS_DESCRIPTION</LocID>					<Text>Telangiectasias, also known as spider veins, are small dilated blood vessels that can occur near the surface of the skin or mucous membranes, measuring between 0.5 and 1 millimeter in diameter. These dilated blood vessels can develop anywhere on the body but are commonly seen on the face around the nose, cheeks and chin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER</LocID>								<Text>Iron overload</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER_DESCRIPTION</LocID>					<Text>Iron overload or hemochromatosis indicates accumulation of iron in the body from any cause.</Text>	</GameDBLocalizedString>
++++ v0.03.3 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE</LocID>									<Text>Transplant rejection</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE_DESCRIPTION</LocID>						<Text>The patient is in the process of rejection of his transplant, which corresponds to the destruction of the graft transplanted into an organism, due to an immune response directed against him.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE</LocID>							<Text>UDH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE_DESCRIPTION</LocID>				<Text>During an upper digestive hemorrhage (UDH), the bleeding occurs upstream of the Treitz ligament (oesophagus, stomach and duodenum).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE</LocID>							<Text>LDH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE_DESCRIPTION</LocID>				<Text>In a lower digestive hemorrhage (LDH), blood loss originates downstream from the Treitz ligament (small intestine, colon, rectum and anus).</Text>	</GameDBLocalizedString>
+-->	
+			
+			
+			<!-- ================================================== Main ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Aortic stenosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Decrease in diameter of the aortic valve.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Aortic insufficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Insufficient aortic valve.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Severe hypertension</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Severe hypertension, rapid onset.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Reflex syncope</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>It is a neurovegetative reflex of arterial hypotension with more or less marked bradycardia following a stimulus.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Positive test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Orthostatic hypotension test returned positive.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Conduction disorder</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Complete paroxysmal blockage of the intracardiac conduction.</Text>	</GameDBLocalizedString>	
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Prodromes</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>The signs and symptoms that precede syncope are called prodromes. Lipothymia can be summed up as an imminent feeling of fainting.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>AF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>The diagnosis of AF can only be confirmed on an ECG trace. This shows an absence of visible P wave and the most often irregular QRS.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>SAB</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>Sino-Atrial Block (SAB) is a complete interruption of intra-atrial conduction after certain sinus impulses.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>The 3rd degree Atrioventricular Block is a complete and permanent interruption of the transmission of atrial impulses to the ventricles..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>LBBB</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Typical appearance of LBBB at ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>VT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Typical appearance of VT at ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>QT extension</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Extension of the QT space at the ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>JT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>Junctional Tachycardia (JT) is a heterogeneous group of tachycardias whose circuit begins or necessarily passes through the atrioventricular junction.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>Delta wave</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text>Impasto and slowing of the initial part of the QRS complex in connection with pre-excitation of the ventricle by an accessory bundle.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>Altered LVEF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>The Left Ventricle Ejection Fraction (LVEF) is the percentage of blood ejected from the left ventricle.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>Altered RVEF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>The Right Ventricle Ejection Fraction (RVEF) is the percentage of blood ejected from the right ventricle.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>Low SPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>Systolic Pressure Index (SPI) is less than 0.9. IPS is based on the collection of systolic pressures from the lower and humeral limbs and the establishment of an ankle pressure / humeral pressure ratio.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>Abdominal Aortic Aneurysm (AAA) discovered.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>Popliteal aneurysm</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>Popliteal artery aneurysm discovered.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>Celiac occlusion</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>Occlusion of the celiac artery and mesenteric arteries.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>Upper limb tissue ischemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>Ischemia is the cessation or insufficiency of blood circulation in a part of the body or an organ, which deprives the cells of oxygen supply and causes their necrosis. Ischemia can be due to blockage of a vessel (thrombosis) or compression of an artery (stenosis).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>Lower limb tissue ischemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>Ischemia is the cessation or insufficiency of blood circulation in a part of the body or an organ, which deprives the cells of oxygen supply and causes their necrosis. Ischemia can be due to blockage of a vessel (thrombosis) or compression of an artery (stenosis).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>Occlusion of mesenteric arteries</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>It is an acute arterial occlusion or low flow.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>AAA ruptured</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>Ruptured abdominal aortic aneurysm.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>IAA ruptured</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>Rupture of a common iliac artery aneurysm.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO</LocID>											<Text>Low bioavailable testosterone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>								<Text>Significant drop in circulating testosterone.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>								<Text>Prolactinoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>								<Text>Prolactinoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>						<Text>Discovery of a prolactinoma on MRI.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>							<Text>Somatotropic adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>				<Text>No braking during the "minute" brake test.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>						<Text>Corticotropic adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>						<Text>Corticotropic adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>				<Text>The test is in favor of the diagnosis of non-curable hypercortisolism if the cortisolemia does not drop below the threshold of 18 ng / ml [50 nmol / l]</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>							<Text>Thyrotropic adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>				<Text>Discovery of central hyperthyroidism at the blood test. This is characterized by a high concentration of thyroid hormones associated with a normal high or abnormal concentration of TSH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>						<Text>Panhypopituitarism</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>						<Text>Panhypopituitarism</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>				<Text>Discovery of a pituitary adenoma that prevents the proper functioning of the pineal gland on MRI.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_F</LocID>										<Text>Peripheral adrenal insufficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_H</LocID>										<Text>Peripheral adrenal insufficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>								<Text>Discovery of peripheral adrenal insufficiency during the Synacthene test. This is characterized by a low cortisol level associated with a high concentration of ACTH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_F</LocID>										<Text>21-OH deficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_H</LocID>										<Text>21-OH deficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>								<Text>It is accepted by the entire endocrinologist community that the diagnosis of D21OH-NC is based on the dosage of 17OHP in the morning and at best in the first part of the cycle. The sample must be taken in the absence of or at a distance from treatment with glucocorticoids, since even "substitute" treatment and a fortiori pharmacological treatment introduces a risk of ignoring the diagnosis (false negative) by inhibiting the corticotropic axis. The sampling for the determination of 17OHP must also be done in the morning, because if it is done in the afternoon, the concentration of 17OHP can be found within the normal range in a patient with D21OH-NC simply because of fluctuations nycthemeral of adrenal cortical function.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>									<Text>Central adrenal insufficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>						<Text>Discovery of central adrenal insufficiency during the Synacthene test. This is characterized by low cortisol levels associated with a low or abnormally normal concentration of ACTH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>									<Text>Anti-CASR Ab</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>						<Text>Discovery of anti-CASR antibody during the ELISA test.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>							<Text>Parathyroid adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>				<Text>Parathyroid adenoma fixing to scintigraphy.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN</LocID>											<Text>Adrenal adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Discovery of an adrenal adenoma secreting on CT.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN</LocID>										<Text>Adrenal hypertrophy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>							<Text>Increase in size of the adrenal gland on CT scan.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME</LocID>									<Text>Inappropriate secretion</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>Inappropriate (normal or high) insulin and peptide C secretion in hypoglycaemia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP</LocID>										<Text>Pancreatic hypoglycemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>Hypoglycemia of pancreatic origin not linked to an insulin-secreting adenoma.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>								<Text>White scintigraphye</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>					<Text>Abscence of fixation with scintigraphy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>					<Text>"Checkerboard" scintigraphy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>		<Text>Alternating hot and cold beaches (checkerboard) with scintigraphy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>Toxic adenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>Hyperfixation of the isotope at the level of the nodule while the rest of the parenchyma is hypofixant or cold or "extinct" (due to the decrease in TSH), on scintigraphy.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>								<Text>Hyperosmolality</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>					<Text>An unusually high osmolality.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE</LocID>										<Text>Ketonemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>							<Text>An excess of ketones in the blood.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D</LocID>										<Text>Low PBG-D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>							<Text>Porphobilinogen deaminase (hydroxymethylbilane synthase, or uroporphyrinogen I synthase) is an enzyme that in humans is encoded by the HMBS gene. Porphobilinogen deaminase is involved in the third step of the heme biosynthetic pathway.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE</LocID>								<Text>Spherocyte</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>					<Text>Discovery of spherocytes in the blood smear.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>								<Text>Low GPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>					<Text>Glucose-6-phosphate isomerase (GPI), alternatively known as phosphoglucose isomerase/phosphoglucoisomerase (PGI) or phosphohexose isomerase (PHI), is an enzyme that in humans is encoded by the GPI gene on chromosome 19. In the cytoplasm, the gene product functions as a glycolytic enzyme (glucose-6-phosphate isomerase) that interconverts glucose-6-phosphate (G6P) and fructose-6-phosphate (F6P).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>								<Text>Low G6PD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>					<Text>Glucose-6-phosphate dehydrogenase (G6PD or G6PDH) is a cytosolic enzyme that helps protect the red blood cells against oxidative damage from compounds like hydrogen peroxide.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS</LocID>									<Text>Low PK</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>						<Text>Pyruvate kinase is the enzyme involved in the last step of glycolysis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>								<Text>Coombs +</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>					<Text>The Coombs test is positive.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>							<Text>Low ADAMTS13</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>				<Text>ADAMTS13 (a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13)—also known as von Willebrand factor-cleaving protease (VWFCP)—is a zinc-containing metalloprotease enzyme that cleaves von Willebrand factor (vWf), a large protein involved in blood clotting.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>								<Text>Drepanocyte</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>								<Text>Drepanocyte</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>					<Text>Discovery of drepanocytes in the blood smear.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF</LocID>										<Text>Low vWF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>							<Text>von Willebrand factor (VWF) (/ˌfʌnˈvɪlɪbrɑːnt/) is a blood glycoprotein involved in hemostasis.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS</LocID>							<Text>Purpura fulminans</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>				<Text>Purpura fulminans discovered.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE</LocID>							<Text>DIC decompensated</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</LocID>				<Text>DIC discovered.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE</LocID>								<Text>NPC1 muté</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>					<Text>The proteins NPC1 and NPC2 seem to work at the level of the endo-lysosomal system to facilitate the intracellular transport of cholesterol and other molecules, but their precise function is not yet known.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE</LocID>								<Text>HE - IgE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>					<Text>Hyperososinophilia and elevated total IgE.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K</LocID>								<Text>Test +</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>					<Text>Chromosome breakage analysis is positive.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>					<Text>Macrothrombocytes</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>		<Text>More than 10% of the platelets studied are giant.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>						<Text>Abnormal integrin</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>			<Text>Quantitative and / or qualitative anomalies of the integrin alphaIIb beta3 are found.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP</LocID>							<Text>RP Mutations</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>				<Text>Ribosomal proteins (RPs) from either the small (RPS7, RPS17, RPS19, RPS24) or the large (RPL5, RPL11, RPL35a) ribosomal subunit are mutated.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>					<Text>Glucocerebrosidase deficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>		<Text>Low glucocerebrosidase level leading to accumulation of glucosylceramide deposits.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>						<Text>SH2D1A mutation </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>			<Text>Mutation of the SH2D1A gene which is located on the X chromosome. This gene codes for a protein called SAP (signalling lymphocyte activation molecular [SLAM] associated protein).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>							<Text>Sideroblast</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>				<Text>Sideroblasts have been found. These are iron-containing granulations stained with Perls's reagent, corresponding to aggregates of ribosomes and ferritin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>					<Text>Erythroblast</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>		<Text>Low erythroblast rate.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>							<Text>Hemoglobin  C</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type C with a blood smear.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>							<Text>Hemoglobin  D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type D with a blood smear.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>							<Text>Hemoglobin  E</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type E with a blood smear.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>							<Text>Hemoglobin  M</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>				<Text>Discovery of hemoglobins type M with a blood smear.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>					<Text>Triad</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>		<Text>Classical triad of dysphagia, iron-deficiency anemia and esophageal webs.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>					<Text>Mutation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>		<Text>A mutation in one of the two ACVRL or ENG genes involved in the TGF-beta signaling pathway has been found.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL</LocID>							<Text>Coombs +</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>				<Text>The Coombs test is positive.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE</LocID>								<Text>HFE mutation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>					<Text>The HFE gene located on chromosome 6 is mutated. Two types of alterations exist: the C282Y mutation and the H63D mutation.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>						<Text>Mutation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>			<Text>Mutations in the gene coding for hemojuvelin (HJV) on chromosome 1 or mutations in the gene coding for hepcidin (HAMP) on chromosome 19 have been found.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>								<Text>TFR2 mutation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>					<Text>Mutations in the transferrin receptor-2 (TFR2) gene on chromosome 7 have been found.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>							<Text>SLC40A1 mutation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>				<Text>Mutations in the SLC40A1 gene located on chromosome 2 which codes for ferroportin (FPN) have been found.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>						<Text>Hypocellular bone marrow</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>			<Text>The bone marrow is hypocellular, it's "empty".</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>				<Text>Thrombocytopenic purpura</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>	<Text>Symptoms suggestive of thrombocytopenic purpura.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD</LocID>								<Text>DRESS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>					<Text>Symptoms suggestive of DRESS syndrome.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>					<Text>Anti-PF4 ab</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>		<Text>Anti-PF4 / heparin antibodies were detected by ELISA.</Text>	</GameDBLocalizedString>
+<!-- v0.03.3 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>									<Text>Very low cortisol</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>						<Text>The cortisol level in the blood is very low.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>							<Text>Transplant</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>				<Text>This patient urgently needs a heart transplant!</Text>	</GameDBLocalizedString>
+				
+			<!-- Fixed -->
+			<GameDBLocalizedString> <LocID>SYM_CRP_ATAXIA_CEREBELLAR</LocID> <Text>Cerebellar ataxia</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_ATAXIA_CEREBELLAR_DESCRIPTION</LocID> <Text>Impaired coordination and balance with a broad-based, unsteady stance or gait and difficulty with tandem walking.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_CRP_HYPERSIGNAL_MAMILLAIRE</LocID> <Text>Mammillary body hyperintensity on MRI</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_HYPERSIGNAL_MAMILLAIRE_DESCRIPTION</LocID> <Text>T2/FLAIR hyperintensity of the mammillary bodies, often seen in thiamine deficiency (Wernicke encephalopathy).</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_CRP_HYPERTONIA</LocID> <Text>Hypertonia (increased muscle tone)</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_HYPERTONIA_DESCRIPTION</LocID> <Text>Abnormally increased muscle tone, commonly from upper motor neuron lesions; may present as spasticity or rigidity with hyperreflexia.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_CRP_NYSTAGMUS_HORIZONTAL</LocID> <Text>Horizontal nystagmus</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_NYSTAGMUS_HORIZONTAL_DESCRIPTION</LocID> <Text>Involuntary side-to-side eye oscillations. Unidirectional patterns are often peripheral; direction-changing gaze-evoked nystagmus suggests a central lesion.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_CRP_NYSTAGMUS_VERTICAL</LocID> <Text>Vertical nystagmus</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_NYSTAGMUS_VERTICAL_DESCRIPTION</LocID> <Text>Up- or down-beat ocular oscillations that typically indicate central pathology involving the brainstem or cerebellum.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_CRP_PARALYSIA_OM_VI</LocID> <Text>Abducens (CN VI) palsy</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_PARALYSIA_OM_VI_DESCRIPTION</LocID> <Text>Paralysis of the lateral rectus muscle causing impaired eye abduction and horizontal diplopia.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_CRP_POLYGON_UP</LocID> <Text>Wide-based stance/gait</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_CRP_POLYGON_UP_DESCRIPTION</LocID> <Text>Enlarged base of support while standing or walking, a typical compensatory sign of gait instability (e.g., cerebellar ataxia).</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_MOREDG_NEURO_B1_EFF</LocID> <Text>Neurologic effects of vitamin B1 deficiency</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_MOREDG_NEURO_B1_EFF_DESCRIPTION</LocID> <Text>Findings consistent with thiamine deficiency, classically confusion, ataxia, and ophthalmoplegia (Wernicke triad), with possible nystagmus.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_MOREDG_NEURO_FLAPPING_TREMOR</LocID> <Text>Asterixis (flapping tremor)</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_MOREDG_NEURO_FLAPPING_TREMOR_DESCRIPTION</LocID> <Text>Brief lapses of sustained posture leading to irregular, flapping movements of the hands; often seen in metabolic encephalopathies (e.g., hepatic).</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>SYM_MOREDG_NEURO_PP_EFF</LocID> <Text>Neurologic effects of vitamin PP (niacin) deficiency</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>SYM_MOREDG_NEURO_PP_EFF_DESCRIPTION</LocID> <Text>Niacin (vitamin B3/PP) deficiency can cause pellagra with neuropsychiatric features such as confusion, neuropathy, tremor, and cognitive changes.</Text> </GameDBLocalizedString>
+
+		</LocalizedStrings>
+
+	</GameDBStringTable>
+</Database>

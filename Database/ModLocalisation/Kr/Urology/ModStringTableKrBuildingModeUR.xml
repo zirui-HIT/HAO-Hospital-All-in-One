@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_KR_ADDON_UR_BUILDING_MODE">
+<LanguageCode>kr</LanguageCode>
+<LanguageNameLocalized>한국어</LanguageNameLocalized>
+<Contributors>
+<Name>LimeCake</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>비뇨기과</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>벽 장식</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1</LocID>       			
+		<Text>비뇨기 건강 포스터</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1_DESC</LocID>       
+		<Text>비뇨기 건강이 당신에게 얼마나 중요한지 알려주는 포스터입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2</LocID>       			
+		<Text>비뇨기 질병 포스터</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2_DESC</LocID>       
+		<Text>비뇨기 질병들을 소개하는 포스터입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3</LocID>       			
+		<Text>비뇨기과 소변 포스터</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3_DESC</LocID>       
+		<Text>소변의 다양한 색에 대해 설명하는 포스터입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>진료실(비뇨기과)</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>비뇨기과를 전문으로 하는 의사의 진료실.\n\n반드시 필요한 직원: \n의사 x1</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>진료실(신장학과)</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>신장학과 전문으로 하는 의사의 진료실.\n\n반드시 필요한 직원: \n의사 x1</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>투석실</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>투석이 필요한 비뇨기과 환자들을 위한 공간입니다.\n\n반드시 필요한 직원: \n의사 x1, 간호사 x1 \n(의국 및 간호사실 필요)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

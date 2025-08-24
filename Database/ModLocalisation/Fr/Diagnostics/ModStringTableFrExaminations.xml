@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_FR_ADDON_DIAG_EXAMINATIONS">
+
+		<LanguageCode>fr</LanguageCode>
+		<LanguageNameLocalized>Français</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>Ollyver</Name>
+			<Name>nom d'utilisateur</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_C1_BLOOD_SAMPLE</LocID>
+				<Text>Prélèvement sanguin C1</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_C1_BLOOD_SAMPLE_DESC</LocID>
+				<Text>L'inhibiteur C1 est un inhibiteur de protéase appartenant à la superfamille des serpins. Sa fonction principale est l'inhibition du système du complément pour prévenir d'activations spontanées, mais sert aussi en tant que régulateur principal du système de contact. \n\nSalle requise : Laboratoire d'hématologie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_C1_BLOOD_TEST</LocID>
+				<Text>Test sanguin C1</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_C1_BLOOD_TEST_DESC</LocID>
+				<Text>Les techniciens d'hématologie sont en train d'analyser l'échantillon. Ils reviendront bientôt avec les résultats.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_SAMPLE</LocID>
+				<Text>Echantillon d'urine pour la porphyrie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_SAMPLE_DESC</LocID>
+				<Text>Un taux élevé de PBG dans l'urine est le signe diagnostique caractéristique d'une crise aiguë de porphyrie. \n\nSalle requise : Laboratoire d'histologie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_TEST</LocID>
+				<Text>Test d'urine pour la porphyrie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_TEST_DESC</LocID>
+				<Text>Les techniciens microbiologistes sont en train d'analyser l'échantillon. Ils reviendront bientôt avec les résultats</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_MANOMETER</LocID>
+				<Text>Manomètre</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_MANOMETER_DESC</LocID>
+				<Text>Les pressions compartimentales sont mesurées avec un manomètre, un appareil servant à mesurer la pression intracompartimentale d'après la résistance mesurée suite à l'injection d'une solution saline dans le compartiment. \n\nSalle requise : N'importe quel bureau / unité</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_ESOPHAGEAL_MANOMETER</LocID>
+				<Text>Manomètre œsophagial</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_ESOPHAGEAL_MANOMETER_DESC</LocID>
+				<Text>Un manomètre œsophagial consiste à insérer un mince tube sensible à la pression par le nez, jusqu'à l'œsophage, permettant de mesurer la pression lorsque le patient avale. \n\nSalle requise : N'importe quel unité de diagnostic</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_2</LocID>
+				<Text>Un prélèvement de liquide cephalorachidien, réalisé en insérant une aiguille par le bas du dos dans le canal rachidien, drainant ainsi une petite quantité de liquide. \n\nSalle requise: Laboratoire d'histologie \n\nEchantillon : Département de neurologie / Département des maladies infectieuses / Department des diagnostics \n\nEquipement requis: Verrerie + centrifugeuse médicale + Analyseur de laboratoire</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_LARYNGOSCOPY_DESCRIPTION_V1</LocID>
+				<Text>Une procédure où un tube flexible (endoscope) avec une petite caméra et source de lumière sont introduites dans le nez pour examiner le larynx, la glotte, et les cordes vocales. La laryngoscopie est également utilisée pour faciliter l'intubation trachéale \n\nSalle requise: Bureau du docteur / Salle d'observation / Centre des traumas / Unité des Soins Intensifs / Department des diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION_V1</LocID>
+				<Text>Une procédure où le fond de l'œil ou la rétine est visualisé à l'aide d'un ophtalmoscope. \n\nSalle requise: Bureau du docteur / Salle d'observation / Centre des traumas / Unité de Soins Intensifs / Bureau/Unité de diagnostics aux Urgences / Unité de Soins Intensifs / Dpt de Médecine Interne / Dpt de Neurologie / Dpt des diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_GASTROSCOPY_DESCRIPTION_V1</LocID>
+				<Text>Une procédure où un tube flexible (endoscope) avec une petite caméra et source de lumière sont introduites au travers de la bouche afin d'examiner la partie supérieure du système digestif.\n\nSalle requise: Unité de Soins Intensifs / Bureau / Unité de diagnostics en chirurgie générale / Dpt de Médecine Interne / Dpt de cardiologie / Dpt des diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_AUDIOMETRY_DESCRIPTION_V1</LocID>
+				<Text>Un test audiométrique sert à déterminer le niveau d'audition du patient. \n\nSalle requise: Bureau du docteur / Salle d'observation / Unité de Soins Intensifs / Bureau / Unité de diagnostics des Urgences / Unité de Soins Intensifs / Dpt de Chirurgie générale / Dpt de Médecine Interne / Dpt des diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

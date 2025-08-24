@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_DE_ADDON_URKN_TREATMENTS">
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<Contributors>
+	<Name>TristanTurner</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>Orchidopexie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>Die Orchidopexie ist eine Operation, bei der ein Hoden ohne Senkung in den Hodensack bewegt und dort dauerhaft fixiert wird. Orchiopexie beschreibt typischerweise auch die Operation, die zur Auflösung der Hodentorsion verwendet wird.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>Orchiektomie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>Die Orchiektomie ist ein chirurgischer Eingriff, bei dem ein oder beide Hoden entfernt werden (bilaterale Orchiektomie). Die Operation wird typischerweise zur Behandlung von Hodenkrebs, in einigen Fällen von Hodentorsion, als geschlechtsbejahendes Verfahren für einige Transfrauen durchgeführt und manchmal bei der Behandlung von fortgeschrittenem Prostatakrebs eingesetzt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>α1-blocker</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>Als Alphablocker werden Arzneimittel bezeichnet, die am Alpha-1-Rezeptor sowie am Alpha-2-Rezeptor antagonistisch wirken. Die Wirkung von Adrenalin und Noradrenalin wird dadurch aufgehoben.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>5-Alpha-Reduktasehemmer</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>5-Alpha-Reduktasehemmer sind Arzneistoffe die die die Umwandlung von Testosteron zu Dihydrotestosteron stoppen.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>Transurethrale Resektion der Prostata</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>Die transurethrale Resektion der Prostata wird als der effektivste Ansatz zur Verbesserung der Harnsymptome und des Harnflusses angesehen. Dieser chirurgische Eingriff kann jedoch bei bis zu 20% der Männer mit Komplikationen verbunden sein.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>PDE5-Hemmer</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>PDE-5-Hemmer sind eine Gruppe von Wirkstoffen, dessen vasodilatatorische Wirkung genutzt werden. Ursprünglich noch für die Therapie von Angina pectoris entwickelt, werden sie heute vorwiegend bei der Behandlung der pulmonalen Hypertonie sowie der erektilen Dysfunktion angewendet.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>Nierentransplantation</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>Nierentransplantation ist die Organtransplantation einer Niere in einen Patienten mit Nierenerkrankungen im Endstadium. Eine Nierentransplantation wird in Abhängigkeit von der Quelle des Spenderorgans typischerweise als Transplantation eines verstorbenen Spenders oder eines lebenden Spenders klassifiziert.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>Immunosuppressiva</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>Immunsuppressiva sind Medikamente, die die Aktivität des Immunsystems hemmen, um sicherzustellen, dass der Körper das neue Organ nicht abstößt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>Dialyse</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>Ist ein Prozess der Entfernung der Abfallprodukte aus dem Zellstoffwechsel aus dem Blutkreislauf, wenn die Nieren diese Funktion nicht aufrechterhalten können. \n\nErforderlicher Raum: Dialyseambulance in der Urologie \n\nErforderliche Ausrüstung: Dialysegerät</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>Dialyse (Ambulance)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>Dialysis (Ambulance)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>Vasektomie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>Die Vasektomie ist ein chirurgischer Eingriff zur Sterilisation des Mannes oder zur dauerhaften Empfängnisverhütung. Während des Eingriffs werden die männlichen Vasa deferentia geschnitten und gebunden oder versiegelt, um zu verhindern, dass Spermien in die Harnröhre gelangen und dadurch die Befruchtung einer Frau durch Geschlechtsverkehr verhindern.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

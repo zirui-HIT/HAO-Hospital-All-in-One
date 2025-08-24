@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_JA_ADDON_URKN_TREATMENTS">
+	<LanguageCode>ja</LanguageCode>
+	<LanguageNameLocalized>Japanese</LanguageNameLocalized>
+	<Contributors>
+	<Name>jackall4125678</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</LocID>                            
+		<Text>衝撃波砕石術</Text> 
+	</GameDBLocalizedString>      
+	   
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY_DESC</LocID>              
+		<Text>尿道にある石を砕くために一般的に行われる手技。 これは、高エネルギー超音波衝撃波を使用して石をほこりに砕き、通過させる非外科的治療オプションです。 \n\nRequired room: Sonography unit at General Surgery dpt \n\nRequired equipment: Therapy shockwave</Text>  
+	</GameDBLocalizedString>          
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>停留精巣</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>睾丸固定術は、下降していない睾丸を陰嚢内に移動させ、そこに永久に固定する手術です。 通常、精巣捻転を解消するために使用される手術についても説明します。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>睾丸摘除</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>睾丸摘除術は、一方または両方の睾丸を切除する外科的手技です（両側精巣摘除術）。 手術は通常、精巣腫瘍の治療として、精巣捻転症の一部の症例では、トランス女性の性別を確認する手技として行われ、進行性前立腺癌の管理に使用されることもあります。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>α1遮断薬</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>前立腺肥大症に伴う排尿困難の薬として、現在最も多く使われる内服薬です。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>アボルブ</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>前立腺肥大に関与するDHTを抑制し、肥大した前立腺を縮小させることで下部尿路症状を改善する、唯一☆の5α還元酵素阻害薬です</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>経尿道的前立腺切除術</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>尿路症状と尿流を改善するための最も効果的なアプローチであると考えられていますが、この外科的処置は最大20％の男性が合併症を伴う可能性があります。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>PDE5阻害剤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>PDE5阻害剤のシルデナフィル（バイアグラ）、バルデナフィル（レビトラ）、タダラフィル（シアリス）は、経口投与される処方薬です。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>腎臓移植</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>末期腎疾患の患者への腎臓の臓器移植です。 腎臓移植は、通常、ドナー臓器のソースに応じて、死亡ドナーまたは生体ドナーの移植に分類されます。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>免疫抑制</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>免疫系の活動を阻害し、体が新しい臓器を拒絶しないことを確認する薬です。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>透析</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>腎臓が機能を維持できない場合、血流から細胞代謝から老廃物を取り除く為の手段です。 \n\nRequired room: Dialysis ward at Urology dpt \n\nRequired equipment: Dialysis machine</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>透析病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>透析病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>精管切除</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>男性の不妊治療または永久的な避妊のための外科的処置です。 手順の間、精子が尿道に入るのを防ぎ、それによって性交による女性の受精を防ぐために、男性の輸精管が切断され、結ばれるか、または密封されます。</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

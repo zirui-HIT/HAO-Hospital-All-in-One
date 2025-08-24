@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_EN_ADDON_CRP_SLEEPYPL_TREATMENTS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT</LocID>                         
+			<Text>Watch and Wait</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT_DESC</LocID>                         
+			<Text>Watch and wait involves closely monitoring a patient's condition without giving any treatment until symptoms appear or change. Generally in these situations, letting the body naturally heal itself is the preffered approach as treatments may carry the risk of complications. \n\nRequired room: Any office</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+			<Text>Epinephrine Autoinjector</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+			<Text>An epinephrine autoinjector is a medical device for injecting a measured dose or doses of epinephrine by means of autoinjector technology. It is most often used for the treatment of anaphylaxis. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A</LocID>                                    	
+			<Text>Trimethoprim-Sulfamethoxazole</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A_DESC</LocID>                        	
+			<Text>First line MRSA therapy: Trimethoprim-Sulfamethoxazole (TMP-SMX; Bactrim DS, Septra DS. Sulfamethoprim-DS). This agent has been shown to be highly effective in treating Methicillin-resistant Staphylococcus Aureus. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT</LocID>                                    	
+			<Text>Compression Garment</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT_DESC</LocID>                        	
+			<Text>Wearing a compression garment after liposuction helps the body recover and increases the patients comfort during the healing process. A compression garment helps to correct overtime, baggy or irregular skin surface features caused by the surgery. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION</LocID>                                    	
+			<Text>Intravenous Lipid Emulsion</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION_DESC</LocID>                        	
+			<Text>Lipid emulsion or fat emulsion refers to an emulsion of lipid for human intravenous use. It is often referred to by the brand name of the most commonly used version, Intralipid, which is an emulsion of soy bean oil, egg phospholipids and glycerin, and is available in 10%, 20% and 30% concentrations. Intravenous lipid emulsion is an established, effective treatment for local anesthetic-induced cardiovascular collapse. The predominant theory for its mechanism of action is that by creating an expanded, intravascular lipid phase, equilibria are established that drive the offending drug from target tissues into the newly formed 'lipid sink'. \n\nRequired room: Regular Hospitalisation at any dpt.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX</LocID>                                    	
+			<Text>Botulinum Toxin</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX_DESC</LocID>                        	
+			<Text>Botulinum toxin (Botox) is a neurotoxic protein produced by the bacterium Clostridium botulinum and related species. It prevents the release of the neurotransmitter acetylcholine from axon endings at the neuromuscular junction and thus causes flaccid paralysis. While useful for various Plastic Surgery procedures, Botulinum toxin is the most poisonous substance known. Intoxication can occur naturally as a result of either wound or intestinal infection or by ingesting preformed toxin in food. The estimated human lethal dose of type A toxin is 1.3–2.1 ng/kg intravenously or intramuscularly, 10–13 ng/kg when inhaled, or 1000 ng/kg when taken by mouth.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP</LocID>                                    	
+			<Text>Atropine Eye Drops</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP_DESC</LocID>                        	
+			<Text>Atropine Eye Drops belongs to a class of medicines called antimuscarinic agents. It is used to dilate (enlarge) the pupil of the eye and to temporarily paralyse the lens so that your doctor can examine your eye(s). Putting cycloplegic drugs, such as atropine sulphate, into the healthy eye causes blurred vision and loss of ability to focus on different distances, forcing the lazy eye to compensate.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH</LocID>                                    	
+			<Text>Eye Patch</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH_DESC</LocID>                        	
+			<Text>The eye patch works by blocking the vision of the patient's stronger eye. This forces the weaker, or "lazy", eye to work harder so that the vision in that eye can improve.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS</LocID>                                    	
+			<Text>Corticosteroid Eye Drops</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS_DESC</LocID>                        	
+			<Text>Ophthalmic corticosteroids (cortisone-like medicines) are used to prevent permanent damage to the eye, which may occur with certain eye problems or due to surgery. They also provide relief from redness, irritation, and other discomfort. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L</LocID>                                    	
+			<Text>Alpha Hydroxy Acid Peel</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L_DESC</LocID>                        	
+			<Text>Alpha Hydroxy Acids (AHAs) are usually derived from citric (citrus fruits), glycolic (sugar cane), lactic (fermented milk), malic (apples) and tartaric (grapes). Generally, glycolic and lactic acid are the two most commonly applied. AHAs are the mildest of all chemical peels. They are primarily beneficial for the treatment of very fine lines, dry and dehydrated skin, mild skin and pigment irregularities and acne. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY</LocID>                                    	
+			<Text>Sclerotherapy</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY_DESC</LocID>                        	
+			<Text>Sclerotherapy is a treatment that involves the injection of a chemical solution into blood vessels, usually spider veins or varicose veins on the legs. Sclerotherapy irritates the vessel walls, making them stick together. This leads to fibrosis, or scarring, of the blood vessel. The unwanted veins injected with a sclerosing solution then dissolve over a period of weeks as the body naturally absorbs the treated vein. Sclerotherapy is a non-invasive procedure taking only about 10 minutes to perform. The downtime is minimal, in comparison to an invasive varicose vein surgery. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT</LocID>                                    	
+			<Text>Skin Laser Therapy</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT_DESC</LocID>                        	
+			<Text>Laser Therapy or Laser Resurfacing is a procedure that uses a laser to improve the appearance of skin or treat minor facial flaws by removing layers of skin. The two most common types of resurfacing lasers are; Carbon dioxide (CO2), this type of laser is used to treat wrinkles, scars, warts and other conditions. The second type is Erbium, this type of laser is used to remove superficial and moderately deep lines and wrinkles on the face, hands, neck and chest. It causes fewer side effects than CO2 lasers.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT</LocID>                                    	
+			<Text>Enzyme Injections (CCH)</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT_DESC</LocID>                        	
+			<Text>Injecting a type of enzyme, normally collagenase extracted from C histolyticum, into the taut cord of the patient's palm can soften and weaken it allowing the doctor to manipulate the hand in an attempt to break the cord and straighten the fingers. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2</LocID>                                    	
+			<Text>Corticosteroid Injections</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2_DESC</LocID>                        	
+			<Text>Corticosteroids (also known as steroids) are medicines that can be used to treat inflammation. When corticosteroids are injected into or around a painful area (such as a joint or muscle) they can reduce the inflammation in that area, relieving pain, reducing tissue swelling, and improving function and mobility. A Doctor may inject a corticosteroid solution directly into a hypertrophic scar or keloid, which may help reduce its size. Steroids break the bonds between collagen fibers, which reduces the amount of scar tissue beneath the skin.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY</LocID>                                    	
+			<Text>Cryosurgery</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY_DESC</LocID>                        	
+			<Text>Cryosurgery is a type of surgery that involves the use of extreme cold to destroy abnormal tissues, such as tumors. The surgery most often involves the use of liquid nitrogen, although carbon dioxide and argon may also be used. Cryosurgery works by taking advantage of the destructive force of freezing temperatures on cells. When their temperature sinks beyond a certain level ice crystals begin forming inside the cells and, because of their lower density, eventually tear apart those cells. Further harm to malignant growth will result once the blood vessels supplying the affected tissue begin to freeze.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL</LocID>                                    	
+			<Text>Hyaluronic Acid Filler</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL_DESC</LocID>                        	
+			<Text>Injectable hyaluronic acid (HA) is a type of temporary dermal filler. Hyaluronic acid is found naturally through out the body, with the highest concentrations in the joints, eyes, and skin. In the skin hyaluronic acid attracts water, which allows the skin to become more hydrated. Injectable HA is used to reduce the appearance of fine lines and wrinkles, facial folds, and to create structure, framework, and volume to the face and lips. The effects of injectable hyaluronic acid are seen immediately. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

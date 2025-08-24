@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_EN_ADDON_DIAG_SYMPTOMS_MAIN">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Ollyver</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1INH</LocID>
+			<Text>Abnormal C1 Esterase Inhibitor</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1INH_DESC</LocID>
+			<Text>C1 inhibitor levels are reduced in cases of hereditary angioedema. In this condition, 85% of patients will have decreased antigenic and functional C1 inhibitor levels, whereas 15% will have a dysfunctional protein.</Text>
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1Q</LocID>
+			<Text>Abnormal C1Q and C1 Esterase Inhibitor</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1Q_DESC</LocID>
+			<Text>Blood test showed low C1Q and low or dysfunctional C1 Inhibitor.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACE_INH</LocID>
+			<Text>ACE Inhibitor detected in blood test</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACE_INH_DESC</LocID>
+			<Text>Blood test has revealed ACE Inhibitors in the blood and a normal C1 Inhibitor level.</Text>
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_AIP</LocID>
+			<Text>Abnormal PBG in urine</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_AIP_DESC</LocID>
+			<Text>A raised urine porphobilinogen (PBG) is suggestive of an acute attack of porphyria.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NAEGLERISIS</LocID>
+			<Text>Naeglearia Fowleri Detected</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NAEGLERISIS_DESC</LocID>
+			<Text>CSF Analysis has found the free-living amoeba Naegleria Fowleri causing Meningoencephalitis.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_CLARKSONS</LocID>
+			<Text>Capillary leakage findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_CLARKSONS_DESC</LocID>
+			<Text>Evaluation of symtoms including Arterial hypotension, hemoconcentration and hypoalbuminemia in absence of secondary causes of shock and infection indicates Clarksons Disease (Idiopathic Capillary Leak Syndrome).</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_WILSONS</LocID>
+			<Text>Wilsons Disease findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_WILSONS_DESC</LocID>
+			<Text>Liver biopsy showing more than 250 ug/g of dried liver tissue confirms wilsons disease.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_COMPARTMENT</LocID>
+			<Text>High muscle compartment pressure</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_COMPARTMENT_DESC</LocID>
+			<Text>Manometer readings of &gt;30 mmHg in the muscle compartment is consistant with compartment syndrome and is at risk of ischemic necrosis.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NPT3</LocID>
+			<Text>Gene identified</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NPT3_DESC</LocID>
+			<Text>Genetic testing reveals a mutation in the npc1/npc2 gene.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ZES</LocID>
+			<Text>Multiple Gastrinoma</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ZES_DESC</LocID>
+			<Text>MRI has revealed multiple gastrinoma in the pancreas</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MENETRIERS</LocID>
+			<Text>Menetriers biopsy findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MENETRIERS_DESC</LocID>
+			<Text>Mucosal biopsy taken during endoscopy is consistant with menetriers disease.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACHALASIA</LocID>
+			<Text>Abnormal Esophageal motility</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACHALASIA_DESC</LocID>
+			<Text>Esophageal manometry shows abnormal motility consistant with achalasia.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MALS</LocID>
+			<Text>MALS findings in Echocardiograph</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MALS_DESC</LocID>
+			<Text>Doppler ultrasonography measuring peak systolic velocities greater than 200cm/s in the celiac artery are suggestive of celiac artery stenosis associated with MALS.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BOUVERET</LocID>
+			<Text>Bouveret Syndrome findings on CT</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BOUVERET_DESC</LocID>
+			<Text>CT scan has revealed presence of a bilioduodenal fistula that has gastric outlet obstruction.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_POTS</LocID>
+			<Text>Excessive Heart rate increase</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_POTS_DESC</LocID>
+			<Text>An active stand test found an increase in heart rate greater than 30 beats per minute.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BCS</LocID>
+			<Text>Abnormal Liver Ultrasound</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BCS_DESC</LocID>
+			<Text>Liver ultrasound reveals significant damage to hepatic veins with signs of thrombosis and/or stenosis.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BSS</LocID>
+			<Text>Gene identified</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BSS_DESC</LocID>
+			<Text>Genetic testing has revealed abnormalities in GP1BA, GP1BB and GP9 genes.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_EVANS</LocID>
+			<Text>Evans Syndrome findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_EVANS_DESC</LocID>
+			<Text>CBC testing revealed the presence of both hemolytic anemia and immune thrombocytopenic purpura with a positive coombs test suggestive of Evans syndrome.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ADEM</LocID>
+			<Text>ADEM findings on MRI</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ADEM_DESC</LocID>
+			<Text>MRI revealed multifocal demyelinating lesions in the brain suggestive of ADEM.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ARPKD</LocID>
+			<Text>Gene identified</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ARPKD_DESC</LocID>
+			<Text>Genetic testing reveals abnormalities in the PKHD1 gene.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BEHCETS</LocID>
+			<Text>Rucurrent Ulcers</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BEHCETS_DESC</LocID>
+			<Text>Clinical evaluation of recurrent ulcers on mouth and genitals along with an elevated crp suggests behcets disease.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BIOTIN</LocID>
+			<Text>Gene identified</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BIOTIN_DESC</LocID>
+			<Text>Genetic testing revealed abnormalities in the BTD gene.</Text>
+		</GameDBLocalizedString>
+
+		
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOEPILEPSY</LocID>
+			<Text>Abdominal Epilepsy findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOEPILEPSY_DESC</LocID>
+			<Text>Abnormal EEG shows characteristics of Abdominal Epilepsy.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOMIGRAINE</LocID>
+			<Text>Signs of Abdominal Migraines</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOMIGRAINE_DESC</LocID>
+			<Text>Diagnostic evaluation of patients symptoms and exclusion of other diagnoses indicates a diagnosis of Abdominal Migraines.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_DJS</LocID>
+			<Text>Dubin-Johnson Syndrome findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_DJS_DESC</LocID>
+			<Text>In patients with Dubin–Johnson syndrome coproporphyrin I is 3–4 times higher than coproporphyrin III. Analysis of urine porphyrins shows a normal level of coproporphyrin, but the I isomer accounts for 80% of the total (normally 25%).</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BDBS</LocID>
+			<Text>Wyburn-Mason Syndrome findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BDBS_DESC</LocID>
+			<Text>Fluorescent Angiogram has revealed AVMs (Arteriovenous Malformations) in the brain and retina.</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_UPTE</LocID>
+			<Text>Epileptic TBI Findings</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_UPTE_DESC</LocID>
+			<Text>MRI Brain scan has findings consistant with a TBI causing epilepsy.</Text>
+		</GameDBLocalizedString>
+		
+	
+
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

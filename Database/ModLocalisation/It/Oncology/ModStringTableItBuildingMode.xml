@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_IT_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>it</LanguageCode>
+<LanguageNameLocalized>Italiano</LanguageNameLocalized>
+<Contributors>
+<Name>neoxes</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>
+		<Text>Ambulatorio di Oncologia</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Ambulatorio diagnostico comune di Oncologia. \n\nRequisiti min. staff: \n1x Dottore</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO</LocID>       			
+		<Text>Oncologia</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_ONCO_DESC</LocID>       
+		<Text>Adesivo murale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO1</LocID>       			
+		<Text>Oncologia: Speranza</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO2</LocID>       			
+		<Text>Oncologia: Prevenzione</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO3</LocID>       			
+		<Text>Oncologia: Ricerca</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>                               
+		<Text>Unità Diagnostica</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>                   
+		<Text>L'unità diagnostica presso il reparto di Oncologia fornisce procedure di esame e trattamenti per i pazienti ricoverati. \n\nRequisiti min. staff: \n1x Dottore \n(Personale della Sala Medici)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>                     
+		<Text>Unità di Neurologia Oncologica</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>         
+		<Text>L'unità di neurologia oncologica fornisce esami neurologici specifici per il supporto oncologico.\n\nMin. Requisiti staff: \n1x Tecnico di Neurologia</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>                     
+		<Text>Unità di Ecografia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>         
+		<Text>L'unità di ecografia diagnostica fornisce esami e trattamenti specifici a base di ultrasuoni. \n\nRequisiti min. staff: \n1x Tecnico di Ecografia</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+            
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT01</LocID>                               
+		<Text>Quadro - Oncologia (blu)</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT01_DESC</LocID>                   
+		<Text>Un'immagine incorniciata per ricordare ai pazienti di non rinunciare mai alla speranza.</Text>  
+	</GameDBLocalizedString>
+    
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT02</LocID>                               
+		<Text>Quadro - Oncologia (rosa)</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT02_DESC</LocID>                   
+		<Text>Un'immagine incorniciata per ricordare ai pazienti di non rinunciare mai alla speranza.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE1</LocID>                               
+		<Text>Armadio a cubi</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE1_DESC</LocID>                   
+		<Text>Una decorazione, altri oggetti possono essere posizionati sopra. Unità da quattro cubi, vuota.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE2</LocID>                               
+		<Text>Armadio a cubi</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE2_DESC</LocID>                   
+		<Text>Una decorazione, altri oggetti possono essere posizionati sopra. Unità da quattro cubi, vuota.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PLANT01</LocID>                               
+		<Text>Pianta in vaso</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PLANT01_DESC</LocID>                   
+		<Text>Una decorazione.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE3</LocID>                               
+		<Text>Armadio a cubi</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE3_DESC</LocID>                   
+		<Text>Una decorazione, altri oggetti possono essere posizionati sopra. Unità da quattro cubi, con libri.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE4</LocID>                               
+		<Text>Armadio a cubi</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE4_DESC</LocID>                   
+		<Text>Una decorazione, altri oggetti possono essere posizionati sopra. Unità da quattro cubi, con libri.</Text>  
+	</GameDBLocalizedString> 
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>        
+		<LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM</LocID>                     
+		<Text>Sala Osservazione</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>           
+		<LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM_DESC</LocID>         
+		<Text>Qui è possibile eseguire numerosi esami, i pazienti sono sotto la supervisione medica. \n\nRequisiti min. staff: \n1x Dottore \n(Personale in Sala Medici)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST01</LocID>                               
+		<Text>Poster - Oncologia: Cancro del pancreas</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST01_DESC</LocID>                   
+		<Text>Una decorazione e una distrazione per i pazienti annoiati. Infografica sul cancro del pancreas.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST02</LocID>                               
+		<Text>Poster - Oncologia: Lotta</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST02_DESC</LocID>                   
+		<Text>Una decorazione e una distrazione per i pazienti annoiati. Un poster per ricordare ai pazienti che non sono soli nella loro lotta.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST03</LocID>                               
+		<Text>Poster - Oncologia: Cancro del sangue</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST03_DESC</LocID>                   
+		<Text>Una decorazione e una distrazione per i pazienti annoiati. Un'infografica sul cancro del sangue.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST04</LocID>                               
+		<Text>Poster - Oncologia: Cancro dei polmoni</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST04_DESC</LocID>                   
+		<Text>Una decorazione e una distrazione per i pazienti annoiati. Un'infografica sul cancro dei polmoni.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST05</LocID>                               
+		<Text>Poster - Oncologia: Speranza</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST05_DESC</LocID>                   
+		<Text>Una decorazione e una distrazione per i pazienti annoiati. Un poster per ricordare ai pazienti di non rinunciare mai alla speranza.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONCO</LocID>                               
+		<Text>Unità di Cardiologia</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONOC_DESC</LocID>                   
+		<Text>L'unità di cardiologia diagnostica fornisce vari metodi di esame e test relativi al sistema cardiovascolare umano. \n\nRequisiti min. staff: \n1x Tecnico di Cardiologia</Text>  
+	</GameDBLocalizedString> 
+	
+	
+	
+	
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>iVincentDong</Name>
+            <Name>ChrYue</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_OFFICE</LocID>
+                <Text>性病科门诊室</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>
+                <Text>可以进行简单检查治疗的基础诊断室。员工需求：\n1 x 医生</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_LAB</LocID>
+                <Text>性病科实验室</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>
+                <Text>急诊科化验室提供了各种各样的测试手段来帮助确认多种不同的诊断。\n最低员工需求：\n1 x 技术专家</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

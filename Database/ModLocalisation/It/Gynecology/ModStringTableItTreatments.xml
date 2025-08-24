@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_GYNECOLOGIE_TREATMENTS">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Jerry76</Name>
+			<Name>neoxes</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			
+			
+			<GameDBLocalizedString>	<LocID>TRT_IMMUNOGLOBULINE_ANTI-D</LocID>							<Text>Infusion EV di immunoglobuline</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_IMMUNOGLOBULINE_ANTI-D_DESCRIPTION</LocID>				<Text>Una soluzione sterile di anticorpi concentrati, estratti da persone sane, che viene somministrata endovena.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ACNEE</LocID>										<Text>Anti-acneico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ACNEE_DESCRIPTION</LocID>							<Text>Medicina usata per trattare vari tipi e forme di acne.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OP</LocID>												<Text>Estradiolo e progesterone</Text>	     </GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OP_DESCRIPTION</LocID>									<Text>Questo farmaco contiene 2 ormoni femminili: un estrogeno e un progestinico.</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_METFORMINE</LocID>										<Text>Metformina</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_METFORMINE_DESCRIPTION</LocID>							<Text>Farmaco antidiabetico che riduce la resistenza all'insulina.</Text>     </GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ANDROGEN</LocID>									<Text>Antiandrogeni</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ANDROGEN_DESCRIPTION</LocID>						<Text>Gli agenti antiandrogeni bloccano i recettori degli androgeni, inibendo così gli effetti degli ormoni sessuali maschili.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PROGESTATIF</LocID>										<Text>Progestinico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PROGESTATIF_DESCRIPTION</LocID>							<Text>Uno steroide progestinico naturale o sintetico.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OESTROGENOTHERAPIE</LocID>								<Text>Terapia sostitutiva con estrogeni</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OESTROGENOTHERAPIE_DESCRIPTION</LocID>					<Text>Terapia ormonale sostitutiva che prevede la somministrazione di estrogeni senza progestinico.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THM</LocID>												<Text>Terapia sostitutiva postmenopausale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THM_DESCRIPTION</LocID>									<Text>Terapia ormonale postmenopausale (HRT).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THERAPIE_HORMONALE</LocID>								<Text>Terapia ormonale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THERAPIE_HORMONALE_DESCRIPTION</LocID>					<Text>L'uso terapeutico degli ormoni.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PESSAIRE</LocID>											<Text>Pessario</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PESSAIRE_DESCRIPTION</LocID>								<Text>Dispositivo collocato nella vagina per sostenere l'utero per porre rimedio a un malposizionamento o prevenire il concepimento.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOCOLYTIQUE</LocID>										<Text>Tocolitico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOCOLYTIQUE_DESCRIPTION</LocID>							<Text>Farmaco per l'inibizione delle contrazioni uterine.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MYOLYSE</LocID>											<Text>Trattamento HIFU</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MYOLYSE_DESCRIPTION</LocID>								<Text>Il trattamento con ultrasuoni focalizzati ad alta intensità (HIFU) è una procedura medica molto precisa utilizzata localmente per riscaldare e distruggere il tessuto malato attraverso l'ablazione.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>TRT_SURVEILLANCE</LocID>										<Text>Cure mediche</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_SURVEILLANCE_DESCRIPTION</LocID>							<Text>Fornitura di ciò che è necessario per la salute e il benessere di una persona da parte di un medico, un infermiere o un altro operatore sanitario.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OCYTOCINE</LocID>										<Text>Ossitocina</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OCYTOCINE_DESCRIPTION</LocID>							<Text>Un ormone rilasciato dalla ghiandola pituitaria che provoca una maggiore contrazione dell'utero durante il travaglio e stimola l'espulsione del latte nei dotti del seno.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>TRT_ASPIRATION_ENDO_UTERINE</LocID>							<Text>Apirazione sottovuoto</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ASPIRATION_ENDO_UTERINE_DESCRIPTION</LocID>				<Text>L'aspirazione sottovuoto, o a vuoto, viene utilizzata per rimuovere il contenuto uterino attraverso la cervice.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_REEDUCATION_PELV</LocID>							<Text>Riabilitazione del pavimento pelvico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_REEDUCATION_PELV_DESCRIPTION</LocID>				<Text>Esercizi manuali intravaginali per i muscoli del pavimento pelvico, migliora il controllo della minzione.</Text>	</GameDBLocalizedString>
+			
+			
+			
+
+			<GameDBLocalizedString>	<LocID>TRT_SALPINGOTOMIE</LocID>									<Text>Salpingectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_SALPINGOTOMIE_DESCRIPTION</LocID>						<Text>Operazione con cui si pratica un'incisione in una tuba di Falloppio per rimuovere un feto ectopico.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DETORSION</LocID>										<Text>Detorsione e cistectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DETORSION_DESCRIPTION</LocID>							<Text>Detorsione chirurgica dell'adnexa.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_KYSTECTOMIE</LocID>										<Text>Cistectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_KYSTECTOMIE_DESCRIPTION</LocID>							<Text>ESportazione chirurgica di una cisti</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DRAINAGE</LocID>											<Text>Drenaggio</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DRAINAGE_DESCRIPTION</LocID>								<Text>Drenaggio chirurgico.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOILETTE_PERINEAL</LocID>								<Text>Pulizia peritoneale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOILETTE_PERINEAL_DESCRIPTION</LocID>					<Text>Pulizia chirurgica peritoneale.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CESARIENNE</LocID>										<Text>Taglio cesareo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CESARIENNE_DESCRIPTION</LocID>							<Text>Procedura chirurgica che prevede l'incisione delle pareti dell'addome e dell'utero per il parto della prole.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_ENDOSCOPIC_CAUTERIZATION</LocID>						<Text>Cauterizzazione endoscopica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_ENDOSCOPIC_CAUTERIZATION_DESCRIPTION</LocID>			<Text>La cauterizzazione endoscopica è una procedura chirurgica in cui viene utilizzata una corrente elettrica per cauterizzare un'area al fine di aprirla o chiuderla. È comunemente usata per fermare le emoragie durante gli interventi chirurgici.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>TRT_EXERESE</LocID>											<Text>Resezione chirurgica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_EXERESE_DESCRIPTION</LocID>								<Text>Rimozione chirurgica di parte di un organo o di una struttura.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_HYSTERECTOMIE</LocID>									<Text>Isterectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_HYSTERECTOMIE_DESCRIPTION</LocID>						<Text>Operazione chirurgica per rimuovere tutto o parte dell'utero.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TUMORECTOMIE</LocID>										<Text>Nodulectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TUMORECTOMIE_DESCRIPTION</LocID>							<Text>Operazione per eliminare il cancro e alcuni tessuti normali attorno al seno senza rimuoverlo.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_LIG_TROMPES</LocID>										<Text>Legatura delle tube</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_LIG_TROMPES_DESCRIPTION</LocID>							<Text>La legatura delle tube impedisce a un ovulo di viaggiare dalle ovaie attraverso le tube di Falloppio e impedisce allo sperma di risalire le tube di Falloppio fino all'ovulo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_MISE_PLAT_ABCES</LocID>									<Text>Incisione e drenaggio chirurgici dell'ascesso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_MISE_PLAT_ABCES_DESCRIPTION</LocID>						<Text>Procedura chirurgica che consiste nell'incidere verticalmente la mucosa vestibolare nel solco linfoimeneo. Si può anche incidere sulla cupola sporgente della ghiandola. Se l'ascesso è già fistolizzato, è sufficiente allargare sufficientemente il foro di drenaggio.</Text>	</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_CLOT_PREVENTING_DRUGS</LocID>						<Text>Anticoagulanti</Text>	</GameDBLocalizedString>
+			
+			</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

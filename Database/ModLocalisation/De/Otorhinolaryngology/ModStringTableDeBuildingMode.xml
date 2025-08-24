@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_DE_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>de</LanguageCode>
+<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+<Contributors>
+<Name>ldhelmchen</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>HNO Arztpraxis</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Eine auf Hals-, Nasen- und Ohrenheilkunde spezialisierte Arztpraxis. Personalbedarf:\n1x Arzt</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>HNO-Diagnostik</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>Das Diagnostikzimmer der Abteilung für Hals-Nasen-Ohren-Heilkunde bietet Untersuchungs- und Behandlungsverfahren für Krankenhauspatienten. \n\nMindest-Personalbedarf: \n1x Arzt \n(Personal im Bereitschaftsraum)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>HNO-Sonographie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>Die Sonographieeinheit bietet spezielle Ultraschalluntersuchungen und -behandlungen an. \n\nMindest-Personalbedarf: \n1x Techn. Assistent - Ultraschall</Text>  
+	</GameDBLocalizedString>
+            
+	
+   
+   	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
+	<Text>HNO-Aufkleber</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>                       	
+	<Text>Ein Wandaufkleber</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>                       	
+	<Text>Bambuspflanze</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>                       	
+	<Text>Eine dekorative Pflanze</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>                       	
+	<Text>Poster - COVID-19</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>                       	
+	<Text>Wandplakat</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>                       	
+	<Text>Poster - Halsentzündung</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>                       	
+	<Text>Wandplakat</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>                       	
+	<Text>Leeres Regal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>                       	
+	<Text>Ein dekoratives leeres Regal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF</LocID>                       	
+	<Text>Regal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
+	<Text>Ein dekoratives Regal mit dekorativen Gegenständen</Text>  
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

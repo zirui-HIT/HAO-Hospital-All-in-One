@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_GYNECOLOGIE_EXAMINATIONS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Parmeno75</Name>
+			<Name>DrkTemplar</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM</LocID>					<Text>Examen ginecológico </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM_DESCRIPTION</LocID>		<Text>Procedimientos destinados a evaluar la salud del sistema reproductivo de una mujer.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN</LocID>								<Text>Exploración de las mamas </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN_DESCRIPTION</LocID>					<Text>Inspección visual y palpación de las mamas.</Text></GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV</LocID>						<Text>Ecografía pélvica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV_DESCRIPTION</LocID>			<Text>Ecografía del área pélvica.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE</LocID>						<Text>Mamografía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE_DESCRIPTION</LocID>			<Text>Examen de las mamas por rayos X</Text>	</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING</LocID>				<Text>Análisis VDRL-TPHA </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING_DESCRIPTION</LocID>	<Text>Análisis serológico para diagnosticar sífilis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING</LocID>				<Text>Prueba de venéreas VDRL-TPHA </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING_DESCRIPTION</LocID>	<Text>La prueba de laboratorio de investigación de enfermedades venéreas (VDRL) está diseñada para evaluar si tiene sífilis, una enfermedad de transmisión sexual(ETS).</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_FCU_SAMPLING</LocID>						<Text>Muestra de Papanicolaou</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_TESTING</LocID>						<Text>Análisis de Papanicolaou </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_DESCRIPTION</LocID>					<Text>Un método para la detección temprana del cáncer, especialmente del cuello uterino, que implica la tinción de las células extraidas mediante una técnica especial que detecta el tejido enfermo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_SAMPLING</LocID>					<Text>Prueba de torelancia a la glucosa (OGTT)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_TESTING</LocID>						<Text>Análisis de tolerancia a la glucosa (OGTT)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_DESCRIPTION</LocID>					<Text>El test de tolerancia a la glucosa, también conocido como el test oral de tolerancia a la glucosa (OGTT), mide la respuesta de tu organismo al azúcar (glucosa).</Text>	</GameDBLocalizedString>
+
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

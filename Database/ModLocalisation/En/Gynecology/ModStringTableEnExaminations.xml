@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_GYNECOLOGIE_EXAMINATIONS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM</LocID>					<Text>Gynecological examination</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM_DESCRIPTION</LocID>		<Text>Procedures aimed at assessing the health of a woman's reproductive system.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN</LocID>								<Text>Breast examination</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN_DESCRIPTION</LocID>					<Text>Visual inspection and palpation of breast.</Text></GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV</LocID>						<Text>Pelvic Sonography</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV_DESCRIPTION</LocID>			<Text>Sonography of pelvic area.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE</LocID>						<Text>Mammography</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE_DESCRIPTION</LocID>			<Text>X-ray examination of the breasts.</Text>	</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING</LocID>				<Text>VDRL-TPHA sampling</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING_DESCRIPTION</LocID>	<Text>Serological sampling to diagnose syphilis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING</LocID>				<Text>VDRL-TPHA testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING_DESCRIPTION</LocID>	<Text>The venereal disease research laboratory (VDRL) test is designed to assess whether you have syphilis, a sexually transmitted infection (STI).</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_FCU_SAMPLING</LocID>						<Text>Pap smear sampling</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_TESTING</LocID>						<Text>Pap smear testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_DESCRIPTION</LocID>					<Text>A method for the early detection of cancer especially of the uterine cervix that involves the staining of exfoliated cells using a special technique which differentiates diseased tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_SAMPLING</LocID>					<Text>OGTT sampling</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_TESTING</LocID>						<Text>OGTT testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_DESCRIPTION</LocID>					<Text>The glucose tolerance test, also known as the oral glucose tolerance test (OGTT), measures your body's response to sugar (glucose).</Text>	</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>                               
+				<Text>Ovarian Biopsy Sample</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>                               
+				<Text>There is currently no effective screening test for ovarian cancer. When a patient is suspected to have ovarian cancer the doctor will perform various tests to find any abnormalities that need to be followed up with a biopsy. The only way to confirm a diagnosis of ovarian cancer is by taking a tissue sample (biopsy) and looking at the cells under a microscope. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>                               
+				<Text>Ovarian Biopsy Test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>                               
+				<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>                               
+				<Text>Vaginal Biopsy Sample</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>                               
+				<Text>Certain signs and symptoms may strongly suggest vaginal cancer, but many of them can be caused by other problems. The only way to be certain that it's cancer is to do a biopsy. In this procedure, a small piece of tissue from the suspicious area is removed. A technician specializing in diagnosing diseases with lab tests (Histology Lab Technician) will then look at the tissue sample under a microscope to see if cancer or a pre-cancerous condition is present and, if so, what type it is. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>                               
+				<Text>Vaginal Biopsy Test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>                               
+				<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>                               
+				<Text>Salivary Gland Biopsy Sample</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>                               
+				<Text>A salivary gland biopsy involves the removal of cells or small pieces of tissue from one or more salivary glands in order to be examined in the laboratory. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>                               
+				<Text>Salivary Gland Biopsy Test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>                               
+				<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>  
+			</GameDBLocalizedString>
+		
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

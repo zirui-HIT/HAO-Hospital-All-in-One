@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_CRP_EXAMINATIONS">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>Chinese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>1328411791</Name>
+			<Name>Yang zhouzhouzhou</Name>
+			<Name>Toobin</Name>
+			<Name>RouRouDR</Name>
+        </Contributors>
+
+       <LocalizedStrings>
+
+			
+			
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN</LocID>								<Text>乳房检查</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN_DESCRIPTION</LocID>					<Text>乳房的视觉检查和触诊。</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV</LocID>						<Text>盆腔超声</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV_DESCRIPTION</LocID>			<Text>盆腔区超声检查。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_SAMPLING</LocID>						<Text>子宫颈抹片检查抽样</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_TESTING</LocID>						<Text>子宫颈抹片检查测试</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_DESCRIPTION</LocID>					<Text>一种早期发现癌症的方法，尤指子宫颈，它涉及到用一种鉴别病变组织的特殊技术对脱落细胞进行染色。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_SAMPLING</LocID>					<Text>OGTT抽样</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_TESTING</LocID>						<Text>OGTT试验</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_DESCRIPTION</LocID>					<Text>葡萄糖耐量试验，也被称为口服葡萄糖耐量试验(OGTT)，测量你的身体对糖(葡萄糖)的反应。</Text>	</GameDBLocalizedString>
+
+			
+			
+			
+			
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>SPECT造影</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>又称伽马扫描，是放射医学中的诊断测试。体内吸收了放射性同位素药物的特定器官或组织所释放的X射线，通过伽马相机进行显影以类似X光造影的方式形成二维图像。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>酶联法实验-采样</Text>	</GameDBLocalizedString>	// outdated
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>酶联法实验-检测</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>酶联免疫吸附试验(ELISA）实验是一种常用的分析生物化学测定。 利用抗原抗体之间专一性键结之特性，以检测特定抗原或抗体是否存在，并可利用呈色的深浅进行定量分析。</Text>	</GameDBLocalizedString>
+
+
+    
+	
+	
+
+    <GameDBLocalizedString>
+	 <LocID>EXM_CRP_LARYNGOSCOPY</LocID>
+     <Text>喉镜检查（CRP）</Text> 
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>  
+	 <LocID>EXM_CRP_EAR_EXAMINATION</LocID>    
+	 <Text>耳部检查（CRP）</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>  
+	 <LocID>EXM_CRP_SPUTUM_CULTURE_SAMPLING</LocID>
+	 <Text>痰液取样</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	 <LocID>EXM_CRP_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+	 <Text>痰液培养用痰的取样。 \n\n所需房间：血液学实验室</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>  
+	 <LocID>EXM_CRP_SPUTUM_CULTURE_TESTING</LocID>
+	 <Text>痰液培养</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>
+	 <LocID>EXM_CRP_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+	 <Text>痰液培养是一种检测和鉴定感染肺或呼吸道的细菌或真菌的测试。痰是在肺部和相邻气道中产生的粘稠液体。如果没有细菌或真菌生长，则培养阴性。 \n\n所需房间：血液学实验室</Text> 
+	</GameDBLocalizedString>
+
+
+	
+	
+	
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_SAMPLING</LocID>                                     <Text>支气管肺泡灌洗</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_SAMPLING_DESCRIPTION</LocID>                         <Text>支气管肺泡灌洗（BAL）是一种医学操作，通过支气管镜经口或鼻进入肺部，液体注入肺部的一小部分，然后收集起来进行检查。 \n\n所需房间: 内科诊断室</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_TESTING</LocID>                                      <Text>支气管肺泡灌洗实验室检测</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_TESTING_DESCRIPTION</LocID>                          <Text>支气管肺泡灌洗的样品送实验室检测。</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_SAMPLING</LocID>                                             <Text>关节穿刺术</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_SAMPLING_DESCRIPTION</LocID>                                 <Text>关节穿刺术是一种使用注射器从关节囊收集滑液的临床操作。</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_TESTING</LocID>                                              <Text>关节穿刺实验室检测</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_TESTING_DESCRIPTION</LocID>                                  <Text>从关节处吸出的滑液样品被送到实验室进行检测。</Text>  </GameDBLocalizedString>
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

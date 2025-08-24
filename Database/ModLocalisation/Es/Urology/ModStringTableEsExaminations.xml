@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+        <Contributors>
+        <Name>Srmojon</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Orquiectomía inguinal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>La orquiectomía inguinal es un método específico de orquiectomía mediante el cual uno o ambos testículos y el cordón espermático completo se extirpan quirúrgicamente a través de una incisión en la parte inferior lateral del abdomen. El procedimiento generalmente lo realiza un urólogo, generalmente si se sospecha de cáncer testicular.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Prueba del testículo obtenido de la orquiectomía inguinal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Prueba del testículo obtenido de la orquiectomía inguinal.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Palpación de testículos</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>La palpación del escroto y su contenido revelará la presencia, tamaño, posición y forma de los testículos y sus anexos. El testículo normal es ovoide, liso, firme y levemente sensible a la palpación. El testículo se separa fácilmente del epidídimo, que se sitúa en la porción superior y lateral del testículo.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

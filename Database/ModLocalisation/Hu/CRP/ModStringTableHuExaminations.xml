@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Szcintigráfia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>A szcintigráfia a nukleáris orvostudomány egyik diagnosztikai módszere. A vizsgálat során kis mennyiségű radioaktív anyagot juttatnak a szervezetbe vénás injekció formájában. A vizsgálathoz kétféle radiofarmakonra van szükség, ezért a beteg két injekciót kap. Az egyik anyag, a technécium csak a pajzsmirigyszövetben dúsul, a másik, a MIBI a pajzsmirigyben és a túlműködő mellékpajzsmirigy-szövetben is halmozódik. A MIBI beadása után 45 perccel egy SPECT/CT vizsgálatra kerül sor (kb. 20 perc), majd rögtön egy másik kamerával a páciens pajzsmirigyéről készül felvétel. Ezután a vizsgálati alany megkapja a technécium injekciót, majd 15 perc múlva egy újabb sorozat készül a nyakáról. Vagyis összességében kb. 2 órát vesz igénybe a teljes vizsgálat.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Tesztelés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>Az enzimhez kapcsolt immunszorbens vizsgálat (ELISA) egy általánosan alkalmazott analitikai biokémiai vizsgálat. A vizsgálatban szilárd fázisú enzim immunoassay-t (EIA) használunk egy ligandum (általában egy fehérje) jelenlétének kimutatására egy folyékony mintában, a mért protein elleni antitestek felhasználásával. Az ELISA-t diagnosztikai eszközként használták az orvostudományban, a növénypatológiában és a biotechnológiában, valamint a minőség-ellenőrzés ellenőrzésére a különböző iparágakban. Az ELISA legegyszerűbb formájában az antigének a mintából egy felülethez kapcsolódnak. Ezután egy megfelelő antitestet hordunk fel a felületre, hogy kötődhessen az antigénhez. Ezt az ellenanyagot egy enzimhez kapcsolják, és az utolsó lépésben hozzáadunk egy anyagot, amely az enzim szubsztrátját tartalmazza. A következő reakció detektálható jelet generál, leggyakrabban színváltozást.</Text>	</GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

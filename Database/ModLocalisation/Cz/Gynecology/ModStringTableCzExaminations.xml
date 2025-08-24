@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_GYNECOLOGIE_EXAMINATIONS">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM</LocID>					<Text>Gynekologické vyšetření</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM_DESCRIPTION</LocID>		<Text>Postupy zaměřené na hodnocení zdraví reprodukčního systému ženy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN</LocID>								<Text>Vyšetření prsu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN_DESCRIPTION</LocID>					<Text>Vizuální kontrola a prohmatání prsu.</Text></GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV</LocID>						<Text>Pánevní sonografie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV_DESCRIPTION</LocID>			<Text>Sonografie pánevní oblasti.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE</LocID>						<Text>Mamografie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE_DESCRIPTION</LocID>			<Text>RTG vyšetření prsou.</Text>	</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING</LocID>				<Text>VDRL-TPHA - odběry</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING_DESCRIPTION</LocID>	<Text>Sérologické vzorkování k diagnostice syfilisu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING</LocID>				<Text>VDRL-TPHA - testy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING_DESCRIPTION</LocID>	<Text>Test VDRL (Venereal Disease Laboratory Test) je určen k posouzení, zda máte syfilis nebo pohlavně přenosnou infekci (STI).).</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_FCU_SAMPLING</LocID>						<Text>Odběr vzorků stěrem</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_TESTING</LocID>						<Text>Testování stěrů</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_DESCRIPTION</LocID>					<Text>Způsob včasného odhalení rakoviny, zejména děložního čípku, zahrnující barvení exfoliovaných buněk pomocí speciální techniky, která odlišuje nemocnou tkáňsue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_SAMPLING</LocID>					<Text>OGTT - odběry</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_TESTING</LocID>						<Text>OGTT - testy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_DESCRIPTION</LocID>					<Text>Test glukózové tolerance, známý také jako orální test tolerance glukózy (OGTT), měří reakci vašeho těla na cukr (glukózu).</Text>	</GameDBLocalizedString>
+
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

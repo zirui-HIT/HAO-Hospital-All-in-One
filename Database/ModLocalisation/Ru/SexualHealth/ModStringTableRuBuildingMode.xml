@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE</LocID>                    			<Text>Кабинет венеролога</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>        			<Text>Кабинет врача специализирующегося на венерических заболеваниях. Требования к персоналу:\n1x врач</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB</LocID>                    			<Text>Лаборатория венерологии</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>        			<Text>Лаборатория венерологических заболеваний обеспечивает широкий набор тестов для диагностики различных венерических заболеваний.\nМин. требования к персоналу:\n1x лаборант</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

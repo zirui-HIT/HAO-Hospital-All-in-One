@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    
+
+    <GameDBObject ID="MOD_OBJECT_UR_PIC1">
+        <AbbreviationLocID>MOD_OBJECT_UR_PIC1_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_MOD_OBJECTS_TALL_UR</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_MOD_PIC1_PROP_UR</CustomIconAssetRef>
+		
+		<Cost>48</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CARDFILE</ColorSetRef>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_OBJECT_UR_PIC2">
+        <AbbreviationLocID>MOD_OBJECT_UR_PIC2_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_MOD_OBJECTS_TALL_UR</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_MOD_PIC2_PROP_UR</CustomIconAssetRef>
+		
+		<Cost>48</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CARDFILE</ColorSetRef>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_OBJECT_UR_PIC3">
+        <AbbreviationLocID>MOD_OBJECT_UR_PIC3_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_MOD_OBJECTS_TALL_UR</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>10</TextureIDNW>
+        <TextureIDNE>11</TextureIDNE>
+        <TextureIDSE>12</TextureIDSE>
+        <TextureIDSW>13</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_MOD_PIC3_PROP_UR</CustomIconAssetRef>
+		
+		<Cost>25</Cost>
+    </GameDBObject>
+
+</Database>

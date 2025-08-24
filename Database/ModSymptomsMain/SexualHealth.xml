@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBSymptom ID="SYM_SH_NEISSERIA_GONORRHOEAE">
+		<DescriptionLocID>SYM_SH_NEISSERIA_GONORRHOEAE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1425</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_PUBIC_LICE">
+		<DescriptionLocID>SYM_SH_PUBIC_LICE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_INSECTICIDE_CREAM</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1167</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_SYPHILIS">
+		<DescriptionLocID>SYM_SH_SYPHILIS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_SEROLOGY_TESTING_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1425</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_HIV">
+		<DescriptionLocID>SYM_SH_HIV_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_SEROLOGY_TESTING_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIRETROVIRAL</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1159</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_HSV">
+		<DescriptionLocID>SYM_SH_HSV_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIVIRAL_MEDICATION</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1159</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_SCABIES">
+		<DescriptionLocID>SYM_SH_SCABIES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_INSECTICIDE_CREAM</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1167</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_HPV">
+		<DescriptionLocID>SYM_SH_HPV_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_GENITAL_SCREENING_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1159</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_MCI">
+		<DescriptionLocID>SYM_SH_MCI_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_CRYOTHERAPY</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1343</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_TV">
+		<DescriptionLocID>SYM_SH_TV_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_GENITAL_SWAB_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_TV</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_TV_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_BV">
+		<DescriptionLocID>SYM_SH_BV_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_GENITAL_SWAB_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1425</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_MGEN_MALE">
+		<DescriptionLocID>SYM_SH_MGEN_MALE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1425</IconIndex>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_PREP">
+		<DescriptionLocID>SYM_SH_PREP_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_PREP</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_RISK</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_RISK_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_UR">
+		<DescriptionLocID>SYM_SH_UR_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_SH_GENITAL_SWAB_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_UR</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_UR_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_ED">
+		<DescriptionLocID>SYM_SH_ED_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_VIAGRA</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_ED</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_ED_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_HYPERS">
+		<DescriptionLocID>SYM_SH_HYPERS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_HYPERS</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_HYPERS_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_HYPOS">
+		<DescriptionLocID>SYM_SH_HYPOS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_HYPOS</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_HYPOS_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_BAL">
+		<DescriptionLocID>SYM_SH_BAL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_BAL</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_BAL_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_SH_PRO">
+		<DescriptionLocID>SYM_SH_PRO_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_UR</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_UR_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+</Database>

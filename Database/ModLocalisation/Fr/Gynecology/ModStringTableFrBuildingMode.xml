@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_FR_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>fr</LanguageCode>
+		<LanguageNameLocalized>Français</LanguageNameLocalized>
+
+        <Contributors>
+            <Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>Salle de consultation</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>La salle de consultation est une salle de diagnostic ambulatoire commune.\n\nMin. Besoin en personnel : \n1x Médecin</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>Unité de diagnostique</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>L'unité de diagnostic du service de gynécologie-obstétrique fournit des procédures d'examen et de traitement aux patients hospitalisés.\n\nMin. Besoins en personnel : \n1x Médecin \n(Personnel basé dans une salle de garde)</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>OBJECT_DECAL_GYNECO_DPT</LocID>								<Text>Gynécologie</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

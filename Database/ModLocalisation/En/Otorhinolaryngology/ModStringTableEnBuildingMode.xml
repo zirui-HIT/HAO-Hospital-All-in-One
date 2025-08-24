@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>en</LanguageCode>
+<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>James Buckham</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>Otorhinolaryngology Office</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>A doctor's office specialising in ear, nose and throat. Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>Diagnostic unit</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>Diagnostic unit at Otorhinolaryngology department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>Sonography unit</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>Sonography unit provides specific ultrasound-based examinations and treatments. \n\nMin. Staff requirements: \n1x Technologist - USG</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB</LocID>                               
+		<Text>Sleep Lab</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB_DESC</LocID>                   
+		<Text>Sleep Lab at Otorhinolaryngology department provides sleep studies for patients who might have Sleep Apnea. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR</LocID>                               
+		<Text>Audiogram unit</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR_DESC</LocID>                   
+		<Text>Audiogram unit at Otorhinolaryngology department provides audiograms procedures for hospitalized patients who might have hearing loss. \n\nMin. Staff requirements: \n1x Technologist - USG</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_LAB</LocID>                               
+		<Text>Ear, Nose and Throat Lab</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_LAB_DESC</LocID>                   
+		<Text>Ear, Nose and Throat Lab at Otorhinolaryngology department provides special and advanced laboratory tests for specialised diseases which would be hard to diagnoses for normal lab tests. \n\nMin. Staff requirements: \n1x Technologist - Biochemistry</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT</LocID>                               
+		<Text>ENT Endoscopy Unit</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT_DESC</LocID>                   
+		<Text>ENT Endoscopy Unit at Otorhinolaryngology department provides a special room to do endoscopies and advanced biopsies to check if there is any tumours or abnormalities within the patients ear, nose or throat. \n\nMin. Staff requirements: \n1x Technologist - USG</Text>
+	</GameDBLocalizedString>
+            
+	
+   
+    
+	
+   	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
+	<Text>ENT Decal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>                       	
+	<Text>A Wall Decal</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>                       	
+	<Text>Bamboo Plant</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>                       	
+	<Text>A decorative plant </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>                       	
+	<Text>Poster - COVID-19</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>                       	
+	<Text>A decoration </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>                       	
+	<Text>Poster - Strep Throat</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>                       	
+	<Text>A decoration</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>                       	
+	<Text>Empty Shelf</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>                       	
+	<Text>A decorative empty shelf</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF</LocID>                       	
+	<Text>Medicinal Shelf</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
+	<Text>A decorative shelf with medications</Text>  
+	</GameDBLocalizedString>
+	
+
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH</LocID>                       	
+	<Text>Polysomnograph</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</LocID>                       	
+	<Text>A polysomnograph is a form of sleep polygraph used to record different physiological variables in a sleeping patient. These include heart rate (ECG), respiratory characteristics, brain function (EEG) and muscle activity (EMG).</Text>  
+	</GameDBLocalizedString>
+	
+	
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>Ear, Nose and Throat Office</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>Ear, Nose and Throat Office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN_ABBR</LocID>                       	
+	<Text>Modern Ear, Nose and Throat Office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL_ABBR</LocID>                       	
+	<Text>Audiogram Unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE_ABBR</LocID>                       	
+	<Text>Audiogram Unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>Diagnostic Unit</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>Diagnostic Unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN_ABBR</LocID>                       	
+	<Text>Modern Diagnostic Unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_SMALL_ABBR</LocID>                       	
+	<Text>Restroom</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_ABBR</LocID>                       	
+	<Text>Restroom</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_COMMON_ROOM_ABBR</LocID>                       	
+	<Text>Common room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_CLEANING_CLOSET_ABBR</LocID>                       	
+	<Text>Cleaning closet</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT_ABBR</LocID>                       	
+	<Text>On-call room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT_ABBR</LocID>                       	
+	<Text>On-call room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT_ABBR</LocID>                       	
+	<Text>Nurses station</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT_ABBR</LocID>                       	
+	<Text>Nurses station</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL_ABBR</LocID>                       	
+	<Text>High dependency unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE_ABBR</LocID>                       	
+	<Text>High dependency unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL_ABBR</LocID>                       	
+	<Text>Regular ward</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE_ABBR</LocID>                       	
+	<Text>Regular ward</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_SONOGRAPHY_UNIT_OT_ABBR</LocID>                       	
+	<Text>Sonography unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_SLEEP_LAB_OT_ABBR</LocID>                       	
+	<Text>Sleep lab</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>                       	
+	<Text>Operating room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>PREFAB_ROOM_LOUNGE_OT_ABBR</LocID>                       	
+	<Text>Lounge</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_LAB_SMALL_ABBR</LocID>                       	
+	<Text>ENT Lab</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_LAB_ABBR</LocID>                       	
+	<Text>ENT Lab</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_ENDO_SMALL_ABBR</LocID>                       	
+	<Text>ENT Endoscopy</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</LocID>                       	
+	<Text>ENT Endoscopy</Text>  
+	</GameDBLocalizedString>
+	
+	
+
+    <GameDBLocalizedString>      
+	<LocID>TOOLTIP_BUILDING_PREFAB_OTORHINOLARYNGOLOGY</LocID>                       	
+	<Text>Otorhinolaryngology</Text>  
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

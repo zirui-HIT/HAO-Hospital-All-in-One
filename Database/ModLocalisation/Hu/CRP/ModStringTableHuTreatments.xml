@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_CRP_TREATMENTS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			
+            <GameDBLocalizedString>      <LocID>TRT_CRP_INTRAVENOUS_IMMUNOGLOBULIN</LocID>                          <Text>Intravénás immunglobulin</Text>  </GameDBLocalizedString>
+
+
+
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Káliumsó</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>A legelterjedtebben alkalmazott kálium-klorid, mikrokapszulázott formában. Orális kálium-kiegészítő.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Hidratáló krém</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>Kozmetikai készítmény, a bőr kiszáradásának megelőzésére és kezelésére.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Glükóz infúzió</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Vénás glükóz infúzió.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Hidrokortizone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>A hidrokortizon, a kortizol hormon neve, ha gyógyszerként kerül forgalomba.</Text>	</GameDBLocalizedString>
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

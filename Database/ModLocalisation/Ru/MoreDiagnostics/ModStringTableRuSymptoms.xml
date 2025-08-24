@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_MORE_DG_SYMPTOMS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+			<!-- ================================================== From CRP  ================================================== -->
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Спленомегалия</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Гиперкальциемия</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Тяжелая гиперкальциемия</Text>  </GameDBLocalizedString>
+	
+			<!-- ================================================== Normaux ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Систолические шумы в сердце</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Систолический шум в сердце - это шум в сердце, слышимый во время систолы. Систола - это часть сердечного цикла, во время которой некоторые камеры сердечной мышцы сокращаются после наполнения кровью.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Диастолические шумы в сердце</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>Диастолический шум в сердце - это шум в сердце, слышимый во время диастолы. Диастола - это часть сердечного цикла, во время которой сердце наполняется кровью после опорожнения во время систолы (сокращения).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>ГЛЖ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>Гипертрофия левого желудочка (ГЛЖ) - это утолщение сердечной мышцы левого желудочка сердца, то есть левожелудочковая гипертрофия.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>Аббревиатура, которая означает «волна S в DI и волна Q в DIII» на ЭКГ. Он переводит правовращение - физиологическое или патологическое - вдоль продольной оси сердца, которая продвигает правый желудочек вперед и вправо от левого желудочка. Этот признак, один или в сочетании с другими признаками ЭКГ, иногда используется, чтобы подтвердить гипотезу легочной эмболии.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Положительная оценка Уэллса</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>Это диагностическая оценка легочной эмболии.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Положительный индекс Женева</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>Это диагностическая оценка легочной эмболии и тромбоза глубоких вен.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>Высокий D-димер</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>D-димеры образуются при расщеплении фибрина, белка, участвующего в свертывании крови. Врач назначает дозу D-димеров, если он подозревает наличие тромбов.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>Высокий уровень BNP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>BNP (мозговой натрийуретический пептид) - это нейрогормон, синтезируемый клетками сердца, называемый кардиомиоцитами, в ответ на повышение артериального давления, особенно во время развития сердечной недостаточности.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Компартмент-синдром</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>Компартмент-синдром - это состояние, при котором повышенное давление в одном из анатомических простарнств тела приводит к недостаточному кровоснабжению тканей в этом пространстве. Существует два основных типа: острый и хронический. Чаще всего поражаются пространства ноги или руки.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Пара-пупочная масса</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Ощущение раскачивающейся и расширяющейся пара-пупочной массы.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Брыжеечная ишемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Брыжеечная ишемия - это заболевание, при котором повреждение тонкой кишки происходит из-за недостаточного кровоснабжения. \n\nНеобходимая комната: операционная в отделении харургии + ПИН</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>Аденома гипофиза</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>Открытие аденомы гипофиза на МРТ. Это не дает информацию о скрытом характере или нет..</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>Абсцесс мозга</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>Абсцесс головного мозга (или церебральный абсцесс) представляет собой абсцесс, вызванный воспалением и сбором инфицированного материала, происходящий из местного (инфекция уха, зубной абсцесс, инфекция придаточных пазух носа, инфекция воздушных клеток сосцевидного отростка височной кости, эпидуральный абсцесс) или удаленный (легкие, сердце, почки и т. д.) инфекционные источники в тканях мозга.</Text>	</GameDBLocalizedString>
+			
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================	
++++  v0.01  +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE</LocID>										<Text>Гипокалиемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE_DESCRIPTION</LocID>							<Text>Гипокалиемия - это низкий уровень калия (К +) в сыворотке крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE</LocID>									<Text>Гиперкалиемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE_DESCRIPTION</LocID>						<Text>Гиперкалиемия - это повышенный уровень калия (К +) в крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP</LocID>												<Text>Отек легких</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP_DESCRIPTION</LocID>									<Text>Отек легких - это скопление жидкости в тканях и воздушных пространствах легких.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS</LocID>									<Text>Нет пульса</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS_DESCRIPTION</LocID>						<Text>Это не прощупывание пульса у человека..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE</LocID>											<Text>Ретикулярная асфиксия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE_DESCRIPTION</LocID>								<Text>Ретикулярная асфиксия - это обычный кожный симптом, состоящий из пятнистой сетчатой сетки, которая выглядит как кружевное пурпурное изменение цвета кожи. Изменение цвета вызвано набуханием венул вследствие обструкции капилляров маленькими сгустками крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE</LocID>									<Text>Тахикардия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE_DESCRIPTION</LocID>						<Text>Тахикардия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE</LocID>							<Text>JVD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE_DESCRIPTION</LocID>				<Text>Растяжение яремной вены (JVD) происходит, когда давление внутри полой вены увеличивается и проявляется в виде выпуклости, стекающей по правой стороне шеи человека.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ</LocID>										<Text>AJR</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ_DESCRIPTION</LocID>							<Text>Признак абдоминоюгулярного рефлюкса (AJR) полезен при диагностике правожелудочковой недостаточности, но часто выполняется и интерпретируется неправильно.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE</LocID>										<Text>Гепаталгия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE_DESCRIPTION</LocID>							<Text>Болезненная печень.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL</LocID>								<Text>Шум в животе</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL_DESCRIPTION</LocID>					<Text>Наличие шумов в брюшной полости может отражать наличие аневризмы брюшной аорты или сужение почечных артерий.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE</LocID>								<Text>Сосудистый шум</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE_DESCRIPTION</LocID>					<Text></Text>	</GameDBLocalizedString>
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA</LocID>											<Text>Макроглоссия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA_DESCRIPTION</LocID>								<Text>Аномальное увеличение объема языка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA</LocID>											<Text>Гипогликемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA_DESCRIPTION</LocID>								<Text>Низкий уровень глюкозы в крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA</LocID>											<Text>Гинекомастия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA_DESCRIPTION</LocID>								<Text>Аномальное увеличение объема груди у мужчин.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE</LocID>									<Text>Атрофия яичек</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE_DESCRIPTION</LocID>						<Text>Уменьшение размера яичка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN</LocID>												<Text>Ксероз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN_DESCRIPTION</LocID>									<Text>Сухая кожа - это кожа, которая потеряла защитный жировой слой и стала обезвоженной.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL</LocID>												<Text>Гиперпролактинемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL_DESCRIPTION</LocID>									<Text>Аномальное повышение концентрации пролактина в плазме.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE</LocID>								<Text>Острая надпочечниковая недостаточность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE_DESCRIPTION</LocID>					<Text>Первичная недостаточность надпочечников, вызванная внезапной дефектной выработкой стероидов надпочечников.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA</LocID>											<Text>Гипокальциемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA_DESCRIPTION</LocID>								<Text>Гипокальциемия - это ненормальное падение уровня кальция в крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE</LocID>										<Text>Тромбоцитоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE_DESCRIPTION</LocID>							<Text>Тромбоцитоз - это состояние, при котором в крови наблюдается чрезмерное количество тромбоцитов.</Text>	</GameDBLocalizedString>
++++ v0.03 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GALLSTONES</LocID>										<Text>Желчные камни</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HTAP</LocID>												<Text>Легочная гипертензия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOLYSE</LocID>											<Text>Гемолиз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA</LocID>										<Text>Костная аплазия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA_DESCRIPTION</LocID>							<Text>Аплазия костного мозга относится к тем гематологическим состояниям, которые вызваны заметным уменьшением и / или дефектом плюрипотентных или фиксированных стволовых клеток или неспособностью микроокружения костного мозга поддерживать гематопоэз.</Text>	</GameDBLocalizedString>
++++ v0.03.2 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS</LocID>									<Text>Гепатит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS_DESCRIPTION</LocID>						<Text>Воспаление печени.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS</LocID>								<Text>Телеангиоэктазии</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS_DESCRIPTION</LocID>					<Text>Телангиэктазии, также известные как сосудистые звездочки, представляют собой небольшие расширенные кровеносные сосуды, которые могут возникать вблизи поверхности кожи или слизистых оболочек, размером от 0,5 до 1 миллиметра в диаметре. Эти расширенные кровеносные сосуды могут развиваться в любом месте на теле, но обычно встречаются на лице вокруг носа, щек и подбородка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER</LocID>								<Text>Перегрузка железом</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER_DESCRIPTION</LocID>					<Text>Перегрузка железом или гемохроматоз указывает на накопление железа в организме по любой причине.</Text>	</GameDBLocalizedString>
++++ v0.03.3 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE</LocID>									<Text>Отторжение трансплантата</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE_DESCRIPTION</LocID>						<Text>У пациента происходит процесс отказа его трансплантата, что соответствует разрушению трансплантата, пересаженного в организм, из-за иммунного ответа, направленного против него.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE</LocID>							<Text>UDH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE_DESCRIPTION</LocID>				<Text>Во время верхнего пищеварительного кровоизлияния (UDH) кровотечение происходит вверх по течению от связки Трейца (пищевода, желудка и двенадцатиперстной кишки).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE</LocID>							<Text>LDH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE_DESCRIPTION</LocID>				<Text>При более низком пищеварительном кровотечении (ЛДГ) потеря крови происходит вниз по течению от связки Трейца (тонкой кишки, толстой кишки, прямой кишки и заднего прохода).</Text>	</GameDBLocalizedString>
+-->			
+			
+			<!-- ================================================== Main ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Аортальный стеноз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Уменьшение диаметра аортального клапана.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Аортальная недостаточность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Недостаточный аортальный клапан.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Тяжелая гипертония</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Быстроразвивающаяся тяжелая гипертония.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Рефлекторный обморок</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>Это нейровегетативный рефлекс артериальной гипотензии с более или менее выраженной брадикардией после стимула.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Ортостатическая гипотензия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Ортостатическая гипотензия положительная.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Нарушение проводимости</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Полная пароксизмальная блокада внутрисердечной проводимости.</Text>	</GameDBLocalizedString>	
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Предобморочное состояние</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>Признаки и симптомы, которые предшествуют обмороку, называются продромами. Липотимия может быть названа неизбежным ощущением обморока.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>Фибрилляция предсердий</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>Диагноз ФП может быть подтвержден только по ЭКГ. Это показывает отсутствие зубца Р и наиболее часто нерегулярный QRS.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>САБ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>Синоатриальная блокада  (SAB) это полное прерывание внутрипредсердной проводимости после определенных синусовых импульсов.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>Атриовентрикулярная блокада 3-й степени - это полное и постоянное прерывание передачи импульсов предсердий в желудочки.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>Блок левой ножки пучка Гиса</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Типичное появление блока левой ножки пучка Гиса на ЭКГ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>Желудочковая тахикардия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Типичное появление ЖТ на ЭКГ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>Расширение интервала QT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Расширение интервала QT на ЭКГ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>Соединительная тахикардия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>Соединительная тахикардия (JT) представляет собой гетерогенную группу тахикардии, цепь которой начинается или обязательно проходит через атриовентрикулярное соединение.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>Дельта волны</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text>Нарушение и замедление начальной части комплекса QRS в связи с предварительным возбуждением желудочка дополнительным пучком.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>Измененный LVEF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>Фракция выброса левого желудочка (LVEF) - это процент крови, выброшенной из левого желудочка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>Измененный RVEF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>Фракция выброса правого желудочка (RVEF) - это процент крови, выброшенной из правого желудочка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>Малый SPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>Индекс систолического давления (SPI) составляет менее 0,9. IPS основан на сборе систолического давления от нижних и плечевых конечностей и установлении соотношения давления на лодыжку / плечевого давления.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>AБA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>Обнаружена аневризма брюшной аорты (АБА).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>Подколенная аневризма</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>Обнаружена аневризма подколенной артерии.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>Целиакия окклюзия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>Окклюзия чревной артерии и брыжеечных артерий.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>Ишемия тканей верхних конечностей</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>Ишемия - это прекращение или недостаточность кровообращения в части тела или органа, которая лишает клетки кислорода и вызывает их некроз. Ишемия может быть связана с закупоркой сосуда (тромбоз) или сдавлением артерии (стеноз).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>Ишемия тканей нижних конечностей</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>Ишемия - это прекращение или недостаточность кровообращения в части тела или органа, которая лишает клетки кислорода и вызывает их некроз. Ишемия может быть связана с закупоркой сосуда (тромбоз) или сдавлением артерии (стеноз).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>Окклюзия брыжеечных артерий</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>Это острая артериальная окклюзия или слабый кровоток.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>Разрыв АБА</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>Разрыв аневризмы брюшной аорты.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>Разрыв АПА</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>Разрыв общей аневризмы подвздошной артерии.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO</LocID>											<Text>Низкий уровень биодоступного тестостерона.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>								<Text>Значительное снижение циркулирующего тестостерона.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>								<Text>Пролактинома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>								<Text>Пролактинома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>						<Text>Обнаружение пролактиномы на МРТ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>							<Text>Соматотропная аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>				<Text>Нет отклика на тесте.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>						<Text>Кортикотропная аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>						<Text>Кортикотропная аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>				<Text>Тест в пользу диагностики неизлечимого гиперкортицизма, если кортизолемия не опускается ниже порога 18 нг / мл [50 нмоль / л]</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>							<Text>Тиреотропная аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>				<Text>Обнаружение центрального гипертиреоза при анализе крови. Это характеризуется высокой концентрацией гормонов щитовидной железы, связанной с нормальной высокой или ненормальной концентрацией ТТГ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>						<Text>Пангипопитуитаризм</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>						<Text>Пангипопитуитаризм</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>				<Text>Обнаружение аденомы гипофиза, которая препятствует правильному функционированию шишковидной железы при МРТ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_F</LocID>										<Text>Периферическая надпочечниковая недостаточность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_H</LocID>										<Text>Периферическая надпочечниковая недостаточность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>								<Text>Обнаружение периферической надпочечниковой недостаточности при синактеновой пробе. Это характеризуется низким уровнем кортизола, связанным с высокой концентрацией АКТГ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_F</LocID>										<Text>21-OH дефицит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_H</LocID>										<Text>21-OH дефицит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>								<Text>Все сообщество эндокринологов признает, что диагноз D21OH-NC основан на дозе 17OHP утром и в лучшем случае в первой части цикла. Образец должен быть взят в отсутствие или на расстоянии от лечения глюкокортикоидами, так как даже «замещающее» лечение и фармакологическое лечение тем более создают риск игнорирования диагноза (ложноотрицательный) путем ингибирования кортикотропной оси. Отбор проб для определения 17OHP также должен быть сделан утром, потому что, если это делается днем, концентрация 17OHP может быть найдена в пределах нормального диапазона у пациента с D21OH-NC просто из-за флуктуации nycthemeral коры надпочечников функция.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>									<Text>Центральная надпочечниковая недостаточность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>						<Text>Обнаружение центральной надпочечниковой недостаточности во время теста синактена. Это характеризуется низким уровнем кортизола, связанным с низкой или ненормально концентрацией АКТГ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>									<Text>анти-CASR антитела</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>						<Text>Открытие анти-CASR-антитела во время теста ELISA.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>							<Text>Паращитовидная аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>				<Text>Привязка аденомы паращитовидных желез к сцинтиграфии.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN</LocID>											<Text>Адреналовая аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Открытие аденомы, секретирующей КТ.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN</LocID>										<Text>Гипертрофия надпочечников</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>							<Text>Увеличение размера надпочечников при компьютерной томографии.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME</LocID>									<Text>Неподходящая секреция</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>Неподходящая (нормальная или высокая) секреция инсулина и пептида С при гипогликемии.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP</LocID>										<Text>Панкреатическая гипогликемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>Гипогликемия панкреатического происхождения не связана с аденомой, секретирующей инсулин.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>								<Text>Чистая сцинтиграфия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>					<Text>Отсутствие фиксации сцинтиграфией.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>					<Text>"Шахматная доска" сцинтиграфия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>		<Text>Чередование горячих и холодных пляжей (шахматная доска) со сцинтиграфией.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>Токсическая аденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>Гиперфиксация изотопа на уровне клубеньков, в то время как остальная часть паренхимы гипофиксантная или холодная или «вымершая» (из-за уменьшения ТТГ) при сцинтиграфии.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>								<Text>Гиперосмолярность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>					<Text>Необычайно высокая осмоляльность.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE</LocID>										<Text>Кетонемия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>							<Text>Избыток кетонов в крови.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D</LocID>										<Text>Малый уровень PBG-D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>							<Text>Порфобилиноген-деаминаза (гидроксиметилбилан-синтаза или уропорфириноген-1-синтаза) представляет собой фермент, который у людей кодируется геном HMBS. Порфобилиноген-деаминаза участвует в третьей стадии пути биосинтеза гема.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE</LocID>								<Text>Сфероцит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>					<Text>Обнаружение сфероцитов в мазке крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>								<Text>Малый уровень GPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>					<Text>Глюкозо-6-фосфат-изомераза (GPI), также известная как фосфоглюкозо-изомераза / фосфоглюкоизомераза (PGI) или фосфогексозо-изомераза (PHI), представляет собой фермент, который у людей кодируется геном GPI в хромосоме 19. В цитоплазме ген-продукт функционирует как гликолитический фермент (глюкозо-6-фосфат-изомераза), который преобразует глюкозо-6-фосфат (G6P) и фруктозо-6-фосфат (F6P).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>								<Text>Малый уровень G6PD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>					<Text>Глюкозо-6-фосфатдегидрогеназа (G6PD или G6PDH) - это цитозольный фермент, который помогает защитить красные кровяные тельца от окислительного повреждения от таких соединений, как перекись водорода.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS</LocID>									<Text>Малый уровень пируваткиназы</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>						<Text>Пируваткиназа - это фермент, участвующий в последней стадии гликолиза.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>								<Text>Тест Кумбса положительный</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>					<Text>Тест Кумбса положительный.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>							<Text>Малый уровень ADAMTS13</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>				<Text>ADAMTS13 (дисинтегрин и металлопротеиназа с мотивом тромбоспондина типа 1, член 13), также известный как протеаза, расщепляющая фактор фон Виллебранда (VWFCP), представляет собой цинксодержащий фермент металлопротеазу, который расщепляет фактор фон Виллебранда (vWf), включающий большой белок в свертывании крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>								<Text>Дрепаноциты</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>								<Text>Дрепаноциты</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>					<Text>Обнаружение дрепаноцитов в мазке крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF</LocID>										<Text>Малый уровень vWF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>							<Text>Фактор фон Виллебранда (VWF) - это гликопротеин крови, участвующий в гемостазе.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS</LocID>							<Text>Пурпура фульминанс</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>				<Text>Пурпура фульминанс обнаружены.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE</LocID>							<Text>DIC декомпенсированный</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</LocID>				<Text>DIC обнаружен.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE</LocID>								<Text>Мутированный NPC1</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>					<Text>Белки NPC1 и NPC2, по-видимому, работают на уровне эндолизосомной системы для облегчения внутриклеточного транспорта холестерина и других молекул, но их точная функция еще не известна.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE</LocID>								<Text>HE - IgE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>					<Text>Гиперосозинофилия и повышенный общий IgE.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K</LocID>								<Text>Анализ положительный</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>					<Text>Анализ поломки хромосомы положительный.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>					<Text>Макротромбоциты</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>		<Text>Более 10% исследованных тромбоцитов являются гигантскими.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>						<Text>Аномальный интегрин</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>			<Text>Найдены количественные и / или качественные аномалии интегрина альфа IIb бета 3.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP</LocID>							<Text>Мутации RP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>				<Text>Рибосомные белки (RP) из малой (RPS7, RPS17, RPS19, RPS24) или большой (RPL5, RPL11, RPL35a) субъединицы рибосомы мутируют.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>					<Text>Глюкоцереброзидазный дефицит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>		<Text>Низкий уровень глюкоцереброзидазы, приводящий к накоплению отложений глюкозилцерамида.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>						<Text>Мутация SH2D1A </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>			<Text>Мутация гена SH2D1A, который находится на Х-хромосоме. Этот ген кодирует белок под названием SAP (сигнальные лимфоциты с активацией молекулами [SLAM] ассоциированный белком).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>							<Text>Сидеробласты</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>				<Text>Сидеробласты были найдены. Это железосодержащие грануляции, окрашенные реагентом Перлса, соответствующие агрегатам рибосом и ферритина.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>					<Text>Эритробласт</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>		<Text>Низкий уровень эритробластов.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>							<Text>Гемоглобин C</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>				<Text>Обнаружение гемоглобинов типа С с мазком крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>							<Text>Гемоглобин  D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>				<Text>Обнаружение гемоглобинов типа D с мазком крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>							<Text>Гемоглобин  E</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>				<Text>Обнаружение гемоглобинов типа E с мазком крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>							<Text>Гемоглобин  M</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>				<Text>Обнаружение гемоглобинов типа M с мазком крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>					<Text>Триада</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>		<Text>Классическая триада дисфагии, железодефицитной анемии и тканей пищевода.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>					<Text>Мутация</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>		<Text>Обнаружена мутация в одном из двух генов ACVRL или ENG, вовлеченных в сигнальный путь TGF-бета.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL</LocID>							<Text>Тест Кумбса положительный</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>				<Text>Тест Кумбса положительный.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE</LocID>								<Text>Мутация гена HFE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>					<Text>Ген HFE, расположенный на 6 хромосоме, мутирован. Существуют два типа изменений: мутация C282Y и мутация H63D.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>						<Text>Мутация</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>			<Text>Обнаружены мутации в гене, кодирующем гемоувелин (HJV) на хромосоме 1, или мутации в гене, кодирующем гепсидин (HAMP) на хромосоме 19.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>								<Text>Мутация гена TFR2</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>					<Text>Обнаружены мутации в гене рецептора трансферрина-2 (TFR2) на хромосоме 7.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>							<Text>Мутация гена SLC40A1</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>				<Text>Обнаружены мутации в гене SLC40A1, расположенном на хромосоме 2, которая кодирует ферропортин (FPN).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>						<Text>Гипоклеточный костный мозг</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>			<Text>Костный мозг гипоклеточный, «пустой».</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>				<Text>Тромбоцитопеническая пурпура</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>	<Text>Симптомы, наводящие на мысль о тромбоцитопенической пурпуре.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD</LocID>								<Text>DRESS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>					<Text>Симптомы, указывающие на DRESS синдром.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>					<Text>Anti-PF4 ab</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>		<Text>Антитела против PF4 / гепарина определяли методом ИФА.</Text>	</GameDBLocalizedString>
+<!-- v0.03.3 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>									<Text>Очень низкий уровень кортизола</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>						<Text>Уровень кортизола в крови очень низкий.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>							<Text>Пересадка</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>				<Text>Этому пациенту срочно нужна пересадка сердца!</Text>	</GameDBLocalizedString>			
+				
+		</LocalizedStrings>
+
+  
+	</GameDBStringTable>
+</Database>

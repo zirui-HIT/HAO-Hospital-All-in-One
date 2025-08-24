@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_KR_ADDON_URKN_DIAGNOSES">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_TT</LocID>                               
+		<Text>고환 꼬임</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_TT_DESC</LocID>                   
+		<Text>고환 꼬임은 정삭이 꼬여 고환으로 가는 혈액이 끊어질 때 발생합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI</LocID>                               
+		<Text>부고환염</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI_DESC</LocID>                   
+		<Text>부고환염은 정자를 저장하고 운반하는, 고환 뒤쪽에 있는 관에 염증이 생기는 것입니다. 젊은 남성에게 가장 흔하지만, 어떤 나이의 남성이든 발병될 수 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI_ORCH</LocID>                               
+		<Text>부고환-고환염</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI_ORCH_DESC</LocID>                   
+		<Text>부고환-고환염은 부고환 뿐만 아니라 고환에도 염증이 생기는 것입니다. 젊은 남성에게 가장 흔하지만, 어떤 나이의 남성이든 발병될 수 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_1</LocID>                               
+		<Text>정상피종 고환암: 1기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_1_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 정상피종은 일반종양과 같이 같은 종류의 종양세포로 증식됨을 의미합니다.\n\n1기는 아직 암이 국소 조직에만 머물러 있음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_2</LocID>                               
+		<Text>정상피종 고환암: 2기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_2_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 정상피종은 일반종양과 같이 같은 종류의 종양세포로 증식됨을 의미합니다.\n\n2기는 암이 횡경막 아래쪽 림프절로 전이했음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_3</LocID>                               
+		<Text>정상피종 고환암: 3기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_3_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 정상피종은 일반종양과 같이 같은 종류의 종양세포로 증식됨을 의미합니다.\n\n3기는 암이 횡경막 위쪽 림프절으로도 전이했음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_4</LocID>                               
+		<Text>정상피종 고환암: 4기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_4_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 정상피종은 일반종양과 같이 같은 종류의 종양세포로 증식됨을 의미합니다.\n\n4기는 암이 다른 장기로도 전이되었음을 의미합니다.</Text>  
+	</GameDBLocalizedString>	
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_1</LocID>                               
+		<Text>비정상피종 고환암: 1기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_1_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 비정상피종은 일반종양과 다르게 다른 종류의 종양세포로도 증식됨을 의미합니다.\n\n1기는 아직 암이 국소 조직에만 머물러 있음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_2</LocID>                               
+		<Text>비정상피종 고환암: 2기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_2_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 비정상피종은 일반종양과 다르게 다른 종류의 종양세포로도 증식됨을 의미합니다.\n\n2기는 암이 횡경막 아래쪽 림프절로 전이했음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_3</LocID>                               
+		<Text>비정상피종 고환암: 3기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_3_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 비정상피종은 일반종양과 다르게 다른 종류의 종양세포로도 증식됨을 의미합니다.\n\n3기는 암이 횡경막 위쪽 림프절으로도 전이했음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_4</LocID>                               
+		<Text>비정상피종 고환암: 4기</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_4_DESC</LocID>                   
+		<Text>고환에 생긴 악성종양인 고환암은 조직형에 의해 분류하여 정상피종과 비정상피종으로 나뉩니다. 비정상피종은 일반종양과 다르게 다른 종류의 종양세포로도 증식됨을 의미합니다.\n\n4기는 암이 다른 장기로도 전이되었음을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_1</LocID>                               
+		<Text>전립선비대증</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_1_DESC</LocID>                   
+		<Text>전립선비대증은 전립샘의 요도 주위 영역에 큰 결절을 형성하여, 요도를 압박하는 병입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_2</LocID>                               
+		<Text>전립선비대증</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_2_DESC</LocID>                   
+		<Text>전립선비대증은 전립샘의 요도 주위 영역에 큰 결절을 형성하여, 요도를 압박하는 병입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KNUR_ARF</LocID>                               
+		<Text>급성신부전</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KNUR_ARF_DESC</LocID>                               
+		<Text>급성신부전은 혈액을 여과하고 소변을 생성하는 신장 기능의 급작스러운 상실을 말하며, 신장 이식을 필요로 할 수 있습니다. 원인은 다양하지만 일반적으로 광범위한 조직 손상 또는 신장 혈류 감소가 유발합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_WDIA</LocID>                               
+		<Text>매주 투석 약속</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_WDIA_DESC</LocID>                               
+		<Text>환자는 만성신부전을 앓고 있으며 매주 투석을 위해 오기로 했습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_COU</LocID>                         
+		<Text>요로결석</Text> 
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>    
+		<LocID>DIA_KN_COU_DESCRIPTION</LocID>         
+		<Text>신장결석은 보통 갈슘이 응집되어 생기게 되는데, 이 돌이 요로를 통해 돌아다니다가 요관에 끼게 되면 극도의 고통을 유발합니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>  
+		<LocID>DIA_KN_CIB</LocID>                      
+		<Text>방광결석</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_CIB_DESCRIPTION</LocID>             
+		<Text>방광결석은 소변이 농축되어 방광에 형성되며 생깁니다. 이것은 소변의 흐름이 저해될 때야 증상으로 나타날 것입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_ACS</LocID>                    
+		<Text>요로감염</Text> 
+	</GameDBLocalizedString>
+           
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_ACS_DESCRIPTION</LocID>          
+		<Text>방광염이라고도 불리는 요로감염은 대장균으로 대표되는 박테리아에 의해 방광이 감염되는 것을 의미합니다. 요도가 짧은 여성에게서 더욱 흔하게 나타나는 질환입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_INC</LocID>                        
+		<Text>간질성 방광염</Text> 
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_INC_DESCRIPTION</LocID>         
+		<Text>간질성 방광염은 방광 통증 증후군이라고도 불리우며, 요로 감염 등 다른 명백한 원인 없이 방광 충만과 연관된 치골 상부 통증이 나타나는 증상입니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_ANS</LocID>                     
+		<Text>사구체신염</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_TIN</LocID>                    
+		<Text>간질성 신장염</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_PNS</LocID>                        
+		<Text>신우신염</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_ARF</LocID>                        
+		<Text>급성신부전</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_CKD</LocID>                        
+		<Text>만성 신장병</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_COK</LocID>                     
+		<Text>신장결석</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_047</LocID>          
+        <Text>용혈성 요독 증후군</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>TRM_KN_KCB</LocID>          
+        <Text>신장 타박상</Text>	 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_STER_WISH</LocID>                     
+		<Text>불임법</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_STER_WISH_DESC</LocID>          
+        <Text>불임법은 의도적으로 번식을 할 수 없게 만드는 여러 가지 산아제한 의료 방법 중 하나입니다. 이는 한 번 시행되면 되돌리는것은 거의 불가능합니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_FOURGANG</LocID>                     
+		<Text>푸르니에 괴저</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_FOURGANG_DESC</LocID>          
+        <Text>푸르니에 괴저는 괴사성 근막염의 일종으로서, 음낭 뿐만이 아니라 회음부와 항문 주위의 빠르게 진행하는 괴사와 불량한 예후를 초래하는 것으로 알려져 있습니다. 사망률이 높은 비뇨기과적 응급 질환입니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_1</LocID>                     
+		<Text>투명세포형 신장암: 1기</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_1_DESC</LocID>          
+        <Text>투명세포형 신세포암으로도 불리는 신장 암으로서, 종양의 세포가 거품처럼 깨끗해 보이는 특징을 가지고 있습니다.\n\n1기는 아직 암이 국소 조직에만 머물러 있음을 의미합니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_LOC_2</LocID>                     
+		<Text>투명세포형 신장암: 2기(국소)</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_LOC_2_DESC</LocID>          
+        <Text>투명세포형 신세포암으로도 불리는 신장 암으로서, 종양의 세포가 거품처럼 깨끗해 보이는 특징을 가지고 있습니다.\n\n2기 국소 단계에서는 종양이 크지만 아직 신장에만 제한되어 있습니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_SP_2</LocID>                     
+		<Text>투명세포형 신장암: 2기(전이)</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_SP_2_DESC</LocID>          
+        <Text>투명세포형 신세포암으로도 불리는 신장 암으로서, 종양의 세포가 거품처럼 깨끗해 보이는 특징을 가지고 있습니다.\n\n2기 전이 단계에서는 종양이 신장에 제한되어 있지만, 대부분의 신장을 절제해야 합니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_INFA_3</LocID>                     
+		<Text>투명세포형 신장암: 3기(하대정맥)</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_INFA_3_DESC</LocID>          
+        <Text>투명세포형 신세포암으로도 불리는 신장 암으로서, 종양의 세포가 거품처럼 깨끗해 보이는 특징을 가지고 있습니다.\n\n3기는 암이 주변 장기에 전이되었음을 의미합니다. 이 경우 하대정맥으로 전이되었습니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_3</LocID>                     
+		<Text>투명세포형 신장암: 3기(림프절)</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_3_DESC</LocID>          
+        <Text>투명세포형 신세포암으로도 불리는 신장 암으로서, 종양의 세포가 거품처럼 깨끗해 보이는 특징을 가지고 있습니다.\n\n3기는 암이 주변 장기에 전이되었음을 의미합니다. 이 경우 신장 주위 림프절로 전이되었습니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_4</LocID>                     
+		<Text>투명세포형 신장암: 4기</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_4_DESC</LocID>          
+        <Text>투명세포형 신세포암으로도 불리는 신장 암으로서, 종양의 세포가 거품처럼 깨끗해 보이는 특징을 가지고 있습니다.\n\n4기는 암이 다양한 장기로 전이되었음을 의미합니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_BLRUP</LocID>                     
+		<Text>방광타박상</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_BLRUP_DESC</LocID>          
+        <Text>방광타박상</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_IPRUP</LocID>                     
+		<Text>복강내 방광파열</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_IPRUP_DESC</LocID>           
+        <Text>방광 파열은 복강 내로 소변을 유출시켜 복막염을 일으키며 장 유착을 일으키기 때문에 응급 수술을 필요로 하는 병입니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_1</LocID>                     
+		<Text>복강외 방광파열</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_1_DESC</LocID>          
+        <Text>방광 파열은 복강 내로 소변을 유출시켜 복막염을 일으키며 장 유착을 일으키기 때문에 응급 수술을 필요로 하는 병입니다. 이 유형은 카테터를 방광에 넣어 호전될 때까지 유지시켜 치료할 수 있습니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_2</LocID>                     
+		<Text>복강외 방광파열 - 카테터</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_2_DESC</LocID>          
+        <Text>방광 파열은 복강 내로 소변을 유출시켜 복막염을 일으키며 장 유착을 일으키기 때문에 응급 수술을 필요로 하는 병입니다. 이전 처치 이후 카테터가 제대로 배출되지 않아 재수술이 필요합니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_PENRUP_1</LocID>                     
+		<Text>관통성 방광파열</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_PENRUP_1_DESC</LocID>          
+        <Text>총알 또는 기타 관통성 물체로 인한 방광의 손상은 일반적으로 방광에 카테터를 남겨 두어 소변과 혈액을 배출 시키는 수술로 치료합니다.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_VVF</LocID>                     
+		<Text>방광질 누공</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_VVF_DESC</LocID>          
+        <Text>방광질 누공은 여성에게 발생하는 질환으로, 연결되지 않아야 하는 방광과 질이 어떠한 이유로 인해 연결된 경우를 의미합니다.</Text>	
+	</GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

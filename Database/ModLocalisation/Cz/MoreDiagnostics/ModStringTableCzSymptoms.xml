@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_MORE_DG_SYMPTOMS">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+			<!-- ================================================== From CRP  ================================================== -->
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Splenomegalie</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Hyperkalcémie</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Těžká hyperkalcémie</Text>  </GameDBLocalizedString>
+	
+			<!-- ================================================== Normaux ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Systolické srdeční šelesty</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Systolické srdeční šelesty jsou srdeční šelesty slyšené během systoly. Systola je část srdečního cyklu, během níž se po naplnění krví smršťují některé komory srdečního svalu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Diastolické srdeční šelesty</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>Diastolické srdeční šelesty jsou srdeční šelesty slyšené během diastoly. Diastola je část srdečního cyklu, během níž se srdce po vyprázdnění během systoly (kontrakce) znovu naplní krví).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>LVH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>Hypertrofie levé komory (LVH) je zesílení srdečního svalu levé komory srdce, tj. Hypertrofie levé komory.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>Zkratka, což znamená „S vlna v DI a Q vlna v DIII“ na EKG. Překládá dextrorotaci - fyziologickou nebo patologickou - podél podélné osy srdce, která přináší pravou komoru dále dopředu a napravo od levé komory. Tento znak, samotný nebo v kombinaci s jinými EKG znaky, se někdy používá k posílení hypotézy plicní embolie.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Wells skóre pozitivní</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>Toto je diagnostické skóre pro plicní embolii.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Geneva skóre pozitivní</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>Toto je diagnostické skóre pro plicní embolii a hlubokou žilní trombózu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>Vysoký D-dimer</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>D-dimery se produkují štěpením fibrinu, proteinu podílejícího se na srážení krve. Lékař má předepsanou dávku D-dimerů, pokud má podezření na přítomnost krevních sraženin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>Vysoké BNP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>BNP (Mozkový natriuretický peptid), je neuro-hormon syntetizovaný srdečními buňkami zvaný kardiomyocyty v reakci na zvýšení krevního tlaku, zejména během vývoje srdečního selhání.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Syndrom kompartmentu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>Syndrom kompartmentu je stav, kdy zvýšený tlak v jednom z anatomických oddílů těla vede k nedostatečnému zásobení tkáně krví v tomto prostoru. Existují dva hlavní typy: akutní a chronické. Nejčastěji jsou zapojeny přihrádky na nohu nebo paži.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Parabubikální hmota</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Vnímání kývavé a expanzivní para-pupeční hmoty.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Mezenterická ischemie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Mesenterická ischemie je zdravotní stav, při kterém dochází k poranění tenkého střeva kvůli nedostatečnému zásobení krví. \n\nPožadovaná místnost: Operační sál na chirurgii + JIP</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>Adenom hypofýzy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>Objev adenomu hypofýzy na MRI. To neposkytuje informace o vylučující povaze nebo o ní.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>Mozkový absces</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>Mozkový absces (nebo mozkový absces) je absces způsobený zánětem a hromaděním infikovaného materiálu pocházejícím z lokálního (ušní infekce, zubního abscesu, infekce paranazálních dutin, infekce mastoidních vzduchových buněk spánkové kosti, epidurálního abscesu) nebo vzdáleného (plíce, srdce, ledviny atd.) infekční zdroje v mozkové tkáni.</Text>	</GameDBLocalizedString>
+
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================	
+-->	
+			
+			
+			<!-- ================================================== Main ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Aortální stenóza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Snížení průměru aortální chlopně.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Aortální insuficience</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Nedomykavost aortální chlopně.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Těžká hypertenze</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Těžká hypertenze, rychlý nástup.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Reflexní synkopa</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>Jedná se o neurovegetativní reflex arteriální hypotenze s více či méně výraznou bradykardií po stimulu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Pozitivní test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Test ortostatické hypotenze byl pozitivní.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Porucha intrakardiálního vedení</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Kompletní paroxysmální blokáda intrakardiálního vedení.</Text>	</GameDBLocalizedString>	
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Prodromy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>Známky a příznaky, které předcházejí synkopě, se nazývají prodromy. Lipotymie lze shrnout jako bezprostřední pocit mdloby.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>AF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>Diagnózu AF lze potvrdit pouze na stopě EKG. To ukazuje na nepřítomnost viditelné vlny P a nejčastěji nepravidelný QRS.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>SAB</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>Sino-atriální blok (SAB) je úplné přerušení intraatriálního vedení po určitých sinusových impulsech.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>Atrioventrikulární blok 3. stupně je úplné a trvalé přerušení přenosu síňových impulsů do komor.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>LBBB</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Typický vzhled LBBB na EKG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>VT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Typický vzhled VT na EKG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>Rozšíření QT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Rozšíření prostoru QT na EKG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>JT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>Junctionální tachykardie (JT) je heterogenní skupina tachykardií, jejichž obvod začíná nebo nutně prochází atrioventrikulárním spojem.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>Delta vlna</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text>Impasto a zpomalení počáteční části komplexu QRS v souvislosti s pre-excitací komory pomocným svazkem.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>Změněný LVEF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>Frakce ejekce levé komory (LVEF) je procento krve vyvržené z levé komory.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>Altered RVEF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>Frakce ejekce pravé komory (RVEF) je procento krve vyvržené z pravé komory.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>Nízké SPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>Index systolického tlaku (SPI) je menší než 0,9. IPS je založen na sběru systolických tlaků z dolních a ramenních končetin a stanovení poměru tlak v kotníku / humerálním tlaku.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>Objeveno břišní aortální aneuryzma (AAA).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>Popliteální aneuryzma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>Objeveno aneuryzma podkolenní tepny.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>Celiakální okluze</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>Okluze celiakie a mezenterických tepen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>Ischemie tkáně horní končetiny</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>Ischemie je zastavení nebo nedostatečnost krevního oběhu v části těla nebo orgánu, který zbavuje buňky přívodu kyslíku a způsobuje jejich nekrózu. Ischemie může být způsobena ucpáním cévy (trombóza) nebo kompresí tepny (stenóza).</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>Ischemie tkáně dolní končetiny</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>Ischemie je zastavení nebo nedostatečnost krevního oběhu v části těla nebo orgánu, který zbavuje buňky přívodu kyslíku a způsobuje jejich nekrózu. Ischemie může být způsobena ucpáním cévy (trombóza) nebo kompresí tepny (stenóza).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>Okluze mezenterických tepen</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>Jedná se o akutní arteriální okluzi nebo nízký průtok.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>Ruptura AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>Ruptura aneuryzmatu břišní aorty.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>Ruptura IAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>Ruptura běžné aneuryzmy iliakální tepny.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO</LocID>											<Text>Nízký biologicky dostupný testosteron</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>								<Text>Významný pokles cirkulujícího testosteronu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>								<Text>Prolaktinom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>								<Text>Prolaktinom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>						<Text>Objev prolaktinomu na MRI.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>							<Text>Somatotropní adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>				<Text>WIP - No braking during the "minute" brake test.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>						<Text>Kortikotropní adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>						<Text>Kortikotropní adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>				<Text>Test je ve prospěch diagnostiky nevyléčitelného hyperkortizolismu, pokud kortizolemie neklesne pod prahovou hodnotu 18 ng / ml [50 nmol / l]</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>							<Text>Thyrotropní adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>				<Text>Objev centrální hypertyreózy při krevním testu. To je charakterizováno vysokou koncentrací hormonů štítné žlázy spojenou s normální vysokou nebo abnormální koncentrací TSH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>						<Text>Panhypopituitarismus</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>						<Text>Panhypopituitarismus</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>				<Text>Objev adenomu hypofýzy, který brání správné funkci epifýzy na MRI.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_F</LocID>										<Text>Periferní adrenální nedostatečnost</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_H</LocID>										<Text>Periferní adrenální nedostatečnost</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>								<Text>Objev periferní nedostatečnosti nadledvin během testu Synacthene. To se vyznačuje nízkou hladinou kortizolu spojenou s vysokou koncentrací ACTH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_F</LocID>										<Text>Nedostatek 21-OH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_H</LocID>										<Text>Nedostatek 21-OH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>								<Text>Celá komunita endokrinologů uznává, že diagnóza D21OH-NC je založena na dávce 17OHP ráno a nejlépe v první části cyklu. Vzorek musí být odebrán v nepřítomnosti nebo v určité vzdálenosti od léčby glukokortikoidy, protože i „náhradní“ léčba a farmakologická léčba představuje riziko ignorování diagnózy (falešně negativní) inhibicí kortikotropní osy. Odběr vzorků pro stanovení 17OHP musí být také proveden ráno, protože pokud se provádí odpoledne, lze u pacienta s D21OH-NC zjistit koncentraci 17OHP v normálním rozmezí jednoduše kvůli fluktuacím nykthemerální adrenální kortikální funkce.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>									<Text>Centrální adrenální nedostatečnost</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>						<Text>Objev centrální adrenální nedostatečnosti během testu Synacthene. To se vyznačuje nízkou hladinou kortizolu spojenou s nízkou nebo neobvykle normální koncentrací ACTH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>									<Text>Anti-CASR Ab</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>						<Text>Objev anti-CASR protilátky během testu ELISA.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>							<Text>Příštítná tělíska adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>				<Text>Upevnění příštítných tělísek na scintigrafii.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN</LocID>											<Text>Adrenální adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Objev adrenálního adenomu vylučujícího na CT.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN</LocID>										<Text>Hypertrofie nadledvin</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>							<Text>Zvětšení nadledvin na CT.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME</LocID>									<Text>Nevhodná sekrece</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>Nevhodná (normální nebo vysoká) sekrece inzulínu a peptidu C při hypoglykémii.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP</LocID>										<Text>Hypoglykemie pankreatu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>Hypoglykemie pankreatického původu nesouvisí s adenomem vylučujícím inzulín.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>								<Text>Bílá scintigrafie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>					<Text>Absence fixace pomocí scintigrafie.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>					<Text>"Šachovnice" scintigrafie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>		<Text>Střídavé horké a studené obrazce(šachovnice) se scintigrafií.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>Toxický adenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>Hyperfixace izotopu na úrovni uzliny, zatímco zbytek parenchymu je hypofixační nebo studený nebo „vyhynulý“ (kvůli poklesu TSH), při scintigrafii.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>								<Text>Hyperosmolalita</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>					<Text>Neobvykle vysoká osmolalita.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE</LocID>										<Text>Ketonemie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>							<Text>Přebytek ketonů v krvi.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D</LocID>										<Text>Nízká PBG-D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>							<Text>Porfobilinogendeamináza (hydroxymethylbilansyntáza nebo uroporfyrinogen syntáza)je enzym, který je u lidí kódován genem HMBS. Porfobilinogen deamináza je zapojena do třetího stupně biosyntetické dráhy hemu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE</LocID>								<Text>Sférocyt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>					<Text>Objev sférocytů v krevním nátěru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>								<Text>Nízká GPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>					<Text>Glukóza-6-fosfát izomeráza (GPI), alternativně známá jako fosfoglukóza izomeráza / fosfoglukoizomeráza (PGI) nebo fosfohexóza izomeráza (PHI), je enzym, který je u lidí kódován genem GPI na chromozomu 19. V cytoplazmě je genový produkt funguje jako glykolytický enzym (glukóza-6-fosfát izomeráza), který interkonvertuje glukóza-6-fosfát (G6P) a fruktóza-6-fosfát (F6P)).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>								<Text>Nízké G6PD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>					<Text>Glukóza-6-fosfátdehydrogenáza (G6PD nebo G6PDH) je cytosolický enzym, který pomáhá chránit červené krvinky před oxidačním poškozením sloučeninami, jako je peroxid vodíku.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS</LocID>									<Text>Nízká PK</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>						<Text>Pyruvátkináza je enzym zapojený do posledního kroku glykolýzy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>								<Text>Coombs pozitivní</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>					<Text>Coombsův test je pozitivní.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>							<Text>Nízké ADAMTS13</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>				<Text>ADAMTS13 (disintegrin a metaloproteináza s motivem trombospondinu typu 1, člen 13) - také známý jako proteáza štěpícího von Willebrandova faktoru (VWFCP) - je enzym obsahující metaloproteázu obsahující zinek, který štěpí von Willebrandův faktor (vWf), velký protein zapojený do srážení krve.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>								<Text>Drepanocyt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>								<Text>Drepanocyt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>					<Text>Objev drepanocytů v krevním nátěru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF</LocID>										<Text>Nízký vWF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>							<Text>von Willebrandův faktor (VWF) je krevní glykoprotein zapojený do hemostázy.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS</LocID>							<Text>Purpura fulminans</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>				<Text>Purpura fulminans objevena.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE</LocID>							<Text>DIC dekompenzováno</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</LocID>				<Text>DIC objeveno.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE</LocID>								<Text>NPC1 tiché</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>					<Text>Zdá se, že proteiny NPC1 a NPC2 fungují na úrovni endo-lysozomálního systému, aby usnadnily intracelulární transport cholesterolu a dalších molekul, ale jejich přesná funkce zatím není známa.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE</LocID>								<Text>HE - IgE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>					<Text>Hyperososinofilie a zvýšené celkové IgE.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K</LocID>								<Text>Test pozitivní</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>					<Text>Analýza rozbití chromozomu je pozitivní.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>					<Text>Makrotrombocyty</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>		<Text>Více než 10 % studovaných krevních destiček je obrovských.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>						<Text>Abnormální integrin</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>			<Text>Byly nalezeny kvantitativní a/nebo kvalitativní anomálie integrinu alfaIIb beta3.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP</LocID>							<Text>RP Mutace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>				<Text>Ribozomální proteiny (RP) buď z malé (RPS7, RPS17, RPS19, RPS24) nebo velké (RPL5, RPL11, RPL35a) ribozomální podjednotky jsou zmutovány.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>					<Text>Nedostatek glukocerebrosidázy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>		<Text>Nízké hladiny glukocerebrosidázy vedoucí k akumulaci depozitů glukosylceramidu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>						<Text>SH2D1A mutace </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>			<Text>Mutace genu SH2D1A, který je umístěn na X chromozomu. Tento gen kóduje protein nazývaný SAP (protein spojený s aktivací molekulárních aktivací lymfocytů [SLAM])).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>							<Text>Sideroblast</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>				<Text>Byly nalezeny sideroblasty. Jedná se o granule obsahující železo obarvené Perlsovým činidlem, což odpovídá agregátům ribozomů a feritinu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>					<Text>Erytroblast</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>		<Text>Nízká míra erytroblastů.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>							<Text>Hemoglobin  C</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>				<Text>Objev hemoglobinů typu C v krevním nátěru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>							<Text>Hemoglobin  D</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>				<Text>Objev hemoglobinů typu D v krevním nátěru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>							<Text>Hemoglobin  E</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>				<Text>Objev hemoglobinů typu E v krevním nátěru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>							<Text>Hemoglobin  M</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>				<Text>Objev hemoglobinů typu M v krevním nátěru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>					<Text>Triáda</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>		<Text>Klasická triáda dysfagie, anémie s nedostatkem železa a pažerákových sítí.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>					<Text>Mutace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>		<Text>Byla nalezena mutace v jednom ze dvou genů ACVRL nebo ENG zapojených do signální dráhy TGF-beta.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL</LocID>							<Text>Coombs pozitivní</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>				<Text>Coombsův test je pozitivní.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE</LocID>								<Text>HFE mutace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>					<Text>Gen HFE lokalizovaný na chromozomu 6 je zmutován. Existují dva typy alterací: mutace C282Y a mutace H63D.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>						<Text>Mutace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>			<Text>Byly nalezeny mutace v genu kódujícím hemojuvelin (HJV) na chromozomu 1 nebo mutace v genu kódujícím hepcidin (HAMP) na chromozomu 19.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>								<Text>TFR2 mutace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>					<Text>Byly nalezeny mutace v genu pro transferinový receptor-2 (TFR2) na chromozomu 7.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>							<Text>SLC40A1 mutace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>				<Text>Byly nalezeny mutace v genu SLC40A1 lokalizovaném na chromozomu 2, který kóduje ferroportin (FPN).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>						<Text>Hypocelulární kostní dřeň</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>			<Text>Kostní dřeň je hypocelulární, je „prázdná".</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>				<Text>Trombocytopenická purpura</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>	<Text>Příznaky naznačující trombocytopenickou purpuru.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD</LocID>								<Text>DRESS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>					<Text>Příznaky naznačující syndrom DRESS.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>					<Text>Anti-PF4 ab</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>		<Text>Anti-PF4 / protilátky proti heparinu byly detekovány pomocí ELISA testu.</Text>	</GameDBLocalizedString>
+<!-- v0.03.3 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>									<Text>Velmi nízký kortizol</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>						<Text>Hladina kortizolu v krvi je velmi nízká.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>							<Text>Transplantace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>				<Text>Tento pacient naléhavě potřebuje transplantaci srdce!</Text>	</GameDBLocalizedString>
+				
+		</LocalizedStrings>
+
+  
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Srmojon</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Prueba de supresión de Dexametasona</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Prueba de supresión de Dexametasona</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>La prueba de supresión con Dexametasona (DST) se usa para evaluar la función de la glándula suprarrenal midiendo cómo cambian los niveles de cortisol en respuesta a una inyección de dexametasona. Por lo general, se usa para diagnosticar el síndrome de Cushing.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>Prueba de estimulación con ACTH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>Prueba de estimulación con ACTH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>La prueba de ACTH (también llamada prueba de cosintropina, tetracosactida o Synacthen) es una prueba generalmente solicitada e interpretada por endocrinólogos para evaluar el funcionamiento de la respuesta al estrés de las glándulas suprarrenales midiendo la respuesta suprarrenal de la hormona adrenocorticotrópica u otro agente corticotrópico como la tetracosactida (cosintropina, tetracosactrina; Synacthen) o la alsactida (Synchrodyn). La ACTH es una hormona producida en la glándula pituitaria anterior que estimula las glándulas suprarrenales para que liberen cortisol, dehidroepiandrosterona (DHEA), sulfato de dehidroepiandrosterona (DHEA-S) y aldosterona. Durante la prueba, se inyecta una pequeña cantidad de ACTH sintética y se mide la cantidad de cortisol (y algunas veces aldosterona) que las glándulas suprarrenales producen en respuesta. Esta prueba puede causar efectos secundarios leves en algunas personas.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>Prueba de Coombs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>Prueba de Coombs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>La prueba de Coombs, también conocida como prueba de antiglobulina (AGT), es una de las dos pruebas de sangre que se utilizan en inmunohematología. Hay dos tipos de pruebas de Coombs: el directo e indirecto. La prueba de Coombs directa detecta anticuerpos adheridos a la superficie de los glóbulos rojos.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>Rotura de cromosomas</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>Prueba de rotura de cromosomas</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>El análisis de rotura de cromosomas es una prueba para evaluar la inestabilidad genómica.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

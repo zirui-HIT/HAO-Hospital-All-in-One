@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_FR_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>fr</LanguageCode>
+        <LanguageNameLocalized>Français</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>MacNaab</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Androgénothérapie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>Maintien des taux plasmatiques de testostérone pour soulager un déficit androgénique.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Agoniste dopaminergique</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>Au niveau hypothalamo-hypophysaire, il freine la sécrétion de la prolactine et réduit l'hyperprolactinémie, qu'elle soit d'origine physiologique (grossesse, post-partum) ou pathologique. L'agoniste dopaminergique peut corriger la sécrétion inappropriée de l'hormone de croissance. Au niveau nigro-strié, par stimulation directe et prolongée des récepteurs dopaminergiques postsynaptiques, il pallie la déplétion en dopamine qui caractérise la maladie de Parkinson.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Hydrocortisone - Fluorocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Association d'une hydrocortisone et d'une fluocortisone.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Vitamine D</Text>	</GameDBLocalizedString>
+<!--  v0.03  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>Ac monoclonal</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>Le développement de technologies permettant de produire des anticorps monoclonaux, c'est-à-dire tous identiques et dirigés contre un même épitope, a permis de mettre au point des traitements dirigés spécifiquement contre certains antigènes exprimés par les cellules tumorales. Ces anticorps peuvent être utilisés libres (nus) ou associés à des molécules cytotoxiques (conjugués).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>Chélateur des cations trivalents</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>Un chélateur des cations trivalents est capable de fixer le fer libre du plasma ou des cellules pour former le complexe ferrioxamine.</Text>	</GameDBLocalizedString>
+<!--  v0.03.2  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP</LocID>													<Text>IGL</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>Une inhibiteur de synthèse des glycolipides empêche la synthèse des glycolipides.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>										<Text>Enzymothérapie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>L'enzymothérapie de substitution est un traitement qui consiste à administrer une enzyme fabriquée artificiellement (par génie génétique) pour remplacer l'enzyme naturelle manquante (du fait d'une maladie génétique).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>Phlébotomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>La phlébotomie est une incision pratiquée dans une veine. C'est ce que l'on nomme plus communément une "saignée".</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>Danaparoïde sodique</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>Le danaparoïde sodique est un mélange de glycosaminoglycanes sulfatés de bas poids moléculaire extraits de la muqueuse intestinale de porc et renfermant du sulfate d'héparane, du sulfate de dermatane et une faible quantité de sulfate de chondroïtine. Son efficacité antithrombotique a été démontrée aussi bien chez l'animal que chez l'homme. L'ultime étape de la coagulation sanguine - la transformation du fibrinogène en fibrine - dépend essentiellement de la génération de thrombine, à laquelle participent dans une large mesure le facteur Xa et la thrombine elle-même. Le profil anticoagulant du danaparoïde sodique est caractérisé par un rapport d'activité anti-Xa/activité anti-IIa élevé (supérieur à 20), d'où une inhibition efficace de la formation de thrombine et, par voie de conséquence, de la formation du thrombus. L'activité anti-Xa s'exerce par l'intermédiaire de l'antithrombine III et n'est pas inactivée par les facteurs endogènes de neutralisation de l'héparine. La faible activité antithrombine s'exerce par l'intermédiaire du second cofacteur de l'héparine et de l'antithrombine III.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ================================================== -->
+<!--  v0.01
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Sels de potassium</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>Le plus utilisé est le chlorure de potassium sous forme micro-encapsulé. Il s'agit d'une supplémentation potassique orale.</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Crème hydratante</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>Les crèmes hydratantes sont des émulsions cosmétiques contenant une phase aqueuse et une phase grasse. Elles permettent de reconstituer le film naturel hydrolipidique de la peau. Ce film recouvre la peau et se constitue de sébum et de sueur. Il permet de protéger la peau contre diverses agressions extérieures. Les crèmes hydratantes aident à prévenir la déshydratation de la peau.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Glucose IV</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Perfusion de glucose par voie veineuse.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Hydrocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>C'est une hormone proche de la cortisone naturelle. Elle est utilisé comme traitement substitutif pour remplacer la cortisone naturelle lorsqu'elle n'est plus sécrétée suffisamment par les glandes surrénales.</Text>	</GameDBLocalizedString>
++++  v0.03  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT</LocID>								<Text>Auto-greffe</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT_DESCRIPTION</LocID>					<Text>L'autogreffe de CSH, c'est à dire l'injection au patient de ses propres cellules souches, a pour objectif de permettre la réalisation de chimiothérapies aplasiantes à fortes doses.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT</LocID>								<Text>Allogreffe</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT_DESCRIPTION</LocID>					<Text>L'allogreffe consiste en l'injection au patient de cellules souches provenant d'un sujet sain. On distingue aujourd'hui les greffes apparentées (dans l' idéal géno-identiques) où le donneur appartient à la fratrie du patient, des greffes non apparentées (dans l'idéal phéno-identiques) où les cellules souches proviennent d'un donneur inscrit sur le fichier international ou du sang de cordon ombilical.</Text>	</GameDBLocalizedString>
++++  v0.03.2  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER</LocID>								<Text>Chelateur ferrique</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER_DESCRIPTION</LocID>					<Text>Un chélateur est une substance organique qui se lie à des minéraux ou des métaux lourds présents dans l’organisme, formant des complexes qui peuvent ensuite être facilement éliminés par les urines.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE</LocID>								<Text>Sclérothérapie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE_DESCRIPTION</LocID>					<Text>Traitement des varices, des hémorroïdes, consistant à injecter dans chaque veine un produit la détruisant par sclérose.</Text>	</GameDBLocalizedString>
++++  v0.03.3  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV</LocID>											<Text>IPP IV</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV_DESCRIPTION</LocID>								<Text>Il a été démontré que le traitement par un Inhibiteur de la Pompe Proton à haute dose avant la gastroscopie diminue la nécessité d’une hémostase endoscopique.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR</LocID>										<Text>Immunosuppresseur</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR_DESCRIPTION</LocID>							<Text>Médicament qui atténue ou supprime les réactions immunitaires de l'organisme. Les immunosuppresseurs se prescrivent essentiellement lors d'une greffe, dans le dessein de limiter les phénomènes de rejet, et dans les maladies auto-immunes.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION</LocID>								<Text>Embolisation endovasculaire</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION_DESCRIPTION</LocID>					<Text>Sous le terme d’embolisation, on regroupe habituellement les interventions qui ont pour but de boucher les vaisseaux sanguins qui nourrissent une lésion, ou de boucher une lésion portée par un vaisseau. Ici l'embolisation sera réaliser sous contrôle angiographique.</Text>	</GameDBLocalizedString>
+-->
+			
+
+			<!-- ================================================== Chirurgie ================================================== -->
+<!--  v0.01  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Remplacement valvulaire</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>Remplacement de la valve par une prothèse. Il existe deux grands types de prothèses valvulaires : les prothèses mécaniques et les prothèses biologiques.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Stimulateur cardiaque</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>Le stimulateur cardiaque ou "Pace-Maker" est un boîtier étanche en titane contenant une pile, des circuits électroniques ; il est placé sous la peau, relié à une ou deux sondes (électrodes) dont les extrémités sont positionnées dans les cavités cardiaques. Il fonctionne de manière autonome et surveille en permanence le rythme du cœur. On parle de Pace-Maker « sentinelle ».</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Défibrillateur automatique implantable</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Le défibrillateur est un boîtier étanche en titane contenant une pile, des circuits électroniques et des condensateurs ; il est placé sous la peau, relié à une ou plusieurs sondes (électrodes) dont les extrémités sont positionnées dans les cavités cardiaques. Il fonctionne de manière autonome et surveille en permanence le rythme du cœur. En cas de trouble du rythme dangereux, le défi brillateur, va intervenir en stimulant pendant quelques secondes le cœur plus vite que l’arythmie pour l’interrompre (ce qui est indolore) et/ou en délivrant un choc électrique pour restaurer l’activité cardiaque normale (ressenti comme un coup de poing dans la poitrine). Le défi brillateur ne prévient donc pas les troubles du rythme mais les traite.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revascularisation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>La revascularisation artérielle peut être endovasculaire (angioplastie) ou par pontage.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Aponévrotomie de décharge</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>Ce geste chirurgical consiste à sectionner une membrane de consistance fibreuse aussi connue comme une aponévrose ou un fascia. Celle-ci enveloppe et sépare les muscles les uns des autres. Dans certains cas, l’aponévrose engaine un muscle ou un groupe de muscles et les sépare des organes voisins. Interdisant la circulation sanguine, ce trouble risque de provoquer des lésions graves (ischémie) et même de détruire les muscles atteints.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Mise à plat greffe</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Exclusion de la zone anévrismale du flux circulatoire par interposition d'une prothèse vasculaire. Dans la mise à plat greffe, le tube prothétique est suturé à la fois au-dessus et en dessous de l'anévrisme afin de reconstruire l'artère.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Surrénalectomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Retrait chirurgical d'une ou des deux glandes surrénales.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Exérèse chirurgicale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Exérèse chirurgicale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>Une exérèse est une intervention chirurgicale consistant à retirer de l'organisme un élément qui lui est nuisible ou inutile.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Thyroïdectomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Retrait chirurgical de la glande thyroïde.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>Splénectomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>Retrait chirurgical de la rate.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>Stéréotaxie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>La stéréotaxie est une technique utilisée en neurochirurgie pour atteindre des zones du cerveau de manière précise.</Text>	</GameDBLocalizedString>
+<!--  v0.03.3  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TRANSPLANTATION_COEUR</LocID>									<Text>Transplatation cardiaque</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>						<Text>Cette dernière ne s’effectue qu’en urgence puisqu’elle est déterminée uniquement par la proposition d’un greffon cardiaque. Le futur transplanté ne sera prévenu que quelques heures avant cette intervention. Cela impose qu’il ne réside pas trop loin du centre transplanteur (2 à 3 heures de transport au maximum).</Text>	</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

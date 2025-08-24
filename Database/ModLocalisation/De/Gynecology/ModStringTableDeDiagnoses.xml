@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_DE_ADDON_GYNECOLOGIE_DIAGNOSES">
+
+        <LanguageCode>de</LanguageCode>
+        <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Bowelas</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>	<LocID>DIA_GEU</LocID>								<Text>Eileiterschwangerschaft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GEU_DESCRIPTION</LocID>					<Text>Entwicklung einer befruchteten Eizelle außerhalb des Uterus. (Wie im Eileiter oder in der Bauchfellhöhle)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK</LocID>								<Text>PCOS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK_DESCRIPTION</LocID>					<Text>Polycystic ovary syndrome oder polycystic ovarian syndrome. Eine vielfältige Krankheit, welche von ausbleibender Menstruation, übermäßiger Körperbehaarung, Übergewicht, Unfruchtbarkeit und einer Vergrößerung der Eierstöcke geprägt ist und normalerweise durch ein erhöhtes Level von luteinisierenden Hormonen, Androgenen, oder Östrogen initiiert wird, was zu einer abnormalen Gonadotropinfreisetzung durch die Hirnanhangsdrüse führt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL</LocID>					<Text>PMS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>		<Text>Eine Gruppe vielfältiger Symptome, welche sich bei manchen Frauen vor der Menstruation manifestieren.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE</LocID>						<Text>Wechseljahre</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>			<Text>Die natürliche Einstellung der Menstruation, welche für gewöhnlich im Alter von 45 bis 55 auftritt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE</LocID>						<Text>Endometriose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>			<Text>Anwesenheit und Wachstum von funktionalem Endometriumgewebe an Stellen außerhalb des Uterus.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SS</LocID>						<Text>Subseröses Fibrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Submuköses Fibrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Interstitiales Fibrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>Ein gutartiger Tumor welcher größtenteils aus Fasergewebe besteht.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Organische Eierstockzyste</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>Eine Ovarialzyste ist ein mit Flüssigkeit gefüllter Sack im Eierstock. Organische Zysten können komplizieren oder degenerieren.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Funktionelle Ovarialzyste</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>		<Text>Eine Ovarialzyste ist ein mit Flüssigkeit gefüllter Sack im Eierstock. Funktionelle Zysten wachsen während des Menstruationszyklus aufgrund eines hormonellen Ungleichgewichts.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>			<Text>Eierstocktorsion</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Eine Eierstocktorsion tritt dann auf, wenn ein Eierstock an anderen Strukturen festhängt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN</LocID>					<Text>Eierstockabszess</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>		<Text>Ein Eierstockabszeß ist eine mit Eiter gefüllte Tasche in einem Eierstock. In der Regel durch Bakterien verursacht.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL</LocID>				<Text>Prolaps</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>	<Text>Das Herunterfallen oder Abrutschen eines Körperteils aus seiner üblichen Position.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE</LocID>						<Text>Tripper</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>			<Text>Eine ansteckende Entzündung der Genitalschleimhaut durch den Gonokokken.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE</LocID>						<Text>Chlamydien</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>			<Text>Eine durch Chlamydien verursachte Krankheit oder Infektion.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS</LocID>							<Text>Syphilis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS_DESCRIPTION</LocID>				<Text>Eine chronisch ansteckende, meist geschlechtsspezifische und häufig angeborene Erkrankung, die durch einen Spirochäten (Treponema pallidum) verursacht wird.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE</LocID>						<Text>Trichomoniasis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE_DESCRIPTION</LocID>			<Text>Infektion mit oder Krankheit durch Trichomonaden.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE</LocID>							<Text>Vaginalmykose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE_DESCRIPTION</LocID>				<Text>Infektion mit oder Krankheit durch einen Pilz.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE</LocID>								<Text>Entzündete Beckenerkrankung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE_DESCRIPTION</LocID>					<Text>Entzündungen der weiblichen Fortpflanzungsorgane (wie Eileiter und Eierstöcke), die insbesondere als Folge einer sexuell übertragbaren Krankheit auftreten und eine der Hauptursachen für Unfruchtbarkeit bei Frauen sind.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE</LocID>						<Text>Schwangerschaft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE_DESCRIPTION</LocID>			<Text>Sie ist schwanger.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN</LocID>					<Text>Präkanzeröser Gebärmutterhals</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN_DESCRIPTION</LocID>		<Text>Präkanzeröse Erkrankungen des Gebärmutterhalses sind Veränderungen der Gebärmutterhalszellen, welche die Wahrscheinlichkeit erhöhen, dass sie sich zu Krebs entwickeln.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE</LocID>						<Text>Zervizitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE_DESCRIPTION</LocID>			<Text>Entzündung des Gebärmutterhalses.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL</LocID>						<Text>Zervikaler Polyp</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL_DESCRIPTION</LocID>			<Text>Ein Wachstum, welches aus einer Schleimhaut herausragt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS</LocID>						<Text>Gebärmutterhalskrebs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS_DESCRIPTION</LocID>			<Text>Gebärmutterhalskrebs ist ein Krebs, welcher vom Gebärmutterhals ausgeht. Dies ist auf das abnormale Wachstum von Zellen zurückzuführen, die auch in andere Körperteile eindringen und sich dort ausbreiten können.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS</LocID>					<Text>Gebärmutterkrebs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS_DESCRIPTION</LocID>		<Text>Gebärmutterkrebs (Gebärmutter- oder Gebärmutterschleimhautkrebs) ist ein häufiger Krebs, welcher das weibliche Fortpflanzungssystem beeinträchtigt. Er tritt häufiger bei Frauen auf, welche die Wechseljahre durchgemacht haben.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN</LocID>			<Text>Gebrochene Eierstockzyste</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Eine aufgebrochene Eierstockzyste ist eine flüssigkeitsgefüllte, typischerweise gutartige (nicht krebsartige) Masse die aus einem Eierstock ausbricht.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE</LocID>							<Text>Eierstockkrebs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE_DESCRIPTION</LocID>				<Text>Eierstockkrebs ist eine Krebsart, die in den Eierstöcken beginnt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME</LocID>						<Text>Fibroadenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME_DESCRIPTION</LocID>			<Text>Ein Fibroadenom ist eine Art Knoten, der sich in der Brust entwickeln kann und typischerweise bei Frauen auftritt. Fibroadenome sind sehr gewöhnlich, aber gutartig, was bedeutet, dass sie nicht krebsartig sind.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK</LocID>								<Text>Fibrozystische Brust</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK_DESCRIPTION</LocID>					<Text>Die fibrozystische Brustkrankheit, im Allgemeinen fibrozystische Brüste oder fibrozystische Veränderung genannt, ist eine gutartige (nicht krebsartige) Erkrankung, bei der sich die Brüste klumpig anfühlen. Fibrozystische Brüste sind nicht schädlich oder gefährlich, aber können für einige Frauen lästig oder unangenehm sein.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN</LocID>							<Text>Brustkrebs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN_DESCRIPTION</LocID>				<Text>Brustkrebs ist eine Krankheit, bei der die Zellen in der Brust unkontrolliert wachsen. Brustkrebs kann an verschiedenen Stellen der Brust auftreten.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G</LocID>							<Text>Gestationshypertonie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G_DESCRIPTION</LocID>				<Text>Gestationshypertonie, auch als schwangerschaftsinduzierte Hypertonie (PIH) bezeichnet, ist eine Erkrankung, die durch hohen Blutdruck während der Schwangerschaft gekennzeichnet ist. Schwangerschaftshypertonie kann zu einer schweren Erkrankung führen, die als Präeklampsie bezeichnet wird.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG</LocID>								<Text>GDM</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG_DESCRIPTION</LocID>					<Text>Gestationsdiabetes mellitus (GDM) ist ein Grad an Glukoseintoleranz mit Beginn oder erstmaliger Erkennung während der Schwangerschaft.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE</LocID>					<Text>Chorioamnionitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE_DESCRIPTION</LocID>		<Text>Chorioamnionitis ist eine bakterielle Infektion, die vor oder während der Wehen auftritt. Der Name bezieht sich auf die Membranen, die den Fötus umgeben: das „Chorion“ (äußere Membran) und das „Amnion“ (flüssigkeitsgefüllter Sack).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G</LocID>								<Text>Blasenentzündung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G_DESCRIPTION</LocID>					<Text>Blasenentzündung ist eine Infektion der Blase, die beim Pinkeln ein brennendes Gefühl hervorruft.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PNA_G</LocID>							<Text>Schwangerschaftspyelonephritis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE</LocID>							<Text>Schwangerschaftsvaginose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE_DESCRIPTION</LocID>				<Text>Eine bakterielle Infektion der Vagina, welche einen übelriechenden weißen Ausfluss verursacht.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES</LocID>						<Text>Baby Blues</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES_DESCRIPTION</LocID>			<Text>Ein Gefühl der Trauer, das eine Frau kurz nach der Entbindung verspürt, dauert in der Regel weniger als zwei Wochen. Baby-Blues ist keine Krankheit oder gar eine richtige psychiatrische Diagnose, es ist einfach eine Art und Weise, wie Menschen versucht haben, unangenehme Gefühle zu beschreiben, die kurz nach der Geburt eines Kindes auftreten und sich in wenigen Tagen bessern.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP</LocID>					<Text>Postpartale Depression</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP_DESCRIPTION</LocID>		<Text>Eine postpartale Depression ist eine Stimmungsstörung, die Frauen nach der Geburt betreffen kann. Mütter mit postpartaler Depression leiden unter extremer Traurigkeit, Angstzuständen und Erschöpfung, die es ihnen möglicherweise erschweren, die täglichen Pflegeaktivitäten für sich selbst oder für andere zu erledigen.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP</LocID>							<Text>Postpartale Endometritis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP_DESCRIPTION</LocID>				<Text>Postpartale Endometritis deutet auf eine Infektion der Decidua hin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP</LocID>							<Text>Brustverstopfung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP_DESCRIPTION</LocID>				<Text>Brustverstopfung bedeutet, dass die Brüste schmerzhaft voll mit Milch sind. Dies tritt normalerweise auf, wenn eine Mutter mehr Milch produziert, als ihr Baby verwendet.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP</LocID>							<Text>Rissige Brustwarzen</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP_DESCRIPTION</LocID>				<Text>Rissige Brustwarzen (oder Brustwarzentrauma) ist eine Erkrankung, die bei stillenden Frauen aufgrund einer Reihe von möglichen Ursachen auftreten kann. Die Entwicklung einer rissigen Brustwarze kann zu Schmerzen, Trockenheit oder Reizung einer oder beider Brustwarzen während des Stillens oder zu Blutungen führen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP</LocID>							<Text>Brustdrüsenentzündung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP_DESCRIPTION</LocID>				<Text>Eine Entzündung des Brustgewebes, die manchmal mit einer Infektion einhergeht. Die Entzündung führt zu Brustschmerzen, Schwellung, Wärme und Rötung.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE</LocID>					<Text>Infektiöse Brustdrüsenentzündung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE_DESCRIPTION</LocID>		<Text>Entzündung der Brustdrüse, typischerweise aufgrund einer bakteriellen Infektion.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE</LocID>					<Text>Brustabszess</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE_DESCRIPTION</LocID>		<Text>Ein Brustabszeß ist eine schmerzhafte Ansammlung von Eiter, die sich in der Brust bildet. Die meisten Abszesse entwickeln sich direkt unter der Haut und werden durch eine bakterielle Infektion verursacht.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP</LocID>							<Text>Postpartale tiefe Venenthrombose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP_DESCRIPTION</LocID>				<Text>Eine tiefe Venenthrombose ist die Entwicklung eines Blutgerinnsels in einer tiefen Vene.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV</LocID>							<Text>Beckenvenenthrombose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV_DESCRIPTION</LocID>				<Text>Eine Beckenvenenthrombose kann eine Eierstockvenenthrombose, eine tiefe Beckenvenenthrombose, eine septische Beckenbodenthrombophlebitis umfassen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF</LocID>						<Text>FHA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF_DESCRIPTION</LocID>			<Text>Funktionelle hypothalamische Amenorrhoe (FHA) ist eine nichtorganische und reversible Erkrankung, bei der die Beeinträchtigung der pulsatilen Sekretion des Gonadotropin-Releasing-Hormons (GnRH) eine Schlüsselrolle spielt.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME</LocID>					<Text>Molarschwangerschaft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME_DESCRIPTION</LocID>		<Text>Eine Molarschwangerschaft ist eine abnormale Form der Schwangerschaft, bei der sich ein nicht befruchtetes Ei in die Gebärmutter einpflanzt und nicht zum Stillstand kommt. Eine Molarschwangerschaft ist eine trophoblastische Schwangerschaftserkrankung, die sich zu einer Masse in der Gebärmutter entwickelt, welche Chorionzotten geschwollen hat.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE</LocID>				<Text>Aseptische Nekrobiose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE_DESCRIPTION</LocID>	<Text>Aseptische Nekrobiose (rote Degeneration) eines Uterusmyoms ist definiert als ein hämorrhagischer Infarkt eines zuvor hyalinisierten Myoms, der durch ischämische Nekrose verursacht wird, da das schnelle Wachstum des Myoms dessen Blutversorgung überwiegt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE</LocID>						<Text>Adenomyosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE_DESCRIPTION</LocID>			<Text>Adenomyosis ist eine gynäkologische Erkrankung, die durch abnormes Vorhandensein von Endometriumgewebe (der inneren Gebärmutterschleimhaut) im Myometrium (der dicken, muskulären Schicht der Gebärmutter) gekennzeichnet ist.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN</LocID>						<Text>Sheehan Syndrome</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN_DESCRIPTION</LocID>			<Text>Das Sheehan-Syndrom, auch bekannt als postpartale Hypophysennekrose, ist ein Hypopituitarismus (verminderte Funktion der Hypophyse), der durch ischämische Nekrose aufgrund von Blutverlust und hypovolämischem Schock während und nach der Geburt verursacht wird.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM</LocID>			<Text>Postpartale Hypophysitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM_DESCRIPTION</LocID>	<Text>Eine entzündliche Störung der Hypophyse.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD</LocID>					<Text>Toxischer Schock Syndrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD_DESCRIPTION</LocID>		<Text>Das Toxic-Shock-Syndrom ist ein Zustand, der durch bakterielle Toxine verursacht wird.</Text>	</GameDBLocalizedString>
+			
+			
+
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT</LocID>									<Text>Stressinkontinenz</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT_DESCRIPTION</LocID>						<Text>Stressinkontinenz entspricht einem unfreiwilligen Wasserlassen (Lachen, Husten, Niesen, Sport ...) ohne Bedürfnisgefühl.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE</LocID>					<Text>Überaktive Blase</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE_DESCRIPTION</LocID>		<Text>Eine überaktive Blase entspricht einem unfreiwilligen Urinverlust, dem ein unmittelbar dringender und ungehemmter Bedarf (Dringlichkeit oder dringender Bedarf) vorausgeht, der in Ruhe, nachts und ohne Anstrengung auftreten kann.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE</LocID>									<Text>Salpingitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE_DESCRIPTION</LocID>						<Text>Salpingitis ist eine Infektion und Entzündung in den Eileitern.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE</LocID>								<Text>Endometritis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE_DESCRIPTION</LocID>					<Text>Endometritis ist eine Entzündung der inneren Gebärmutterschleimhaut.</Text>	</GameDBLocalizedString>
+
+
+			
+
+			<GameDBLocalizedString>	<LocID>TRM_HGEN</LocID>								<Text>Vaginalblutung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HGEN_DESCRIPTION</LocID>					<Text>Eine Vaginalblutung bedeutet eine übermäßige Blutung des weiblichen Fortpflanzungssystems.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA</LocID>					<Text>Plazenta Previa</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA_DESCRIPTION</LocID>		<Text>Eine abnormale Implantation der Plazenta an oder in der Nähe der inneren Öffnung des Gebärmutterhalses, so dass sie dem Kind bei der Geburt tendenziell vorausgeht, führt in der Regel zu schweren mütterlichen Blutungen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE</LocID>		<Text>Retroplazentare Blutergüsse</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</LocID>	<Text>Retroplazentare Hämatome befinden sich vollständig hinter der Plazenta und berühren den Schwangerschaftssack nicht.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP</LocID>								<Text>Drohende Frühgeburt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP_DESCRIPTION</LocID>					<Text>Vorzeitige Wehen können zu einer Frühgeburt führen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE</LocID>						<Text>Präeklampsie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE_DESCRIPTION</LocID>			<Text>Ein schwerwiegender Zustand, der sich in der späten Schwangerschaft entwickelt und durch einen plötzlichen Blutdruckanstieg, übermäßige Gewichtszunahme, generalisiertes Ödem, Ausscheidung von Proteinen, starke Kopfschmerzen und Sehstörungen gekennzeichnet ist. Wenn er nicht behandelt wird, kann er zu einer Eklampsie (Krampfanfälle) führen.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB</LocID>						<Text>Trophoblastische Schwangerschaftsablösung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB_DESCRIPTION</LocID>			<Text>Frühe Schwangerschaftsblutung vor der 24. Woche der Schwangerschaft.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE</LocID>						<Text>Postpartale Blutung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE_DESCRIPTION</LocID>			<Text>Eine postpartale Blutung (PPB) ist ein geburtshilflicher Notfall. Die PPB wird klassischerweise durch das Volumen des Blutverlusts definiert: geschätzter Blutverlust ≥ 500 ml nach der Geburt aus der Scheide oder ≥ 1000 ml nach der Geburt aus dem Kaiserschnitt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF</LocID>								<Text>Postpartale Psychose</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF_DESCRIPTION</LocID>					<Text>Postpartale Psychose (PP) ist eine schwere Form der psychischen Erkrankung, die nach der Geburt eines Kindes auftritt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME</LocID>					<Text>HELLP Syndrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME_DESCRIPTION</LocID>		<Text>Das HELLP-Syndrom ist eine Komplikation der Schwangerschaft, die durch Hämolyse, erhöhte Leberenzyme und eine niedrige Thrombozytenzahl gekennzeichnet ist. Es beginnt normalerweise in den letzten drei Monaten der Schwangerschaft oder kurz nach der Geburt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS</LocID>					<Text>Uterusruptur</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS_DESCRIPTION</LocID>		<Text>Eine Uterusruptur kann auftreten, wenn die Muskelwand der Gebärmutter während der Schwangerschaft oder Geburt reißt.</Text>	</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

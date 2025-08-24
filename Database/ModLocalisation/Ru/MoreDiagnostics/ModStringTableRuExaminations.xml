@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Тест подавления дексаметазона</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Анализ теста на подавление дексаметазона</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>Тест подавления дексаметазона (DST) используется для оценки функции надпочечников путем измерения изменения уровня кортизола в ответ на инъекцию дексаметазона. Обычно используется для диагностики синдрома Кушинга.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>Тест стимуляции АКТГ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>Анализ теста стимуляции АКТГ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>Тест АКТГ (также называемый тестом на косинтропин, тетракозактид или синактен) представляет собой медицинский тест, обычно назначаемый и интерпретируемый эндокринологами для оценки функционирования стрессовой реакции надпочечников путем измерения реакции надпочечников на адренокортикотропный гормон (АКТГ; кортикотропин) или другой. кортикотропный агент, такой как тетракозактид (косинтропин, тетракозактрин; синактен) или альсактид (синхродин). АКТГ - это гормон, вырабатываемый в передней части гипофиза, который стимулирует надпочечники высвобождать кортизол, дегидроэпиандростерон (ДГЭА), дегидроэпиандростерон сульфат (ДГЭА-С) и альдостерон. Во время теста вводится небольшое количество синтетического АКТГ и измеряется количество кортизола (и иногда альдостерона), которое надпочечники производят в ответ. Этот тест может вызвать легкие побочные эффекты у некоторых людей.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>Тест Кумбса</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>Анализ теста Кумбса</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>Тест Кумбса, также известный как тест на антиглобулин (AGT), является одним из двух анализов крови, используемых в иммуногематологии. Это прямые и косвенные тесты Кумбса. Прямой тест Кумбса обнаруживает антитела, которые прилипают к поверхности эритроцитов.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>Изменение хромосомы</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>Изменение хромосомы - Тест</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>Анализ изменения хромосомы является тестом для оценки нестабильности генома.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Сцинтиграфия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>Сцинтиграфия (от латинского scintilla, «искра»), также известная как гамма-сканирование, является диагностическим тестом в ядерной медицине, где радиоизотопы, прикрепленные к лекарствам, которые перемещаются в определенный орган или ткань (радиофармацевтические препараты), принимаются внутрь и испускают гамма-излучение. захватывается внешними детекторами (гамма-камерами) для формирования двумерных изображений в процессе, аналогичном захвату рентгеновских изображений.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ФСИСА</Text>	</GameDBLocalizedString>	// outdated
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ФСИСА - тестирование</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>Ферментно-связанный иммуносорбентный анализ (ФСИСА) является обычно используемым аналитическим биохимическим анализом. В анализе используется твердофазный иммуноферментный анализ (EIA) для выявления присутствия лиганда (обычно белка) в жидком образце с использованием антител, направленных против измеряемого белка. ФСИСА использовался в качестве диагностического инструмента в медицине, патологии растений и биотехнологии, а также для контроля качества в различных отраслях промышленности. В наиболее простой форме ИФА антигены из образца прикрепляются к поверхности. Затем на поверхность наносится соответствующее антитело, чтобы оно могло связываться с антигеном. Это антитело связано с ферментом, и на последнем этапе добавляется вещество, содержащее субстрат фермента. Последующая реакция производит обнаруживаемый сигнал, чаще всего изменение цвета.</Text>	</GameDBLocalizedString>
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

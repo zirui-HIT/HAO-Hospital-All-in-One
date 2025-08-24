@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>de</LanguageCode>
+    <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+
+    <Contributors>
+	<Name>Sonic1305</Name>
+        <Name>Bowelas</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Imiquimod-Creme</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>Imiquimod ist eine verschreibungspflichtige Creme, die als Modifikator der Immunantwort bei oberflächlichen Basalzellkarzinomen und aktinischen Keratosen eingesetzt wird. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Photodynamische Therapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>Die photodynamische Therapie ist eine Behandlung, bei der bestimmte Medikamente, die als Photosensibilisatoren bezeichnet werden, zusammen mit einem speziellen Licht verwendet werden, um Krebszellen abzutöten. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Breite lokale Exzision</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>Eine Wide Local Excision (WLE) ist ein chirurgischer Eingriff zur Entfernung eines kleinen Bereichs erkrankten oder problematischen Gewebes mit einem Rand normalen Gewebes. Dieses Verfahren wird üblicherweise an der Brust und an Hautläsionen durchgeführt, kann jedoch an jedem Bereich des Körpers angewendet werden. \ n \ nbbenötigtes Zimmer: Operationssaal Oncology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Onkologische Patientenberatung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>Der Arzt gibt dem Patienten Ratschläge zum Umgang mit seiner Situation, hilft dem Patienten, seine Optionen wie die Palliativversorgung besser zu verstehen, und unternimmt alles, um sicherzustellen, dass der Patient in dieser Zeit die bestmögliche Lebensqualität hat. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Gezielte Therapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>Die gezielte Therapie zielt auf die spezifischen Gene, Proteine ​​oder die Gewebeumgebung des Krebses ab, die zum Krebswachstum und -überleben beitragen. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Chemotherapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>Die Chemotherapie ist eine Art der Krebsbehandlung, bei der ein oder mehrere Krebsmedikamente im Rahmen einer standardisierten Chemotherapie eingesetzt werden. Die Chemotherapie kann mit kurativer Absicht verabreicht werden oder darauf abzielen, das Leben zu verlängern oder die Symptome zu lindern. \ n \ benötigtes Zimmer: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Laparoskopische Chirurgie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>Die laparoskopische oder „minimal invasive“ Operation ist eine spezialisierte Operationstechnik. Es ist ein risikoarmer, minimal invasiver Eingriff, der nur kleine Schnitte erfordert. Die Laparoskopie verwendet ein Instrument, das als Laparoskop bezeichnet wird, um die Bauchorgane zu untersuchen. \ n \ nbenötigtes Zimmer: Operationssaal Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Pulmonale Lobektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>Die pulmonale Lobektomie der Lunge ist eine chirurgische Operation, bei der ein Lungenlappen entfernt wird. Es wird durchgeführt, um einen Teil der erkrankten Lunge zu entfernen, beispielsweise Lungenkrebs im Frühstadium. \ n \ nbenötigtes Zimmer: Operationssaal Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Endovaskuläre Embolisation</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>Die endovaskuläre Embolisation (EE) ist ein invasiver chirurgischer Eingriff. Es wird verwendet, um abnormale Blutgefäße in Ihrem Gehirn sowie in anderen Bereichen Ihres Körpers zu behandeln. Dieses Verfahren ist eine Alternative zur offenen Operation. Es blockiert Blutgefäße, um den Blutfluss zu einem betroffenen Bereich zu unterbrechen. \ n \ nbenötigtes Zimmer: Operationssaal Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Immuntherapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>Die Immuntherapie ist eine Art der Krebsbehandlung, die das körpereigene Immunsystem bei der Krebsbekämpfung unterstützt. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Nervenrekonstruktive Chirurgie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Die chirurgische Nervenreparatur umfasst die Erforschung des verletzten Nervs und die Entfernung des verletzten Gewebes oder der verletzten Narbe von den Nervenenden. Danach kann ein Nerv direkt wieder angeschlossen werden, wenn an den Enden genügend Länge vorhanden ist, um eine Reparatur von guter Qualität ohne Spannung zu ermöglichen. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
+	<Text>Autoinjektor für Adrenalin</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
+	<Text>Ein Adrenalin-Autoinjektor ist ein medizinisches Gerät zur Injektion einer oder mehrerer gemessener Dosen Adrenalin mittels Autoinjektortechnologie. Es wird am häufigsten zur Behandlung der Anaphylaxie eingesetzt. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>Polypektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>Eine Polypektomie ist ein Verfahren zur Entfernung von Polypen aus dem Dickdarminneren, auch Dickdarm genannt. Ein Polyp ist eine abnormale Gewebesammlung. Das Verfahren ist relativ nicht invasiv. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Kolektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>Eine Kolektomie ist eine Darmresektion des Dickdarms. Es besteht aus der chirurgischen Entfernung jeglichen Ausmaßes des Dickdarms, üblicherweise einer segmentalen Resektion. In extremen Fällen, in denen der gesamte Dickdarm entfernt wird. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>Adrenalektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>Die Adrenalektomie ist die chirurgische Entfernung einer oder beider Nebennieren. Es wird in der Regel bei Patienten mit Nebennierentumoren empfohlen. Das Verfahren kann unter Verwendung einer offenen Inzision oder einer laparoskopischen Technik durchgeführt werden. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE</LocID>                                    	
+	<Text>Mitotan</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE_DESC</LocID>                        	
+	<Text>Mitotan, das unter dem Markennamen Lysodren vertrieben wird, ist ein Steroidogenese-Hemmer und ein zytostatisches Antineoplastikum, das bei der Behandlung von Nebennierenrindenkarzinomen und dem Cushing-Syndrom eingesetzt wird. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Spironolacton</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>Spironolacton ist ein kaliumsparendes Diuretikum (Wasserpille), das verhindert, dass Ihr Körper zu viel Salz aufnimmt und dass Ihr Kaliumspiegel zu niedrig wird. Spironolacton wird zur Behandlung von Herzinsuffizienz, Bluthochdruck (Hypertonie) oder Hypokaliämie (niedriger Kaliumspiegel im Blut) angewendet. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Octreotid-Injektion</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>Octreotid wird zur Behandlung von wachstumshormonproduzierenden Tumoren (Akromegalie und Gigantismus) eingesetzt und kann zur Stabilisierung eines Patienten beitragen, der an einer Karzinoidkrise leidet. \ n \ nBenötigtes Zimmer: Beliebiges Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SL_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Aktiver Überwachung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>Aktive Überwachung ist, wenn der Onkologe keine Behandlung empfiehlt, aber den Gesundheitszustand des Patienten durch regelmäßige Kontrollen und Blutuntersuchungen überwacht. Dies wird manchmal als "sorgfältige Überwachung" oder "Beobachten und Warten" bezeichnet. \ n \ nWünschter Raum: Jedes Onkologie-Büro</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_HYPER_CVAD</LocID>                                    	
+	<Text>Intensive Hyper-CVAD-Therapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>Der Ausdruck "hyper" bezieht sich auf die hyperfraktionierte Natur der Chemotherapie, die häufiger in kleineren Dosen verabreicht wird, um Nebenwirkungen zu minimieren. CVAD ist die Abkürzung für die in Kurs A verwendeten Arzneimittel: Cyclophosphamid, Vincristin, Doxorubicin (auch unter dem Handelsnamen Adriamycin bekannt) und Dexamethason. Kurzzeit-Intensivtherapien zeigen verbesserte Ergebnisse. \ n \ nWünschter Raum: Einweisung mit hoher Priorität in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>Splenektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>Die Splenektomie ist ein chirurgischer Eingriff zur Entfernung Ihrer Milz. Die Milz ist ein Organ, das sich links oben unter Ihrem Brustkorb befindet. Es hilft bei der Bekämpfung von Infektionen und filtert nicht benötigtes Material wie alte oder beschädigte Blutzellen aus Ihrem Blut. Der häufigste Grund für die Splenektomie ist die Behandlung einer Milzruptur, die häufig durch eine Bauchverletzung verursacht wird. Die Splenektomie kann zur Behandlung anderer Erkrankungen angewendet werden, einschließlich einer vergrößerten Milz, die Beschwerden (Splenomegalie), einige Blutkrankheiten, bestimmte Krebsarten, Infektionen und nicht kanzeröse Zysten oder Tumoren verursacht. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF</LocID>                                    	
+	<Text>G-CSF-Medikamente</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF_DESC</LocID>                        	
+	<Text>Granulozyten-Kolonie-stimulierende Faktoren Medikamente, auch Kolonie-stimulierender Faktor 3 genannt, sind ein Glykoprotein, das das Knochenmark dazu anregt, Granulozyten und Stammzellen zu produzieren und sie in den Blutkreislauf freizusetzen. \ n \ nBenötigtes Zimmer: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE</LocID>                                    	
+	<Text>Methotrexat IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE_DESC</LocID>                        	
+	<Text>Methotrexat, früher als Amethopterin bekannt, ist ein Chemotherapeutikum und ein Unterdrückungsmittel für das Immunsystem. Es wird zur Behandlung von Krebs, Autoimmunerkrankungen, Eileiterschwangerschaft und bei medizinischen Schwangerschaftsabbrüchen angewendet. Zu den Krebsarten, bei denen es angewendet wird, gehören Brustkrebs, Leukämie, Lungenkrebs, Lymphom und Osteosarkom. \ n \ nWünschter Raum: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Alemtuzumab IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>Alemtuzumab ist ein Medikament zur Behandlung von chronischer lymphatischer Leukämie und Multipler Sklerose. In der CLL wurde Alemtuzumab sowohl als Erstlinien- als auch als Zweitlinienbehandlung angewendet. Bei MS wird im Allgemeinen nur empfohlen, wenn andere Behandlungen nicht erfolgreich waren. Es wird durch Injektion in eine Vene verabreicht. \ n \ nWünschter Raum: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH</LocID>                                    	
+	<Text>BRAF-Inhibitoren</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
+	<Text>BRAF-Inhibitoren blockieren die BRAF-V600E-Genmutation. In klinischen Studien erhöhte B-Raf die Überlebenschance von Patienten mit metastasiertem Melanom. Trotz der hohen Wirksamkeit des Arzneimittels entwickeln 20% der Tumoren immer noch eine Resistenz gegen die Behandlung. \ n \ nBenötigtes Zimmer: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>Tamoxifen</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>Tamoxifen ist eine Hormontherapie gegen Brustkrebs bei Frauen und Männern. Es senkt das Risiko, dass Brustkrebs im Frühstadium nach einer Operation oder bei der Entwicklung der anderen Brust wiederkehrt. Es kann auch fortgeschrittenen Brustkrebs für einige Zeit kontrollieren. \ n \ nBenötigtes Zimmer: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Partielle Mastektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>Eine Operation zur Entfernung des Krebses und einiger normaler Gewebe, aber nicht der Brust. Einige Lymphknoten unter dem Arm können zur Biopsie entfernt werden. Ein Teil der Brustwandverkleidung kann auch entfernt werden, wenn der Krebs in der Nähe ist. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>Hypertonische Kochsalzlösung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>Eine hyperosmolare Therapie mit hypertoner Kochsalzlösung oder Mannitol kann den Hirndruck schnell senken und möglicherweise Leben und Gehirnzellen retten. Hypertonische Kochsalzlösung ist wirksam, weil sie die Blut-Hirn-Schranke nicht (stark) überwindet und dabei Gehirnflüssigkeit aus dem Schädel und Flüssigkeit aus dem verletzten Gehirn zieht, wodurch Druck und weitere Verletzungen verringert werden. \ n \ nBenötigtes Zimmer: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Inzision und Drainage</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Inzision und Drainage sowie klinisches Stechen sind geringfügige chirurgische Eingriffe, um die unter der Haut aufgebauten Flüssigkeit oder Druck abzulassen. \ n \ nbenötigtes Zimmer: Onkologiediagnostik / Onkologisches Arztzimmer / Intensivstation / Beobachtungsraum</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>Chirurgisches Debulking</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>Das chirurgische Debulken von Tumoren ist ein Verfahren, bei dem ein chirurgisch unheilbares malignes Neoplasma teilweise ohne Heilungsabsicht entfernt wird, um die anschließende Therapie mit Arzneimitteln, Bestrahlung oder anderen Zusatzmaßnahmen wirksamer zu gestalten und dadurch die Überlebensdauer zu verbessern. Der Arzt muss Follow-up-Behandlungstermine mit dem Patienten buchen, um den Krebs in eine Remission zu treiben. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>Kraniotomie der Brutto-Totalresektion</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>Die Bruttototalresektion ist eine vollständige Entfernung des sichtbaren Tumorgewebes der Magnetresonanztomographie (MRT). Die supratotale Resektion wird als Brutto-Totalresektion durchgeführt, wobei die im MRT sichtbaren Tumorgewebegrenzen in das nicht betroffene Hirngewebe ausgeschnitten werden. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Estradiol-Creme</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>Estradiol-Creme ist eine Zubereitung aus Östrogen, einem weiblichen Hormon, zur topischen Anwendung im Vaginalbereich zur Behandlung bestimmter Symptome der Menopause wie Trockenheit, Brennen und Juckreiz im Vaginalbereich sowie Dringlichkeit oder Reizung beim Wasserlassen. \ n \ nBenötigtes Zimmer: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>Einseitige Salpingo-Oophorektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Eine unilaterale Salpingo-Oophorektomie ist die chirurgische Entfernung eines Eierstocks und eines Eileiters, die sich auf derselben Körperseite befinden und eine gemeinsame Blutversorgung haben (im Gegensatz dazu umfasst ein bilateraler Eingriff die Entfernung von Eierstöcken und Eileitern Röhren). Die einseitige Salpingo-Oophorektomie ist die erste Wahl für Frauen, die die Fruchtbarkeit erhalten möchten. Obwohl ein höheres Risiko für lokale Rückfälle festgestellt wird, ist dies nicht mit einem verringerten Gesamtüberleben verbunden. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>Radikale Prostatektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>Die radikale Prostatektomie ist eine Operation zur Entfernung der Prostata und des sie umgebenden Gewebes. Dies schließt normalerweise die Samenbläschen und einige nahegelegene Lymphknoten ein. Eine radikale Prostatektomie kann Prostatakrebs bei Männern heilen, deren Krebs auf die Prostata beschränkt ist. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Hormontherapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>Hormontherapie oder Hormontherapie ist die Verwendung von Hormonen in der medizinischen Behandlung. \ n \ nBenötigtes Zimmer: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>Nebenschilddrüsenentfernung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>Die Parathyreoidektomie ist eine Operation zur Entfernung der Nebenschilddrüsen oder Nebenschilddrüsentumoren. Die Nebenschilddrüsen befinden sich direkt hinter Ihrer Schilddrüse in Ihrem Nacken. Diese Drüsen helfen Ihrem Körper, den Kalziumspiegel im Blut zu kontrollieren. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>R-CHOP-Chemotherapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOP ist eine Kombinationsbehandlung zur Behandlung des Non-Hodgkin-Lymphoms (NHL). R-CHOP enthält fünf Chemotherapeutika: Rituximab (Rituxan) cyclophosphamid. Doxorubicinhydrochlorid, Vincristin und Prednisolon. \ n \ nbenötigtes Zimmer: OP Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>Rituximab</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>Rituximab, das unter anderem unter dem Markennamen Rituxan vertrieben wird, ist ein Medikament zur Behandlung bestimmter Autoimmunerkrankungen und Krebsarten. Rituximab ist ein chimärer monoklonaler Antikörper gegen das Protein CD20, das sich hauptsächlich auf der Oberfläche von B-Zellen des Immunsystems befindet. Wenn es an dieses Protein bindet, löst es den Zelltod aus. \ n \ nBenötigtes Zimmer: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
+	<Text>Gemcitabin</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE_DESC</LocID>                        	
+	<Text>Gemcitabin, das unter anderem unter dem Markennamen Gemzar vertrieben wird, ist ein Chemotherapeutikum zur Behandlung einer Reihe von Krebsarten. Diese Krebsarten umfassen Brustkrebs, Eierstockkrebs, nichtkleinzelligen Lungenkrebs, Bauchspeicheldrüsenkrebs und Blasenkrebs. Es wird durch langsame Injektion in eine Vene gegeben. \ n \ n Erforderlicher Raum: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT</LocID>                                    	
+	<Text>POC-Kombinationsbehandlung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT_DESC</LocID>                        	
+	<Text>Pamidronat- und Octreotid-Kombinationsbehandlung. Isolierte Berichte legen nahe, dass Pamidronat und Octreotid in einigen Fällen zur Linderung von Knochenschmerzen und zur Behandlung der hypertrophen pulmonalen Osteoarthropathie (HPOA) beitragen können. Die Behandlung des zugrunde liegenden Problems ist erforderlich, um das Problem zu beheben. \ n \ n Erforderlicher Raum: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>Die segmentale Resektion ist ein chirurgischer Eingriff zur Entfernung eines Teils eines Organs oder einer Drüse als Untertyp einer Resektion, bei dem möglicherweise der gesamte Körperteil entfernt wird. Es kann auch verwendet werden, um einen Tumor und normales Gewebe um ihn herum zu entfernen. \ n \ n Erforderlicher Raum: Operationssaal der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP</LocID>                                    	
+	<Text>FEP-Kombinationsbehandlung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
+	<Text>Kombinationsbehandlung mit 5-Fluorouracil (5-FU), Cisplatin und Etoposid (FEP). Die Chemotherapie hat eine relativ schlechte kurative Wirksamkeit bei bestimmten Krebsarten wie dem Siegelringzellkarzinom (SRCC) und bei Patienten, und die Gesamtüberlebensraten sind im Vergleich zu Patienten mit einer typischeren Krebspathologie niedriger. Diese Krebsarten werden normalerweise in den späten Stadien der Krankheit diagnostiziert, so dass sich die Tumoren im Allgemeinen aggressiver ausbreiten als Krebsarten ohne Siegel, was die Behandlung schwierig macht, aber die aktivsten Therapien umfassen 5-Fluorouracil (5-FU), Cisplatin und / oder Etoposid. Die FEP-Kombinationschemotherapie scheint ein wirksames Behandlungsschema für Magenkrebs als Salvage-Chemotherapie zu sein. \ n \ n Erforderlicher Raum: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL</LocID>                                    	
+	<Text>Ammonul</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL_DESC</LocID>                        	
+	<Text>Ammonul (Kombination aus Natriumbenzoat und Natriumphenylacetat) wird zur Behandlung eines Zustands angewendet, der durch zu viel Ammoniak im Blut (Hyperammonämie) verursacht wird. \ n \ n Erforderlicher Raum: Regelmäßiger Krankenhausaufenthalt in der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE</LocID>                                    	
+	<Text>Lactulose</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE_DESC</LocID>                        	
+	<Text>Lactulose ist ein verschreibungspflichtiges Medikament, das oral oder rektal zur Behandlung oder Vorbeugung von Komplikationen bei Lebererkrankungen (hepatische Enzephalopathie) angewendet wird. Es heilt das Problem nicht, kann aber dazu beitragen, den mentalen Status zu verbessern. Lactulose ist ein Kolonsäuerungsmittel, das die Menge an Ammoniak im Blut verringert. \ n \ n Erforderlicher Raum: Beliebiges Büro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>Hepatektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>Die Hepatektomie ist die chirurgische Resektion (Entfernung der gesamten oder eines Teils) der Leber. \ n \ n Erforderlicher Raum: Operationssaal der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Lebertransplantation</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>Eine Lebertransplantation ist ein chirurgischer Eingriff, bei dem eine Leber, die nicht mehr richtig funktioniert (Leberversagen), entfernt und durch eine gesunde Leber eines verstorbenen Spenders oder einen Teil einer gesunden Leber eines lebenden Spenders ersetzt wird. \ n \ n Erforderlicher Raum: Operationssaal der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Immunsuppressiva</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Immunsuppressiva sind eine Klasse von Medikamenten, die die Stärke des körpereigenen Immunsystems unterdrücken oder verringern. Einige dieser Medikamente werden verwendet, um die Wahrscheinlichkeit zu verringern, dass der Körper ein transplantiertes Organ wie Leber, Herz oder Niere abstößt. \ n \ n Erforderlicher Raum: Operationssaal der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Parotidektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>Eine Parotidektomie ist die chirurgische Entfernung der Parotis, der größten und größten Speicheldrüse. Das Verfahren wird am typischsten aufgrund von Neoplasmen durchgeführt, bei denen es sich um Wachstum von sich schnell und abnormal teilenden Zellen handelt. Neubildungen können gutartig oder bösartig sein. \ n \ n Erforderlicher Raum: Operationssaal der Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

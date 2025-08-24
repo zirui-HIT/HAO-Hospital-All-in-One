@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_GYNECOLOGIE_EXAMINATIONS">
+
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>S2SKY</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM</LocID>					<Text>산부인과 진찰</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM_DESCRIPTION</LocID>		<Text>여성의 생식계 건강 진단을 목적으로 한 검사 절차들입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN</LocID>								<Text>유방 검사</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN_DESCRIPTION</LocID>					<Text>육안으로 하는 검사 및 유방의 촉진을 이용한 검사.</Text></GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV</LocID>						<Text>골반 초음파 검사</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV_DESCRIPTION</LocID>			<Text>골반 부분을 대상으로 한 초음파 검사.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE</LocID>						<Text>유방조영술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE_DESCRIPTION</LocID>			<Text>X-레이를 사용한 유방검사입니다.</Text>	</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING</LocID>				<Text>성병 임상연구실 표본 채취</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING_DESCRIPTION</LocID>	<Text>매독 등을 진단하기 위해 혈청 표본을 채취합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING</LocID>				<Text>성병 임상연구실 테스트</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING_DESCRIPTION</LocID>	<Text>성병 임상연구실 검사는 환자의 매독 및 성병의 유무를 진단하기 위한 검사들입니다.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_FCU_SAMPLING</LocID>						<Text>팹 스미어 표본 채취</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_TESTING</LocID>						<Text>팹 스미어 테스트</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_DESCRIPTION</LocID>					<Text>박리된 세포들을 특수한 기법으로 염색해 병변조직 및 정상 세포조직을 감별하는 방식으로 암, 특히 자궁경부암을 조기에 진단하기 위한 방법입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_SAMPLING</LocID>					<Text>경구 포도당 부하 표본 채취</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_TESTING</LocID>						<Text>경구 포도당 부하 검사</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_DESCRIPTION</LocID>					<Text>당 부하 검사로, 경구 포도당 부하 검사라고도 알려져 있으며, 당(포도당)에 대한 환자의 신체반응을 측정합니다.</Text>	</GameDBLocalizedString>
+
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

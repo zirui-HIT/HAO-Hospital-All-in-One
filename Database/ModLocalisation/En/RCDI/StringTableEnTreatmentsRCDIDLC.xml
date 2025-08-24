@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_TREATMENTS_RCDI">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Butch</Name>
+            
+        </Contributors>
+
+        <LocalizedStrings>
+            
+			
+            
+            <GameDBLocalizedString>      <LocID>TRT_TPA</LocID>                                                 <Text>IV TPA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TPA_DESCRIPTION</LocID>                                     <Text>Intravenous Tissue Plasminogen Activator is a medicine injected into the bloodstream that dissolves the blood clot blocking the blood vessel in the brain. \n\nRequired room: ICU / Trauma Center in Emergency Department / Observation Room in Emergency Department / Regular Ward / HDU / Neurology Department</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_STATINS</LocID>                                             <Text>Statins</Text>  </GameDBLocalizedString>    
+			<GameDBLocalizedString>      <LocID>TRT_STATINS_DESCRIPTION</LocID>                                 <Text>Statins are class of drugs that work to lower LDL (low density lipoprotein) which is also known as bad cholesterol. Statins can slow, stop or even reverse the buildup of fatty deposits in the arteries (atherosclerosis). \n\nRequired room: Any outpatient clinic / Observation room / ICU / Regular Ward / HDU</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_INTRAVENOUS_INFUSION</LocID>                                <Text>IV infusion</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_INTRAVENOUS_INFUSION_DESCRIPTION</LocID>                    <Text>A procedure where medication and fluids are delivered intravenously (directly to the bloodstream through a vein). \n\nRequired room: Patient must be hospitalized first. ICU / Trauma Center in Emergency Dpt / Obvervation room / Regular Ward / HDU </Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

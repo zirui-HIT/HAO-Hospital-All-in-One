@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>ru</LanguageCode>
+		<LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>Гинекологический кабинет</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>Гинекологический кабинет является обычным диагностическим амбулаторным кабинетом. \n\nМин. требования к персоналу: \n1x врач</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>Кабинет общей диагностики</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>Кабинет общей диагностики в отделении гинекологии позволяет проводить обследования и процедуры для госпитализированных пациентов. \n\nМин. требования к персоналу: \n1x врач \n(персонал, работающий в оридинаторской)</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>OBJECT_DECAL_GYNECO_DPT</LocID>								<Text>Гинекология</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

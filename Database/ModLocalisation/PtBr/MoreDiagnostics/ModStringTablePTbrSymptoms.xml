@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PTBR_ADDON_MORE_DG_SYMPTOMS">
+
+        <LanguageCode>ptbr</LanguageCode>
+        <LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Nathan Silva</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			<!-- ================================================== From CRP  ================================================== -->
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Esplenomegalia</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Hipercalcemia</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Hipercalcemia grave</Text>  </GameDBLocalizedString>
+
+			<!-- ================================================== Normaux ================================================== -->	
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Respiração sistólica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Um sopro sistólico começa após o primeiro som do coração (B1) e termina antes do segundo ruído (B2).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Respiração diastólica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>As respirações diastólicas começam após o segundo som cardíaco (com o fechamento das válvulas sigmóides) e terminam antes do primeiro som. São, portanto, vistos durante o coração diastólico.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>HVE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>A hipertrofia ventricular esquerda (HVE) representa uma resposta adaptativa do coração à hipertensão arterial. Embora considerada compensatória, a HVE é um preditor independente de maior morbimortalidade cardiovascular..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>A sobrecarga ventricular direita tende a imprimir ao coração uma dextrorrotação com deslocamento da ponta para trás. A dextrorrotação corresponde a uma rotação da alça de QRS no sentido horário no plano frontal (padrão S1, Q3) e a ponta para trás corresponde ao deslocamento posterior da ponta do coração em torno do eixo látero-lateral (S1, S2, S3).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Escore de Wells</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>O tromboembolismo pulmonar (TEP) é caracterizado pela impactação de um êmbolo no sistema arterial pulmonar. Este êmbolo é resultado de um desprendimento total ou parcial de um trombo geralmente formado no sistema venoso profundo do paciente. O TEP é uma condição frequente, de manifestação clínica variada e potencialmente fatal. Desta forma, sua identificação deve ser feita da maneira mais rápida possível, evitando sua evolução e piora do prognóstico..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Escore de Genebra</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>Este é um escore diagnóstico para embolia pulmonar e trombose venosa profunda.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>D-dímero alto</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>Os dímeros D provêm da degradação da fibrina, uma proteína envolvida na coagulação do sangue. Médico prescreve dosagem de dímero D se suspeitar de coágulos sanguíneos.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>BNP alto</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>O peptídeo natriurético do tipo B, ou BNP (peptídeo natriurético do cérebro), é um hormônio sintetizado por células cardíacas chamadas cardiomiócitos em resposta a um aumento da pressão arterial, especialmente durante o desenvolvimento de insuficiência cardíaca.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Síndrome de Lodge</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>A síndrome de Lodge é uma condição séria que se caracteriza pelo aumento da pressão no compartimento muscular. A síndrome do compartimento resulta em dores nervosas e musculares, geralmente é encontrada nos membros inferiores do corpo (pernas), pode se manifestar em outras partes, como os antebraços.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Nódulo umbilical metastático</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Percepção de um nódulo umbilical metastático oscilante e expansiva.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Infarto mesentérico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>É uma necrose (destruição) das células do envelope que circunda o intestino e o anexa a toda a parede abdominal: o mesentério. O infarto do mesentério é secundário à obstrução da artéria mesentérica. Hospitalização no Departamento de Cirurgia Geral necessária</Text>	</GameDBLocalizedString>
+						
+			
+
+
+			<!-- ================================================== CRP - translate and transfer to CRP ================================================== -->	
+<!--
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE</LocID>										<Text>Hipocalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE_DESCRIPTION</LocID>							<Text>A hipocalemia é um baixo nível de potássio (K +) no soro sanguíneo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE</LocID>									<Text>Hipercalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE_DESCRIPTION</LocID>						<Text>A hipercalemia é um nível elevado de potássio (K +) no sangue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP</LocID>												<Text>Edema pulmonar</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP_DESCRIPTION</LocID>									<Text>Edema pulmonar é o acúmulo de líquidos nos tecidos e espaços aéreos dos pulmões.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS</LocID>									<Text>Sem pulso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS_DESCRIPTION</LocID>						<Text>Não há pulso percebido para um membro.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE</LocID>											<Text>Livedo reticular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE_DESCRIPTION</LocID>								<Text>O Livedo reticular é um achado comum da pele que consiste em um padrão vascular reticulado manchado que aparece como uma descoloração arroxeada da pele em forma de renda. A descoloração é causada pelo inchaço das vênulas devido à obstrução dos capilares por pequenos coágulos sanguíneos.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE</LocID>									<Text>Pulso hiper pulsátil</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE_DESCRIPTION</LocID>						<Text>Hiper pulsatilidade pulpar</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE</LocID>							<Text>Distensão da veia jugular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE_DESCRIPTION</LocID>				<Text>A distensão da veia jugular ocorre quando a pressão no interior da veia cava aumenta e aparece como uma protuberância no lado direito do pescoço de uma pessoa.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ</LocID>										<Text>Refluxo abdomino-jugular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ_DESCRIPTION</LocID>							<Text>O sinal de refluxo abdominojugular é útil no diagnóstico de insuficiência ventricular direita, mas é frequentemente realizado e interpretado incorretamente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE</LocID>										<Text>Hepatalgia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE_DESCRIPTION</LocID>							<Text>Um fígado doloroso.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL</LocID>								<Text>Sopro abdominal</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL_DESCRIPTION</LocID>					<Text>A presença de um sopro abdominal pode refletir a existência de um aneurisma da aorta abdominal ou um estreitamento das artérias renais.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE</LocID>								<Text>Sopro vascular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE_DESCRIPTION</LocID>					<Text>Som de sangue fluindo pelo coração ocasionado por qualquer motivo, desde esforço do coração saudável durante exercícios até uma válvula cardíaca enferma ou outra anormalidade.</Text>	</GameDBLocalizedString>
+-->			
+			
+			<!-- ================================================== Main ================================================== -->	
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Estenose aórtica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Diminuição do diâmetro da válvula aórtica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Insuficiência aórtica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Válvula aórtica insuficiente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Hipertensão grave</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Hipertensão grave, início rápido.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Síncope reflexa</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>É um reflexo neurovegetativo da hipotensão arterial com bradicardia mais ou menos acentuada após estímulo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Teste positivo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Teste de hipotensão ortostática retornou positivo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Transtorno de condução</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Bloqueio paroxístico completo da condução intracardíaca.</Text>	</GameDBLocalizedString>	
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Prodromes</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>Os sinais e sintomas que precedem a síncope são chamados pródromos. A lipotimia pode ser resumida por uma sensação iminente de desmaio.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>AF</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>O diagnóstico de FA só pode ser confirmado em um traçado de ECG. Isso mostra uma ausência de onda P visível e, na maioria das vezes, QRS irregular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>Bloqueio sinoatria</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>O bloqueio sino-atrial é uma interrupção completa da condução intra-atrial após certos impulsos sinusais.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>Bloqueio atrioventricular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>Bloqueio atrioventricular de 3º grau é uma interrupção completa e permanente da transmissão dos impulsos atriais para os ventrículos. A lesão responsável pelo bloqueio está mais freqüentemente localizada no tronco do feixe de His ou seus ramos de condução (bloqueio subnodal). Às vezes, está localizado no nó AV (bloqueio intranodal).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>LBBB</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Aparência típica de BBD no ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>VT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Aspecto típico da TV ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>Extensão QT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Extensão do espaço QT no ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>JT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>A taquicardia juncional (TJ) é um grupo heterogêneo de taquicardias cujo circuito começa ou passa necessariamente pela junção atrioventricular (nó juncional e / ou tronco do feixe de His) para ser sustentável.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>Onda delta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text>Impasto e lentidão da parte inicial do complexo QRS em conexão com a pré-excitação do ventrículo por um feixe acessório.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>FEVG alterado</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>A fração de ejeção do ventrículo esquerdo (FEVE) é a porcentagem de sangue ejetado do ventrículo esquerdo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>FEVD alterado</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>A fração de ejeção do ventrículo direito (FEVD) é a porcentagem de sangue ejetado do ventrículo direito.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>IPS baixo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>O Índice de Pressão Sistólica (IPS) é menor que 0,9. O IPS baseia-se na coleta de pressões sistólicas dos membros inferiores e umeral e no estabelecimento de uma razão pressão no tornozelo / pressão umeral..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>Aneurisma da Aorta Abdominal (AAA) Descoberto.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>Aneurisma poplíteo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>Aneurisma da artéria poplítea descoberto.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>Obstrução celíaca</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>Oclusão da artéria celíaca e artérias mesentéricas. É necessário o envolvimento de pelo menos dois dos três troncos arteriais digestivos para induzir a sintomatologia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>Isquemia tecidual MS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>Isquemia é a cessação ou insuficiência da circulação sanguínea em uma parte do corpo ou de um órgão, que priva as células do suprimento de oxigênio e causa sua necrose. A isquemia pode ser causada por bloqueio de um vaso (trombose) ou compressão de uma artéria (estenose).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>Isquemia do tecido infarto do miocárdio</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>Isquemia é a cessação ou insuficiência da circulação sanguínea em uma parte do corpo ou de um órgão, que priva as células do suprimento de oxigênio e causa sua necrose. A isquemia pode ser causada por bloqueio de um vaso (trombose) ou compressão de uma artéria (estenose).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>Oclusão de artérias mesentéricas</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>É uma oclusão arterial aguda ou baixo fluxo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>Falha de AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>Aneurisma da aorta abdominal rompido.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>Ruptura AIC</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>Ruptura do aneurisma da artéria ilíaca comum.</Text>	</GameDBLocalizedString>
+			
+		</LocalizedStrings>
+
+  
+	</GameDBStringTable>
+</Database>

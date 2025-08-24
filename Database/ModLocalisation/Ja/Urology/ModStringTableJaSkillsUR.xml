@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_URKN_SKILLS">
+	
+	<LanguageCode>ja</LanguageCode>
+	<LanguageNameLocalized>Japanese</LanguageNameLocalized>
+	<Contributors>
+		<Name>jackall4125678</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+	<GameDBLocalizedString>      
+		<LocID>DPT_URKN</LocID>                                          	
+		<Text>泌尿器科_腎臓学</Text>  
+	</GameDBLocalizedString>
+
+
+
+
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR</LocID>                   
+		<Text>泌尿器科</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_DESC</LocID>                   
+		<Text>泌尿器科では、泌尿器科でさまざまな形態の疾患を検出、診断、治療するための特別な手順を利用できます。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY</LocID>                   
+		<Text>泌尿生殖器外科</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY_DESC</LocID>                   
+		<Text>泌尿生殖器手術は、医師が泌尿器科の主な外科医として行動することを可能にし、手術が合併症をもたらす頻度に影響を与えます。</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

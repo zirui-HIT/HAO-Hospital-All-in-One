@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_IT_ADDON_URKN_SYMPTOMS">
+	<LanguageCode>it</LanguageCode>
+	<LanguageNameLocalized>Italiano</LanguageNameLocalized>
+	<Contributors>
+	<Name>neoxes</Name>
+	</Contributors>
+	
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WP</LocID>                               
+		<Text>Testicolo gonfio e dolente</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WP_DESC</LocID>                   
+		<Text>Un testicolo è gonfio e dolente.</Text>  
+	</GameDBLocalizedString>	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WPT</LocID>                               
+		<Text>Testicolo gonfio</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WPT_DESC</LocID>                   
+		<Text>Un testicolo è gonfio, ma non dolente.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTISBlOODFLOW</LocID>                               
+		<Text>Ridotto flusso sanguigno al testicolo</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTISBlOODFLOW_DESC</LocID>                   
+		<Text>Il flusso di sangue che scorre verso il testicolo è ridotto o bloccato.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS</LocID>                               
+		<Text>Testicolo gonfio</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_DESC</LocID>                   
+		<Text>Un testicolo è gonfio.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTICULARINFARCTION</LocID>                               
+		<Text>Infarto testicolare</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTICULARINFARCTION_DESC</LocID>                   
+		<Text>L'infarto testicolare si verifica come conseguenza della diminuzione del flusso sanguigno, e quindi della diminuzione dell'apporto di ossigeno e nutrienti al testicolo. Se il testicolo non è vitale durante l'esplorazione chirurgica, deve essere rimosso per prevenire ulteriori necrosi o morte dei tessuti.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HIGHRIDINGTESTIS</LocID>                               
+		<Text>Testicolo ritenuto</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HIGHRIDINGTESTIS_DESC</LocID>                   
+		<Text>Il testicolo sembra avere una posizione più alta del normale all'interno dello scroto.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABNORMALLIETESTIS</LocID>                               
+		<Text>Testicolo in posizione anormale</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABNORMALLIETESTIS_DESC</LocID>                   
+		<Text>Il testicolo sembra trovarsi in una posizione anormale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENSCROTUM</LocID>                               
+		<Text>Scroto gonfio</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENSCROTUM_DESC</LocID>                   
+		<Text>Lo scroto è gonfio.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SUDDENPAINSCROTUM</LocID>                               
+		<Text>Dolore improvviso allo scroto</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SUDDENPAINSCROTUM_DESC</LocID>                   
+		<Text>Il paziente ha avvertito un improvviso dolore allo scroto.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABCREMASCTICREFLEX</LocID>                               
+		<Text>Riflesso cremasterico assente</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABCREMASCTICREFLEX_DESC</LocID>                   
+		<Text>Il riflesso cremasterico può essere assente a causa di torsione testicolare, disturbi del motoneurone superiore e inferiore, nonché lesione alla colonna vertebrale di L1-L2. Può anche verificarsi se il nervo ileoinguinale è stato accidentalmente tagliato durante una riparazione di ernia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CREMASCTICREFLEX</LocID>                               
+		<Text>Riflesso cremasterico presente</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CREMASCTICREFLEX_DESC</LocID>                   
+		<Text>Il riflesso cremasterico consiste nella contrazione del muscolo cremastere che ricopre il canale inguinale e che deriva dal muscolo obliquo interno dell'addome. Questo riflesso è provocato accarezzando o colpendo leggermente la parte superiore e mediale della coscia, indipendentemente dalla direzione del colpo. La risposta normale è una contrazione immediata del muscolo cremastere che solleva il testicolo ipsilateralmente dallo stesso lato del corpo.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_LUMPTS</LocID>                               
+		<Text>Massa all'interno del testicolo</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_LUMPTS_DESC</LocID>                   
+		<Text>Durante l'esame obiettivo è stata notata una massa o un nodulo all'interno del testicolo.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HARD_TESTIS</LocID>                               
+		<Text>Testicolo indurito</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HARD_TESTIS_DESC</LocID>                   
+		<Text>Il testicolo è più duro del normale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ALFAPRO</LocID>                               
+		<Text>Livelli elevati di alfa-feto proteina</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ALFAPRO_DESC</LocID>                               
+		<Text>L'alfa-feto proteina è una delle principali proteine plasmatiche prodotte nell'embrione e nel feto durante la loro fase di sviluppo, precisamente dal sacco vitellino e dal fegato fetale. Nell'uomo, questa proteina è codificata dal gene AFP, che si trova sul braccio q del cromosoma 4. L'AFP si osserva principalmente nel cancro del fegato e nei tumori a cellule germinali non seminomatosi, che sono rari e si trovano nella ghiandola pineale nel cervello. Possono avere livelli ematici di AFP più elevati del normale anche alcune persone con cirrosi o epatite cronica attiva. Come ogni marcatore tumorale, un AFP elevato di per sé non è diagnostico, ma solo indicativo.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BETAHCG</LocID>                               
+		<Text>Livelli elevati di beta-hCG</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BETAHCG_DESC</LocID>                               
+		<Text>La subunità beta della gonadotropina corionica umana (beta-hCG) è una glicoproteina ad attività ormonale che funge anche da marker tumorale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HVSC</LocID>                               
+		<Text>Sensazione di pesantezza allo scroto</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HVSC_DESC</LocID>                               
+		<Text>Il paziente avverte una sensazione di pesantezza a livello dello scroto.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TSTM</LocID>                               
+		<Text>Rilevato cancro ai testicoli</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TSTM_DESC</LocID>                               
+		<Text>L'ecografia ha rilevato un cancro ai testicoli. La diagnosi differenziale richiede l'esame dell'istologia del tessuto ottenuto tramite orchiectomia inguinale. La biopsia è sconsigliata poiché aumenta il rischio di diffondere cellule tumorali nello scroto.</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_1</LocID>                               
+		<Text>Rilevato seminoma (Stadio I)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_1_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un seminoma senza segni di diffusione o di metastasi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_2</LocID>                               
+		<Text>Rilevato seminoma (Stadio II)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_2_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un seminoma con segni di diffusione nel testicolo e di metastasi nei linfonodi sottostanti il diaframma.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_3</LocID>                               
+		<Text>Rilevato seminoma (Stadio III)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_3_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un seminoma con segni di diffusione nel testicolo e di metastasi nei linfonodi sottostanti e soprastanti il diaframma.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_4</LocID>                               
+		<Text>Rilevato seminoma (Stadio IV)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_4_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un seminoma con segni di diffusione nel testicolo e di metastasi nei linfonodi adiacenti ed in altri organi.</Text>  
+	</GameDBLocalizedString>
+
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_1</LocID>                               
+		<Text>Rilevato non seminoma (Stadio I)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_1_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un non seminoma senza segni di diffusione o di metastasi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_2</LocID>                               
+		<Text>Rilevato non seminoma (Stadio II)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_2_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un non seminoma con segni di diffusione nel testicolo e di metastasi nei linfonodi sottostanti il diaframma.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_3</LocID>                               
+		<Text>Rilevato non seminoma (Stadio III)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_3_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un non seminoma con segni di diffusione nel testicolo e di metastasi nei linfonodi sottostanti e soprastanti il diaframma.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_4</LocID>                               
+		<Text>Rilevato non seminoma (Stadio IV)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_4_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un seminoma con segni di diffusione nel testicolo e di metastasi nei linfonodi adiacenti ed in altri organi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_1</LocID>                               
+		<Text>Ghiandola prostatica ingrossata</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_1_DESC</LocID>                               
+		<Text>Una ghiandola prostatica ingrossata che all'esame rettale si mostra simmetrica e liscia supporta la diagnosi di iperplasia prostatica benigna.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BPH_DETC_1</LocID>                               
+		<Text>Rilevata iperplasia prostatica benigna</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BPH_DETC_1_DESC</LocID>                               
+		<Text>La biopsia ha evidenziato un'iperplasia prostatica benigna.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_DHT</LocID>                               
+		<Text>Livelli elevati di DHT</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_DHT_DESC</LocID>                               
+		<Text>Il paziente mostra livelli elevati di diidrotestosterone (DHT) nel sangue.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_2</LocID>                               
+		<Text>Ghiandola prostatica ingrossata</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_2_DESC</LocID>                               
+		<Text>Una ghiandola prostatica ingrossata che all'esame rettale si mostra simmetrica e liscia supporta la diagnosi di iperplasia prostatica benigna.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BPH_DETC_2</LocID>                               
+		<Text>Rilevata iperplasia prostatica benigna (Farmacoresistente)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>       
+		<LocID>SYM_KN_BPH_DETC_2_DESC</LocID>                               
+		<Text>La biopsia ha evidenziato un'iperplasia prostatica benigna. Tuttavia la prostata non ha reagito agli α1-bloccanti selettivi, quindi è necessario un intervento chirurgico mininvasivo.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RETRO_EJAC</LocID>                               
+		<Text>Eiaculazione retrograda</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RETRO_EJAC_DESC</LocID>                               
+		<Text>L'eiaculazione retrograda si osserva quando lo sperma che verrebbe eiaculato attraverso l'uretra viene reindirizzato alla vescica urinaria. Tipicamente, ciò si verifica quando lo sfintere della vescica non funziona correttamente e non si contrae prima dell'eiaculazione.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EREC_DYS</LocID>                               
+		<Text>Disfunzione erettile</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EREC_DYS_DESC</LocID>                               
+		<Text>La disfunzione erettile (ED) è l'incapacità di ottenere o mantenere un'erezione adeguata a portare a termine un rapporto sessuale soddisfacente. A volte si parla di impotenza, sebbene questo termine sia ormai usato sempre meno spesso. L'ED occasionale non è raro, infatti, molti uomini lo sperimentano durante i periodi di stress. Inoltre, l'ED è una potenziale complicanza nota dell'intervento di prostatectomia radicale per cancro alla prostata.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO</LocID>                               
+		<Text>Incontinenza urinaria</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO_DESC</LocID>                               
+		<Text>L'incontinenza urinaria è una involontaria e non controllata perdita delle urine, che determina un peggioramento della qualità della vita. Questa condizione medica è abbastanza frequente e quasi sempre è il risultato di una sottostante condizione medica curabile.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENEPIDIDYMIS</LocID>                               
+		<Text>Epididimo gonfio e tenero</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENEPIDIDYMIS_DESC</LocID>                               
+		<Text>L'epididimo si mostra gonfio ed è tenero al tatto.</Text> 
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_DETC</LocID>                               
+		<Text>Rilevata epididimite</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_DETC_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un'epididimite.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_INGUINAL_LYMPH_NODES</LocID>                               
+		<Text>Linfonodi inguinali</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PENIS_DISCHARGE</LocID>                               
+		<Text>Secrezione dal pene</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PENIS_DISCHARGE_DESC</LocID>                               
+		<Text>Gli esami hanno rilevato delle secrezioni che fuoriescono dal pene.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_ORCH_DETC</LocID>                               
+		<Text>Rilevata orchiepididimite</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_ORCH_DETC_DESC</LocID>                               
+		<Text>Gli esami hanno evidenziato un'orchiepididimite.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KIDNEY_TISSUE_BADLY_DAMAGED</LocID>                               
+		<Text>Tessuto renale gravemente danneggiato</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KIDNEY_TISSUE_BADLY_DAMAGED_DESC</LocID>                               
+		<Text>La risonanza magnetica del tessuto renale ha dimostrato un grave livello di danno.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IMMUN_REACT</LocID>                               
+		<Text>Reazione immunitaria al trapianto</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IMMUN_REACT_DESC</LocID>                               
+		<Text>Il sistema immunitario del paziente sta reagendo al nuovo organo appena trapiantato.</Text>  
+	</GameDBLocalizedString> 	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ACUTE_ORG_REJEC</LocID>                               
+		<Text>Rigetto di trapianto</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ACUTE_ORG_REJEC_DESC</LocID>                               
+		<Text>Il sistema immunitario del paziente ha reagito al nuovo organo appena trapiantato ed il corpo lo sta rigettando. Se non si interviene, il rigetto sarà fatale.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_WEEKLY_DIALYSIS</LocID>                               
+		<Text>Seduta settimanale di dialisi</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_WEEKLY_DIALYSIS_DESC</LocID>                               
+		<Text>Il paziente ha un appuntamento settimanale per la dialisi.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_STERILIZATION_WISH</LocID>                               
+		<Text>Desiderio di sterilizzazione</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_STERILIZATION_WISH_DESC</LocID>                               
+		<Text>Il paziente ha espresso il desiderio di essere sterilizzato.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NEEDS_UROLOGY</LocID>                               
+		<Text>Necessario intervento urologico</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NEEDS_UROLOGY_DESC</LocID>                               
+		<Text>La condizione del paziente deve essere monitorata da un urologo.</Text>  
+	</GameDBLocalizedString>
+	
+	
+
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URETHRAL_STONES_DETECTED</LocID>                       
+		<Text>Calcoli uretrali rilevati</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_BLADDER_STONES_DETECTED</LocID>                         
+		<Text>Rilevati calcoli alla vescica</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLADDER_INFECTION</LocID>                              
+		<Text>Infezione alla vescica</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLADDER_LINING_DEFECTED</LocID>                        
+		<Text>Rivestimento della vescica difettoso</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_KIDNEY_TISSUE_INFLAMMED</LocID>                    
+		<Text>Tessuto renale infiammato</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TUBULUS_INFLAMMED</LocID>                               
+		<Text>Tubuli infiammati</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_KIDNEY_INTERSTITIUM_ABSCESS</LocID>                    
+		<Text>Ascesso interstizio renale</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_KIDNEY_TISSUE_DAMAGED</LocID>                        
+		<Text>Tessuto renale danneggiato</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_KIDNEY_PROGRESSIVE_DAMAGE</LocID>                      
+		<Text>Danno progressivo ai reni</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_KIDNEY_STONES_DISCOVERED</LocID>                        
+		<Text>Calcoli renali scoperti</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_E_COLI_TOXIN_DETECTED</LocID>                     
+		<Text>Rilevata tossina da E. coli</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLUNT_KIDNEY_CONTUSION</LocID>                         
+		<Text>Trauma renale</Text> 
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_BACSCRO</LocID>                     
+		<Text>Rilevati batteri nello scroto</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BACSCRO_DESC</LocID>                         
+		<Text>Gli esami hanno rilevato dei batteri all'interno dello scroto.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_UNPL_ODOR</LocID>                     
+		<Text>Odore sgradevole</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_UNPL_ODOR_DESC</LocID>                         
+		<Text>Il paziente ha un odore sgradevole.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_7</LocID>                               
+		<Text>Rilevato carcinoma renale (Inferiore a 7cm)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_7_DESC</LocID>                               
+		<Text>L'esame TC ha evidenziato un carcinoma renale di dimensioni inferiori a 7cm.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_8</LocID>                               
+		<Text>Rilevato carcinoma renale (Superiore a 7cm)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_8_DESC</LocID>                               
+		<Text>L'esame TC ha evidenziato un carcinoma renale di dimensioni superiori a 7cm.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_1</LocID>                     
+		<Text>Rilevato carcinoma renale a cellule chiare (Stadio I)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_1_DESC</LocID>                         
+		<Text>Gli esami hanno evidenziato un carcinoma renale a cellule chiare di dimensioni inferiori a 7cm e senza coinvolgimento dei linfonodi o metastasi in altri organi.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_21</LocID>                     
+		<Text>Rilevato carcinoma renale a cellule chiare (Stadio II)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_2_DESC</LocID>                         
+		<Text>Gli esami hanno evidenziato un carcinoma renale a cellule chiare di dimensioni superiori a 7cm e senza coinvolgimento dei linfonodi o metastasi in altri organi.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_31</LocID>                     
+		<Text>Rilevato carcinoma renale a cellule chiare (Stadio III)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_32</LocID>                     
+		<Text>Rilevato carcinoma renale a cellule chiare (Stadio III)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_3_DESC</LocID>                         
+		<Text>Gli esami hanno evidenziato un carcinoma renale a cellule chiare con coinvolgimento dei linfonodi, ma senza metastasi in altri organi.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_4</LocID>                     
+		<Text>Rilevato carcinoma renale a cellule chiare (Stadio IV)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_4_DESC</LocID>                         
+		<Text>li esami hanno evidenziato un carcinoma renale a cellule chiare con coinvolgimento dei linfonodi e metastasi in altri organi.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_FLANK_PAIN</LocID>                     
+		<Text>Dolore al fianco</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_FLANK_PAIN_DESC</LocID>                         
+		<Text>Il paziente prova dolore sul lato del corpo tra l'anca e le costole.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_DEPR_ERYTHR</LocID>                     
+		<Text>Livelli bassi di eritropoietina</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_DEPR_ERYTHR_DESC</LocID>                         
+		<Text>L'eritropoietina, o EPO, è un ormone glicoproteico prodotto dai reni e in misura minore dal fegato e dal cervello, che ha come funzione principale la regolazione dell'eritropoiesi (produzione dei globuli rossi da parte del midollo osseo). Livelli bassi di eritropoietina possono provocare anemia.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_UR_HYPERCALCEMIA</LocID>                               
+		<Text>Ipercalcemia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_UR_HYPERCALCEMIA_DESC</LocID>                   
+		<Text>L'ipercalcemia è una condizione medica in cui il livello di calcio nel sangue è superiore al normale. Tipicamente, questo sintomo è causato dall'iperattività delle quattro minuscole ghiandole del collo, note come paratiroidi, o dal cancro nei casi più gravi. Il calcio in eccesso nel sangue colpisce e può essere pericoloso per molti sistemi corporei.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLUNT_BLCONT</LocID>                               
+		<Text>Trauma alla vescica</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLUNT_BLCONT_DESC</LocID>                   
+		<Text>La ECO ha rivelato una contusione minore alla vescica.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLOODY_URINE</LocID>                               
+		<Text>Coaguli di sangue nelle urine</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLOODY_URINE_DESC</LocID>                   
+		<Text>Una quantità eccessiva di sangue nelle urine può formare un coagulo che blocca completamente il flusso di urina, causando dolore estremo ed improvviso ed incapacità di minzione. Un sanguinamento abbastanza grave da causare un tale coagulo è solitamente causato da una lesione del tratto urinario.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_INF_VENACAVA_DESC</LocID>                               
+		<Text>Metastasi nella vena cava inferiore</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_INF_VENACAVA</LocID>                   
+		<Text>Gli esami hanno evidenziato un carcinoma renale a cellule chiare con coinvolgimento dei linfonodi che si è infiltrato nella vena cava inferiore.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IP_RUP</LocID>                               
+		<Text>Rilevata rottura intraperitoneale della vescica</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IP_RUP_DESC</LocID>                   
+		<Text>Gli esami hanno evidenziato la rottura intraperitoneale della vescica.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_1</LocID>                               
+		<Text>Rilevata rottura extraperitoneale della vescica (Semplice)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_1_DESC</LocID>                   
+		<Text>Gli esami hanno evidenziato la rottura extraperitoneale della vescica. In questo caso, è sufficiente il solo drenaggio con catetere vescicale. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_2</LocID>                               
+		<Text>Rilevata rottura extraperitoneale della vescica (Complessa)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_2_DESC</LocID>                   
+		<Text>Gli esami hanno evidenziato la rottura extraperitoneale della vescica. In questo caso, non è sufficiente il solo drenaggio con catetere vescicale, ma è necessario un intervento chirurgico.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PEN_RUP_1</LocID>                               
+		<Text>Rilevata rottura penetrante della vescica</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PEN_RUP_1_DESC</LocID>                   
+		<Text>Gli esami hanno evidenziato la rottura penetrante della vescica.</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO_VAG</LocID>                               
+		<Text>Perdite di urina attraverso la vagina</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO_VAG_DESC</LocID>                   
+		<Text>Il paziente riferisce di avere perdite di urina attraverso la vagina.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABDOMINAL_MASS</LocID>                               
+		<Text>Massa nell'addome</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABDOMINAL_MASS_DESC</LocID>                   
+		<Text>Il medico ha rivelato la presenza di una massa nell'addome del paziente.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_VESCI_FIST</LocID>                     
+		<Text>Fistola vescicovaginale</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_VESCI_FIST_DESC</LocID>          
+        <Text>La fistola vescicovaginale è un tratto fistoloso anomalo che si estende tra la vescica e la vagina, causando lo scarico involontario continuo di urina nella volta vaginale.</Text>	
+	</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>	
+</Database>

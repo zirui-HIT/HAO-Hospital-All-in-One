@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	<Name>Frost</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_WIDELOCALEXCISION</LocID>                               
+	<Text>局部扩大切除术(WLE)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_WIDELOCALEXCISION_DESC</LocID>                   
+	<Text>局部扩大切除术(WLE)是一种外科手术，切除小范围的病变或有问题的组织与正常组织的边缘。这种手术通常用于乳房和皮肤损伤，但也可以用于身体的任何部位。需要房间:肿瘤科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>腹腔镜手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>腹腔镜或“微创”手术是一种进行手术的专门技术。 这是一种低风险，微创手术，仅需很小的切口即可。 腹腔镜检查使用一种称为腹腔镜的仪器来检查腹部器官。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>肺肺叶切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>肺肺叶切除术是一项外科手术，其中肺叶被切除。 这样做是为了除去一部分患病的肺，例如早期肺癌。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>血管内栓塞术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>血管内栓塞术（EE）是一种侵入性外科手术。 它用于治疗大脑以及身体其他部位发现的异常血管。 该程序是开放手术的替代方法。 它会阻塞血管以切断流向患处的血液。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>神经重建手术</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>外科手术神经修复包括探查受伤的神经并从神经末梢去除受伤的组织或疤痕。 此后，如果末端有足够的长度以允许高质量的修复而没有张力，则可以直接重新连接神经。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>息肉切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>息肉切除术是一种用于从结肠内部（也称为大肠）切除息肉的手术。 息肉是组织的异常集合。 该过程是相对无创的。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>结肠切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>结肠切除术是大肠的肠切除术。 它包括手术切除任何程度的结肠，通常是分段切除。 在极端情况下，整个大肠都会被切除。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>肾上腺切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>肾上腺切除术是通过手术切除一个或两个肾上腺。 通常建议肾上腺肿瘤患者使用。 该过程可以使用开放切口或腹腔镜技术进行。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SUR_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>脾切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>脾切除术是去除脾脏的外科手术。 脾脏是位于腹部左上角肋骨下的器官。 它有助于抵抗感染，并从血液中过滤掉不需要的物质，例如旧的或受损的血细胞。 脾切除术最常见的原因是治疗脾破裂，这通常是由腹部受伤引起的。 脾切除术可用于治疗其他疾病，包括引起不适（脾肿大）的脾脏肿大，某些血液疾病，某些癌症，感染以及非癌性囊肿或肿瘤。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>乳房切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>切除肿瘤和一些周围正常的组织, 但不是切除乳房。 一些上肢下的淋巴结也可能被切除送去活检。如果癌细胞生长在胸腔内壁，也可以切除。 \n\n需要房间：肿瘤科手术室 </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_DEBULKING</LocID>                                    	
+	<Text>减积手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>这种手术是切除无法治疗的恶性肿瘤的一种方法，虽不能很好的起到治疗效果，但可以方便后续的治疗，比如放疗或其他更有效的治疗方法。从而提高患者生存质量和生存时间。患者需要和医生商讨后续治疗方案，从而提升后续治疗效果。 \n\n需要房间：神经科手术室 </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_GTR</LocID>                                    	
+	<Text>开颅切除手术（大部分）</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_GTR_DESC</LocID>                        	
+	<Text>开颅切除手术（大部分）是切除核磁共振成像上所呈现的肿瘤组织。在核磁共振成像的基础上，大体切除核磁共振成像上可见的肿瘤组织。\n\n需要房间：神经科手术室 </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>单侧输卵管切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>这种手术只切除同一侧的输卵管和卵巢， 和同样的血管供应一并切除（反之，双侧切除则两侧均切除).这种手术是一些想保住生育功能的女性们的不二法门。虽然复发率很高，但和总体生存率下降没有关系。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_RAD_PROS</LocID>                                    	
+	<Text>根治性前列腺切除手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>这种手术可切除前列腺和周围的一些组织。一般包括精囊和附近的淋巴结。这种手术可治愈前列腺癌，或其他在前列腺发生的癌症。 \n\n需要房间：肿瘤科手术室.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARATHY</LocID>                                    	
+	<Text>甲状旁腺切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARATHY_DESC</LocID>                        	
+	<Text>甲状旁腺切除术是用于切除甲状旁腺或甲状旁腺肿瘤的手术，甲状旁腺位于你颈部脖子右侧。这种腺体帮你控制血液中钙的平衡。 \n\nRequired room:肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>分段切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>分段切除术是一种外科手术程序，可切除一部分器官或腺体，这是切除术的一种子类型。可能涉及切除整个身体部位， 它也可以用于去除肿瘤及其周围的正常组织。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>肝脏切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>切除全部或部分肝脏的外科手术。\n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>肝脏移植</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>通过外科手术切除衰竭的肝脏，并用已故供体的健康肝脏或活体供体的一部分健康肝脏代替。\n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>腮腺切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>切除腮腺的外科手术，该术主要用于治疗腮腺瘤。腮腺是最主要且最大的唾液腺。 腮腺瘤可以是良性的也可以是饿醒的。 \n\n需要房间：肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY</LocID>                                    	
+	<Text>阴道切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>                        	
+	<Text>阴道切除术是切除全部或部分阴道的手术。 它通常用于治疗阴道癌。 如果子宫和卵巢要保持完整，阴道切除术将留下适合排出月经的管道和开口。 否则，必须进行子宫切除术以避免在体内保留月经排出物的危险。 \n\n需要房间：肿瘤科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY</LocID>                                    	
+	<Text>近距离放射治疗</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>                        	
+	<Text>近距离放射治疗是一种将放射性物质放入患者体内的程序。 近距离放射疗法是一种用于治疗癌症的放射疗法。 近距离放射治疗有时也称为内部放射。 与从身体外部的机器投射辐射的传统放射治疗形式（外束辐射）相比，近距离放射治疗允许医生向身体的更具体区域提供更高剂量的辐射。 近距离放射治疗的副作用可能比外照射放疗少，而且总体治疗时间通常更短。 \n\n需要房间：肿瘤科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

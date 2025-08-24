@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_PTBR_ADDON_CRP_SLEEPY_TREATMENTS">
+	<LanguageCode>ptbr</LanguageCode>
+	<LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+	<Contributors>
+	<Name>Cratus</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Creme Imiquimode</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>O imiquimode é um creme de prescrição que atua como um modificador da resposta imune usado no tratamento de carcinoma basocelular superficial e queratose actínica. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Terapia fotodinâmica</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>A terapia fotodinâmica é um tratamento que utiliza certos medicamentos chamados agentes fotossensibilizadores, juntamente com uma luz especial, para matar células cancerígenas. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Excisão local ampla (AEL)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>Uma ampla excisão local (AEL) é um procedimento cirúrgico para remover uma pequena área de tecido doente ou problemático com uma margem de tecido normal. Esse procedimento é comumente realizado na mama e nas lesões cutâneas, mas pode ser usado em qualquer área do corpo. \n\nSala necessária: Bloco cirúrgio de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Conselho de Oncologia ao paciente</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>O médico aconselha o paciente sobre como lidar com sua situação, ajuda o paciente a entender melhor suas opções, como cuidados paliativos, e faz o que pode para garantir que o paciente tenha a melhor qualidade de vida possível durante esse período. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Terapia direcionada</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>As terapias direcionadas são medicamentos ou outras substâncias que bloqueiam o crescimento e a propagação do câncer, interferindo em moléculas específicas. As terapias direcionadas diferem da quimioterapia padrão porque são projetadas para agir em alvos moleculares específicos e atacar células cancerígenas sem danificar células saudáveis. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Quimioterapia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>A quimioterapia é um tipo de tratamento contra o câncer que usa um ou mais medicamentos anticancerígenos como parte de um regime padronizado de quimioterapia. A quimioterapia pode ser administrada com uma intenção curativa, ou pode ter o objetivo de prolongar a vida ou reduzir os sintomas. \n\nSala necessária: Hospitalização regular em Oncologia</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Cirurgia laparoscópica</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>A cirurgia laparoscópica ou "minimamente invasiva" é uma técnica especializada para realizar a cirurgia. É um procedimento minimamente invasivo e de baixo risco que requer apenas pequenas incisões. A laparoscopia usa um instrumento chamado laparoscópio para examinar os órgãos abdominais. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Lobectomia Pulmonar</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>Lobectomia pulmonar é uma operação cirúrgica na qual um lóbulo pulmonar é removido. Isso é feito para remover uma porção do pulmão doente, como o câncer de pulmão em estágio inicial. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Embolização endovascular</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>A embolização endovascular (EE) é um procedimento cirúrgico invasivo. É usado para tratar vasos sanguíneos anormais encontrados em seu cérebro, bem como em outras áreas do seu corpo. Este procedimento é uma alternativa à cirurgia aberta. Ele bloqueia os vasos sanguíneos para cortar o fluxo sanguíneo para uma área afetada. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Imunoterapia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>A imunoterapia é um tipo de tratamento contra o câncer que auxilia o sistema imunológico do corpo a combater o câncer. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Cirurgia Reconstrutiva do Nervo</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>O reparo cirúrgico do nervo envolve a exploração do nervo lesionado e a remoção de tecido ou cicatriz lesionada das terminações nervosas. Depois disso, um nervo pode ser reconectado diretamente se houver comprimento suficiente nas extremidades para permitir um reparo de boa qualidade sem tensão.\n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+	<Text>Autoinjetor de epinefrina</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+	<Text>Um autoinjetor de epinefrina é um dispositivo médico para injetar uma dose ou doses medidas de epinefrina por meio da tecnologia de autoinjetor. É usado com mais frequência no tratamento da anafilaxia. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POLYPECTOMY</LocID>                                    	
+	<Text>Polipectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>A polipectomia é um procedimento usado para remover pólipos do interior do cólon, também chamado de intestino grosso. Um pólipo é uma coleção anormal de tecido. O procedimento é relativamente não invasivo. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Colectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>Uma colectomia é a ressecção intestinal do intestino grosso. Consiste na remoção cirúrgica de qualquer extensão do cólon, geralmente ressecção segmentar. Em casos extremos em que todo o intestino grosso é removido. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ADRENALECTOMY</LocID>                                    	
+	<Text>Adrenalectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>Adrenalectomia é a remoção cirúrgica de uma ou ambas as glândulas supra-renais. Geralmente é recomendado para pacientes com tumores das glândulas supra-renais. O procedimento pode ser realizado usando uma incisão aberta ou técnica laparoscópica. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MITOTANE</LocID>                                    	
+	<Text>Mitotano</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MITOTANE_DESC</LocID>                        	
+	<Text>O mitotano, vendido sob a marca comercial Lisodren, é um inibidor da esteroidogênese e antineoplásico citostático, usado no tratamento de carcinoma adrenocortical e síndrome de Cushing. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Espironolactona</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>A espironolactona é um diurético poupador de potássio (pílula de água) que impede que seu corpo absorva muito sal e evita que seus níveis de potássio fiquem muito baixos. A espironolactona é usada para tratar insuficiência cardíaca, pressão alta (hipertensão) ou hipocalemia (baixos níveis de potássio no sangue).\n\nSala necessária: Qualquer consultório
+</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Injeção de Octreotide</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>O Octreotide é usado no tratamento de tumores produtores de hormônio do crescimento (acromegalia e gigantismo) e pode ajudar a estabilizar um paciente que sofre de uma crise carcinóide. \n\nSala necessária: Qualquer consultório</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Monitoramento ativo</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>O monitoramento ativo é quando o oncologista não recomenda nenhum tratamento, mas monitora a saúde do paciente com exames regulares e exames de sangue. Às vezes, isso é chamado de "monitoramento cuidadoso" ou "observe e espere". \n\nSala necessária: Qualquer consultório oncológico.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_HYPER_CVAD</LocID>                                    	
+	<Text>Terapia intensiva com Hyper-CVAD</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>O termo 'hiper' se refere à natureza hiperfracionada da quimioterapia, que é administrada em doses menores, com mais frequência, para minimizar os efeitos colaterais. 'CVAD' é o acrônimo dos medicamentos utilizados na prescrição A: ciclofosfamida, vincristina, doxorrubicina (também conhecida por seu nome comercial, Adriamycin) e dexametasona. As terapias intensivas de curto prazo mostram melhores resultados. \n\nSala necessária: Hospitalização de Alta Prioridade na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_SPLENECTOMY</LocID>                                    	
+	<Text>Esplenectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>A esplenectomia é um procedimento cirúrgico para remover o baço. O baço é um órgão que fica embaixo da caixa torácica, no lado superior esquerdo do abdome. Ajuda a combater infecções e filtra material desnecessário, como células sanguíneas velhas ou danificadas, do sangue. O motivo mais comum para a esplenectomia é tratar um baço rompido, geralmente causado por uma lesão abdominal. A esplenectomia pode ser usada para tratar outras condições, incluindo um baço aumentado que causa desconforto (esplenomegalia), alguns distúrbios sanguíneos, certos tipos de câncer, infecção e cistos ou tumores não cancerígenos. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_G_CSF</LocID>                                    	
+	<Text>Medicamentos G-CSF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_G_CSF_DESC</LocID>                        	
+	<Text>Fatores estimuladores de colônias de granulócitos, medicamentos também conhecidos como fatores estimuladores de colônias 3, são uma glicoproteína que estimula a medula óssea a produzir granulócitos e células-tronco e liberá-los na corrente sanguínea. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_METHOTREXATE</LocID>                                    	
+	<Text>Metotrexato IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_METHOTREXATE_DESC</LocID>                        	
+	<Text>O metotrexato, anteriormente conhecido como ametopterina, é um agente quimioterápico e supressor do sistema imunológico. É usado no tratamento de câncer, doenças autoimunes, gravidez ectópica e abortos medicamentosos. Os tipos de câncer para os quais é usado incluem câncer de mama, leucemia, câncer de pulmão, linfoma e osteossarcoma. \n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Alemtuzumabe IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>O alemtuzumabe é um medicamento usado no tratamento da leucemia linfocítica crônica e esclerose múltipla. Na LLC, o alemtuzumabe tem sido usado como tratamento de primeira e segunda linha. Na EM, geralmente é recomendado apenas se outros tratamentos não funcionarem. É administrado por injeção na veia. \n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_BRAF_INH</LocID>                                    	
+	<Text>Inibidores BRAF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_BRAF_INH_DESC</LocID>                        	
+	<Text>Os inibidores de BRAF ajudam a bloquear a mutação no gene BRAF-V600E. Em ensaios clínicos, o B-Raf aumentou a chance de sobrevivência dos pacientes com melanoma metastático. Apesar da alta eficácia da droga, 20% dos tumores ainda desenvolvem resistência ao tratamento. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TAMOXIFEN</LocID>                                    	
+	<Text>Tamoxifeno</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>O tamoxifeno é uma terapia hormonal para o câncer de mama em mulheres e homens. Reduz o risco de câncer de mama precoce voltando (recorrente) após a cirurgia ou se desenvolvendo na outra mama. Ele também pode controlar o câncer de mama avançado por algum tempo. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Mastectomia parcial</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>Uma operação para remover o câncer e alguns tecidos normais ao seu redor, mas não a própria mama. Alguns linfonodos sob o braço podem ser removidos para biópsia. Parte do revestimento da parede torácica também pode ser removida se o câncer estiver próximo. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPERSALINE</LocID>                                    	
+	<Text>Solução salina hipertônica</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPERSALINE_DESC</LocID>                        	
+	<Text>A terapia hiperosmolar com solução salina hipertônica ou manitol pode reduzir rapidamente a pressão intracraniana, possivelmente salvando vidas e células cerebrais. A solução salina hipertônica é eficaz porque não atravessa muito a barreira hematoencefálica e, assim, extrai líquido cefalorraquidiano do crânio e líquido do cérebro lesionado, reduzindo a pressão e outras lesões.\n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Incisão e drenagem</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Incisão, drenagem e punção clínica são pequenos procedimentos cirúrgicos para liberar fluido ou pressão acumulados sob a pele. \n\nSala necessária: Unidade de Diagnósticos de Oncologia / Consultório Médico de Oncologia/ CTI / Sala de Observação</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEBULKING</LocID>                                    	
+	<Text>Surgical Debulking</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEBULKING_DESC</LocID>                        	
+	<Text>Surgical debulking of tumors is a procedure whereby a surgically incurable malignant neoplasm is partially removed without curative intent in order to make subsequent therapy with drugs, radiation or other adjunctive measures more effective and, thereby, improve the length of survival. The doctor will need to book follow up treatment appointments with the patient in an attempt push the cancer into remission. \n\nRequired room: Operating room at Neurology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GTR</LocID>                                    	
+	<Text>Craniotomia por ressecção total bruta</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GTR_DESC</LocID>                        	
+	<Text>A ressecção total bruta é uma remoção completa do tecido visível do tumor por ressonância magnética (MRI). A ressecção supratotal é realizada como ressecção total bruta com excisão das bordas visíveis do tecido tumoral da ressonância magnética no tecido cerebral não afetado. \n\nSala necessária: Bloco cirúrgico de Neurologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Creme de estradiol</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>O creme para estradiol é uma preparação de estrogênio, um hormônio feminino, para aplicação tópica na área vaginal usada para tratar certos sintomas da menopausa, como secura, queimação e coceira na área vaginal e urgência ou irritação ao urinar.\n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_UNI_SALOOPH</LocID>                                    	
+	<Text>Salpingo-Ooforectomia unilateral</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Uma salpingo-ooforectomia unilateral é a remoção cirúrgica de um ovário e uma trompa de Falópio, os quais estão localizados no mesmo lado do corpo e compartilham um suprimento sanguíneo comum (em contraste, um procedimento bilateral envolve a remoção de ovários e falópio tubos). A salpingo-ooforectomia unilateral deve ser considerada como a primeira escolha de tratamento poupador de fertilidade para mulheres que desejam preservar a fertilidade. Embora o risco mais alto de recaídas locais seja encontrado, ele não está associado à diminuição da sobrevida global. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RAD_PROS</LocID>                                    	
+	<Text>Prostatectomia radical</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RAD_PROS_DESC</LocID>                        	
+	<Text>A prostatectomia radical é uma operação para remover a próstata e os tecidos ao seu redor. Isso geralmente inclui as vesículas seminais e alguns linfonodos próximos. A prostatectomia radical pode curar o câncer de próstata em homens cujo câncer é limitado à próstata. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Terapia Hormonal</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>Terapia hormonal é o uso de hormônios no tratamento médico. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARATHY</LocID>                                    	
+	<Text>Paratireoidectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARATHY_DESC</LocID>                        	
+	<Text>Paratireoidectomia é uma cirurgia para remover as glândulas paratireóides ou tumores da paratireóide. As glândulas paratireóides estão logo atrás da glândula tireóide no pescoço. Essas glândulas ajudam seu corpo a controlar o nível de cálcio no sangue. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RCHOP</LocID>                                    	
+	<Text>Quimioterapia R-CHOP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOP é um tratamento combinado usado para tratar linfoma não-Hodgkin (NHL). O R-CHOP inclui cinco medicamentos quimioterápicos: rituximabe (Rituxan), ciclofosfamida, cloridrato de doxorrubicina, vincristina e prednisolona. \n\nSala necessária: Hospitalização regular de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RITUXIMAB</LocID>                                    	
+	<Text>Rituximabe</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RITUXIMAB_DESC</LocID>                        	
+	<Text>O rituximabe, vendido sob a marca Rituxan, entre outros, é um medicamento usado para tratar certas doenças auto-imunes e tipos de câncer. O rituximabe é um anticorpo monoclonal quimérico contra a proteína CD20, encontrado principalmente na superfície das células B do sistema imunológico. Quando se liga a esta proteína, desencadeia a morte celular. \n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GEMCITABINE</LocID>                                    	
+	<Text>Gencitabina</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GEMCITABINE_DESC</LocID>                        	
+	<Text>A gencitabina, vendida sob a marca Gemzar, entre outros, é um medicamento de quimioterapia usado para tratar vários tipos de câncer. Esses cânceres incluem câncer de mama, câncer de ovário, câncer de pulmão de células não pequenas, câncer de pâncreas e câncer de bexiga. É administrado por injeção lenta na veia. \n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POCT</LocID>                                    	
+	<Text>Tratamento combinado POC</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POCT_DESC</LocID>                        	
+	<Text>Pamidronato e tratamento combinado com octreotida. Relatórios isolados sugerem que pamidronato e octreotida podem ajudar no alívio da dor óssea em alguns casos e auxiliar no tratamento da osteoartropatia pulmonar hipertrófica (HPOA). O tratamento do problema subjacente é necessário para resolver o problema. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>A ressecção segmentar é um procedimento cirúrgico para remover parte de um órgão ou glândula, como um subtipo de uma ressecção, o que pode envolver a remoção de toda a parte do corpo. Também pode ser usado para remover um tumor e tecido normal ao seu redor. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_FEP</LocID>                                    	
+	<Text>Tratamento combinado FEP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_FEP_DESC</LocID>                        	
+	<Text>Tratamento combinado de 5-fluorouracil (5-FU), cisplatina e ectosídeo (FEP). A quimioterapia tem uma eficácia curativa relativamente baixa em certos tipos de câncer, como o carcinoma de células em anel de sinete (SRCC) e as taxas de sobrevida global são mais baixas em comparação aos pacientes com patologia de câncer mais típica. Esses cânceres são geralmente diagnosticados durante os estágios finais da doença, de modo que os tumores geralmente se espalham mais agressivamente do que os cânceres sem sinete, tornando o tratamento desafiador, mas os regimes mais ativos incluem 5-Fluorouracil (5-FU), Cisplatina e/ou Etoposídeo. A quimioterapia combinada FEP parece ser um regime de tratamento eficaz contra o câncer gástrico como quimioterapia de resgate. \n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_AMMONUL</LocID>                                    	
+	<Text>Ammonul</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_AMMONUL_DESC</LocID>                        	
+	<Text>Ammonul (combinação de benzoato de sódio e fenilacetato de sódio) é usado para tratar uma condição causada por muita amônia no sangue (hiperamonemia).\n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LACTULOSE</LocID>                                    	
+	<Text>Lactulose</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LACTULOSE_DESC</LocID>                        	
+	<Text>A lactulose é um medicamento de prescrição usado por via oral ou retal para tratar ou prevenir complicações da doença hepática (encefalopatia hepática). Não cura o problema, mas pode ajudar a melhorar o estado mental. A lactulose é um acidificante colônico que funciona diminuindo a quantidade de amônia no sangue. \n\nSala necessária: Qualquer consultório.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HEPATECTOMY</LocID>                                    	
+	<Text>Hepatectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>Hepatectomia é a ressecção cirúrgica (remoção total ou parcial) do fígado.\n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Cirurgia de transplante de fígado</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>Um transplante de fígado é um procedimento cirúrgico que remove um fígado que não funciona mais adequadamente (insuficiência hepática) e o substitui por um fígado saudável de um doador falecido ou uma parte de um fígado saudável de um doador vivo. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Medicamentos imunossupressores</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Drogas imunossupressoras são uma classe de drogas que suprimem ou reduzem a força do sistema imunológico do corpo. Alguns desses medicamentos são usados para diminuir a probabilidade de o corpo rejeitar um órgão transplantado, como fígado, coração ou rim. \n\nSala necessária: Bloco cirúrgico de Oncologia.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

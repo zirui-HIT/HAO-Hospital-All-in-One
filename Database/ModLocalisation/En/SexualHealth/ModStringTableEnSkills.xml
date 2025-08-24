@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_SEXUAL_HEALTH_SKILLS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <!-- Sexual Health -->
+
+            <GameDBLocalizedString>
+                <LocID>DPT_SH</LocID>
+                <Text>Sexual Health</Text>
+            </GameDBLocalizedString>
+
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH</LocID>
+                <Text>Sexual Health</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH_DESCRIPTION</LocID>
+                <Text>Sexual Health gives access to specialized procedures for diagnosing and treating critical patients at the Sexual Health Clinic.</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH_SURGERY</LocID>
+                <Text>SH Surgery</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH_SURGERY_DESCRIPTION</LocID>
+                <Text>Sexual Health Surgery gives access to specialized procedures for diagnosing and treating critical patients at the Sexual Health Clinic.</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+
+    </GameDBStringTable>
+
+</Database>

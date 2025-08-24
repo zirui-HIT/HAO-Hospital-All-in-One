@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_GYNECOLOGIE_EXAMINATIONS">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Jerry76</Name>
+			<Name>neoxes</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM</LocID>					<Text>Esame ginecologico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_GYNECOLOGIC_EXAM_DESCRIPTION</LocID>		<Text>Procedure volte a valutare la salute del sistema riproduttivo di una donna.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN</LocID>								<Text>Esame del seno</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_SEIN_DESCRIPTION</LocID>					<Text>Ispezione visiva e palpazione del seno.</Text></GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV</LocID>						<Text>Ecografia pelvica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_ECHO_PELV_DESCRIPTION</LocID>			<Text>Ecografia della zona pelvica.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE</LocID>						<Text>Mammografia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MAMMOGRAPHIE_DESCRIPTION</LocID>			<Text>Esame radiologico del seno.</Text>	</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING</LocID>				<Text>VDRL-TPHA - campionamento</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_SAMPLING_DESCRIPTION</LocID>	<Text>Campionamento sierologico per diagnosticare la sifilide.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING</LocID>				<Text>VDRL-TPHA - analisi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_VDRL-TPHA_TESTING_DESCRIPTION</LocID>	<Text>Il test del laboratorio di ricerca sulle malattie veneree (VDRL) è progettato per valutare se si ha la sifilide, un'infezione a trasmissione sessuale (IST).</Text>	    </GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>EXM_FCU_SAMPLING</LocID>						<Text>Pap Test - campionamento</Text>	               </GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_TESTING</LocID>						<Text>Pap Test - analisi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_FCU_DESCRIPTION</LocID>					<Text>Un metodo per la diagnosi precoce del cancro, in particolare della cervice uterina, che prevede la colorazione delle cellule esfoliate utilizzando una tecnica speciale che differenzia il tessuto malato.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_SAMPLING</LocID>					<Text>OGTT - campionamento</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_TESTING</LocID>						<Text>OGTT - analisi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_HGPO_DESCRIPTION</LocID>					<Text>Il test di tolleranza al glucosio, noto anche come test orale di tolleranza al glucosio (OGTT), misura la risposta del tuo corpo allo zucchero (glucosio).</Text>	</GameDBLocalizedString>
+
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

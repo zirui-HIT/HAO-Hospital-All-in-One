@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_OTOR_EXAMINATIONS">
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+        <Contributors>
+            <Name>XiZyno</Name>
+        </Contributors>
+        <LocalizedStrings>
+            
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text>Laryngoskopie</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_OTOR_LARYNGOSCOPY_DESCRIPTION</LocID>  
+			<Text>Postup, při kterém se přes nos zavede ohebná trubice (endoskop) s malou videokamerou a světelným zdrojem, aby se prozkoumaly hrtan, hlasivky a hlasivky. Laryngoskopie se také používá k usnadnění tracheální intubace. \n\nPožadovaná místnost: Jakákoliv ordinace / Pozorování / JIP</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_EAR_EXAMINATION</LocID>    
+			<Text>Vyšetření uší</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>Audiometrie</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM</LocID>                  
+			<Text>Audiogram</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>                  
+			<Text>Audiogram je graf, který zobrazuje prahovou hodnotu pro standardizované frekvence měřenou audiometrem. Osa Y představuje intenzitu měřenou v decibelech a osa X představuje frekvenci měřenou v hertzích.</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY</LocID>                  
+			<Text>Polysomnograf</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>                  
+			<Text>Polysomnografie, nazývaná také studie spánku, je test používaný k diagnostice poruch spánku. Polysomnografie zaznamenává vaše mozkové vlny, hladinu kyslíku v krvi, srdeční frekvenci a dýchání, stejně jako pohyby očí a nohou během studie.</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>Test kožní alergie</Text> 
+			</GameDBLocalizedString>
+			
+		  
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+			<Text>Odběr vzorků sputa - odběry </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Kultura sputa je test na detekci a identifikaci bakterií nebo hub, které infikují plíce nebo dýchací cesty. Sputum je hustá tekutina produkovaná v plicích a v přilehlých dýchacích cestách. ... Pokud nerostou žádné bakterie nebo houby, je kultura negativní. \n\nPožadovaná místnost: Hematologická laboratoř</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+			<Text>Odběr vzorků sputa - testy </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+			<Text>Odběr sputa pro kulturu sputa. \n\nPožadovaná místnost: Hematologická laboratoř</Text> 
+			</GameDBLocalizedString>
+			
+			
+		 
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING</LocID>
+			<Text>Tryptázový test - odběry </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Tryptáza je enzym, který se uvolňuje spolu s histaminem a dalšími chemickými látkami ze žírných buněk, když jsou aktivovány jako součást normální imunitní odpovědi i při alergických (hypersenzitivních) reakcích. Tento test měří množství tryptázy v krvi. \n\nPožadovaná místnost: Hematologická laboratoř</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_JM_TRYPTASE_TEST_TESTING</LocID>
+			<Text>Tryptase test - testy </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_TRYPTASE_TEST_TESTING_DESCRIPTION</LocID>  
+			<Text>Odběr krve pro test tryptázy. \n\nPožadovaná místnost: Hematologická laboratoř</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING</LocID>
+			<Text>Test na histamin - odběry </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Test na histamin je užitečným indikátorem aktivace žírných buněk. Test může být použit k potvrzení, že osoba měla anafylaktickou reakci, nebo může být použit k diagnostice mastocytózy, vzácné skupiny poruch charakterizovaných abnormální proliferací žírných buněk. \n\nPožadovaná místnost: Hematologická laboratoř</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_JM_HISTAMINE_TEST_TESTING</LocID>
+			<Text>Test na histamin - testy </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_HISTAMINE_TEST_TESTING_DESCRIPTION</LocID>  
+			<Text>Odběr krve pro test na histamin. \n\nPožadovaná místnost: Hematologická laboratoř</Text> 
+			</GameDBLocalizedString>
+			
+            
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

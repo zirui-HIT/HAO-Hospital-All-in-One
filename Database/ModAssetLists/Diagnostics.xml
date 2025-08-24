@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+	<GameDBAsset ID="ASSET_TEX_DIAG_DECALS">
+		<Type>TEXTURE_OBJECTS</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_decals_2048_atlas.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_TEX_DIAG_CUSTOM_ICON001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/decal_ol_001.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_MOD_ICON_DIAG">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_skill_icon_diag.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_MOD_ICON_DIAG_DARK">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_skill_icon_diag_dark.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_0">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_0.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_1.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_2.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_3.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_4.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_5.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DPT_ICON_6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/mod_dept_icon_6.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_angioedema1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_angioedema1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_angioedema2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_angioedema2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_angioedema4a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_angioedema4b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_porphyria1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_porphyria1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_naegleria1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_naegleria1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_clarksons1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_clarksons1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_015">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_wilsons1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_016">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_wilsons1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_017">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_compartment1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_018">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_compartment1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_019">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_niemannpick1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_020">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_niemannpick1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_021">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_zes1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_022">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_zes1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_023">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_menetriers1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_024">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_menetriers1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_025">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_achalasia1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_026">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_achalasia1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_027">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_mals1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_028">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_mals1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_029">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_bouveret1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_030">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_bouveret1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_031">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_pots1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_032">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_pots1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_033">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_budd_chiari1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_034">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_budd_chiari1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_035">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_bernardsoulier1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_036">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_bernardsoulier1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_037">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_evans1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_038">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_evans1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_039">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_adem1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_040">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_adem1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_041">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_arpkd1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_042">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_arpkd1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_043">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_behcets1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_044">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_behcets1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_045">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_biotinidase1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_046">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_biotinidase1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_047">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_abdoepilepsy1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_048">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_abdoepilepsy1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_049">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_djs1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_050">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_djs1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_051">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_bdbs1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_052">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_bdbs1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_053">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_epilepsy1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_DIA_ICON_054">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/dia_ol_epilepsy1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_intestinal_edema1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_intestinal_edema1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_laryngeal_edema1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_laryngeal_edema1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_lip_edema1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_lip_edema1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_hepatomegaly1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_hepatomegaly1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_splenomegaly1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_splenomegaly1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_kidney_failure1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_kidney_failure1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_pulseless1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_pulseless1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_015">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_kayser-fleischer_rings1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_OL_SYM_ICON_016">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sym_ol_kayser-fleischer_rings1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_3a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_3b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_4a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_cap_4b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_ivfusion_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_ivfusion_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_ivfusion_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_TRT_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/trt_ol_ivfusion_1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_distpanc_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_distpanc_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_fascia_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_fascia_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_gastro_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_gastro_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_livtrans_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_livtrans_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_myotomy_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_myotomy_1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_hemispherectomy_1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_SUR_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/sur_ol_hemispherectomy_1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_DIAG_EXM_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/exm_ol_manometer1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_DIAG_EXM_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Diagnostics/exm_ol_manometer1b.png</File>
+	</GameDBAsset>
+
+
+</Database>

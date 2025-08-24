@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_HU_ADDON_CRP_SLEEPY_SURGERY">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Széles helyi kimetszés (WLE)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>A széles lokális kivágás (WLE) egy műtéti eljárás, amely eltávolítja a beteg vagy problémás szövet kis területét normál szövet margóval. Ezt az eljárást általában a mellen és a bőrelváltozásokon hajtják végre, de a test bármely területén alkalmazható. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Laparoszkópos sebészet</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>A laparoszkópos vagy „minimálisan invazív” műtét a műtét elvégzésének speciális technikája. Alacsony kockázatú, minimálisan invazív eljárás, amely csak kis bemetszéseket igényel. A laparoszkópia laparoszkóp nevű műszerrel vizsgálja a hasi szerveket. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Pulmonalis Lobectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>A tüdő tüdőlobectomiája olyan műtéti művelet, amelynek során a tüdő lebenyét eltávolítják. A beteg tüdő egy részének, például a korai stádiumú tüdőrák eltávolítására szolgál. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Endovaszkuláris embolizáció</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>Az endovaszkuláris embolizáció (EE) invazív műtéti eljárás. Az agyában található rendellenes erek, valamint a test más területeinek kezelésére szolgál. Ez az eljárás a nyílt műtét alternatívája. Blokkolja az ereket, hogy elzárja az érintett terület véráramlását. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Idegrekonstrukciós műtét</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Az idegrekonstrukciós műtét vagy a műtéti idegjavítás magában foglalja a sérült ideg feltárását és a sérült szövet vagy heg eltávolítását az idegvégződésekből. Ezt követően egy ideg közvetlenül összekapcsolható, ha a végeken elegendő hosszúság áll rendelkezésre ahhoz, hogy feszültség nélkül jó minőségű javítást lehessen végrehajtani. \n\nRequired room: Operating room at Neurology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POLYPECTOMY</LocID>                                    	
+	<Text>Polipektómia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>A polipectomia egy olyan eljárás, amelyet a vastagbél, más néven vastagbélnek neveznek. A polip a szövetek rendellenes gyűjteménye. Az eljárás viszonylag nem invazív. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Colectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>A kolektómia a vastagbél bélrezekciója. A vastagbél bármilyen mértékű műtéti eltávolításából áll, általában a szegmentális reszekcióból. Szélsőséges esetekben, amikor a teljes vastagbelet eltávolítják. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ADRENALECTOMY</LocID>                                    	
+	<Text>Adrenalectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>Az adrenalectomia az egyik vagy mindkét mellékvese műtéti eltávolítása. Általában a mellékvese daganatos betegeinek ajánlott. Az eljárás nyílt bemetszéssel vagy laparoszkópos technikával végezhető. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_SPLENECTOMY</LocID>                                    	
+	<Text>Splenectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>A splenectomia egy lép, amely eltávolítja a lépét. A lép egy olyan szerv, amely a borda alatt helyezkedik el a hasad bal felső részén. Segít a fertőzések elleni küzdelemben, és kiszűri a véréből a szükségtelen anyagokat, például az öreg vagy sérült vérsejteket. A splenectomia leggyakoribb oka a léprepedés kezelése, amelyet gyakran hasi sérülés okoz. A splenectomia más állapotok kezelésére is alkalmazható, beleértve a megnagyobbodott lépet, amely kényelmetlenséget okoz (splenomegalia), egyes vérbetegségeket, bizonyos rákos megbetegedéseket, fertőzéseket és nem rákos cisztákat vagy daganatokat. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Részleges mastectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>A rák és néhány körülötte lévő normális szövet eltávolítására szolgáló művelet, de nem maga a mell. Néhány nyirokcsomó a kar alatt eltávolítható biopsziához. A mellkasfal bélésének egy része akkor is eltávolítható, ha a rák a közelében van. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEBULKING</LocID>                                    	
+	<Text>Tömeges műtét</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEBULKING_DESC</LocID>                        	
+	<Text>A daganatok műtéti eltávolítása olyan eljárás, amelynek során a műtéti úton nem gyógyítható rosszindulatú daganatot gyógyító szándék nélkül részben eltávolítják annak érdekében, hogy a későbbi gyógyszeres kezelés, sugárzás vagy egyéb kiegészítő intézkedések hatékonyabbá váljanak, és ezáltal javítsák a túlélés időtartamát. Az orvosnak le kell foglalnia a kezelést követő megbeszéléseket a pácienssel annak érdekében, hogy a rákot remisszióba taszítsa. \n\nRequired room: Operating room at Neurology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_UNI_SALOOPH</LocID>                                    	
+	<Text>Egyoldalú Salpingo-Oophorectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Az egyoldalú salpingo-oophorectomia egy petefészek és egy petevezeték műtéti eltávolítása, amelyek mind a test ugyanazon oldalán helyezkednek el, és közös a vérellátásuk (ezzel szemben a kétoldalú eljárás magában foglalja mind a petefészek, mind a petevezeték eltávolítását. csövek). Az egyoldalú salpingo-oophorectomiát kell tekinteni a termékenységet kímélő kezelés első választásának azon nők számára, akik meg akarják őrizni a termékenységet. Bár a helyi relapszusok magasabb kockázata megállapítható, ez nem jár a teljes túlélés csökkenésével. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RAD_PROS</LocID>                                    	
+	<Text>Radikális prosztatektómia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RAD_PROS_DESC</LocID>                        	
+	<Text>A radikális prosztatektómia a prosztata mirigy és az azt körülvevő szövetek eltávolítására irányuló művelet. Ez általában magában foglalja a szeminális vezikulákat és néhány közeli nyirokcsomót. A radikális prosztatektómia gyógyíthatja a prosztatarákot azoknál a férfiaknál, akiknek rákja csak a prosztatára korlátozódik. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARATHY</LocID>                                    	
+	<Text>A mellékpajzsmirigy eltávolítása</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARATHY_DESC</LocID>                        	
+	<Text>A mellékpajzsmirigy eltávolítása a mellékpajzsmirigyek vagy mellékpajzsmirigy daganatok eltávolítására irányuló műtét. A mellékpajzsmirigy közvetlenül a nyakában lévő pajzsmirigy mögött van. Ezek a mirigyek segítik a testet a vér kalciumszintjének ellenőrzésében. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>A szegmentális reszekció egy műtéti eljárás egy szerv vagy mirigy egy részének eltávolítására, mint a reszekció egyik altípusára, amely magában foglalhatja az egész testrész eltávolítását. Daganat és a körülötte lévő normál szövet eltávolítására is használható. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HEPATECTOMY</LocID>                                    	
+	<Text>Hepatectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>A hepatectomia a máj műtéti reszekciója (teljes vagy egy részének eltávolítása). \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Májtranszplantációs műtét</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>A májtranszplantáció egy olyan műtéti eljárás, amely eltávolítja a már nem megfelelően működő májat (májelégtelenség), és helyettesíti azt egy elhunyt donor egészséges májával vagy egy élő donor egészséges májának egy részével. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Parotidectomia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>A parotidectomia a parotid mirigy műtéti kivágása, a nyálmirigyek legnagyobb és legnagyobb. Az eljárást tipikusan a neoplazmák miatt hajtják végre, amelyek a gyorsan és rendellenesen osztódó sejtek szaporodása. A daganatok lehetnek jóindulatúak vagy rosszindulatúak. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GTR</LocID>                                    	
+	<Text>Bruttó teljes reszekciós kraniotómia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GTR_DESC</LocID>                        	
+	<Text>A bruttó teljes reszekció a mágneses rezonancia képalkotás (MRI) látható tumorszövetének teljes eltávolítása. A szupratotalis reszekciót bruttó teljes reszekcióként hajtják végre, az MRI látható tumorszövetének kivágásával a nem érintett agyszövetbe. \n\nRequired room: Operating room at Neurology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <!-- Sexual Health -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>
+				<Text>Genital screening</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>
+				<Text>A small sampler is used to gently take a small number of cells from the cervix or anus. The cells are sent to a lab to be tested. </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>
+				<Text>Genital screening analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>
+				<Text>Cervix or anus cell analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>
+				<Text>Genital swab</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>A swab is taken from either the vagina or penis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>
+				<Text>Genital swab analysis</Text>
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>
+				<Text>The swab culture is analysed to check for signs of infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Semen collection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Semen collection refers to the process of obtaining semen from the patient, usually through masturbation, directing the sample into a clean cup.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>	
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Semen collection analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>The semen collection is analysed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>	
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Groin examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Examination of the patient's groin area.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

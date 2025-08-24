@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>meTTax</Name>
+			<Name>Jacob</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+	
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>    
+				<Text>Genitální obraz</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>    
+				<Text>Analýza genitálního obrazu</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>   
+				<Text>Genitální výtěr</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>   
+				<Text>Malý vzorkovač se používá k jemnému odebrání malého počtu buněk z děložního hrdla nebo konečníku. Buňky jsou poslány do laboratoře k testování. </Text>
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>        
+				<Text>Analýza děložního čípku nebo konečníku</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>    
+				<Text>Výtěr se odebírá z pochvy nebo penisu.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>         
+				<Text>Kultura výtěru se analyzuje, aby se zjistily známky infekce.</Text>  
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Odběr spermatu</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Odběr spermatu za účelem analýzy. Pacient jej provádí zpravidla masturbací do čisté nádoby.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Analýza odebráného spermatu</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>Odebráné sperma je analyzováno.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Vyšetření oblasti genitálií</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Vyšetření pacienta v oblasti genitálií.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PL_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+		<LanguageCode>pl</LanguageCode>
+		<LanguageNameLocalized>Polski</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>Flipperowski</Name>
+		</Contributors>
+
+        <LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_SH_OFFICE</LocID>
+				<Text>Biuro wenerologa</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>
+				<Text>Biuro lekarza specjalizującego się w zdrowiu seksualnym. Staff requirements:\n1x Doctor</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_SH_LAB</LocID>
+				<Text>Lablatorium departamentu zdrowia seksualnego</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>
+				<Text>Laboratorium Zdrowia Seksualnego zapewnia szeroką gamę testów potwierdzających różne diagnozy.\nMin. Staff requirements:\n1x Technologist</Text>
+			</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

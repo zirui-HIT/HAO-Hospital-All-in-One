@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<Contributors>
+		<Name>Bowelas</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_ONCOLOGY</LocID>                                          	
+		<Text>Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+		<Text>Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+		<Text>Die Onkologie bietet Zugang zu spezialisierten Verfahren zur Erkennung, Diagnose und Behandlung verschiedener Krebsarten.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+		<Text>Chirurgische Onkologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+		<Text>Die chirurgische Onkologie ermöglicht es dem Arzt, als Hauptchirurg in der Onkologie-Abteilung zu fungieren, und beeinflusst, wie oft Operationen mit Komplikationen enden.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

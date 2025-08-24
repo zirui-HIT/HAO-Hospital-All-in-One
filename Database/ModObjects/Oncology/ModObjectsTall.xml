@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    
+
+    <GameDBObject ID="MOD_ONCO_OBJECT_PICT01">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_PICT01_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_PICT1</CustomIconAssetRef>
+		
+		<Cost>48</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CARDFILE</ColorSetRef>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_PICT02">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_PICT02_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_PICT2</CustomIconAssetRef>
+		
+		<Cost>48</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CARDFILE</ColorSetRef>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_PLANT01">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_PLANT01_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>8</TextureIDNW>
+        <TextureIDNE>9</TextureIDNE>
+        <TextureIDSE>8</TextureIDSE>
+        <TextureIDSW>9</TextureIDSW>
+        <IconIndex>783</IconIndex>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>false</AttachedToObject>
+        <NotInteractable>true</NotInteractable>
+        <Placement>INDOORS</Placement>
+        <AccessPositions/>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+
+        <Cost>35</Cost>
+
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_plants</Tag>
+        </Tags>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_FLOWERPOT</ColorSetRef>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_003</CustomIconAssetRef>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_POST01">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_POST01_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>10</TextureIDNW>
+        <TextureIDNE>11</TextureIDNE>
+        <TextureIDSE>12</TextureIDSE>
+        <TextureIDSW>13</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_006</CustomIconAssetRef>
+		
+		<Cost>25</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_POST02">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_POST02_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>14</TextureIDNW>
+        <TextureIDNE>15</TextureIDNE>
+        <TextureIDSE>16</TextureIDSE>
+        <TextureIDSW>17</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_007</CustomIconAssetRef>
+		
+		<Cost>25</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_POST03">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_POST03_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>18</TextureIDNW>
+        <TextureIDNE>19</TextureIDNE>
+        <TextureIDSE>20</TextureIDSE>
+        <TextureIDSW>21</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_008</CustomIconAssetRef>
+		
+		<Cost>25</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_POST04">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_POST04_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>22</TextureIDNW>
+        <TextureIDNE>23</TextureIDNE>
+        <TextureIDSE>24</TextureIDSE>
+        <TextureIDSW>25</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_009</CustomIconAssetRef>
+		
+		<Cost>25</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_POST05">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_POST05_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>26</TextureIDNW>
+        <TextureIDNE>27</TextureIDNE>
+        <TextureIDSE>28</TextureIDSE>
+        <TextureIDSW>29</TextureIDSW>
+        <IconIndex>1</IconIndex>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.2</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_010</CustomIconAssetRef>
+		
+		<Cost>25</Cost>
+    </GameDBObject>
+</Database>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_FR_ADDON_OTOR_SKILLS">
+	
+	<LanguageCode>fr</LanguageCode>
+	<LanguageNameLocalized>Français</LanguageNameLocalized>
+	<Contributors>
+		<Name>gludo27</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_OTORHINOLARYNGOLOGY</LocID>                                          	
+		<Text>ORL</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</LocID>                   
+		<Text>ORL</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</LocID>                   
+		<Text>L'ORL possède l'accès à des procédures spécialisées pour détecter, diagnostiquer et traiter diverses formes de maladies de l'oreille, du nez et de la gorge.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY</LocID>                   
+		<Text>Chirurgien ORL</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</LocID>                   
+		<Text>L'ORL chirurgien permet au médecin d'agir en tant que chirurgien principal au service de Rhinologie et affecte la fréquence à laquelle les chirurgies se termineront par des complications.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

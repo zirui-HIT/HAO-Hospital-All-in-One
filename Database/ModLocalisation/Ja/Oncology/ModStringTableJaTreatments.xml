@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_JA_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>ja</LanguageCode>
+	<LanguageNameLocalized>日本語</LanguageNameLocalized>
+	<Contributors>
+	<Name>Clamm0363</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>イミキモドクリーム</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>イミキモドは、表在性基底細胞癌や光線性角化症の治療に使用される免疫応答修飾剤として作用する処方クリームである。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>光線力学療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>光線力学療法とは、特殊な光とともに光増感剤と呼ばれる特定の薬剤を使用して、癌細胞を死滅させる治療法である。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>広範囲局所切除術</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>広範囲局所切除術（WLE）は、正常組織のマージンで病気や問題のある組織の小さな領域を正常組織の辺縁とともに切除する外科的処置である。この手技は、一般的に乳房や皮膚病変に対して行われるが、体のどの部位にも使用することができる。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE</LocID>                                    	
+	<Text>癌患者指導</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>医師は、患者の状況にどう対処すべきかをアドバイスし、緩和ケアなどの選択肢を患者がよりよく理解できるようにし、この時期に患者が可能な限り最高のQOL（生活の質）を得られるようにできる限りのことをする。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY</LocID>                                    	
+	<Text>分子標的治療</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>分子標的治療とは、特定の分子に干渉することで、癌の増殖や広がりを阻害する薬剤などのを用いた治療法のこと。分子標的療法が標準的な化学療法と異なるのは、特定の分子標的に作用し、健康な細胞を傷つけることなく癌細胞を攻撃するように設計されているためである。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY</LocID>                                    	
+	<Text>化学療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>化学療法は、標準化された化学療法レジメンの一部として1種類以上の抗癌剤を使用する癌治療の一種である。化学療法は治癒を目的として行われる場合もあれば、延命または症状の軽減を目的として行われる場合もある。 \n\n前提条件：腫瘍科入院病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>腹腔鏡手術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>腹腔鏡手術または「低侵襲」手術とは、手術を行うための専門的な技術のこと。小さな切開を必要とするだけの低リスクで低侵襲な手術である。腹腔鏡手術は、腹腔鏡と呼ばれる器具を使用して腹部の臓器を観察する。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>肺葉切除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>肺葉切除術とは、肺の葉を切除する手術のこと。これは、早期の肺癌などの病気の肺の一部を切除するために行われる。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>血管塞栓術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>血管内塞栓術（EE）は、侵襲的な外科手術である。脳だけでなく、体の他の領域にある異常な血管を治療するために使用される。この方法は、開腹手術に代わるものである。血管をブロックして、患部への血流を遮断する。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>免疫療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>免疫療法は癌治療の一種で、体の免疫系が癌と闘うのを助けるもの。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>神経再建術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>外科的神経再建術では、傷ついた神経を探り、神経末端から傷ついた組織や傷跡を除去する。その後、神経の末端に十分な長さがあれば、神経を直接再接続し、つっぱらずに質の良い修復を行うことができる。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
+	<Text>エピペン</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
+	<Text>エピペンは、自己注射器技術を用いてエピネフリンの測定された量または用量を注射するための医療機器である。最もよくアナフィラキシーの治療に使用される。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>ポリープ切除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>大腸の内側にできたポリープを切除するために行われる手術。ポリープとは、組織の異常な集まりのことである。この手術は比較的非侵襲的である。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>大腸切除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>大腸切除術とは、大腸の腸管切除を行う手技のこと。大腸の任意の範囲を外科的に切除することで構成されており、通常は部分切除が行われる。極端な例では、大腸全体を摘出する場合もある。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>副腎摘出術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>副腎摘出術は、1つまたは両方の副腎を外科的に切除することである。通常、副腎に腫瘍がある患者に推奨される。この手術は、開腹切開または腹腔鏡下手術を用いて行うことができる。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE</LocID>                                    	
+	<Text>ミトタン</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE_DESC</LocID>                        	
+	<Text>リソドレンの商品名で販売されている「ミトタン」は、副腎皮質癌やクッシング症候群の治療に使用されるステロイド産生抑制・サイトスタティック抗悪性腫瘍薬である。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE</LocID>                                    	
+	<Text>スピロノラクトン</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>スピロノラクトンは、体内での塩分の吸収を防ぎ、カリウム値が低くなりすぎないようにする、カリウムを節約する排尿促進薬（利尿剤）である。スピロノラクトンは、心不全、高血圧、低カリウム血症（血液中のカリウム濃度が低い）の治療に使用される。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>オクトレオチド注射</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>オクトレオチドは、成長ホルモン産生腫瘍（先端巨大症および巨大症）の治療に使用され、カルチノイドの危機に苦しんでいる患者の安定化を支援することができる。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SL_ACTIVE_MONITOR</LocID>                                    	
+	<Text>積極的モニタリング</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>積極的モニタリングとは、腫瘍医が治療を勧めず、定期的な検診や血液検査で患者さんの健康状態を監視すること。これは、「慎重なモニタリング」や「経過観察」と呼ばれることもある。 \n\n前提条件：腫瘍科診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_HYPER_CVAD</LocID>                                    	
+	<Text>集中的Hyper-CVAD療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>「集中的」という用語は、副作用を最小限に抑えるために少量ずつ、より頻繁に投与される化学療法の高分画性を指す。「CVAD」とは、Aコースで使用される薬剤の頭文字をとったもので、シクロホスファミド、ビンクリスチン、ドキソルビシン（商品名アドリアマイシンという名称で知られている）、およびデキサメタゾンである。短期集中治療で改善が見られる。 \n\n前提条件：腫瘍科重症病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>脾臓摘出術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>脾臓摘出術は、脾臓を摘出する手術のこと。脾臓は、腹部の左上側の胸郭の下にある臓器である。脾臓は、感染症との戦いを助け、血液中の古い血球や損傷した血球などの不要な物質をろ過するのに役立つ。脾臓摘出術の最も一般的な理由は、しばしば腹部の損傷によって引き起こされる脾臓の破裂を治療することである。脾臓摘出術は、不快感の原因となっている脾臓の肥大（脾腫）、一部の血液疾患、特定の癌、感染症、非癌性の嚢胞や腫瘍など、他の状態を治療するために使用されることがある。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF</LocID>                                    	
+	<Text>G-CSF製剤</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF_DESC</LocID>                        	
+	<Text>顆粒球コロニー刺激因子薬（G-CSF）は、別名コロニー刺激因子3とも呼ばれ、骨髄を刺激して顆粒球や幹細胞を産生し、血液中に放出する糖タンパク質である。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE</LocID>                                    	
+	<Text>メトトレキサートIV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE_DESC</LocID>                        	
+	<Text>メトトレキサート（以前はアメトプテリンとして知られていた）は、化学療法剤であり、免疫系抑制剤である。癌、自己免疫疾患、子宮外妊娠、薬による中絶の治療に使用される。使用される癌の種類には、乳癌、白血病、肺癌、リンパ腫、骨肉腫などがある。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB</LocID>                                    	
+	<Text>アレムツズマブIV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>アレムツズマブは、慢性リンパ性白血病や多発性硬化症の治療に使用される薬である。CLLでは、アレムツズマブは第一選択および第二選択の治療薬として使用されてきた。MSでは、他の治療法が効かなかった場合にのみ、一般的に推奨されている。アレムツズマブは静脈に注射して投与される。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH</LocID>                                    	
+	<Text>BRAF阻害剤</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
+	<Text>BRAF阻害剤は、BRAF-V600E遺伝子変異をブロックするのに役立つ。臨床試験では、B-Rafは転移性メラノーマ患者の生存確率を高めた。この薬剤の高い有効性にもかかわらず、腫瘍の20％は未だに治療に抵抗性を示す。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>タモキシフェン</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>タモキシフェンは、女性、男性ともに乳癌のホルモン療法である。初期の乳癌が手術後に再発（再発）したり、他の乳房に発生したりするリスクを低下させる。また、進行した乳癌をしばらくコントロールすることもできる。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>乳房部分切除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>乳房そのものではなく、癌とその周囲の正常な組織を除去する手術。生検のために腕の下のリンパ節の一部を切除することがある。癌が近くにある場合は、胸壁の裏地の一部を切除することもある。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>高張食塩水投与</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>高張食塩水またはマンニトールによる高浸透圧治療は、頭蓋内圧を急速に低下させ、命と脳細胞を救う可能性がある。高張食塩水が効果的なのは、血液脳関門を（ほとんど）通過しないためで、それによって脳脊髄液を頭蓋から引き出し、傷ついた脳から体液を出すことで、圧力を下げ、さらなる傷を避けることができるからである。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>切開排膿</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>切開排膿と臨床切開は、皮膚の下にたまった脂や圧力を逃がすための小規模な手技である。 \n\n前提条件：腫瘍科診断室、腫瘍科診察室、集中治療室、観察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>腫瘍減量手術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>腫瘍減量手術とは、外科的に不治の悪性新生物を治癒の目的を持たずに部分的に切除することにより、その後の薬物、放射線、または他の補助的手段による治療をより効果的にし、それにより生存期間を改善するための処置である。医師は、癌を寛解に追い込もうとする患者のフォローアップ治療の予約をする必要がある。 \n\n前提条件：手術室（神経科）</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>全摘出開頭手術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>全摘出手術とは、磁気共鳴画像法（MRI）で可視化された腫瘍組織の完全切除である。超全摘出手術とは、病変のない脳組織へのMRI可視腫瘍組織境界の切除を伴う全摘出手術として施行される。 \n\n前提条件：手術室（神経科）</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>エストラジオールクリーム</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>エストラジオールクリームは、女性ホルモンであるエストロゲンを製剤化したもので、膣部の乾燥、灼熱感、かゆみ、排尿時の切迫感や刺激感などの更年期障害の特定の症状を治療するために使用される膣部への外用剤である。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>片側卵管卵巣切除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>片側卵管卵巣切除術とは、片側の卵巣と片側の卵管を外科的に切除する手術法で、どちらも体の同じ側に位置し、血液供給を共有している（これとは対照的に、両側手術では両側の卵巣と卵管を摘出する）。妊孕性の温存を希望する女性には、まず片側卵巣卵管摘除術を検討すべきである。局所再燃のリスクが高いことが明らかにされているが、全生存率の低下とは関連していない。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>根治的前立腺全摘除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>根治的前立腺摘除術は、前立腺とその周囲の組織を摘出する手術である。これには通常、精液小胞や近くのリンパ節が含まれる。根本的前立腺摘除術は、癌が前立腺に限局している男性の前立腺癌を治すことができる。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>ホルモン療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>ホルモン療法とは、治療行為にホルモンを使用することである。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>副甲状腺摘出術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>副甲状腺摘出術とは、副甲状腺や副甲状腺腫瘍を摘出する手術である。副甲状腺は首の甲状腺のすぐ後ろにある。これらの腺は、血液中のカルシウム濃度をコントロールするのに役立っている。 \n\n前提条件：手術室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>R-CHOP療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOPとは、非ホジキンリンパ腫（NHL）の治療に用いられる併用療法である。R-CHOPには、リツキシマブ（リツキサン）、シクロホスファミド、ドキソルビシン塩酸塩、ビンクリスチン、プレドニゾロンの5種類の化学療法薬が含まれている。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>リツキシマブ</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>リツキシマブは、「リツキサン」などのブランド名で販売されている薬剤で、特定の自己免疫疾患や癌の治療に使用される。リツキシマブは、主に免疫系B細胞の表面に存在するCD20というタンパク質に対するキメラモノクローナル抗体であり、このタンパク質と結合することで細胞死を誘発する。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
+	<Text>ゲムシタビン</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE_DESC</LocID>                        	
+	<Text>ジェムザールなどの商品名で販売されているジェムシタビンは、多くの種類の癌の治療に使用される化学療法薬である。これらの癌には、乳癌、卵巣癌、非小細胞肺癌、膵臓癌、膀胱癌などがある。静脈にゆっくりと注射して投与される。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT</LocID>                                    	
+	<Text>POC併用療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT_DESC</LocID>                        	
+	<Text>パミドロネートとオクトレオチドの併用療法。独立した複数の報告で、パミドロネートとオクトレオチドは、いくつかの症例では骨の痛みを和らげるのに役立ち、肥大性肺骨関節症（HPOA）の治療に役立つことが示唆されている。問題を解決するためには、根本的な問題の治療が必要である。 \n\n前提条件：診察室全般</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>区域切除術</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>区域切除術とは、臓器または腺の一部を切除する外科的処置であり、体の一部全体を切除する場合もある切除のサブタイプである。また、腫瘍やその周囲の正常組織を切除するために使用されることもある。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP</LocID>                                    	
+	<Text>FEP併用療法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
+	<Text>5-フルオロウラシル（5-FU）、シスプラチン、エトポシド（FEP）の併用療法。化学療法は、印環状細胞癌（SRCC）などの特定の癌では治癒効果が比較的乏しく、患者および全生存率は、より典型的な癌病理を有する患者と比較して低い。これらの癌は通常、疾患の後期に診断されるため、腫瘍は一般に非印環癌よりも積極的に広がるため、治療は困難であるが、最も有効なレジメンには5-フルオロウラシル（5-FU）、シスプラチン、および／またはエトポシドが含まれる。FEP併用化学療法は、胃癌の救済化学療法として有効な治療レジメンであると思われる。 \n\n前提条件：腫瘍科一般病棟</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_GYNECOLOGIE_DIAGNOSES">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>	<LocID>DIA_GEU</LocID>								<Text>Внематочная беременность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GEU_DESCRIPTION</LocID>					<Text>Развитие оплодотворенной яйцеклетки в другом месте, а не в матке (например в маточной трубе или брюшной полости).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK</LocID>								<Text>СПКЯ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK_DESCRIPTION</LocID>					<Text>Синдром поликистозных яичников или синдром поликистозных яичников. Переменное заболевание, которое характеризуется аменореей, гирсутизмом, ожирением, бесплодием и увеличением яичников и обычно вызывается повышенным уровнем лютеинизирующего гормона, андрогена или эстрогена, что приводит к аномальному циклу выброса гонадотропина гипофизом.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL</LocID>					<Text>Предменструальный синдром</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>		<Text>Различные группы симптомов проявляются у некоторых женщин до менструации.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE</LocID>						<Text>Менопауза</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>			<Text>Естественное прекращение менструации, которое обычно происходит в возрасте от 45 до 55 лет.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE</LocID>						<Text>Эндометриоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>			<Text>Наличие и рост функционирующей ткани эндометрия в местах, отличных от матки.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SS</LocID>						<Text>Подкожная фиброма</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Подслизистая фиброма</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Интерстициальная фиброма</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>Доброкачественная опухоль, состоящая в основном из фиброзной ткани.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Органическая киста яичника</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>Киста яичника представляет собой заполненный жидкостью мешок в яичнике. Органические кисты могут осложнять или вырождаться.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Функциональная киста яичника</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>		<Text>Киста яичника представляет собой заполненный жидкостью мешок в яичнике. Функциональные кисты растут во время менструального цикла из-за гормонального дисбаланса.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>			<Text>Заворот яичника</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Заворот яичника - это когда яичник скручивается при его прикреплении к другим структурам.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN</LocID>					<Text>Абсцесс яичника</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>		<Text>Абсцесс яичника представляет собой заполненный гноем карман в яичнике. Обычно вызывается бактериями.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL</LocID>				<Text>Пролапс</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>	<Text>Выпячивание органа или его части, не покрытой брюшиной, через естественные отверстия. </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE</LocID>						<Text>Гонорея</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>			<Text>Инфекционное воспаление слизистой оболочки половых органов, вызванное гонококком.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE</LocID>						<Text>Хламидиоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>			<Text>Заболевание или инфекция, вызванная хламидиями.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS</LocID>							<Text>Сифилис</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS_DESCRIPTION</LocID>				<Text>Хроническое инфекционное, как правило, венерическое и часто врожденное заболевание, вызываемое спирохетой (Treponema pallidum).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE</LocID>						<Text>Трихомониаз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE_DESCRIPTION</LocID>			<Text>Инфекция или болезнь, вызванная трихомонадой.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE</LocID>							<Text>Вагинальный микоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE_DESCRIPTION</LocID>				<Text>Инфекция или болезнь, вызванная грибком.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE</LocID>								<Text>Воспалительное заболевание органов малого таза</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE_DESCRIPTION</LocID>					<Text>Воспаление женских половых путей (таких как маточные трубы и яичники), которое возникает особенно в результате венерических заболеваний и является основной причиной бесплодия у женщин.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE</LocID>						<Text>Беременность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE_DESCRIPTION</LocID>			<Text>Состояние беременности.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN</LocID>					<Text>Предраковое состояние шейки матки</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN_DESCRIPTION</LocID>		<Text>Предраковыми состояниями шейки матки являются изменения в клетках шейки матки, которые делают их более вероятными для развития рака.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE</LocID>						<Text>Цервицит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE_DESCRIPTION</LocID>			<Text>Воспаление шейки матки.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL</LocID>						<Text>Цервикальный полип</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL_DESCRIPTION</LocID>			<Text>Новообразование на слизистой оболочке.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS</LocID>						<Text>Рак шейки матки</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS_DESCRIPTION</LocID>			<Text>Рак шейки матки - это злокачественное новообразование шейки матки. Это связано с аномальным ростом клеток, которые способны проникать или распространяться на другие части тела.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS</LocID>					<Text>Рак матки</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS_DESCRIPTION</LocID>		<Text>Рак матки (рак матки или эндометрия) является распространенным раком, который поражает женскую репродуктивную систему. Это чаще встречается у женщин, которые прошли через менопаузу.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN</LocID>			<Text>Разорванная киста яичника</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Разорванная киста яичника представляет собой заполненную жидкостью, как правило, доброкачественную (незлокачественную) массу яичника, которая вскрылась.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE</LocID>							<Text>Рак яичников</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE_DESCRIPTION</LocID>				<Text>Рак яичников - это тип рака, который начинается в яичниках.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME</LocID>						<Text>Фиброаденома</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME_DESCRIPTION</LocID>			<Text>Фиброаденома - это вид узелка, который может развиться в груди и обычно появляется у женщин. Фиброаденомы очень распространены, но они доброкачественные, что означает, что они не являются раковыми.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK</LocID>								<Text>Фиброзно-кистозная мастопатия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK_DESCRIPTION</LocID>					<Text>Фиброзно-кистозная болезнь молочной железы, обычно называемая фиброзно-кистозной мастопатией, представляет собой доброкачественное (нераковое) состояние, при котором грудь ощущается комковатой. Фиброзно-кистозная грудь не является вредной или опасной, но может быть неприятной или неудобной для некоторых женщин.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN</LocID>							<Text>Рак молочной железы</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN_DESCRIPTION</LocID>				<Text>Рак молочной железы - это заболевание, при котором клетки молочной железы выходят из-под контроля. Рак молочной железы может начаться в разных частях молочной железы.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G</LocID>							<Text>Гестационная гипертензия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G_DESCRIPTION</LocID>				<Text>Гестационная гипертензия, также называемая гипертонией, вызванной беременностью (PIH), представляет собой состояние, характеризующееся высоким кровяным давлением во время беременности. Гестационная гипертензия может привести к серьезному заболеванию, которое называется преэклампсия.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG</LocID>								<Text>ГСД</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG_DESCRIPTION</LocID>					<Text>Гестационный сахарный диабет (ГСД) определяется как любая степень непереносимости глюкозы с началом или первым распознаванием во время беременности.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE</LocID>					<Text>Хориоамнионит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE_DESCRIPTION</LocID>		<Text>Хориоамнионит - это бактериальная инфекция, возникающая до или во время родов. Название относится к мембранам, окружающим плод: «хорион» (наружная мембрана) и «амнион» (заполненный жидкостью мешок).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G</LocID>								<Text>Цистит при беременности</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G_DESCRIPTION</LocID>					<Text>Цистит - это инфекция мочевого пузыря, вызывающая жжение при мочеиспускании.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PNA_G</LocID>							<Text>Пиелонефрит при беременности</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE</LocID>							<Text>Вагиноз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE_DESCRIPTION</LocID>				<Text>Бактериальная инфекция влагалища, вызывающая вонючие белые выделения.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES</LocID>						<Text>Послеродовая хандра</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES_DESCRIPTION</LocID>			<Text>Чувство грусти, которое испытывает женщина вскоре после родов, обычно длится менее двух недель. Послеродовая хандра - это не болезнь или даже правильный психиатрический диагноз, это просто способ, которым люди пытались описать неприятные чувства, возникающие вскоре после рождения ребенка, и которые, как правило, проходят через несколько дней.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP</LocID>					<Text>Послеродовая депрессия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP_DESCRIPTION</LocID>		<Text>Послеродовая депрессия - это расстройство настроения, которое может повлиять на женщин после родов. Матери с послеродовой депрессией испытывают чувство крайней грусти, беспокойства и истощения, которые могут мешать им выполнять ежедневные действия по уходу за собой или для других.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP</LocID>							<Text>Послеродовой эндометрит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP_DESCRIPTION</LocID>				<Text>Послеродовой эндометрит относится к инфекции в децидуальной оболочке.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP</LocID>							<Text>Нагрубание молочных желез</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP_DESCRIPTION</LocID>				<Text>Нагрубание груди означает, что грудь мучительно переполнена молоком. Это обычно происходит, когда мать дает больше молока, чем использует ее ребенок.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP</LocID>							<Text>Треснувший сосок</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP_DESCRIPTION</LocID>				<Text>Трещины соска (или травма соска) - это состояние, которое может возникнуть у кормящих женщин в результате ряда возможных причин. Развитие трещины соска может привести к болезненности, сухости или раздражению или кровотечению одного или обоих сосков во время кормления грудью.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP</LocID>							<Text>Мастит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP_DESCRIPTION</LocID>				<Text>Мастит - это воспаление ткани молочной железы, которое иногда сопровождается инфекцией. Воспаление вызывает боль в груди, отек, повышение температуры и покраснение.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE</LocID>					<Text>Инфекционный мастит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE_DESCRIPTION</LocID>		<Text>Воспаление молочной железы в груди, как правило, из-за бактериальной инфекции.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE</LocID>					<Text>Грудной абсцесс</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE_DESCRIPTION</LocID>		<Text>Грудной абсцесс - это болезненное скопление гноя, который образуется в груди. Большинство абсцессов развиваются непосредственно под кожей и вызваны бактериальной инфекцией.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP</LocID>							<Text>Послеродовой ТГВ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP_DESCRIPTION</LocID>				<Text>Тромбоз глубоких вен, или ТГВ, представляет собой развитие тромба в глубоких венах.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV</LocID>							<Text>Тромбоз тазовых вен</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV_DESCRIPTION</LocID>				<Text>Тромбоз тазовых вен может включать тромбоз яичниковых вен, тромбоз глубоких тазовых вен, септический тромбофлебит таза.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF</LocID>						<Text>ФГА</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF_DESCRIPTION</LocID>			<Text>Функциональная гипоталамическая аменорея (ФГА) определяется как неорганическое и обратимое расстройство, в котором нарушение пульсирующей секреции гонадотропин-рилизинг-гормона (GnRH) играет ключевую роль.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME</LocID>					<Text>Молярная беременность</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME_DESCRIPTION</LocID>		<Text>Молярная беременность - это ненормальная форма беременности, при которой нежизнеспособная оплодотворенная яйцеклетка попадая в матку не может развивается. Молярная беременность - это гестационное трофобластическое заболевание, которое перерастает в массу в матке с опухшими ворсинками хориона.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE</LocID>				<Text>Асептический некробиоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE_DESCRIPTION</LocID>	<Text>Асептический некробиоз (красная дегенерация) миомы матки определяется как геморрагический инфаркт ранее гиалинизированной миомы, вызванный ишемическим некрозом, поскольку быстрый рост миомы перевешивает ее кровоснабжение.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE</LocID>						<Text>Аденомиоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE_DESCRIPTION</LocID>			<Text>Аденомиоз - это гинекологическое заболевание, характеризующееся ненормальным присутствием ткани эндометрия (внутренней оболочки матки) в миометрии (толстый мышечный слой матки).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN</LocID>						<Text>Синдром Шихана</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN_DESCRIPTION</LocID>			<Text>Синдром Шихана, также известный как некроз послеродовой гипофиза, представляет собой гипопитуитаризм (снижение функционирования гипофиза), вызванный ишемическим некрозом из-за кровопотери и гиповолемического шока во время и после родов.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM</LocID>			<Text>Послеродовой лимфоцитарный гипофизит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM_DESCRIPTION</LocID>	<Text>Это воспалительное заболевание гипофиза.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD</LocID>					<Text>Синдром токсического шока</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD_DESCRIPTION</LocID>		<Text>Синдром токсического шока - это состояние, вызванное бактериальными токсинами.</Text>	</GameDBLocalizedString>
+
+    
+
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT</LocID>									<Text>Стрессовое недержание</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT_DESCRIPTION</LocID>						<Text>Стрессовое недержание мочи соответствует непроизвольному подтеканию мочи (смех, кашель, чихание, спорт ...) без чувства нужды.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE</LocID>					<Text>Гиперактивность мочевого пузыря</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE_DESCRIPTION</LocID>		<Text>Гиперактивность мочевого пузыря соответствует непроизвольной потере мочи, которой предшествует немедленная неотложная потребность (срочность или острая необходимость), которая может возникнуть в покое, ночью, без каких-либо усилий.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE</LocID>									<Text>Сальпингит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE_DESCRIPTION</LocID>						<Text>Сальпингит - это инфекция и воспаление в маточных трубах.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE</LocID>								<Text>Эндометрит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE_DESCRIPTION</LocID>					<Text>Эндометрит - это воспаление внутренней оболочки матки.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_LIG_TROMPES</LocID>									<Text>Стерилизация</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_LIG_TROMPES_DESCRIPTION</LocID>						<Text>Перевязывание маточных труб, также известное как перевязывание труб или стерилизация маточных труб, является одним из видов постоянного контроля над рождаемостью. Во время перевязки маточных труб маточные трубы разрезаются, связываются или блокируются, чтобы навсегда предотвратить беременность.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_AIGUE</LocID>								<Text>Острый бартолинит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_AIGUE_DESCRIPTION</LocID>					<Text>Острый бартолинит - это локализованное воспаление бартолиновой железы или ее расширенного выводного протока.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_CHRONIQUE</LocID>							<Text>Хронический бартолинит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_CHRONIQUE_DESCRIPTION</LocID>				<Text>Хронический бартолинит - это развитие острого бартолинита. Если не лечить, бартолинит в конечном итоге распространится на кожу.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_RECIDIVE</LocID>							<Text>Рецидивирующий бартолинит</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_RECIDIVE_DESCRIPTION</LocID>				<Text>Лечение заключается в проведении иссечения кисты и бартолиновой железы под общим наркозом.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_PILONIDAL</LocID>								<Text>Пилонидальная киста</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_PILONIDAL_DESCRIPTION</LocID>					<Text>Пилонидальная киста представляет собой эпителизированный синусовый тракт или кисту, содержащую волосяные фолликулы с окружающей воспалительной реакцией. Это обычно развивается в крестцово-копчиковой области с немногими сообщениями о его развитии в половых органах.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_EPIDERMIQUE_VULVE</LocID>						<Text>Эпидермоидная киста вульвы </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_EPIDERMIQUE_VULVE_DESCRIPTION</LocID>			<Text>Эпидермоидные кисты возникают в результате закупорки каналов сальных желез.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_VULVE_INCLUSION</LocID>							<Text>Вульварная киста</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_VULVE_INCLUSION_DESCRIPTION</LocID>				<Text>Кистозные включения являются наиболее распространенными вульварными кистами, они содержат эпителиальную ткань.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_HEMATOCOLPOS</LocID>									<Text>Гематокольпос</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_HEMATOCOLPOS_DESCRIPTION</LocID>						<Text>Гематокольпос - это скопление менструальной крови во влагалищной полости.</Text>	</GameDBLocalizedString>
+
+	
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I</LocID>									<Text>Сифилис (I)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I_DESCRIPTION</LocID>						<Text>Первичный сифилис отмечается примерно через 3 недели тихой инкубации по появлению язвы в месте инокуляции трепонемы и ее лимфаденопатии.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II</LocID>								<Text>Сифилис (II)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II_DESCRIPTION</LocID>					<Text>Вторичный сифилис характеризуется появлением нескольких кожно-слизистых высыпаний, перемежающихся бессимптомными фазами продолжительностью несколько недель или месяцев и продолжающимися в среднем два года. С ним связаны общие и висцеральные признаки, свидетельствующие о систематическом распространении трепонемы.</Text>	</GameDBLocalizedString>
+
+
+			
+
+			<GameDBLocalizedString>	<LocID>TRM_HGEN</LocID>								<Text>Гинекологическое кровотечение</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HGEN_DESCRIPTION</LocID>					<Text>Гинекологическое кровотечение представляет собой чрезмерное кровотечение женской репродуктивной системы.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA</LocID>					<Text>Предлежание плаценты</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA_DESCRIPTION</LocID>		<Text>Предлежание плаценты - это патология, при которой плацента располагается в нижних отделах матки по любой стенке, частично или полностью перекрывая область внутреннего зева. Обычно вызывает кровотечение у матери.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE</LocID>		<Text>Ретроплацентарные гематомы</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</LocID>	<Text>Ретроплацентарные гематомы полностью находятся за плацентой и не касаются гестационного мешка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP</LocID>								<Text>Угроза преждевременных родов</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP_DESCRIPTION</LocID>					<Text>Некоторые факторы могут привести к преждевременным родам.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE</LocID>						<Text>Преэклампсия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE_DESCRIPTION</LocID>			<Text>Серьезное состояние, развивающееся на поздних сроках беременности, которое характеризуется внезапным повышением артериального давления, чрезмерным увеличением веса, генерализованным отеком, протеинурией, сильной головной болью и нарушениями зрения, что может привести к эклампсии, если ее не лечить.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB</LocID>						<Text>Кровотечение на ранних сроках беременности.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB_DESCRIPTION</LocID>			<Text>Это кровотечения на ранних сроках беременности до 24 недель. </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE</LocID>						<Text>Послеродовое кровотечение</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE_DESCRIPTION</LocID>			<Text>Послеродовое кровотечение (ПРК) является неотложной акушерской ситуацией. ПРК определяется объемом кровопотери: предполагаемая кровопотеря ≥500 мл после влагалищных родов или ≥1000 мл после кесарева сечения.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF</LocID>								<Text>Послеродовой психоз</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF_DESCRIPTION</LocID>					<Text>Послеродовой психоз (ПП) - это тяжелая форма психического заболевания, которое возникает после рождения ребенка.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME</LocID>					<Text>HELLP-синдром</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME_DESCRIPTION</LocID>		<Text>HELLP-синдром - это осложнение беременности, характеризующееся гемолизом, повышенными уровнями ферментов печени и низким количеством тромбоцитов. Это обычно начинается в течение последних трех месяцев беременности или вскоре после родов.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS</LocID>					<Text>Разрыв матки</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS_DESCRIPTION</LocID>		<Text>Разрыв матки - это когда мышечная стенка матки рвется во время беременности или родов.</Text>	</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_FR_ADDON_CRP_SLEEPY_EXAMINATIONS">
+
+        <LanguageCode>fr</LanguageCode>
+        <LanguageNameLocalized>Français</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Nico57970</Name>
+			<Name>Damn3d</Name>
+			<Name>MacNaab</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+             
+            <GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT</LocID>                                      
+			<Text>Prise de sang - Catécholamine </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_DESC</LocID>                                      
+			<Text>Cette analyse sanguine mesure le taux de Catécholamine dans votre corps. “Catécholamines” est un terme générique pour les hormones de la dopamine B, noradrénaline B et de l'adrénaline. \n\nLaboratoire requis: Hématologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_CRP_CCBT_TEST</LocID>                                      
+			<Text>Analyse sanguine - Catécholamine</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>                                      
+			<Text>Cette analyse sanguine mesure le taux de Catécholamine dans votre corps. “Catécholamines” est un terme générique pour les hormones de la dopamine B, noradrénaline B et de l'adrénaline.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA</LocID>                                      
+			<Text>Prise de sang - CA </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_DESC</LocID>                                      
+			<Text>Une analyse sanguine d'antigène tumoral,souvent appellé cancer antigen(CA),est un test sanguin utilisé pour aider à diagnostiquer et à gérer certains types de cancers. Les marqueurs tumoraux sont des substances, généralement des protéines, produites par le corps en réponse à la croissance de la tumeur dans le corps ou par le tissu cancéreux lui-même. Certains marqueurs tumoraux sont spécifiques à un type de cancer, tandis que d'autres sont observés dans plusieurs types de cancer. De nombreux marqueurs sont observés dans des conditions non cancéreuses ainsi que dans le cancer. Par conséquent, ils ne peuvent pas être utilisés pour diagnostiquer un cancer. \n\nLaboratoire requis: Hématologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST</LocID>                                      
+			<Text>Analyse sanguine - CA</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST_DESC</LocID>                                      
+			<Text>Une analyse d'antigène tumoral,souvent appellé cancer antigen(CA),est un test sanguin utilisé pour aider à diagnostiquer et à gérer certains types de cancers. Les marqueurs tumoraux sont des substances, généralement des protéines, produites par le corps en réponse à la croissance de la tumeur dans le corps ou par le tissu cancéreux lui-même. Certains marqueurs tumoraux sont spécifiques à un type de cancer, tandis que d'autres sont observés dans plusieurs types de cancer. De nombreux marqueurs sont observés dans des conditions non cancéreuses ainsi que dans le cancer. Par conséquent, ils ne peuvent pas être utilisés pour diagnostiquer un cancer.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY</LocID>                                      
+			<Text>Coloscopie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>Une coloscopie est une procédure médicale qui est effectuée pour rechercher un cancer, des polypes du colon ou d'autres anomalies à l'intérieur de votre intestin. La coloscopie est effectuée à l'aide d'un instrument appelé coloscope(un type d'endoscope) - un tube long, mince et flexible contenant une caméra et une lumière.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS</LocID>                                      
+			<Text>Echantillon d'urine - Antigène</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_DESC</LocID>                                      
+			<Text>Analyse urinaire pour vérifier la quantité d'antigènes liés au cancer dans l'urine. En utilisant la concentration d'antigène crée à partir d'une variété d'agents pathogènes dans les reins pour les sécrétions urinaire, le test d'antigène urinaire peut être utilisé pour obtenir des résultats de test rapides. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST</LocID>                                      
+			<Text>Analyse urinaire - Antigène</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST_DESC</LocID>                                      
+			<Text>Analyse urinaire pour vérifier la quantité d'antigènes liés au cancer dans l'urine. En utilisant la concentration d'antigène crée à partir d'une variété d'agents pathogènes dans les reins pour les sécrétions urinaire, le test d'antigène urinaire peut être utilisé pour obtenir des résultats de test rapides. </Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsie de Moelle osseuse - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Une biopsie de moelle osseuse recueille un échantillon cylindrique qui conserve la structure de la moelle. L'échantillon de biopsie est évalué par un spécialiste pour déterminer la cellularité, le volume des cellules comparé au volume des autres composants de la moelle osseuse, si les différentes cellules sont présentes en nombre suffisant et s'il y a des éléments anormaux dans la moelle. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>Biopsie de Moelle osseuse - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>Une biopsie de moelle osseuse recueille un échantillon cylindrique qui conserve la structure de la moelle. L'échantillon de biopsie est évalué par un spécialiste pour déterminer la cellularité, le volume des cellules comparé au volume des autres composants de la moelle osseuse, si les différentes cellules sont présentes en nombre suffisant et s'il y a des éléments anormaux dans la moelle.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT</LocID>                                      
+			<Text>Cytométrie en flux - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_DESC</LocID>                                      
+			<Text>La cytométrie en flux est une technique utilisée pour détecter et mesurer les caractéristiques physiques et chimiques d'un groupe de cellules ou de particules. Un échantillon contenant des cellules ou des particules est suspendu dans un fluide et injecté dans l'instrument de cytomètre en flux. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST</LocID>                                      
+			<Text>Cytométrie en flux - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>La cytométrie en flux est une technique utilisée pour détecter et mesurer les caractéristiques physiques et chimiques d'un groupe de cellules ou de particules. Un échantillon contenant des cellules ou des particules est suspendu dans un fluide et injecté dans l'instrument de cytomètre en flux.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CBC_SAMPLING</LocID>                                      
+			<Text>(Oncologie) Prise de sang complète</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>Frottis sanguin - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>Un frottis sanguin - ou frottis sanguin périphérique - est une fine couche de sang etalée sur une lame de microscope en verre, puis colorée de manière à permettre l'examen microscopique des différentes cellules sanguines. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>Frottis sanguin - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>Un frottis sanguin - ou frottis sanguin périphérique - est une fine couche de sang étalée sur une lame de microscope en verre, puis colorée de manière à permettre l'examen microscopique des différentes cellules sanguines.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>Bilan hépatique - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>Les bilans hépatiques sont des analyses sanguine qui peuvent fournir des informations sur le fonctionnement de votre foie. Ils testent les niveaux d'un certain nombre de protéines et d'enzymes qui sont produites par les cellules hépatiques ou libérées dans le sang lorsque les cellules hépatiques sont endommagées. \n\nLaboratoire requis: Hématologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST</LocID>                                      
+			<Text>Bilan hépatique - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>Les bilans hépatiques sont des analyses sanguine qui peuvent fournir des informations sur le fonctionnement de votre foie. Ils testent les niveaux d'un certain nombre de protéines et d'enzymes qui sont produites par les cellules hépatiques ou libérées dans le sang lorsque les cellules hépatiques sont endommagées.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE</LocID>                                      
+			<Text>F.I.S.H. - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>L'hybridation in situ par fluorescence, plus couramment appellé FISH est une technique de cytogénétique moléculaire qui utilise des sondes fluorescentes qui se lient uniquement aux parties d'une suite d'acide nucléique avec un degré élevé de complémentarité. Il a été développé par des chercheurs biomédicaux au début des années 80 pour détecter et localiser la présence ou l'absence de séquences d'ADN spécifiques sur les chromosomes. Le FISH est souvent utilisé pour trouver des caractéristiques spécifiques dans l'ADN pour les utiliser dans le suivi génétique, la médecine et l'identification des types. Le FISH peut également être utilisé pour détecter et localiser les différents types d'ARN(acide ribonucléique) spécifiques dans les cellules, les cellules tumorales et les échantillons de tissus. \n\nLaboratoire requis: Histologie </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST</LocID>                                      
+			<Text>F.I.S.H. - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST_DESC</LocID>                                      
+			<Text>L'hybridation in situ par fluorescence, plus couramment appellé FISH est une technique de cytogénétique moléculaire qui utilise des sondes fluorescentes qui se lient uniquement aux parties d'une suite d'acide nucléique avec un degré élevé de complémentarité. Il a été développé par des chercheurs biomédicaux au début des années 80 pour détecter et localiser la présence ou l'absence de séquences d'ADN spécifiques sur les chromosomes. Le FISH est souvent utilisé pour trouver des caractéristiques spécifiques dans l'ADN pour les utiliser dans le suivi génétique, la médecine et l'identification des types. Le FISH peut également être utilisé pour détecter et localiser les différents types d'ARN(acide ribonucléique) spécifiques dans les cellules, les cellules tumorales et les échantillons de tissus.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text> Coloration in vitro - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>La coloration in vitro est une technique utilisée pour améliorer le contraste dans les échantillons, généralement au niveau microscopique. Les teintures et les colorants sont fréquemment utilisés en histologie (l'étude des tissus au microscope) et dans les domaines médicaux de l'histopathologie, de l'hématologie et de la cytopathologie qui se concentrent sur l'étude et diagnostiquent la maladie au niveau microscopique. Les colorants peuvent être utilisés pour préciser des tissus biologiques (mettant en évidence, par exemple, des fibres musculaires), des groupes de cellules ou encore des organites au sein de cellules individuelles. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST</LocID>                                      
+			<Text>Coloration in vitro - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>La coloration in vitro est une technique utilisée pour améliorer le contraste dans les échantillons, généralement au niveau microscopique. Les teintures et les colorants sont fréquemment utilisés en histologie (l'étude des tissus au microscope) et dans les domaines médicaux de l'histopathologie, de l'hématologie et de la cytopathologie qui se concentrent sur l'étude et diagnostiquent la maladie au niveau microscopique. Les colorants peuvent être utilisés pour préciser des tissus biologiques (mettant en évidence, par exemple, des fibres musculaires), des groupes de cellules ou encore des organites au sein de cellules individuelles.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>Mammographie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>La mammographie est une radiographie du tissu mammaire pour trouver des anomalies trop petites pour être ressenties lors d'un examen physique. \n\nSalle requise: Radiographie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE</LocID>                                      
+			<Text>Biopsie à l'aiguille fine - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>La biopsie à l'aiguille fine(BAF) est une procédure de biopsie plus rapide et moins douloureuse pour retirer des échantillons de tissus, de cellules ou de liquide. Lors d'une BAF, une aiguille fine est insérée dans une zone à l'apparence anormale de tissus ou de liquide corporel. Comme pour les autres types de biopsies, l'échantillon prélevé lors d'une biopsie à l'aiguille fine peut aider à établir un diagnostic ou à exclure des conditions telles que le cancer. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST</LocID>                                      
+			<Text>Biopsie à l'aiguille fine - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST_DESC</LocID>                                      
+			<Text>La biopsie à l'aiguille fine(BAF) est une procédure de biopsie plus rapide et moins douloureuse pour retirer des échantillons de tissus, de cellules ou de liquide. Lors d'une BAF, une aiguille fine est insérée dans une zone à l'apparence anormale de tissus ou de liquide corporel. Comme pour les autres types de biopsies, l'échantillon prélevé lors d'une biopsie à l'aiguille fine peut aider à établir un diagnostic ou à exclure des conditions telles que le cancer.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>                                      
+			<Text>Microscope éléctronique - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>Le diagnostique par microscopie électronique  est utilisé comme un outil de diagnostique important pour voir les tissus humains à fort grossissement (au niveau ultrastructurel).Les tissus sont préparés pour la microscopie éléctronique, ils sont fixés dans du glutaraldéhyde et du tétroxyde d'osmium puis déshydratés et incorporés dans une résine époxy. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST</LocID>                                      
+			<Text>Microscope éléctronique - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>Le diagnostique par microscopie électronique  est utilisé comme un outil de diagnostique important pour voir les tissus humains à fort grossissement (au niveau ultrastructurel).Les tissus sont préparés pour la microscopie éléctronique, ils sont fixés dans du glutaraldéhyde et du tétroxyde d'osmium puis déshydratés et incorporés dans une résine époxy.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM</LocID>                                      
+			<Text>Examen Pelvien</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>Un examen pelvien est un examen visuel et physique par un médecin des organes reproducteurs d'une femme. Pendant l'examen, le médecin inspecte le vagin, le col de l'utérus, les trompes de Fallope, la vulve, les ovaires et l'utérus.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM</LocID>                                      
+			<Text>Toucher Rectal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>                                      
+			<Text>Un toucher rectal est un test pour les hommes et les femmes. Il permet à un médecin de vérifier si il n'y a pas de cancer ou d'autres problèmes de santé dans le rectum inférieur, le bassin et le bas ventre, comme le cancer de la prostate.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>                                      
+			<Text>Analyse minéral complète - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>L'analyse minéral complète correspond à l'analyse du sang pour cinq minéraux et est utilisé pour détecter les carences ou la surexposition (toxicité) en minéraux. Cette analyse comprend des tests sur les niveaux des cinq minéraux suivants: calcium, cuivre, magnésium, manganèse et zinc. \n\nLaboratoire requis: Hématologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST</LocID>                                      
+			<Text>Analyse minéral complète - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>L'analyse minéral complète correspond à l'analyse du sang pour cinq minéraux et est utilisé pour détecter les carences ou la surexposition (toxicité) en minéraux. Cette analyse comprend des tests sur les niveaux des cinq minéraux suivants: calcium, cuivre, magnésium, manganèse et zinc.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsie ganglionnaire - Prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>La biopsie des ganglions lymphatiques est un test dans lequel un ganglion lymphatique ou un morceau de ganglion lymphatique est retiré pour examen au microscope. Une biopsie des ganglions lymphatiques peut aider à déterminer si le patient a une infection, un trouble immunitaire ou un cancer. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>Biopsie ganglionnaire - Examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>La biopsie des ganglions lymphatiques est un test dans lequel un ganglion lymphatique ou un morceau de ganglion lymphatique est retiré pour examen au microscope. Une biopsie des ganglions lymphatiques peut aider à déterminer si le patient a une infection, un trouble immunitaire ou un cancer.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsie par coloscopie – prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Une coloscopie est une procédure médicale qui est effectuée pour rechercher un cancer, des polypes du côlon ou d'autres anomalies à l'intérieur de votre intestin. La coloscopie est effectuée à l'aide d'un instrument appelé colonoscope(un type d'endoscope) – un tube long, mince et flexible contenant une caméra et une lumière. Pendant la coloscopie, le médecin passe un instrument à travers le coloscope pour obtenir une biopsie(un petit échantillon de la muqueuse du côlon) à analyser plus en détail. \n\nLaboratoire requis: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>Biopsie par coloscopie – examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Une coloscopie est une procédure médicale qui est effectuée pour rechercher un cancer, des polypes du côlon ou d'autres anomalies à l'intérieur de votre intestin. La coloscopie est effectuée à l'aide d'un instrument appelé colonoscope(un type d'endoscope) – un tube long, mince et flexible contenant une caméra et une lumière. Pendant la coloscopie, le médecin passe un instrument à travers le coloscope pour obtenir une biopsie(un petit échantillon de la muqueuse du côlon) à analyser plus en détail.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsie du foie – prélèvement</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Une biopsie du foie est une procédure au cours de laquelle une petite aiguille est insérée dans le foie pour prélever un échantillon de tissu. Le tissu est ensuite analysé en laboratoire pour aider les médecins à diagnostiquer divers troubles et maladies du foie. \n\nSalle requise : laboratoire d'histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>Biopsie du foie – examen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Une biopsie du foie est une procédure au cours de laquelle une petite aiguille est insérée dans le foie pour prélever un échantillon de tissu. Le tissu est ensuite analysé en laboratoire pour aider les médecins à diagnostiquer divers troubles et maladies du foie.</Text>  
+			</GameDBLocalizedString>
+
+			
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

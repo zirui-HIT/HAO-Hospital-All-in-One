@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBObject ID="ADDON_OBJECT_SEX_HEALTH_POSTER_A">
+        <AbbreviationLocID>ADDON_OBJECT_SEX_HEALTH_POSTER_A_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_SEX_HEALTH_POSTERS_OBJECTS_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_SEX_HEALTH_POSTER_A_CUSTOM_ICON</CustomIconAssetRef>
+		
+		
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.3</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+
+        <Cost>29</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="ADDON_OBJECT_SEX_HEALTH_POSTER_B">
+        <AbbreviationLocID>ADDON_OBJECT_SEX_HEALTH_POSTER_B_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_SEX_HEALTH_POSTERS_OBJECTS_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_SEX_HEALTH_POSTER_B_CUSTOM_ICON</CustomIconAssetRef>
+		
+		
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <BlockedAboveOtherObjects>true</BlockedAboveOtherObjects>
+        <NonBlocking>true</NonBlocking>
+        <Placement>INDOORS</Placement>
+        <HeightOffset>1.3</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.1</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>decoration</Tag>
+            <Tag>distraction</Tag>
+            <Tag>hospitalized_patient</Tag>
+            <Tag>ui_decorations</Tag>
+            <Tag>ui_posters</Tag>
+        </Tags>
+
+        <Cost>29</Cost>
+    </GameDBObject>
+</Database>

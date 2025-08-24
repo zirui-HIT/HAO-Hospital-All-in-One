@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MOD_OPHTHALMOLOGY_BUILDING_MODE">
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>DPT_OPHTHALMOLOGY</LocID>
+				<Text>Ophthalmology</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_OFFICE</LocID>
+				<Text>Ophthalmology Office</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_OFFICE_DESC</LocID>
+				<Text>An office for ophthalmologists.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_OPHTHALMOLOGY_OFFICE</LocID>
+				<Text>Inpatient Diagnostic Room</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_OPHTHALMOLOGY_OFFICE_DESC</LocID>
+				<Text>A diagnostic room for ophthalmology inpatients.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_EXAMINATION_ROOM</LocID>
+				<Text>Diagnostic Room</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_EXAMINATION_ROOM_DESC</LocID>
+				<Text>An area for performing ophthalmologic diagnoses.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_UNIT</LocID>
+				<Text>Ophthalmology Examination Room</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_UNIT_DESC</LocID>
+				<Text>An area for conducting ophthalmologic examinations.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

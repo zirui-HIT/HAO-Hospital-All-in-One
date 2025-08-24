@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_DE_ADDON_GYNECOLOGIE_TREATMENTS">
+
+        <LanguageCode>de</LanguageCode>
+        <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Bowelas</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			
+			
+			<GameDBLocalizedString>	<LocID>TRT_IMMUNOGLOBULINE_ANTI-D</LocID>							<Text>Immunglobulin-Infusionen</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_IMMUNOGLOBULINE_ANTI-D_DESCRIPTION</LocID>				<Text>Eine sterile Lösung konzentrierter Antikörper von gesunden Menschen, die direkt in eine Vene verabreicht wird.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ACNEE</LocID>										<Text>Anti-Akne</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ACNEE_DESCRIPTION</LocID>							<Text>Medizin, um verschiedene Arten und Formen von Akne zu behandeln.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OP</LocID>												<Text>Estradiol-Progesteron-Kapsel</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OP_DESCRIPTION</LocID>									<Text>Dieses Medikament enthält 2 weibliche Hormone: ein Östrogen und ein Gestagen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_METFORMINE</LocID>										<Text>Antidiabetikum</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_METFORMINE_DESCRIPTION</LocID>							<Text>Medikament, welches die Insulinresistenz reduziert.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ANDROGEN</LocID>									<Text>Anti-Androgene</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ANTI_ANDROGEN_DESCRIPTION</LocID>						<Text>Antiandrogenmittel blockieren Androgenrezeptoren und hemmen so die Wirkung männlicher Sexualhormone.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PROGESTATIF</LocID>										<Text>Progestogen</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PROGESTATIF_DESCRIPTION</LocID>							<Text>Ein natürlich vorkommendes oder synthetisches Gestagensteroid.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OESTROGENOTHERAPIE</LocID>								<Text>Östrogenersatztherapie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OESTROGENOTHERAPIE_DESCRIPTION</LocID>					<Text>Hormonersatztherapie, bei der Östrogen ohne Gestagen verabreicht wird.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THM</LocID>												<Text>HRT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THM_DESCRIPTION</LocID>									<Text>Postmenopausale Hormontherapie (HRT).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THERAPIE_HORMONALE</LocID>								<Text>Hormontherapie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_THERAPIE_HORMONALE_DESCRIPTION</LocID>					<Text>Der therapeutische Einsatz von Hormonen</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PESSAIRE</LocID>											<Text>Pessar</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_PESSAIRE_DESCRIPTION</LocID>								<Text>Ein Gerät, das in der Scheide getragen wird, um die Gebärmutter zu stützen, eine Fehlstellung zu beseitigen oder eine Empfängnis zu verhindern.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOCOLYTIQUE</LocID>										<Text>Tocolytic</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOCOLYTIQUE_DESCRIPTION</LocID>							<Text>Hemmung von Uteruskontraktionen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MYOLYSE</LocID>											<Text>Hochintensiver fokussierter Ultraschall</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MYOLYSE_DESCRIPTION</LocID>								<Text>Hochintensiver fokussierter Ultraschall (HIFU) ist ein hochpräzises medizinisches Verfahren, das lokal angewendet wird, um krankes Gewebe durch Ablation zu erhitzen und zu zerstören.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRT_SURVEILLANCE</LocID>										<Text>Medizinische Versorgung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_SURVEILLANCE_DESCRIPTION</LocID>							<Text>Die Bereitstellung dessen, was für die Gesundheit und das Wohlbefinden einer Person von einem Arzt, einer Krankenschwester oder einer anderen medizinischen Fachkraft erforderlich ist.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OCYTOCINE</LocID>										<Text>Oxytocin</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OCYTOCINE_DESCRIPTION</LocID>							<Text>Ein von der Hypophyse freigesetztes Hormon, das während der Wehen zu einer verstärkten Kontraktion der Gebärmutter führt und den Ausstoß von Milch in die Brustgänge stimuliert.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>TRT_ASPIRATION_ENDO_UTERINE</LocID>							<Text>Vakuumaspiration</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_ASPIRATION_ENDO_UTERINE_DESCRIPTION</LocID>				<Text>Bei der Vakuum- oder Saugaspiration wird der Uterusinhalt über den Gebärmutterhals abgesaugt.</Text>	</GameDBLocalizedString>
+				
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_REEDUCATION_PELV</LocID>							<Text>Perineo-Schließmuskel-Rehabilitation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_REEDUCATION_PELV_DESCRIPTION</LocID>				<Text>Die intravaginale manuelle Arbeit der Beckenbodenmuskulatur verbessert die Kontrolle des Urinierens.</Text>	</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>	<LocID>TRT_SALPINGOTOMIE</LocID>									<Text>Salpingotomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_SALPINGOTOMIE_DESCRIPTION</LocID>						<Text>Operation, um einen Einschnitt in eine Eileiter zu machen und einen Eileiter zu entfernen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DETORSION</LocID>										<Text>Detorsion und Zystektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DETORSION_DESCRIPTION</LocID>							<Text>Chirurgische Detorsion der Adnexe.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_KYSTECTOMIE</LocID>										<Text>Zystektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_KYSTECTOMIE_DESCRIPTION</LocID>							<Text>Die chirurgische Entfernung einer Zyste.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DRAINAGE</LocID>											<Text>Drainage</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_DRAINAGE_DESCRIPTION</LocID>								<Text>Chirurgische Drainage.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOILETTE_PERINEAL</LocID>								<Text>Peritonealreinigung</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TOILETTE_PERINEAL_DESCRIPTION</LocID>					<Text>Chirurgische Peritonealreinigung.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CESARIENNE</LocID>										<Text>Kaiserschnitt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CESARIENNE_DESCRIPTION</LocID>							<Text>Ein chirurgischer Eingriff, bei dem die Wände von Bauch und Gebärmutter eingeschnitten werden, um Nachkommen zu entbinden.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_ENDOSCOPIC_CAUTERIZATION</LocID>						<Text>Endoskopische Kauterisation</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_ENDOSCOPIC_CAUTERIZATION_DESCRIPTION</LocID>			<Text>Die endoskopische Kauterisation ist ein chirurgischer Eingriff, bei dem ein Bereich mit elektrischem Strom verbrannt / gepflegt wird, um ihn zu öffnen oder zu schließen. Es wird häufig verwendet, um Blutungen während Operationen zu stoppen.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRT_EXERESE</LocID>											<Text>Chirurgische Resektion.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_EXERESE_DESCRIPTION</LocID>								<Text>Die chirurgische Entfernung eines Teils eines Organs oder einer Struktur.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_HYSTERECTOMIE</LocID>									<Text>Hysterektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_HYSTERECTOMIE_DESCRIPTION</LocID>						<Text>Eine chirurgische Operation, um den gesamten Uterus oder einen Teil davon zu entfernen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TUMORECTOMIE</LocID>										<Text>Lumpektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_TUMORECTOMIE_DESCRIPTION</LocID>							<Text>Eine Operation, bei der der Krebs und etwas normales Gewebe, aber nicht die Brust selbst entfernt werden.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>TRT_OBGYN_CLOT_PREVENTING_DRUGS</LocID>						<Text>Antikoagulanzien</Text>	</GameDBLocalizedString>
+			
+			</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

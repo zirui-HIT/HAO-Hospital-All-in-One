@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_FR_ADDON_URKN_SKILLS">
+	
+	<LanguageCode>fr</LanguageCode>
+	<LanguageNameLocalized>Français</LanguageNameLocalized>
+	<Contributors>
+		<Name>aigledunumerique</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+	<GameDBLocalizedString>      
+		<LocID>DPT_URKN</LocID>                                          	
+		<Text>Urologie_Nephrologie</Text>  
+	</GameDBLocalizedString>
+
+
+
+
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR</LocID>                   
+		<Text>Urologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_DESC</LocID>                   
+		<Text>L'urologie donne accès à des procédures spécialisées pour détecter, diagnostiquer et traiter diverses maladies au service d'urologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY</LocID>                   
+		<Text>Chirurgie génito-urinaire</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY_DESC</LocID>                   
+		<Text>La chirurgie génito-urinaire permet au médecin d'agir en tant que chirurgien principal au service d'urologie et affecte la fréquence des complications chirurgicales.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

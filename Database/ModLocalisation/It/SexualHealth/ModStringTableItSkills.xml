@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_SEXUAL_HEALTH_SKILLS">
+        
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+		    <Name>neoxes</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            
+		
+			
+        <GameDBLocalizedString>
+			<LocID>DPT_SH</LocID>									<Text>Reparto di Malattie Sessualmente Trasmesse</Text>
+		</GameDBLocalizedString>
+			
+		
+			
+		<GameDBLocalizedString>
+			<LocID>SKILL_DOC_SPEC_SH</LocID>						<Text>Venereologia</Text>
+		</GameDBLocalizedString>
+        <GameDBLocalizedString>
+			<LocID>SKILL_DOC_SPEC_SH_DESCRIPTION</LocID>			<Text>La specializzazione in venereologia consente l'accesso a procedure specifiche per la diagnosi e il trattamento di pazienti del reparto di malattie sessualmente trasmesse.</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>SKILL_DOC_SPEC_SH_SURGERY</LocID>				<Text>Chirurgia MST</Text>
+		</GameDBLocalizedString>
+        <GameDBLocalizedString>
+			<LocID>SKILL_DOC_SPEC_SH_SURGERY_DESCRIPTION</LocID>	<Text>La specializzazione in chirurgia per malattie sessualmente trasmesse consente al medico di agire come principale chirurgo presso il reparto di malattie sessualmente trasmesse e influisce sulla frequenza con cui gli interventi chirurgici si concluderanno con complicanze.</Text>
+		</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+		
+	</GameDBStringTable>
+
+</Database>

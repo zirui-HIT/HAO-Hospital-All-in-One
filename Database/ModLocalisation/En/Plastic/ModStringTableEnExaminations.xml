@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_EN_ADDON_PLASTICS_EXAMINATIONS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Sleepy068</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+		
+		
+		
+		
+            
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS</LocID>                         
+			<Text>Electrophoresis Sampling</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS_DESC</LocID>                         
+			<Text>Electrophoresis is a laboratory technique used to separate DNA, RNA, or protein molecules based on their size and electrical charge. An electric current is used to move molecules to be separated through a gel. Pores in the gel work like a sieve, allowing smaller molecules to move faster than larger molecules. The conditions used during electrophoresis can be adjusted to separate molecules in a desired size range. \n\nRequired Lab: Histology</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS_TEST</LocID>                         
+			<Text>Electrophoresis Testing</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_CRP_ELECTROPHORESIS_TEST_DESC</LocID>                         
+			<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>	
+		</GameDBLocalizedString>
+		
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

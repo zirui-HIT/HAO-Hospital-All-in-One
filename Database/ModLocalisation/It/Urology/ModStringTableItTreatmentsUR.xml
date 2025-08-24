@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_IT_ADDON_URKN_TREATMENTS">
+	<LanguageCode>it</LanguageCode>
+	<LanguageNameLocalized>Italiano</LanguageNameLocalized>
+	<Contributors>
+	<Name>neoxes</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</LocID>                            
+		<Text>Litotrissia ad onde d'urto</Text> 
+	</GameDBLocalizedString>      
+	   
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY_DESC</LocID>              
+		<Text>La litotrissia è una procedura e tecnica che mira alla frantumazione e riduzione dei calcoli renali, vescicali ed ureterali, così da agevolarne l’eliminazione. Si tratta di un trattamento non chirurgico che utilizza onde d'urto ad ultrasuoni e ad alta energia per polverizzare i calcoli, consentendone il passaggio. \n\nStanze richieste: Unità di Ecografia al Rep. di Urologia e Nefrologia \n\nEquipaggiamento richiesto: Litotritore</Text>  
+	</GameDBLocalizedString>          
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>Orchidopessi</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>L'orchidopessi è l'intervento chirurgico col quale si fissa nello scroto il testicolo ritenuto o situato in posizione anormale. Questo intervento può essere risolutivo anche per la torsione testicolare.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>Orchiectomia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>L'orchiectomia l'intervento chirurgico di asportazione di uno o entrambi i testicoli. Insieme al testicolo, vengono asportati anche l'epididimo e il tratto prossimale del funicolo spermatico. L'intervento viene tipicamente eseguito come trattamento per il cancro ai testicoli, in alcuni casi di torsione testicolare ed è talvolta utilizzato nella gestione del cancro alla prostata avanzato.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>α1-bloccanti selettivi</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>Gli α1-bloccanti selettivi sono una classe di farmaci con azione bloccante dei recettori α1-adrenergici nelle arterie e nella muscolatura liscia utilizzati nella terapia di diverse patologie urologiche. Includono: alfuzosina, doxazosina, silodosina, tamsulosina, terazosina e naftopidil.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>Inibitori della 5α-reduttasi</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>Gli inibitori della 5α-reduttasi sono una classe di farmaci che inibiscono l'enzima 5α-reduttasi e la produzione di diidrotestosterone (DHT), ormone responsabile dell'allargamento della prostata. Includono: dutasteride, finasteride e turosteride.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>Resezione endoscopica della prostatae</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>La resezione endoscopica della prostata, nota anche come resezione transuretrale della prostata (TURP), è l'intervento di chirurgia per mezzo del quale si provvede alla rimozione parziale della prostata, negli uomini con ipertrofia prostatica benigna e problemi urinari associati.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>Inibitori della fosfodiesterasi PDE5</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>Gli inibitori della fosfodiesterasi PDE5 sono farmaci utilizzati nel trattamento della disfunzione erettile ed agiscono inibendo questo enzima e favorendo la vasodilatazione. Includono: sildenafil, tadalafil, vardenafil e avanafil.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>Trapianto di rene</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>Il trapianto di rene, o trapianto renale, è un intervento chirurgico che consiste nel prelevare un rene sano da un donatore deceduto o vivente ed impiantarlo nella parte anteriore dell'addome del paziente ricevente in sede extraperitoneale. Attualmente rappresenta il trattamento preferenziale per pazienti affetti da insufficienza renale cronica, in quanto è capace di restituire una normale funzionalità renale e permettere alla maggior parte dei pazienti il ritorno a una vita socialmente produttiva.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>Immunosoppressori</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>Gli immunosoppressori sono molecole che inibiscono la risposta immunitaria. Vengono usate in medicina per la terapia delle malattie autoimmuni e per prevenire il rigetto in seguito ad un trapianto.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>Dialisi</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>La dialisi, o emodialisi, è una terapia fisica sostitutiva della funzionalità renale, somministrata a soggetti nei quali essa è criticamente ridotta (uremia), condizione che rappresenta lo stadio più grave dell'insufficienza renale. Il procedimento sostituisce le quattro funzionalità di base del rene: rimozione delle sostanze tossiche, riequilibrio elettrolitico, riequilibrio acido-base e rimozione dei liquidi. \n\nStanze richieste: Centro Dialisi al Rep. di Urologia e Nefrologia \n\nEquipaggiamento Richiesto: Macchina per dialisi</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>Centro Dialisi</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>Centro Dialisi</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_2</LocID>                               
+		<Text>Dialisi</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>Vasectomia</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>La vasectomia è una procedura chirurgica per la sterilizzazione o la contraccezione permanente maschile. L'intervento consiste nella resezione, dopo legatura, dei dotti deferenti dell'uomo in modo da impedire allo sperma di entrare nell'uretra per fecondare la donna attraverso il rapporto sessuale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH</LocID>                               
+		<Text>Nefrectomia parziale</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH_DESC</LocID>                               
+		<Text>La nefrectomia è l'operazione chirurgica di rimozione parziale o totale di uno o entrambi i reni. La procedura viene eseguita per trattare il carcinoma renale, nonché altre malattie e lesioni dei reni, ed anche per rimuovere un rene sano da un donatore per il trapianto renale. Nella nefrectomia parziale viene rimossa solo la parte malata o lesa del rene.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH</LocID>                               
+		<Text>Nefrectomia radicale</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_DESC</LocID>                               
+		<Text>La nefrectomia è l'operazione chirurgica di rimozione parziale o totale di uno o entrambi i reni. La procedura viene eseguita per trattare il carcinoma renale, nonché altre malattie e lesioni dei reni, ed anche per rimuovere un rene sano da un donatore per il trapianto renale. Nella nefrectomia radicale viene rimosso l'intero rene, insieme ad alcune strutture associate, come l'uretere, la ghiandola surrenale e i tessuti adiposi circostanti.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA</LocID>                               
+		<Text>Nefrectomia radicale con trombectomia della vena cava inferiore</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA_DESC</LocID>                               
+		<Text>La nefrectomia è l'operazione chirurgica di rimozione parziale o totale di uno o entrambi i reni. Nella nefrectomia radicale con trombectomia della vena cava inferiore viene rimosso l'intero rene, insieme ad alcune strutture associate, nonché il trombo occludente la vena cava inferiore. Ciò può rendersi necessario a causa di un carcinoma renale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH</LocID>                               
+		<Text>Catetere urinario</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH_DESC</LocID>                               
+		<Text>Il catetere urinario è un tubo in lattice, poliuretano, oppure silicone, inserito nella vescica di un paziente attraverso l'uretra, al fine di drenare l'urina dalla vescica.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD</LocID>                               
+		<Text>Chirurgia della vescica</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD_DESC</LocID>                               
+		<Text>La chirurgia della vescica viene eseguita per risolvere il trauma alla vescica.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR</LocID>                               
+		<Text>Riparazione transvaginale</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR_DESC</LocID>                               
+		<Text>La riparazione transvaginale una procedura chirurgica eseguita attraverso la vagina, quindi non è necessaria alcuna incisione di grandi dimensioni.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH</LocID>                               
+		<Text>Chirurgia renale</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH_DESC</LocID>                               
+		<Text>La chirurgia renale viene eseguita per risolvere il trauma renale.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

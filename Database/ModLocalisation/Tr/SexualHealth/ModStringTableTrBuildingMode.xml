@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+	  <Name>xburcus</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_SH_OFFICE</LocID>
+        <Text>Cinsel Sağlık polikliniği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>
+        <Text>Cinsel sağlık uzmanı hekimin görev aldığı poliklinik. \nMin. gerekli personel:\n1x Doktor</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_SH_LAB</LocID>
+        <Text>Cinsel Sağlık laboratuvarı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>
+        <Text>Cinsel Sağlık laboratuvarı, tanısal amaçlı çeşitli testlerin uygulanmasına olanak tanır. \nMin. gerekli personel:\n1x Tekniker</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

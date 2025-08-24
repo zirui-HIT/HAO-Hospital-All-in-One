@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+ <GameDBObject ID="OBJECT_ANGIO_TABLE_1x">
+        <AbbreviationLocID>OBJECT_ANGIO_TABLE_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>402</TextureIDNW>
+        <TextureIDNE>405</TextureIDNE>
+        <TextureIDSE>394</TextureIDSE>
+        <TextureIDSW>397</TextureIDSW>
+        <IconIndex>723</IconIndex>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <Placement>INDOORS</Placement>
+        <PartOfCompositeObject>true</PartOfCompositeObject>
+
+        <AccessPositions/>
+
+        <UseDirection>SE</UseDirection>
+        <UseOffsetXNW>1</UseOffsetXNW>
+        <UseOffsetYNW>-0.5</UseOffsetYNW>
+
+        
+        <AttachedCharacterDirection>NE</AttachedCharacterDirection>
+        <AttachedToCharacterDirection>SW</AttachedToCharacterDirection>
+
+        <AttachedCharacterOffsetXNW>0</AttachedCharacterOffsetXNW>
+        <AttachedCharacterOffsetYNW>-0.5</AttachedCharacterOffsetYNW>
+
+        <AttachedCharacterOffsetXNE>0.5</AttachedCharacterOffsetXNE>
+        <AttachedCharacterOffsetYNE>0.0</AttachedCharacterOffsetYNE>
+
+        <AttachedCharacterOffsetXSE>0</AttachedCharacterOffsetXSE>
+        <AttachedCharacterOffsetYSE>0.5</AttachedCharacterOffsetYSE>
+
+        <AttachedCharacterOffsetXSW>-0.5</AttachedCharacterOffsetXSW>
+        <AttachedCharacterOffsetYSW>0</AttachedCharacterOffsetYSW>
+
+        <Tags>
+            <Tag>exam_table</Tag>
+            <Tag>ui_exam_table</Tag>
+            
+            <Tag>radiology_bed_head</Tag>
+            <Tag>transport_point</Tag>
+        </Tags>
+        <Cost>0</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_RADIOLOGY</ColorSetRef>
+ </GameDBObject>
+
+ <GameDBObject ID="OBJECT_ANGIO_TABLE_2x">
+        <AbbreviationLocID>OBJECT_ANGIO_TABLE_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>395</TextureIDNW>
+        <TextureIDNE>398</TextureIDNE>
+        <TextureIDSE>401</TextureIDSE>
+        <TextureIDSW>404</TextureIDSW>
+        <IconIndex>723</IconIndex>
+        <UseDirection>SE</UseDirection>
+        <UseOffsetXNW>-0.33</UseOffsetXNW>
+
+        
+        <OffsetZNW>0.15</OffsetZNW>
+        <OffsetZSW>0.15</OffsetZSW>
+        <OffsetZNE>0.15</OffsetZNE>
+        <OffsetZSE>0.15</OffsetZSE>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <Placement>INDOORS</Placement>
+        
+        <NeverChunked>true</NeverChunked>
+
+        <UseAnimationsStart>
+            <Animation>sit_exam_bed_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>sit_exam_bed_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>sit_exam_bed_out</Animation>
+        </UseAnimationsEnd>
+
+        <Tags>
+            <Tag>ui_hidden</Tag>
+            <Tag>sit_exam</Tag>
+            <Tag>exam_table</Tag>
+        </Tags>
+        <Cost>0</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_RADIOLOGY</ColorSetRef>
+ </GameDBObject>
+
+ <GameDBObject ID="OBJECT_ANGIO_TABLE_3x">
+        <AbbreviationLocID>OBJECT_ANGIO_TABLE_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>396</TextureIDNW>
+        <TextureIDNE>399</TextureIDNE>
+        <TextureIDSE>400</TextureIDSE>
+        <TextureIDSW>403</TextureIDSW>
+        <IconIndex>723</IconIndex>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <Placement>INDOORS</Placement>
+
+        <AccessPositions/>
+        
+        <Tags>
+            <Tag>ui_hidden</Tag>
+            <Tag>exam_table</Tag>
+        </Tags>
+        <Cost>0</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_RADIOLOGY</ColorSetRef>
+ </GameDBObject>
+
+ <GameDBObject ID="OBJECT_ANGIO_TRAILS_1x">
+        <AbbreviationLocID>OBJECT_ANGIO_TRAILS_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_ANIMATED</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>2</TextureIDNE>
+        <TextureIDSE>5</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <IconIndex>723</IconIndex>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+        </AccessPositions>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <Placement>INDOORS</Placement>
+
+        <Tags>
+            <Tag>ui_hidden</Tag>
+            <Tag>exam_table</Tag>
+        </Tags>
+        <Cost>0</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_RADIOLOGY</ColorSetRef>
+ </GameDBObject>
+
+ <GameDBObject ID="OBJECT_ANGIO_TRAILS_2x">
+        <AbbreviationLocID>OBJECT_ANGIO_TRAILS_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_ANIMATED</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>1</TextureIDNW>
+        <TextureIDNE>3</TextureIDNE>
+        <TextureIDSE>4</TextureIDSE>
+        <TextureIDSW>6</TextureIDSW>
+        <IconIndex>723</IconIndex>
+
+        <AccessPositions/>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <Placement>INDOORS</Placement>
+
+        <Tags>
+            <Tag/>
+        </Tags>
+        <Cost>0</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_RADIOLOGY</ColorSetRef>
+ </GameDBObject>
+ <GameDBObject ID="OBJECT_ANGIOGRAPH_ANIMATEDx">
+        <AbbreviationLocID>OBJECT_ANGIOGRAPH_ANIMATED</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_ANIMATED</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_8</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>16</TextureIDNW>
+        <TextureIDNE>17</TextureIDNE>
+        <TextureIDSE>18</TextureIDSE>
+        <TextureIDSW>19</TextureIDSW>
+        <IconIndex>723</IconIndex>
+
+        <GameDBAnimatedModel8DirControllerRef>OBJECT_ANGIOGRAPH_ARM_CONTROLLER</GameDBAnimatedModel8DirControllerRef>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>-1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+            <AccessPosition>
+                <m_x>0</m_x>
+                <m_y>-1</m_y>
+            </AccessPosition>
+            <AccessPosition>
+                <m_x>0</m_x>
+                <m_y>1</m_y>
+            </AccessPosition>
+        </AccessPositions>
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>false</AttachedToObject>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <Placement>INDOORS</Placement>
+
+        <OffsetZNW>0.0</OffsetZNW>
+        <OffsetZNE>0.0</OffsetZNE>
+        <OffsetZSE>-0.6</OffsetZSE>
+        <OffsetZSW>0.0</OffsetZSW>
+
+        <Durability>20</Durability>
+
+        <SoundEventUseStartRef>SFX_ENV_XRAY_SERVO</SoundEventUseStartRef>
+
+        <Tags>
+            <Tag>ui_hidden</Tag>
+            <Tag>exam_table</Tag>
+        </Tags>
+
+        <Cost>0</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_XRAY</ColorSetRef>
+ </GameDBObject>、
+ 
+</Database>

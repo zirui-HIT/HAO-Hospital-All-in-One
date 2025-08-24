@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_DE_ADDON_URKN_SKILLS">
+	
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<Contributors>
+		<Name>TristanTurner</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+	<GameDBLocalizedString>      
+		<LocID>DPT_URKN</LocID>                                          	
+		<Text>Urologie / Nephrologie</Text>  
+	</GameDBLocalizedString>
+
+
+
+
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR</LocID>                   
+		<Text>Urologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_DESC</LocID>                   
+		<Text>Die Urologie bietet Zugang zu speziellen Verfahren zur Erkennung, Diagnose und Behandlung verschiedener Formen von Krankheiten in der urologischen Abteilung.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY</LocID>                   
+		<Text>Urogenital Operationssaal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY_DESC</LocID>                   
+		<Text>Die Urogenitalchirurgie ermöglicht es dem Arzt, als Hauptchirurg in der urologischen Abteilung zu fungieren, und beeinflusst, wie oft Operationen zu Komplikationen führen. </Text>
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_NL_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>nl</LanguageCode>
+        <LanguageNameLocalized>Nederlands</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Spookiieej</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE</LocID>                    			<Text>Kantoor voor seksuele gezondheid</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>        			<Text>Een dokterskamer gespecialiseerd in seksuele gezondheid. Personeel benodigd:\n1x Dokter</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB</LocID>                    			<Text>Laboratorium voor seksuele gezondheid</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>        			<Text>Het laboratorium voor seksuele gezondheid geeft de mogelijkheid tot een grote hoeveelheid testen om verschillende diagnoses te bevestigen.\nMin. \nMin. Personeel benodigd:\n1x Laborant</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

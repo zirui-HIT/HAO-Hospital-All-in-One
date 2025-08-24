@@ -1,0 +1,945 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+	<GameDBAsset ID="ASSET_TEX_PLAS_DECALS">
+		<Type>TEXTURE_OBJECTS</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_decals_2048_atlas.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_TEX_PLAS_CUSTOM_ICON001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/decal_slp_001.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_MOD_ICON_PLAS">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_skill_icon_plas.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_MOD_ICON_PLAS_DARK">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_skill_icon_plas_dark.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_MOD_ICON_PLAS2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_skill_icon_plas2.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_MOD_ICON_PLAS_DARK2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_skill_icon_plas_dark2.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_0">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_0.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_1.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_2.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_3.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_4.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_5.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DPT_ICON_6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/mod_dept_icon_6.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_breast1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_breast1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_breast2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_breast2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_lipo1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_lipo1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_nose1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_nose1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_eye1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_eye1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_eye2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_eye2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_hair1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_hair1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_015">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_016">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_017">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_vein1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_018">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_vein1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_019">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_vein2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_020">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_vein2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_021">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_hand1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_022">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_hand1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_023">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_scar1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_024">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_scar1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_025">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_scar2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_026">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_scar2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_027">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_replant01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_028">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_replant01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_029">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_030">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_031">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin3a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_032">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin3b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_033">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin4a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_034">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_skin4b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_035">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_036">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_037">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a02a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_038">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a02b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_039">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a03a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_040">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a03b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_041">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a04a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_042">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a04b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_043">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a05a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_044">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a05b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_045">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a06a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_046">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a06b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_047">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a07a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_048">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a07b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_049">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a08a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_050">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_a08a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_051">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a09a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_052">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a09b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_053">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a10a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_054">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a10b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_055">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_cheek01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_056">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_cheek01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_057">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_CHKUPcheek01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_058">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_CHKUPcheek01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_059">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_CHKUPtummy01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_060">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_CHKUPtummy01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_061">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_tummy01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_062">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_tummy01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_063">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_varvein01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_064">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_varvein01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_065">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_venousulcer01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_DIA_ICON_066">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/dia_slp_venousulcer01b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_079">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_csfrhinorrhea01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_080">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_csfrhinorrhea01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_081">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_disapp_a02a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_082">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_disapp_a02b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_083">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_droopyeyelid01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_084">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_droopyeyelid01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_085">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_lossofeyemovement_a07a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_086">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_lossofeyemovement_a07b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_087">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_lownosebridge_a01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_088">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_lownosebridge_a01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_089">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_nasalhema01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_090">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_nasalhema01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_091">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_nosehigh_a04a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_092">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_nosehigh_a04b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_093">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_nostriluneven_a05a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_094">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_nostriluneven_a05b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_095">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_ocularextruding_a06a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_096">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_ocularextruding_a06b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_097">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_pinchednose_a03a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_098">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_pinchednose_a03b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_099">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_tissueshrapdam01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_100">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_tissueshrapdam01b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_101">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_cheeckfailed01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_102">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_cheeckfailed01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_103">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_infectedsurgery1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SYM_ICON_104">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_infectedsurgery1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_burningsense01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_burningsense01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_chronicvenousins01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_chronicvenousins01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_ecchymosis01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_ecchymosis01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_facebruise1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_facebruise1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_firstdegreeburn01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_firstdegreeburn01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_lossofumb01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_lossofumb01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_skindiscolour01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_skindiscolour01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_015">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_thrombophlebitis01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_016">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_thrombophlebitis01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_017">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_ucleration01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_CRP_A_SYM_ICON_018">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_slp_ucleration01b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a02a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a02b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a03a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a03b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a08a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sym_main_dia_slp_a08b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_cheek01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_cheek01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_tummy01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_tummy01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_varvein01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_varvein01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_015">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_venousulcer01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_MSYM_ICON_016">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/main_sym_slp_venousulcer01b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_031">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_l01hospitmonitor01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_032">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_l01hospitmonitor01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_033">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_l02hospitmonitor01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_034">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_l02hospitmonitor01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_035">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_l03hospitmonitor01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_036">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_l03hospitmonitor01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_037">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_skintweeser01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_TRT_ICON_038">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/trt_skintweeser01b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_breast1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_breast1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_correct1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_correct1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_scar1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_scar1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_007">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_breast2a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_008">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_breast2b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_nose1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_nose1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_011">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_eye1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_012">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_eye1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_sl_emsurgery1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_sl_emsurgery1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_015">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_sl_hairtransplant1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_016">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_sl_hairtransplant1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_017">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_replant1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_018">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_replant1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_019">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_enucleation01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_020">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_enucleation01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_021">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_mastopexy01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_022">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_mastopexy01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_023">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_septoplasty02a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_024">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_septoplasty02b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_025">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_cheek01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_026">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_cheek01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_027">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_cheekfail01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_028">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_cheekfail01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_029">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_debridement01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_030">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_debridement01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_031">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_laser01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_032">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_laser01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_033">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_tummy01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_SUR_ICON_034">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/sur_slp_tummy01b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PLAS_EXM_ICON_001">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/exm_electrophoresis_sample_01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_EXM_ICON_002">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/exm_electrophoresis_sample_01b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_EXM_ICON_003">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/exm_electrophoresis_test_01a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PLAS_EXM_ICON_004">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Plastic/exm_electrophoresis_test_01b.png</File>
+	</GameDBAsset>
+
+
+</Database>

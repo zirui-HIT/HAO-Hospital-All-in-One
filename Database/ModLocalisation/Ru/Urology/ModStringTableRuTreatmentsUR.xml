@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_RU_ADDON_URKN_TREATMENTS">
+	<LanguageCode>ru</LanguageCode>
+	<LanguageNameLocalized>Русский</LanguageNameLocalized>
+	<Contributors>
+	<Name>Anubis</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</LocID>                            
+		<Text>Ударно-волновая литотрипсия</Text> 
+	</GameDBLocalizedString>      
+	   
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY_DESC</LocID>              
+		<Text>Процедура, обычно выполняемая для разрушения камней, находящихся в уретре (трубка, соединяющая почку с мочевым пузырем). Это нехирургический вариант лечения с использованием ударных волн ультразвука высокой энергии, чтобы разбить камни в пыль, позволяя им пройти. \n\nНеобходимая комната: Сонографическое отделение в отделении общей хирургии \n\nНеобходимое оборудование: Терапия ударной волной</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>Орхипексия</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>Орхиопексия - это операция по перемещению неопущенного яичка в мошонку и фиксации его там навсегда. Орхиопексия обычно также описывает операцию, используемую для устранения перекрута яичка.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>Орхиэктомия</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>Орхиэктомия - это хирургическая процедура, при которой удаляются одно или оба яичка (двусторонняя орхиэктомия). Операция, как правило, проводится в качестве лечения рака яичка, в некоторых случаях перекрута яичка, как процедура подтверждения пола для некоторых транс-женщин, а иногда используется для лечения распространенного рака предстательной железы.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>Селективные α1-блокаторы</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>Селективные α1-блокаторы. Они включают алфузозин, доксазозин, силодозин, тамсулозин, теразозин и нафтопидил</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>Ингибиторы 5α-редуктазы</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>Ингибиторы 5α-редуктазы финастерид и дутастерид могут также использоваться у мужчин с ДГПЖ. Эти препараты ингибируют фермент 5α-редуктазу, который, в свою очередь, ингибирует выработку DHT, гормона, ответственного за увеличение предстательной железы.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>Трансуретральная резекция простаты</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>Трансуретральная резекция простаты считается наиболее эффективным подходом для улучшения симптомов мочеиспускания и оттока мочи, однако эта хирургическая процедура может быть связана с осложнениями у 20% мужчин.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>Ингибиторы PDE5.</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>Ингибиторы PDE5 силденафил (виагра), варденафил (левитра) и тадалафил (сиалис) являются рецептурными препаратами, которые принимаются внутрь.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>Пересадка почки</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>Трансплантация почки - это пересадка органа почки пациенту с терминальной стадией заболевания почек. Трансплантация почки обычно классифицируется как трансплантация умершего донора или живого донора в зависимости от источника донорского органа.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>Иммуносупрессоры</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>Иммуносупрессоры - это препараты, которые подавляют активность иммунной системы, чтобы организм не отвергал новый орган.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>Диализ</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>Это процесс удаления из организма продуктов обмена веществ из кровотока, когда почки не способны поддерживать эту функцию. \n\nНеобходимая комната: палата диализа в отделении урологии \n\nНеобходимое оборудование: Аппарат для диализа</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>Палата диализа</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>Палата диализа</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>Вазэктомия</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>Вазэктомия - это хирургическая процедура мужской стерилизации или постоянной контрацепции. Во время процедуры мужские семявыносящие протоки обрезают и связывают или запечатывают, чтобы предотвратить попадание сперматозоидов в уретру и тем самым предотвратить оплодотворение женщины при половом акте.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH</LocID>                               
+		<Text>Частичная нефрэктомия</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH_DESC</LocID>                               
+		<Text>Нефрэктомия - это хирургическое удаление почки. Процедура проводится для лечения рака почки, а также других заболеваний и травм почек. Нефрэктомия также проводится для удаления здоровой почки от донора для трансплантации. При частичной нефрэктомии удаляется только пораженная или поврежденная часть почки.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH</LocID>                               
+		<Text>Радикальная нефрэктомия</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_DESC</LocID>                               
+		<Text>Нефрэктомия - это хирургическое удаление почки. Процедура проводится для лечения рака почки, а также других заболеваний и травм почек. Нефрэктомия также проводится для удаления здоровой почки от донора для трансплантации. Радикальная нефрэктомия включает в себя удаление всей почки вместе с участком трубки, ведущей к мочевому пузырю, железой, которая находится на верхней части почки, и жировой тканью, окружающей почку.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA</LocID>                               
+		<Text>Радикальная нефрэктомия с тромбэктомией нижней полой вены</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA_DESC</LocID>                               
+		<Text>Нефрэктомия - это хирургическое удаление почки. Процедура проводится для лечения рака почки, а также других заболеваний и травм почек. Радикальная нефрэктомия с тромбэктомией нижней полой вены (IVC) используется, когда рак перерос в близлежащие вены (как при некоторых III стадиях рака). Вашему хирургу, возможно, потребуется разрезать эти вены, чтобы удалить весь рак. Для этого может потребоваться обходной путь (аппарат искусственного кровообращения), чтобы можно было на короткое время остановить сердце, чтобы удалить рак из большой вены, ведущей к сердцу.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH</LocID>                               
+		<Text>Мочевой катетер</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH_DESC</LocID>                               
+		<Text>Мочевой катетер: дренирование мочи из мочевого пузыря, как при катетеризации мочи.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD</LocID>                               
+		<Text>Хирургия мочевого пузыря</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD_DESC</LocID>                               
+		<Text>Хирургия мочевого пузыря проводится для устранения травмы мочевого пузыря.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR</LocID>                               
+		<Text>Трансвагинальное восстановление</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR_DESC</LocID>                               
+		<Text>Трансвагинальное восстановление: процедура, выполняемая через влагалище, поэтому не требуется большого разреза.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH</LocID>                               
+		<Text>Хирургия почек</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH_DESC</LocID>                               
+		<Text>Хирургия почек</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

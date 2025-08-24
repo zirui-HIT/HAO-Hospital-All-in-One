@@ -1,0 +1,852 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C001_V2">
+        <DescriptionLocID>SYM_PLAS_C001_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_AUGMENTATION_MAMMOPLASTY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_002</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C002_V2">
+        <DescriptionLocID>SYM_PLAS_C002_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_SAL</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_005</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_006</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C003_V2">
+        <DescriptionLocID>SYM_PLAS_C003_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_RHINOPLASTY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_007</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_008</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C004_V2">
+        <DescriptionLocID>SYM_PLAS_C004_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_HAIRT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_013</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_014</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C005">
+        <DescriptionLocID>SYM_PLAS_C005_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMPEEL_L</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_015</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_016</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C006">
+        <DescriptionLocID>SYM_PLAS_C006_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_019</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_020</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C007">
+        <DescriptionLocID>SYM_PLAS_C007_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_BOTOX</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_029</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_030</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C008">
+        <DescriptionLocID>SYM_PLAS_C008_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_HYAACID_FILL</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_031</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_032</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C009">
+        <DescriptionLocID>SYM_PLAS_C009_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_033</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_034</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R001">
+        <DescriptionLocID>SYM_PLAS_R001_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_BOTOX</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_009</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_010</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R002_V2">
+        <DescriptionLocID>SYM_PLAS_R002_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PLAS_EYEMSURGERY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_011</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_012</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R003">
+        <DescriptionLocID>SYM_PLAS_R003_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_SCLEROTHERAPY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_SYM_ICON_055</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_SYM_ICON_056</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R004_M">
+        <DescriptionLocID>SYM_PLAS_R004_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHE_INJECT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef/>
+		<CustomIconSmallAssetRef/>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R004_F">
+        <DescriptionLocID>SYM_PLAS_R004_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHE_INJECT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef/>
+		<CustomIconSmallAssetRef/>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R005">
+        <DescriptionLocID>SYM_PLAS_R005_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CORTICOSTEROID_INJECTIONS2</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_023</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_024</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R006">
+        <DescriptionLocID>SYM_PLAS_R006_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CRYOSURGERY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_025</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_026</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_RT001_V2">
+        <DescriptionLocID>SYM_PLAS_RT001_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+		
+		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PLAS_REPLANT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_027</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_028</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+    
+	
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C010">
+        <DescriptionLocID>SYM_PLAS_C010_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_MASTOPEXY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_002</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C011">
+        <DescriptionLocID>SYM_PLAS_C011_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_SEPTOPLASTY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_003</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_004</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R008">
+        <DescriptionLocID>SYM_PLAS_R008_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_RHINOPLASTY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_041</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_042</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_RT002">
+        <DescriptionLocID>SYM_PLAS_RT002_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+		
+		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PLAS_REPLANT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_005</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_006</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_RT003">
+        <DescriptionLocID>SYM_PLAS_RT003_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+		
+		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+		
+        <Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PLAS_ENUCLEATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_007</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_008</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU001">
+        <DescriptionLocID>SYM_PLAS_CKU001_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_043</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_044</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU002">
+        <DescriptionLocID>SYM_PLAS_CKU002_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_045</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_046</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU003">
+        <DescriptionLocID>SYM_PLAS_CKU003_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_047</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_048</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU004">
+        <DescriptionLocID>SYM_PLAS_CKU004_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_051</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_052</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU005">
+        <DescriptionLocID>SYM_PLAS_CKU005_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_053</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_054</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C012">
+        <DescriptionLocID>SYM_PLAS_C012_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_CHEEK_AUGMENTATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_009</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_010</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_C013">
+        <DescriptionLocID>SYM_PLAS_C013_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_ABDOMINOPLASTY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_011</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_012</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R009">
+        <DescriptionLocID>SYM_PLAS_R009_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PLAS_ENDOVENOUS_LASER_AB</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_013</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_014</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_R010">
+        <DescriptionLocID>SYM_PLAS_R010_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PLAS_SURGICAL_DEBRIDEMENT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_MSYM_ICON_015</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_MSYM_ICON_016</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU006">
+        <DescriptionLocID>SYM_PLAS_CKU006_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_057</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_058</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	
+	<GameDBSymptom ID="SYM_PLAS_CKU007">
+        <DescriptionLocID>SYM_PLAS_CKU007_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_PLAS_DIA_ICON_059</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_PLAS_DIA_ICON_060</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+</Database>

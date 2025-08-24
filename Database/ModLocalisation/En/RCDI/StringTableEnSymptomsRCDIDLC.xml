@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_SYMPTOMS_RCDI">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Butch</Name>
+            
+        </Contributors>
+
+        <LocalizedStrings>
+            
+            
+            <GameDBLocalizedString>      <LocID>SYM_EXHAUSTION</LocID>                                      <Text>Severe Dehyrdation</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_EXHAUSTION_DESCRIPTION</LocID>                          <Text>The patient has lost a very large volume of water and bodily fluids. A medical emergency requiring immediate and aggressive rehydration!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE</LocID>                                   <Text>Cardiac Arrest</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEART_FAILURE_DESCRIPTION</LocID>                       <Text>Cardiac arrest is a sudden loss of blood flow resulting from the failure of the heart to pump effectively.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>SYM_GALLSTONES_RCDI</LocID>                                 <Text>Gallstones Discovered</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_GALLSTONES_RCDI_DESCRIPTION</LocID>                     <Text>Abdominal ultrasound has revealed the presence of gallstones blocking the pancreatic duct.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>SYM_PANCREATIC_ENZYMES_ELEVATED_RCDI</LocID>                <Text>Elevated Pancreatic Enzymes</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_ENZYMES_ELEVATED_RCDI_DESCRIPTION</LocID>    <Text>The patient has elevated levels of pancreatic enzymes in the blood.</Text>  </GameDBLocalizedString>
+			 
+			 
+			 
+			 
+			<GameDBLocalizedString>      <LocID>SYM_INFLAMMED_BILDUCT</LocID>                               <Text>Biliary dilation due to obstruction</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_INFLAMMED_BILDUCT_DESCRIPTION</LocID>                   <Text>Diagnostic imaging reveals an obstructed and inflamed bile duct. This finding with the overall clinical picture suggests a diagnosis of Acute Cholangitis.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>SYM_BRAIN_ARTERIES_BLOCKED</LocID>                          <Text>Brain arteries blocked</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BRAIN_ARTERIES_BLOCKED_DESCRIPTION</LocID>              <Text>Diagnostic imaging has revealed the blockage of a vital blood vessel in the brain due to blood clots.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>SYM_PANCREATIC_TISSUE_INFLAMMED</LocID>                     <Text>Pancreatic inflammation</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_PANCREATIC_TISSUE_INFLAMMED_DESCRIPTION</LocID>         <Text>Diagnostic imaging shows inflammation of the pancreas.</Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

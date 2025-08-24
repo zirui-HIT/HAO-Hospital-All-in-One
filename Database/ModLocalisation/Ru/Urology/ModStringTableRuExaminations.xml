@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+        <Contributors>
+        <Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Паховая орхиэктомия</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>Паховая орхиэктомия - это особый метод орхиэктомии, при котором одно или оба яичка и полный семенной канатик удаляются хирургическим путем через разрез в нижней боковой части живота. Процедура обычно выполняется урологом, как правило, если есть подозрение на рак яичка. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Тестирование полученного яичка при паховой орхиэктомии</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Тестирование полученного яичка при паховой орхиэктомии.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Пальпация яичка</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>При пальпации мошонки и ее содержимого выявляется наличие, размер, положение и форма яичек и их придатков. Нормальное яичко яйцевидное, гладкое, твердое и слегка болезненное при пальпации. Яичко легко отделяется от придатка яичка, который лежит сзади и слегка латерально от яичка.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Test potlačení dexamethasonu - odběry</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Test potlačení dexamethasonu - testy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>Test potlačení dexamethasonu (DST) se používá k hodnocení funkce nadledvin měřením toho, jak se mění hladiny kortizolu v reakci na injekci dexamethasonu. Obvykle se používá k diagnostice Cushingova syndromu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>ACTH stimulační test - odběry</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>ACTH stimulační test - testy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>Test ACTH (nazývaný také test na kosyntropin, tetrakosaktid nebo Synacthen) je lékařský test, který obvykle objednávají a interpretují endokrinologové k posouzení funkce stresové reakce nadledvin měřením reakce nadledvin na adrenokortikotropní hormon (ACTH; kortikotropin) nebo jiný kortikotropní látka, jako je tetrakosaktid (cosyntropin, tetrakosaktrin; Synacthen) nebo alsactid (Synchrodyn). ACTH je hormon produkovaný v přední hypofýze, který stimuluje nadledviny k uvolňování kortizolu, dehydroepiandrosteronu (DHEA), dehydroepiandrosteron sulfátu (DHEA-S) a aldosteronu. Během testu se vstřikuje malé množství syntetického ACTH a měří se množství kortizolu (a někdy aldosteronu), které nadledviny produkují v reakci. Tento test může u některých jedinců způsobit mírné nežádoucí účinky.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>Coombsův test - odběry</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>Coombsův test - testy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>Coombsův test, známý také jako antiglobulinový test (AGT), je jedním ze dvou krevních testů používaných v imunohematologii. Jedná se o přímé a nepřímé Coombsovy testy. Přímý Coombsův test detekuje protilátky, které se lepí na povrch červených krvinek.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>Rozbití chromozomu - odběry</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>Rozbití chromozomu - testy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>Analýza rozbití chromozomu je testem pro posouzení genomové nestability.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++ v0.02 +++
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

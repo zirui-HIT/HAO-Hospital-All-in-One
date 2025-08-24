@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PTBR_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>ptbr</LanguageCode>
+        <LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Nathan Silva</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== CRP - translate and transfer to CRP ================================================== -->
+<!-- 		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Sal de potássio</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>O mais utilizado é o cloreto de potássio na forma microencapsulada. É um suplemento oral de potássio</Text>	</GameDBLocalizedString>
+-->
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Substituição da válvula</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>A cirurgia de substituição da válvula é a substituição de uma ou mais válvulas cardíacas por uma válvula cardíaca artificial ou por uma bioprótese.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Marcapasso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>Um marcapasso cardíaco (ou marcapasso artificial, para não ser confundido com o marcapasso natural do coração), é um dispositivo médico que gera impulsos elétricos entregues pelos eletrodos para causar as câmaras do músculo cardíaco (a parte superior ou os átrios e / ou a ventrículos inferiores) para contrair e, portanto, bombear sangue; ao fazê-lo, este dispositivo substitui e / ou regula a função do sistema de condução elétrica do coração.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Desfibrilador cardioversor implementável</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Um cardioversor-desfibrilador implantável (CDI) ou cardioversor-desfibrilador implantável automático (AICD) é um dispositivo implantável no interior do corpo, capaz de realizar cardioversão, desfibrilação e estimulação cardíaca (nas versões modernas). O dispositivo é, portanto, capaz de corrigir a maioria das arritmias cardíacas com risco de vida. O CDI é o tratamento de primeira linha e a terapia profilática para pacientes em risco de morte cardíaca súbita devido a fibrilação ventricular e taquicardia ventricular. Os dispositivos atuais podem ser programados para detectar ritmos cardíacos anormais e administrar terapia através de estimulação programável de antitaquicardia, além de choques de baixa e alta energia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revascularização</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>O bypass vascular e a angioplastia são os dois principais meios de revascularização.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>A fasciotomia ou fasciectomia é um procedimento cirúrgico no qual a fáscia é cortada para aliviar a tensão ou pressão comumente para tratar a perda de circulação resultante em uma área de tecido ou músculo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Stent</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Exclusão da área aneurismática do fluxo circulatório por interposição de uma prótese vascular. No achatamento do enxerto, o tubo protético é suturado acima e abaixo do aneurisma para reconstruir a artéria.</Text>	</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

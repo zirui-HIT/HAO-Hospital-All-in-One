@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <GameDBOccupation ID="OCCUPATION_MECHANIC">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_OLDER</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <IncompatibleBodyTypes>
+            <BodyTypeRef>BODYTYPE_BIG</BodyTypeRef>
+        </IncompatibleBodyTypes>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_POLITICIAN">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_PILOT">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <IncompatibleBodyTypes>
+            <BodyTypeRef>BODYTYPE_BIG</BodyTypeRef>
+        </IncompatibleBodyTypes>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_JOURNALIST">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_POLICEOFFICER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_LIBRARIAN">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_MUSICIAN">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_MID</AgeCategoryRef>
+            <AgeCategoryRef>AGE_OLDER</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <IncompatibleBodyTypes>
+            <BodyTypeRef>BODYTYPE_BIG</BodyTypeRef>
+            <BodyTypeRef>BODYTYPE_MEDIUM</BodyTypeRef>
+        </IncompatibleBodyTypes>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_UNEMPLOYED">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_GAMEDEV">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_OLDER</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_VET">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+
+    <GameDBOccupation ID="OCCUPATION_JUDGE">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_FIREFIGHTER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_LAWYER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_BUSDRIVER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_STATISTICIAN">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_PROGRAMMER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_PHOTOGRAPHER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_MODEL">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_MID</AgeCategoryRef>
+            <AgeCategoryRef>AGE_OLDER</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <IncompatibleBodyTypes>
+            <BodyTypeRef>BODYTYPE_BIG</BodyTypeRef>
+            <BodyTypeRef>BODYTYPE_MEDIUM</BodyTypeRef>
+        </IncompatibleBodyTypes>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_CORONER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_MID</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_ECONOMIST">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+
+    <GameDBOccupation ID="OCCUPATION_INTERPRETER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_OFFICER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_SOLDIER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_OLDER</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_PRIEST">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_MASSEUR">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_HAIRDRESSER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_FARMER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_GARDENER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_PSYCHOTHERAPIST">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_BUSINESS</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_BUSINESS</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+    <GameDBOccupation ID="OCCUPATION_PLUMBER">
+        <IncompatibleAgeCategories>
+            <AgeCategoryRef>AGE_YOUNG</AgeCategoryRef>
+            <AgeCategoryRef>AGE_SENIOR</AgeCategoryRef>
+        </IncompatibleAgeCategories>
+        <CompatibleClothingStyles>
+            <ClothingStyleRef>CLTHSTL_MALE_CASUAL</ClothingStyleRef>
+            <ClothingStyleRef>CLTHSTL_FEMALE_CASUAL</ClothingStyleRef>
+        </CompatibleClothingStyles>
+        <CanBeGenerated>true</CanBeGenerated>
+    </GameDBOccupation>
+
+</Database>

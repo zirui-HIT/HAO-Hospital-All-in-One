@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE</LocID>                    			<Text>STD Orvosi Rendelő</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>        			<Text>STD rendelésre szakosodott orvos. Személyzet:\n1x Orvos</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB</LocID>                    			<Text>STD Laboratórium</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>        			<Text>Az STD Laboratórium sokféle tesztet biztosít a különböző diagnózisok megerősítésére.\nMin.  Személyzet:\n1x Technikus</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

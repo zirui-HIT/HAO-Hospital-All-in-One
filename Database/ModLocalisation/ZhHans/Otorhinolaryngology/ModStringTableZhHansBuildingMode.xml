@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_ZHHANS_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>zh-Hans</LanguageCode>
+<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+<Contributors>
+<Name>WDZRMPCBIT</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>耳鼻喉科诊室</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>专注于耳、鼻和喉科的医生办公室。人员要求：\n1 名医生</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>诊断室</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>耳鼻喉科住院诊断室为住院患者提供检查和治疗程序。\n\n最低人员要求：\n1 名医生\n（人员驻扎在值班室）</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>超声检查室</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>超声检查室提供特定的超声检查与治疗。\n\n最低人员要求：\n1 名超声技师</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB</LocID>                               
+		<Text>睡眠实验室</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB_DESC</LocID>                   
+		<Text>睡眠实验室为患者提供睡眠监测。\n\n最低人员要求：\n1 名医生</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR</LocID>                               
+		<Text>听力图室</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR_DESC</LocID>                   
+		<Text>耳鼻喉科听力图室为可能有听力损失的住院患者提供听力测试。\n\n最低人员要求：\n1 名超声技师</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_LAB</LocID>                               
+		<Text>耳鼻喉实验室</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_LAB_DESC</LocID>                   
+		<Text>耳鼻喉实验室为难以通过常规检查确诊的特殊疾病提供专业和高级实验室检查。\n\n最低人员要求：\n1 名生化技师</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT</LocID>                               
+		<Text>耳鼻喉内窥镜室</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT_DESC</LocID>                   
+		<Text>耳鼻喉内窥镜室为患者的耳、鼻或喉部提供内窥镜检查和高级活检，以排查肿瘤或异常情况。\n\n最低人员要求：\n1 名超声技师</Text>
+	</GameDBLocalizedString>
+            
+	
+   
+    
+	
+   	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
+	<Text>耳鼻喉贴花</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>                       	
+	<Text>墙面贴花</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>                       	
+	<Text>竹子植物</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>                       	
+	<Text>一种装饰性植物</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>                       	
+	<Text>海报 - 新冠</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>                       	
+	<Text>一种装饰品</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>                       	
+	<Text>海报 - 链球菌性咽炎</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>                       	
+	<Text>一种装饰品</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>                       	
+	<Text>空架子</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>                       	
+	<Text>装饰用空架子</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF</LocID>                       	
+	<Text>药品架</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
+	<Text>装饰用的药物架子</Text>  
+	</GameDBLocalizedString>
+	
+
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH</LocID>                       	
+	<Text>多导睡眠图仪</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</LocID>                       	
+	<Text>多导睡眠图仪是一种睡眠多图记录设备，用于记录睡眠患者的多种生理变量，包括心率（心电图）、呼吸特征、大脑活动（脑电图）和肌肉活动（肌电图）。</Text>  
+	</GameDBLocalizedString>
+	
+	
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>耳鼻喉科诊室</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>耳鼻喉科诊室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN_ABBR</LocID>                       	
+	<Text>高级耳鼻喉科诊室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL_ABBR</LocID>                       	
+	<Text>听力图室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE_ABBR</LocID>                       	
+	<Text>听力图室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>诊断室</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>诊断室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN_ABBR</LocID>                       	
+	<Text>高级诊断室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_SMALL_ABBR</LocID>                       	
+	<Text>洗手间</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_ABBR</LocID>                       	
+	<Text>洗手间</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_COMMON_ROOM_ABBR</LocID>                       	
+	<Text>公共休息区</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_CLEANING_CLOSET_ABBR</LocID>                       	
+	<Text>清洁间</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT_ABBR</LocID>                       	
+	<Text>值班室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT_ABBR</LocID>                       	
+	<Text>值班室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT_ABBR</LocID>                       	
+	<Text>护士站</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT_ABBR</LocID>                       	
+	<Text>护士站</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL_ABBR</LocID>                       	
+	<Text>高级病房</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE_ABBR</LocID>                       	
+	<Text>高级病房</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL_ABBR</LocID>                       	
+	<Text>普通病房</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE_ABBR</LocID>                       	
+	<Text>普通病房</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_SONOGRAPHY_UNIT_OT_ABBR</LocID>                       	
+	<Text>超声检查室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_SLEEP_LAB_OT_ABBR</LocID>                       	
+	<Text>睡眠实验室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>                       	
+	<Text>手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>PREFAB_ROOM_LOUNGE_OT_ABBR</LocID>                       	
+	<Text>休息室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_LAB_SMALL_ABBR</LocID>                       	
+	<Text>耳鼻喉实验室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_LAB_ABBR</LocID>                       	
+	<Text>耳鼻喉实验室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_ENDO_SMALL_ABBR</LocID>                       	
+	<Text>耳鼻喉内窥镜室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</LocID>                       	
+	<Text>耳鼻喉内窥镜室</Text>  
+	</GameDBLocalizedString>
+	
+	
+
+    <GameDBLocalizedString>      
+	<LocID>TOOLTIP_BUILDING_PREFAB_OTORHINOLARYNGOLOGY</LocID>                       	
+	<Text>耳鼻喉科</Text>  
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

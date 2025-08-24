@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_KR_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+		<Name>LimeCake</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+		
+			
+		<GameDBLocalizedString>      
+			<LocID>DPT_ONCOLOGY</LocID>                                          	
+			<Text>종양학과</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+			<Text>종양학과</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+			<Text>종양학은 다양한 형태의 암을 발견, 진단 및 치료하기 위한 전문적인 절차 지식입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+			<Text>외과 종양학</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+			<Text>외과 종양학은 의사가 종양학과의 수술 집도의 역할을 할 수 있게 해주며, 수술 합병증 유발 가능성에 영향을 줍니다.</Text>  
+		</GameDBLocalizedString>
+
+		
+		
+			
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

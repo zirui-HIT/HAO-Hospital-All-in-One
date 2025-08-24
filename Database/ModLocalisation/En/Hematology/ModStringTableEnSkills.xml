@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MOD_HEMATOLOGY">
+
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>Leo</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>DPT_HEMATOLOGY</LocID>
+				<Text>Hematology</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_HEM</LocID>
+				<Text>Hematology</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_HEM_DESC</LocID>
+				<Text>Hematological disease is an abbreviation for diseases of the hematopoietic system. It refers to diseases that originate in or primarily affect the hematopoietic system (composed of blood and hematopoietic tissues) and are mainly characterized by blood abnormalities. These diseases are diverse, research is advancing rapidly, clinical manifestations often lack specificity, laboratory tests are of great significance, and secondary hematological diseases are common. Hematology is an independent branch of medical science that focuses on the study of blood and hematopoietic tissues.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

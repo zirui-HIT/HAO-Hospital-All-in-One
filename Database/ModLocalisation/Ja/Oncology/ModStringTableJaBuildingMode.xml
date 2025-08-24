@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_JA_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>ja</LanguageCode>
+<LanguageNameLocalized>日本語</LanguageNameLocalized>
+<Contributors>
+<Name>Clamm0363</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
+		<Text>腫瘍科診察室</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
+		<Text>腫瘍科診察室は外来患者用の基本的な診察室です。\n\n必要スタッフ: \n1x 医師</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO</LocID>       			
+		<Text>腫瘍科A</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_ONCO_DESC</LocID>       
+		<Text>壁デカール</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO1</LocID>       			
+		<Text>腫瘍科B</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO2</LocID>       			
+		<Text>腫瘍科C</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO3</LocID>       			
+		<Text>腫瘍科D</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>                               
+		<Text>診断室</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>                   
+		<Text>腫瘍科の診断室では入院患者に対し検査と治療のための一連の手続きが行われます。\n\n必要スタッフ: \n1x 医師 \n(医師待機室より派遣)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>                   
+		<Text>神経検査室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>       
+		<Text>神経検査室では特定の神経に関する検査が行われます。\n\n必要スタッフ: \n1x 技師 - 神経外科</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>                     
+		<Text>超音波検査室</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>         
+		<Text>超音波検査室では超音波を利用した検査と治療が行われます。\n\n必要スタッフ: \n1x 技師 - 超音波装置</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+            
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT01</LocID>                               
+		<Text>がん啓発ポスター</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT01_DESC</LocID>                   
+		<Text>がん患者に希望を与える額縁入りの絵</Text>  
+	</GameDBLocalizedString>
+    
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT02</LocID>                               
+		<Text>がん啓発ポスター</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT02_DESC</LocID>                   
+		<Text>がん患者に希望を与える額縁入りの絵</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE1</LocID>                               
+		<Text>キューブボックス(空)</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE1_DESC</LocID>                   
+		<Text>空のボックスラック</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE2</LocID>                               
+		<Text>キューブボックス(空)</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE2_DESC</LocID>                   
+		<Text>空のボックスラック</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PLANT01</LocID>                               
+		<Text>鉢植え</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PLANT01_DESC</LocID>                   
+		<Text>小奇麗な鉢植えの木</Text>  
+	</GameDBLocalizedString>
+            
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

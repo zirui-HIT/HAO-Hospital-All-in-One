@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_ES_ADDON_ONCOLOGYSL_EXAMINATIONS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>DrkTemplar</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            
+            <GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT</LocID>                                      
+			<Text>Catecolaminas - Muestreo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_DESC</LocID>                                      
+			<Text>Prueba para contabilizar la cantidad de catecolaminas en el cuerpo. Las catecolaminas agrupan a las hormonas Dopamina, Adrenalina y Noradrenalina. \n\nSala requerida: Laboratorio de Hematología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_TEST</LocID>                                      
+			<Text>Catecolaminas - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_TEST_DESC</LocID>                                      
+			<Text>Prueba para detectar catecolaminas en el cuerpo. Las catecolaminas agrupan a las hormonas Dopamina, Adrenalina y Noradrenalina.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA</LocID>                                      
+			<Text>CA - Muestreo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_DESC</LocID>                                      
+			<Text>El Antígeno Cancerígeno (CA por sus siglas en inglés) es una prueba sanguínea para ayudar en el diagnóstico de ciertos tipos de enfermedades oncológicas. Los marcadores tumorales son sustancias (normalmente proteínas) que produce el organismo en respuesta al cáncer o bien producidas propiamente por el tejido maligno. Algunos marcadores son específicos mientras que otros se observan en multiples tipos de procesos oncológicos. La mayoría de los marcadores aparecen en pacientes sanos en cantidades conocidas. \n\nSala requerida: Laboratorio de Hematología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_TEST</LocID>                                      
+			<Text>CA - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_TEST_DESC</LocID>                                      
+			<Text>El Antígeno Cancerígeno (CA por sus siglas en inglés) es una prueba sanguínea para ayudar en el diagnóstico de ciertos tipos de enfermedades oncológicas. Los marcadores tumorales son sustancias (normalmente proteínas) que produce el organismo en respuesta al cáncer o bien producidas propiamente por el tejido maligno. Algunos marcadores son específicos mientras que otros se observan en multiples tipos de procesos oncológicos. La mayoría de los marcadores aparecen en pacientes sanos en cantidades conocidas.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY</LocID>                                      
+			<Text>Colonoscopia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>Una colonoscopia es un procedimiento por el cual se introduce un tubo flexible con una cámara iluminada (colonoscopio) para obervar el recto e intestino a fin de detectar tumores, pólipos y otras enfermedades en el tracto digestivo inferior. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS</LocID>                                      
+			<Text>Antígenos en Orina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_DESC</LocID>                                      
+			<Text>El recuento de antígenos en orina detecta la concentración de resto antigénicos excretados en la orina como subproducto de ciertos procesos oncológicos, lo que puede ofrecer una orientación diagnóstica rápida. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_TEST</LocID>                                      
+			<Text>Antígenos en Orina - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_TEST_DESC</LocID>                                      
+			<Text>El analisis de antígenos en orina detecta restos antigénicos excretados en la orina como subproducto de ciertos procesos oncológicos, lo que puede ofrecer una orientación diagnóstica rápida.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsia Medular</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>En la biopsia medular se extrae un cilindro que conserva la estructura de la médula mediante la punción con un trócar de un hueso grande. El especialista prepara la muestra para contabilizar el volumen de células presentes en la médula, identificar anomalias y detectar infiltrados. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>Biopsia Medular - Analisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>En la biopsia medular se extrae un cilindro que conserva la estructura de la médula mediante la punción con un trócar de un hueso grande. El especialista prepara la muestra para observar las células presentes en la médula, identificar anomalias y detectar infiltrados.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT</LocID>                                      
+			<Text>Citometría de Flujo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_DESC</LocID>                                      
+			<Text>La Citometría de Flujo es una técnica que permite detectar y medir las características fisico-químicas de una población celular. La muestra se pone en suspensión en un fluido y se inyecta en el instrumento de medida. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_TEST</LocID>                                      
+			<Text>Citometría de Flujo - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>La Citometría de Flujo es una técnica que permite detectar las características fisico-químicas de una población celular. La muestra se pone en suspensión en un fluido y se inyecta en el instrumento de detección.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CBC_SAMPLING</LocID>                                      
+			<Text>(Oncología) CBC - Muestreo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>Muestra para Frotis de Sangre</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>El Frotis de Sangre Periférica (también llamado Extensión de Sangre) es una técnica en la que se extiende una sola gota de sangre sobre un portaobjetos de cristal convirtiendola en una fina capa, la cual se tiñe con distintos productos a fin de colorear las células sanguíneas y facilitar su recuento bajo el microscopio. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>Frotis de Sangre - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>El Frotis de Sangre Periférica (también llamado Extensión de Sangre) es una técnica en la que se extiende una sola gota de sangre sobre un portaobjetos de cristal convirtiendola en una fina capa, la cual se tiñe con distintos productos a fin de colorear las células sanguíneas y facilitar su identificación bajo el microscopio.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>Test de Función Hepática - Recuento</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>Los Test de Función Hepática engloban una serie de proteínas y enzimas vinculadas al hígado, como las transminasas. El recuento cuantifica los niveles presentes en el torrente sanguíneo y pueden ayudar a identificar lesiones o enfermedades en el hígado. \n\nSala requerida: Laboratorio de Hematología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_TEST</LocID>                                      
+			<Text>Test de Función Hepática - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>Los Test de Función Hepática engloban una serie de proteínas y enzimas vinculadas al hígado, como las transminasas. El analisis identifica su presencia en el torrente sanguíneo y pueden ayudar a identificar lesiones o enfermedades en el hígado.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_SAMPLE</LocID>                                      
+			<Text>FISH/HFIS</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>La Hibridacion Flourescente In situ (FISH por sus siglás en inglés)es una técnica molecular citogenética que usa sondas flourescentes que se unen únicamente a partes de una secuencia de ácidos nucleicos específica. Fue desarrollada en los años 80 para identificar la presencia o ausencia de ciertos genes dentro de las cadenas ADN de los cromosomas. Sus aplicaciones van desde la identificación de especies pasando por la terapia genética hasta la detección de cadenas ARN en células tumorales. \n\nSala requerida: Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_TEST</LocID>                                      
+			<Text>FISH/HFIS - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_TEST_DESC</LocID>                                      
+			<Text>La Hibridacion Flourescente In situ (FISH por sus siglás en inglés)es una técnica molecular citogenética que usa sondas flourescentes que se unen únicamente a partes de una secuencia de ácidos nucleicos específica. Fue desarrollada en los años 80 para identificar la presencia o ausencia de ciertos genes dentro de las cadenas ADN de los cromosomas. Sus aplicaciones van desde la identificación de especies pasando por la terapia genética hasta la detección de cadenas ARN en células tumorales.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>Tinción In Vitro</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>Las técnicas de Tinción In Vitro se usan para diferenciar los distintos tejidos y células a nivel microscopico de una muestra ayudando a su identificación y recuento. Dependiendo de los productos utilizados se pueden teñir diferentes tejidos para diferenciarlos de otros, grupos de células e incluso orgánulos contenidos dentro de una célula. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_TEST</LocID>                                      
+			<Text>In Vitro Staining Test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>Las técnicas de Tinción In Vitro se usan para diferenciar los distintos tejidos y células a nivel microscopico de una muestra ayudando a su identificación. Dependiendo de los productos utilizados se pueden teñir diferentes tejidos para diferenciarlos de otros, grupos de células e incluso orgánulos contenidos dentro de una célula.</Text>  
+			</GameDBLocalizedString>
+			
+			
+			
+			
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>Mamografía</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>Una mamografía es una radiografía de rayos X de la mama capaz de identificar alteraciones del tejido no detectables mediante la exploración física. \n\nSala requerida: Rayos X</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_SAMPLE</LocID>                                      
+			<Text>PAAF</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>La Punción y Aspiración con Aguja Fina (PAAF) es una técnica de biopsia menos invasiva y dolorosa para obtener muestras de tejido o fluido. Al igual que en la biopsia convencional, la muestra puede ayudar a la identificación de células cancerosas y ayudan al diagnóstico del paciente. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_TEST</LocID>                                      
+			<Text>PAAF - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_TEST_DESC</LocID>                                      
+			<Text>La Punción y Aspiración con Aguja Fina (PAAF) es una técnica de biopsia menos invasiva y dolorosa para obtener muestras de tejido o fluido. Al igual que en la biopsia convencional, la muestra puede ayudar a la identificación de células cancerosas y ayudan al diagnóstico del paciente.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_SAMPLE</LocID>                                      
+			<Text>Microscopio Electrónico</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>El microscopio electrónico permite diagnosticar patologías que ocurren a niveles más allá del microscopico mediante la visualizacion de los tejidos a nivel ultraestructural. Los tejidos se preparan con una fijación de glutaraldehído y tetróxido de osmio, posteiormente se deshidratan para recubrilos de resina epoxida. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_TEST</LocID>                                      
+			<Text>Electron Microscopy Test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>El microscopio electrónico permite diagnosticar patologías que ocurren a niveles más allá del microscopico mediante la visualizacion de los tejidos a nivel ultraestructural. Los tejidos se preparan con una fijación de glutaraldehído y tetróxido de osmio, posteiormente se deshidratan para recubrilos de resina epoxida.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_PELVIC_EXAM</LocID>                                      
+			<Text>Exámen Pélvico</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>El Exámen Pélvico es la inspección visual y física de los organos reproductivos femeninos incluyendo la vagina, cervix, trompas de Falopio, ovarios y útero.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_DRE_EXAM</LocID>                                      
+			<Text>Tacto Rectal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_DRE_EXAM_DESC</LocID>                                      
+			<Text>El Tacto Rectal es la exploración física del recto mediante palpación directa de la cavidad. Permite al facultativo identificar las estructuras de la pelvis, la próstata y el final del tracto digestivo.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_SAMPLE</LocID>                                      
+			<Text>Panel Electrolítico de Sangre</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>Un Panel Electrolítico incluye, entre otros, pruebas para detectar los niveles en sangre de minerales como el Calcio, Cobre, Magnesio, Manganeso y Zinc. Detectar excesos o carencias de estos electrolitos puede ayuda en el diagnóstico de diferentes enfermedades. \n\nSla requerida: Laboratorio de Hematología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_TEST</LocID>                                      
+			<Text>Panel Electrolítico - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>Un Panel Electrolítico incluye, entre otros, pruebas para detectar los niveles en sangre de minerales como el Calcio, Cobre, Magnesio, Manganeso y Zinc. Detectar excesos o carencias de estos electrolitos puede ayuda en el diagnóstico de diferentes enfermedades.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsia de Ganglio</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>La Biopsia de un Ganglio Linfático es la extracción total o parcial de un ganglio a fin de observarlo bajo el microscopio. Este proceso puede determinar si existen infecciones, alteraciones en el sistema inmune o cáncer. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>Biopsia de Ganglio - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>La Biopsia de un Ganglio Linfático es la extracción total o parcial de un ganglio a fin de observarlo bajo el microscopio. Este proceso puede determinar si existen infecciones, alteraciones en el sistema inmune o cáncer.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA</LocID>                                      
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA_DESC</LocID>                                          
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_CEA_TEST</LocID>                                           
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA_TEST_DESC</LocID>                                           
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA</LocID>                                      
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA_DESC</LocID>                                          
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_5HIAA_TEST</LocID>                                           
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA_TEST_DESC</LocID>                                           
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB</LocID>                                      
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB_DESC</LocID>                                          
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_CHRAB_TEST</LocID>                                           
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB_TEST_DESC</LocID>                                           
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			
+			
+			
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsia por Colonscopia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Una colonoscopia es un procedimiento por el cual se introduce un tubo flexible con una cámara iluminada (colonoscopio) para obervar el recto e intestino a fin de detectar tumores, pólipos y otras enfermedades en el tracto digestivo inferior. Durante el procedimiento, el médico introduce un pequeño filamento que permite obtener una pequeña muestra del tejido del interior del intestino para analizarlo. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>Biopsia por Colonscopia - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Una colonoscopia es un procedimiento por el cual se introduce un tubo flexible con una cámara iluminada (colonoscopio) para obervar el recto e intestino a fin de detectar tumores, pólipos y otras enfermedades en el tracto digestivo inferior. Durante el procedimiento, el médico introduce un pequeño filamento que permite obtener una pequeña muestra del tejido del interior del intestino para analizarlo.</Text>  
+			</GameDBLocalizedString>
+			
+			
+			
+			
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsia Hepática</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>La Biopsia Hepática se realiza mediante la inserción de una aguja fina a través de la piel hasta llegar al hígado con el fin de obtener una muestra de tejido para su posterior análisis en el laboratorio. \n\nSala requerida: Laboratorio de Histología</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>Biopsia Hepática - Análisis</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>La Biopsia Hepática se realiza mediante la inserción de una aguja fina a través de la piel hasta llegar al hígado con el fin de obtener una muestra de tejido para su posterior análisis en el laboratorio.</Text>  
+			</GameDBLocalizedString>
+
+			
+			
+			
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

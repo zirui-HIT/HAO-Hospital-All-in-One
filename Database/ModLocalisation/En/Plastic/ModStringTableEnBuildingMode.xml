@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_PLAS_BUILDING_MODE">
+<LanguageCode>en</LanguageCode>
+<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>Sleepy068</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_PLAS_OFFICE</LocID>                          	
+		<Text>Plastic Surgery Office</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_PLAS_OFFICE_DESCRIPTION</LocID>              	
+		<Text>A doctor's office specialising in plastic surgery. Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_PLAS_OFFICE</LocID>                               
+		<Text>Diagnostic unit</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_PLAS_OFFICE_DESC</LocID>                   
+		<Text>Diagnostic unit at Plastic Surgery department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_PLAS</LocID>       			
+		<Text>Plastic Surgery A</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_PLAS_DESC</LocID>       
+		<Text>Wall decal</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

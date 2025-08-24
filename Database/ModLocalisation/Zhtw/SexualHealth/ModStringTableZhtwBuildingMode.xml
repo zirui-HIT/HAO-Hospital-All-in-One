@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHTW_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>zhtw</LanguageCode>
+		<LanguageNameLocalized>繁體中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>chryue</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE</LocID>                    			<Text>性健康辦公室</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>        			<Text>可以進行簡單檢查治療的基礎診斷室。員工需求：\n1 x 醫生</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB</LocID>                    			<Text>性健康實驗室</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>        			<Text>急診科化驗室提供了各種各樣的測試手段來幫助確認多種不同的診斷。\n最低員工需求：\n1 x 技術專家</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

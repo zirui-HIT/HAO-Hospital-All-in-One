@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PL_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+		<LanguageCode>pl</LanguageCode>
+		<LanguageNameLocalized>Polski</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>Flipperowski</Name>
+		</Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>
+				<Text>Badania przesiewowe narządów płciowych</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>
+				<Text>Mały próbnik służy do delikatnego pobrania niewielkiej liczby komórek z szyjki macicy lub odbytu. Komórki są wysyłane do laboratorium w celu przetestowania. </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>
+				<Text>Analiza przesiewowa narządów płciowych</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>
+				<Text>Analiza komórek szyjki macicy lub odbytu</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>
+				<Text>Wymaz z narządów płciowych</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>Wymaz jest pobierany z pochwy lub penisa.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>
+				<Text>Analiza wymazu z narządów płciowych</Text>
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>
+				<Text>Posiew wymazowy jest analizowany pod kątem oznak infekcji.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Pobieranie nasienia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Pobieranie nasienia odnosi się do procesu pozyskiwania nasienia od pacjenta, zwykle poprzez masturbację, skierowanie próbki do czystego kubka.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>	
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Analiza pobrania nasienia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>The semen collection is analysed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>	
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Groin examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Badanie okolicy pachwiny pacjenta.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>meTTax</Name>
+			<Name>Jacob</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE</LocID>                    			<Text>Sexuologická ordinace</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>        			<Text>Ordinace lékaře specializující se na sexuální zdraví. potřebný personál:\n1x doktor.</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB</LocID>                    			<Text>Sexuologická Laboratoř</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>        			<Text>Sexuologická Laboratoř poskytuje širokou škálu testů k potvrzení různých diagnóz.\npotřebný personál:\n1x technológ.</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

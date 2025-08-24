@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_ES_ADDON_CRP_SLEEPYPL_TREATMENTS">
+	<LanguageCode>es</LanguageCode>
+	<LanguageNameLocalized>Español</LanguageNameLocalized>
+	<Contributors>
+	<Name>Srmojon</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT</LocID>                         
+			<Text>Mira y espera</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT_DESC</LocID>                         
+			<Text>Observar y esperar implica monitorear de cerca la condición de un paciente sin administrar ningún tratamiento hasta que los síntomas aparezcan o cambien. Generalmente, en estas situaciones, dejar que el cuerpo se cure naturalmente es el enfoque preferido, ya que los tratamientos pueden conllevar el riesgo de complicaciones. \n\nHabitación necesaria: cualquier oficina</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+			<Text>Autoinyector de epinefrina</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+			<Text>Un autoinyector de epinefrina es un dispositivo médico para inyectar una dosis medida de epinefrina mediante la tecnología de autoinyectores. Se utiliza con mayor frecuencia para el tratamiento de la anafilaxia. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A</LocID>                                    	
+			<Text>Trimetoprim-Sulfametoxazol</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A_DESC</LocID>                        	
+			<Text>Terapia MRSA. Se ha demostrado que este agente es muy eficaz en el tratamiento de Staphylococcus Aureus resistente a la meticilina. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT</LocID>                                    	
+			<Text>Prenda de comprensión</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT_DESC</LocID>                        	
+			<Text>El uso de una prenda de compresión después de la liposucción ayuda al cuerpo a recuperarse y aumenta la comodidad del paciente durante el proceso de curación. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION</LocID>                                    	
+			<Text>Emulsión de lípidos intravenosa</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION_DESC</LocID>                        	
+			<Text>La emulsión de lípidos intravenosa es un tratamiento eficaz y establecido para el colapso cardiovascular inducido por anestésicos locales. \n\nHabitación requerida: Hospitalización regular en cualquier departamento.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX</LocID>                                    	
+			<Text>Toxina Botulínica</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX_DESC</LocID>                        	
+			<Text>La toxina botulínica (Botox) es una proteína neurotóxica producida por la bacteria Clostridium Botulinum y especies relacionadas. Evita la liberación del neurotransmisor acetilcolina de las terminaciones axónicas en la unión neuromuscular y, por lo tanto, causa parálisis flácida. Si bien es útil para varios procedimientos de cirugía plástica, la toxina botulínica es la sustancia más venenosa conocida. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP</LocID>                                    	
+			<Text>Gotas de atropina para los ojos</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP_DESC</LocID>                        	
+			<Text>Las gotas de Atropinas pertenece a una clase de medicamentos llamados agentes antimuscarínicos. Se utiliza para dilatar la pupila del ojo y paralizar temporalmente el cristalino para que el médico pueda examinar los ojos. La aplicación de estos fármacos en el ojo sano provoca visión borrosa y pérdida de la capacidad de enfocar a diferentes distancias. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH</LocID>                                    	
+			<Text>Parche en el ojo</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH_DESC</LocID>                        	
+			<Text>El parche ocular actúa bloqueando la visión del ojo más fuerte del paciente. Esto obliga al ojo más débil o "vago" a trabajar más para que la visión en ese ojo pueda mejorar.\n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS</LocID>                                    	
+			<Text>Gotas de corticosteroides para los ojos</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS_DESC</LocID>                        	
+			<Text>Los corticosteroides oftálmicos se utilizan para prevenir daños permanentes en el ojo, que pueden ocurrir con ciertos problemas oculares o debido a una cirugía. También alivian el enrojecimiento, la irritación y otras molestias. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L</LocID>                                    	
+			<Text>Exfoliación con Alfa Hidroxiácido</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L_DESC</LocID>                        	
+			<Text>Los alfahidroxiácidos (AHA) suelen derivarse de los cítricos, lácticos, tartáricos, entre otros; y son los exfoliantes químicos más suaves. Son principalmente beneficiosos para el tratamiento de líneas muy finas, piel seca y deshidratada, piel leve, irregularidades pigmentarias y acné. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY</LocID>                                    	
+			<Text>Escleroterapia</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY_DESC</LocID>                        	
+			<Text>La escleroterapia es un tratamiento que consiste en la inyección de una solución química en los vasos sanguíneos, generalmente arañas vasculares o venas varicosas en las piernas. La escleroterapia irrita las paredes de los vasos y hace que se peguen. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT</LocID>                                    	
+			<Text>Terapia con láser cutáneo</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT_DESC</LocID>                        	
+			<Text>La terapia con láser es un procedimiento que utiliza un láser para mejorar la apariencia de la piel o tratar defectos faciales menores mediante la eliminación de capas de piel. Los dos tipos más comunes de láseres de rejuvenecimiento son: el Dióxido de carbono (CO2) que se utiliza para tratar arrugas, cicatrices, verrugas y otras afecciones; y el Erbio que se utiliza para eliminar líneas y arrugas superficiales y moderadamente profundas en la cara, manos, cuello y pecho. \n\nHabitación necesaria: cualquier oficina</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT</LocID>                                    	
+			<Text>Inyecciones de Enzimas (CCH)</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT_DESC</LocID>                        	
+			<Text>La inyección de un tipo de enzima, normalmente colagenasa extraída de C. Histolyticum, en el cordón tenso de la palma del paciente puede ablandarlo y debilitarlo, lo que permite al médico manipular la mano en un intento de romper el cordón y enderezar los dedos. \n\nHabitación necesaria: cualquier oficina.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2</LocID>                                    	
+			<Text>Inyecciones de corticosteroides</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2_DESC</LocID>                        	
+			<Text>Los corticosteroides, también conocidos como esteroides, son medicamentos que cuando se inyectan en o alrededor de un área dolorosa pueden reducir la inflamación en esa área, aliviando el dolor, reduciendo la hinchazón de los tejidos y mejorando la función y la movilidad. Un médico puede inyectar una solución de corticosteroides directamente en una cicatriz hipertrófica o queloide, lo que puede ayudar a reducir su tamaño. \n\nHabitación necesaria: cualquier oficina.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY</LocID>                                    	
+			<Text>Criocirugía</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY_DESC</LocID>                        	
+			<Text>La criocirugía es un tipo de cirugía que implica el uso de frío extremo para destruir tejidos anormales, como tumores. La cirugía generalmente implica el uso de nitrógeno líquido, aunque también se pueden usar dióxido de carbono y argón. \n\nHabitación necesaria: cualquier oficina.</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL</LocID>                                    	
+			<Text>Relleno de ácido hialurónico</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL_DESC</LocID>                        	
+			<Text>El ácido hialurónico inyectable (HA) es un tipo de relleno dérmico temporal. En la piel, el ácido hialurónico atrae el agua, lo que permite que la piel esté más hidratada. El HA inyectable se utiliza para reducir la apariencia de líneas finas y arrugas, pliegues faciales y para crear estructura y volumen en la cara y los labios. Los efectos del ácido hialurónico inyectable se ven de inmediato. \n\nHabitación necesaria: cualquier oficina.</Text>  
+		</GameDBLocalizedString> 
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

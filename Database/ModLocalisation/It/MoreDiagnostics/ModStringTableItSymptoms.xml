@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_MORE_DG_SYMPTOMS">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Rimat</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			<!-- ================================================== From CRP  ================================================== -->
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Splenomegalia</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Ipercalcemia</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Ipercalcemia acuta</Text>  </GameDBLocalizedString>
+
+			<!-- ================================================== Normaux ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Soffio sistolico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Un soffio sistolico comincia dopo il primo rumore cardiaco (B1) e finisce prima del secondo (B2)..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Soffio diastolico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>I soffi diastolici cominciano dopo il secondo rumore cardiaco (con la chiusura delle valvole sigmoidi) e termina prima del primo rumore. Sono dunque percepiti durante la diastole cardiaca.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>IVS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>L'ipertrofia ventricolare sinistra (IVS) è un disturbo cardiaco caratterizzato da un aumento de la massa muscolare del ventricolo sinistro.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>Abbreviazione che significa « onda S in DI ed onda Q in DIII » all'ECG. Descrive una destrorotazione – fisiologica o patologica – lungo l’asse longitudinale del cuore, portando il ventricolo destro davanti e a destra rispetto al ventricolo sinistro. Questo sintomo, solo o associato ad altri segnali all'ECG, viene talvolta utilizzato per confermare un' ipotesi d’embolia polmonare.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Punteggio di Wells positivo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>Si tratta di un punteggio diagnostico dell’embolia polmonare.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Punteggio di Ginevra positivo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>Si tratta di un punteggio diagnostico dell’embolia polmonare e della trombosi venosa profonda.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>D-dimeri alti</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>I D-dimeri sono resti della degradazione della fibrina, una proteina coinvolta nella coagulazione sanguigna. Il medico prescrive un dosaggio dei D-dimeri se sospetta la presenza di grumi sanguigni.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>BNP alti</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>Il peptide natriuretico di tipo B, o BNP (Brain natriuretic peptide), è un ormone neuronale sintetizzato dalle cellule cardiache chiamate cardiomiociti in risposta ad un aumento della pressione sanguigna, in particolare in caso di sviluppo di un'insufficenza cardiaca.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Sindrome compartimentale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>La sindrome compartimentale è una patologia grave che si caratterizza per l’aumento della pressione esercitata su di un tessuto muscolare. La sindrome compartimentale si traduce in una sofferenza a volte nervosa e muscolare, viene generalmente riscontrata a livello degli arti inferiori del corpo (gambe), può manifestarsi anche in altre parti, come negli avambracci.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Massa para-ombilicale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Percezione di una massa para-ombilicale pulsante ed in espansione.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Infarto mesenterico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Si tratta di una necrosi (distruzione) delle cellule dell'involucro che circonda l'intestino e che lo fissa all'insieme della parete addominale: il mesenterio. L'infarto del mesenterio è secondario all'ostruzione dell'arteria mesenterica. \n\nRichiesta Ospedalizzazione nel reparto di Chirurgia Generale</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>Adenoma pituitario</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>Scoperta di un adenoma pituitario alla risonanza magnetica. Ciò non fornisce informazioni sulla sua natura, secernente o meno.</Text>	</GameDBLocalizedString>
+
+
+								<!-- ================================================== CRP - translate and transfer to CRP ================================================== -->	
+<!--  v0.01
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE</LocID>										<Text>Ipocalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE_DESCRIPTION</LocID>							<Text>L'ipocalemia è un livello basso di potassio (K+) nel siero sanguigno.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE</LocID>									<Text>Ipercalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE_DESCRIPTION</LocID>						<Text>L'ipercalemia è un elevato livello di potassio (K+) nel sangue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP</LocID>												<Text>Edema polmonare</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP_DESCRIPTION</LocID>									<Text>L'edema polmonare è un accumulo di fluido nel tessuto ed alveoli polmonari.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS</LocID>									<Text>Assenza di battito</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS_DESCRIPTION</LocID>						<Text>Non si percepisce battito cardiaco su di un arto.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE</LocID>											<Text>Livedo reticolare</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE_DESCRIPTION</LocID>								<Text>La livedo reticolare è un comune reperto dermatologico, che consiste in un motivo vascolare reticolato e screziato che somiglia ad un intricato scoloramento violaceo della pelle. La scolorazione è causata da rigonfiamento delle venule, dovuto all'ostruzione dei capillari da parte di piccoli grumi sanguigni.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE</LocID>									<Text>Polso iperpulsatile</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE_DESCRIPTION</LocID>						<Text>Iperpulsività del polso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE</LocID>							<Text>DVG</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE_DESCRIPTION</LocID>				<Text>La distensione della vena giugulare (DVG) si verifica quando la pressione dentro la vena cava cresce e somiglia ad  rigonfiamento discendente lungo il lato destro del collo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ</LocID>										<Text>RAG</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ_DESCRIPTION</LocID>							<Text>Il riflusso addomino-giugulare (RAG) è utile per diagnosticare un'insufficienza ventricolare destra, ma viene spesso interpretato erroneamente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE</LocID>										<Text>Epatalgia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE_DESCRIPTION</LocID>							<Text>Fegato dolorante.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL</LocID>								<Text>Soffio addominale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL_DESCRIPTION</LocID>					<Text>La presenza di un soffio addominale può riflettere l'esistenza di un'aneurisma dell'aorta addominale od il restringimento delle arterie renali.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE</LocID>								<Text>Soffio vascolare</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE_DESCRIPTION</LocID>					<Text></Text>	</GameDBLocalizedString>
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA</LocID>											<Text>Macroglossia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA_DESCRIPTION</LocID>								<Text>Aumento anomalo del volume della lingua.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA</LocID>											<Text>Ipoglicemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA_DESCRIPTION</LocID>								<Text>Livelli bassi di glucosio nel sangue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA</LocID>											<Text>Ginecomastia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA_DESCRIPTION</LocID>								<Text>Aumento anomalo del volume del seno in soggetti maschi.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE</LocID>									<Text>Atrofia testicolare</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE_DESCRIPTION</LocID>						<Text>Diminuzione delle dimensioni dei testicoli.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN</LocID>												<Text>Xerosi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN_DESCRIPTION</LocID>									<Text>La pelle secca ha perso il suo strato di sebo protettivo e si è disidratata.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL</LocID>												<Text>Iperprolattinemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL_DESCRIPTION</LocID>									<Text>Aumento anomalo della concentrazione di prolattina nel plasma.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE</LocID>								<Text>Insufficienza surrenica acuta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE_DESCRIPTION</LocID>					<Text>Un'insufficienza surrenica primaria, causata da un'improvvisa anomalia nella produzione degli steroidi surrenici.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA</LocID>											<Text>Ipocalcemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA_DESCRIPTION</LocID>								<Text>L'ipocalcemia è un calo anomalo dei livelli di calcio nel sangue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE</LocID>										<Text>Trombocitosi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE_DESCRIPTION</LocID>							<Text>La trombocitosi è una patologia in cui è presente un numero eccessivo di piastrine nel sangue.</Text>	</GameDBLocalizedString>
+-->	
+			
+			<!-- ================================================== Main ================================================== -->	
+<!--  v0.01  -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Restringimento aortico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Diminuzione del diametro della valvola aortica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Insufficenza aortica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Insufficenza della valvola aortica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Ipertensione arteriosa acuta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Ipertensione arteriosa acuta a genesi rapida.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Riflesso di sincope</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>E' un riflesso neurovegetativo d'ipotensione arteriosa con bradicardia più o meno accentuata, a seguito di uno stimolo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Test positivo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Il test d'ipotensione ortostatica è risultato positivo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Turbe della circolazione</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Blocco parossistico completo della circolazione intracardiaca.</Text>	</GameDBLocalizedString>	
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Prodromi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>I segni e sintomi che precedono la sincope sono detti prodromi. La lipotimia può riassumersi come una sensazione di sincope imminente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>Fibrillazione atriale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>La diagnosi di FA può essere confermata solo tramite tracciato ECG. Questo mostra l'assenza dell'onda P visibile e di QRS per lo più irregolari</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>BSA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>Il blocco sino-atriale (BSA) è un' interruzione completa della circolazione intra-atriale dopo certi impulsi sinusali.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB3</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>Il blocco atrio-ventricolare di 3° grado (AVB3) è un'interruzione completa e permanente della trasmissione degli impulsi auricolari ai ventricoli. La lesione responsabile del blocco è, nella maggior parte dei casi, situata nel tronco del fascio di His o nelle sue branche di conduzione (blocco infra-nodale). Talvolta si trova nel nodo AV (blocco intranodale).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>Blocco di branca sinistra</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Aspetto tipico del BBS all'ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>Tachicardia ventricolare</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Aspetto tipico di TV all'ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>Allungamento del QT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Allungamento dello spazio QT all'ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>Tachicardia giunzionale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>									<Text>La tachicardia giunzionale è composta da un gruppo eterogeneo di tachicardie ove il circuito cominci o passi obbligatoriamente per la giunzione atrioventricolare (nodo di giunzione e/o tronco del fascio di His) per essere cronica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA</LocID>											<Text>Onde delta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>								<Text> Impastamento e rallentamento della parte iniziale del complesso QRS, in confronto con une pre-eccitazione del ventricolo tramite un fascio accessorio.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>								<Text>FEVS alterata</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>					<Text>La frazione di eiezione ventricolare sinistra (FEVS) è la percentuale d'eiezione del sangue contenuto nel ventricolo sinistro.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>								<Text>FEVD alterata</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>					<Text>La frazione di eiezione ventricolare destra (FEVD) è la percentuale d'eiezione del sangue contenuto nel ventricolo destro.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS</LocID>												<Text>IPS basso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>									<Text>L'indice di pressione sistolica (IPS) è inferiore a 0.9. L'IPS si basa sulla raccolta delle pressioni sistoliche degli arti inferiori ed omerali assieme alla determinazione di un rapporto tra le pressioni della caviglia e dell'omero.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>											<Text>AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>								<Text>Scoperto aneurisma dell'aorta addominale (AAA).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>										<Text>Aneurisma popliteo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>							<Text>Scoperto aneurisma dell'arteria poplitea.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>									<Text>Occlusione celiaca</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>						<Text>Occlusione dell'arteria celiaca e delle arterie mesenteriche. E' necessario il coinvolgimento d'almeno due dei tre tronchi arteriosi digestivi per indurre una sintomatologia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>											<Text>Ischemia del tessuto MS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>								<Text>L'ischemia è l'arresto o insufficenza della circolazione sanguigna in una parte del corpo od in un organo, che priva le cellule dell'apporto d'ossigeno e comporta la loro necrosi. Le ischemie possono essere dovute all'ostruzione di un vaso (trombosi) o alla compressione di un'arteria (stenosi).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>											<Text>Ischemia del tessuto MI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>								<Text>L'ischemia è l'arresto o insufficenza della circolazione sanguigna in una parte del corpo od in un organo, che priva le cellule dell'apporto d'ossigeno e comporta la loro necrosi. Le ischemie possono essere dovute all'ostruzione di un vaso (trombosi) o alla compressione di un'arteria (stenosi).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>									<Text>Occlusione delle arterie mesenteriche</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>						<Text>Si tratta di un'occlusione arteriosa acuta o di un basso volume di sangue in circolo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>									<Text>Rottura di AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>						<Text>Rottura dell'aneurisma dell'aorta addominale.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>									<Text>Rottura AIC</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>						<Text>Rottura dell'aneurisma di un'arteria iliaca comune.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO</LocID>											<Text>Carenza di testosterone biodisponibile</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>								<Text>Calo significativo del testosterone in circolo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>								<Text>Prolattinoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>								<Text>Prolattinoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>						<Text>Scoperta di un prolattinoma alla risonanza magnetica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>							<Text>Adenoma somatotropo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>				<Text>Nessuna soppressione durante il test.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>						<Text>Adenoma corticotropo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>						<Text>Adenoma corticotropo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>				<Text>Il test suggerisce la diagnosi ipercortisolismo non curabile se la cortisolemia non cala sotto la soglia dei 18 ng / ml [50 nmol / l]</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>							<Text>Adenoma tireotropo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>				<Text>Scoperta di ipertiroidismo centrale tramite esami del sangue. Questo viene caratterizzato da un'alta concentrazione di ormoni tiroidei, a loro volta associati con un'elevata concentrazione (normale o meno) di TSH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>						<Text>Panipopituitarismo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>						<Text>Panipopituitarismo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>				<Text>Scoperta alla risonanza magnetica di un adenoma pituitario che impedisce il corretto funzionamento della ghiandola pineale.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_F</LocID>										<Text>Insufficienza surrenica periferica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_H</LocID>										<Text>Insufficienza surrenica periferica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>								<Text>Scoperta di un'insufficienza surrenica periferica durante il test al Synacthene. Questa viene caratterizzata da un basso livello di cortisolo, associato ad un'alta concentrazione di ACTH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_F</LocID>										<Text>Deficienza di 21-OH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_H</LocID>										<Text>Deficienza di 21-OH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>								<Text>E' fatto accettato dall'intero settore endocrinologo che la diagnosi di deficienza di 21OH-NC sia basata sul dosaggio di 17OHP al mattino e, nei casi migliori, nella prima parte del ciclo di veglia. Il campione dev'essere prelevato in assenza (o a distanza temporale) di trattamenti con glucocorticoidi, dato che anche trattamenti "sostitutivi" e trattamenti farmacologici a fortiori introducono il rischio di ignorare la diagnosi (falso negativo), inibendo l'asse corticotropo. La campionatura per la determinazione di 17OHP deve anch'essa essere effettuata al mattino, poiché nel caso fosse effettuata nel pomeriggio, la concentrazione di 17OHP trovata rientrerebbe in parametri normali anche in un paziente con deficienza di 21OH-NC, a causa delle fluttuazioni nictemerali della funzione cortica surrenica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>									<Text>Insufficienza surrenica centrale</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>						<Text>Scoperta di insufficienza surrenica centrale durante il test al Synacthene. Questa viene caratterizzata da bassi livelli di cortisolo, associati ad una concentrazione bassa (entro range normali o meno) di ACTH.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>									<Text>Anticorpo Anti-CASR</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>						<Text>Scoperta dell'anticorpo anti-CASR durante il test ELISA.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>							<Text>Adenoma paratiroideo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>				<Text>Scoperto adenoma paratiroideo alla scintigrafia.</Text>	</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN</LocID>											<Text>Adenoma surrenico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>								<Text>Scoperta di una secrezione da adenoma surrenico alla TAC.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN</LocID>										<Text>Ipertrofia surrenica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>							<Text>Aumento del volume della ghiandola surrenica, visibile alla TAC.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME</LocID>									<Text>Secrezioni incoerenti</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>						<Text>Secrezioni incoerenti (entro range normali od elevati) di insulina e peptide C, in stato di ipoglicemia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP</LocID>										<Text>Ipoglicemia pancreatica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>							<Text>L'ipoglicemia d'origine pancreatica non è legata ad un adenoma insulino-secernente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>								<Text>Scintigrafia bianca</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>					<Text>Assenza di fissaggio alla scintigrafia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>					<Text>Scintigrafia a "scacchiera"</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>		<Text>Alternanza di zone calde e fredde (a scacchiera) alla scintigrafia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>								<Text>Adenoma tossico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>					<Text>Iperfissaggio dell'isotopo al livello del nodulo mentre il resto del parenchima è ipofissato o freddo o "estinto" (a causa di un calo di TSH), alla scintigrafia.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>								<Text>Iperosmolarità</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>					<Text>Osmolarità insolitamente elevata.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE</LocID>										<Text>Chetonemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>							<Text>Eccesso di chetoni nel sangue.</Text>	</GameDBLocalizedString>
+			
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

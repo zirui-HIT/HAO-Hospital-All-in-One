@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBAsset ID="ASSET_TEX_GYNECO_DECALS">
+		<Type>TEXTURE_OBJECTS</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_decals_2048_atlas_gyneco.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_G">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_skill_icon_blanc.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_G_DARK">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_06.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_0">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_00.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_01.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_02.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_03.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_04.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_05.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_DPT_ICON_6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dept_icon_06.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_01.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG1_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_01_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_02.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG2_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_02_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_03.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG3_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_03_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_04.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG4_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_04_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_05.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG5_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_05_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_06.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG6_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_06_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG7">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_07.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG7_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_07_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG8">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_08.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG8_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_08_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG9">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_09.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG9_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_09_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG10">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_10.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG10_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_10_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG11">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_11.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG11_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_11_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG12">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_12.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG12_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_12_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG13">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_13.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG13_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_13_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG14">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_14.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG14_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_14_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG15">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_15.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG15_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_15_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG16">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_16.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG16_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_16_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG17">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_17.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG17_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_17_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG18">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_18.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG18_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_18_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG19">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_19.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG19_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_19_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG20">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_20.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG20_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_20_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG21">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_21.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG21_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_21_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG22">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_22.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG22_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_22_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG23">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_23.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG23_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_23_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG24">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_24.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG24_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_24_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG25">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_25.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_DG25_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_dg_icon_25_small.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_01.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E1_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_01_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_02.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E2_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_02_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_03.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E3_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_03_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_04.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E4_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_04_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_05.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_E5_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_exam_icon_05_small.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_01.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S1_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_01_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_02.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S2_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_02_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_03.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S3_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_03_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_04.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S4_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_04_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_05.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S5_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_05_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_06.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S6_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_06_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S7">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_07.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S7_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_07_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S8">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_08.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S8_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_08_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S9">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_09.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S9_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_09_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S10">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_10.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S10_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_10_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S11">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_11.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S11_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_11_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S12">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_12.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S12_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_12_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S13">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_13.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S13_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_13_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S14">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_14.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_S14_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_s_icon_14_small.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_01.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM1_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_01_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_02.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM2_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_02_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_03.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM3_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_03_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_04.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM4_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_04_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_05.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM5_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_05_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_06.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM6_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_06_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM7">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_07.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM7_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_07_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM8">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_08.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM8_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_08_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM9">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_09.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM9_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_09_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM10">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_10.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM10_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_10_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM11">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_11.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM11_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_11_small.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM12">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_12.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_SM12_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_sm_icon_12_small.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_GYNECO_ICON_TTT1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_ttt_icon_01.png</File>
+	</GameDBAsset>
+	<GameDBAsset ID="ASSET_GYNECO_ICON_TTT1_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Gynecology/mod_ttt_icon_01_small.png</File>
+	</GameDBAsset>
+
+
+</Database>

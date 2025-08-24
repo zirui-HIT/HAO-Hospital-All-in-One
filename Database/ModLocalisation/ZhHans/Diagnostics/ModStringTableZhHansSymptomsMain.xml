@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DIAG_SYMPTOMS_MAIN">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>Ollyver</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1INH</LocID>
+			<Text>C1酯酶抑制物异常</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1INH_DESC</LocID>
+			<Text>遗传性血管性水肿患者的C1抑制物水平会降低。其中85%的患者C1抑制物的抗原和功能水平均下降，而15%的患者则表现为功能障碍。</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1Q</LocID>
+			<Text>C1Q和C1酯酶抑制物异常</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_C1Q_DESC</LocID>
+			<Text>血液检测显示C1Q水平低，以及C1抑制物水平低或功能障碍。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACE_INH</LocID>
+			<Text>血液中检测到ACE抑制剂</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACE_INH_DESC</LocID>
+			<Text>血液检测显示血液中存在ACE抑制剂，且C1抑制物水平正常。</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_AIP</LocID>
+			<Text>尿液中胆色素原(PBG)异常</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_AIP_DESC</LocID>
+			<Text>尿液中胆色素原（PBG）升高提示卟啉病急性发作。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NAEGLERISIS</LocID>
+			<Text>检测到福氏耐格里阿米巴</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NAEGLERISIS_DESC</LocID>
+			<Text>脑脊液分析发现了可导致脑膜脑炎的自由生活阿米巴——福氏耐格里阿米巴。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_CLARKSONS</LocID>
+			<Text>毛细血管渗漏表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_CLARKSONS_DESC</LocID>
+			<Text>综合评估动脉低血压、血液浓缩和低蛋白血症等症状，并排除继发性休克和感染后，表明患者患有克拉克森病（特发性毛细血管渗漏综合征）。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_WILSONS</LocID>
+			<Text>威尔逊病表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_WILSONS_DESC</LocID>
+			<Text>肝活检显示每克干肝组织铜含量超过250微克，证实为威尔逊病。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_COMPARTMENT</LocID>
+			<Text>肌肉筋膜室压力过高</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_COMPARTMENT_DESC</LocID>
+			<Text>肌肉筋膜室内压力计读数 &gt;30 mmHg，符合筋膜室综合征，有缺血性坏死的风险。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NPT3</LocID>
+			<Text>已识别相关基因</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_NPT3_DESC</LocID>
+			<Text>基因检测显示npc1/npc2基因存在突变。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ZES</LocID>
+			<Text>多发性胃泌素瘤</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ZES_DESC</LocID>
+			<Text>MRI显示胰腺中存在多发性胃泌素瘤。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MENETRIERS</LocID>
+			<Text>梅尼特里耶病活检表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MENETRIERS_DESC</LocID>
+			<Text>内窥镜下黏膜活检结果与梅尼特里耶病一致。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACHALASIA</LocID>
+			<Text>食管动力异常</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ACHALASIA_DESC</LocID>
+			<Text>食管测压显示食管动力异常，与贲门失弛缓症一致。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MALS</LocID>
+			<Text>超声心动图中的MALS表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_MALS_DESC</LocID>
+			<Text>多普勒超声检查显示腹腔动脉收缩期峰值流速大于200cm/s，提示与MALS相关的腹腔动脉狭窄。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BOUVERET</LocID>
+			<Text>CT扫描中的布弗雷综合征表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BOUVERET_DESC</LocID>
+			<Text>CT扫描显示存在胆道十二指肠瘘，并导致胃出口梗阻。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_POTS</LocID>
+			<Text>心率过度增加</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_POTS_DESC</LocID>
+			<Text>直立试验发现心率增加超过每分钟30次。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BCS</LocID>
+			<Text>肝脏超声异常</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BCS_DESC</LocID>
+			<Text>肝脏超声显示肝静脉有明显损伤，并伴有血栓和/或狭窄的迹象。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BSS</LocID>
+			<Text>已识别相关基因</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BSS_DESC</LocID>
+			<Text>基因检测显示GP1BA、GP1BB和GP9基因存在异常。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_EVANS</LocID>
+			<Text>埃文斯综合征表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_EVANS_DESC</LocID>
+			<Text>全血细胞计数（CBC）检测显示存在溶血性贫血和免疫性血小板减少性紫癜，且库姆斯试验阳性，提示为埃文斯综合征。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ADEM</LocID>
+			<Text>MRI上的ADEM表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ADEM_DESC</LocID>
+			<Text>MRI显示脑部存在多灶性脱髓鞘病变，提示为ADEM。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ARPKD</LocID>
+			<Text>已识别相关基因</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ARPKD_DESC</LocID>
+			<Text>基因检测显示PKHD1基因存在异常。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BEHCETS</LocID>
+			<Text>复发性溃疡</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BEHCETS_DESC</LocID>
+			<Text>临床评估显示口腔和生殖器反复出现溃疡，加之C反应蛋白（CRP）升高，提示为白塞病。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BIOTIN</LocID>
+			<Text>已识别相关基因</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BIOTIN_DESC</LocID>
+			<Text>基因检测显示BTD基因存在异常。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOEPILEPSY</LocID>
+			<Text>腹型癫痫表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOEPILEPSY_DESC</LocID>
+			<Text>脑电图（EEG）异常，显示出腹型癫痫的特征。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOMIGRAINE</LocID>
+			<Text>腹型偏头痛体征</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_ABDOMIGRAINE_DESC</LocID>
+			<Text>通过对患者症状进行诊断性评估并排除其他诊断，确诊为腹型偏头痛。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_DJS</LocID>
+			<Text>杜宾-约翰逊综合征表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_DJS_DESC</LocID>
+			<Text>杜宾-约翰逊综合征患者的尿液粪卟啉I比粪卟啉III高3-4倍。尿卟啉分析显示总粪卟啉水平正常，但I型异构体占总量的80%（正常为25%）。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BDBS</LocID>
+			<Text>怀伯恩-梅森综合征表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_BDBS_DESC</LocID>
+			<Text>荧光血管造影显示大脑和视网膜存在动静脉畸形（AVM）。</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_UPTE</LocID>
+			<Text>癫痫性颅脑创伤表现</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_DIAG_UPTE_DESC</LocID>
+			<Text>脑部MRI扫描结果与导致癫痫的创伤性脑损伤（TBI）一致。</Text>
+		</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

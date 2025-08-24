@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Srmojon</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
+-->
+
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Terapia de reemplazo de andrógenos</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>La terapia de reemplazo de andrógenos (ART), a menudo conocida como terapia de reemplazo de testosterona (TRT), es una forma de terapia hormonal en la que se reemplazan los andrógenos, generalmente la testosterona. A menudo se prescribe ART para contrarrestar los efectos del hipogonadismo masculino.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Agonistas dopaminérgicos</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>Los agonistas del receptor de dopamina (DA) son compuestos que activan los receptores de dopamina. Hay dos familias de receptores de dopamina denominadas D1 y D2, y todos son receptores acoplados a la proteína G. Los subtipos D1 y D5 pertenecen a los receptores de la familia D1 y la familia D2 incluye los subtipos D2, D3 y D4. Los DA se utilizan en la enfermedad de Parkinson y, en menor medida, para tratar la depresión, la hiperprolactinemia y el síndrome de piernas inquietas.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Hidrocortisona - Fludrocortisona</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Asociación de Hidrocortisona y Fludrocortisona.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Vitamina D</Text>	</GameDBLocalizedString>
+<!--  v0.03  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>Anticuerpo Monoclonal</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>Los anticuerpos monoclonales (mAb o MoAb) son anticuerpos producidos por células inmunes idénticas que son todos clones de una única célula madre. Los anticuerpos monoclonales pueden tener afinidad monovalente, ya que se unen al mismo epítopo (la parte de un antígeno que es reconocida por el anticuerpo).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>Quelante de cationes trivalentes</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>El quelante catiónico trivalente es capaz de captar el hierro libre del plasma o de las células para formar el complejo de ferrioxamina (Fa).</Text>	</GameDBLocalizedString>
+<!--  v0.03.2  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP</LocID>													<Text>GBI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>Los inhibidores de la biosíntesis de glicolípidos previenen la síntesis de glicolípidos.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>										<Text>ERT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>La terapia de reemplazo enzimático (ERT) es un tratamiento médico que reemplaza una enzima que es deficiente o esta ausente en el cuerpo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>Flebotomía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>Es la apertura quirúrgica o punción de una vena para extraer sangre.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>Danaparoide sódico</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>El danaparoide sódico es un anticoagulante con acción antitrombótica debido a la inhibición de la generación de trombina (TGI) por dos mecanismos: la inactivación indirecta del factor Xa a través del AT y la inhibición directa de la activación por la trombina del factor IX.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Reemplazo de válvula</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>La cirugía de reemplazo de válvula es el reemplazo de una o más válvulas cardíacas por una válvula cardíaca artificial o una bioprótesis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Marcapasos</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>Un marcapasos cardíaco (o marcapasos artificial, para no confundirlo con el marcapasos natural del corazón), es un dispositivo médico que genera impulsos eléctricos mediante electrodos para hacer que las cámaras del músculo cardíaco (parte superior, inferior, aurículas y/o ventrículos) se contraigan y por lo tanto bombeen sangre. Al hacerlo, este dispositivo reemplaza y/o regula la función del sistema de conducción eléctrica del corazón.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Desfibrilador automático implantable</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Un desfibrilador cardioversor implantable (ICD) o desfibrilador cardioversor automático implantable (AICD) es un dispositivo implantable dentro del cuerpo, capaz de realizar cardioversión, desfibrilación y (en versiones modernas) estimulación cardíaca. Por lo tanto, el dispositivo es capaz de corregir la mayoría de las arritmias cardíacas potencialmente mortales. El ICD es el tratamiento de primera línea y la terapia profiláctica para pacientes con riesgo de muerte súbita cardíaca debido a la fibrilación ventricular y la taquicardia ventricular. Los dispositivos actuales se pueden programar para detectar ritmos cardíacos anormales y administrar terapia mediante una estimulación antitaquicardia programable.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revascularización</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>El Bypass vascular y la Angioplastia son los dos medios principales de revascularización.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>La fasciotomía o fasciectomía es un procedimiento quirúrgico en el que se corta la fascia para aliviar la tensión o la presión, comúnmente para tratar la pérdida resultante de la circulación en un área de tejido o músculo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Estent</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Es la exclusión del área aneurismática del flujo circulatorio por interposición de una prótesis vascular. En el aplanamiento del injerto, el tubo protésico se sutura tanto por encima como por debajo del aneurisma para reconstruir la arteria.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Suprarrenalectomía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Extirpación quirúrgica de una o ambas glándulas suprarrenales.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Escisión Quirúrgica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Escisión Quirúrgica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>La escisión es un procedimiento quirúrgico que consiste en extraer del organismo un elemento que le resulta dañino o inútil.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Tiroidectomía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Extirpación quirúrgica de la glándula tiroides.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>Esplenectomía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>Extirpación quirúrgica del bazo.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>Estereotáctica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>La neurocirugía estereotáctica es la técnica para localizar objetivos de interés quirúrgico dentro del cerebro en relación con un marco de referencia externo.</Text>	</GameDBLocalizedString>
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

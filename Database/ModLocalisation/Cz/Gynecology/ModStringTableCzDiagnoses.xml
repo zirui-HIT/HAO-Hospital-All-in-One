@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_GYNECOLOGIE_DIAGNOSES">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>	<LocID>DIA_GEU</LocID>								<Text>Mimoděložní těhotenství</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GEU_DESCRIPTION</LocID>					<Text>Vývoj oplodněného vajíčka jinde než v děloze (ve vejcovodu nebo v peritoneální dutině).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK</LocID>								<Text>PCOS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK_DESCRIPTION</LocID>					<Text>Syndrom polycystických vaječníků nebo syndrom polycystických vaječníků. Variabilní onemocnění, které je poznamenáno amenoreou, hirsutismem, obezitou, neplodností a zvětšením vaječníků a je obvykle iniciováno zvýšenou hladinou luteinizačního hormonu, androgenu nebo estrogenu, což má za následek abnormální cyklus uvolňování gonadotropinu hypofýzou.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL</LocID>					<Text>Předmenstruační syndrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>		<Text>Různá skupina příznaků projevujících se u některých žen před menstruací.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE</LocID>						<Text>Menopauza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>			<Text>Přirozené zastavení menstruace, ke kterému obvykle dochází ve věku od 45 do 55 let.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE</LocID>						<Text>Endometrióza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>			<Text>Přítomnost a růst fungující tkáně endometria v jiných místech než děloha.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SS</LocID>						<Text>Subserózní fibrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Submukózní fibrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Intersticiální fibrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>Benigní nádor sestávající hlavně z vláknité tkáně.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Organická ovariální cysta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>Ovariální cysta je vak naplněný tekutinou ve vaječníku. Organické cysty se mohou komplikovat nebo degenerovat.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Funkční ovariální cysta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>		<Text>Ovariální cysta je vak naplněný tekutinou ve vaječníku. Funkční cysty rostou během menstruačního cyklu v důsledku hormonální nerovnováhy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>			<Text>Torze vaječníků</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>K torzi vaječníků dochází, když se vaječník zkroutí při připojení k jiným strukturám.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN</LocID>					<Text>Ovariální absces</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>		<Text>Ovariální absces je kapsa ve vaječníku naplněná hnisem. Obvykle způsobené bakteriemi.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL</LocID>				<Text>Výhřez</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>	<Text>Pád nebo uklouznutí části těla z obvyklé polohy nebo vztahů.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE</LocID>						<Text>Kapavka</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>			<Text>Nakažlivý zánět sliznice genitálií způsobený gonokokem.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE</LocID>						<Text>Chlamydie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>			<Text>Nemoc nebo infekce způsobená chlamydiemi.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS</LocID>							<Text>Syfilis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS_DESCRIPTION</LocID>				<Text>Chronické nakažlivé, obvykle pohlavní a často vrozené onemocnění způsobené spirochetou (Treponema pallidum).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE</LocID>						<Text>Trichomoniáza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE_DESCRIPTION</LocID>			<Text>Infekce nebo onemocnění způsobené trichomonádami.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE</LocID>							<Text>Vaginální mykóza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE_DESCRIPTION</LocID>				<Text>Infekce nebo onemocnění způsobené houbou.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE</LocID>								<Text>Zánětlivé onemocnění pánve</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE_DESCRIPTION</LocID>					<Text>Zánět ženského reprodukčního traktu (jako jsou vejcovody a vaječníky), který se vyskytuje zejména v důsledku pohlavně přenosných chorob a je hlavní příčinou neplodnosti u žen.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE</LocID>						<Text>Těhotenství</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE_DESCRIPTION</LocID>			<Text>Stav těhotenství.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN</LocID>					<Text>Rakovina děložního čípku</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN_DESCRIPTION</LocID>		<Text>Prekancerózní stavy děložního čípku jsou změny v buňkách děložního čípku, díky nimž je u nich vyšší pravděpodobnost vývoje rakoviny.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE</LocID>						<Text>Cervicitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE_DESCRIPTION</LocID>			<Text>Zánět děložního čípku.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL</LocID>						<Text>Cervikální polyp</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL_DESCRIPTION</LocID>			<Text>Růst vyčnívající ze sliznice.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS</LocID>						<Text>Rakovina děložního hrdla</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS_DESCRIPTION</LocID>			<Text>Rakovina děložního čípku je rakovina vznikající z děložního čípku. Je to způsobeno abnormálním růstem buněk, které mají schopnost napadat nebo se šířit do dalších částí těla.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS</LocID>					<Text>Rakovina dělohy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS_DESCRIPTION</LocID>		<Text>Rakovina dělohy (rakovina dělohy nebo endometrie) je běžná rakovina, která postihuje ženský reprodukční systém. Je častější u žen, které prošly menopauzou.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN</LocID>			<Text>Prasklá ovariální cysta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Roztržená ovariální cysta je tekutinou naplněná, obvykle benigní (nerakovinová) hmota na vaječníku, který se zlomil.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE</LocID>							<Text>Rakovina vaječníků</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE_DESCRIPTION</LocID>				<Text>Rakovina vaječníků je druh rakoviny, který začíná ve vaječnících.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME</LocID>						<Text>Fibroadenom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME_DESCRIPTION</LocID>			<Text>Fibroadenom je typ hrudky, která se může vyvinout v prsu a obvykle se objevuje u žen. Fibroadenomy jsou velmi časté, ale jsou benigní, což znamená, že nejsou rakovinnés.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK</LocID>								<Text>Fibrocystická nemoc prsu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK_DESCRIPTION</LocID>					<Text>Fibrocystická nemoc prsu, běžně nazývaná fibrocystická prsa nebo fibrocystická změna, je benigní (nerakovinový) stav, při kterém jsou prsa hrudkovitá. Fibrocystická prsa nejsou škodlivá ani nebezpečná, ale pro některé ženy mohou být nepříjemná nebo nepohodlná.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN</LocID>							<Text>Rakovina prsu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN_DESCRIPTION</LocID>				<Text>Rakovina prsu je onemocnění, při kterém buňky v prsu vyrůstají mimo kontrolu. Rakovina prsu může začít v různých částech prsu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G</LocID>							<Text>PIH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G_DESCRIPTION</LocID>				<Text>Gestační hypertenze označovaná také jako hypertenze vyvolaná těhotenstvím (PIH) je stav charakterizovaný vysokým krevním tlakem během těhotenství. Gestační hypertenze může vést k vážnému stavu, který se nazývá Preeklampsie.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG</LocID>								<Text>GDM</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG_DESCRIPTION</LocID>					<Text>Gestační diabetes mellitus (GDM) je definován jako jakýkoli stupeň intolerance glukózy s nástupem nebo prvním rozpoznáním během těhotenství.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE</LocID>					<Text>Chorioamnionitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE_DESCRIPTION</LocID>		<Text>Chorioamnionitida je bakteriální infekce, která se vyskytuje před nebo během porodu. Název odkazuje na membrány obklopující plod: „chorion“ (vnější membrána) a „amnion“ (vak naplněný tekutinou).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G</LocID>								<Text>Těhotenská cystitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G_DESCRIPTION</LocID>					<Text>Cystitida je infekce močového měchýře, která při chcaní způsobuje pocit pálení.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PNA_G</LocID>							<Text>Těhotenská pyelonefritida </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE</LocID>							<Text>Těhotenská vaginóza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE_DESCRIPTION</LocID>				<Text>Bakteriální infekce pochvy způsobující páchnoucí bílý výtok.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES</LocID>						<Text>Poporodní Baby blues</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES_DESCRIPTION</LocID>			<Text>Pocit smutku, který žena pociťuje krátce po porodu, obvykle trvá méně než dva týdny. Baby blues není nemoc nebo dokonce správná psychiatrická diagnóza, je to prostě způsob, jak se lidé pokusili popsat nepříjemné pocity, které se vyskytnou krátce po narození dítěte, a mají tendenci se za několik dní vyřešit.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP</LocID>					<Text>Poporodní deprese</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP_DESCRIPTION</LocID>		<Text>Poporodní deprese je porucha nálady, která může mít vliv na ženy po porodu. Matky s poporodní depresí pociťují pocity extrémního smutku, úzkosti a vyčerpání, které jim mohou zkomplikovat každodenní péči o sebe nebo o ostatní.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP</LocID>							<Text>Poporodní endometritida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP_DESCRIPTION</LocID>				<Text>Poporodní endometritida se týká infekce decidua.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP</LocID>							<Text>Překrvení prsou</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP_DESCRIPTION</LocID>				<Text>Překrvení prsou znamená, že prsa jsou bolestivě přeplněná mlékem. K tomu obvykle dochází, když matka vyprodukuje více mléka, než spotřebuje její dítě.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP</LocID>							<Text>Popraskaná bradavka</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP_DESCRIPTION</LocID>				<Text>Popraskaná bradavka (nebo poranění bradavky) je stav, který se může objevit u kojících žen v důsledku řady možných příčin. Vznik popraskané bradavky může mít během kojení za následek bolestivost, suchost nebo podráždění nebo krvácení jedné nebo obou bradavek.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP</LocID>							<Text>Mastitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP_DESCRIPTION</LocID>				<Text>Mastitida je zánět prsní tkáně, který někdy zahrnuje infekci. Výsledkem zánětu je bolest prsou, otoky, teplo a zarudnutí.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE</LocID>					<Text>Infekční mastitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE_DESCRIPTION</LocID>		<Text>Zánět mléčné žlázy v prsu nebo vemene, obvykle v důsledku bakteriální infekce.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE</LocID>					<Text>Absces prsu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE_DESCRIPTION</LocID>		<Text>Absces prsu je bolestivá sbírka hnisu, který se tvoří v prsou. Většina abscesů se vyvíjí těsně pod kůží a je způsobena bakteriální infekcí.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP</LocID>							<Text>Poporodní DVT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP_DESCRIPTION</LocID>				<Text>Hluboká žilní trombóza nebo DVT je vývoj krevní sraženiny v hlubokých žilách.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV</LocID>							<Text>Trombóza pánevních žil</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV_DESCRIPTION</LocID>				<Text>Trombóza pánevních žil může zahrnovat trombózu vaječníkových žil, hlubokou trombózu pánevních žil, septickou pánevní tromboflebitidu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF</LocID>						<Text>FHA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF_DESCRIPTION</LocID>			<Text>Funkční hypotalamická amenorea (FHA) je definována jako neorganická a reverzibilní porucha, při které hraje klíčovou roli narušení pulsatilní sekrece hormonu uvolňujícího gonadotropin (GnRH).</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME</LocID>					<Text>Molární těhotenství</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME_DESCRIPTION</LocID>		<Text>Molární těhotenství je abnormální forma těhotenství, při které se životaschopné oplodněné vajíčko implantuje do dělohy a nebude se moci vyrovnat. Molární těhotenství je gestační trofoblastická nemoc, která v děloze dorůstá do hmoty, která má oteklé choriové klky.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE</LocID>				<Text>Aseptická nekrobióza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE_DESCRIPTION</LocID>	<Text>Aseptická nekrobióza (červená degenerace) děložního myomu je definována jako hemoragický infarkt dříve hyalinizovaného myomu způsobený ischemickou nekrózou, protože rychlý růst fibroidů převyšuje jeho zásobení krví.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE</LocID>						<Text>Adenomyóza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE_DESCRIPTION</LocID>			<Text>Adenomyóza je gynekologický zdravotní stav charakterizovaný abnormální přítomností endometriální tkáně (vnitřní výstelky dělohy) v myometriu (silná svalová vrstva dělohy).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN</LocID>						<Text>Sheehanův syndrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN_DESCRIPTION</LocID>			<Text>Sheehanův syndrom, známý také jako nekróza hypofýzy po porodu, je hypopituitarismus (snížené fungování hypofýzy), způsobený ischemickou nekrózou způsobenou ztrátou krve a hypovolemickým šokem během porodu a po něm.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM</LocID>			<Text>Hypofyzitida hypofýzy po porodu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM_DESCRIPTION</LocID>	<Text>Je to zánětlivá porucha hypofýzy.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD</LocID>					<Text>Syndrom toxického šoku</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD_DESCRIPTION</LocID>		<Text>Syndrom toxického šoku je stav způsobený bakteriálními toxiny.</Text>	</GameDBLocalizedString>
+
+    
+
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT</LocID>									<Text>Stresová inkontinence</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT_DESCRIPTION</LocID>						<Text>Stresová inkontinence odpovídá nedobrovolné ztrátě úsilí (smích, kašel, kýchání, sport ...) bez pocitu potřeby.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE</LocID>					<Text>Hyperaktivní močový měchýř</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE_DESCRIPTION</LocID>		<Text>Hyperaktivní močový měchýř odpovídá nedobrovolné ztrátě moči, které předchází bezprostředně naléhavá a neomezená potřeba (naléhavost nebo naléhavá potřeba), ke které může dojít v klidu, v noci, bez jakéhokoli úsilí.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE</LocID>									<Text>Salpingitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE_DESCRIPTION</LocID>						<Text>Salpingitida je infekce a zánět ve vejcovodech.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE</LocID>								<Text>Endometritida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE_DESCRIPTION</LocID>					<Text>Endometritida je zánět vnitřní výstelky dělohy.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_LIG_TROMPES</LocID>									<Text>Žádost o sterilizaci</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_LIG_TROMPES_DESCRIPTION</LocID>						<Text>Podvázání vejcovodů - známé také jako svázání trubiček nebo sterilizace vejcovodů - je typ trvalé antikoncepce. Během ligace vejcovodů jsou vejcovody řezány, vázány nebo blokovány, aby se trvale zabránilo těhotenství.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_AIGUE</LocID>								<Text>Akutní bartholinitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_AIGUE_DESCRIPTION</LocID>					<Text>Akutní bartholinitida je lokalizovaný zánět bartholinové žlázy nebo jejího rozšířeného vylučovacího kanálu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_CHRONIQUE</LocID>							<Text>Chronická Bartholinitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_CHRONIQUE_DESCRIPTION</LocID>				<Text>Chronic bartholinitida je vývoj akutní bartholinitidy. Pokud se neléčí, bartholinitida nakonec na pokožce fistuluje.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_RECIDIVE</LocID>							<Text>Recidivující bartholinitida</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_RECIDIVE_DESCRIPTION</LocID>				<Text>Léčba spočívá v provedení excize cysty a bartholinové žlázy v celkové anestezii.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_PILONIDAL</LocID>								<Text>Pilonidální cysta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_PILONIDAL_DESCRIPTION</LocID>					<Text>Pilonidální cysta je epitelizovaná sinusová trasa nebo cysta obsahující vlasové folikuly s okolní zánětlivou reakcí. Obvykle se vyvíjí v sakrokokcygeální oblasti s několika zprávami o jejím vývoji v genitáliích.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_EPIDERMIQUE_VULVE</LocID>						<Text>Vulvarová epidermoidní cysta </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_EPIDERMIQUE_VULVE_DESCRIPTION</LocID>			<Text>Epidermoidní cysty jsou výsledkem zablokování kanálů mazových žláz.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_VULVE_INCLUSION</LocID>							<Text>Vulvarová inkluzní cysta</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_VULVE_INCLUSION_DESCRIPTION</LocID>				<Text>Inklusní cysty jsou nejčastější vulvární cysty, obsahují epiteliální tkáň.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_HEMATOCOLPOS</LocID>									<Text>Hematokolpos</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_HEMATOCOLPOS_DESCRIPTION</LocID>						<Text>Hematokolpos je akumulace menstruační krve ve vaginální dutině.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I</LocID>									<Text>Syfilis (I)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I_DESCRIPTION</LocID>						<Text>Primární syfilis se vyznačuje přibližně po 3 týdnech tiché inkubace výskytem syfilitického vředu v místě inokulace treponému a jeho lymfadenopatie.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II</LocID>								<Text>Syphilis (II)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II_DESCRIPTION</LocID>					<Text>Sekundární syfilis je poznamenán několika mukokutánními vyrážkami rozptýlenými asymptomatickými fázemi několika týdnů nebo měsíců, které v průměru trvají dva roky. Jsou s ním spojeny obecné a viscerální znaky, které svědčí o systematickém šíření treponemy.</Text>	</GameDBLocalizedString>
+
+
+			
+
+			<GameDBLocalizedString>	<LocID>TRM_HGEN</LocID>								<Text>Gynekologické krvácení</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HGEN_DESCRIPTION</LocID>					<Text>Gynekologické krvácení představuje nadměrné krvácení ženského reprodukčního systému.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA</LocID>					<Text>Placenta previa (Vcestné lůžko)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA_DESCRIPTION</LocID>		<Text>Abnormální implantace placenty na vnitřním otvoru děložního čípku nebo v jeho blízkosti, takže má tendenci předcházet dítěti při narození, což obvykle způsobuje závažné mateřské krvácení.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE</LocID>		<Text>Retroplacentární hematomy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</LocID>	<Text>Retroplacentární hematomy jsou zcela za placentou a nedotýkají se gestačního vaku.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP</LocID>								<Text>Předčasné porodní bolesti</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP_DESCRIPTION</LocID>					<Text>Předčasné porodní bolesti můžou mít za následek předčasný porod.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE</LocID>						<Text>Preeklampsie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE_DESCRIPTION</LocID>			<Text>Závažný stav vyvíjející se v pozdním těhotenství, který je charakterizován náhlým zvýšením krevního tlaku, nadměrným přibýváním na váze, generalizovaným edémem, proteinurií, silnými bolestmi hlavy a zrakovými poruchami, které mohou při neléčení vyústit v eklampsii.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB</LocID>						<Text>Gestační trofoblastické oddělení</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB_DESCRIPTION</LocID>			<Text>Jedná se o rané těhotenské krvácení, které se týká krvácení před 24 týdny gestačního věku.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE</LocID>						<Text>Poporodní krvácení</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE_DESCRIPTION</LocID>			<Text>Poporodní krvácení (PPH) je porodnická nouze. PPH je klasicky definována objemem ztráty krve: odhadovaná ztráta krve ≥ 500 ml po vaginálním porodu nebo ≥ 1000 ml po císařském porodu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF</LocID>								<Text>Poporodní psychóza</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF_DESCRIPTION</LocID>					<Text>Poporodní psychóza (PP) je závažná forma duševního onemocnění, ke kterému dochází po porodu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME</LocID>					<Text>HELLP syndrom</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME_DESCRIPTION</LocID>		<Text>Syndrom HELLP je komplikace těhotenství charakterizovaná hemolýzou, zvýšenými jaterními enzymy a nízkým počtem krevních destiček. Obvykle začíná během posledních tří měsíců těhotenství nebo krátce po porodu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS</LocID>					<Text>Ruptura dělohy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS_DESCRIPTION</LocID>		<Text>Ruptura dělohy je, když se svalová stěna dělohy během těhotenství nebo porodu roztrhne.</Text>	</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

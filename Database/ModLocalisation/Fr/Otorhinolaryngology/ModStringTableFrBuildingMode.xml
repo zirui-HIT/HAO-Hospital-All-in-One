@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_FR_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>fr</LanguageCode>
+<LanguageNameLocalized>Français</LanguageNameLocalized>
+<Contributors>
+<Name>gludo27</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>Cabinet d'ORL</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Un cabinet de médecin spécialisé dans l'oreille, le nez et la gorge. Personnel requis: \ n1x médecin</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>Unité de diagnostique</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>L'unité de diagnostic du département d'ORL pratique des examens et de traitements aux patients hospitalisés. \ n \ nMin. Besoins en personnel: \ n1x médecin \ n (personnel basé dans une salle de garde)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>salle d'échographie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>L'unité d'échographie fournit des examens et des traitements spécifiques par échographie. \ n \ nMin. Besoins en personnel: \ n1x Technicien - échographe</Text>  
+	</GameDBLocalizedString>
+            
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

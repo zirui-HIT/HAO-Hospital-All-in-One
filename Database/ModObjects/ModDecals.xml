@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <!-- Sexual Health -->
+    <GameDBObject ID="ADDON_OBJECT_DECAL_SEX_HEALTH">
+        <AbbreviationLocID>ADDON_OBJECT_DECAL_SEX_HEALTH_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_MOD_NAME_DECALS_SEX_HEALTH</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>3</TextureIDSE>
+        <TextureIDSW>2</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_DECAL_SEX_HEALTH_CUSTOM_ICON</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <CustomIconFile>Addons/ModTrees/icon_decal_rad.png</CustomIconFile>
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Gynecology -->
+    <GameDBObject ID="OBJECT_DECAL_GYNECO_DPT">
+        <AbbreviationLocID>OBJECT_DECALS_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_GYNECO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_GYNECO_DPT_ICON_5</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Oncology -->
+    <GameDBObject ID="OBJECT_DECAL_MOD_ONCO">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON001</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+    <GameDBObject ID="OBJECT_DECAL_MOD_ONCO1">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON002</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+    <GameDBObject ID="OBJECT_DECAL_MOD_ONCO2">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>8</TextureIDNW>
+        <TextureIDNE>9</TextureIDNE>
+        <TextureIDSE>10</TextureIDSE>
+        <TextureIDSW>11</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON003</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+    <GameDBObject ID="OBJECT_DECAL_MOD_ONCO3">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>12</TextureIDNW>
+        <TextureIDNE>13</TextureIDNE>
+        <TextureIDSE>14</TextureIDSE>
+        <TextureIDSW>15</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON004</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Otorhinolaryngology -->
+    <GameDBObject ID="ADDON_OBJECT_DECAL_ENT">
+        <AbbreviationLocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ENT_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_OR_DECAL_ENT</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <CustomIconFile>Addons/ModTrees/icon_decal_rad.png</CustomIconFile>
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Plastic -->
+    <GameDBObject ID="OBJECT_DECAL_MOD_PLAS">
+        <AbbreviationLocID>OBJECT_DECAL_PLAS_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_PLAS_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_PLAS_CUSTOM_ICON001</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Urology -->
+    <GameDBObject ID="OBJECT_DECAL_MOD_UR">
+        <AbbreviationLocID>OBJECT_DECAL_MOD_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_MOD_DECALS_UR</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_MOD_DECAL_PROP_UR</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Diagnostics -->
+   <GameDBObject ID="OBJECT_DECAL_MOD_DIAG">
+        <AbbreviationLocID>OBJECT_DECAL_DIAG_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_DIAG_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_DIAG_CUSTOM_ICON001</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions/>
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+</Database>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_FR_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>fr</LanguageCode>
+        <LanguageNameLocalized>Français</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>MacNaab</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Test de Freinage minute</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Freinage minute - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>Le test de freinage minute peut être réalisé en ambulatoire. La cortisolémie est mesurée le matin entre 6 et 8 h, après la prise orale de 1 mg de dexaméthasone la veille à 23 h.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>Test au Synacthène</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>Test Synacthène - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>Il consiste en une injection IM ou IV d'une ampoule de 0,25 mg de Synacthène® (tétracosactide, un analogue de l'ACTH), suivie d'un dosage de la cortisolémie à 30 minutes et/ou 1 heure. Le test est positif si la cortisolémie au temps indiqué dépasse 18 μg/dl [500 nmol/l]. Une réponse normale élimine une insuffisance surrénale quelle que soit son origine.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>Test de Coombs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>Test de Coombs - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>Le test de Coombs direct permet la détection d’anticorps à la surface du globule rouge capables de le détruire (hémolyse) et d’entraîner une anémie.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>Test cassures K</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>Test cassures K - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>Le test de cassures chromosomiques induites par le diépoxybutane (DEB) permet de déterminer la fréquence des cassures chromosomiques spontanées et induites par le DEB.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ================================================== -->
+<!-- v0.02
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Scintigraphie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>La scintigraphie est une méthode d'imagerie médicale de médecine nucléaire qui produit une image fonctionnelle par l'administration d'un médicament radiopharmaceutique (MRP) dont on détecte les rayonnements une fois qu'il a été capté par l'organe ou la cible à examiner.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>La méthode immuno-enzymatique ELISA (de l'anglais enzyme-linked immunosorbent assay, littéralement « dosage d'immunoabsorption par enzyme liée », c'est-à-dire dosage immuno-enzymatique sur support solide) est un examen de laboratoire. Cette méthode est principalement utilisée en immunologie pour détecter la présence d'un anticorps ou d'un antigène dans un échantillon.</Text>	</GameDBLocalizedString>
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

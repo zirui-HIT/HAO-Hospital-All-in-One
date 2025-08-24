@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_CZ_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+<Contributors>
+<Name>XiZyno</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>Otorinolaryngologická ordinace</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Lékařská ordinace se specializací na uši, nos a krk. Personální požadavky:\n1x Doktor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>Diagnostická ordinace</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>Diagnostická ordinace na oddělení otorinolaryngologie poskytuje vyšetřovací a léčebné postupy pro hospitalizované pacienty. \n\nMin. personální požadavky: \n1x Doktor \n(Personál sídlící na pohotovosti)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>Sonografická ordinace</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>Sonografická ordinace poskytuje specifické ultrazvukové vyšetření a ošetření. \n\nMin. personální požadavky: \n1x Technolog - USG</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB</LocID>                               
+		<Text>Spánková laboratoř</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_SLEEP_LAB_DESC</LocID>                   
+		<Text>Laboratoř spánku v oddělení otorinolaryngologie poskytuje studie spánku pro pacienty, kteří mohou mít spánkovou apnoe. \n\nMin. personální požadavky: \n1x Doktor \n(Personál sídlící na pohotovosti)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR</LocID>                               
+		<Text>Audiogramová ordinace</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR_DESC</LocID>                   
+		<Text>Audiogramová ordinace na oddělení otorinolaryngologie poskytuje procedury audiogramů pro hospitalizované pacienty, kteří mohou mít ztrátu sluchu. \n\nMin. personální požadavky: \n1x Technolog - USG</Text>
+	</GameDBLocalizedString>
+            
+	
+   
+    
+	
+   	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT</LocID>                       	
+	<Text>ENT obraz</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>                       	
+	<Text>Obraz na stěnu</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>                       	
+	<Text>Bambusová rostlina</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>                       	
+	<Text>Dekorativní rostlina </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>                       	
+	<Text>Plakát - COVID-19</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>                       	
+	<Text>Dekorace </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>                       	
+	<Text>Plakát - Streptokok</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>                       	
+	<Text>Dekorace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>                       	
+	<Text>Prázdná police</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>                       	
+	<Text>Dekorativní prázdná police </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF</LocID>                       	
+	<Text>Medicínská police</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>                       	
+	<Text>Dekorativní police s dekorativními předměty</Text>  
+	</GameDBLocalizedString>
+	
+
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH</LocID>                       	
+	<Text>Polysomnograf</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</LocID>                       	
+	<Text>Polysomnograf je forma spánkového polygrafu používaného k zaznamenávání různých fyziologických proměnných u spícího pacienta. Patří mezi ně srdeční frekvence (EKG), respirační charakteristiky, funkce mozku (EEG) a svalová aktivita (EMG).</Text>  
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_DE_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>de</LanguageCode>
+        <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Grundner</Name>
+            <Name>Noah Sp</Name>
+			<Name>Jan88666</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+						
+			      			
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>   
+				<Text>Genital-Screening - Probenentnahme</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>       
+				<Text>Genital-Screening - Analyse der Proben</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>  
+				<Text>Genitaltupfer</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>  
+				<Text>Genitaltupferanalyse</Text>
+			</GameDBLocalizedString>				
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID> 
+				<Text>Mit einem kleinen Probenehmer wird vorsichtig eine kleine Anzahl von Zellen aus dem Gebärmutterhals oder dem Anus entnommen. Die Zellen werden in einem Labor analysiert. </Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>       
+				<Text>Analyse von Zellen us dem Gebärmutterhals oder dem Anus</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+				<Text>Ein Tupfer wird entweder aus der Vagina oder dem Penis entnommen.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>      
+				<Text>Die Tupferkultur wird analysiert, um Anzeichen einer Infektion festzustellen.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Spermasammlung</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Die Samenentnahme bezieht sich auf den Prozess der Samenentnahme vom Patienten, normalerweise durch Masturbation, wobei die Probe in einen sauberen Becher geleitet wird.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Analyse der Samenentnahme</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>Die Samensammlung wird analysiert.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Leistenuntersuchung</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Untersuchung der Leistengegend des Patienten.</Text>
+			</GameDBLocalizedString>
+
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

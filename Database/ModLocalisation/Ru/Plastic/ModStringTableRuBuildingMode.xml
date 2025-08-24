@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_RU_ADDON_PLAS_BUILDING_MODE">
+<LanguageCode>ru</LanguageCode>
+<LanguageNameLocalized>Русский</LanguageNameLocalized>
+<Contributors>
+<Name>Anubis</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_PLAS_OFFICE</LocID>                          	
+		<Text>Кабинет пластического хирурга</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_PLAS_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Кабинет врача, специализирующегося на пластической хирургии. \n\nМин. требования к персоналу: \n1x врач</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_PLAS_OFFICE</LocID>                               
+		<Text>Кабинет общей диагностики</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_PLAS_OFFICE_DESC</LocID>                   
+		<Text>Кабинет общей диагностики в отделения пластической хирургии обеспечивает обследование и лечение госпитализированных пациентов. \n\nМин. требования к персоналу: \n1x врач \n(персонал, работающий в оридинаторской)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_PLAS</LocID>       			
+		<Text>Пластическия хирургия А</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_PLAS_DESC</LocID>       
+		<Text>Плакат на стену</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

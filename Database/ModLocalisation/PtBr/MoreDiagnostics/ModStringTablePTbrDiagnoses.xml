@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PTBR_ADDON_MORE_DG_DIAGNOSES">
+
+        <LanguageCode>ptbr</LanguageCode>
+        <LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Nathan Silva</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Clinique ================================================== -->
+			
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RA</LocID>												<Text>Estenose aórtica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_RA_DESCRIPTION</LocID>									<Text>Estenose aórtica é um estreitamento da válvula aórtica. Essa válvula é a que permite o fluxo de sangue desde o ventrículo esquerdo do coração até a aorta, e dela para o corpo. A estenose impede a válvula de abrir corretamente, forçando o coração a trabalhar mais para bombear o sangue através da válvula.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_IA</LocID>												<Text>Insuficiência aórtica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_IA_DESCRIPTION</LocID>									<Text>Insuficiência aórtica (IA) , insuficiência de válvula aórtica (IVA) ou regurgitação aórtica é um transtorno da válvula aórtica caracterizado pelo retorno do sangue da aorta para o o ventrículo esquerdo do coração durante a diástole ventricular. O fluxo sanguíneo ineficiente causa inicialmente fatiga e fraqueza. O ventrículo se hipertrofia(cresce) para compensar e faz cada vez mais força para expulsar o sangue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SYNCOPE_NC</LocID>										<Text>Síncope neurocardiogênica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SYNCOPE_NC_DESCRIPTION</LocID>							<Text>Queda súbita de frequência cardíaca e pressão arterial que provoca desmaios, muitas vezes em reação a um fator desencadeante estressante..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPOTA_ORTHO</LocID>										<Text>Hipotensão ortostática</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>							<Text>Hipotensão ortostática também conhecida como hipotensão postural, ortostase e coloquialmente como tontura é uma forma de hipotensão em que a pressão arterial de uma pessoa cai abruptamente quando esta pessoa assume a posição de pé ou quando realiza uma alongamento como inclinar-se para trás, esticar os braços ou levantar-se rápido.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_STOKESADAMS</LocID>									<Text>Síndrome de Adams-Stokes</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_STOKESADAMS_DESCRIPTION</LocID>						<Text>A síndrome de Stokes-Adams é uma patologia marcada por episódios de síncopes súbitas periódicas, que podem vir ou não acompanhadas de convulsões, resultantes de arritmias cardíacas geralmente com bradicardia. Elas são caracterizadas por diminuição do débito cardíaco e perda de consciência devido a uma restrição de oxigênio para o cérebro..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_LIPOTHYMIE</LocID>										<Text>Pré-síncope</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_LIPOTHYMIE_DESCRIPTION</LocID>							<Text>A tontura também pode ser chamada de pré-síncope, em contraste com a síncope (desmaio), principalmente nos casos de perda temporária do campo visual. A tontura é uma sensação de tontura comum e normalmente desagradável ou uma sensação de desmaio. A sensação de tontura pode ser de curta duração, prolongada ou, raramente, recorrente. Além da tontura, o indivíduo pode sentir como se sua cabeça não tivesse peso. O indivíduo também pode sentir como se a sala estivesse "girando" ou se movendo (vertigem) associada à tontura. A maioria das causas de tontura não é grave e se cura rapidamente, ou é facilmente tratada.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FIBRILLATION_ATRIALE</LocID>								<Text>Fibrilação atrial</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_FIBRILLATION_ATRIALE_DESCRIPTION</LocID>					<Text>A fibrilação atrial ocorre quando as câmaras superiores do coração, ou átrios, não contraem-se em ritmo síncrono, em vez disso, eles tremem ou fibrilam. Isto significa que eles batem muito rapidamente e de forma irregular. O sangue não é bombeado com eficiência para o resto do organismo, o que pode fazer você se sentir fraco ou cansado, ou experimentar sensações desconfortáveis no coração como um batimento cardíaco irregular ou acelerado..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DYSFONCTION_SINUSALE</LocID>								<Text>Síndrome do nódulo sinusal</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_DYSFONCTION_SINUSALE_DESCRIPTION</LocID>					<Text>A Síndrome do nó sinusal é um grupo de ritmos cardíacos anormais (arritmias), presumivelmente causados por um mau funcionamento do nó sinusal, o marcapasso primário do coração. A síndrome da taquicardia-bradicardia é uma variante da síndrome do seio doente, na qual a arritmia alterna entre batimentos cardíacos lentos e rápidos. A síndrome de taquicardia-bradicardia é frequentemente associada a doenças cardíacas isquêmicas e valvares cardíacas.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ATRIOVENTRICULAIRE</LocID>							<Text>Bloqueio atrioventricular</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BLOC_ATRIOVENTRICULAIRE_DESCRIPTION</LocID>				<Text>O bloqueio atrioventricular de segundo grau é uma doença do sistema de condução elétrica do coração. Trata-se de um bloqueio de condução entre os átrios e os ventrículos. .</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BB_GAUCHE</LocID>											<Text>Bloqueio de Ramo Esquerdo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BB_GAUCHE_DESCRIPTION</LocID>								<Text>O bloqueio de ramo esquerdo caracteriza-se por um atraso ou bloqueio na condução de impulsos elétricos na região intraventricular do lado esquerdo do coração, levando a um prolongamento do intervalo QRS no eletrocardiograma, podendo ser parcial ou total.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TACHYCARDIE_VENTRICULAIRE</LocID>							<Text>Ventricular tachycardia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TACHYCARDIE_VENTRICULAIRE_DESCRIPTION</LocID>				<Text>Taquicardia ventricular é um ritmo cardíaco iniciado nos ventrículos (câmaras inferiores do coração) e produz uma frequência cardíaca de pelo menos 120 batimentos por minuto (a frequência cardíaca normal costuma ser de 60 a 100 batimentos por minuto)..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BOUVERET</LocID>											<Text>Síndrome de Bouveret-Hoffmann</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_BOUVERET_DESCRIPTION</LocID>								<Text>É um batimento cardíaco acelerado que não se origina nem dos átrios nem dos ventrículos, mas de um nó responsável pela propagação de impulsos elétricos do coração.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TORSADE_DE_POINTES</LocID>								<Text>Torções das pontas</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_TORSADE_DE_POINTES_DESCRIPTION</LocID>					<Text>Torções das pontas são um fenômeno identificado no eletrocardiograma como um tipo de arritmia ventricular polimórfica rara, adquirida ou congênita, associada a uma perturbação na repolarização ventricular repolarização retardada ou alongada. É uma emergência médica e pode causar morte súbita cardíaca.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_WPW</LocID>											<Text>Síndrome de Wolff-Parkinson-White</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_SD_WPW_DESCRIPTION</LocID>								<Text>A síndrome de Wolff-Parkinson-White é uma doença congênita em que há uma conexão elétrica adicional entre os átrios e os ventrículos. Os portadores dessa doença podem ter episódios de batimentos cardíacos extremamente acelerados..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICG</LocID>											<Text>Insuficiência cardíaca do lado esquerdo</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICG_DESCRIPTION</LocID>								<Text>A insuficiência cardíaca do lado esquerdo ocorre quando o ventrículo esquerdo não bombeia eficientemente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICD</LocID>											<Text>Insuficiência cardíaca do lado direito</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_MDG_ICD_DESCRIPTION</LocID>								<Text>A insuficiência cardíaca do lado direito ocorre quando o ventrículo direito não bombeia eficientemente.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AOMI</LocID>												<Text>DAOP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_AOMI_DESCRIPTION</LocID>									<Text>A doença arterial periférica é uma situação que ocorre em virtude do estreitamento ou obstrução dos vasos sanguíneos arteriais, responsáveis por levar o sangue para nutrir as extremidades como braços e pernas, sendo mais comum o acometimento nos membros inferiores do que nos superiores..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_AAA</LocID>										<Text>AAA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>							<Text>O aneurisma da aorta abdominal (AAA) é um aumento localizado da aorta abdominal, de modo que o diâmetro é maior que 3 cm ou mais de 50% maior que o normal.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_POPLITE</LocID>									<Text>AAP</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>						<Text>Os aneurismas da artéria poplítea (AAP) estão inchados e fracos na parede da artéria poplítea, que fornece sangue para a articulação do joelho, coxa e panturrilha.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ISCHEMIE_MESENTERIQUE_CHRONIQUE</LocID>					<Text>Isquemia mesentérica crônica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOREDG_ISCHEMIE_MESENTERIQUE_CHRONIQUE_DESCRIPTION</LocID>		<Text>A isquemia digestiva crônica afeta os idosos; predomina nas mulheres em mais de 70% dos casos. Esta patologia é incomum e indica uma doença ateromatosa avançada e difusa.</Text>	</GameDBLocalizedString>
+			
+
+			<!-- ================================================== Urgences ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_URGENCE_HTA</LocID>									<Text>Emergência hipertensiva</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>						<Text>A emergência hipertensiva é caracterizada por hipertensão, geralmente grave (ou instalada rapidamente em um paciente normotenso) e associada a danos agudos nos órgãos-alvo..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MS</LocID>									<Text>Isquemia aguda do membro superior</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>						<Text>A isquemia aguda de um membro ocorre quando há uma súbita falta de fluxo sanguíneo para um membro.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MI</LocID>									<Text>Isquemia aguda do membro inferior</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>						<Text>A isquemia aguda de um membro ocorre quando há uma súbita falta de fluxo sanguíneo para um membro.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>							<Text>Isquemia mesentérica aguda</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>				<Text>A isquemia mesentérica é uma condição médica na qual ocorre lesão no intestino delgado devido ao suprimento insuficiente de sangue, está associada a um alto risco de morte.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AAA</LocID>									<Text>Ruptura do aneurisma da aorta abdominal</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AAA_DESCRIPTION</LocID>						<Text>Ruptura do aneurisma da aorta abdominal.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AIC</LocID>									<Text>Aneurisma Ilíaco Comum de Ruptura</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MOREDG_RUPTURE_AIC_DESCRIPTION</LocID>						<Text>Ruptura do aneurisma ilíaco comum.</Text>	</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

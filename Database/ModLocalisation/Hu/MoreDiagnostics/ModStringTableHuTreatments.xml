@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++  v0.01  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Káliumsó</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>A legelterjedtebben alkalmazott kálium-klorid, mikrokapszulázott formában. Orális kálium-kiegészítő.</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Hidratáló krém</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>Kozmetikai készítmény, a bőr kiszáradásának megelőzésére és kezelésére.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Glükóz infúzió</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Vénás glükóz infúzió.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Hidrokortizone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>A hidrokortizon, a kortizol hormon neve, ha gyógyszerként kerül forgalomba.</Text>	</GameDBLocalizedString>
+-->
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Androgénpótló kezelés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>Az androgénpótló terápia (ART), amelyet gyakran tesztoszteronpótló terápiának (TRT) hívnak, a hormonterápia egyik formája, amelyben az androgének, gyakran a tesztoszteron helyébe lépnek. Az ART-t gyakran felírják a férfi hipogonadizmus hatásainak ellensúlyozására.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Dopamin agonista</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>A dopamin receptor agonista (DA) olyan vegyület, amely aktiválja a dopamin receptorokat. A dopaminreceptorok két családja létezik, D2-szerű és D1-szerű, és ezek mind G-proteinhez kapcsolt receptorok. A D1- és D5-receptorok a D1-szerű családba tartoznak, a D2-szerű családba tartozik a D2-, D3- és D4-receptorok. A DA-t Parkinson-kórban alkalmazzák, kisebb mértékben depresszió, hiperprolaktinémia és nyugtalan láb szindróma kezelésére.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Hidrokortizon - Fludrokortizon</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>A hidrokortizon és a fludrokortizon társulása.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>D Vitamin</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Szívbillentyű csere</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>A billentyűhelyettesítő műtét egy vagy több szívbillentyű kicserélése akár mesterséges szívbillentyűre.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Pace-Maker</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>A pacemaker, vagyis szívritmus-szabályozó, egy implantátum, amely elektródákkal kapcsolódik a szívhez, és saját elektromos impulzusaival vezérli a szívizmok összehúzódását. A készülék a szinuszcsomó alapritmusa helyett egy beállított szívritmust tart fenn, és olyan esetekben van rá szükség, amikor a szív természetes ritmusa túl lassú, vagy a szív ingerületvezető rendszerében hiba van, így a kamrák és pitvarok aktivitása nincs megfelelően összehangolva. A modern szívritmusszabályzó-készülékek rendkívül rugalmasan programozhatók, és lehetővé teszik, hogy a kardiológus kiválassza az optimális szívritmus-szabályozó módot az egyes betegek esetében. Az olyan pacemakerek, amelyeket a szív területeinek szinkronizálására ültetnek be, több elektródával kapcsolódnak a szívhez. Némelyik szívritmus-szabályozó defibrillátort is tartalmaz.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Beültethető kardioverter-defibrillátor</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Az implantálható kardioverter-defibrillátor (ICD) vagy az automatizált implantálható kardioverter defibrillátor (AICD) a test belsejébe beültethető eszköz, amely képes a szív kardioverzióját, defibrillálását és (modern verziókban) ingerlését elvégezni. Ezért a készülék képes korrigálni a legtöbb életveszélyes szívritmuszavart. Az ICD az első vonalbeli kezelés és profilaktikus kezelés azoknak a betegeknek, akiknél a kamrai fibrilláció és kamrai tachikardia miatt hirtelen szívhalál áll fenn. A jelenlegi készülékek programozhatók a rendellenes szívritmus észlelésére és a terápia programozható antitachikardia ütemezésén keresztül az alacsony energiájú és nagy energiájú sokkok mellett.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revaszkularizáció</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>A vaszkuláris bypass és az angioplasztika a revaszkularizáció két elsődleges eszköze. A Revaszkularizáció másnéven újraereződést jelent. </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>A fasciotomia vagy fasciectomia egy műtéti eljárás, amelynek során a fasciot felvágják, hogy enyhítsék a feszültséget vagy nyomást, és így kezeljék az ebből eredő keringési veszteséget egy szövet vagy izom területén.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Stent beültetése</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Az aneurizmális terület kizárása a keringési áramlásból érrendszeri protézis beillesztésével. Az átültetés során a protéziscsövet az aneurizma felett és alatt egyaránt varrják az artéria rekonstrukciója céljából.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Adrenalektómia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Az egyik vagy mindkét mellékvese műtéti eltávolítása.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Sebészeti kimetszés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Sebészeti kimetszés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>A kimetszés egy sebészeti eljárás, amelynek során eltávolítják a szervezetből egy káros vagy haszontalan részt.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Thyroidectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>A pajzsmirigy sebészi úton való eltávolítása.</Text>	</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

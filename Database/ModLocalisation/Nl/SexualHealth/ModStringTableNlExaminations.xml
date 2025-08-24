@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_NL_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>nl</LanguageCode>
+        <LanguageNameLocalized>Nederlands</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Spookiieej</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID> 
+				<Text>Genitaal onderzoek</Text>  
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>    
+				<Text>Analyse van genitaal onderzoek</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>  
+				<Text>Genitaal uitstrijkje</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>   
+				<Text>Analyse van genitaal uitstrijkje</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>     
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>   
+				<Text>Een kleine hoeveelheid cellen wordt voorzichtig verkregen van de baarmoederhals of anus. De cellen worden naar het laboratorium gestuurd om getest te worden.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>   
+				<Text>Baarmoederhals of anale cel analyse</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>    
+				<Text>Een monster wordt genomen van de vagina of de penis.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>  
+				<Text>Het monster wordt geanalyseerd om te zien of er tekenen van infectie zijn.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Semen collection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Semen collection refers to the process of obtaining semen from the patient, usually through masturbation, directing the sample into a clean cup.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Semen collection analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>The semen collection is analysed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Groin examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Examination of the patient's groin area.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_DE_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>de</LanguageCode>
+        <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+        <Contributors>
+        <Name>TristanTurner</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Orchiektomie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>Unter einer Orchiektomie versteht man die chirurgische Entfernung des Hodens. Ist in erster Linie bei bösartigem Hodenkrebs indiziert.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Teste den erhaltenen Hoden bei Orchiektomie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Teste den erhaltenen Hoden bei Orchiektomie.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Hoden palpation</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>Abtasten des Hodens auf Größe, Position und Form.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

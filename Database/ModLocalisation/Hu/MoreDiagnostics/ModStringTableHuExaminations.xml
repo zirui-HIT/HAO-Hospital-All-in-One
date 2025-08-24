@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Dexametazon-szuppressziós teszt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Dexametazon-szuppressziós teszt - Tesztelés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>A dexametazon-szuppressziós teszt (DST) a mellékvesék működésének felmérésére szolgál annak mérésével, hogy a kortizolszintek hogyan változnak a dexametazon injekciójára adott válaszként. Általában Cushing-szindróma diagnosztizálására használják.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>ACTH stimulációs teszt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>ACTH stimulációs teszt - Tesztelés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>Az ACTH-teszt (más néven kozyntropin, tetrakozactid vagy Synacthen teszt) egy olyan orvosi vizsgálat, amelyet általában az endokrinológusok rendelnek el és értelmeznek, hogy felmérjék a mellékvesék stresszválaszának működését az adrenokortikotrop hormonra (ACTH; corticotropin) adott adrenális válasz mérésével (corticotropic szerrel, például tetrakozaktid (kozintropinnal tetracosactrin; Synacthen) vagy alsactide (Synchrodyn)). Az ACTH egy olyan hormon, amelyet az agyalapi mirigy állít elő, és amely stimulálja a mellékveséket, a kortizol, a dehidroepiandrosteron (DHEA), a dehidroepiandrosteron-szulfát (DHEA-S) és az aldoszteron felszabadítására. A teszt során kis mennyiségű szintetikus ACTH-t fecskendeznek be, és megmérik a kortizol (és néha az aldoszteron) mennyiségét, amelyet a mellékvese válaszul termel. Ez a teszt enyhe mellékhatásokat okozhat egyes pácienseknél.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Szcintigráfia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>A szcintigráfia a nukleáris orvostudomány egyik diagnosztikai módszere. A vizsgálat során kis mennyiségű radioaktív anyagot juttatnak a szervezetbe vénás injekció formájában. A vizsgálathoz kétféle radiofarmakonra van szükség, ezért a beteg két injekciót kap. Az egyik anyag, a technécium csak a pajzsmirigyszövetben dúsul, a másik, a MIBI a pajzsmirigyben és a túlműködő mellékpajzsmirigy-szövetben is halmozódik. A MIBI beadása után 45 perccel egy SPECT/CT vizsgálatra kerül sor (kb. 20 perc), majd rögtön egy másik kamerával a páciens pajzsmirigyéről készül felvétel. Ezután a vizsgálati alany megkapja a technécium injekciót, majd 15 perc múlva egy újabb sorozat készül a nyakáról. Vagyis összességében kb. 2 órát vesz igénybe a teljes vizsgálat.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Tesztelés</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>Az enzimhez kapcsolt immunszorbens vizsgálat (ELISA) egy általánosan alkalmazott analitikai biokémiai vizsgálat. A vizsgálatban szilárd fázisú enzim immunoassay-t (EIA) használunk egy ligandum (általában egy fehérje) jelenlétének kimutatására egy folyékony mintában, a mért protein elleni antitestek felhasználásával. Az ELISA-t diagnosztikai eszközként használták az orvostudományban, a növénypatológiában és a biotechnológiában, valamint a minőség-ellenőrzés ellenőrzésére a különböző iparágakban. Az ELISA legegyszerűbb formájában az antigének a mintából egy felülethez kapcsolódnak. Ezután egy megfelelő antitestet hordunk fel a felületre, hogy kötődhessen az antigénhez. Ezt az ellenanyagot egy enzimhez kapcsolják, és az utolsó lépésben hozzáadunk egy anyagot, amely az enzim szubsztrátját tartalmazza. A következő reakció detektálható jelet generál, leggyakrabban színváltozást.</Text>	</GameDBLocalizedString>
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

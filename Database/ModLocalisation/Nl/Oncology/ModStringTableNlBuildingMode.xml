@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_NL_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>nl</LanguageCode>
+<LanguageNameLocalized>Nederlands</LanguageNameLocalized>
+<Contributors>
+<Name>emilievdb</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
+		<Text>Oncologie spreekkamer</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Spreekkamer voor dokters gespecialiseerd in Oncologie. Min. personeel benodigd:\n1x Dokter</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO</LocID>       			
+		<Text>Oncologie</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_ONCO_DESC</LocID>       
+		<Text>Muursticker</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>                               
+		<Text>Diagnostiek ruimte</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>                   
+		<Text>Diagnostiek ruimte op de afdeling Oncologie biedt onnderzoeks- en behandelingsprocedures voor in het ziekenhuis opgenomen patiënten.\n\nMin. personeel benodigd \n1x Dokter \n(Personeel in standby-ruimte)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>                   
+		<Text>Oncologie neurologisch onderzoek ruimte</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>       
+		<Text>Neurologisch onderzoek ruimte biedt specifieke neurologische onderzoeken voor oncologische ondersteuning. \n\nMin. personeel benodigd: \n1x Laborant - Neuroloog</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>                     
+		<Text>Echografie ruimte</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>         
+		<Text>Echografie ruimte biedt specifieke op echografie gebaseerde onderzoeken en behandelingen. \n\nMin. personeel benodigd: \n1x Laborant - Echografie</Text>  
+	</GameDBLocalizedString>
+            
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

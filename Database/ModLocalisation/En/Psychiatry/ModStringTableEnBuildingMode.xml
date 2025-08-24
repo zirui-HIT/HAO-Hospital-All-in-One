@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_NEW_PSY_PSYCHIATRY_BUILDING_MODE">
+<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>liebesalt</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NEW_PSY_OFFICE</LocID>                          	
+		<Text>Psychiatrist's Office</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NEW_PSY_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Psychiatrist's office for outpatients, also serving as a psychotherapy room.</Text>  
+	</GameDBLocalizedString>
+  <GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_NEW_PSY_OFFICE</LocID>                          	
+		<Text>Psychiatry Diagnotistic Unit</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_NEW_PSY_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Provides examination and treatment for hospitalized Psychiatry patients.</Text>  
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_NEW_PSY_MECT</LocID>              	
+		<Text>MECT Device</Text>  
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_NEW_PSY_MECT_DESC</LocID>              	
+		<Text>Modified Electroconvulsive Therapy (MECT) device induces generalized seizures by using direct current to treat mental disorders such as mood disorders and schizophrenia. Thymatron and spECTrum series are predominantly used in China.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UNIQUE_NEW_PSY_OFFICE</LocID>              	
+		<Text>MECT Room</Text>  
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UNIQUE_NEW_PSY_OFFICE_DESC</LocID>              	
+		<Text>A special unit that performs MECT therapy, providing general anesthesia, hyperbaric oxygen treatment, EEG/ECG monitoring, etc..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NEW_PSY_SLEEPING_EXAMINATION_ROOM</LocID>              	
+		<Text>Sleep Study Room</Text>  
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NEW_PSY_SLEEPING_EXAMINATION_ROOM_DESCRIPTION</LocID>              	
+		<Text>A special unit that performs sleep studies.</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

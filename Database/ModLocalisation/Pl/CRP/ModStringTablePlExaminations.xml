@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_PL_ADDON_CRP_EXAMINATIONS">
+        <LanguageCode>pl</LanguageCode>
+        <LanguageNameLocalized>Polski</LanguageNameLocalized>
+        <Contributors>
+            <Name>Beniaminek</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			
+						
+
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN</LocID>								<Text>Badanie piersi</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN_DESCRIPTION</LocID>					<Text>Kontrola wzrokowa i badanie palpacyjne piersi.</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV</LocID>						<Text>Sonografia miednicy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV_DESCRIPTION</LocID>			<Text>Sonografia okolicy miednicy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_SAMPLING</LocID>						<Text>Badanie cytologiczne</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_TESTING</LocID>						<Text>Badanie cytologiczne</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_DESCRIPTION</LocID>					<Text>Metoda wczesnego wykrywania raka, zwłaszcza szyjki macicy, polegająca na barwieniu złuszczonych komórek za pomocą specjalnej techniki, która różnicuje chore tkanki.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_SAMPLING</LocID>					<Text>Pobieranie próbek OGTT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_TESTING</LocID>						<Text>Test OGTT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_DESCRIPTION</LocID>					<Text>Test tolerancji glukozy, znany również jako doustny test tolerancji glukozy (OGTT), mierzy odpowiedź organizmu na cukier (glukozę).</Text>	</GameDBLocalizedString>
+
+			
+			
+					
+			
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Scyntygrafia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>Scyntygrafia (z łacińskiej scyntyli „iskra”), znana również jako skan gamma, jest testem diagnostycznym w medycynie nuklearnej, w którym radioizotopy dołączone do leków, które docierają do określonego narządu lub tkanki (radiofarmaceutyki) są pobierane wewnętrznie, a emitowane promieniowanie gamma jest przechwytywany przez zewnętrzne detektory (kamery gamma) w celu utworzenia dwuwymiarowych obrazów w procesie podobnym do rejestrowania obrazów rentgenowskich.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>Test Immunoenzymatyczny(ELISA)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>Test Immunoenzymatyczny(ELISA)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>Test immunoenzymatyczny (ELISA) jest powszechnie stosowanym analitycznym testem biochemicznym. W teście stosuje się enzymatyczny test immunologiczny na fazie stałej (EIA) w celu wykrycia obecności ligandu (zwykle białka) w płynnej próbce przy użyciu przeciwciał skierowanych przeciwko mierzonemu białku. Test ELISA został wykorzystany jako narzędzie diagnostyczne w medycynie, patologii roślin i biotechnologii, a także jako kontrola kontroli jakości w różnych branżach. W najprostszej formie testu ELISA antygeny z próbki są przymocowane do powierzchni. Następnie na powierzchnię nakłada się pasujące przeciwciało, aby mogło związać się z antygenem. Przeciwciało to jest połączone z enzymem, aw ostatnim etapie dodaje się substancję zawierającą substrat enzymu. Kolejna reakcja wytwarza wykrywalny sygnał, najczęściej zmianę koloru.</Text>	</GameDBLocalizedString>
+
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

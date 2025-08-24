@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_EN_ADDON_MOD_OPHTHALMOLOGY_SYMPTOMS">
+    <LanguageCode>en</LanguageCode>
+    <LanguageNameLocalized>English</LanguageNameLocalized>
+    <Contributors>
+      <Name>WDZRMPCBIT</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OCULAR_DRYNESS</LocID>
+        <Text>Ocular Dryness</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OCULAR_DRYNESS_DESCRIPTION</LocID>
+        <Text>A subjective sensation of dryness, lack of lubrication, or grittiness in the eyes.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FOREIGN_BODY_SENSATION</LocID>
+        <Text>Foreign Body Sensation</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FOREIGN_BODY_SENSATION_DESCRIPTION</LocID>
+        <Text>The patient reports discomfort as if there is sand or a foreign object scratching inside the eye.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BURNING_STINGING</LocID>
+        <Text>Burning or Stinging Sensation</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BURNING_STINGING_DESCRIPTION</LocID>
+        <Text>A burning or stinging pain caused by ocular surface irritation.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPHOBIA</LocID>
+        <Text>Photophobia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPHOBIA_DESCRIPTION</LocID>
+        <Text>Discomfort or worsening of eye pain induced by light stimulation.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLUCTUATING_VISION</LocID>
+        <Text>Fluctuating Vision</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLUCTUATING_VISION_DESCRIPTION</LocID>
+        <Text>Vision that noticeably improves and worsens throughout the day or after eye use.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TBUT_POSITIVE</LocID>
+        <Text>Reduced Tear Film Break-Up Time</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TBUT_POSITIVE_DESCRIPTION</LocID>
+        <Text>Fluorescein test shows decreased tear film stability, suggestive of dry eye.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUDDEN_FLOATERS</LocID>
+        <Text>Sudden Increase in Floaters</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUDDEN_FLOATERS_DESCRIPTION</LocID>
+        <Text>Appearance or significant increase of floating dark spots in a short period.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPSIA_FLASHES</LocID>
+        <Text>Photopsia / Flashes</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPSIA_FLASHES_DESCRIPTION</LocID>
+        <Text>Sensation of lightning-like flashes in the field of vision, often related to vitreous traction.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CURTAIN_VISION_LOSS</LocID>
+        <Text>Curtain-like Shadow in Vision</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CURTAIN_VISION_LOSS_DESCRIPTION</LocID>
+        <Text>A dark shadow advancing from the top, bottom, or side towards the center of the visual field.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ACUTE_DECREASED_VA</LocID>
+        <Text>Acute Decrease in Visual Acuity</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ACUTE_DECREASED_VA_DESCRIPTION</LocID>
+        <Text>A significant reduction in the level of vision over a short period.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PERIPHERAL_FIELD_DEFECT</LocID>
+        <Text>Peripheral Field Defect</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PERIPHERAL_FIELD_DEFECT_DESCRIPTION</LocID>
+        <Text>Visual field testing indicates decreased or absent sensitivity in the peripheral range.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_BREAK_DETACHMENT_SEEN</LocID>
+        <Text>Retinal Break/Detachment Observed</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_BREAK_DETACHMENT_SEEN_DESCRIPTION</LocID>
+        <Text>Direct observation of a retinal tear or elevation during fundus examination.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYE_PAIN</LocID>
+        <Text>Eye Pain</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYE_PAIN_DESCRIPTION</LocID>
+        <Text>Persistent pain or aching discomfort in the eye.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CILIARY_FLUSH_RED_EYE</LocID>
+        <Text>Ciliary Flush / Red Eye</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CILIARY_FLUSH_RED_EYE_DESCRIPTION</LocID>
+        <Text>A ring of purplish-red congestion around the cornea, indicative of anterior segment inflammation.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BLURRED_VISION</LocID>
+        <Text>Blurred Vision</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BLURRED_VISION_DESCRIPTION</LocID>
+        <Text>Lack of sharpness in both distance and near vision, which may worsen with fatigue.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CONSENSUAL_PHOTOPHOBIA</LocID>
+        <Text>Consensual Photophobia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CONSENSUAL_PHOTOPHOBIA_DESCRIPTION</LocID>
+        <Text>Pain or increased photophobia in the affected eye when the healthy eye is illuminated.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ANTERIOR_CHAMBER_CELLS_FLARE</LocID>
+        <Text>Anterior Chamber Cells/Flare Positive</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ANTERIOR_CHAMBER_CELLS_FLARE_DESCRIPTION</LocID>
+        <Text>Slit-lamp examination reveals floating inflammatory cells and protein exudation.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAINLESS_BLURRING</LocID>
+        <Text>Painless Blurring of Vision</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAINLESS_BLURRING_DESCRIPTION</LocID>
+        <Text>Slowly progressive blurring of vision without associated pain.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_GLARE_HALOS_NIGHT</LocID>
+        <Text>Glare / Night Halos</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_GLARE_HALOS_NIGHT_DESCRIPTION</LocID>
+        <Text>Experience of dazzling light and rings around bright lights or at night.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DECREASED_CONTRAST</LocID>
+        <Text>Decreased Contrast Sensitivity</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DECREASED_CONTRAST_DESCRIPTION</LocID>
+        <Text>Reduced ability to distinguish between an object and its background in grayscale.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIC_SHIFT</LocID>
+        <Text>Myopic Shift</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIC_SHIFT_DESCRIPTION</LocID>
+        <Text>A shift in refractive status towards myopia, resulting in clearer near vision.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MONOCULAR_DIPLOPIA</LocID>
+        <Text>Monocular Diplopia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MONOCULAR_DIPLOPIA_DESCRIPTION</LocID>
+        <Text>Double vision persists after covering the other eye, often associated with lens opacities.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LENS_OPACITY_SEEN</LocID>
+        <Text>Lens Opacity Observed</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LENS_OPACITY_SEEN_DESCRIPTION</LocID>
+        <Text>Direct observation of cortical, nuclear, or posterior capsular opacities of the lens via slit-lamp.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_VISION_LOSS</LocID>
+        <Text>Central Vision Loss</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_VISION_LOSS_DESCRIPTION</LocID>
+        <Text>Reduced visual acuity predominantly affecting the central fixation area.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_METAMORPHOPSIA</LocID>
+        <Text>Metamorphopsia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_METAMORPHOPSIA_DESCRIPTION</LocID>
+        <Text>Straight lines appear bent or distorted, often indicating macular involvement.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRAIGHT_LINES_WAVY</LocID>
+        <Text>Straight Lines Appear Wavy</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRAIGHT_LINES_WAVY_DESCRIPTION</LocID>
+        <Text>Distortion of lines observed during an Amsler grid test.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_SCOTOMA</LocID>
+        <Text>Central Scotoma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_SCOTOMA_DESCRIPTION</LocID>
+        <Text>A blind spot or area of reduced vision in the central visual field.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_READING_DIFFICULTY</LocID>
+        <Text>Difficulty Reading</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_READING_DIFFICULTY_DESCRIPTION</LocID>
+        <Text>Requires brighter light or larger print for near reading.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_AMD_OCT_FA_CONFIRM</LocID>
+        <Text>Macular Neovascularization/Leakage</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_AMD_OCT_FA_CONFIRM_DESCRIPTION</LocID>
+        <Text>Imaging studies reveal macular edema, leakage, or neovascularization.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_PAIN_TENDERNESS</LocID>
+        <Text>Eyelid Pain/Tenderness</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_PAIN_TENDERNESS_DESCRIPTION</LocID>
+        <Text>Significant pain upon touching the eyelid margin, usually due to local inflammation.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LOCALIZED_LID_NODULE</LocID>
+        <Text>Localized Eyelid Nodule</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LOCALIZED_LID_NODULE_DESCRIPTION</LocID>
+        <Text>A red, swollen, and firm lump on the eyelid margin, which may gradually suppurate.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ORBITAL_CELLULITIS</LocID>
+        <Text>Orbital Cellulitis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ORBITAL_CELLULITIS_DESCRIPTION</LocID>
+        <Text>Infection of the soft tissues within the orbit, often accompanied by swelling, tenderness, and fever.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_ERYTHEMA</LocID>
+        <Text>Eyelid Erythema</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_ERYTHEMA_DESCRIPTION</LocID>
+        <Text>Localized flushing of the skin, indicating an inflammatory response.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING</LocID>
+        <Text>Tearing</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING_DESCRIPTION</LocID>
+        <Text>Increased tear secretion or reflex tearing.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PURULENT_LID_PUSTULE</LocID>
+        <Text>Purulent Pustule on Eyelid Margin</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PURULENT_LID_PUSTULE_DESCRIPTION</LocID>
+        <Text>A yellowish-white pus point visible at the base of the eyelashes or the orifice of a meibomian gland.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLOATERS_CHANGING</LocID>
+        <Text>Fluctuating Floaters</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLOATERS_CHANGING_DESCRIPTION</LocID>
+        <Text>The number or shape of floaters changes over time or with blood glucose fluctuations.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_NIGHT_VISION_WORSE</LocID>
+        <Text>Poor Night Vision</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_NIGHT_VISION_WORSE_DESCRIPTION</LocID>
+        <Text>Difficulty seeing in low-light conditions, with loss of detail.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_COLOR_VISION_REDUCED</LocID>
+        <Text>Reduced Color Vision</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_COLOR_VISION_REDUCED_DESCRIPTION</LocID>
+        <Text>Weakened ability to discriminate colors or a sense of faded color.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OSCILLATING_VISION_WITH_GLUCOSE</LocID>
+        <Text>Glucose-Related Vision Fluctuation</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OSCILLATING_VISION_WITH_GLUCOSE_DESCRIPTION</LocID>
+        <Text>Vision fluctuates with changes in blood glucose levels.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DR_FINDINGS_CONFIRMED</LocID>
+        <Text>Diabetic Retinopathy Signs Confirmed</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DR_FINDINGS_CONFIRMED_DESCRIPTION</LocID>
+        <Text>Fundus or imaging shows microaneurysms, hemorrhages, exudates, or neovascularization.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING_EPIPHORA</LocID>
+        <Text>Epiphora (Tearing)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING_EPIPHORA_DESCRIPTION</LocID>
+        <Text>Tears overflowing the eyelid margin, often due to corneal irritation or poor drainage.</Text>
+      </GameDBLocalizedString>
+
+      
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_OPACITY</LocID>
+        <Text>Vitreous Opacity</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_OPACITY_DESCRIPTION</LocID>
+        <Text>Cloudiness in the vitreous humor, potentially affecting vision, common in the elderly or patients with eye diseases.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_HEMORRHAGE</LocID>
+        <Text>Vitreous Hemorrhage</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_HEMORRHAGE_DESCRIPTION</LocID>
+        <Text>Bleeding into the vitreous humor, which can be caused by retinal tears, diabetic retinopathy, or trauma, presenting as decreased vision, floaters, or visual field defects.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_TEAR</LocID>
+        <Text>Retinal Tear</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_TEAR_DESCRIPTION</LocID>
+        <Text>A partial-thickness break in the retina that can lead to retinal detachment; symptoms include flashes, floaters, and visual field defects, requiring prompt treatment.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CORNEAL_ULCER</LocID>
+        <Text>Corneal Ulcer</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CORNEAL_ULCER_DESCRIPTION</LocID>
+        <Text>A defect in the corneal epithelium or stroma, potentially caused by infection, trauma, or dry eye, presenting with pain, redness, tearing, and decreased vision.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUBCONJUNCTIVAL_HEMORRHAGE</LocID>
+        <Text>Subconjunctival Hemorrhage</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUBCONJUNCTIVAL_HEMORRHAGE_DESCRIPTION</LocID>
+        <Text>Bleeding from a ruptured blood vessel under the conjunctiva, typically appearing as a red spot or large patch on the white of the eye, usually painless.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTOSIS_LID_DROOP</LocID>
+        <Text>Ptosis / Eyelid Drooping</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTOSIS_LID_DROOP_DESCRIPTION</LocID>
+        <Text>Abnormally low position of the upper eyelid, which may affect the visual field and appearance, common in neurological or muscular diseases.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MGD_ORIFICE_OBSTRUCTION</LocID>
+        <Text>Meibomian Gland Orifice Obstruction</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MGD_ORIFICE_OBSTRUCTION_DESCRIPTION</LocID>
+        <Text>Blockage of the meibomian gland orifices, leading to abnormal lipid secretion and potentially causing dry eye symptoms.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTERYGIUM_GROWTH_SEEN</LocID>
+        <Text>Fibrovascular Growth on Cornea Observed (Pterygium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTERYGIUM_GROWTH_SEEN_DESCRIPTION</LocID>
+        <Text>A wing-shaped pterygium is present on the conjunctiva, which may cause blurred vision or discomfort, requiring regular monitoring or surgical treatment.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ENTROPION_WITH_TRICHIASIS</LocID>
+        <Text>Entropion with Trichiasis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ENTROPION_WITH_TRICHIASIS_DESCRIPTION</LocID>
+        <Text>Inward turning of the eyelid causes eyelashes to grow inward, potentially irritating the cornea and causing pain or discomfort.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ECTROPION_WITH_PUNCTAL_EVERSION</LocID>
+        <Text>Ectropion with Punctal Eversion</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ECTROPION_WITH_PUNCTAL_EVERSION_DESCRIPTION</LocID>
+        <Text>Outward turning of the eyelid causes exposure of the punctum, potentially leading to abnormal tear drainage or dry eye symptoms.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DENDRITIC_ULCER_STAIN_POSITIVE</LocID>
+        <Text>Dendritic Corneal Ulcer</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DENDRITIC_ULCER_STAIN_POSITIVE_DESCRIPTION</LocID>
+        <Text>Fluorescein staining reveals a branching, tree-like ulcer on the corneal epithelium, characteristic of herpes simplex virus infection.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ABNORMAL_MEIBUM_EXPRESSION</LocID>
+        <Text>Abnormal Meibum Expression</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ABNORMAL_MEIBUM_EXPRESSION_DESCRIPTION</LocID>
+        <Text>Abnormal secretions from the meibomian glands on the eyelids, which may lead to dry eye symptoms or discomfort.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LACRIMAL_SAC_REFLUX</LocID>
+        <Text>Lacrimal Sac Reflux</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LACRIMAL_SAC_REFLUX_DESCRIPTION</LocID>
+        <Text>Regurgitation of fluid from the puncta upon compression of the lacrimal sac, which may indicate nasolacrimal duct obstruction or infection.</Text>
+      </GameDBLocalizedString>
+
+      
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIA_DEFINING</LocID>
+        <Text>Decreased distance vision, significantly improved with negative spherical lens correction</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIA_DEFINING_DESCRIPTION</LocID>
+        <Text>Distant objects are blurry, but vision improves significantly with a negative spherical lens; a defining feature of refractive myopia, distinguishing it from hyperopia/presbyopia.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SQUINTING_FOR_DISTANCE</LocID>
+        <Text>Squinting to see distant objects</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SQUINTING_FOR_DISTANCE_DESCRIPTION</LocID>
+        <Text>The patient squints unconsciously when viewing distant objects to increase depth of field and reduce aberrations, which can subjectively improve clarity slightly.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_POOR_STEREOPSIS</LocID>
+        <Text>Poor stereopsis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_POOR_STEREOPSIS_DESCRIPTION</LocID>
+        <Text>Limited binocular fusion leads to reduced or absent stereoscopic vision, common in individuals with amblyopia or strabismus, affecting fine motor skills and distance judgment.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRABISMUS_PRESENT</LocID>
+        <Text>Visible strabismus</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRABISMUS_PRESENT_DESCRIPTION</LocID>
+        <Text>When one eye fixates on a target, the other eye deviates; can manifest as esotropia, exotropia, or vertical deviation, often accompanied by diplopia or suppression.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUPPRESSION_SCOTOMA</LocID>
+        <Text>Suppression scotoma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUPPRESSION_SCOTOMA_DESCRIPTION</LocID>
+        <Text>To avoid diplopia, the brain actively suppresses the image from one eye, creating a functional scotoma; commonly seen in patients with amblyopia/strabismus.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SCISSORING_REFLEX</LocID>
+        <Text>Scissoring reflex on retinoscopy</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SCISSORING_REFLEX_DESCRIPTION</LocID>
+        <Text>During retinoscopy, the red reflex shows a splitting and crossing scissor-like movement, indicating irregular astigmatism, often seen in keratoconus.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_WEISS_RING_SEEN</LocID>
+        <Text>Weiss ring observed</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_WEISS_RING_SEEN_DESCRIPTION</LocID>
+        <Text>A ring-shaped opacity (Weiss ring) is visible anterior to the optic disc, often indicating posterior vitreous detachment; requires vigilance for associated retinal tears.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_NEOVASCULARIZATION</LocID>
+        <Text>Retinal neovascularization</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_NEOVASCULARIZATION_DESCRIPTION</LocID>
+        <Text>Abnormal, fragile blood vessels formed in response to ischemia, prone to hemorrhage and traction; common in proliferative diabetic retinopathy.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_SEEN</LocID>
+        <Text>Yellow-white choroidal lesions observed</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_SEEN_DESCRIPTION</LocID>
+        <Text>Yellow-white lesions with potentially indistinct borders are seen in the fundus, may be associated with retinal/choroidal reactions, suggesting choroiditis or related diseases.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_ACTIVE</LocID>
+        <Text>Active choroidal lesions</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_ACTIVE_DESCRIPTION</LocID>
+        <Text>Imaging suggests lesions are in an active phase, often accompanied by exudation, fluorescein leakage, or an increase in adjacent vitreous cells.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITRITIS_ACTIVE_CELLS</LocID>
+        <Text>Vitreous inflammatory cells (+)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITRITIS_ACTIVE_CELLS_DESCRIPTION</LocID>
+        <Text>Slit-lamp/fundus examination reveals suspended inflammatory cells and opacities in the vitreous cavity, often indicating active posterior uveitis.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RAPD_POSITIVE</LocID>
+        <Text>Positive RAPD</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RAPD_POSITIVE_DESCRIPTION</LocID>
+        <Text>Swinging flashlight test indicates a relative afferent pupillary defect, commonly seen in unilateral (or asymmetric) optic nerve disease.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAIN_WITH_EYE_MOVEMENT</LocID>
+        <Text>Pain on eye movement</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAIN_WITH_EYE_MOVEMENT_DESCRIPTION</LocID>
+        <Text>Retro-orbital or posterior ocular pain experienced when moving the eyes, often associated with inflammation of the optic nerve and its sheath.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DYSCHROMATOPSIA</LocID>
+        <Text>Dyschromatopsia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DYSCHROMATOPSIA_DESCRIPTION</LocID>
+        <Text>Decreased color discrimination and saturation perception, often affecting the red-green spectrum, and may be accompanied by reduced contrast sensitivity.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM</LocID>
+        <Text>Amblyopia detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM_DESCRIPTION</LocID>
+        <Text>Reduced visual acuity that persists after ruling out organic lesions of the cornea, lens, vitreous, and retina, consistent with the diagnostic criteria for amblyopia.</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_MICROANEURYSMS</LocID>
+        <Text>Retinal microaneurysms</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_MICROANEURYSMS_DESCRIPTION</LocID>
+        <Text>Ophthalmoscopy reveals small, red, dot-like lesions (microaneurysms), mostly in the posterior pole; indicative of mild diabetic retinopathy, typically without neovascularization.</Text>
+      </GameDBLocalizedString>
+  
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

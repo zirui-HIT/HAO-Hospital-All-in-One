@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_FR_ADDON_DIAG_SKILLS">
+
+		<LanguageCode>fr</LanguageCode>
+		<LanguageNameLocalized>Français</LanguageNameLocalized>
+		<Contributors>
+			<Name>Ollyver</Name>
+			<Name>Nom d'utilisateur</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>DPT_DEPARTMENTOFDIAGNOSTICS</LocID>
+				<Text>Department des diagnostics</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DIAG</LocID>
+				<Text>Diagnosticien</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DIAG_DESCR</LocID>
+				<Text>Un diagnosticien est un médecin spécialisé dans la détection, le diagnostic et le traitement de maladies rares, méconnues des autres départements, ou tout simplement difficiles à diagnostiquer en général.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DIAG_SURGERY</LocID>
+				<Text>Chirurgien diagnosticien</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DIAG_SURGERY_DESCR</LocID>
+				<Text>Un chirurgien diagnosticien est un chirurgien spécialisé dans les procédures liées aux traitement de maladies rares.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

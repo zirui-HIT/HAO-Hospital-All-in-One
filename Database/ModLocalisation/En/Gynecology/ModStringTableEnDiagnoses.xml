@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_GYNECOLOGIE_DIAGNOSES">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>	<LocID>DIA_GEU</LocID>								<Text>Ectopic pregnancy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GEU_DESCRIPTION</LocID>					<Text>Development of a fertilized egg elsewhere than in the uterus (as in a fallopian tube or the peritoneal cavity).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK</LocID>								<Text>PCOS</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SOPK_DESCRIPTION</LocID>					<Text>Polycystic ovary syndrome or polycystic ovarian syndrome. A variable disease that is marked by amenorrhea, hirsutism, obesity, infertility, and ovarian enlargement and is usually initiated by an elevated level of luteinizing hormone, androgen, or estrogen which results in an abnormal cycle of gonadotropin release by the pituitary gland.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL</LocID>					<Text>Premenstrual syndrome</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>		<Text>A varying group of symptoms manifested by some women prior to menstruation.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE</LocID>						<Text>Menopause</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>			<Text>The natural cessation of menstruation that usually occurs between the ages of 45 and 55.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE</LocID>						<Text>Endometriosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>			<Text>The presence and growth of functioning endometrial tissue in places other than the uterus.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SS</LocID>						<Text>Subserous fibroma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_SM</LocID>						<Text>Submucous fibroma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_I</LocID>						<Text>Interstitial fibroma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>		<Text>A benign tumor consisting mainly of fibrous tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1</LocID>					<Text>Organic ovarian cyst</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>		<Text>An ovarian cyst is a fluid-filled sac within the ovary. Organic cysts can complicate or degenerate.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2</LocID>					<Text>Functional ovarian cyst</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>		<Text>An ovarian cyst is a fluid-filled sac within the ovary. Functional cysts grow during the menstrual cycle due to a hormonal imbalance.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>			<Text>Ovarian torsion</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>Ovarian torsion is when an ovary twists on its attachment to other structures.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN</LocID>					<Text>Ovarian abscess</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>		<Text>An ovarian abscess is a pus-filled pocket in an ovary. Usually caused by bacteria.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL</LocID>				<Text>Prolapse</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>	<Text>The falling down or slipping of a body part from its usual position or relations.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE</LocID>						<Text>Gonorrhea</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>			<Text>A contagious inflammation of the genital mucous membrane caused by the gonococcus.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE</LocID>						<Text>Chlamydia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>			<Text>A disease or infection caused by chlamydiae.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS</LocID>							<Text>Syphilis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SYPHILIS_DESCRIPTION</LocID>				<Text>A chronic contagious usually venereal and often congenital disease caused by a spirochete (Treponema pallidum).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE</LocID>						<Text>Trichomoniasis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TRICHOMONOSE_DESCRIPTION</LocID>			<Text>Infection with or disease caused by trichomonads.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE</LocID>							<Text>Vaginal mycosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MYCOSE_DESCRIPTION</LocID>				<Text>Infection with or disease caused by a fungus.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE</LocID>								<Text>Pelvic inflammatory disease</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_IGE_DESCRIPTION</LocID>					<Text>Inflammation of the female reproductive tract (such as the fallopian tubes and ovaries) that occurs especially as a result of a sexually transmitted disease and is a leading cause of infertility in women.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE</LocID>						<Text>Pregnancy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GROSSESSE_DESCRIPTION</LocID>			<Text>The state of being pregnant.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN</LocID>					<Text>Precancerous cervix</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_COL_UTERUS_BENIN_DESCRIPTION</LocID>		<Text>Precancerous conditions of the cervix are changes to cervical cells that make them more likely to develop into cancer.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE</LocID>						<Text>Cervicitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CERVICITE_DESCRIPTION</LocID>			<Text>Inflammation of the uterine cervix.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL</LocID>						<Text>Cervical polyp</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_POLYPE_COL_DESCRIPTION</LocID>			<Text>A growth projecting from a mucous membrane.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS</LocID>						<Text>Cervical cancer</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_COL_UTERUS_DESCRIPTION</LocID>			<Text>Cervical cancer is a cancer arising from the cervix. It is due to the abnormal growth of cells that have the ability to invade or spread to other parts of the body.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS</LocID>					<Text>Uterus cancer</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_CORPS_UTERUS_DESCRIPTION</LocID>		<Text>Cancer of the womb (uterine or endometrial cancer) is a common cancer that affects the female reproductive system. It's more common in women who have been through the menopause.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN</LocID>			<Text>Ruptured ovarian cyst</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_RUPTURE_KYSTE_OVARIEN_DESCRIPTION</LocID>	<Text>A ruptured ovarian cyst is a fluid-filled, typically benign (non-cancerous) mass on an ovary that has broken open.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE</LocID>							<Text>Ovarian cancer</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_OVAIRE_DESCRIPTION</LocID>				<Text>Ovarian cancer is a type of cancer that begins in the ovaries.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME</LocID>						<Text>Fibroadenoma</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOFIBROME_DESCRIPTION</LocID>			<Text>A fibroadenoma is a type of lump that can develop in the breast and typically appears in females. Fibroadenomas are very common, but they are benign, which means that they are noncancerous.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK</LocID>								<Text>Fibrocystic breast</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MFK_DESCRIPTION</LocID>					<Text>Fibrocystic breast disease, commonly called fibrocystic breasts or fibrocystic change, is a benign (noncancerous) condition in which the breasts feel lumpy. Fibrocystic breasts aren't harmful or dangerous, but may be bothersome or uncomfortable for some women.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN</LocID>							<Text>Breast cancer</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_K_SEIN_DESCRIPTION</LocID>				<Text>Breast cancer is a disease in which cells in the breast grow out of control. Breast cancer can begin in different parts of the breast.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G</LocID>							<Text>Pregnancy-Induced Hypertension</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HTA_G_DESCRIPTION</LocID>				<Text>Gestational Hypertension also referred to as Pregnancy-Induced Hypertension (PIH) is a condition characterized by high blood pressure during pregnancy. Gestational Hypertension can lead to a serious condition called Preeclampsia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG</LocID>								<Text>Gestational diabetes mellitus</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DG_DESCRIPTION</LocID>					<Text>Gestational diabetes mellitus (GDM) is defined as any degree of glucose intolerance with onset or first recognition during pregnancy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE</LocID>					<Text>Chorioamnionitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHORIOAMNIOTITE_DESCRIPTION</LocID>		<Text>Chorioamnionitis is a bacterial infection that occurs before or during labor. The name refers to the membranes surrounding the fetus: the “chorion” (outer membrane) and the “amnion” (fluid-filled sac).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G</LocID>								<Text>Pregnancy Cystitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CA_G_DESCRIPTION</LocID>					<Text>Cystitis is an infection of the bladder that causes a burning sensation when peeing.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_PNA_G</LocID>							<Text>Pregnancy pyelonephritis </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE</LocID>							<Text>Pregnancy vaginosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_VAGINOSE_DESCRIPTION</LocID>				<Text>A bacterial infection of the vagina causing a smelly white discharge.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES</LocID>						<Text>Baby blues</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_BABY_BLUES_DESCRIPTION</LocID>			<Text>A feeling of sadness that is experienced by a woman shortly after giving birth, usually lasts less than two weeks. Baby blues isn't an illness or even a proper psychiatric diagnosis, it is simply a way that people have tried to describe unpleasant feelings that occur shortly after having a baby and tend to resolve in a few days.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP</LocID>					<Text>Postpartum depression</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_DEPRESSION_PP_DESCRIPTION</LocID>		<Text>Postpartum depression is a mood disorder that can affect women after childbirth. Mothers with postpartum depression experience feelings of extreme sadness, anxiety, and exhaustion that may make it difficult for them to complete daily care activities for themselves or for others.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP</LocID>							<Text>Postpartum endometritis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EA_PP_DESCRIPTION</LocID>				<Text>Postpartum endometritis refers to infection of the decidua.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP</LocID>							<Text>Breast engorgement</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_EM_PP_DESCRIPTION</LocID>				<Text>Breast engorgement means breasts are painfully overfull of milk. This usually occurs when a mother makes more milk than her baby uses.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP</LocID>							<Text>Cracked nipple</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CM_PP_DESCRIPTION</LocID>				<Text>Cracked nipple (or nipple trauma) is a condition that can occur in breastfeeding women as a result of a number of possible causes. Developing a cracked nipple can result in soreness, dryness or irritation to, or bleeding of, one or both nipples during breastfeeding.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP</LocID>							<Text>Mastitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_LM_PP_DESCRIPTION</LocID>				<Text>Mastitis is an inflammation of breast tissue that sometimes involves an infection. The inflammation results in breast pain, swelling, warmth and redness.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE</LocID>					<Text>Infectious mastitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_GALACTOPHORITE_DESCRIPTION</LocID>		<Text>Inflammation of the mammary gland in the breast or udder, typically due to bacterial infection.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE</LocID>					<Text>Breast abscess</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ABCES_MAMMAIRE_DESCRIPTION</LocID>		<Text>A breast abscess is a painful collection of pus that forms in the breast. Most abscesses develop just under the skin and are caused by a bacterial infection.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP</LocID>							<Text>Postpartum deep vein thrombosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVP_PP_DESCRIPTION</LocID>				<Text>Deep vein thrombosis, or DVT, is the development of a blood clot in a deep vein.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV</LocID>							<Text>Pelvic vein thrombosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_TVPELV_DESCRIPTION</LocID>				<Text>Pelvic vein thrombosis may include ovarian vein thrombosis, deep pelvic vein thrombosis, septic pelvic thrombophlebitis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF</LocID>						<Text>Functional hypothalamic amenorrhea</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_AMENORHEE_HF_DESCRIPTION</LocID>			<Text>Functional hypothalamic amenorrhea (FHA) is defined as a non-organic and reversible disorder in which the impairment of gonadotropin-releasing hormone (GnRH) pulsatile secretion plays a key role.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME</LocID>					<Text>Molar pregnancy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_MOLE_HYDATIFORME_DESCRIPTION</LocID>		<Text>Molar pregnancy is an abnormal form of pregnancy in which a non-viable fertilized egg implants in the uterus and will fail to come to term. A molar pregnancy is a gestational trophoblastic disease[1] which grows into a mass in the uterus that has swollen chorionic villi.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE</LocID>				<Text>Aseptic necrobiosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_NECROBIOSE_ASEPTIQUE_DESCRIPTION</LocID>	<Text>Aseptic necrobiosis (red degeneration) of a uterine fibroid is defined as a hemorrhagic infarction of a previously hyalinized myoma caused by ischaemic necrosis as the rapid fibroid growth outweighs its blood supply.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE</LocID>						<Text>Adenomyosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_ADENOMYOSE_DESCRIPTION</LocID>			<Text>Adenomyosis is a gynecologic medical condition characterized by the abnormal presence of endometrial tissue (the inner lining of the uterus) within the myometrium (the thick, muscular layer of the uterus).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN</LocID>						<Text>Sheehan's syndrome</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_SD_SHEEHAN_DESCRIPTION</LocID>			<Text>Sheehan's syndrome, also known as postpartum pituitary gland necrosis, is hypopituitarism (decreased functioning of the pituitary gland), caused by ischemic necrosis due to blood loss and hypovolemic shock during and after childbirth.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM</LocID>			<Text>Postpartum Pituitary Hypophysitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_HYPOPHYSITE_POST_PARTUM_DESCRIPTION</LocID>	<Text>It's a pituitary inflammatory disorder.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD</LocID>					<Text>Toxic shock syndrome</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_CHOC_TOXIQUE_SD_DESCRIPTION</LocID>		<Text>Toxic shock syndrome is a condition caused by bacterial toxins.</Text>	</GameDBLocalizedString>
+
+    
+
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT</LocID>									<Text>Stress incontinence</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_EFFORT_DESCRIPTION</LocID>						<Text>Stress incontinence corresponds to an involuntary loss of effort (laughter, coughing, sneezing, sport ...), without feeling of need.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE</LocID>					<Text>Overactive bladder</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE_DESCRIPTION</LocID>		<Text>Overactive bladder corresponds to involuntary loss of urine, preceded by an immediately urgent and uninhibited need (urgency or urgent need), which can occur at rest, at night, without any notion of effort.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE</LocID>									<Text>Salpingitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SALPINGITE_DESCRIPTION</LocID>						<Text>Salpingitis is an infection and inflammation in the Fallopian tubes.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE</LocID>								<Text>Endometritis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_ENDOMETRITE_DESCRIPTION</LocID>					<Text>Endometritis is inflammation of the inner lining of the uterus.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_LIG_TROMPES</LocID>									<Text>Sterilization request</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_LIG_TROMPES_DESCRIPTION</LocID>						<Text>Tubal ligation — also known as having your tubes tied or tubal sterilization — is a type of permanent birth control. During tubal ligation, the fallopian tubes are cut, tied or blocked to permanently prevent pregnancy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_AIGUE</LocID>								<Text>Acute Bartholinitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_AIGUE_DESCRIPTION</LocID>					<Text>Acute bartholinitis is a localized inflammation of the Bartholin gland or its dilated excretory duct.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_CHRONIQUE</LocID>							<Text>Chronic Bartholinitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_CHRONIQUE_DESCRIPTION</LocID>				<Text>Chronic bartholinitis is an evolution of acute bartholinitis. If left untreated, bartholinitis eventually fistulates on the skin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_RECIDIVE</LocID>							<Text>Recurrent Bartholinitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_BARTHOLINITE_RECIDIVE_DESCRIPTION</LocID>				<Text>The treatment consists in carrying out the excision of the cyst and the Bartholin gland under general anesthesia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_PILONIDAL</LocID>								<Text>Pilonidal Cyst</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_PILONIDAL_DESCRIPTION</LocID>					<Text>A pilonidal cyst is an epithelialized sinus tract or cyst containing hair follicles with a surrounding inflammatory reaction. It usually develops in the sacrococcygeal region with few reports of its development in the genitalia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_EPIDERMIQUE_VULVE</LocID>						<Text>Vulvar Epidermoid Cyst</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_EPIDERMIQUE_VULVE_DESCRIPTION</LocID>			<Text>Epidermoid cysts result from the blockage of sebaceous gland channels.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_VULVE_INCLUSION</LocID>							<Text>Vulvar Inclusion Cyst</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_KYSTE_VULVE_INCLUSION_DESCRIPTION</LocID>				<Text>Inclusion cysts are the most common vulvar cysts, they contain epithelial tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_HEMATOCOLPOS</LocID>									<Text>Hematocolpos</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_HEMATOCOLPOS_DESCRIPTION</LocID>						<Text>The hematocolpos is an accumulation of menstrual blood in the vaginal cavity.</Text>	</GameDBLocalizedString>
+
+    
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I</LocID>									<Text>Syphilis (I)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I_DESCRIPTION</LocID>						<Text>Primary syphilis is marked, after about 3 weeks of silent incubation, by the appearance of the chancre at the point of inoculation of the treponema and its lymphadenopathy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II</LocID>								<Text>Syphilis (II)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II_DESCRIPTION</LocID>					<Text>Secondary syphilis is marked by several mucocutaneous rashes interspersed with asymptomatic phases of a few weeks or months and last two years on average. General and visceral signs are associated with it, which testify to the systematic spread of treponema.</Text>	</GameDBLocalizedString>
+
+
+			
+
+			<GameDBLocalizedString>	<LocID>TRM_HGEN</LocID>								<Text>Gynecologic hemorrhage</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HGEN_DESCRIPTION</LocID>					<Text>Gynecologic hemorrhage represents excessive bleeding of the female reproductive system.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA</LocID>					<Text>Placenta previa</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PLACENTA_PRAEVIA_DESCRIPTION</LocID>		<Text>An abnormal implantation of the placenta at or near the internal opening of the uterine cervix so that it tends to precede the child at birth usually causing severe maternal hemorrhag.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE</LocID>		<Text>Retroplacental hematomas</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</LocID>	<Text>Retroplacental hematomas are entirely behind the placenta and not touching the gestational sac.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP</LocID>								<Text>Premature delivery threats</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_MAP_DESCRIPTION</LocID>					<Text>Preterm labor can result in premature birth.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE</LocID>						<Text>Preeclampsia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PREECLAMPSIE_DESCRIPTION</LocID>			<Text>A serious condition developing in late pregnancy that is characterized by a sudden rise in blood pressure, excessive weight gain, generalized edema, proteinuria, severe headache, and visual disturbances and that may result in eclampsia if untreated.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB</LocID>						<Text>Gestational trophoblastic detachment</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_DEC_TROPHOB_DESCRIPTION</LocID>			<Text>It's an early pregnancy bleeding refers to bleeding before 24 weeks of gestational age..</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE</LocID>						<Text>Postpartum hemorrhage</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HDELIVRANCE_DESCRIPTION</LocID>			<Text>Postpartum hemorrhage (PPH) is an obstetric emergency.PPH is classically defined by the volume of blood loss : estimated blood loss ≥500 mL after vaginal birth or ≥1000 mL after cesarean delivery.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF</LocID>								<Text>Postpartum psychosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_PPCF_DESCRIPTION</LocID>					<Text>Postpartum Psychosis (PP) is a severe form of mental illness that occurs after having a baby.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME</LocID>					<Text>HELLP syndrome</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_HELLP_SYNDROME_DESCRIPTION</LocID>		<Text>HELLP syndrome is a complication of pregnancy characterized by hemolysis, elevated liver enzymes, and a low platelet count. It usually begins during the last three months of pregnancy or shortly after childbirth.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS</LocID>					<Text>Uterine rupture</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRM_RUPTURE_UTERUS_DESCRIPTION</LocID>		<Text>Uterine rupture is a when the muscular wall of the uterus tears during pregnancy or childbirth.</Text>	</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

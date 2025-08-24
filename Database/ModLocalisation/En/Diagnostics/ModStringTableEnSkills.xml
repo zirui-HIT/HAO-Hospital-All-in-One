@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_DIAG_SKILLS">
+	
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+    <Name>Ollyver</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_DEPARTMENTOFDIAGNOSTICS</LocID>                                          	
+		<Text>Department of Diagnostics</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_DIAG</LocID>                   
+		<Text>Diagnostician</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_DIAG_DESCR</LocID>                   
+		<Text>A Diagnostician is a doctor specialized in detecting, diagnosing and treating various rare conditions typically unknown to other specialties or hard to diagnose.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_DIAG_SURGERY</LocID>                   
+		<Text>Diagnostics Surgeon</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_DIAG_SURGERY_DESCR</LocID>                   
+		<Text>A Diagnostics surgeon is a doctor who specialises in surgical procedures relating to the treatment of rare diseases.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

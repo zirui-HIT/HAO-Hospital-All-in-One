@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_PL_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>pl</LanguageCode>
+<LanguageNameLocalized>Polski</LanguageNameLocalized>
+<Contributors>
+<Name>Kapitan1986</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>
+	<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>
+	<Text>Recepcja Onkologii</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+	<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>
+	<Text>Gabinet lekarski specjalizujący się w onkologii. Wymagania dotyczące personelu: \ n1x Lekarz</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+	<LocID>OBJECT_DECAL_MOD_ONCO</LocID>
+	<Text>Onkologia</Text>
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+	<LocID>OBJECT_DECAL_ONCO_DESC</LocID>
+	<Text>Naklejka ścienna</Text>
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

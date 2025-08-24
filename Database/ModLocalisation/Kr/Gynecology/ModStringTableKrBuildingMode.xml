@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>kr</LanguageCode>
+		<LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+        <Contributors>
+            <Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>산부인과 진료실</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>산부인과 진료실은 평범한 외래환자용 진료실입니다. \n\n반드시 필요한 직원: \n1x 의사</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>관찰실</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>산부인과의 관찰실은 입원한 환자들을 위한 검사 및 치료를 제공합니다. \n\n반드시 필요한 직원: \n1x 의사 \n(Personnel based in On-call room)</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>OBJECT_DECAL_GYNECO_DPT</LocID>								<Text>산부인과</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

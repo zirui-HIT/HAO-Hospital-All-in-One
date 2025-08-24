@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_RU_ADDON_CRP_SLEEPYPL_SYMPTOMS">
+	<LanguageCode>ru</LanguageCode>
+	<LanguageNameLocalized>Русский</LanguageNameLocalized>
+	<Contributors>
+	<Name>Anubis</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SEROMA</LocID>                                          	
+		<Text>Серома</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SEROMA_DESC</LocID>                   
+		<Text>Серома - это скопление жидкости, которая скапливается под поверхностью вашей кожи. Серомы могут развиться после хирургической процедуры, чаще всего на месте хирургического разреза или в месте удаления ткани. Для рассасывания серомы может потребоваться несколько недель. Если серома рассасывается сама по себе, это лучший способ вылечиться естественным путем, пока не возникнут осложнения.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_POSTOP_PAIN</LocID>                               
+		<Text>Послеоперационная боль</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_POSTOP_PAIN_DESC</LocID>                   
+		<Text>Послеоперационная боль - это ожидаемое и временное усиление фоновой боли, которое обычно возникает после операции. Послеоперационная боль остается серьезной проблемой для пациентов и проблемой для анестезиологов и специалистов в области медицины острой боли. Несмотря на достижения последних двух десятилетий с более широким использованием мультимодальных схем обезболивания, достижения в области регионарной анестезии и использования непрерывных инфузий обезболивающих в послеоперационном периоде, у некоторых подгрупп пациентов будет развиваться хроническая послеоперационная боль. Плохо купируемая послеоперационная боль может привести к осложнениям и длительной реабилитации.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_M_SCAR_TISSUE</LocID>                               
+		<Text>Незначительная ткань рубца</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_M_SCAR_TISSUE_DESC</LocID>                   
+		<Text>Шрам - это след, который остается на коже после заживления раны или повреждения поверхности кожи. Образование рубцов или рубцовой ткани - нормальная часть процесса заживления и происходит, когда кожа порезана в результате травмы или хирургического вмешательства. На рост рубцовой ткани влияют многие факторы, в том числе: тяжесть исходного повреждения. Размер, глубина и расположение раны на теле.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MRSA_INFECTION</LocID>                               
+		<Text>Резистентная инфекция S. Aureus</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MRSA_INFECTION_DESC</LocID>                   
+		<Text>Инфекция, вызванная устойчивым к метициллину Staphylococcus aureus (MRSA), вызывается стафилококком, который становится устойчивым ко многим антибиотикам, используемым для лечения обычных инфекций стафилококка. Они могут быстро превратиться в глубокие болезненные абсцессы, требующие хирургического дренирования. Иногда бактерии остаются на коже. Но они также могут проникать глубоко в организм, вызывая потенциально опасные для жизни инфекции в костях, суставах, хирургических ранах, кровотоке, сердечных клапанах и легких.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_PULMONARY_EMBOLISM</LocID>                               
+		<Text>Легочная эмболия</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_PULMONARY_EMBOLISM_DESC</LocID>                   
+		<Text>Легочная эмболия (ТЭЛА) - это закупорка артерии в легких веществом, которое переместилось из других частей тела через кровоток (эмболия). Чаще всего тромбоэмболия легочной артерии вызывается сгустками крови, которые выходят из ног или, в редких случаях, из других частей тела (тромбоз глубоких вен или ТГВ). Операция увеличивает риск тромбоэмболии легочной артерии. \n\nТребования к лечению: кардиология или отделение интенсивной терапии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_LOCALPOISIONING</LocID>                               
+		<Text>Отравление местным анестетиком</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_LOCALPOISIONING_DESC</LocID>                   
+		<Text>Токсичность местного анестетика обычно возникает в результате терапевтической ошибки. Ситуации, приводящие к токсичности, включают непреднамеренную венозную или артериальную инъекцию, а также слишком высокую дозу принимаемых внутрь или местно вводимых препаратов, содержащих местные анестетики. ЦНС более чувствительна к воздействию местных анестетиков, чем сердечная система, и обычно сначала проявляет признаки / симптомы токсичности.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_BAGGY_SKIN</LocID>                               
+		<Text>Асимметричная или «мешковатая» поверхность кожи</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_BAGGY_SKIN_DESC</LocID>                   
+		<Text>Когда жир удаляется из-под кожи, некоторые пациенты считают, что их кожа сузится, чтобы соответствовать их более гладкому и подтянутому телу. Однако это не всегда так, особенно на участках, где кожа значительно повреждена. Чаще всего это происходит в области живота и ягодиц, хотя может происходить по всему телу. Если кожа растягивается из-за жировых отложений в течение длительного периода времени, она может не стянуться или сжаться, когда жировых отложений больше не будет. Например, любая область с растяжками вряд ли быстро подтянется после липосакции. Избыточная и дряблая кожа - наиболее частая причина появления ямочек после липосакции.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_WOUND_INFECTION2</LocID>                               
+		<Text>Wound Infection</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_WOUND_INFECTION2_DESC</LocID>                   
+		<Text>Инфекция раны возникает, когда микробы, такие как бактерии, растут на поврежденной коже раны.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_RAPID_BLINKING</LocID>                               
+		<Text>Чрезмерное моргание</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_RAPID_BLINKING_DESC</LocID>                   
+		<Text>Моргание - это рефлекс, то есть ваше тело делает это автоматически. Вы также можете заставить себя моргнуть, когда захотите. Чрезмерное моргание - это когда вы моргаете больше, чем хотите. Чрезмерное моргание вызвано чрезмерной стимуляцией моргательного рефлекса. Чаще всего это происходит из-за попадания инородного тела в глаз. Это может быть простое трение вросшей ресницы о переднюю часть глазного яблока. Таким образом, все, что вызывает истирание роговицы, вызывает чрезмерное моргание и слезотечение в попытке вымыть инородное тело. Чрезмерное моргание также может быть вызвано аллергическими реакциями, вызывающими слезотечение, зуд и шероховатость конъюнктивы. Есть и другие болезненные состояния, связанные с чрезмерным морганием. Лечение чрезмерного моргания зависит от основной причины.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LAZY_EYE</LocID>                               
+		<Text>Амблиопия (ленивый глаз)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LAZY_EYE_DESC</LocID>                   
+		<Text>Амблиопия - это нарушение развития зрения, при котором глаз не может достичь нормальной остроты зрения даже с очками по рецепту или контактными линзами. Амблиопия, также называемая ленивым глазом, начинается в младенчестве и раннем детстве. В большинстве случаев поражается только один глаз.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_DIPLOPIA</LocID>                               
+		<Text>Диплопия (Двойное видение)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_DIPLOPIA_DESC</LocID>                   
+		<Text>Диплопия, также известная как двойное зрение, - это одновременное восприятие двух изображений одного объекта, которые могут быть смещены по горизонтали, вертикали, диагонали (то есть как по вертикали, так и по горизонтали) или вращательно относительно друг друга.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_CONJU_SCAR</LocID>                               
+		<Text>Рубцевание конъюнктивы</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_CONJU_SCAR_DESC</LocID>                   
+		<Text>Шрамирование конъюнктивы может быть постоянной проблемой после операции. Вместо того, чтобы вернуться к типичному полупрозрачному белому виду, конъюнктива может оставаться хронически гиперемированной и розовой. Многие состояния могут вызвать рубцевание конъюнктивы, тонкой прозрачной мембраны, покрывающей белок глаза и нижнюю часть век. Рубцы повреждают конъюнктиву и мешают ей удерживать защитный слизистый слой, который помогает слезам прилипать к поверхности.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_FOLLICULITIS</LocID>                               
+		<Text>Фолликулит</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_FOLLICULITIS_DESC</LocID>                   
+		<Text>Фолликулит - распространенное заболевание кожи, при котором воспаляются волосяные фолликулы. Обычно это вызвано бактериальной или грибковой инфекцией. Сначала это может выглядеть как маленькие красные шишки или прыщики с белыми головками вокруг волосяных фолликулов - крошечных карманов, из которых растет каждый волос.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MILD_AR</LocID>                               
+		<Text>Легкая аллергическая реакция</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MILD_AR_DESC</LocID>                   
+		<Text>У пациента во время или после операции возникла легкая аллергическая реакция. Это может быть реакцией на определенные используемые анестетики, условия окружающей среды, другие типы лекарств или материалов, используемых во время операции, или даже на повязки на рану.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_THPAFA</LocID>                               
+		<Text>Утолщение ладонной фасции</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_THPAFA_DESC</LocID>                   
+		<Text>Ладонная фасция - это треугольная структура на ладони, расположенная дистально. Когда он утолщается, он становится тугим и укорачивается, сжимая пальцы внутрь к ладони.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_BENT_DIGIT</LocID>                               
+		<Text>Согнутый палец руки</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_BENT_DIGIT_DESC</LocID>                   
+		<Text>Пациент подал жалобу на согнутый внутрь палец на руке, и, хотя он все еще контролирует двигательные функции пальца, пациент не может самостоятельно исправить сгибание.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_THICKCORD</LocID>                               
+		<Text>Видный шнур</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_THICKCORD_DESC</LocID>                   
+		<Text>У пациента на руке затвердевший и толстый мышечный / тканевый шнур.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_DIMPLES</LocID>                               
+		<Text>Ямочка на коже</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_DIMPLES_DESC</LocID>                   
+		<Text>На коже пациента видны ямочки, похожие на структуру поверхности апельсиновой корки или мяча для гольфа.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OOST</LocID>                               
+		<Text>Разрастание рубцовой ткани</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OOST_DESC</LocID>                   
+		<Text>Разрастание рубцовой ткани происходит, когда на месте раны вырабатывается слишком много коллагена. Шрам продолжает расти даже после того, как рана зажила.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING1</LocID>                               
+		<Text>Очень легкое кровотечение</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING1_DESC</LocID>                   
+		<Text>У пациента очень легкое кровотечение, обычно нет изменений в жизненно важных функциях, и инфузионная реанимация обычно не требуется. Такое кровотечение обычно останавливается само по себе.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING2</LocID>                               
+		<Text>Легкое кровотечение</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING2_DESC</LocID>                   
+		<Text>У пациента легкое кровотечение, обычно нет изменений в жизненно важных функциях, и инфузионная реанимация обычно не требуется. Чтобы предотвратить дальнейшие осложнения, может потребоваться остановка кровотечения.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING3</LocID>                               
+		<Text>Умеренное кровотечение</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING3_DESC</LocID>                   
+		<Text>У больного очень сильное кровотечение, необходимо принять меры для предотвращения гиповолемического шока.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING4</LocID>                               
+		<Text>Сильное кровотечение</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING4_DESC</LocID>                   
+		<Text>У пациента сильное кровотечение, принятые меры имеет решающее значение для предотвращения гиповолемического шока.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING5</LocID>                               
+		<Text>Катастрофическое кровотечение</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING5_DESC</LocID>                   
+		<Text>У пациента сильное кровотечение, необходимо немедленное вмешательство для спасения жизни пациента.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

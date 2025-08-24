@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_PL_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>pl</LanguageCode>
+	<LanguageNameLocalized>Polski</LanguageNameLocalized>
+	<Contributors>
+		<Name>Kapitan1986</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+         
+
+	<GameDBLocalizedString>
+	<LocID> DPT_ONCOLOGY </LocID>
+	<Text> Onkologia </Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+	<LocID> SKILL_DOC_SPEC_ONCO </LocID>
+	<Text> Onkologia </Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+	<LocID> SKILL_DOC_SPEC_ONCO_DESCR </LocID>
+	<Text> Onkologia zapewnia dostęp do specjalistycznych procedur wykrywania, diagnozowania i leczenia różnych form raka. </Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+	<LocID> SKILL_DOC_SPEC_ONCO_SURGERY </LocID>
+	<Text> Chirurgia onkologiczna </Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+	<LocID> SKILL_DOC_SPEC_ONCO_SURG_DESCR </LocID>
+	<Text> Chirurgia onkologiczna pozwala lekarzowi działać jako główny chirurg na oddziale onkologii i wpływa na to, jak często operacje kończą się powikłaniami. </Text>
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

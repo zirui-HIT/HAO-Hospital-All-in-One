@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_RU_ADDON_PLASTICS_SKILLS">
+	
+	<LanguageCode>ru</LanguageCode>
+	<LanguageNameLocalized>Русский</LanguageNameLocalized>
+	<Contributors>
+    <Name>Anubis</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_PLASTICS</LocID>                                          	
+		<Text>Пластическая хирургия</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_PLAS</LocID>                   
+		<Text>Пластическая хирургия (консультация)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_PLAS_DESCR</LocID>                   
+		<Text>Пластическая хирургия предоставляет доступ к специализированным процедурам для обнаружения, диагностики и лечения различных состояний, которые могут потребовать реконструктивных хирургических вмешательств или запросов на косметическую операцию.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_PLAS_SURGERY</LocID>                   
+		<Text>Специалист в пластической хирургии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_PLAS_SURGERY_DESCR</LocID>                   
+		<Text>Пластический хирург - это врач, специализирующийся на инвазивной косметической (эстетической или связанной с внешним видом) и реконструктивной хирургии.</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

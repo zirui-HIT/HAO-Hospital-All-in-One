@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_CZ_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+<Contributors>
+<Name>XiZyno</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
+		<Text>Onkologická ordinace</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Specializovaná onkologická ordinace. Personální požadavky:\n1x Doktor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO</LocID>       			
+		<Text>Onkologie A</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>Samolepka na zeď</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO1</LocID>       			
+		<Text>Onkologie B</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO2</LocID>       			
+		<Text>Onkologie C</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_ONCO3</LocID>       			
+		<Text>Onkologie D</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>                               
+		<Text>Diagnostická ordinace</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>                   
+		<Text>Diagnostická ordinace na Onkologickém oddělení poskytuje vyšetření a léčebné procedury pro hospitalizované pacienty. \n\nMin. Personální požadavky: \n1x Doktor \n(Personál sídlící v pohotovostní místnosti)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>                     
+		<Text>Onkologická neurologická jednotka</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>         
+		<Text>Onkologická neurologická jednotka poskytuje specifická neurologická vyšetření pro onkologickou podporu. \n\nMin. Personální požadavky: \n1x Technolog - Neurolog</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>                     
+		<Text>Sonografická jednotka</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>         
+		<Text>Sonografická jednotka poskytuje specifická ultrazvuková vyšetření a léčebné procedury. \n\nMin. Personální požadavky: \n1x Technolog - USG</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+            
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT01</LocID>                               
+		<Text>Onkologický Obraz A</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT01_DESC</LocID>                   
+		<Text>Zarámovaný obrázek pro pacienty, aby se nikdy nevzdávali.</Text>  
+	</GameDBLocalizedString>
+    
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT02</LocID>                               
+		<Text>Onkologický Obraz B</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PICT02_DESC</LocID>                   
+		<Text>Zarámovaný obrázek pro pacienty, aby se nikdy nevzdávali.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE1</LocID>                               
+		<Text>Čtyřmístný regál A-E</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE1_DESC</LocID>                   
+		<Text>Prázdný čtyřmístný regál.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE2</LocID>                               
+		<Text>Čtyřmístný regál B-E</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE2_DESC</LocID>                   
+		<Text>Prázdný čtyřmístný regál.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PLANT01</LocID>                               
+		<Text>Květináčová rostlina</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_PLANT01_DESC</LocID>                   
+		<Text>Hezká květináčová rostlina.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE3</LocID>                               
+		<Text>Čtyřmístný regál A-B</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE3_DESC</LocID>                   
+		<Text>Čtyřmístný regál s velkými knihami.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE4</LocID>                               
+		<Text>Čtyřmístný regál B-B</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_CUBE4_DESC</LocID>                   
+		<Text>Čtyřmístný regál s velkými knihami.</Text>  
+	</GameDBLocalizedString> 
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>        
+		<LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM</LocID>                     
+		<Text>Onkologická pozorovací místnost</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>           
+		<LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM_DESC</LocID>         
+		<Text>Onkologie občas požaduje po pacientech podstoupit mnoho rozdílných testů, které mohou trvat nějakou dobu. Pozorování umožňuje nemocnici mít víc času na dokončení testů, což zvyšuje komfort pacientů mezitím co jsou pod lékařským dohledem. Tento postup také pomáhá klinickým lékařům v obtížných případech. \n\nMin. personální požadavky: \n1x Doktor \n(Personál sídlící v pohotovostní místnosti)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST01</LocID>                               
+		<Text>Plakát - Onkologie A</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST01_DESC</LocID>                   
+		<Text>Infografika o slinivce břišní.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST02</LocID>                               
+		<Text>Plakát - Onkologie B</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST02_DESC</LocID>                   
+		<Text>Plakát připomínající pacientům, že v tom nejsou sami.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST03</LocID>                               
+		<Text>Plakát - Onkologie C</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST03_DESC</LocID>                   
+		<Text>Infografika o rakovinách krve.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST04</LocID>                               
+		<Text>Plakát - Onkologie D</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST04_DESC</LocID>                   
+		<Text>Infografika o rakovině plic.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST05</LocID>                               
+		<Text>Plakát - Onkologie E</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>MOD_ONCO_OBJECT_POST05_DESC</LocID>                   
+		<Text>Plakát, který pacientům připomíná, aby se nikdy nevzdávali.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONCO</LocID>                               
+		<Text>Kardiografie</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONOC_DESC</LocID>                   
+		<Text>Kardiografie provádí různé vyšetřovací metody a testy souvesející s lidským kardiovaskulárním systémem. \n\nMin. personální požadavky: \n1x Technolog - Kardiolog</Text>  
+	</GameDBLocalizedString> 
+	
+	
+	
+	
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

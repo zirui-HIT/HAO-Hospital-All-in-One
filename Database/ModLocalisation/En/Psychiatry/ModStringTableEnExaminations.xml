@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_EN_ADDON_NEW_PSYCHIATRY_EXAMINATIONS">
+  <LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+    <Contributors>
+      <Name>liebesalt</Name>
+    </Contributors>
+    <LocalizedStrings>
+    
+    <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSG</LocID>
+        <Text>Polysomnography（PSG）</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSG_DESC</LocID>
+        <Text>Requires advanced diagnosis. Polysomnography (PSG) system monitors breathing, arterial oxygen saturation, electroencephalogram (EEG), electrocardiogram (ECG), heart rate, and other indicators continuously during the night to detect sleep abnormalities and diagnose sleep disorders, especially sleep-related breathing disorders. Although PSG can reflect the condition of patients with chronic insomnia, the diagnosis of chronic insomnia mainly relies on the subjective report of patients. PSG is only used as a means to exclude other sleep disorders, rather than a routine examination for insomnia.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MSLT</LocID>
+        <Text>Multiple Sleep Latency Test (MSLT)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MSLT_DESC</LocID>
+        <Text>Requires advanced diagnosis. Multiple Sleep Latency Test (MSLT) is the most commonly used standard protocol for objectively evaluating daytime sleepiness in clinical practice and research, often used for narcolepsy or sleep-related breathing disorders.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_OREXIN_IN_CEREBROSPINAL_FLUID_TEST</LocID>
+        <Text>Orexin in Cerebrospinal Fluid Test</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_OREXIN_IN_CEREBROSPINAL_FLUID_TEST_DESC</LocID>
+        <Text>By sampling cerebrospinal fluid, this test determines whether the concentration of orexin-1 in the cerebrospinal fluid is ≤100 pg/ml or lower than 1/3 of the normal value, used to diagnose typical episodes of narcolepsy with cataplexy. It is particularly beneficial for patients who are difficult to undergo MSLT due to cost or inability to cooperate with the examination, and who are using psychotropic drugs and are difficult to discontinue.</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SPINAL_FLUID_ANALYSIS_TESTING</LocID>
+        <Text>Spinal Fluid Orexin Analysis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SPINAL_FLUID_ANALYSIS_TESTING_DESC</LocID>
+        <Text>Determine whether the concentration of orexin-1 in the spinal fluid is ≤100 pg/ml or lower than 1/3 of the normal value, used for diagnosing typical episodes of narcolepsy with cataplexy.</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_BDI</LocID>
+        <Text>Beck's Depression Inventory (BDI)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_BDI_DESC</LocID>
+        <Text> Beck Depression Inventory (BDI) is a self-rating scale developed by the renowned American psychologist Beck in the 1960s. It is available in two versions: BDI-13 and BDI-21. Considering that severely depressed patients may have difficulty completing 21 items, Beck introduced BDI-13 in 1973, which is now widely used.</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SAS</LocID>
+        <Text>Anxiety Self-Rating Scale (SAS)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SAS_DESC</LocID>
+        <Text>The Anxiety Self-Rating Scale was developed by Zung in 1971. Similar to the Self-Rating Depression Scale (SDS), it consists of 20 items used to assess the subjective feelings of anxious patients, with good validity.</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MMSE</LocID>
+        <Text>Mini-Mental State Examination (MMSE)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MMSE_DESC</LocID>
+        <Text>Mini-Mental State Examination (MMSE) was developed by Folstein et al. in 1975. It is currently the most widely used and commonly employed cognitive screening tool in the world. It is simple to administer and has good reliability and validity.</Text>
+      </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_AIS</LocID>
+        <Text>Athens Insomnia Scale (AIS)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_AIS_DESC</LocID>
+        <Text>The Athens Insomnia Scale (AIS), is an internationally recognized self-assessment tool for measuring sleep quality, widely used.</Text>
+      </GameDBLocalizedString>
+    
+		<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_CONSCIOUSNESS</LocID>
+        <Text>Psychiatric Exam - Consciousness</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_CONSCIOUSNESS_DESC</LocID>
+        <Text>Understanding the patient's level of consciousness through psychiatric exam</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_APPETITE</LocID>
+        <Text>Psychiatric Exam - Appetite</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_APPETITE_DESC</LocID>
+        <Text>Understanding the patient's appetite through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+	
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_ATTENTION</LocID>
+        <Text>Psychiatric Exam - Attention</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_ATTENTION_DESC</LocID>
+        <Text>Understanding the patient's attention through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_EMOTION</LocID>
+        <Text>Psychiatric Exam - Emotion</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_EMOTION_DESC</LocID>
+        <Text>Understanding the patient's emotion through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_WILL</LocID>
+        <Text>Psychiatric Exam - Will</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_WILL_DESC</LocID>
+        <Text>Understanding the patient's will through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+    
+    	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MOVEMENT</LocID>
+        <Text>Psychiatric Exam - Movement</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MOVEMENT_DESC</LocID>
+        <Text>Understanding the patient's movement through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+      
+      	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_SUICIDE</LocID>
+        <Text>Psychiatric Exam - Suicide and Self-harm</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_SUICIDE_DESC</LocID>
+        <Text>Understanding whether patient has suicidal and self-harm behaviors through psychiatric exam</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERCEPTION</LocID>
+        <Text>Psychiatric Exam - Perception</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERCEPTION_DESC</LocID>
+        <Text>Understanding the patient's perception through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT</LocID>
+        <Text>Psychiatric Exam - Thoughts</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_DESC</LocID>
+        <Text>Understanding the patient's thoughts through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+    
+	 <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MEMORY</LocID>
+        <Text>Psychiatric Exam - Memory</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MEMORY_DESC</LocID>
+        <Text>Understanding the patient's memory through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_INTERVIEW_SLEEP</LocID>
+        <Text>Psychiatric Exam - Sleep</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_INTERVIEW_SLEEP_DESC</LocID>
+        <Text>Understanding the patient's sleep through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERSONALITY</LocID>
+        <Text>Psychiatric Exam - Personality</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERSONALITY_DESC</LocID>
+        <Text>Understanding the patient's personality through psychiatric exam.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EDUCATION</LocID>
+        <Text>Medical History - Personal - Education</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EDUCATION_DESC</LocID>
+        <Text>Collecting information on patient's educational background, particularly applicable to children and adolescents, including academic performance, teacher-student relationships, preferred leisure activities, highest educational attainment, field of study, satisfaction with chosen field of study, and any history of taking breaks from education.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EMPLOYMENT_HISTORY</LocID>
+        <Text>Medical History - General - Employment</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EMPLOYMENT_HISTORY_DESC</LocID>
+        <Text>Ask the patient about their work.</Text>
+      </GameDBLocalizedString>
+      
+     <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_STRESS_EVENT</LocID>
+        <Text>Medical History - Personal - Stress Event</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_STRESS_EVENT_DESC</LocID>
+        <Text>A stressful event refers to significant life events that affect an individual, such as the death of a loved one, divorce, starting school, major financial loss, serious illness, physical assault, experiencing an earthquake, and so on. These events may have a certain significance in the formation and manifestation of current psychiatric symptoms.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_SUBSTANCE_USE</LocID>
+        <Text>Medical History - Personal - Substance Use</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_SUBSTANCE_USE_DESC</LocID>
+        <Text>Substance use, including tobacco, alcohol, drugs, and even misuse of prescription medications, should also be documented. Patients may be evasive or intentionally misleading about such issues, so it's necessary to gather information from informed individuals or other sources, such as urine or blood tests, to ascertain relevant information.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_DIFFERENTIAL_DIAGNOSIS</LocID>
+        <Text>Psychiatric Differential Diagnosis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_DIFFERENTIAL_DIAGNOSIS_DESC</LocID>
+        <Text>Special differential diagnosis conducted by a small number of highly experienced psychiatric experts.</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_SAMPLING</LocID>
+        <Text>Bone Marrow Biopsy - Sampling</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_SAMPLING_DESC</LocID>
+        <Text>A bone marrow biopsy involves using a special puncture needle to collect a small, cylindrical piece of bone marrow tissue, approximately 0.5-1 cm in length, for pathological examination. It is used to comprehensively assess the degree of proliferation of hematopoietic tissue and the proportions of its various components.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</LocID>
+        <Text>Advanced Blood Component Analysis - Sampling</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING_DESC</LocID>
+        <Text>Advanced blood component analysis includes tests for serum vitamin B12, folate, ferritin, coagulation factor activity, and von Willebrand factor antigen.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING</LocID>
+        <Text>Advanced Blood Component Analysis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING_DESC</LocID>
+        <Text>Advanced blood component analysis includes tests for serum vitamin B12, folate, ferritin, coagulation factor activity, and von Willebrand factor antigen.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_TESTING</LocID>
+        <Text>Bone Marrow Biopsy - Analysis</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_TESTING_DESC</LocID>
+        <Text>A bone marrow biopsy involves using a special puncture needle to collect a small, cylindrical piece of bone marrow tissue, approximately 0.5-1 cm in length, for pathological examination. It is used to comprehensively assess the degree of proliferation of hematopoietic tissue and the proportions of its various components.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</LocID>
+        <Text>Psychiatric Examination</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_DESC</LocID>
+        <Text>A psychiatric examination is a systematic evaluation of a patient's mental state conducted by a psychiatrist. It primarily includes the assessment of areas such as consciousness, attention, thought processes, mood and affect, volition, perception, and memory.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</LocID>
+        <Text>Psychometric Scales</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES_DESC</LocID>
+        <Text>Psychometric scales are tools used by psychiatrists for the systematic psychological assessment of a patient. They primarily include measures such as the Self-Rating Depression Scale, Self-Rating Anxiety Scale, and the Mini-Mental State Examination (MMSE).</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</LocID>
+        <Text>Neurological Examination</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM_DESC</LocID>
+        <Text>A neurological examination is a specialized and objective evaluation of the nervous system performed by a physician, building upon a general physical examination. A complete and accurate neurological examination is fundamental for localization diagnosis and cannot be replaced by any advanced instrumentation. It includes a general assessment, cranial nerve examination, motor system examination, sensory system examination, reflex testing, autonomic function tests, and assessment for signs of meningeal irritation.</Text>
+      </GameDBLocalizedString>
+
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <!-- Otorhinolaryngology -->
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_OUTPATIENT_ENT_OFFICE_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>5000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ENT_OFFICE_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_OUTPATIENT_ENT_OFFICE_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>6000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ENT_OFFICE_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_OUTPATIENT_ENT_OFFICE_MODERN</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>6000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ENT_OFFICE_MODERN</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_ENDO_SMALL">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_ENDO_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_ENDOSCOPY_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>2000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ENDO_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_ENDO">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_ENDOSCOPY_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>2200</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ENDO</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_AUDIOGRAM_UNIT_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>1200</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_AUDIOGRAM_UNIT_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_AUDIOGRAM_UNIT_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>6000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_AUDIOGRAM_UNIT_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_RESTROOM_SMALL">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_RESTROOM_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_RESTROOM_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>1500</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_RESTROOM_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_RESTROOM">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_RESTROOM_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_RESTROOM</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>2000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_RESTROOM</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_COMMON_ROOM">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_COMMON_ROOM_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_COMMON_ROOM</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>3800</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_COMMON_ROOM</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_CLEANING_CLOSET">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_CLEANING_CLOSET_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_CLEANING_CLOSET</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>1750</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_CLEANING_CLOSET</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_ONCALL_ROOM_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>10</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>5500</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ONCALL_ROOM_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_ONCALL_ROOM_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>4500</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ONCALL_ROOM_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_NURSES_STATION_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>10</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>5600</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_NURSES_STATION_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_NURSES_STATION_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>7000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_NURSES_STATION_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_WARD_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>2600</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_WARD_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_WARD_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>7100</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_WARD_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_HDU_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>4500</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_HDU_WARD_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_HDU_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>13200</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_HDU_WARD_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_INPATIENT_ENT_OFFICE_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>5700</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_DIAGNOSTIC_UNIT_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL">
+        <AbbreviationLocID>PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_INPATIENT_ENT_OFFICE_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>5000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_DIAGNOSTIC_UNIT_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_INPATIENT_ENT_OFFICE_MODERN</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>5700</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_DIAGNOSTIC_UNIT_MODERN</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="MOD_PREFAB_ROOM_SLEEP_LAB_OT">
+        <AbbreviationLocID>MOD_PREFAB_ROOM_SLEEP_LAB_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_SLEEP_LAB</PrefabAssetRef>
+        <DisplayedSizeX>8</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>6000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_SLEEP_LAB</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="PREFAB_ROOM_SONOGRAPHY_UNIT_OT">
+        <AbbreviationLocID>PREFAB_ROOM_SONOGRAPHY_UNIT_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_SONOGRAPHY</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>12500</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_SONOGRAPHY_UNIT</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="PREFAB_ROOM_OPERATING_THEATRE_OT">
+        <AbbreviationLocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_OPERATING_THEATRE</PrefabAssetRef>
+        <DisplayedSizeX>12</DisplayedSizeX>
+        <DisplayedSizeY>8</DisplayedSizeY>
+        <Cost>25300</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_OPERATING_THEATRE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_otorhinolaryngology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+</Database>

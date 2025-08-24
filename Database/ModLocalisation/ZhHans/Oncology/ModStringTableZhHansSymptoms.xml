@@ -1,0 +1,2106 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_SYMPTOMSOLD">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>Sleepy068</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEMOPTYSIS2</LocID>
+				<Text>严重咯血</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEMOPTYSIS2_DESC</LocID>
+				<Text>咯血是从支气管、喉咙、气管或肺部咳出血液或带血的粘液。换句话说，就是气道出血。这可能发生在肺癌、肺结核、支气管炎或肺炎等感染以及某些心血管疾病中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_CDF_T_25</LocID>
+				<Text>p16INK4a过度表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_CDF_T_25_DESC</LocID>
+				<Text>p16（也称为p16INK4a、细胞周期蛋白依赖性激酶抑制剂2A、CDKN2A、多重肿瘤抑制因子1和许多其他同义词）是一种蛋白质，它通过减缓细胞周期从G1期到S期的进程来减缓细胞分裂，从而起到抑癌作用。p16d是妇科病理学中广泛使用的免疫组织化学标志物。女性生殖道鳞状细胞癌(SCC)中p16的强而弥散的细胞质和细胞核表达与高危人乳头瘤病毒(HPV)感染和宫颈源性肿瘤密切相关。子宫颈的大多数SCC表达p16。然而，p16可以在其他肿瘤和几种正常人体组织中表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_CM_CK19_BRIGHT</LocID>
+				<Text>细胞角蛋白19(CK19)明亮表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_CM_CK19_BRIGHT_DESC</LocID>
+				<Text>角蛋白，I型细胞骨架19也称为cytokeratin-19(CK-19)或keratin-19(K19)是一种40 kDa的蛋白质，在人类中由KRT19基因编码。在某些癌症中的表达允许CK19帮助充当标记物并帮助确定患者可能患有哪种类型的癌症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ACTINIC_KERATOSIS</LocID>
+				<Text>光化性角化病</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ACTINIC_KERATOSIS_DESC</LocID>
+				<Text>光化性角化病是一种因多年日晒而在皮肤上形成的粗糙、有鳞屑的斑块。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NODULE_SKIN</LocID>
+				<Text>皮肤结节</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NODULE_SKIN_DESC</LocID>
+				<Text>皮肤上出现小的、有光泽的肿块或结节。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PERINEURAL_INVASION</LocID>
+				<Text>神经束膜侵犯</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PERINEURAL_INVASION_DESC</LocID>
+				<Text>神经束膜侵犯（PNI）是指癌细胞侵入神经周围空间的现象。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_METASTASIZED_CANCER</LocID>
+				<Text>转移性癌症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_METASTASIZED_CANCER_DESC</LocID>
+				<Text>转移性癌症是指从原发部位扩散到身体其他部位的癌症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CHRONIC_WOUND</LocID>
+				<Text>慢性伤口</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CHRONIC_WOUND_DESC</LocID>
+				<Text>慢性伤口是指约三个月内无法愈合的疮口。它们可能起初很小，并可能反复结痂，但不会好转。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ABNORMAL_MOLE</LocID>
+				<Text>异常的痣</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ABNORMAL_MOLE_DESC</LocID>
+				<Text>边界不规则、颜色异常或生长发生变化的痣。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_EPLVL</LocID>
+				<Text>肾上腺素水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_EPLVL_DESC</LocID>
+				<Text>患者血液中的肾上腺素水平升高。肾上腺素通常由肾上腺和延髓中的少数神经元产生。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_NEPLVL</LocID>
+				<Text>去甲肾上腺素水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_NEPLVL_DESC</LocID>
+				<Text>患者血液中的去甲肾上腺素水平升高。去甲肾上腺素是体内一种天然化学物质，既是应激激素也是神经递质。当大脑感知到压力事件发生时，它会作为应激激素释放到血液中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_SEIZURES</LocID>
+				<Text>癫痫发作</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_SEIZURES_DESC</LocID>
+				<Text>癫痫发作是大脑中突然发生的、不受控制的电活动紊乱。它可能导致行为、动作、感觉和意识水平的改变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_HEMOPTYSIS1</LocID>
+				<Text>轻度咯血</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_HEMOPTYSIS1_DESC</LocID>
+				<Text>咯血是指从支气管、喉、气管或肺部咳出血液或带血的粘液。换言之，就是气道出血。这可能发生在肺癌、结核病、支气管炎或肺炎等感染以及某些心血管疾病中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NERVE_DAMAGE</LocID>
+				<Text>术后神经病理性疼痛</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>
+				<Text>如果神经在手术中受损，可能会发展成术后神经病理性疼痛（PONP）。受损的神经无法正确地将信号从身体各部位传递到大脑。相反，这些信号会被放大，导致可能持续数月甚至数年的慢性疼痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_CEALVL</LocID>
+				<Text>癌胚抗原水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_CEALVL_DESC</LocID>
+				<Text>患者血液中的癌胚抗原（CEA）水平升高。高水平的CEA可能是某些类型癌症的标志，包括结肠癌、直肠癌、前列腺癌、卵巢癌、肺癌、甲状腺癌或肝癌。高CEA水平也可能是某些非癌性疾病的标志，如肝硬化、非癌性乳腺疾病和肺气肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_POLYPS</LocID>
+				<Text>结直肠息肉</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_POLYPS_DESC</LocID>
+				<Text>息肉是结肠和直肠内膜上向肠道内突出的组织增生。患有结肠息肉的人通常没有症状。大多数结肠息肉是无害的，但某些类型可能会癌变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPONATREMIA</LocID>
+				<Text>低钠血症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPONATREMIA_DESC</LocID>
+				<Text>低钠血症是指血液中钠的浓度异常低。钠是一种电解质，有助于调节细胞内外的水量。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERGLYCEMIA</LocID>
+				<Text>高血糖症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERGLYCEMIA_DESC</LocID>
+				<Text>高血糖症是高血糖的专业术语。当身体胰岛素过少或无法正常使用胰岛素时，就会出现高血糖。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERCORTISOL</LocID>
+				<Text>皮质醇增多症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERCORTISOL_DESC</LocID>
+				<Text>库欣综合征，也称皮质醇增多症，是一种罕见的内分泌疾病，由身体组织长期暴露于过量皮质醇（一种由肾上腺自然产生的激素）引起。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERALDOSTERONISM</LocID>
+				<Text>醛固酮增多症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERALDOSTERONISM_DESC</LocID>
+				<Text>醛固酮增多症是一种肾上腺分泌过多醛固酮的疾病，导致高血压和低血钾。原发性醛固酮增多症可由单侧肾上腺功能亢进（单侧疾病）或双侧肾上腺功能亢进（双侧疾病）引起。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LARGE_LYMPHNODE</LocID>
+				<Text>淋巴结炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LARGE_LYMPHNODE_DESC</LocID>
+				<Text>淋巴结炎（淋巴结肿大）是指淋巴结因疾病、感染或压力而肿胀。淋巴结肿大是淋巴系统正在清除致病原的一个迹象。免疫系统腺体通常因细菌或病毒感染而肿大，但多个淋巴结突然肿大可能预示着癌症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ELAVATED_5HIAA</LocID>
+				<Text>尿液5-HIAA水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ELAVATED_5HIAA_DESC</LocID>
+				<Text>患者尿液中5-HIAA（5-羟基吲哚乙酸）水平升高。血清素在尿液中以5-羟基吲哚乙酸（5-HIAA）的形式测量。5-HIAA水平升高与类癌综合征和类癌危象相关。心脏瓣膜长期暴露于高水平的血清素与该疾病的并发症有关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CGA_BL_DETECTED</LocID>
+				<Text>嗜铬粒蛋白A血液水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CGA_BL_DETECTED_DESC</LocID>
+				<Text>患者血液中的肿瘤标志物嗜铬粒蛋白A水平升高。嗜铬粒蛋白A（CgA）是与所有类癌肿瘤相关的一般标志物。它是由肿瘤细胞产生并释放的一种蛋白质。嗜铬粒蛋白A与其他激素相关，并可能参与其调节。血液中存在正常水平的嗜铬粒蛋白A，目前其范围大约低于39ng/L。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CARCINOID_CRISIS</LocID>
+				<Text>类癌危象</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CARCINOID_CRISIS_DESC</LocID>
+				<Text>类癌危象是类癌综合征的一种危及生命的形式，由肿瘤释放大量生物活性化合物引起，可能由极度压力、肿瘤操作（活检或手术）或麻醉触发。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK</LocID>
+				<Text>过敏性休克</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK_DESC</LocID>
+				<Text>过敏性休克是一种罕见但严重的过敏反应，如不立即治疗可能致命。它最常由对食物、昆虫叮咬或某些药物的过敏引起。需要立即注射一种名为肾上腺素的药物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_UNUSUAL_INFECT</LocID>
+				<Text>异常感染</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_UNUSUAL_INFECT_DESC</LocID>
+				<Text>病因不明或表现出异常特性的感染。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FREQUENT_INFECT</LocID>
+				<Text>频繁感染</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FREQUENT_INFECT_DESC</LocID>
+				<Text>频繁感染是指感染次数过多、过于严重或持续时间过长。频繁或反复感染的发生原因可能是身体产生的白细胞不足，无法维持免疫系统的正常功能。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LYMPHOCYTOSIS</LocID>
+				<Text>淋巴细胞增多症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LYMPHOCYTOSIS_DESC</LocID>
+				<Text>淋巴细胞增多症是指体内淋巴细胞（一种白细胞亚型）数量高于正常水平。淋巴细胞是免疫系统的一部分，负责抵抗感染。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PETECHIAE</LocID>
+				<Text>瘀点</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PETECHIAE_DESC</LocID>
+				<Text>瘀点是出现在皮肤、粘膜或浆膜上的微小、圆形、非隆起的斑点。它们是皮下出血的结果。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLEEDING_GUM</LocID>
+				<Text>牙龈出血</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLEEDING_GUM_DESC</LocID>
+				<Text>牙龈出血是牙龈疾病最常见的症状，但也可能指向其他健康问题。偶尔的牙龈出血可能是由于刷牙过猛或佩戴不合适的假牙所致。频繁的牙龈出血可能预示着更严重的问题。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_TCOUNT</LocID>
+				<Text>T细胞计数高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HIGH_TCOUNT_DESC</LocID>
+				<Text>T细胞计数高可能由以下原因引起：传染性单核细胞增多症（也称为“亲吻病”）；急性淋巴细胞白血病（ALL），一种影响白细胞的癌症；多发性骨髓瘤，一种影响骨髓中浆细胞的癌症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_RC_APLASIA</LocID>
+				<Text>红细胞再生障碍</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_RC_APLASIA_DESC</LocID>
+				<Text>纯红细胞再生障碍（PRCA）或称幼红细胞减少症，是一种影响红细胞前体细胞但不影响白细胞的贫血类型。在PRCA中，骨髓停止产生红细胞。有多种病因可导致PRCA。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CHRONIC_NEUT</LocID>
+				<Text>中性粒细胞减少症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CHRONIC_NEUT_DESC</LocID>
+				<Text>中性粒细胞减少症是指人体内中性粒细胞水平低。中性粒细胞是一种白细胞。所有白细胞都帮助身体抵抗感染。中性粒细胞通过消灭侵入人体的有害细菌和真菌（酵母）来抵抗感染。中性粒细胞在骨髓中生成。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SPLENOMEGALY</LocID>
+				<Text>脾肿大</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>
+				<Text>脾肿大是指脾脏增大的状况。它通常也被称为脾脏增大或脾脏肿大。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>
+				<Text>脾破裂</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>
+				<Text>脾破裂是一种急症，指脾脏的包膜破裂，导致血液流入腹腔。根据破裂的大小，可能会发生大量内出血。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEPATOMEGALY</LocID>
+				<Text>肝肿大</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEPATOMEGALY_DESC</LocID>
+				<Text>肝肿大是指患者肝脏异常增大。这通常是一个严重健康问题的迹象。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_THROMBOCYTOPENIA</LocID>
+				<Text>血小板减少症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_THROMBOCYTOPENIA_DESC</LocID>
+				<Text>血小板减少症是指血液中血小板计数低的状况。血小板是帮助血液凝固的无色血细胞。血小板通过聚集和在血管损伤处形成栓子来止血。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_02</LocID>
+				<Text>检测到PML-RARA缺陷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_02_DESC</LocID>
+				<Text>APL细胞有一种非常特殊的异常，称为“平衡易位”，即15号和17号染色体的部分发生了交换。这导致形成了一个名为“PML/RARα”的异常融合基因。这个突变基因导致了该疾病的许多特征。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FISH_POSLESION</LocID>
+				<Text>FISH阳性病灶</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FISH_POSLESION_DESC</LocID>
+				<Text>患者的病灶已经过检测，FISH检查已证实其为恶性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_01</LocID>
+				<Text>检测到费城染色体缺陷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_01_DESC</LocID>
+				<Text>费城染色体或费城易位（Ph）是白血病癌细胞（特别是慢性粒细胞白血病（CML）细胞）中22号染色体的一种特定遗传异常。费城染色体的缺陷是一种相互易位，即9号和22号染色体的部分互换位置。该易位的存在是CML的高度敏感性测试，因为大多数CML病例呈阳性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_001</LocID>
+				<Text>髓过氧化物酶（MPO）阳性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_001_DESC</LocID>
+				<Text>髓过氧化物酶是一种溶酶体酶，位于中性粒细胞及其前体、嗜酸性粒细胞和单核细胞的嗜天青颗粒中。这种染色主要用于区分急性髓系白血病和急性淋巴细胞白血病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_002</LocID>
+				<Text>苏丹黑B阳性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_002_DESC</LocID>
+				<Text>溶剂黑3是一种偶氮染料。它是一种无荧光、相对耐热的溶脂性（脂溶性染料）重氮染料，用于冷冻切片上中性甘油三酯和脂质的染色，以及石蜡切片上某些脂蛋白的染色。在实验室中，溶剂黑3用于苏丹染色。在鉴别血液系统疾病时，它会染髓母细胞，但不会染淋巴母细胞。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_03</LocID>
+				<Text>检测到IDH1/IDH2突变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_03_DESC</LocID>
+				<Text>异柠檬酸脱氢酶（IDH）是三羧酸（TCA）循环中将异柠檬酸转化为α-酮戊二酸（α-KG）的关键酶。IDH突变产生一种新功能酶，可导致R-2-HG的异常积累并促进白血病的发生。IDH突变发生在20%的急性髓系白血病（AML）患者中，主要包括IDH1
+					R132、IDH2 R140和IDH2 R172。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_04</LocID>
+				<Text>检测到BCR-ABL融合基因</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_04_DESC</LocID>
+				<Text>BCR-ABL是由BCR和ABL两个基因组合形成的一种突变，有时也称为融合基因。BCR基因通常位于22号染色体上，ABL基因通常位于9号染色体上。BCR-ABL突变是当BCR和ABL基因的片段断裂并互换位置时发生的。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_05</LocID>
+				<Text>检测到8号三体基因</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_05_DESC</LocID>
+				<Text>8号三体，也称为Warkany综合征2型，是一种由拥有三个拷贝（三体）的8号染色体引起的人类染色体疾病。它可以以嵌合型或非嵌合型形式出现。“嵌合”一词表示某些细胞含有额外的染色体，而其他细胞则没有。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_06</LocID>
+				<Text>检测到9号三体基因</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_06_DESC</LocID>
+				<Text>9号三体嵌合体是一种罕见的染色体疾病，身体某些细胞中整个9号染色体出现三次（三体）而不是两次。“嵌合”一词表示某些细胞含有额外的9号染色体，而其他细胞则具有典型的染色体对。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_07</LocID>
+				<Text>费城染色体重复</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_07_DESC</LocID>
+				<Text>已检测到缺陷染色体——费城染色体的重复。这可能发生在慢性粒细胞白血病的晚期阶段。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLA_HIGH1</LocID>
+				<Text>原始细胞计数升高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLA_HIGH1_DESC</LocID>
+				<Text>原始细胞是成熟循环血细胞（如中性粒细胞、单核细胞、淋巴细胞和红细胞）的前体。原始细胞通常在骨髓中少量存在，一般不会在血液中大量出现。检测发现患者血液中原始细胞水平升高（在5%到19%之间）。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLA_HIGH2</LocID>
+				<Text>原始细胞计数高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLA_HIGH2_DESC</LocID>
+				<Text>原始细胞是成熟循环血细胞（如中性粒细胞、单核细胞、淋巴细胞和红细胞）的前体。原始细胞通常在骨髓中少量存在，一般不会在血液中大量出现。检测发现患者血液中原始细胞水平高（超过20%）。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLA_HIGH3</LocID>
+				<Text>原始细胞计数极高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BLA_HIGH3_DESC</LocID>
+				<Text>原始细胞是成熟循环血细胞（如中性粒细胞、单核细胞、淋巴细胞和红细胞）的前体。原始细胞通常在骨髓中少量存在，一般不会在血液中大量出现。检测发现患者血液中原始细胞水平极高（超过30%）。在此水平上，原始细胞会排挤正常的白细胞，使其效能大大降低。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD10_BRIGHT</LocID>
+				<Text>中性肽链内切酶（CD10）高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD10_BRIGHT_DESC</LocID>
+				<Text>中性肽链内切酶，又称膜金属内肽酶、中性内肽酶、分化簇10和常见急性淋巴细胞白血病抗原，是一种在人体中由MME基因编码的酶。作为一种癌症特异性抗原，在常见急性淋巴细胞白血病中被鉴定出的CD10是一种广泛表达于不同类型细胞表面的外切酶。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD10_NEG</LocID>
+				<Text>中性肽链内切酶（CD10）阴性表达</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD10_NEG_DESC</LocID>
+				<Text>中性肽链内切酶，又称膜金属内肽酶、中性内肽酶、分化簇10和常见急性淋巴细胞白血病抗原，是一种在人体中由MME基因编码的酶。作为一种癌症特异性抗原，在常见急性淋巴细胞白血病中被鉴定出的CD10是一种广泛表达于不同类型细胞表面的外切酶。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD19_BRIGHT</LocID>
+				<Text>CD19抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD19_BRIGHT_DESC</LocID>
+				<Text>B淋巴细胞抗原CD19，也称为CD19分子、B淋巴细胞表面抗原B4、T细胞表面抗原Leu-12和CVID3，是一种由人类CD19基因编码的跨膜蛋白。在人体中，CD19在除浆细胞外的所有B细胞谱系细胞以及滤泡树突状细胞中表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD19_NEG</LocID>
+				<Text>CD19抗原阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD19_NEG_DESC</LocID>
+				<Text>B淋巴细胞抗原CD19，也称为CD19分子、B淋巴细胞表面抗原B4、T细胞表面抗原Leu-12和CVID3，是一种由人类CD19基因编码的跨膜蛋白。在人体中，CD19在除浆细胞外的所有B细胞谱系细胞以及滤泡树突状细胞中表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD20_DIM</LocID>
+				<Text>CD20抗原弱表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD20_DIM_DESC</LocID>
+				<Text>B淋巴细胞抗原CD20或CD20在所有B细胞表面表达，从前B细胞阶段开始，浓度随细胞成熟而逐渐增加。CD20是一种嵌入膜的表面分子，在B细胞发育成浆细胞的过程中起着作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD20_BRIGHT</LocID>
+				<Text>CD20抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD20_BRIGHT_DESC</LocID>
+				<Text>B淋巴细胞抗原CD20或CD20在所有B细胞表面表达，从前B细胞阶段开始，浓度随细胞成熟而逐渐增加。CD20是一种嵌入膜的表面分子，在B细胞发育成浆细胞的过程中起着作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_TDT_BRIGHT</LocID>
+				<Text>TdT抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_TDT_BRIGHT_DESC</LocID>
+				<Text>末端脱氧核苷酸转移酶（TdT），也称为DNA核苷酸外切酶（DNTT）或末端转移酶，是一种在未成熟的前B、前T淋巴细胞和急性淋巴细胞白血病/淋巴瘤细胞中表达的特化DNA聚合酶。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_TDT_NEG</LocID>
+				<Text>TdT抗原阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_TDT_NEG_DESC</LocID>
+				<Text>末端脱氧核苷酸转移酶（TdT），也称为DNA核苷酸外切酶（DNTT）或末端转移酶，是一种在未成熟的前B、前T淋巴细胞和急性淋巴细胞白血病/淋巴瘤细胞中表达的特化DNA聚合酶。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD22_DIM</LocID>
+				<Text>CD22抗原弱表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD22_DIM_DESC</LocID>
+				<Text>CD22，即分化簇-22，是一种属于SIGLEC凝集素家族的分子。它存在于成熟B细胞表面，在某些不成熟B细胞上表达量较少。CD22是一种糖结合跨膜蛋白，其N端有一个免疫球蛋白（Ig）结构域，能特异性结合唾液酸。Ig结构域的存在使CD22成为免疫球蛋白超家族的成员。CD22作为B细胞受体（BCR）信号传导的抑制性受体发挥作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD22_BRIGHT</LocID>
+				<Text>CD22抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD22_BRIGHT_DESC</LocID>
+				<Text>CD22，即分化簇-22，是一种属于SIGLEC凝集素家族的分子。它存在于成熟B细胞表面，在某些不成熟B细胞上表达量较少。CD22是一种糖结合跨膜蛋白，其N端有一个免疫球蛋白（Ig）结构域，能特异性结合唾液酸。Ig结构域的存在使CD22成为免疫球蛋白超家族的成员。CD22作为B细胞受体（BCR）信号传导的抑制性受体发挥作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD23_BRIGHT</LocID>
+				<Text>Fc epsilon RII (CD23) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD23_BRIGHT_DESC</LocID>
+				<Text>CD23，也称为Fc epsilonRII或FcεRII，是IgE的“低亲和力”受体，IgE是一种参与过敏和抵抗寄生虫的抗体同种型，在调节IgE水平中很重要。与许多抗体受体不同，CD23是一种C型凝集素。CD23抗原被认为是在慢性淋巴细胞白血病分化中重要的细胞表面蛋白。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD34_BRIGHT</LocID>
+				<Text>CD34抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD34_BRIGHT_DESC</LocID>
+				<Text>CD34蛋白是单通道跨膜唾液酸粘蛋白家族的一员，在早期造血和血管相关组织中表达。CD34也是一种重要的粘附分子，是T细胞进入淋巴结所必需的。它在淋巴结内皮细胞上表达，而与其结合的L-选择素则在T细胞上。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD79a_BRIGHT</LocID>
+				<Text>CD79a抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD79a_BRIGHT_DESC</LocID>
+				<Text>分化簇CD79A，也称为B细胞抗原受体复合物相关蛋白α链和MB-1膜糖蛋白，是一种由人类CD79A基因编码的蛋白质。CD79a在B细胞的发育和功能中扮演着多种多样的角色。CD79a/b异二聚体通过其跨膜区与免疫球蛋白重链非共价结合，从而与免疫球蛋白轻链形成BCR，并在发育中的B细胞中与替代轻链结合时形成pre-BCR。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD79b_NEG</LocID>
+				<Text>CD79b抗原阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD79b_NEG_DESC</LocID>
+				<Text>CD79b分子，免疫球蛋白相关β链，也称为CD79B（分化簇79B），是一种人类基因。CD79a/b异二聚体通过其跨膜区与免疫球蛋白重链非共价结合，从而与免疫球蛋白轻链形成BCR，并在发育中的B细胞中与替代轻链结合时形成pre-BCR。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD11c_BRIGHT</LocID>
+				<Text>整合素αX (CD11c) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD11c_BRIGHT_DESC</LocID>
+				<Text>CD11c，也称为整合素αX（补体成分3受体4亚基）（ITGAX），是一个编码CD11c的基因。CD11c是一种I型跨膜蛋白，表达于单核细胞、粒细胞、B细胞亚群、树突状细胞和巨噬细胞，并可能在B细胞慢性淋巴细胞白血病、边缘区淋巴瘤和毛细胞白血病中检测到。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD25_BRIGHT</LocID>
+				<Text>IL2RA (CD25) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD25_BRIGHT_DESC</LocID>
+				<Text>白细胞介素-2受体α链（也称CD25）是一种由人类IL2RA基因编码的蛋白质。白细胞介素2（IL2）受体α（IL2RA）和β（IL2RB）链与共同γ链（IL2RG）一起构成高亲和力IL2受体。IL2RA在大多数B细胞肿瘤、一些急性非淋巴细胞白血病、神经母细胞瘤、肥大细胞增生症和肿瘤浸润淋巴细胞中表达。它作为HTLV-1的受体，因此在成人T细胞淋巴瘤/白血病的肿瘤细胞上表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD25_NEG</LocID>
+				<Text>IL2RA (CD25) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD25_NEG_DESC</LocID>
+				<Text>白细胞介素-2受体α链（也称CD25）是一种由人类IL2RA基因编码的蛋白质。白细胞介素2（IL2）受体α（IL2RA）和β（IL2RB）链与共同γ链（IL2RG）一起构成高亲和力IL2受体。IL2RA在大多数B细胞肿瘤、一些急性非淋巴细胞白血病、神经母细胞瘤、肥大细胞增生症和肿瘤浸润淋巴细胞中表达。它作为HTLV-1的受体，因此在成人T细胞淋巴瘤/白血病的肿瘤细胞上表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD103_BRIGHT</LocID>
+				<Text>ITGAE (CD103) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD103_BRIGHT_DESC</LocID>
+				<Text>整合素αE，也称为CD103，是一种由人类ITGAE基因编码的整合素蛋白。CD103广泛表达于上皮内淋巴细胞（IEL）T细胞（包括αβ T细胞和γδ T细胞）和一些外周调节性T细胞（Tregs）上。它可用于识别毛细胞白血病，该病对此标志物呈阳性，而大多数其他血液系统恶性肿瘤则为CD103阴性，肠病相关T细胞淋巴瘤除外。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD123_DIM</LocID>
+				<Text>白细胞介素-3受体 (CD123) 弱表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD123_DIM_DESC</LocID>
+				<Text>白细胞介素-3受体（CD123）是一种存在于细胞上的分子，有助于传递白细胞介素-3的信号，这是一种在免疫系统中重要的可溶性细胞因子。该受体存在于多能祖细胞上，能诱导细胞内酪氨酸磷酸化，并促进造血细胞系的增殖和分化。CD123在包括白血病干细胞在内的急性髓系白血病（AML）亚型中均有表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD123_BRIGHT</LocID>
+				<Text>白细胞介素-3受体 (CD123) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD123_BRIGHT_DESC</LocID>
+				<Text>白细胞介素-3受体（CD123）是一种存在于细胞上的分子，有助于传递白细胞介素-3的信号，这是一种在免疫系统中重要的可溶性细胞因子。该受体存在于多能祖细胞上，能诱导细胞内酪氨酸磷酸化，并促进造血细胞系的增殖和分化。CD123在包括白血病干细胞在内的急性髓系白血病（AML）亚型中均有表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD123_NEG</LocID>
+				<Text>白细胞介素-3受体 (CD123) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD123_NEG_DESC</LocID>
+				<Text>白细胞介素-3受体（CD123）是一种存在于细胞上的分子，有助于传递白细胞介素-3的信号，这是一种在免疫系统中重要的可溶性细胞因子。该受体存在于多能祖细胞上，能诱导细胞内酪氨酸磷酸化，并促进造血细胞系的增殖和分化。CD123在包括白血病干细胞在内的急性髓系白血病（AML）亚型中均有表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD1a_BRIGHT</LocID>
+				<Text>CD1a抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD1a_BRIGHT_DESC</LocID>
+				<Text>CD1a（分化簇1a）是一种由人类CD1A基因编码的蛋白质。该基因编码CD1家族的一种跨膜糖蛋白成员，其结构与主要组织相容性复合体（MHC）蛋白相关，并与β-2-微球蛋白形成异二聚体。CD1蛋白介导将自身或微生物来源的脂质和糖脂抗原呈递给T细胞。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD1a_NEG</LocID>
+				<Text>CD1a抗原阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD1a_NEG_DESC</LocID>
+				<Text>CD1a（分化簇1a）是一种由人类CD1A基因编码的蛋白质。该基因编码CD1家族的一种跨膜糖蛋白成员，其结构与主要组织相容性复合体（MHC）蛋白相关，并与β-2-微球蛋白形成异二聚体。CD1蛋白介导将自身或微生物来源的脂质和糖脂抗原呈递给T细胞。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD5_BRIGHT</LocID>
+				<Text>CD5抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD5_BRIGHT_DESC</LocID>
+				<Text>CD5是在T细胞表面（多种物种）和一种称为B-1a的小鼠B细胞亚群上表达的分化簇。该受体在人类B细胞中的表达一直是一个有争议的话题，至今对于该受体作为人类B细胞标志物的作用尚无共识。CD5是T细胞的良好免疫组化标志物，尽管不如CD3敏感。据报道，约76%的T细胞肿瘤表达CD5，它也存在于慢性淋巴细胞白血病和套细胞淋巴瘤（均为B细胞恶性肿瘤）中，这些肿瘤不表达CD3。它在皮肤T细胞淋巴瘤中通常会丢失，其缺失可作为该病恶性程度的指标。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD7_BRIGHT</LocID>
+				<Text>CD7抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD7_BRIGHT_DESC</LocID>
+				<Text>CD7（分化簇7）是一种由人类CD7基因编码的蛋白质。该基因编码一种属于免疫球蛋白超家族的跨膜蛋白。这种蛋白质存在于胸腺细胞和成熟T细胞上。它在T细胞相互作用以及早期淋巴发育过程中的T细胞/B细胞相互作用中起着至关重要的作用。该基因编码一种属于免疫球蛋白超家族的跨膜蛋白。这种蛋白质存在于胸腺细胞和成熟T细胞上。它在T细胞相互作用以及早期淋巴发育过程中的T细胞/B细胞相互作用中起着至关重要的作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD13_BRIGHT</LocID>
+				<Text>氨肽酶N (CD13) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD13_BRIGHT_DESC</LocID>
+				<Text>膜丙氨酰氨肽酶（EC
+					3.4.11.2），也称为丙氨酰氨肽酶（AAP）或氨肽酶N（AP-N），是一种由人类ANPEP基因编码的酶。氨肽酶N位于小肠和肾微绒毛膜以及其他质膜中。在小肠中，氨肽酶N在由胃和胰蛋白酶水解蛋白质产生的肽的最终消化中起作用。其在近端小管上皮细胞和其他细胞类型中的功能尚不清楚。该基因的缺陷似乎是各种类型白血病或淋巴瘤的原因之一。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD15_BRIGHT</LocID>
+				<Text>唾液酸化路易斯X (CD15) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD15_BRIGHT_DESC</LocID>
+				<Text>唾液酸化路易斯X（sLeX），也称为分化簇15s（CD15s）或阶段特异性胚胎抗原1（SSEA-1），是一种四糖碳水化合物，通常附着在细胞表面的O-聚糖上。它在细胞间识别过程中起着至关重要的作用。它也是卵子吸引精子的方式；首先是粘附，然后结合，最终形成受精卵。唾液酸化路易斯X介导吞噬作用和趋化性，存在于中性粒细胞上；在霍奇金病患者、一些B细胞慢性淋巴细胞白血病、急性淋巴细胞白血病和大多数急性非淋巴细胞白血病中表达。CD15存在于几乎所有的Reed-Sternberg细胞中，包括其罕见的单核变体，因此可用于免疫组化，以在活检中识别此类细胞的存在。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD33_BRIGHT</LocID>
+				<Text>Siglec-3 (CD33) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD33_BRIGHT_DESC</LocID>
+				<Text>CD33或Siglec-3（唾液酸结合Ig样凝集素3，SIGLEC3，SIGLEC-3，gp67，p67）是一种在髓系细胞上表达的跨膜受体。它通常被认为是髓系特异性的，但也可以在一些淋巴细胞上发现。CD33可被任何带有唾液酸残基的分子（如糖蛋白或糖脂）刺激。结合后，CD33的免疫受体酪氨酸抑制基序（ITIM）（位于蛋白质的胞质部分）被磷酸化，并作为包含Src同源2（SH2）域的蛋白（如SHP磷酸酶）的停靠位点。这导致一个级联反应，抑制细胞的吞噬作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD117_BRIGHT</LocID>
+				<Text>原癌基因c-KIT (CD117) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD117_BRIGHT_DESC</LocID>
+				<Text>原癌基因c-KIT，也称为酪氨酸蛋白激酶KIT、CD117或肥大/干细胞生长因子受体，是一种受体酪氨酸激酶蛋白，在人类中由KIT基因编码。KIT是用于识别骨髓中某些类型造血（血液）祖细胞的重要细胞表面标志物。具体来说，造血干细胞（HSC）、多能祖细胞（MPP）和共同髓系祖细胞（CMP）高水平表达KIT。共同淋巴祖细胞（CLP）表达低水平的KIT。KIT抗体广泛用于免疫组化，以帮助在组织切片中区分特定类型的肿瘤。它主要用于诊断胃肠道间质瘤（GIST），这些肿瘤对KIT呈阳性，但对平滑肌和神经肿瘤中呈阳性的标志物（如结蛋白和S-100）呈阴性，而这些肿瘤外观相似。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD117_NEG</LocID>
+				<Text>原癌基因c-KIT (CD117) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD117_NEG_DESC</LocID>
+				<Text>原癌基因c-KIT，也称为酪氨酸蛋白激酶KIT、CD117或肥大/干细胞生长因子受体，是一种受体酪氨酸激酶蛋白，在人类中由KIT基因编码。KIT是用于识别骨髓中某些类型造血（血液）祖细胞的重要细胞表面标志物。具体来说，造血干细胞（HSC）、多能祖细胞（MPP）和共同髓系祖细胞（CMP）高水平表达KIT。共同淋巴祖细胞（CLP）表达低水平的KIT。KIT抗体广泛用于免疫组化，以帮助在组织切片中区分特定类型的肿瘤。它主要用于诊断胃肠道间质瘤（GIST），这些肿瘤对KIT呈阳性，但对平滑肌和神经肿瘤中呈阳性的标志物（如结蛋白和S-100）呈阴性，而这些肿瘤外观相似。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD38_BRIGHT</LocID>
+				<Text>环ADP核糖水解酶 (CD38) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD38_BRIGHT_DESC</LocID>
+				<Text>CD38，也称为环ADP核糖水解酶，是一种存在于许多免疫细胞表面的糖蛋白，包括CD4⁺、CD8⁺、B淋巴细胞和自然杀伤细胞。CD38还在细胞粘附、信号转导和钙信号传导中发挥作用。CD38功能的丧失与免疫应答受损、代谢紊乱和包括社交失忆在内的行为改变有关。CD38蛋白是细胞活化的标志物。它与HIV感染、白血病、骨髓瘤、实体瘤、II型糖尿病和骨代谢以及一些遗传性疾病有关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD38_DIM</LocID>
+				<Text>环ADP核糖水解酶 (CD38) 弱表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD38_DIM_DESC</LocID>
+				<Text>CD38，也称为环ADP核糖水解酶，是一种存在于许多免疫细胞表面的糖蛋白，包括CD4⁺、CD8⁺、B淋巴细胞和自然杀伤细胞。CD38还在细胞粘附、信号转导和钙信号传导中发挥作用。CD38功能的丧失与免疫应答受损、代谢紊乱和包括社交失忆在内的行为改变有关。CD38蛋白是细胞活化的标志物。它与HIV感染、白血病、骨髓瘤、实体瘤、II型糖尿病和骨代谢以及一些遗传性疾病有关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD43_BRIGHT</LocID>
+				<Text>白细胞唾液酸蛋白 (CD43) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD43_BRIGHT_DESC</LocID>
+				<Text>白细胞唾液酸蛋白，也称为唾液酸蛋白或CD43（分化簇43），是一种由人类SPN（唾液酸蛋白）基因编码的跨膜细胞表面蛋白。CD43分子的缺陷与Wiskott-Aldrich综合征的发生有关。使用免疫组化，可以在健康淋巴结和扁桃体的副皮质区T细胞中检测到CD43；它在一系列淋巴和髓系肿瘤中也呈阳性。尽管它存在于超过90%的T细胞淋巴瘤中，但在检测该病方面通常不如CD3抗原有效。然而，作为一组检测的一部分，它可能有助于证明B细胞淋巴母细胞淋巴瘤，因为该病中的恶性细胞通常是CD43阳性的，并且可能难以用其他抗体染色。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD8_BRIGHT</LocID>
+				<Text>CD8抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD8_BRIGHT_DESC</LocID>
+				<Text>CD8（分化簇8）是一种跨膜糖蛋白，作为T细胞受体（TCR）的共受体。与TCR一样，CD8与主要组织相容性复合体（MHC）分子结合，但特异于I类MHC蛋白。CD8共受体主要在细胞毒性T细胞表面表达，但也可在自然杀伤细胞、皮质胸腺细胞和树突状细胞上发现。CD8分子是细胞毒性T细胞群体的标志物。它在T细胞淋巴母细胞淋巴瘤和色素减退性蕈样肉芽肿中表达。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD3_BRIGHT</LocID>
+				<Text>CD3抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD3_BRIGHT_DESC</LocID>
+				<Text>在免疫学中，CD3（分化簇3）T细胞共受体有助于激活细胞毒性T细胞（CD8+初始T细胞）和辅助T细胞（CD4+初始T细胞）。CD3最初在前胸腺细胞（T细胞在胸腺中产生的干细胞）的细胞质中表达。前胸腺细胞分化为普通胸腺细胞，然后分化为髓质胸腺细胞，在后一阶段，CD3抗原开始迁移到细胞膜。该抗原被发现与所有成熟T细胞的膜结合，几乎不存在于其他细胞类型中，尽管它似乎在浦肯野细胞中有少量存在。这种高特异性，加上CD3在T细胞发育所有阶段的存在，使其成为组织切片中T细胞的有用免疫组化标志物。该抗原几乎存在于所有T细胞淋巴瘤和白血病中，因此可用于将它们与表面上相似的B细胞和髓系肿瘤区分开来。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD3_NEG</LocID>
+				<Text>CD3抗原阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD3_NEG_DESC</LocID>
+				<Text>在免疫学中，CD3（分化簇3）T细胞共受体有助于激活细胞毒性T细胞（CD8+初始T细胞）和辅助T细胞（CD4+初始T细胞）。CD3最初在前胸腺细胞（T细胞在胸腺中产生的干细胞）的细胞质中表达。前胸腺细胞分化为普通胸腺细胞，然后分化为髓质胸腺细胞，在后一阶段，CD3抗原开始迁移到细胞膜。该抗原被发现与所有成熟T细胞的膜结合，几乎不存在于其他细胞类型中，尽管它似乎在浦肯野细胞中有少量存在。这种高特异性，加上CD3在T细胞发育所有阶段的存在，使其成为组织切片中T细胞的有用免疫组化标志物。该抗原几乎存在于所有T细胞淋巴瘤和白血病中，因此可用于将它们与表面上相似的B细胞和髓系肿瘤区分开来。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD16_BRIGHT</LocID>
+				<Text>FcγRIII (CD16) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD16_BRIGHT_DESC</LocID>
+				<Text>CD16，也称为FcγRIII，是在自然杀伤细胞、中性粒细胞、单核细胞和巨噬细胞表面发现的一种分化簇分子。CD16已被鉴定为Fc受体FcγRIIIa和FcγRIIIb，它们参与信号转导。这些受体与IgG抗体的Fc部分结合，然后激活人NK细胞中的抗体依赖性细胞介导的细胞毒性（ADCC）。CD16是人单核细胞执行ADCC过程所必需的。在人类中，表达CD16的单核细胞在特定抗体存在下具有多种ADCC能力，并能杀死原代白血病细胞、癌细胞系和乙型肝炎病毒感染的细胞。此外，CD16能够在没有抗体的情况下介导对某些病毒感染细胞和癌细胞的直接杀伤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD56_BRIGHT</LocID>
+				<Text>神经细胞黏附分子 (CD56) 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD56_BRIGHT_DESC</LocID>
+				<Text>神经细胞黏附分子（NCAM），也称为CD56，是一种在神经元、胶质细胞和骨骼肌表面表达的同源结合糖蛋白。尽管由于其发现部位，CD56通常被认为是神经谱系定向的标志物，但CD56的表达也存在于造血系统等其他系统中。在这里，CD56的表达与自然杀伤细胞最密切相关，但绝不限于此。在解剖病理学中，病理学家利用CD56免疫组化来识别某些肿瘤。CD56阳性的肿瘤包括骨髓瘤、髓系白血病、神经内分泌肿瘤、维尔姆斯瘤、神经母细胞瘤、鼻型结外NK/T细胞淋巴瘤、胰腺腺泡细胞癌、嗜铬细胞瘤、副神经节瘤、小细胞肺癌和尤文氏肉瘤家族肿瘤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_HLADR_BRIGHT</LocID>
+				<Text>HLA-DR 高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_HLADR_BRIGHT_DESC</LocID>
+				<Text>HLA-DR是由位于6号染色体6p21.31区域的人类白细胞抗原复合体编码的MHC
+					II类细胞表面受体。HLA-DR和肽（通常长度在9到30个氨基酸之间）的复合物构成了T细胞受体的配体。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PANCYTOPENIA</LocID>
+				<Text>全血细胞减少症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PANCYTOPENIA_DESC</LocID>
+				<Text>全血细胞减少症是指一个人三种血细胞（红细胞、白细胞和血小板）计数均低的状况。全血细胞减少症通常是由于产生血细胞的骨髓出现问题。然而，其根本原因可能有多种。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HAIRYCELL</LocID>
+				<Text>毛状细胞</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HAIRYCELL_DESC</LocID>
+				<Text>毛状细胞是具有毛发状细胞质突起的异常白细胞。它们是毛细胞白血病的典型标志。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_003</LocID>
+				<Text>检测到TRAP酶</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_003_DESC</LocID>
+				<Text>抗酒石酸酸性磷酸酶（TRAP或TRAPase），也称为酸性磷酸酶5，抗酒石酸型（ACP5），是一种在哺乳动物中表达的糖基化单体金属蛋白酶。其分子量约为35kDa，具有碱性等电点（7.6–9.5），在酸性条件下具有最佳活性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_08</LocID>
+				<Text>检测到BRAF V600E突变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_08_DESC</LocID>
+				<Text>B-Raf原癌基因（BRAF）编码一种细胞质丝氨酸/苏氨酸激酶，在调节丝裂原活化蛋白激酶信号转导通路中起关键作用。在BRAF基因外显子15的第600密码子处的一个激活错义突变（V600E）已在多种肿瘤中被发现，包括黑色素瘤、结直肠癌、甲状腺乳头状癌、毛细胞白血病和朗格汉斯细胞组织细胞增生症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_09</LocID>
+				<Text>检测到IGHV高频突变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_09_DESC</LocID>
+				<Text>Ig重链V-III区VH26是一种在人类中由IGHV@基因编码的蛋白质。IGHV是免疫球蛋白重链可变区基因；在B细胞肿瘤如慢性淋巴细胞白血病中，IGHV的突变与对某些治疗的更好反应和更长的生存期相关。约80%至90%的毛细胞白血病（HCL）患者在免疫球蛋白重链可变区基因中存在高频突变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_10</LocID>
+				<Text>检测到17号染色体p13缺失</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_10_DESC</LocID>
+				<Text>检测显示患者被测细胞中存在17号染色体p13缺失。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NECROSIS</LocID>
+				<Text>坏死</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NECROSIS_DESC</LocID>
+				<Text>坏死是一种细胞损伤形式，通过自溶导致活组织中细胞的过早死亡。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LPT1</LocID>
+				<Text>检测到大的原发性肿瘤</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LPT1_DESC</LocID>
+				<Text>检测发现患者体内有一个大的原发性肿瘤，这有时可能表明癌症处于更晚期的阶段。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_LUMP</LocID>
+				<Text>乳房肿块</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_LUMP_DESC</LocID>
+				<Text>乳房肿块是乳房中的局部肿胀、突起、隆起或肿块，其感觉与周围的乳房组织不同。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_DISCH</LocID>
+				<Text>乳头溢液</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_DISCH_DESC</LocID>
+				<Text>乳头溢液是指从乳头释放液体。这是一种非常常见的乳房症状，在大多数情况下是乳房正常功能的一部分，而不是由问题引起的。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SORE_NIPPLE</LocID>
+				<Text>乳头疼痛</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SORE_NIPPLE_DESC</LocID>
+				<Text>乳头疼痛是指发生在乳头周围乳腺组织中的疼痛。乳头疼痛可能与其他症状和体征相关，包括乳房疼痛、乳头溢液、乳房肿块或肿物、瘙痒或皮肤变化。乳腺癌通常不会引起乳头疼痛或乳房疼痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_SCHANGE</LocID>
+				<Text>乳房外形改变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_SCHANGE_DESC</LocID>
+				<Text>患者的乳房形状或大小发生了变化。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_DIMP</LocID>
+				<Text>乳房皮肤凹陷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_DIMP_DESC</LocID>
+				<Text>也称为“橘皮样变”，乳房皮肤凹陷使皮肤看起来像橙子的点状和不平整的表皮。有时，皮肤也可能变红和发炎。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_PAIN</LocID>
+				<Text>乳房疼痛</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BREAST_PAIN_DESC</LocID>
+				<Text>单侧或双侧乳房的紧绷、压痛或锐痛，通常很常见，并不意味着有严重问题。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SUS_CALC</LocID>
+				<Text>可疑钙化灶</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SUS_CALC_DESC</LocID>
+				<Text>乳房钙化灶是女性乳腺组织中形成的小钙沉积物。它们非常常见，通常是良性（非癌性）的。乳房钙化灶在女性中更常见，但也可在男性中发现。在某些情况下，特定类型的乳房钙化灶可能提示早期乳腺癌。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IRR_BMASS</LocID>
+				<Text>不规则乳腺密度</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IRR_BMASS_DESC</LocID>
+				<Text>乳房X光片上的潜在异常可能被称为结节、肿块、密度影或结构扭曲。边界不规则或呈星芒状（毛刺状）的肿块可能是癌性的。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CA153</LocID>
+				<Text>癌抗原15-3血液水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CA153_DESC</LocID>
+				<Text>癌抗原15-3（CA15-3）是由多种细胞，特别是乳腺癌细胞制造的一种蛋白质。该蛋白质进入血液，可以在血液中测量。在大多数乳腺癌已扩散到身体其他部位（称为转移性乳腺癌）的女性中，CA15-3水平高于正常。并非所有类型的乳腺癌都会导致CA15-3水平升高，因为某些类型的癌细胞不会过量产生该抗原。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CA2729</LocID>
+				<Text>癌抗原27-29血液水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CA2729_DESC</LocID>
+				<Text>癌抗原27-29是医生用作乳腺癌肿瘤标志物的几种抗原之一。当存在癌症时，这些标志物往往会增加。CA
+					27.29检测主要用于监测转移性乳腺癌，较少用于检测既往接受早期乳腺癌治疗的患者的复发。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_11</LocID>
+				<Text>BRCA1缺陷基因检测结果</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_11_DESC</LocID>
+				<Text>BRCA1/2是一种人类肿瘤抑制基因（也称为“看护基因”），负责修复DNA。BRCA1和BRCA2是两种不相关的蛋白质，但通常都在乳腺和其他组织的细胞中表达，在那里它们帮助修复受损的DNA，或者在DNA无法修复时摧毁细胞。携带BRCA1或BRCA2缺陷的女性有很高的终生乳腺癌风险，估计在30-60%之间，终生卵巢癌风险约为20%。她们可以从癌症的预防和早期检测措施中受益。携带BRCA1或BRCA2缺陷的男性可能会有一定程度增加的前列腺癌和男性乳腺癌风险。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HRM_01</LocID>
+				<Text>雌激素受体阳性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HRM_01_DESC</LocID>
+				<Text>如果癌症有雌激素受体，则称为雌激素受体阳性（或ER+）。这表明癌细胞可能像正常乳腺细胞一样，接收到可能促进其生长的雌激素信号。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HRM_02</LocID>
+				<Text>孕激素受体阳性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HRM_02_DESC</LocID>
+				<Text>如果癌症有孕激素受体，则为孕激素受体阳性（PR+）。这表明癌细胞可能接收到可能促进其生长的孕激素信号。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD340_NEG</LocID>
+				<Text>HER2/neu (CD340) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD340_NEG_DESC</LocID>
+				<Text>受体酪氨酸蛋白激酶erbB-2，也称为CD340、原癌基因Neu、Erbb2或ERBB2，是一种在人类中由ERBB2基因编码的蛋白质。ERBB是erythroblastic
+					oncogene
+					B（成红细胞母细胞瘤癌基因B）的缩写，是从禽类基因组中分离出的一个基因。它也常被称为HER2或HER2/neu。HER2是人表皮生长因子受体（HER/EGFR/ERBB）家族的成员。该癌基因的扩增或过表达已被证明在某些侵袭性乳腺癌的发生和发展中起着重要作用。近年来，该蛋白已成为约30%乳腺癌患者的重要生物标志物和治疗靶点。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD340_POS</LocID>
+				<Text>HER2/neu (CD340) 阳性突变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD340_POS_DESC</LocID>
+				<Text>受体酪氨酸蛋白激酶erbB-2，也称为CD340、原癌基因Neu、Erbb2或ERBB2，是一种在人类中由ERBB2基因编码的蛋白质。ERBB是erythroblastic
+					oncogene
+					B（成红细胞母细胞瘤癌基因B）的缩写，是从禽类基因组中分离出的一个基因。它也常被称为HER2或HER2/neu。HER2是人表皮生长因子受体（HER/EGFR/ERBB）家族的成员。该癌基因的扩增或过表达已被证明在某些侵袭性乳腺癌的发生和发展中起着重要作用。近年来，该蛋白已成为约30%乳腺癌患者的重要生物标志物和治疗靶点。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SPEC_MARG</LocID>
+				<Text>毛刺状边缘</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SPEC_MARG_DESC</LocID>
+				<Text>毛刺状边缘是恶性肿瘤的一个真实诊断特征。可见组织束从一个边界不清的肿块中放射出来，形成星状外观。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD44v6_BRIGHT</LocID>
+				<Text>CD44v6抗原高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD44v6_BRIGHT_DESC</LocID>
+				<Text>CD44v6是CD44跨膜糖蛋白家族的一个亚型。上皮癌中CD44v6的高表达与肿瘤生长、侵袭、转移和复发相关。CD44v6是受体酪氨酸激酶c-Met、RON和VEGFR-2的共受体。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_12</LocID>
+				<Text>GATA3突变检测结果</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_12_DESC</LocID>
+				<Text>GATA3是一种转录因子，在人类中由GATA3基因编码。GATA3转录因子对多种组织的胚胎发育、炎症和体液免疫反应以及血管内皮的正常功能至关重要。乳腺细胞中GATA3蛋白的免疫细胞化学分析是诊断原发性乳腺癌的一个有价值的标志物，在高达94%的病例中检测为阳性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_HEMOPTYSIS2</LocID>
+				<Text>严重咯血</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_HEMOPTYSIS2_DESC</LocID>
+				<Text>咯血是指从支气管、喉、气管或肺部咳出血液或带血的粘液。换言之，就是气道出血。这可能发生在肺癌、结核病、支气管炎或肺炎等感染以及某些心血管疾病中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_INC_INTRAPRE</LocID>
+				<Text>颅内压增高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_INC_INTRAPRE_DESC</LocID>
+				<Text>颅内压增高（ICP）是指大脑周围压力升高。这可能是由于大脑周围液体量增加所致。例如，可能是自然缓冲大脑的脑脊液量增加，或是由于损伤或肿瘤破裂导致脑内血液增加。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BRAIN_ABW</LocID>
+				<Text>异常脑电波模式</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BRAIN_ABW_DESC</LocID>
+				<Text>脑电图检测到异常脑电波模式。在脑肿瘤病程早期，有时会观察到具有一致定位的棘波、尖波或棘慢复合波。然而，它们更常见于与癫痫相关的生长缓慢的肿瘤的早期发现，或在局灶性慢波出现之后。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LPT2</LocID>
+				<Text>检测到异常肿块</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LPT2_DESC</LocID>
+				<Text>检测发现患者体内存在异常肿块，需要进一步检查以确定其恶性程度、类型或进展情况。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_13</LocID>
+				<Text>I型神经纤维瘤病（NF-1）检测结果</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_13_DESC</LocID>
+				<Text>I型神经纤维瘤病（NF-1）是一种复杂的多系统人类疾病，由17号染色体上一个基因的突变引起，该基因负责生产一种名为神经纤维瘤蛋白的蛋白质，该蛋白质是许多人类细胞类型正常功能所必需的。大约10%的神经纤维瘤病I（NFI）患者会出现中枢神经系统（CNS）肿瘤。其中最常见的是下丘脑-视路胶质瘤，其次是脑干和小脑的毛细胞星形细胞瘤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_EGB</LocID>
+				<Text>嗜酸性颗粒体</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_EGB_DESC</LocID>
+				<Text>嗜酸性颗粒体的频繁出现通常是区分高级别肿瘤和低级别肿瘤（如多形性黄色星形细胞瘤（PXA）或毛细胞星形细胞瘤）的有用线索。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SL_ABSCESS</LocID>
+				<Text>脓肿</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FND</LocID>
+				<Text>局灶性神经功能缺损</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FND_DESC</LocID>
+				<Text>局灶性神经功能缺损是神经、脊髓或大脑功能的问题。它影响特定位置，如左侧面部、右臂，甚至像舌头这样的小区域。言语、视觉和听力问题也被认为是局灶性神经功能缺损。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMD</LocID>
+				<Text>钙化矿物质沉积</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMD_DESC</LocID>
+				<Text>脑石或脑结石被定义为大的实体颅内钙化。虽然许多人认为它们是良性的，但这些磷酸钙沉积物或“脑石”可能变大，并与从癫痫发作到帕金森样症状的神经系统症状相关。营养不良性钙化最常见于脑损伤区域，如创伤、手术、中风和放射治疗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSPHASIA</LocID>
+				<Text>言语障碍</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_14</LocID>
+				<Text>李-佛美尼综合征（LFS）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_14_DESC</LocID>
+				<Text>李-佛美尼综合征（LFS）是一种遗传性家族性易感症，易患多种特定的、通常是罕见的癌症。这是由于一个名为TP53的肿瘤抑制基因发生改变（突变）所致。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSPHASIA_DESC</LocID>
+				<Text>言语障碍是一种语言障碍，表现为由于脑部疾病或损伤导致的言语生成能力缺陷，有时也包括理解能力缺陷。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_MCRO_CYSTS</LocID>
+				<Text>微囊肿</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_MCRO_CYSTS_DESC</LocID>
+				<Text>微囊肿就是一个非常小的囊肿。囊肿是一种异常的、通常为非癌性的生长物，充满液体或半固体物质，有时会引起疼痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_KI67_LLI</LocID>
+				<Text>Ki-67抗原低标记指数</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_KI67_LLI_DESC</LocID>
+				<Text>Ki-67抗原，也称为Ki-67或MKI67，是一种在人类中由MKI67基因编码的蛋白质（由单克隆抗体Ki-67鉴定出的抗原）。Ki-67是确定给定细胞群体增殖分数的绝佳标志物。Ki-67阳性肿瘤细胞的比例（Ki-67标记指数）通常与癌症的临床病程相关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_KI67_BLI</LocID>
+				<Text>Ki-67抗原高标记指数</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_15</LocID>
+				<Text>杂合性丢失</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_15_DESC</LocID>
+				<Text>10号染色体臂10q上的杂合性丢失是原发性和继发性胶质母细胞瘤最常见的基因改变；它发生在60-90%的病例中。这种突变似乎是多形性胶质母细胞瘤特有的，在其他级别的肿瘤中很少发现。这种突变与不良预后相关。10q上的LOH加上1个或2个额外的基因突变似乎是常见的改变，很可能是胶质母细胞瘤发展的主要因素。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_16</LocID>
+				<Text>PDGFR过表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_16_DESC</LocID>
+				<Text>血小板衍生生长因子（PDGF）是调节细胞生长和分裂的众多生长因子之一。特别是，PDGF在血管形成、从现有血管组织生长出新血管、间充质细胞的有丝分裂（即增殖）中起着重要作用。在肿瘤学中，PDGF基因通过与PDGF受体（PDGFR）结合，作为胶质细胞的主要有丝分裂原。PDGFR的扩增或过表达是导致继发性胶质母细胞瘤通路的典型特征。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_017</LocID>
+				<Text>IDH1/IDH2突变阴性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSPAREUNIA</LocID>
+				<Text>性交困难（女性）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSPAREUNIA_DESC</LocID>
+				<Text>性交疼痛的原因可以从结构性问题到心理问题不等。许多女性在一生中的某个时候会经历性交疼痛。性交疼痛的医学术语是性交困难，定义为在性交之前、期间或之后发生的持续性或复发性生殖器疼痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CA125</LocID>
+				<Text>癌抗原125血液水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CA125_DESC</LocID>
+				<Text>CA-125，也称为粘蛋白16或MUC16，是一种在人类中由MUC16基因编码的蛋白质。MUC16是粘蛋白家族糖蛋白的成员。CA-125测试测量血液中CA-125蛋白（癌抗原125）的量。CA-125测试可用于在治疗期间和之后监测某些癌症。在某些情况下，CA-125测试可用于在患卵巢癌风险极高的人群中寻找早期迹象。卵巢癌患者的CA-125量较高。在绝经前妇女中，除癌症外的许多其他疾病或病症也可能导致CA-125水平升高。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_EARLY_SAT</LocID>
+				<Text>早饱感</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_EARLY_SAT_DESC</LocID>
+				<Text>早饱感是指无法吃完一顿正餐或只吃少量食物后就感到饱胀。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PMPB</LocID>
+				<Text>绝经后出血</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PMPB_DESC</LocID>
+				<Text>绝经后出血（PMB）定义为在未接受激素治疗（HT）的女性闭经1年后发生的出血。接受连续孕激素和雌激素激素治疗的女性可能会出现不规则阴道出血，尤其是在最初的6个月内。绝经后出血有多种原因。最常见的原因是：阴道内膜（萎缩性阴道炎）或子宫内膜（子宫内膜萎缩）的炎症和变薄——由较低的雌激素水平引起。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IRR_MNS</LocID>
+				<Text>月经不调</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IRR_MNS_DESC</LocID>
+				<Text>月经未来、延迟或不规律，或异常出血模式。月经不调的原因可能并非由潜在疾病引起。例如：月经不调的家族史、绝经或初潮、身体压力、心理压力、吸烟或药物副作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_APM</LocID>
+				<Text>检测到异常盆腔肿块</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_APM_DESC</LocID>
+				<Text>盆腔肿块是盆腔区域的增大或肿胀。大多数盆腔肿块是在常规妇科或体格检查中发现的。盆腔肿块可能源于妇科器官，如子宫颈、子宫、子宫附件，或源于其他盆腔器官，如肠、膀胱、输尿管和肾脏器官。有许多妇科问题可能导致盆腔肿块。此外，其他疾病也可能导致盆腔肿块。大多数是良性病症，如卵巢囊肿，而其他可能与妇科癌症有关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_OVAR_CYST</LocID>
+				<Text>卵巢囊肿</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_OVAR_CYST_DESC</LocID>
+				<Text>卵巢囊肿是卵巢内或其表面的充满液体的囊袋。大多数卵巢囊肿不引起症状。在某些情况下，可能出现月经不调、性交疼痛或不规则排便。大多数卵巢囊肿是无害的，通常无需治疗即可自行消失。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_004</LocID>
+				<Text>微乳头状侵袭模式</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_004_DESC</LocID>
+				<Text>微乳头状模式定义为显示无纤维血管核心的微乳头状结构。众所周知，在卵巢癌、乳腺癌和膀胱癌中，微乳头状模式的存在会导致较差的预后。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_005</LocID>
+				<Text>砂粒体</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_005_DESC</LocID>
+				<Text>砂粒体是圆形的微观钙化集合体。砂粒体是分化良好的浆液性癌中的常见发现，它们可能与宫颈阴道细胞学检测到的恶性腺细胞相关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_18</LocID>
+				<Text>检测到BRAF V599E突变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_18_DESC</LocID>
+				<Text>B-Raf原癌基因（BRAF）编码一种细胞质丝氨酸/苏氨酸激酶，在调节丝裂原活化蛋白激酶信号转导通路中起关键作用。在良性和恶性黑素细胞病变中发现了BRAF基因的突变，超过90%为V599E突变。这种突变导致激酶功能持续激活并在体外增加集落形成。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ASCITES</LocID>
+				<Text>腹水</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ASCITES_DESC</LocID>
+				<Text>由液体积聚引起的腹部肿胀，最常与肝病有关。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PLEURAL_EFFUSION</LocID>
+				<Text>胸腔积液</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PLEURAL_EFFUSION_DESC</LocID>
+				<Text>胸腔积液，有时也称为“肺积水”，是肺部外的胸膜层之间积聚了过多的液体。胸膜是覆盖在肺部和胸腔内壁的薄膜，起到润滑和辅助呼吸的作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD146_BRIGHT</LocID>
+				<Text>MCAM (CD146) 强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD146_BRIGHT_DESC</LocID>
+				<Text>黑色素瘤细胞黏附分子 (MCAM) 是一种细胞黏附分子，在多种肿瘤中异常表达，并与肿瘤转移密切相关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK7_BRIGHT</LocID>
+				<Text>角蛋白 7 (CK7) 强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK7_BRIGHT_DESC</LocID>
+				<Text>角蛋白，II型细胞骨架蛋白7，也称为细胞角蛋白-7 (CK-7)、角蛋白-7 (K7) 或肌凝集素
+					(SCL)，是一种由人类KRT7基因编码的蛋白质。角蛋白-7存在于单层腺上皮和移行上皮中。肺和乳腺的上皮细胞都含有角蛋白-7，但其他一些腺上皮，如结肠和前列腺的上皮则不含。因为角蛋白-7抗原在健康细胞和肿瘤细胞中都存在，所以CK7抗体可用于免疫组织化学，以区分卵巢癌、移行细胞癌与结肠癌、前列腺癌。在进行此类诊断时，通常与CK20联合使用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK7_NEG</LocID>
+				<Text>角蛋白 7 (CK7) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK7_NEG_DESC</LocID>
+				<Text>角蛋白，II型细胞骨架蛋白7，也称为细胞角蛋白-7 (CK-7)、角蛋白-7 (K7) 或肌凝集素
+					(SCL)，是一种由人类KRT7基因编码的蛋白质。角蛋白-7存在于单层腺上皮和移行上皮中。肺和乳腺的上皮细胞都含有角蛋白-7，但其他一些腺上皮，如结肠和前列腺的上皮则不含。因为角蛋白-7抗原在健康细胞和肿瘤细胞中都存在，所以CK7抗体可用于免疫组织化学，以区分卵巢癌、移行细胞癌与结肠癌、前列腺癌。在进行此类诊断时，通常与CK20联合使用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK20_BRIGHT</LocID>
+				<Text>角蛋白 20 (CK20) 强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK20_BRIGHT_DESC</LocID>
+				<Text>角蛋白20，通常缩写为CK20，是一种由人类KRT20基因编码的蛋白质。在免疫组织化学中，CK20抗体可用于识别一系列源自通常含有CK20蛋白的上皮的腺癌。例如，该蛋白常见于结直肠癌、移行细胞癌和默克尔细胞癌，但在肺癌、前列腺癌和非黏液性卵巢癌中则不存在。它常与CK7抗体联合使用，以区分不同类型的腺性肿瘤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK20_NEG</LocID>
+				<Text>角蛋白 20 (CK20) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CK20_NEG_DESC</LocID>
+				<Text>角蛋白20，通常缩写为CK20，是一种由人类KRT20基因编码的蛋白质。在免疫组织化学中，CK20抗体可用于识别一系列源自通常含有CK20蛋白的上皮的腺癌。例如，该蛋白常见于结直肠癌、移行细胞癌和默克尔细胞癌，但在肺癌、前列腺癌和非黏液性卵巢癌中则不存在。它常与CK7抗体联合使用，以区分不同类型的腺性肿瘤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_17</LocID>
+				<Text>IDH1/IDH2 阴性结果</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_17_DESC</LocID>
+				<Text>异柠檬酸脱氢酶 (IDH) 是三羧酸 (TCA) 循环中催化异柠檬酸转化为α-酮戊二酸 (α-KG)
+					的关键酶。IDH突变会产生一种新功能酶，导致R-2-HG异常累积并促进白血病的发生。IDH突变发生在20%的急性髓系白血病 (AML) 患者中，主要包括IDH1
+					R132、IDH2 R140和IDH2 R172突变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PSA_BL_DETECTED</LocID>
+				<Text>前列腺特异性抗原水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_PSA_BL_DETECTED_DESC</LocID>
+				<Text>前列腺特异性抗原 (PSA)
+					是一种仅由前列腺产生的糖蛋白，其功能是液化精液。少量PSA会渗入血液中，并可被检测。前列腺特异性抗原具有组织特异性，但非癌症特异性。良性前列腺增生
+					(BPH)、前列腺炎、尿路感染或前列腺梗死的男性患者也可能出现PSA水平升高。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSORGASMIA</LocID>
+				<Text>性高潮疼痛</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSORGASMIA_DESC</LocID>
+				<Text>性高潮疼痛被定义为性高潮时感到疼痛，但在性交过程中没有疼痛感。这种疼痛通常是骨盆、臀部或腹部的痉挛感。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_APM1</LocID>
+				<Text>前列腺异常发现</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_APM1_DESC</LocID>
+				<Text>检查发现患者的前列腺存在异常。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DIFF_URINE</LocID>
+				<Text>尿潴留</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DIFF_URINE_DESC</LocID>
+				<Text>排尿困难且无法完全排空膀胱。尿潴留的病因可能并非源于潜在疾病，例如故意憋尿或药物副作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NIGHT_URGE</LocID>
+				<Text>夜间尿频</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_NIGHT_URGE_DESC</LocID>
+				<Text>夜间频繁需要起床上厕所排尿称为夜尿症。它不同于遗尿症（尿床），遗尿症是患者在睡眠中不醒但膀胱自行排空。夜尿症是导致睡眠缺失的常见原因，尤其是在老年人中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_UAS_PCA3</LocID>
+				<Text>前列腺癌抗原3水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_UAS_PCA3_DESC</LocID>
+				<Text>前列腺癌抗原3 (PCA3) 在前列腺肿瘤中高度表达。检测结果显示尿液中PCA3水平偏高。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_UAS_PCA3</LocID>
+				<Text>前列腺癌抗原3水平高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_UAS_PCA3_DESC</LocID>
+				<Text>前列腺癌抗原3 (PCA3) 在前列腺肿瘤中高度表达。检测结果显示尿液中PCA3水平偏高。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ED</LocID>
+				<Text>勃起功能障碍</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ED_DESC</LocID>
+				<Text>勃起功能障碍 (ED)
+					是指无法获得或维持足以进行性交的勃起。它有时也被称为“阳痿”，但这个术语现在已较少使用。偶发性ED并不少见，许多男性在压力大时会经历。因临床局限性前列腺癌而行根治性前列腺切除术后，勃起功能障碍是该手术一个已知的潜在并发症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEMATOSPERMIA</LocID>
+				<Text>血精</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEMATOSPERMIA_DESC</LocID>
+				<Text>血精被定义为精液中带血。虽然通常被认为不重要，但射精带血会给经历它的男性带来极大的担忧。这种情况很常见，许多发作并未被注意到；因此，血精的患病率仍然未知。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERCALCEMIA</LocID>
+				<Text>高钙血症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>
+				<Text>高钙血症是一种血液中钙水平高于正常的病症。高钙血症最常见的原因是颈部四个微小腺体（甲状旁腺）功能亢进或癌症。血液中过多的钙会影响身体的多个系统。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>
+				<Text>重度高钙血症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>
+				<Text>重度高钙血症是一种需要紧急治疗的医疗急症。高钙血症是一种血液中钙水平高于正常的病症。在极少数情况下，重度高钙血症会干扰心脏功能，导致心悸和昏厥、心律失常的迹象以及其他心脏问题。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD13_NEG</LocID>
+				<Text>氨肽酶N (CD13) 阴性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD30_BRIGHT</LocID>
+				<Text>CD30抗原强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD30_BRIGHT_DESC</LocID>
+				<Text>CD30，也称为TNFRSF8，是肿瘤坏死因子受体家族的一种细胞膜蛋白和肿瘤标志物。该受体由活化的T细胞和B细胞表达，但静息的T细胞和B细胞不表达。TRAF2和TRAF5可与该受体相互作用，并介导导致NF-kappaB激活的信号转导。CD30与间变性大细胞淋巴瘤相关。它在胚胎性癌中表达，但在精原细胞瘤中不表达，因此是区分这些生殖细胞肿瘤的有用标志物。在典型的霍奇金淋巴瘤的里-施（Reed-Sternberg）细胞上也会表达CD30和CD15。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD45_BRIGHT</LocID>
+				<Text>PTPRC (CD45) 强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD45_BRIGHT_DESC</LocID>
+				<Text>蛋白酪氨酸磷酸酶，受体C型，也称为PTPRC，是一种由人类PTPRC基因编码的酶。PTPRC也称为CD45抗原（CD代表分化簇），最初被称为白细胞共同抗原(LCA)。CD45是一种泛白细胞蛋白，具有酪氨酸磷酸酶活性，参与调节造血过程中的信号转导。在鼠类和人类未转化的造血细胞上，CD45不与脂筏共定位，但在其向急性髓系白血病癌变过程中，CD45在脂筏内的定位会发生改变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_19</LocID>
+				<Text>IGH-BCL2 易位</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_19_DESC</LocID>
+				<Text>滤泡性淋巴瘤 (FL) 的标志是异常的t(14;18)(q32;q21)易位，涉及14号染色体上的IgH基因座和18号染色体上的BCL2基因。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_20</LocID>
+				<Text>BCL6 (3q27) 高频突变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_20_DESC</LocID>
+				<Text>B细胞淋巴瘤6蛋白是一种由人类BCL6基因编码的蛋白质。与BCL2、BCL3、BCL5、BCL7A、BCL9和BCL10一样，它在淋巴瘤中具有临床意义。该基因编码的蛋白质是一种进化上保守的锌指转录因子，并含有一个N端POZ/BTB结构域。该蛋白作为序列特异性转录抑制因子，并已被证明能调节B细胞的STAT依赖性白细胞介素4(IL-4) 反应。该蛋白可与多种共抑制复合物相互作用以抑制转录。发现该基因在弥漫性大B细胞淋巴瘤 (DLBCL) 中经常发生易位和高频突变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_BLC2_BRIGHT</LocID>
+				<Text>BCL2 强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_BLC2_BRIGHT_DESC</LocID>
+				<Text>Bcl-2（B细胞淋巴瘤2）由人类BCL2基因编码，是Bcl-2家族的创始成员，该家族的调节蛋白通过抑制（抗凋亡）或诱导（促凋亡）来调节细胞死亡（凋亡）。Bcl-2抗体可用于免疫组织化学，以识别含有该抗原的细胞。在健康组织中，这些抗体与套区的B细胞以及一些T细胞发生反应。然而，在滤泡性淋巴瘤以及许多其他形式的癌症中，阳性细胞数量会显著增加。在某些情况下，活检中Bcl-2染色的有无可能对患者的预后或复发可能性具有重要意义。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_DGP</LocID>
+				<Text>弥漫性生长模式</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_DGP_DESC</LocID>
+				<Text>模糊结节状和/或弥漫性细胞生长模式。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ABNORMAL_NODULE</LocID>
+				<Text>颜色异常的结节</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ABNORMAL_NODULE_DESC</LocID>
+				<Text>患者皮肤上有一个结节（肿块），颜色呈奇怪的红色/紫色。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_MCP_VIR</LocID>
+				<Text>默克尔细胞多瘤病毒发现</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_MCP_VIR_DESC</LocID>
+				<Text>默克尔细胞多瘤病毒 (MCV或MCPyV)
+					于2008年1月在宾夕法尼亚州匹兹堡首次被描述。这是第一个使用名为数字转录组消减的技术，通过无偏见的宏基因组新一代测序发现的人类病毒病原体。MCV是目前已知的七种人类致癌病毒之一。该病毒的检测仍处于研究阶段，通常不作为临床检测项目。病毒DNA的检测通过PCR或FISH进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_MCP_VIR_EL</LocID>
+				<Text>电镜下MCV发现</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_MCP_VIR_EL_DESC</LocID>
+				<Text>在50,000倍放大率下，MCV病毒样颗粒的透射电子显微镜观察显示出典型的多瘤病毒二十面体衣壳结构。这一证据指向默克尔细胞多瘤病毒或MCV，它是目前已知的七种人类致癌病毒之一。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_006</LocID>
+				<Text>细胞周期蛋白D1过表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_006_DESC</LocID>
+				<Text>细胞周期蛋白D1是一种调节细胞进入细胞周期的蛋白质。它驱动细胞从G0期向G1期过渡。在正常组织中，基底上皮细胞、内皮细胞和基质细胞通常是细胞周期蛋白D1阳性的，因为这些细胞正在经历细胞周期。由于涉及细胞周期蛋白D1基因和IgH的易位t(11;14)，绝大多数套细胞淋巴瘤都过表达细胞周期蛋白D1。这是低级别B细胞淋巴瘤分类中的一个有用特征。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_21</LocID>
+				<Text>IGH/CCND1 易位发现</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_21_DESC</LocID>
+				<Text>IGH基因重排被认为是与多种癌症相关的经典细胞遗传学基因畸变之一。套细胞淋巴瘤 (MCL) 的分子标志 t(11;14)(q13;q32)
+					(IGH/CCND1) 导致G1期细胞周期基因CCND1（编码细胞周期蛋白D1）的失调和过表达，这是由整个IGH基因座上的增强子元件介导的。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_SPC</LocID>
+				<Text>盐和胡椒样染色质</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_SPC_DESC</LocID>
+				<Text>在病理学中，盐和胡椒样染色质，也称为盐和胡椒样核和点状染色质，指的是在光学显微镜下显示颗粒状染色质的细胞核。盐和胡椒样染色质通常见于内分泌肿瘤，如甲状腺髓样癌、神经内分泌肿瘤和嗜铬细胞瘤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_LSAC</LocID>
+				<Text>大的间变性细胞</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_LSAC_DESC</LocID>
+				<Text>间变性细胞表现出显著的多形性（变异性）。其细胞核特征性地极度深染（染色深）且巨大。核浆比可能接近1:1，而非正常的1:4或1:6。可能会形成比邻近细胞大得多的巨细胞，并拥有一个巨大的细胞核或多个细胞核（合胞体）。间变性细胞核的大小和形状多变且奇异。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_007</LocID>
+				<Text>甲状腺转录因子-1 阳性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_007_DESC</LocID>
+				<Text>NK2同源盒1 (NKX2-1)，也称为甲状腺转录因子1(TTF-1)，是一种由人类NKX2-1基因编码的蛋白质。TTF-1阳性细胞见于肺部的II型肺泡细胞和克拉拉细胞。在甲状腺中，滤泡细胞和滤泡旁细胞也对TTF-1呈阳性。对于肺癌，腺癌通常呈阳性，而鳞状细胞癌和大细胞癌很少呈阳性。小细胞癌（任何原发部位）通常呈阳性。TTF1不仅仅是肺腺癌的临床标志物。鉴于实验观察到它在肺癌中发生突变，它在维持肺癌细胞生存中起着积极作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IS_001</LocID>
+				<Text>肿瘤蛋白P63强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IS_001_DESC</LocID>
+				<Text>肿瘤蛋白p63，通常简称为p63，也称为转化相关蛋白63，是一种由人类TP63（也称p63）基因编码的蛋白质。P63免疫染色可用于头颈部鳞状细胞癌的诊断，以及区分前列腺腺癌（最常见的前列腺癌类型）和良性前列腺组织。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERTROPHIC_PO</LocID>
+				<Text>肥大性肺性骨关节病</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERTROPHIC_PO_DESC</LocID>
+				<Text>肥大性肺性骨关节病 (HPO) 是一种罕见的副肿瘤综合征，常与肺癌相关。肥大性骨关节病 (HOA)是一种临床综合征，表现为手指和脚趾的杵状指、四肢肿大以及关节疼痛、肿胀。该病的特征是对称性骨膜炎，主要累及桡骨和腓骨，较小程度上累及股骨、肱骨、掌骨和跖骨。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD44_BRIGHT</LocID>
+				<Text>CD44抗原强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD44_BRIGHT_DESC</LocID>
+				<Text>CD44抗原是一种参与细胞间相互作用、细胞粘附和迁移的细胞表面糖蛋白。在人类中，CD44抗原由11号染色体上的CD44基因编码。CD44是一种细胞表面粘附受体，在许多癌症中高度表达，并通过将CD44募集到细胞表面来调节转移。它与适当的细胞外基质配体相互作用，促进转移过程中涉及的迁移和侵袭过程。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_22</LocID>
+				<Text>EGFR突变过表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_22_DESC</LocID>
+				<Text>表皮生长因子受体 (EGFR; ErbB-1; 人类中为HER1) 是一种跨膜蛋白，是表皮生长因子家族 (EGF家族)细胞外蛋白配体的受体。导致EGFR过表达（称为上调或扩增）的突变与多种癌症相关，包括肺腺癌（40%的病例）、肛门癌、胶质母细胞瘤（50%）以及头颈部上皮肿瘤（80-100%）。这些涉及EGFR的体细胞突变导致其持续激活，从而产生不受控制的细胞分裂。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD274_BRIGHT</LocID>
+				<Text>PD-L1 (CD274) 强阳性表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CM_CD274_BRIGHT_DESC</LocID>
+				<Text>程序性死亡配体1 (PD-L1)，也称为分化簇274 (CD274) 或B7同源物1
+					(B7-H1)，是一种由人类CD274基因编码的蛋白质。程序性死亡配体1 (PD-L1)是一种40kDa的I型跨膜蛋白，据推测在怀孕、组织同种异体移植、自身免疫性疾病以及肝炎等其他疾病状态等特定事件中，对抑制免疫系统的适应性分支起着主要作用。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IS_002</LocID>
+				<Text>肿瘤蛋白P53异常表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IS_002_DESC</LocID>
+				<Text>肿瘤蛋白p53，也称为p53、细胞肿瘤抗原p53
+					(UniProt命名)、肿瘤抑制因子p53，是由不同生物体中的同源基因（如人类的TP53和小鼠的Trp53）编码的任何蛋白质异构体。这种同源物（最初被认为是，并常被说成是单一蛋白质）在多细胞生物中至关重要，它能阻止癌症形成，因此作为肿瘤抑制因子发挥作用。TP53基因也可能被诱变剂（化学品、辐射或病毒）修饰，从而增加细胞不受控制分裂的可能性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_HISRC</LocID>
+				<Text>印戒细胞形态</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_HISRC_DESC</LocID>
+				<Text>在组织学中，印戒细胞是一种带有大液泡的细胞，其恶性类型主要见于癌。印戒细胞最常与各种形式的癌症相关。根据定义，结直肠癌中需要有50%或更多（高比例）的印戒细胞成分才能被指定为印戒细胞结直肠癌。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_23</LocID>
+				<Text>高度微卫星不稳定性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_23_DESC</LocID>
+				<Text>微卫星不稳定性 (MSI) 是由于DNA错配修复 (MMR)
+					功能受损而导致的遗传高突变性（易突变性）状态。MSI的存在是MMR功能不正常的表型证据。MMR纠正DNA复制过程中自发发生的错误，如单碱基错配或短的插入和缺失。参与MMR的蛋白质通过形成一个复合物来纠正聚合酶错误，该复合物与DNA的错配部分结合，切除错误，并在其位置插入正确的序列。MMR功能异常的细胞无法纠正DNA复制过程中发生的错误，因此会累积错误。微卫星不稳定性与多种癌症相关，但在与结肠癌的关联中最为普遍。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_008</LocID>
+				<Text>粘蛋白4高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_008_DESC</LocID>
+				<Text>粘蛋白4 (MUC4)
+					是一种由人类MUC4基因编码的粘蛋白。与其他粘蛋白一样，MUC-4是一种高分子量糖蛋白。覆盖气管、结肠和子宫颈等上皮表面的粘性分泌物——粘液的主要成分，是被称为粘蛋白的高度糖基化蛋白。这些糖蛋白在保护上皮细胞中起着重要作用，并与上皮更新和分化有关。已发现MUC-4在癌症进展中扮演多种角色，特别是由于其信号传导和抗粘附特性，这些特性有助于肿瘤发展和转移。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_24</LocID>
+				<Text>CDH1 (CD324) 突变发现</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CDF_T_24_DESC</LocID>
+				<Text>钙粘蛋白-1，也称为CAM 120/80或上皮钙粘蛋白 (E-cadherin)
+					或紫外线调节蛋白，是一种由人类CDH1基因编码的蛋白质。CDH1也被命名为CD324（分化簇324）。它是一个肿瘤抑制基因。E-cadherin功能或表达的丧失与癌症进展和转移有关。E-cadherin下调会降低组织内细胞粘附的强度，导致细胞运动性增加。这反过来可能使癌细胞穿过基底膜并侵入周围组织。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_COLONOFIND</LocID>
+				<Text>结肠镜检查发现</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_COLONOFIND_DESC</LocID>
+				<Text>检查报告了结肠异常发现。进一步的检查或活检结果将有助于确定这些发现是否值得关注。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_010</LocID>
+				<Text>粘蛋白2高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_010_DESC</LocID>
+				<Text>粘蛋白是一类由大多数动物的上皮组织产生的高分子量、高度糖基化的蛋白质（糖缀合物）。粘蛋白2，寡聚粘液凝胶形成蛋白，也称为MUC2，是一种由人类MUC2基因编码的蛋白质。粘蛋白2在肠道中尤为突出，由上皮衬里的杯状细胞分泌到大肠腔内。在肿瘤学中，MUC-2的过表达可能通过形成粘液层来抵御抗肿瘤免疫效应物，从而促进肿瘤发展。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_011</LocID>
+				<Text>粘蛋白5AC高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_011_DESC</LocID>
+				<Text>高度糖基化的分泌型粘蛋白MUC5AC，凭借其富含半胱氨酸的重复序列，可以形成分子间和分子内的二硫键，从而产生复杂的聚合物，这些聚合物进而构建了上皮细胞表面聚合物粘液凝胶的框架。MUC5AC是一种具有多种功能意义的分子，包括对上皮细胞的屏障功能、宿主-病原体相互作用、将免疫细胞吸引到癌前或恶性病变部位，以及在特定情境下促进肿瘤进展。MUC5AC的差异表达、糖基化和定位与多种良性和恶性病理有关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_012</LocID>
+				<Text>粘蛋白1高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_012_DESC</LocID>
+				<Text>粘蛋白1，细胞表面相关蛋白 (MUC1)，也称为多态性上皮粘蛋白 (PEM) 或上皮膜抗原(EMA)，是一种由人类MUC1基因编码的粘蛋白。MUC1是一种糖蛋白，其胞外域具有广泛的O-连接糖基化。粘蛋白通过病原体与其胞外域的寡糖结合来保护身体免受感染，从而阻止病原体到达细胞表面。MUC1的过表达通常与结肠癌、乳腺癌、卵巢癌、肺癌和胰腺癌相关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_009</LocID>
+				<Text>粘蛋白6高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_009_DESC</LocID>
+				<Text>粘蛋白6，寡聚粘液/凝胶形成蛋白，也称为MUC6，是一个人类基因。在肝外胆管病变（胆道IPMNs）中，MUC2的表达与柱状细胞变化和肠道分化程度平行，而MUC6在具有立方形细胞模式的肿瘤以及具有幽门或胆道分化的病例中特征性地呈阳性。幽门腺腺瘤（胆囊的）对MUC6以及其他幽门腺标志物（如M-GGMC-1）持续呈阳性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_PMCC</LocID>
+				<Text>纯粘液细胞</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_PMCC_DESC</LocID>
+				<Text>粘液癌可以与其他类型的癌细胞一起形成，但当它不与其他癌细胞共存时，该癌症被认为是“纯”的。纯粘液癌由90-100%的粘液细胞组成。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_MMCC</LocID>
+				<Text>混合粘液细胞</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_BL_MMCC_DESC</LocID>
+				<Text>粘液癌可以与其他类型的癌细胞一起形成，当这种情况发生时，该癌症被称为混合性粘液癌。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_013</LocID>
+				<Text>Napsin A高表达</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_SM_P_013_DESC</LocID>
+				<Text>Napsin
+					A是一种功能性天冬氨酸蛋白酶，在健康肺实质的细胞质中表达。它与多肽TAO2同源，并参与生物活性表面活性蛋白B的成熟。它还由一个38-kDa的蛋白质组成，这是一种在II型肺泡细胞、肺泡巨噬细胞、肾小管以及胰腺外分泌腺和导管中表达的单链蛋白。Napsin
+					A可能是原发性肺癌的替代标志物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_WHITE_STOOLS</LocID>
+				<Text>白色粪便</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_WHITE_STOOLS_DESC</LocID>
+				<Text>白色或陶土样粪便是由胆汁缺乏引起的，这可能预示着严重的潜在问题。胆汁是肝脏产生并储存在胆囊中的消化液。粪便正常的褐色来自胆汁，胆汁在消化过程中被排泄到小肠。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LIV_PRECONDITION</LocID>
+				<Text>既往肝脏疾病史</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LIV_PRECONDITION_DESC</LocID>
+				<Text>患者的病历或患者本人已告知医生他们有或曾有过肝脏疾病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEPATIC_ENCE</LocID>
+				<Text>肝性脑病</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEPATIC_ENCE_DESC</LocID>
+				<Text>肝性脑病是因严重肝病导致的大脑功能下降。在这种情况下，肝脏无法充分清除毒素。这导致毒素在血液中积聚，可能导致脑损伤。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERAMMONEMIA</LocID>
+				<Text>高氨血症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HYPERAMMONEMIA_DESC</LocID>
+				<Text>高氨血症是一种以血液中氨含量过高为特征的代谢紊乱。这是一种危险的状况，可能导致脑损伤和死亡。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IS_003</LocID>
+				<Text>甲胎蛋白水平升高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_IS_003_DESC</LocID>
+				<Text>甲胎蛋白是一种由人类AFP基因编码的蛋白质。AFP基因位于4号染色体的q臂上。AFP是胎儿发育过程中由卵黄囊和胎肝产生的主要血浆蛋白。AFP主要见于肝癌和非精原细胞性生殖细胞肿瘤，这些肿瘤很罕见。它们发现于大脑的松果体中。一些肝硬化或慢性活动性肝炎患者的血液中AFP水平也较高。与任何升高的肿瘤标志物一样，AFP升高本身不具有诊断性，仅为提示性。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CAHP1</LocID>
+				<Text>肝细胞石蜡1抗原检测阳性</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CMA_CAHP1_DESC</LocID>
+				<Text>肝细胞石蜡1是一种单克隆抗体，专门为与常规福尔马林固定、石蜡包埋的外科病理组织中的肝细胞反应而开发。它导致肝细胞出现独特的颗粒状胞质染色，但不与胆管和非肝实质细胞反应。该抗体可标记大多数肝细胞癌，包括纤维板层样变异型。它不与多种其他成人恶性肿瘤反应，除了在少数胃肠道恶性肿瘤（包括一部分胃癌）中出现局灶性染色。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_AB_LFT</LocID>
+				<Text>肝功能检查结果异常</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_AB_LFT_DESC</LocID>
+				<Text>患者的肝功能检查结果异常，需要进一步检查以帮助确定可能的原因。异常的肝功能检查结果并不总是表示肝脏疾病，而可能是一系列情况导致的结果。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>
+				<Text>急性肝功能衰竭</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>
+				<Text>急性肝功能衰竭 (ALF) 是一种以肝功能迅速下降为特征的罕见综合征。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CELL_REJECTION</LocID>
+				<Text>细胞性排斥反应</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_CELL_REJECTION_DESC</LocID>
+				<Text>当身体的血细胞将移植器官识别为异物并开始集结细胞大军攻击它时，就会发生细胞性排斥反应。发生排斥反应并不意味着患者会失去移植的器官，但尽早诊断和治疗排斥反应至关重要。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_INTERNAL_BLEEDING</LocID>
+				<Text>内出血</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_INTERNAL_BLEEDING_DESC</LocID>
+				<Text>身体内部出血，尤其是在胸腔、腹腔或肌肉内，可能由重大创伤、手术或某些未知并发症引起。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEMO_INSTA</LocID>
+				<Text>血流动力学不稳定</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_HEMO_INSTA_DESC</LocID>
+				<Text>当血压异常或不稳定，导致血流不足时，就会出现血流动力学不稳定。该症状可能危及生命，并可能需要ICU干预。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LES_RUPTURE</LocID>
+				<Text>病灶破裂</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>
+				<Text>患者体内的病灶或肿瘤已破裂。这与危及生命的内出血有关。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FACIAL_NERVE_PARA</LocID>
+				<Text>面神经麻痹</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_FACIAL_NERVE_PARA_DESC</LocID>
+				<Text>面神经麻痹的特征是面部无力，通常仅限于一侧面部，其他症状可能包括味觉丧失、听觉过敏以及唾液和泪液分泌减少。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSPLASIA</LocID>
+				<Text>异型增生</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_DYSPLASIA_DESC</LocID>
+				<Text>异型增生（细胞学非典型性）指组织内存在异常类型的细胞，这可能预示着癌症发展的癌前阶段。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_EPI_HIGH1</LocID>
+				<Text>表皮样细胞计数升高</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SLP_EPI_HIGH1_DESC</LocID>
+				<Text>检测发现表皮样细胞水平异常增高。这可能预示着更差的预后或更晚期的癌症。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

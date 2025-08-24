@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>it</LanguageCode>
+		<LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Jerry76</Name>
+            <Name>neoxes</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>Ambulatorio di Ginecologia</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>Ambulatorio diagnostico comune di Ginecologia. \n\nRequisiti min. staff: \n1x Dottore</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>Unità Diagnostica</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>L'unità diagnostica presso il reparto di Ginecologia fornisce procedure di esame e trattamenti per i pazienti ricoverati. \n\nRequisiti min. staff: \n1x Dottore \n(Personale della Sala Medici)</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

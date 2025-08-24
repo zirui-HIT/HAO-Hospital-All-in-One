@@ -1,0 +1,1516 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBSymptom ID="SYM_SAC_EXTRA_UTERIN">
+		<DescriptionLocID>SYM_SAC_EXTRA_UTERIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>22</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SALPINGOTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1301</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MPKO">
+		<DescriptionLocID>SYM_MPKO_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1317</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG3</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG3_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_PIC_H">
+		<DescriptionLocID>SYM_PIC_H_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1317</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ATROPHIE_VULVE_VAGIN_COL">
+		<DescriptionLocID>SYM_ATROPHIE_VULVE_VAGIN_COL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_THM</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1317</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_KYSTE_ENDOM">
+		<DescriptionLocID>SYM_KYSTE_ENDOM_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG3</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG3_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MYOME_I">
+		<DescriptionLocID>SYM_FIBROME_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG6</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG6_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MYOME_SM">
+		<DescriptionLocID>SYM_FIBROME_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_MYOLYSE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG6</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG6_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MYOME_SS">
+		<DescriptionLocID>SYM_FIBROME_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG6</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG6_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_KYSTE_OVAIRE_MULTILOCULAIRE">
+		<DescriptionLocID>SYM_KYSTE_OVAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG3</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG3_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_KYSTE_OVAIRE_UNILOCULAIRE">
+		<DescriptionLocID>SYM_KYSTE_OVAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG3</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG3_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TORSION">
+		<DescriptionLocID>SYM_TORSION_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>22</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DETORSION</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1615</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ABCES">
+		<DescriptionLocID>SYM_ABCES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>12</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DRAINAGE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1595</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_SORTIE_ORGANE">
+		<DescriptionLocID>SYM_SORTIE_ORGANE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+		<WalkSpeedModifier>0.5</WalkSpeedModifier>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_PESSAIRE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TREPONEMA_PALLIDUM">
+		<DescriptionLocID>SYM_TREPONEMA_PALLIDUM_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_SEROLOGY_TESTING_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM6</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM6_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_CANDIDA_ALBICANS">
+		<DescriptionLocID>SYM_CANDIDA_ALBICANS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIFUNGAL_OINTMENT</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1361</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ATTEINTE_TUBAIRE">
+		<DescriptionLocID>SYM_ATTEINTE_TUBAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_BHCG">
+		<DescriptionLocID>SYM_BHCG_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1641</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_LIEC">
+		<DescriptionLocID>SYM_LIEC_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_EXERESE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_S11</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S11_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MEC_INFLAMMATOIRE">
+		<DescriptionLocID>SYM_MEC_INFLAMMATOIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_S11</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S11_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TUMEUR_MUQUEUSE">
+		<DescriptionLocID>SYM_TUMEUR_MUQUEUSE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_EXERESE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_CARCINOME_EPIDERMOIDE">
+		<DescriptionLocID>SYM_CARCINOME_EPIDERMOIDE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYSTERECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ADENOCARCINOME_ENDOMETRIOIDE">
+		<DescriptionLocID>SYM_ADENOCARCINOME_ENDOMETRIOIDE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYSTERECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_LEL_RU">
+		<DescriptionLocID>SYM_LEL_RU_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>22</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1615</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM3</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM3_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_CYSTADENOCARCINOME">
+		<DescriptionLocID>SYM_CYSTADENOCARCINOME_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYSTERECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ADENOFIBROME">
+		<DescriptionLocID>SYM_ADENOFIBROME_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_SURVEILLANCE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPERPLASIE_EP">
+		<DescriptionLocID>SYM_HYPERPLASIE_EP_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1641</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM2</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_CARCINOME_CANALAIRE">
+		<DescriptionLocID>SYM_CARCINOME_CANALAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_TUMORECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HTA_G">
+		<DescriptionLocID>SYM_HTA_G_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_SURVEILLANCE</TreatmentRef>
+		</Treatments>
+
+		<RiskOfCollapseStartHours>18</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1511</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_INSULINO_RPR">
+		<DescriptionLocID>SYM_INSULINO_RPR_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_HGPO_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1803</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_AMNIOTITE">
+		<DescriptionLocID>SYM_AMNIOTITE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_S11</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S11_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_INFECTION_URINAIRE">
+		<DescriptionLocID>SYM_INFECTION_URINAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1111</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_INFECTION_PARENCHYME_RENAL">
+		<DescriptionLocID>SYM_INFECTION_PARENCHYME_RENAL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1105</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_CLUE_CELLS">
+		<DescriptionLocID>SYM_CLUE_CELLS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_S11</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S11_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_REVELATION_BBB">
+		<DescriptionLocID>SYM_REVELATION_BBB_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1473</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ANXIETE_BB">
+		<DescriptionLocID>SYM_ANXIETE_BB_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIPSYCHOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1473</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_LOCHIE">
+		<DescriptionLocID>SYM_LOCHIE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_S4</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S4_SMALL</CustomIconSmallAssetRef>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1803</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ENGORGEMENT_M">
+		<DescriptionLocID>SYM_ENGORGEMENT_M_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>2142</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG17</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG17_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_CREVASSE_M">
+		<DescriptionLocID>SYM_CREVASSE_M_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>2142</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG17</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG17_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_LYMPHANGITE_M">
+		<DescriptionLocID>SYM_LYMPHANGITE_M_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTI_INFLAMMATORY_CREAM</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1141</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_S11</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_S11_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_SIGNE_BUDIN">
+		<DescriptionLocID>SYM_SIGNE_BUDIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1595</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ABCES_M">
+		<DescriptionLocID>SYM_ABCES_M_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>12</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>18</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DRAINAGE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1595</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TVP_PP">
+		<DescriptionLocID>SYM_TVP_PP_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_CLOT_PREVENTING_DRUGS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1595</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TVPELV">
+		<DescriptionLocID>SYM_TVPELV_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_CLOT_PREVENTING_DRUGS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1595</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPOG_HYPOGT">
+		<DescriptionLocID>SYM_HYPOG_HYPOGT_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1475</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TEMPETE_DE_NEIGE">
+		<DescriptionLocID>SYM_TEMPETE_DE_NEIGE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ASPIRATION_ENDO_UTERINE</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>437</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM8</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM8_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_IMAGE_COCARDE">
+		<DescriptionLocID>SYM_IMAGE_COCARDE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>437</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM9</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM9_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_IMAGE_DIVERTICULAIRE">
+		<DescriptionLocID>SYM_IMAGE_DIVERTICULAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_HORMONE_THERAPY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>437</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM10</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM10_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_NECROSE_ISCHEMIQUE_HYPOPHYSE">
+		<DescriptionLocID>SYM_NECROSE_ISCHEMIQUE_HYPOPHYSE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROID_INJECTIONS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>437</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG18</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG18_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ELARGISSEMENT_HYPOPHYSE">
+		<DescriptionLocID>SYM_ELARGISSEMENT_HYPOPHYSE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>437</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG18</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG18_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_TSST1">
+		<DescriptionLocID>SYM_TSST1_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>20</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1613</IconIndex>
+
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_HYPERMOBILITE_URETRALE">
+		<DescriptionLocID>SYM_OBGYN_HYPERMOBILITE_URETRALE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_REEDUCATION_PELV</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1613</IconIndex>
+
+	</GameDBSymptom>
+	<GameDBSymptom ID="SYM_OBGYN_CONTRACTION_VESICALE">
+		<DescriptionLocID>SYM_OBGYN_CONTRACTION_VESICALE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTICHOLINERGICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1613</IconIndex>
+
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_ATTEINTE_TROMPES">
+		<DescriptionLocID>SYM_OBGYN_ATTEINTE_TROMPES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG18</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG18_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_ATTEINTE_ENDOMETRE">
+		<DescriptionLocID>SYM_OBGYN_ATTEINTE_ENDOMETRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_E1</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_E1_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_LIG_TROMPES">
+		<DescriptionLocID>SYM_OBGYN_LIG_TROMPES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_LIG_TROMPES</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_SM12</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_SM12_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_ABCES_BARTHOLIN">
+		<DescriptionLocID>SYM_OBGYN_ABCES_BARTHOLIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_MISE_PLAT_ABCES</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG25</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG25_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_FISTULE_BARTHOLIN">
+		<DescriptionLocID>SYM_OBGYN_FISTULE_BARTHOLIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_MISE_PLAT_ABCES</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG25</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG25_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_KYSTE_BARTHOLIN">
+		<DescriptionLocID>SYM_OBGYN_KYSTE_BARTHOLIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG25</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG25_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_KYSTE_PILONIDAL">
+		<DescriptionLocID>SYM_OBGYN_KYSTE_PILONIDAL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG25</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG25_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_KYSTE_EPIDERMIQUE_VULVE">
+		<DescriptionLocID>SYM_OBGYN_KYSTE_EPIDERMIQUE_VULVE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG25</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG25_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_KYSTE_VULVE_INCLUSION">
+		<DescriptionLocID>SYM_OBGYN_KYSTE_VULVE_INCLUSION_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG25</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG25_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_HEMATOCOLPOS">
+		<DescriptionLocID>SYM_OBGYN_HEMATOCOLPOS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DRAINAGE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1105</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG22</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG22_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_OBGYN_CHANCRE_SYPHILIS">
+		<DescriptionLocID>SYM_CHANCRE_SYPHILIS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>25</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1353</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HEMORRAGIE_GEN">
+		<DescriptionLocID>TRM_HGEN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OBGYN_ENDOSCOPIC_CAUTERIZATION</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1617</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_PLACENTA_BAS">
+		<DescriptionLocID>SYM_PLACENTA_BAS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+
+		<RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_TOCOLYTIQUE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+		<CustomIconBigAssetRef>ASSET_GYNECO_ICON_DG8</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_GYNECO_ICON_DG8_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HEMATOME_RETROPLACENTAIRE">
+		<DescriptionLocID>SYM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CESARIENNE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MAP">
+		<DescriptionLocID>SYM_MAP_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+		<WalkSpeedModifier>0.5</WalkSpeedModifier>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CESARIENNE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>388</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_PRE_E">
+		<DescriptionLocID>SYM_PRE_E_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CESARIENNE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>388</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HEMATOME_DECIDUAL">
+		<DescriptionLocID>SYM_HEMATOME_DECIDUAL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+		<WalkSpeedModifier>0.5</WalkSpeedModifier>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1299</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_ATONIE_UTERINE">
+		<DescriptionLocID>SYM_ATONIE_UTERINE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>20</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_UNSTOPPABLE_BLEEDING</CollapseSymptomRef>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+		<WalkSpeedModifier>0.5</WalkSpeedModifier>
+
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_OCYTOCINE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>1617</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_INFANTICIDE">
+		<DescriptionLocID>SYM_INFANTICIDE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIPSYCHOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>388</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HELLP_SD">
+		<DescriptionLocID>SYM_HELLP_SD_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+		<WalkSpeedModifier>0.5</WalkSpeedModifier>
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CESARIENNE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>388</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_RUPTURE_UTERINE">
+		<DescriptionLocID>SYM_RUPTURE_UTERINE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+
+		<PatientMobility>IMOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+			<ExaminationRef>EXM_FAST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CESARIENNE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<IconIndex>388</IconIndex>
+	</GameDBSymptom>
+
+</Database>

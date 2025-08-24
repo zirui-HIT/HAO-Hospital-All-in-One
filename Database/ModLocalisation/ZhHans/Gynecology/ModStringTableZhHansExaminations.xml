@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_GYNECOLOGIE_EXAMINATIONS">
+
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>1328411791</Name>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>EXM_GYNECOLOGIC_EXAM</LocID>
+				<Text>妇科检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_GYNECOLOGIC_EXAM_DESCRIPTION</LocID>
+				<Text>旨在评估妇女生殖系统健康状况的程序。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SEIN</LocID>
+				<Text>乳房检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SEIN_DESCRIPTION</LocID>
+				<Text>乳房的视觉检查和触诊。</Text>
+			</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>EXM_ECHO_PELV</LocID>
+				<Text>盆腔超声</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_ECHO_PELV_DESCRIPTION</LocID>
+				<Text>盆腔区超声检查。</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_MAMMOGRAPHIE</LocID>
+				<Text>乳房x光检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_MAMMOGRAPHIE_DESCRIPTION</LocID>
+				<Text>乳房的x光检查。</Text>
+			</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>EXM_VDRL-TPHA_SAMPLING</LocID>
+				<Text>VDRL-TPHA抽样</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_VDRL-TPHA_SAMPLING_DESCRIPTION</LocID>
+				<Text>血清学抽样诊断梅毒。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_VDRL-TPHA_TESTING</LocID>
+				<Text>VDRL-TPHA测试</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_VDRL-TPHA_TESTING_DESCRIPTION</LocID>
+				<Text>性病研究实验室(VDRL)测试的目的是评估你是否患有梅毒，性传播感染(STI)。</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_FCU_SAMPLING</LocID>
+				<Text>子宫颈抹片检查抽样</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_FCU_TESTING</LocID>
+				<Text>子宫颈抹片检查测试</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_FCU_DESCRIPTION</LocID>
+				<Text>一种早期发现癌症的方法，尤指子宫颈，它涉及到用一种鉴别病变组织的特殊技术对脱落细胞进行染色。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_HGPO_SAMPLING</LocID>
+				<Text>OGTT抽样</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_HGPO_TESTING</LocID>
+				<Text>OGTT试验</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_HGPO_DESCRIPTION</LocID>
+				<Text>葡萄糖耐量试验，也被称为口服葡萄糖耐量试验(OGTT)，测量你的身体对糖(葡萄糖)的反应。</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>                               
+				<Text>卵巢活检样本</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>                               
+				<Text>目前没有有效的卵巢癌筛查试验。 当怀疑患者患有卵巢癌时，医生会进行各种检查以发现任何需要活检的异常情况。 确认卵巢癌诊断的唯一方法是采集组织样本（活检）并在显微镜下观察细胞。 \n\n需要实验室：组织学</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>                               
+				<Text>卵巢活检</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>                               
+				<Text>组织学技术人员目前正在处理患者提供的样本。 他们会很快提供结果。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>                               
+				<Text>阴道活检样本</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>                               
+				<Text>某些体征和症状可能强烈暗示阴道癌，但其中许多可能是由其他问题引起的。 确定它是癌症的唯一方法是进行活检。 在这个过程中，从可疑区域取出一小块组织。 然后，组织学实验室的技术员将在显微镜下查看组织样本，以确认是否存在癌症或癌前病变，如果存在，则分析是什么类型。 \n\n需要实验室：组织学</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>                               
+				<Text>阴道活检</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>                               
+				<Text>组织学技术人员目前正在处理患者提供的样本。 他们会很快提供结果。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>                               
+				<Text>唾液腺活检样本</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>                               
+				<Text>涎腺活组织检查包括从一个或多个唾液腺中取出细胞或小块组织，以便在实验室中进行检查。\n\n需要实验室:组织学</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>    
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>                               
+				<Text>涎腺活组织检查</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>     
+				<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>                               
+				<Text>组织学技术人员目前正在处理患者提供的样本。 他们会很快提供结果。</Text>  
+			</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>       
+			<Text>STD-k szűrése</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>    
+			<Text>STD-k szűrésének elemzése</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>  
+			<Text>Nemi tampon</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>  
+			<Text>Nemi tampon mintájának elemzése</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID> 
+			<Text>Egy kis mintavételt használnak, hogy óvatosan vegyenek alacsony számú sejtet az adott nemi szervről. A mintát elküldik egy laboratóriumba tesztelésre.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>   
+			<Text>Méhnyak vagy más nemi szerv sejtjeinek elemzése</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>   
+			<Text>Egy tamponnal mintát veszünk az adott nemi szervből.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>  
+			<Text>A minta (baktérium vagy vírus) tenyészetet elemezzük a fertőzés jeleinek és esetleges előrehaladásnak ellenőrzése céljából.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Sperma vizsgálat</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>A sperma vizsgálat, a spermának a betegtől történő kinyerésére irányul, általában maszturbáció útján, a mintát egy tiszta csészébe irányítva.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Spermavizsgálat elemzése</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>A spermamintát elemzik.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Ágyék vizsgálata</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>A páciens ágyék területének vizsgálata.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

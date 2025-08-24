@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_UR_BUILDING_MODE">
+<LanguageCode>en</LanguageCode>
+<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>Knabbel</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>Urology</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>Wall decal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1</LocID>       			
+		<Text>Urology health month poster</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1_DESC</LocID>       
+		<Text>A poster that advertises the importence of your urological health</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2</LocID>       			
+		<Text>Urology diseases poster</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2_DESC</LocID>       
+		<Text>A poster with all kinds of diseases of urinary-tract system</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3</LocID>       			
+		<Text>Urology urine color poster</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3_DESC</LocID>       
+		<Text>A poster that explains different colors of urine</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>Urology Office</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>A doctor's office specialising in urology. Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>Nephrology Office</Text>   
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>A doctor's office specialising in nephrology. Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>Dialyse ward</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>Dialyse ward for patients in urology that require dialyses. \n\nMin. Staff requirements: \n1x Doctor \n1x Nurse \n(Personnel based in On-call room and Nurses station)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

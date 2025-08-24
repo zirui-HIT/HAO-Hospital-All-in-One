@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_GYNECOLOGIE_SYMPTOMS">
+
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+
+		<Contributors>
+			<Name/>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>SYM_RH-</LocID>
+				<Text>Anti-erythrocyte alloimmunization</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_RH-_DESCRIPTION</LocID>
+				<Text>Alloimmunization is defined as an immune response to foreign antigens after
+					exposure to genetically different cells or tissues.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_METRORRAGIE</LocID>
+				<Text>Metrorrhagia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_METRORRAGIE_DESCRIPTION</LocID>
+				<Text>Blood loss occurring outside menstrual periods.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_RETARD_REGLE</LocID>
+				<Text>Late period</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_RETARD_REGLE_DESCRIPTION</LocID>
+				<Text>Periods is delayed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_GROSSESSE</LocID>
+				<Text>Pregnancy</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_GROSSESSE_DESCRIPTION</LocID>
+				<Text>The state of being pregnant.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_HEMOPERITOINE</LocID>
+				<Text>Hemoperitoneum</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_HEMOPERITOINE_DESCRIPTION</LocID>
+				<Text>Hemoperitoneum (sometimes also hematoperitoneum) is the presence of blood in
+					the peritoneal cavity.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPERANDROGEN</LocID>
+				<Text>Biological hyperandrogenism</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPERANDROGEN_DESCRIPTION</LocID>
+				<Text>High levels of androgens in females.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SEBORRHEE</LocID>
+				<Text>Seborrhea</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SEBORRHEE_DESCRIPTION</LocID>
+				<Text>Abnormally increased secretion and discharge of sebum.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HIRSUTISME</LocID>
+				<Text>Hirsutism</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HIRSUTISME_DESCRIPTION</LocID>
+				<Text>Excessive body hair in women on parts of the body where hair is normally
+					absent or minimal.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ACNE</LocID>
+				<Text>Acne</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ACNE_DESCRIPTION</LocID>
+				<Text>A disorder of the skin caused by inflammation of the skin glands and hair
+					follicles. A form found chiefly in adolescents and marked by pimples especially
+					on the face.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ACANTHOSIS_NIGRICANS</LocID>
+				<Text>Acanthosis nigricans</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ACANTHOSIS_NIGRICANS_DESCRIPTION</LocID>
+				<Text>A skin condition that is marked by dark discoloration and velvety thickening
+					of the skin especially of body folds or creases (as of the armpit, groin, or
+					neck) and that is often associated with obesity, insulin resistance, hormonal
+					irregularity, or medication use but may rarely occur as a sign of cancer (as of
+					the stomach or liver).</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_AMENORRHEE</LocID>
+				<Text>Amenorrhea </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_AMENORRHEE_DESCRIPTION</LocID>
+				<Text>Abnormal absence or suppression of menses.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MASTODYNIE</LocID>
+				<Text>Mastodynia </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MASTODYNIE_DESCRIPTION</LocID>
+				<Text>Pain in the breast.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_BOUFFEE_VASOMOTRICE</LocID>
+				<Text>Flushing</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_BOUFFEE_VASOMOTRICE_DESCRIPTION</LocID>
+				<Text>Flushing is to become markedly red in the face and often other areas of the
+					skin, from various physiological conditions.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SECHERESSE_VAGIN</LocID>
+				<Text>Vaginal dryness</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SECHERESSE_VAGIN_DESCRIPTION</LocID>
+				<Text>Vaginal dryness is the result of decreased levels of estrogen.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DYSPAREUNIE</LocID>
+				<Text>Dyspareunia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DYSPAREUNIE_DESCRIPTION</LocID>
+				<Text>Difficult or painful sexual intercourse.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DYSMENORRHEE</LocID>
+				<Text>Dysmenorrhea</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DYSMENORRHEE_DESCRIPTION</LocID>
+				<Text>Painful menstruation.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MENORRAGIE</LocID>
+				<Text>Menorrhagia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MENORRAGIE_DESCRIPTION</LocID>
+				<Text>Abnormally profuse menstrual flow.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_POLLAKIURIE</LocID>
+				<Text>pollakiuria</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_POLLAKIURIE_DESCRIPTION</LocID>
+				<Text>Abnormally frequent urination.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE</LocID>
+				<Text>Cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE_DESCRIPTION</LocID>
+				<Text>A closed sac having a distinct membrane and developing abnormally in a cavity
+					or structure of the body.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LEUCORRHEE</LocID>
+				<Text>Leukorrhea</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LEUCORRHEE_DESCRIPTION</LocID>
+				<Text>A whitish viscid discharge from the vagina resulting from inflammation or
+					congestion of the mucous membrane.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ULCERATION_GENITAL</LocID>
+				<Text>Genital ulcer</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ULCERATION_GENITAL_DESCRIPTION</LocID>
+				<Text>Genital ulcers, defined as single or multiple vesicular, ulcerative or erosive
+					lesions of the genital tract, with or without inguinal lymphadenopathy, should
+					lead to consideration of sexually transmitted infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CHANCRE_SYPHILIS</LocID>
+				<Text>Syphilitic chancre</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CHANCRE_SYPHILIS_DESCRIPTION</LocID>
+				<Text>The primary sore of syphilis, a painless indurated, eroded papule, occurring
+					at the site of entry of the infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PREMATURE</LocID>
+				<Text>Preterm</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PREMATURE_DESCRIPTION</LocID>
+				<Text>Of, relating to, being, or brought forth by premature birth.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_HPV_HR</LocID>
+				<Text>High-risk HPV</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HPV_HR_DESCRIPTION</LocID>
+				<Text>High-risk HPV can cause normal cells to become abnormal. These abnormal cells
+					can lead to cancer over time. High-risk HPV most often affects cells in the
+					cervix, but it can also cause cancer in the vagina, vulva, anus, penis, mouth,
+					and throat.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DOULEUR_PELV</LocID>
+				<Text>Pelvic pain</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DOULEUR_PELV_DESCRIPTION</LocID>
+				<Text>Pain in the pelvic area.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_COL_ROUGE</LocID>
+				<Text>Red cervix</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_COL_ROUGE_DESCRIPTION</LocID>
+				<Text>Red cervix at examination.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_VEGETATION_KYSTE</LocID>
+				<Text>Extracystic vegetation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_VEGETATION_KYSTE_DESCRIPTION</LocID>
+				<Text>Vegetation shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TUMEFACTION</LocID>
+				<Text>Breast swelling</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TUMEFACTION_DESCRIPTION</LocID>
+				<Text>Abnormally enlargement of breast.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MASSE_HOMOGENE</LocID>
+				<Text>Homogenous mass</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MASSE_HOMOGENE_DESCRIPTION</LocID>
+				<Text>Homogenous mass shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ECOULEMENT_MAMMAIRE</LocID>
+				<Text>Nipple discharge</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ECOULEMENT_MAMMAIRE_DESCRIPTION</LocID>
+				<Text>Nipple discharge refers to any fluid that seeps out of the nipple of the
+					breast.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MASSE_DENSE_SPECULE</LocID>
+				<Text>Speculated mass</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MASSE_DENSE_SPECULE_DESCRIPTION</LocID>
+				<Text>Speculated mass shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CONTRACTION_UTERINE</LocID>
+				<Text>Contracted pelvis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CONTRACTION_UTERINE_DESCRIPTION</LocID>
+				<Text>It is a pelvis in which one or more of its diameters is reduced so that it
+					interferes with the normal mechanism of labour.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ODEUR_VAGINALE</LocID>
+				<Text>Vaginal odor</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ODEUR_VAGINALE_DESCRIPTION</LocID>
+				<Text>A strong "fishy" smell vaginal odor.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_POST_PARTUM</LocID>
+				<Text>Post-partum</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_POST_PARTUM_DESCRIPTION</LocID>
+				<Text>Following childbirth or the birth of young.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_TEMPETE_DE_NEIGE</LocID>
+				<Text>Aspect of “snowstorm”</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TEMPETE_DE_NEIGE_DESCRIPTION</LocID>
+				<Text>Aspect of “snowstorm” found in imagery.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_IMAGE_COCARDE</LocID>
+				<Text>Image in roundel</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_IMAGE_COCARDE_DESCRIPTION</LocID>
+				<Text>Image in roundel with a central hyperechogenicity found on imagery.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_IMAGE_DIVERTICULAIRE</LocID>
+				<Text>Diverticular image</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_IMAGE_DIVERTICULAIRE_DESCRIPTION</LocID>
+				<Text>"Mistletoe ball" or "Bilboquet ball" diverticular images found in imagery.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_NECROSE_ISCHEMIQUE_HYPOPHYSE</LocID>
+				<Text>Anterior pituitary ischemic necrosis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_NECROSE_ISCHEMIQUE_HYPOPHYSE_DESCRIPTION</LocID>
+				<Text>Intrasellar arachnoidocele with pituitary gland pressed against the sellar
+					floor found on imaging.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ELARGISSEMENT_HYPOPHYSE</LocID>
+				<Text>Pituitary enlargement</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ELARGISSEMENT_HYPOPHYSE_DESCRIPTION</LocID>
+				<Text>Symmetrical enlargement of the pituitary gland, thinning of the pituitary stem
+					without affecting the sellar floor and clear and early hypersignal of the
+					anterior lobe of the pituitary gland are found on imaging.</Text>
+			</GameDBLocalizedString>
+
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SAC_EXTRA_UTERIN</LocID>
+				<Text>Ectopic bag</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SAC_EXTRA_UTERIN_DESCRIPTION</LocID>
+				<Text>A fertilized egg lodges in a Fallopian tube or other location instead of
+					continuing its journey to the uterus.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MPKO</LocID>
+				<Text>Polycystic ovary</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MPKO_DESCRIPTION</LocID>
+				<Text>A polycystic ovary shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ATROPHIE_VULVE_VAGIN_COL</LocID>
+				<Text>Atrophic vaginitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ATROPHIE_VULVE_VAGIN_COL_DESCRIPTION</LocID>
+				<Text>Atrophic vaginitis is inflammation of the vagina as a result of tissue
+					thinning due to not enough estrogen.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PIC_H</LocID>
+				<Text>High hormone</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PIC_H_DESCRIPTION</LocID>
+				<Text>High hormone levels in blood.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MYOME_I</LocID>
+				<Text>Interstitial myoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MYOME_SS</LocID>
+				<Text>Subserous myomas</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MYOME_SM</LocID>
+				<Text>Submucous myoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_FIBROME_DESCRIPTION</LocID>
+				<Text>A benign tumor consisting mainly of fibrous tissue.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE_ENDOM</LocID>
+				<Text>Endometrial cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE_ENDOM_DESCRIPTION</LocID>
+				<Text>A endometrial cyst shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE_OVAIRE_MULTILOCULAIRE</LocID>
+				<Text>Multilocular ovarian cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE_OVAIRE_UNILOCULAIRE</LocID>
+				<Text>Unilocular ovarian cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_KYSTE_OVAIRE_DESCRIPTION</LocID>
+				<Text>A ovarian cyst shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TORSION</LocID>
+				<Text>Ovarian ascended</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TORSION_DESCRIPTION</LocID>
+				<Text>Ovarian ascended on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ABCES</LocID>
+				<Text>Abscess</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ABCES_DESCRIPTION</LocID>
+				<Text>A localized collection of pus surrounded by inflamed tissue.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SORTIE_ORGANE</LocID>
+				<Text>Prolapse</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SORTIE_ORGANE_DESCRIPTION</LocID>
+				<Text>The falling down or slipping of a body part from its usual position or
+					relations.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_NEISSERIA_GONORRHOEAE2</LocID>
+				<Text>Neisseria Gonorrhoeae</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_NEISSERIA_GONORRHOEAE2_DESCRIPTION</LocID>
+				<Text>Neisseria gonorrhoeae, also known as gonococcus (singular), or gonococci
+					(plural) is a species of Gram-negative diplococci bacteria.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CHLAMYDIA_TRACHOMATIS</LocID>
+				<Text>Chlamydia Trachomatis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CHLAMYDIA_TRACHOMATIS_DESCRIPTION</LocID>
+				<Text>Chlamydia trachomatis, commonly known as chlamydia, is a bacterium that causes
+					chlamydia.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TREPONEMA_PALLIDUM</LocID>
+				<Text>Treponema Pallidum</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TREPONEMA_PALLIDUM_DESCRIPTION</LocID>
+				<Text>Treponema pallidum is a spirochaete bacterium with various subspecies that
+					cause the diseases syphilis, bejel, and yaws. .</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TRICHOMONAS_VAGINALIS</LocID>
+				<Text>Trichomonas Vaginalis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TRICHOMONAS_VAGINALIS_DESCRIPTION</LocID>
+				<Text>Trichomonas vaginalis is an anaerobic, flagellated protozoan parasite and the
+					causative agent of trichomoniasis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CANDIDA_ALBICANS</LocID>
+				<Text>Candida Albicans</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CANDIDA_ALBICANS_DESCRIPTION</LocID>
+				<Text>Candida albicans (sometimes referred to as monilia) is a opportunistic fungus
+					that is normally present on the skin and in mucous membranes such as the vagina,
+					mouth, or rectum..</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ATTEINTE_TUBAIRE</LocID>
+				<Text>Tube damage</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ATTEINTE_TUBAIRE_DESCRIPTION</LocID>
+				<Text>Tube damage on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_BHCG</LocID>
+				<Text>B-hCG</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_BHCG_DESCRIPTION</LocID>
+				<Text>Beta human chorionic gonadotropin (HCG) is a hormone produced by the placenta
+					during pregnancy, and is typically detected in the blood.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_HEMORRAGIE_GEN</LocID>
+				<Text>Gynecologic hemorrhage</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PLACENTA_BAS</LocID>
+				<Text>Low-lying placenta</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PLACENTA_BAS_DESCRIPTION</LocID>
+				<Text>A low-lying placenta shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HEMATOME_RETROPLACENTAIRE</LocID>
+				<Text>Retroplacental hematomas</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</LocID>
+				<Text>A retroplacental hematomas shown on an ultrasound image.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MAP</LocID>
+				<Text>PROM</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MAP_DESCRIPTION</LocID>
+				<Text>Premature rupture of membranes (PROM) is a rupture (breaking open) of the
+					membranes (amniotic sac) before labor begins.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PRE_E</LocID>
+				<Text>Placental insufficiency</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_PRE_E_DESCRIPTION</LocID>
+				<Text>Placental insufficiency (also called placental dysfunction or uteroplacental
+					vascular insufficiency) occurs when the placenta does not develop properly, or
+					is damaged.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_LIEC</LocID>
+				<Text>Cervical intraepithelial lesions</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LIEC_DESCRIPTION</LocID>
+				<Text>Cervical intraepithelial lesions at pap smear.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MEC_INFLAMMATOIRE</LocID>
+				<Text>Inflammatory cervical mucus</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MEC_INFLAMMATOIRE_DESCRIPTION</LocID>
+				<Text>Inflammation of the uterine cervix.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TUMEUR_MUQUEUSE</LocID>
+				<Text>Mucinous tumors</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TUMEUR_MUQUEUSE_DESCRIPTION</LocID>
+				<Text>Mucinous tumors revealed at biopsy.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CARCINOME_EPIDERMOIDE</LocID>
+				<Text>Epidermoid carcinoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CARCINOME_EPIDERMOIDE_DESCRIPTION</LocID>
+				<Text>Epidermoid carcinoma revealed at biopsy.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ADENOCARCINOME_ENDOMETRIOIDE</LocID>
+				<Text>Endometrial adenocarcinoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ADENOCARCINOME_ENDOMETRIOIDE_DESCRIPTION</LocID>
+				<Text>Endometrial adenocarcinoma revealed at biopsy.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LEL_RU</LocID>
+				<Text>Free fluid in the recto uterine pouch</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LEL_RU_DESCRIPTION</LocID>
+				<Text>The cul-de-sac, also known as the pouch of Douglas or rectouterine pouch, is
+					an extension of the postero-inferior reflection of the peritoneal fold between
+					the uterus (anteriorly) and rectum (posteriorly). It is the most inferior aspect
+					of the peritoneal cavity and therefore the first location where free fluid
+					accumulates.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CYSTADENOCARCINOME</LocID>
+				<Text>Cystadenocarcinoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CYSTADENOCARCINOME_DESCRIPTION</LocID>
+				<Text>Cystadenocarcinoma is a malignant form of a cystadenoma and is a cancer
+					derived from glandular epithelium, in which cystic accumulations of retained
+					secretions are formed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ADENOFIBROME</LocID>
+				<Text>Adenofibroma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ADENOFIBROME_DESCRIPTION</LocID>
+				<Text>Adenoma with a large amount of fibrous tissue.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPERPLASIE_EP</LocID>
+				<Text>Epithelial hyperplasia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPERPLASIE_EP_DESCRIPTION</LocID>
+				<Text>Epithelial hyperplasia is benign proliferative breast lesion which arising as
+					an unexpected new growth of epithelial cells.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CARCINOME_CANALAIRE</LocID>
+				<Text>Ductal carcinoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CARCINOME_CANALAIRE_DESCRIPTION</LocID>
+				<Text>Ductal carcinoma in situ (DCIS) is the presence of abnormal cells inside a
+					milk duct in the breast. DCIS is considered the earliest form of breast cancer.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HTA_G</LocID>
+				<Text>Gestational hypertension</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HTA_G_DESCRIPTION</LocID>
+				<Text>Gestational hypertension is defined as consistently elevation of systemic
+					blood pressure above or equal to 140/90mmHg in a previously normotensive woman.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INSULINO_RPR</LocID>
+				<Text>Insulin resistance</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INSULINO_RPR_DESCRIPTION</LocID>
+				<Text>Purpose of insulin resistance (IR) adapted by mother is to deliver enough
+					quantity of nutrients to the growing fetus.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_AMNIOTITE</LocID>
+				<Text>Amnionitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_AMNIOTITE_DESCRIPTION</LocID>
+				<Text>Inflammation of the fetal membranes.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INFECTION_URINAIRE</LocID>
+				<Text>Urinary infection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INFECTION_URINAIRE_DESCRIPTION</LocID>
+				<Text>A bladder infection is revealed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INFECTION_PARENCHYME_RENAL</LocID>
+				<Text>Renal parenchyma infection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INFECTION_PARENCHYME_RENAL_DESCRIPTION</LocID>
+				<Text>Renal parenchyma infection revealed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CLUE_CELLS</LocID>
+				<Text>Clue cells</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CLUE_CELLS_DESCRIPTION</LocID>
+				<Text>Clue cells are epithelial cells of the vagina that get their distinctive
+					stippled appearance by being covered with bacteria.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_REVELATION_BBB</LocID>
+				<Text>Baby blues</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_REVELATION_BBB_DESCRIPTION</LocID>
+				<Text>Baby blues revealed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ANXIETE_BB</LocID>
+				<Text>Anxiety about the baby</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ANXIETE_BB_DESCRIPTION</LocID>
+				<Text>Anxiety about the baby revealed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LOCHIE</LocID>
+				<Text>Lochia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LOCHIE_DESCRIPTION</LocID>
+				<Text>The normal discharge from the uterus after childbirth.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ENGORGEMENT_M</LocID>
+				<Text>Milk stasis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ENGORGEMENT_M_DESCRIPTION</LocID>
+				<Text>Milk stasis is the buildup of milk within the breast tissue of lactating
+					women.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CREVASSE_M</LocID>
+				<Text>Skin barrier defects</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CREVASSE_M_DESCRIPTION</LocID>
+				<Text>Penetration through the Skin Barrier.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LYMPHANGITE_M</LocID>
+				<Text>Lymphangitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_LYMPHANGITE_M_DESCRIPTION</LocID>
+				<Text>Inflammation of the walls of the lymphatic vessels.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SIGNE_BUDIN</LocID>
+				<Text>Budin's sign</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SIGNE_BUDIN_DESCRIPTION</LocID>
+				<Text>Budin's sign is positive if the milk is mixed with pus.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ABCES_M</LocID>
+				<Text>Breast abscess.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ABCES_M_DESCRIPTION</LocID>
+				<Text>A local accumulation of pus within the breast due to infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TVP_PP</LocID>
+				<Text>DVT detected</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TVP_PP_DESCRIPTION</LocID>
+				<Text>Deep vein thrombosis detected with USG.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TVPELV</LocID>
+				<Text>PVT detected</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TVPELV_DESCRIPTION</LocID>
+				<Text>Pelvic vein thrombosis detected with USG.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPOG_HYPOGT</LocID>
+				<Text>Hypogonadotropic hypogonadism</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPOG_HYPOGT_DESCRIPTION</LocID>
+				<Text>Hypogonadotropic hypogonadism (HH) is a form of hypogonadism that is due to a
+					problem with the pituitary gland or hypothalamus.</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>
+				<LocID>SYM_HEMATOME_DECIDUAL</LocID>
+				<Text>Chorionic hematoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HEMATOME_DECIDUAL_DESCRIPTION</LocID>
+				<Text>Chorionic hematoma (also chorionic hemorrhage) is the pooling of blood
+					(hematoma) between the chorion, a membrane surrounding the embryo, and the
+					uterine wall.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ATONIE_UTERINE</LocID>
+				<Text>Uterine atony</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_ATONIE_UTERINE_DESCRIPTION</LocID>
+				<Text>Uterine atony is a loss of tone in the uterine musculature.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INFANTICIDE</LocID>
+				<Text>Infanticide risk</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_INFANTICIDE_DESCRIPTION</LocID>
+				<Text>Infanticide or suicidial risk detected.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HELLP_SD</LocID>
+				<Text>HELLP syndrome</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HELLP_SD_DESCRIPTION</LocID>
+				<Text>HELLP syndrome revealed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_RUPTURE_UTERINE</LocID>
+				<Text>Uterine rupture</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_RUPTURE_UTERINE_DESCRIPTION</LocID>
+				<Text>Uterine rupture detected.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_TSST1</LocID>
+				<Text>TSST-1</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_TSST1_DESCRIPTION</LocID>
+				<Text>Toxic shock syndrome toxin 1 (TSST-1), a prototype superantigen secreted by a
+					Staphylococcus aureus bacterium.</Text>
+			</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_HYPERMOBILITE_URETRALE</LocID>
+				<Text>Urethral hypermobility</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_HYPERMOBILITE_URETRALE_DESCRIPTION</LocID>
+				<Text>Loss of tone of tissue in the proximal urethra.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_CONTRACTION_VESICALE</LocID>
+				<Text>Bladder contraction</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_CONTRACTION_VESICALE_DESCRIPTION</LocID>
+				<Text>Uninhibited abnormal bladder contractions.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_ATTEINTE_TROMPES</LocID>
+				<Text>Tubal involvement</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_ATTEINTE_TROMPES_DESCRIPTION</LocID>
+				<Text>Inflammation of a fallopian tube on ultrasound.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_ATTEINTE_ENDOMETRE</LocID>
+				<Text>Endometrial involvement</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_ATTEINTE_ENDOMETRE_DESCRIPTION</LocID>
+				<Text>Endometrial inflammation on ultrasound.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_AXILLARY_LYMPH_NODES</LocID>
+				<Text>Axillary Lymph Nodes</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_INGUINAL_LYMPH_NODES</LocID>
+				<Text>Inguinal Lymph Nodes</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_SUPRACLAVICULAR_LYMPH_NODES</LocID>
+				<Text>Supraclavicular Lymph Nodes</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_LIG_TROMPES</LocID>
+				<Text>Tubal ligation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_LIG_TROMPES_DESCRIPTION</LocID>
+				<Text>Patient asks to have fallopian tubes tied.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_ABCES_BARTHOLIN</LocID>
+				<Text>Bartholin's abscess</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_ABCES_BARTHOLIN_DESCRIPTION</LocID>
+				<Text>The patient has an Bartholin abscess.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_FISTULE_BARTHOLIN</LocID>
+				<Text>Fistula</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_FISTULE_BARTHOLIN_DESCRIPTION</LocID>
+				<Text>Bartholinitis is fistulated on the skin.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_BARTHOLIN</LocID>
+				<Text>Bartholin's cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_BARTHOLIN_DESCRIPTION</LocID>
+				<Text>The patient has an Bartholin cyst.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_PILONIDAL</LocID>
+				<Text>Pilonidal cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_PILONIDAL_DESCRIPTION</LocID>
+				<Text>The patient has an pilonidal cyst.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_EPIDERMIQUE_VULVE</LocID>
+				<Text>Epidermoid cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_EPIDERMIQUE_VULVE_DESCRIPTION</LocID>
+				<Text>The patient has an epidermoid cyst.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_VULVE_INCLUSION</LocID>
+				<Text>Inclusion cyst</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_KYSTE_VULVE_INCLUSION_DESCRIPTION</LocID>
+				<Text>The patient has an inclusion cyst.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_HEMATOCOLPOS</LocID>
+				<Text>Hematocolpos</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_HEMATOCOLPOS_DESCRIPTION</LocID>
+				<Text>A hematocolpos was found on imagery.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_CHANCRE_SYPHILIS</LocID>
+				<Text>Syphilitic chancre</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_SYPHILIDE</LocID>
+				<Text>Syphilide</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_OBGYN_SYPHILIDE_DESCRIPTION</LocID>
+				<Text>Skin lesion (with the exception of chancre) or mucous membrane of secondary
+					and / or tertiary syphilis, presents the appearance of a spot, of a purulent
+					rise or not.</Text>
+			</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

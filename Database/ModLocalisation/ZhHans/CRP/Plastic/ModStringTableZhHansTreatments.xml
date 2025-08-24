@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_CRP_SLEEPYPL_TREATMENTS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068 (原文) / Gemini (翻译)</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT</LocID>                         
+			<Text>观察等待</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT_DESC</LocID>                         
+			<Text>观察等待是指密切监测患者的病情，在症状出现或改变之前不给予任何治疗。通常在这些情况下，让身体自然愈合是首选方法，因为治疗可能带来并发症的风险。\n\n所需房间：任何诊室</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+			<Text>肾上腺素自动注射器</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+			<Text>肾上腺素自动注射器是一种医疗设备，用于通过自动注射器技术注射一剂或多剂定量的肾上腺素。它最常用于治疗过敏性休克。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A</LocID>                                    	
+			<Text>甲氧苄啶-磺胺甲噁唑</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A_DESC</LocID>                        	
+			<Text>一线MRSA治疗：甲氧苄啶-磺胺甲噁唑（TMP-SMX；复方新诺明DS，菌特灵DS）。该药物已被证明在治疗耐甲氧西林金黄色葡萄球菌方面非常有效。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT</LocID>                                    	
+			<Text>压力衣</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT_DESC</LocID>                        	
+			<Text>吸脂术后穿着压力衣有助于身体恢复，并增加患者在愈合过程中的舒适度。压力衣有助于随着时间的推移纠正由手术引起的松弛或不规则的皮肤表面特征。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION</LocID>                                    	
+			<Text>静脉注射脂肪乳</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION_DESC</LocID>                        	
+			<Text>脂肪乳或脂肪乳剂是指用于人体静脉注射的脂质乳剂。它通常以最常用版本的品牌名称Intralipid来指代，这是一种由大豆油、蛋磷脂和甘油组成的乳剂，有10%、20%和30%的浓度。静脉注射脂肪乳是治疗局部麻醉剂引起的心血管衰竭的既定有效方法。其作用机制的主要理论是，通过创建一个扩大的血管内脂质相，建立平衡，从而将有害药物从目标组织驱动到新形成的“脂质池”中。\n\n所需房间：任何部门的普通住院部。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX</LocID>                                    	
+			<Text>肉毒杆菌毒素</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX_DESC</LocID>                        	
+			<Text>肉毒杆菌毒素（Botox）是由肉毒杆菌及相关物种产生的一种神经毒性蛋白。它能阻止神经递质乙酰胆碱从神经肌肉接头的轴突末梢释放，从而引起弛缓性麻痹。虽然肉毒杆菌毒素对各种整形外科手术有用，但它是已知的最毒物质。中毒可能因伤口或肠道感染而自然发生，也可能因摄入食物中预先形成的毒素而发生。A型毒素的估计人体致死剂量为静脉或肌肉注射1.3-2.1纳克/公斤，吸入时为10-13纳克/公斤，口服时为1000纳克/公斤。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP</LocID>                                    	
+			<Text>阿托品眼药水</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP_DESC</LocID>                        	
+			<Text>阿托品眼药水属于一类称为抗胆碱能药的药物。它用于扩张（放大）瞳孔并暂时麻痹晶状体，以便医生检查您的眼睛。将睫状肌麻痹药物（如硫酸阿托品）滴入健康的眼睛会导致视力模糊和丧失调节远近的能力，从而迫使弱视眼进行代偿。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH</LocID>                                    	
+			<Text>眼罩</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH_DESC</LocID>                        	
+			<Text>眼罩通过遮挡患者较强眼的视力来起作用。这迫使较弱的或“懒惰”的眼睛更努力地工作，以便该眼的视力得以改善。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS</LocID>                                    	
+			<Text>皮质类固醇眼药水</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS_DESC</LocID>                        	
+			<Text>眼科皮质类固醇（类可的松药物）用于预防因某些眼部问题或手术可能对眼睛造成的永久性损伤。它们还能缓解红肿、刺激和其他不适。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L</LocID>                                    	
+			<Text>α-羟基酸换肤</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L_DESC</LocID>                        	
+			<Text>α-羟基酸（AHAs）通常来源于柠檬酸（柑橘类水果）、乙醇酸（甘蔗）、乳酸（发酵牛奶）、苹果酸（苹果）和酒石酸（葡萄）。通常，乙醇酸和乳酸是两种最常用的。AHAs是所有化学换肤中最温和的。它们主要有益于治疗非常细的皱纹、干燥和脱水的皮肤、轻微的皮肤和色素不规则以及痤疮。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY</LocID>                                    	
+			<Text>硬化疗法</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY_DESC</LocID>                        	
+			<Text>硬化疗法是一种将化学溶液注射到血管（通常是腿上的蜘蛛状静脉或静脉曲张）中的治疗方法。硬化疗法会刺激血管壁，使其粘连在一起。这导致血管的纤维化或疤痕形成。被注射了硬化溶液的不需要的静脉随后会在几周内溶解，因为身体会自然吸收被治疗的静脉。硬化疗法是一种非侵入性手术，只需约10分钟即可完成。与侵入性的静脉曲张手术相比，恢复时间极短。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT</LocID>                                    	
+			<Text>皮肤激光治疗</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT_DESC</LocID>                        	
+			<Text>激光治疗或激光换肤是一种使用激光通过去除皮肤层来改善皮肤外观或治疗面部微小瑕疵的手术。两种最常见的换肤激光是：二氧化碳（CO2），这种激光用于治疗皱纹、疤痕、疣和其他病症。第二种是铒激光，这种激光用于去除面部、手部、颈部和胸部的浅表和中度深的皱纹和细纹。它比CO2激光引起的副作用更少。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT</LocID>                                    	
+			<Text>酶注射（CCH）</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT_DESC</LocID>                        	
+			<Text>将一种酶（通常是从溶组织梭菌中提取的胶原酶）注射到患者手掌的紧绷索带中，可以软化并削弱它，使医生能够操纵手部以试图断裂索带并伸直手指。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2</LocID>                                    	
+			<Text>皮质类固醇注射</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2_DESC</LocID>                        	
+			<Text>皮质类固醇（也称为类固醇）是可用于治疗炎症的药物。当皮质类固醇注射到疼痛区域（如关节或肌肉）或其周围时，它们可以减少该区域的炎症，从而缓解疼痛、减轻组织肿胀并改善功能和活动能力。医生可以将皮质类固醇溶液直接注射到增生性疤痕或瘢痕疙瘩中，这可能有助于减小其尺寸。类固醇会破坏胶原纤维之间的键合，从而减少皮下的疤痕组织量。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY</LocID>                                    	
+			<Text>冷冻手术</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY_DESC</LocID>                        	
+			<Text>冷冻手术是一种利用极低温度破坏异常组织（如肿瘤）的手术。该手术最常使用液氮，但也可以使用二氧化碳和氩气。冷冻手术的原理是利用冰冻温度对细胞的破坏力。当细胞温度降至某一水平以下时，细胞内开始形成冰晶，并且由于其密度较低，最终会撕裂这些细胞。当供应受影响组织的血管开始冻结时，会对恶性生长造成进一步的损害。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL</LocID>                                    	
+			<Text>透明质酸填充剂</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL_DESC</LocID>                        	
+			<Text>可注射透明质酸（HA）是一种临时性真皮填充剂。透明质酸天然存在于全身，在关节、眼睛和皮肤中的浓度最高。在皮肤中，透明质酸能吸引水分，使皮肤变得更加水润。可注射HA用于减少细纹和皱纹、面部褶皱的出现，并为面部和嘴唇创造结构、框架和体积。可注射透明质酸的效果立即可见。\n\n所需房间：任何诊室</Text>  
+		</GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

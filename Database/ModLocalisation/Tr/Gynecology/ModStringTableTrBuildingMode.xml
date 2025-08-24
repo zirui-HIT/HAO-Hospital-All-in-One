@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_GYNECOLOGIE_BUILDING_MODE">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>
+        <Text>Obstetrik ve Jinekoloji polikliniği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>
+        <Text>Obstetrik ve Jinekoloji polikliniği ayakta tedavi edilebilecek hastaların tanısını koyar ve tedavi verir. \n\nMin. gerekli personel: \n1x Doktor</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>
+        <Text>Teşhis ünitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>
+        <Text>Obstetrik ve Jinekoloji teşhiş ünitesi, hastanede yatan hastalar için muayene ve gerekli tedavinin yapılmasını sağlar. \n\nMin. gerekli personel: \n1x Doktor \n(Çağrı odasında bulunan)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_GYNECO_DPT</LocID>
+        <Text>Obstetrik ve Jinekoloji</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

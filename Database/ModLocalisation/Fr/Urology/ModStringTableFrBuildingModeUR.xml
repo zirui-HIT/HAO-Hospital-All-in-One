@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_FR_ADDON_UR_BUILDING_MODE">
+<LanguageCode>fr</LanguageCode>
+<LanguageNameLocalized>Français</LanguageNameLocalized>
+<Contributors>
+<Name>aigledunumerique</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>Urologie</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>Sticker mural</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>Bureau de l'urologue</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>Un bureau de docteur spécialisé en urologie. Min. besoin en personnel:\n1x Docteur</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>Bureau du nephrologue</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>Un bureau de docteur spécialisé en nephrologie. Min. besoin en personnel:\n1x Docteur</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>Salle de dialyse</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>Salle de dialyse pour les patients nécessitant une dialyse. \n\nMin. besoin en personnel: \n1x Docteur \n1x Infirmière \n(Personnel basé dans la salle de veille et le cabinet d'infirmière)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

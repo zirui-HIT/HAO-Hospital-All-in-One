@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_FR_ADDON_DIAG_BUILDING_MODE">
+		<LanguageCode>fr</LanguageCode>
+		<LanguageNameLocalized>Français</LanguageNameLocalized>
+		<Contributors>
+			<Name>Ollyver</Name>
+			<Name>nom d'utilisateur</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DIAG_OFFICE</LocID>
+				<Text>Bureau des diagnostics</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DIAG_OFFICE_DESCRIPTION</LocID>
+				<Text>Bureau des docteurs spécialisés dans le diagnostic. Personnel requis:\n1x Docteur</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_DIAG_OFFICE</LocID>
+				<Text>Unité de diagnostic</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_DIAG_OFFICE_DESC</LocID>
+				<Text>L'unité des diagnostics s'occupe des examens et des traitements pour les patients hospitalisés\n\nPersonnel requis: \n1x Docteur \n(Personnel based in On-call room)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>OBJECT_DECAL_MOD_DIAG</LocID>
+				<Text>Department des Diagnostics A</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>OBJECT_DECAL_DIAG_DESC</LocID>
+				<Text>Autocollant mural</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_DIAG</LocID>
+				<Text>Unité de neuroexamens</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_DIAG_DESCRIPTION</LocID>
+				<Text>L'unité de neuroexamens s'occupe des différents examens neurologiques. \n\nPersonnel requis: \n1x Technicien - Neurologue</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_DIAG</LocID>
+				<Text>Unité de cardiographie</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_DIAG_DESC</LocID>
+				<Text>L'unité de cardiographie des diagnostics s'occupe de différentes méthodes ainsi que des tests liés au système cardiovasculaire. \n\n Personnel minimal requis: \n1x Technicien - Cardiologue</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_OPHTHALMOLOGY_BUILDING_MODE">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>DPT_OPHTHALMOLOGY</LocID>
+				<Text>眼科</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_OFFICE</LocID>
+				<Text>眼科门诊室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_OFFICE_DESC</LocID>
+				<Text>眼科医生的门诊室。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_OPHTHALMOLOGY_OFFICE</LocID>
+				<Text>诊断室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_OPHTHALMOLOGY_OFFICE_DESC</LocID>
+				<Text>眼科住院患者的诊断室。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_EXAMINATION_ROOM</LocID>
+				<Text>诊断室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_EXAMINATION_ROOM_DESC</LocID>
+				<Text>执行眼科诊断的区域。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_UNIT</LocID>
+				<Text>眼科检查室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OPHTHALMOLOGY_UNIT_DESC</LocID>
+				<Text>进行眼科检查的区域。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+     
+    <GameDBObject ID="OBJECT_BASIC_BED_A">
+        <AbbreviationLocID>OBJECT_BASIC_BED_A</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDBackNW>866</TextureIDBackNW>
+        <TextureIDBackNE>872</TextureIDBackNE>
+        <TextureIDBackSE>881</TextureIDBackSE>
+        <TextureIDBackSW>888</TextureIDBackSW>
+        <TextureIDNW>-1</TextureIDNW>
+        <TextureIDNE>-1</TextureIDNE>
+        <TextureIDSE>884</TextureIDSE>
+        <TextureIDSW>891</TextureIDSW>
+        <IconIndex>933</IconIndex>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>false</AttachedToObject>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <PartOfCompositeObject>true</PartOfCompositeObject>
+        <UseDirection>SE</UseDirection>
+
+        <Placement>INDOORS</Placement>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>-1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+            <AccessPosition>
+                <m_x>1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+        </AccessPositions>
+
+        <AccessPositionsHaveToBeFree>true</AccessPositionsHaveToBeFree>
+
+        <RequiredObjectsInRoom>
+            <RequiredObject>
+                <Tag>fluid_stand</Tag>
+                <MaxDistance>1</MaxDistance>
+            </RequiredObject>
+        </RequiredObjectsInRoom>
+
+        <AttachmentSlot>
+            <HeightOffset>1.8</HeightOffset>
+            <DepthOffset>0.0</DepthOffset>
+            <AllowedTags>
+                <Tag>exam_lamp</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+        <UseAnimationsStart>
+            <Animation>sit_exam_bed_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>sit_exam_bed_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>sit_exam_bed_out</Animation>
+        </UseAnimationsEnd>
+
+        <AnimationFramesNW>3</AnimationFramesNW>
+        <AnimationFramesNE>3</AnimationFramesNE>
+        <AnimationFramesSE>3</AnimationFramesSE>
+        <AnimationFramesSW>3</AnimationFramesSW>
+
+        <Tags>
+            <Tag>ui_observation</Tag>
+            <Tag>hospital_bed</Tag>
+            <Tag>ui_beds</Tag>
+            <Tag>standard_hospital_bed</Tag>
+            <Tag>bed_legs</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECTS_BED</ColorSetRef>
+    </GameDBObject>
+	
+	
+
+    
+    <GameDBObject ID="OBJECT_BASIC_BED_B">
+        <AbbreviationLocID>OBJECT_BASIC_BED_B</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>869</TextureIDNW>
+        <TextureIDNE>875</TextureIDNE>
+        <TextureIDSE>878</TextureIDSE>
+        <TextureIDSW>885</TextureIDSW>
+        <IconIndex>933</IconIndex>
+
+        <UseDirection>SE</UseDirection>
+        <UseOffsetXNW>1</UseOffsetXNW>
+        <UseOffsetYNW>0</UseOffsetYNW>
+
+        <Placement>INDOORS</Placement>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>-1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+            <AccessPosition>
+                <m_x>1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+        </AccessPositions>
+
+        <AttachedCharacterDirection>NE</AttachedCharacterDirection>
+
+        <AttachedCharacterOffsetXNW>0</AttachedCharacterOffsetXNW>
+        <AttachedCharacterOffsetYNW>-0.5</AttachedCharacterOffsetYNW>
+
+        <AttachedCharacterOffsetXNE>0.5</AttachedCharacterOffsetXNE>
+        <AttachedCharacterOffsetYNE>0.0</AttachedCharacterOffsetYNE>
+
+        <AttachedCharacterOffsetXSE>0</AttachedCharacterOffsetXSE>
+        <AttachedCharacterOffsetYSE>0.5</AttachedCharacterOffsetYSE>
+
+        <AttachedCharacterOffsetXSW>-0.5</AttachedCharacterOffsetXSW>
+        <AttachedCharacterOffsetYSW>0</AttachedCharacterOffsetYSW>
+
+        <AttachedToCharacterDirection>SW</AttachedToCharacterDirection>
+        <AttachedToCharacterOffsetX>1.7</AttachedToCharacterOffsetX>
+
+        <AttachmentSlot>
+            <HeightOffset>0.0</HeightOffset>
+            <DepthOffset>0.0</DepthOffset>
+            <AllowedTags>
+                <Tag>fluid_stand</Tag>
+            </AllowedTags>
+        </AttachmentSlot>
+
+        <ConnectedSlots>
+            <ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>life_support</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>life_support</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+            <ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>mechanical_ventilator</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>mechanical_ventilator</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+            <ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>night_stand</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>night_stand</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+            <ConnectedSlot>
+                <PositionX>1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>life_monitor</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>life_monitor</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+			<ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>1</PositionY>
+                <AllowedTags>
+                    <Tag>dialysis_machine</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>dialysis_machine</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot> 
+        </ConnectedSlots>
+
+        <NotInteractable>false</NotInteractable>
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>false</AttachedToObject>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <PartOfCompositeObject>true</PartOfCompositeObject>
+
+        <UseAnimationsStart>
+            <Animation>sit_exam_bed_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>sit_exam_bed_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>sit_exam_bed_out</Animation>
+        </UseAnimationsEnd>
+
+        <AnimationFramesNW>3</AnimationFramesNW>
+        <AnimationFramesNE>3</AnimationFramesNE>
+        <AnimationFramesSE>3</AnimationFramesSE>
+        <AnimationFramesSW>3</AnimationFramesSW>
+
+        <Tags>
+            <Tag>hospital_bed</Tag>
+            <Tag>standard_hospital_bed</Tag>
+            <Tag>hospitalization</Tag>
+            <Tag>transport_point</Tag>
+            <Tag>sit_exam</Tag>
+            <Tag>bed_head</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECTS_BED</ColorSetRef>
+    </GameDBObject>
+	
+	 
+    <GameDBObject ID="OBJECT_MODERN_BED_A">
+        <AbbreviationLocID>OBJECT_HITECH_BED_A</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDBackNW>892</TextureIDBackNW>
+        <TextureIDBackNE>898</TextureIDBackNE>
+        <TextureIDBackSE>907</TextureIDBackSE>
+        <TextureIDBackSW>914</TextureIDBackSW>
+        <TextureIDNW>-1</TextureIDNW>
+        <TextureIDNE>-1</TextureIDNE>
+        <TextureIDSE>910</TextureIDSE>
+        <TextureIDSW>917</TextureIDSW>
+        <IconIndex>933</IconIndex>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>false</AttachedToObject>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <PartOfCompositeObject>true</PartOfCompositeObject>
+        <UseDirection>SE</UseDirection>
+
+        <Placement>INDOORS</Placement>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>-1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+            <AccessPosition>
+                <m_x>1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+        </AccessPositions>
+
+        <AccessPositionsHaveToBeFree>true</AccessPositionsHaveToBeFree>
+
+        <RequiredObjectsInRoom>
+            <RequiredObject>
+                <Tag>fluid_stand</Tag>
+                <MaxDistance>1</MaxDistance>
+            </RequiredObject>
+        </RequiredObjectsInRoom>
+
+        <AttachmentSlot>
+            <HeightOffset>1.8</HeightOffset>
+            <DepthOffset>0.0</DepthOffset>
+            <AllowedTags>
+                <Tag>exam_lamp</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+        <UseAnimationsStart>
+            <Animation>sit_exam_bed_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>sit_exam_bed_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>sit_exam_bed_out</Animation>
+        </UseAnimationsEnd>
+
+        <AnimationFramesNW>3</AnimationFramesNW>
+        <AnimationFramesNE>3</AnimationFramesNE>
+        <AnimationFramesSE>3</AnimationFramesSE>
+        <AnimationFramesSW>3</AnimationFramesSW>
+
+        <Tags>
+            <Tag>hospital_bed</Tag>
+            <Tag>modern_hospital_bed</Tag>
+            <Tag>bed_legs</Tag>
+            <Tag>ui_beds</Tag>
+            <Tag>ui_modern_bed</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECTS_BED_MODERN</ColorSetRef>
+    </GameDBObject>
+
+    
+    <GameDBObject ID="OBJECT_MODERN_BED_B">
+        <AbbreviationLocID>OBJECT_HITECH_BED_B</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>895</TextureIDNW>
+        <TextureIDNE>901</TextureIDNE>
+        <TextureIDSE>904</TextureIDSE>
+        <TextureIDSW>911</TextureIDSW>
+        <IconIndex>933</IconIndex>
+
+        <UseDirection>SE</UseDirection>
+        <UseOffsetXNW>1</UseOffsetXNW>
+        <UseOffsetYNW>0</UseOffsetYNW>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>-1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+            <AccessPosition>
+                <m_x>1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+        </AccessPositions>
+
+        <AttachedCharacterDirection>NE</AttachedCharacterDirection>
+
+        <AttachedCharacterOffsetXNW>0</AttachedCharacterOffsetXNW>
+        <AttachedCharacterOffsetYNW>-0.5</AttachedCharacterOffsetYNW>
+
+        <AttachedCharacterOffsetXNE>0.5</AttachedCharacterOffsetXNE>
+        <AttachedCharacterOffsetYNE>0.0</AttachedCharacterOffsetYNE>
+
+        <AttachedCharacterOffsetXSE>0</AttachedCharacterOffsetXSE>
+        <AttachedCharacterOffsetYSE>0.5</AttachedCharacterOffsetYSE>
+
+        <AttachedCharacterOffsetXSW>-0.5</AttachedCharacterOffsetXSW>
+        <AttachedCharacterOffsetYSW>0</AttachedCharacterOffsetYSW>
+
+        <AttachedToCharacterDirection>SW</AttachedToCharacterDirection>
+        <AttachedToCharacterOffsetX>1.7</AttachedToCharacterOffsetX>
+
+        <AttachmentSlot>
+            <HeightOffset>0.0</HeightOffset>
+            <DepthOffset>0.0</DepthOffset>
+            <AllowedTags>
+                <Tag>fluid_stand</Tag>
+            </AllowedTags>
+        </AttachmentSlot>
+
+        <ConnectedSlots>
+            <ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>mechanical_ventilator</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>mechanical_ventilator</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+            <ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>night_stand</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>night_stand</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>            
+            <ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>life_support</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>life_support</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+            <ConnectedSlot>
+                <PositionX>1</PositionX>
+                <PositionY>0</PositionY>
+                <AllowedTags>
+                    <Tag>life_monitor</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>life_monitor</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot>
+			<ConnectedSlot>
+                <PositionX>-1</PositionX>
+                <PositionY>1</PositionY>
+                <AllowedTags>
+                    <Tag>dialysis_machine</Tag>
+                </AllowedTags>
+                <ForcedDirection>NE</ForcedDirection>
+                <RoomTag>dialysis_machine</RoomTag>
+                <Required>true</Required>
+            </ConnectedSlot> 
+        </ConnectedSlots>
+
+        <NotInteractable>false</NotInteractable>
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>false</AttachedToObject>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <PartOfCompositeObject>true</PartOfCompositeObject>
+        <Placement>INDOORS</Placement>
+
+        <UseAnimationsStart>
+            <Animation>sit_exam_bed_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>sit_exam_bed_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>sit_exam_bed_out</Animation>
+        </UseAnimationsEnd>
+
+        <AnimationFramesNW>3</AnimationFramesNW>
+        <AnimationFramesNE>3</AnimationFramesNE>
+        <AnimationFramesSE>3</AnimationFramesSE>
+        <AnimationFramesSW>3</AnimationFramesSW>
+
+        <Tags>
+            <Tag>hospital_bed</Tag>
+            <Tag>modern_hospital_bed</Tag>
+            <Tag>hospitalization</Tag>
+            <Tag>transport_point</Tag>
+            <Tag>sit_exam</Tag>
+            <Tag>bed_head</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECTS_BED_MODERN</ColorSetRef>
+    </GameDBObject>
+
+    
+
+</Database>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Rimat</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Terapia androgenica sostitutiva</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>La terapia androgenica sostitutiva (ART), spesso chiamata terapia sostitutiva del testosterone (TRT), è una forma di terapia ormonale in cui gli androgeni, spesso testosterone, vengono sostituiti. La ART viene spesso somministrata per contrastare gli effetti dell'ipogonadismo maschile.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Agonisti dopaminergici</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>Un agonista del recettore di dopamina (DA) è un composto che attiva i recettori di dopamina. Ci sono due famiglie di recettori di dopamina, tipo-D2 e tipo-D1, entrambe sono recettori accoppiati alla proteina G. I recettori D1- e D5- appartengono alla tipologia D1, mentre la tipologia D2 include  i recettori D2, D3 e D4. I DA vengono usati nel trattamento del morbo di Parkinson e, in misura minore, per curare depressione, iperprolattinemia e la sindrome della gamba senza riposo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Idrocortisone - Fluorocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Associazione di idrocortisone e fluocortisone.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Vitamina D</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++  v0.01  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Sale di potassio</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>Il più utilizzato è il cloruro di potassio in micro-capsule. Si tratta di un integratore di potassio ad uso orale</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Crema idratante</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>Preparazione cosmetica usata per prevenire la secchezza della pelle.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Infusione di glucosio</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Infusione venosa di glucosio.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Idrocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>Idrocortisone è il nome dell'ormone cortisolo, quando somministrato come medicinale.</Text>	</GameDBLocalizedString>
+-->		
+
+			<!-- ================================================== Chirurgie ================================================== -->
+<!--  v0.01  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Sostituzione della valvola</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>La sostituzione chirurgica della valvola è la sostituzione di una o più valvole cardiache con analoghe artificiali o bioprotesi.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Pace-Maker</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>Un pacemaker cardiaco (o pacemaker artificiale, così da non venir confuso con il pacemaker naturale del cuore), è un dispositivo medico che genera impulsi elettrici distribuiti da elettrodi per fare in modo che le camere del muscolo cardiaco (le superiori, od atri e/o le inferiori, o ventricoli) si contraggano e quindi pompino sangue; facendo ciò, questo dispositivo rimpiazza e/o regola la funzione del sistema di conduzione elettrica del cuore.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Defibrillatore cardiaco impiantabile</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Un defibrillatore cardiaco impiantabile (ICD) o defibrillatore cardiaco impiantabile automatico (AICD) è un dispositivo impiantabile nel corpo, in grado di effettuare cardioversione, defibrillazione, e (nelle versioni moderne) funzioni di pacemaker. Questo dispositivo è perciò in grado di correggere la maggior parte delle aritmie cardiache potenzialmente letali. Lo ICD è in prima linea nel trattamento e nella terapia profilattica di pazienti a rischio di morte cardiaca improvvisa a causa di fibrillazione ventricolare e tachicardia ventricolare. I dispositivi odierni possono essere programmati per rilevare ritmi cardiaci anomali e somministrare la terapia attraverso pacemaking programmabile antitachicardia, in aggiunta a scosse ad alta e bassa energia.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Rivascolarizzazione</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>Il bypass vascolare e l'angioplastica sono i due principali metodi di rivascolarizzazione.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>La fasciotomia è una procedura chirurgica dove la fascia muscolare è incisa per alleviare la tensione o pressione, comunemente per trattare la perdita di circolazione ad un'area di tessuto o muscolo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Stent</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Esclusione dell'area coinvolta da aneurisma dal flusso circolatorio tramite interposizione di una protesi vascolare. Nell'appiattimento dell'innesto, il tubo di protesi viene suturato sia sopra che sotto l'aneurisma, in modo da ricostruire l'arteria.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Adrenalectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Rimozione chirurgica di entrambe le ghiandole surrenali.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Escissione chirurgica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Escissione chirurgica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>Un'escissione è una procedura chirurgica che consiste nella rimozione dall'organismo di un elemento dannoso od inutile.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Tiroidectomia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Rimozione chirurgica della tiroide.</Text>	</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

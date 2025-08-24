@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHTW_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+		<LanguageCode>zhtw</LanguageCode>
+		<LanguageNameLocalized>繁體中文</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>chryue</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>   
+				<Text>生殖器檢查</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>   
+				<Text>生殖器細胞檢查分析</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>   
+				<Text>生殖器拭子</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>    
+				<Text>生殖器拭子分析</Text>
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>    
+				<Text>從子宮頸或肛.門中輕輕取出少量細胞。裝入小型試管並將試管發送到實驗室進行測試。</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>    
+				<Text>宮頸或肛門細胞分析</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>   
+				<Text>從陰道或陰莖上取拭子。</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>   
+				<Text>分析拭子培養物以檢查是否有感染跡象。</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Semen collection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Semen collection refers to the process of obtaining semen from the patient, usually through masturbation, directing the sample into a clean cup.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Semen collection analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>The semen collection is analysed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Groin examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Examination of the patient's groin area.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_FR_ADDON_CRP_SLEEPYPL_TREATMENTS">
+	<LanguageCode>fr</LanguageCode>
+	<LanguageNameLocalized>Français</LanguageNameLocalized>
+	<Contributors>
+	<Name>blackstar91560fr</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT</LocID>                         
+			<Text>Observation</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT_DESC</LocID>                         
+			<Text>L'observation implique la surveillance étroite des constantes du patient sans donner aucun traitement jusqu'à ce que des symptômes apparaissent ou changent. Généralement, dans ces situations, laisser le corps se soigner lui même est une approche préférée car les traitements peuvent apporter des complications.  \n\nSalle requise: n'importe quel bureau</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+			<Text>Epipen (injecteur d'épinéphrine)</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+			<Text>Un stylo autoinjecteur d'épinéphrine ou Epipen est un dispositif médical servant à injecter une dose mesurée d'épinéphrine (adrénaline) par le moyen d'un autoinjecteur. C'est fréquemment utilisé comme traitement des chocs anaphylactiques.  \n\nSalle requise: n'importe quel bureau</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A</LocID>                                    	
+			<Text>Trimethoprime-Sulfamethoxazole</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A_DESC</LocID>                        	
+			<Text>Ce sont des antibiotiques en première ligne de la thérapie contre les MRSA : Trimethoprime-Sulfamethoxazole TMP-SMX. Cet agent a démontré un effet élevé concernant le traitement des staphylocoques dorés résistant aux antibiotiques habituels (MRSA).  \n\nSalle requise: n'importe quel bureau</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT</LocID>                                    	
+			<Text>Bas de contention</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT_DESC</LocID>                        	
+			<Text>Porter des bas de contention après une liposuccion aide le corps à s'en remettre et améliore le confort du patient durant le processus de guérison.  \n\nSalle requise: n'importe quel bureau</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION</LocID>                                    	
+			<Text>Emulsion de lipides intraveineux</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION_DESC</LocID>                        	
+			<Text>Ce médicament réfère à des émulsions de graisse pour usage intraveineux chez l'humain. C'est un traitement efficace établi pour les collapsus cardiovasculaires induits par les anesthésiques locaux.  \n\nSalle requise: Hospitalisation régulière dans n'importe quel département.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX</LocID>                                    	
+			<Text>Toxine botulique (Botox)</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX_DESC</LocID>                        	
+			<Text>Le botox est une protéine neurotoxique produite par la bactérie Clostridium botulinum. Elle empêche le relachement de l'acétylcholine (un neurotransmetteur) depuis les axones au niveau de la jonction neuromusculaire et par conséquent cause une paralysie flacide. Bien que très utilisée en médecine esthétique, la toxine botulique est la substance la plus toxique connue.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP</LocID>                                    	
+			<Text>Collyre à l'atropine</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP_DESC</LocID>                        	
+			<Text>Les collyres à l'atropine appartiennent à une classe de médicament appelés antimuscariniques. Ils sont utilisés pour dilater la pupille de l'oeil et paralyser temporairement la lentille pour que le médecin puisse examiner la rétine via un fond d'oeil.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH</LocID>                                    	
+			<Text>Patch oculaire</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH_DESC</LocID>                        	
+			<Text>Le patch oculaire bloque la vision de l'oeil dominant du patient, cela force le plus faible (ou "fénéant") à travailler plus durement pour que la vision de cet oeil s'améliore.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS</LocID>                                    	
+			<Text>Collyre aux corticostéroïdes</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS_DESC</LocID>                        	
+			<Text>Ces collyres sont utilisés pour prévenir des dommages permanents à l'oeil qui peuvent apparaitre durant certaines pathologies de l'oeil ou chirurgies. Ils soulagent également les rougeurs, les irritations et autre inconforts de l'oeil.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L</LocID>                                    	
+			<Text>Peel à l'alphahydroxyacide</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L_DESC</LocID>                        	
+			<Text>Les AlphaHydroxyAcides (AHAs) sont habituellement des dérivés des acides citriques, glycoliques, lactiques, maliques et tartariques. Les plus utilisés sont les acides glycoliques et lactiques. Les AHAs sont utilisés dans les peels chimiques le plus bénins. Ils sont bénéfiques pour le traitement des rides très fines, la peau sèche et déshydratée, les irrégularités pigmentaires et cutanées bénignes et l'acné.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY</LocID>                                    	
+			<Text>Sclérotherapie</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY_DESC</LocID>                        	
+			<Text>La sclérothérapie est un traitement qui implique l'injection de solutions chimiques dans les vaisseaux sanguins des télangiectasies ou varices. Elle irrite les parois du vaisseau sanguin en les collant. Cela conduit à une fibrose du vaisseau. Les veines non voulues sont dissoutes par l'injection d'une solution sclérosante sur une période de plusieurs semaines pendant que le corps absorbe naturellement la veine traitée. La sclérothérapie est une procédure non invasive prenant seulement 10 minutes à être effectuée.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT</LocID>                                    	
+			<Text>Resurfaçage laser</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT_DESC</LocID>                        	
+			<Text>La thérapie laser ou resurfaçage laser est une procédure qui utilise un laser pour améliorer l'apparence de la peau ou traiter des imperfections mineures de la peau en retirant des couches de peau. Les deux types de laser les plus communs sont ceux au CO2 utilisés pour traiter les rides, cicatrices, verrues  et ceux à l'Erbium utilisé pour retirer des rides superficielles ou modéréments profondes sur le visage, les mains, le cou et le torse avec moins d'effets indésirables que ceux au CO2.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT</LocID>                                    	
+			<Text>Injections d'enzymes</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT_DESC</LocID>                        	
+			<Text>Injecter un type d'enzyme, normalement une collagénase extraite de C histolyticum dans les tendons raides de la paume du patient peut les adoucir et affaiblir ce qui permettra au médecin de manipuler la main pour tenter de rompre les cordes et extendre les doigts.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2</LocID>                                    	
+			<Text>Injections de corticostéroïdes</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2_DESC</LocID>                        	
+			<Text>Les corticostéroïdes ou stéroïdes sont des substance qui sont utilisées pour traiter des inflammations. Quand des corticostéroïdes sont injectées dans ou autour des zones douloureuses, ils peuvent réduire l'inflammation de la zone, supprimer la douleur, réduire le gonflement des tissus, et améliorer la fonction du tissu. Un médecin peut injecter une solution de cortiscostéroïdes directement dans une cicatrice hypertrophique ou de chéloïde ce qui devrait aider à réduire sa taille.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY</LocID>                                    	
+			<Text>Cryochirurgie</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY_DESC</LocID>                        	
+			<Text>La cryochirurgie est un type de chirurgie qui implique l'usage de produits extrêmements froids pour détruire des tissus anormaux comme les tumeurs. Cela implique le plus souvent de l'azote liquide bien que le dioxyde de carbone et l'argont peuven aussi être utilisés. La cryochirurgie fonctionne en prenant l'avantage des forces destructrices du froid sur les cellules. Quand leur température descend au delà d'un certain niveau, des cristaux de glaces se forment dans les cellules et les fait éclater.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL</LocID>                                    	
+			<Text>Remplissage à l'acide hyaluronique</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL_DESC</LocID>                        	
+			<Text>L'acide hyaluronique injectable est un type de remplissage cutané temporaire. L'acide hyaluronique est trouvé naturellement dans le corps, principalement dans les articulations, yeux et la peau. Dans la peau, l'acide hylaruonique attire l'eau ce qui permet à la peau de rester plus hydraté. L'acide es tutilisé pour réduire l'apparition des rides et pour créer de la structure et du volume sur la face et les lèvres. Les effets sont visibles immédiatements.  \n\nSalle requise: n'importe quel bureau.</Text>  
+		</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

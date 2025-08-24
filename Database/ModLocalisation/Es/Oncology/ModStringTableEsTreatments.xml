@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_ES_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>es</LanguageCode>
+	<LanguageNameLocalized>Español</LanguageNameLocalized>
+	<Contributors>
+	<Name>DrkTemplar</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Crema de Imiquimod</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>Imiquimod es una crema que actua como modificador de la respuesta inmune para tratar CBC y Queratosis Actínicas. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Terapia Fotodinámica</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>La Terapia Fotodinámica es un tratamiento que usa fármacos fotosensibilizantes junto a una luz especial que destruye las células cancerosas de la piel. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Exéresis Local</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>La exéresis es la eliminación quirúrgica de una pequeña porcion de tejido dañado manteniendo los bordes sanos intactos. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Recomendaciones Oncológicas</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>El médico ofrece consejos y recomendaciones al paciente sobre como sobrellevar de la mejor manera posible la enfermedad oncológica, opciones de tratamiento y los cuidados paliativos, asegurando la calidad de vida del paciente durante todo el proceso. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Terapia Dirigida</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>La Terapia Dirigida es una forma de medicina molecular, dirigida por bloques de terapia en el crecimiento de las células cancerosas al interferir con moléculas dirigidas específicas necesarias para la carcinogénesis y el crecimiento tumoral,​ en lugar de simplemente interferir con todas las células que se dividen rápidamente. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Quimioterapia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>La Quimioterapia es una técnica terapéutica que consiste en la administración de sustancias químicas para el tratamiento de distintas afecciones, siendo comúnmente asociada a la terapia contra el cáncer. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Cirugía Laparoscópica</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>La Cirugía Laparoscópica es un procedimiento quirúrgico menos invasivo que la cirugía convencional. Mediante pequeñas incisiones se introducen los instrumentos y cámaras necesarias para llevar a cabo la intervención. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Lobectomía Pulmonar</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>La lobectomía es un procedimiento quirúrgico para extirpar uno de los lóbulos de los pulmones. El procedimiento se suele realizar cuando se identifica un cáncer de pulmón en estadio inicial, lo que permite preservar el resto de pulmón sano. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Embolización Endovascular</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>Es un procedimiento para tratar vasos sanguíneos anormales en el cerebro y otras partes del cuerpo. Es una alternativa a la cirugía abierta ya que se realiza mediante un cateter muy fino y largo, normalmente a traves de la arteria femoral. Este procedimiento interrumpe el riego sanguíneo a cierta parte del cuerpo. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Inmunoterapia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>La inmunoterapia, también denominada terapia biológica, es un tipo de tratamiento para el cáncer que estimula las defensas naturales del cuerpo a fin de combatir el cáncer. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Reconstrucción Nerviosa</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>La Reconstrucción Nerviosa es un procedimiento quirúrgico mediante el cual se elimina la parte dañada de un nervio para posteriormente reconectarlo directamente si la longitud existente en ambos extremos lo permite sin presentar tensión. \n\nSala requerida: Quirófano en dpto. de Neurología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
+	<Text>Autoinyector de Adrenalina</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
+	<Text>La adrenalina es el tratamiento de elección ante reacciones alergicas muy intensas (reacciones anafilácticas). Los autoiyectores facilitan la tarea de administrar el fármaco a cualquier persona, profesional o no. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>Polipectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>La polipectomía endoscópica es una técnica endoscópica en la que mediante el uso de un endoscopio y un electrobisturí (fuente de diatermia) se provoca el paso de corriente eléctrica a través de un lazo metálico (asa de polipectomía), que se pasa a través del canal de trabajo del endoscopio, englobando al pólipo y provocando el corte del mismo con el paso de la corriente eléctrica, extirpándose de la pared del tubo digestivo. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Colectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>La colectomía es la extirpación quirúrgica o resección de una parte enferma del intestino grueso, también conocido como colon. En casos extremos puede ser necesaria la extirpacion completa del intestino grueso. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>Suprarrenalectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>La suprarrenalectomía es la extirpación de una o ambas glándulas suprarrenales. El procedimientos se puede realizar mediante cirugía laparoscópica o cirugía abierta. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE</LocID>                                    	
+	<Text>Mitotano</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE_DESC</LocID>                        	
+	<Text>El mitotano, vendido bajo la marca Lysodren, es un inhibidor de la esteroidogénesis y un medicamento antineoplásico citostático que se usa en el tratamiento del carcinoma adrenocortical y el síndrome de Cushing. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Espironolactona</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>La espironolactona es un medicamento usado como diurético por sus propiedades antagonistas de la aldosterona. La espironolactona es un fármaco sintético derivado de la 17-lactona, el cual es un antagonista competitivo renal de la aldosterona y un diurético ahorrador de potasio y usado como diurético. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Inyección de Octreótidos</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>Los Octreotidos se usan en el tratamiento del los tumores relacionados con la hormona del crecimiento y puede ayudar a estabilizar una crisis carcinoide. \n\nSala requerida: Cualquier despacho</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SL_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Monitorización Activa</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>La Monitorización Activa es la vigilancia contínua del paciente de sus constantes vitales mediante equipos y analíticas seriadas. \n\nSala requerida: Cualquier despacho de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_HYPER_CVAD</LocID>                                    	
+	<Text>Hiper-CVAD</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>Abreviación de una combinación quimioterapéutica, Hiper-CVAD incluye medicamentos como ciclofosfamida, sulfato de vincristina, clorhidrato de doxorrubicina (Adriamicina), y dexametasona. Tambien incluye los medicamentos metotrexato y citarabina. Se administra como terapia hiperfraccionada, en la cual la dosis total del medicamento se divide en dosis pequeñas. \n\nSala requerida: Vigilancia Intensiva en el dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>Esplenectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>La esplenectomía es un procedimiento quirúrgico que elimina parcial o totalmente el bazo dañado o enfermo. El bazo ayuda al cuerpo a combatir los gérmenes y las infecciones e igualmente ayuda a filtrar la sangre. Una de sus funciones es la eliminación de los glóbulos rojos viejos y plaquetas, así como la detección y la lucha contra ciertas bacterias. Funciona como espacio para el desarrollo de nuevos glóbulos rojos de los progenitores hematopoyéticos de células madre, y en particular en situaciones en las que la médula ósea, el lugar normal para este proceso, se ha visto comprometida por un trastorno como la leucemia. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF</LocID>                                    	
+	<Text>G-CSF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF_DESC</LocID>                        	
+	<Text>El factor estimulante de colonias de granulocitos (G-CSF por sus siglas en inglés) es una glucoproteína que promueve la maduración de células precursoras localizadas en la médula ósea a neutrófilos. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE</LocID>                                    	
+	<Text>Metotrexato IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE_DESC</LocID>                        	
+	<Text>El metotrexato es un fármaco desarrollado como un análogo estructural del ácido fólico.​ Como antagonista del ácido fólico, bloquea la síntesis de purinas al inhibir numerosas enzimas regulatorias.​ El metotrexato es usado en el tratamiento del cáncer. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Alemtuzumab IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>El Alemtuzumab es un medicamento que pertenece a la familia de los anticuerpos monoclonales y se emplea en el tratamiento de la leucemia linfocítica crónica, linfoma cutáneo de células T, linfoma de células T y esclerosis múltiple. También se utiliza en algunos protocolos terapéuticos del trasplante de médula ósea y el trasplante de riñón. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH</LocID>                                    	
+	<Text>Inhibidores BRAF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
+	<Text>Los Inhibidores BRAF son medicamentos pueden reducir el tamaño o desacelerar el crecimiento de los melanomas que se han propagado o no se pueden extraer totalmente. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>Tamoxifeno</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>El tamoxifeno es un medicamento que se emplea como terapia complementaria para el cáncer de mama. Se utiliza durante un periodo de 5 años tras finalizar la cirugía y quimioterapia y ha demostrado en diferentes estudios que disminuye considerablemente la probabilidad de que se produzca una reincidencia del tumor. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Mastectomía Parcial</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>Cirugía para conservar la mama. Se extirpan el tumor y parte del tejido normal que lo rodea, pero no se extirpa la mama. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>Suero Salino Hipertónico</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>La solución salina hipertónica tiene una concentración de sodio mayor que las soluciones isotónicas, que tienen concentraciones similares a las de la sangre. La solución salina hipertónica puede beneficiar a los pacientes con aumento de la presión intracraneal ya que ayuda a regular los niveles de líquido. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Drenaje</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Incisión y vaciado para drenar el contenido líquido de una colección o herida bajo la piel. \n\nSala requerida: Unidad Diagnóstica de Oncología / Despacho de Oncología / UCI / Observación</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>Citorreducción</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>La citorreducción, también llamada cirugía citorreductora, es un procedimiento quirúrgico para tratar el cáncer en algunas localizaciones. Consiste en extraer mediante cirugía la mayor cantidad posible de tejido maligno. La cirugía citorreductora no pretende la extirpación completa del cáncer ni la curación, pero tiene importantes ventajas como tratamiento, entre ellas mejorar la calidad de vida del paciente y los síntomas que presenta. \n\nSala requerida: Quirófano en dpto. de Neurología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>Craneotomía y Resección Total </Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>La eliminación total o mayoritaria del tejido canceroso del cerebro según la imagen diagnóstica de la resonancia magnética. \n\nSala requerida: Quirófano en dpto. de Neurología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Crema de Estradiol</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>Las Cremas Estradiol se usa en el tratamiento de los síntomas de la menopausia como calores menopáusicos, sequedad, quemazón, e irritación en la región de la vagina. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>Salpingooforectomía </Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>La extirpación de un ovario junto con la trompa de Falopio. Este tipo de cirugía preserva la fertilidad, aunque la insuficiencia ovárica puede ser relativamente frecuente. La mayoría de los riesgos y consecuencias a largo plazo no están presentes o solo están parcialmente presentes en la ooforectomía parcial. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>Prostatectomía Radical</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>La prostatectomía (extracción de la próstata) es la cirugía para extirpar toda la glándula prostática y algunos tejidos alrededor de esta. Se realiza con el fin de tratar el cáncer de próstata. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Terapia Hormonal</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>El uso de hormonas para cubrir la carencia natural de las mismas o por su acción conocida contra ciertos tipos de enfermedades. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>Paratiroidectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>La paratiroidectomía es la cirugía para extraer las glándulas paratiroideas o tumores paratiroideos. Las glándulas paratiroideas están justo por detrás de la glándula tiroidea en el cuello. Estas glándulas le ayudan al cuerpo a controlar el nivel de calcio en la sangre. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>Quimioterapia R-CHOP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOP es un régimen de cuatro medicamentos que se conocen como CHOP (ciclofosfamida, doxorrubicina, vincristina y prednisona), más el anticuerpo monoclonal rituximab. Es de elección en el tratamiento de los Linfomas no Hodgkin. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>Rituximab</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>El rituximab es un anticuerpo monoclonal quimérico múrido y humano, obtenido por ingeniería genética. El rituximab se une específicamente al antígeno CD20, una fosfoproteína transmembranaria no glucosilada que se expresa en los linfocitos pre-B y B maduros. Este antígeno se expresa en más del 95 % de los linfomas no hodgkinianos (LNH) de linfocitos B. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
+	<Text>Gemcitabina</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE_DESC</LocID>                        	
+	<Text>La Gemcitabina es un medicamento que pertenece al grupo de los análogos de nucleósidos y se utiliza como agente quimioterápico para el tratamiento de distintos tipos de cáncer, incluyendo cáncer de pulmón no microcítico, cáncer de páncreas, cáncer de vejiga y cáncer de mama. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT</LocID>                                    	
+	<Text>Tratamiento POC</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT_DESC</LocID>                        	
+	<Text>Pamidronate y Octreótidos en combinación. Hay informes que sugieren que puede ayudar a aliviar los dolores óseos y el Síndrome de Pierre-Marie-Bambergerin. No es un tratamiento curativo.  \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>La resección segmentaria es un procedimiento quirúrgico para extirpar parte de un órgano o glándula, como un subtipo de resección, que podría implicar la extirpación de todo el cuerpo. También se puede usar para extirpar un tumor y tejido normal a su alrededor. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP</LocID>                                    	
+	<Text>Tratamiento FEP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
+	<Text>5-Fluorouracil (5-FU), Cisplatino y Etoposide (FEP) en combinacion. Es un tratamiento efectivo en los tumores gástricos y también se usa como quimioterapia de rescate. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL</LocID>                                    	
+	<Text>Ammonul</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL_DESC</LocID>                        	
+	<Text>Ammonul (benzoato sodico y fenilacetato sodico en combinación) se usa en el tratamiento de los niveles de amoníaco en sangre. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE</LocID>                                    	
+	<Text>Lactulosa</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE_DESC</LocID>                        	
+	<Text>La Lactulosa se administra por via rectal u oral para prevenir las complicaciones asociadas de la encefalopatía hepática, reduciendo los niveles de amoníaco en sangre. No es un tratamiento curativo, pero previene mayor daño al tejido cerebral. \n\nSala requerida: Cualquier despacho.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>Hepatectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>Cirugía para extirpar todo el hígado o una parte del mismo. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Transplante Hepático</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>El trasplante de hígado o trasplante hepático es el reemplazo de un hígado enfermo por un hígado sano alógrafo. La técnica más comúnmente usada es el trasplante ortotópico, es decir, que el hígado del paciente enfermo es reemplazado por el hígado del donante en la posición anatómica original. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Inmunosupresores</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Un inmunosupresor es una sustancia química que produce la inmunosupresión del sistema inmunitario. Puede ser exógeno como los fármacos inmunosupresores o endógeno como el cortisol.​ Se usan para prevenir el rechazo de órganos transplantados. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Parotidectomía</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>Una parotidectomía es la escisión quirúrgica de la glándula parótida, la mayor y más grande de las glándulas salivales. El procedimiento generalmente se realiza debido a neoplasias. \n\nSala requerida: Quirófano en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

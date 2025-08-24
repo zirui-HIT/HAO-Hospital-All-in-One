@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_NEW_PSYCHIATRY_BUILDING_MODE">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>Leo</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_OFFICE</LocID>
+				<Text>心理医学诊室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_OFFICE_DESCRIPTION</LocID>
+				<Text>综合医院心理医学医生的诊室，一般也充当心理治疗室的角色。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_NEW_PSY_OFFICE</LocID>
+				<Text>诊断室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_NEW_PSY_OFFICE_DESCRIPTION</LocID>
+				<Text>心理医学的住院患者诊疗室。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>OBJECT_NEW_PSY_MECT</LocID>
+				<Text>改良电休克治疗（MECT）设备</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>OBJECT_NEW_PSY_MECT_DESC</LocID>
+				<Text>改良电休克治疗（MECT）设备通过小量电流诱发全面性惊厥发作以治疗心境障碍和精神分裂症等精神障碍，即进行MECT，改良电休克治疗的一种设备。国内主要使用醒脉通和思倍通系列。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_UNIQUE_NEW_PSY_OFFICE</LocID>
+				<Text>改良电休克治疗室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_UNIQUE_NEW_PSY_OFFICE_DESC</LocID>
+				<Text>进行改良电休克治疗的特殊单元，提供全身麻醉、加压给氧、EEG/ECG监测及相关抢救措施。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_SLEEPING_EXAMINATION_ROOM</LocID>
+				<Text>睡眠检查室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_SLEEPING_EXAMINATION_ROOM_DESCRIPTION</LocID>
+				<Text>进行睡眠检查的特殊单元。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEUROVASCULAR_INTERVENTION_OPERATING_ROOM</LocID>
+				<Text>神经血管介入操作间</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEUROVASCULAR_INTERVENTION_OPERATING_ROOM_DESC</LocID>
+				<Text>进行神经介入手术的特殊单元。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>COMPOSITE_OBJECT_CAMP_BED2</LocID>
+				<Text>（专用）介入血管造影机</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>COMPOSITE_OBJECT_CAMP_BED2_DESC</LocID>
+				<Text>神经介入专用血管造影机。注：由于游戏内部资产识别机制和神经介入操作的代码实现逻辑，该对象将不可避免地出现在不该出现的选择菜单中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>OBJECT_ANGIO_IMAGINGx</LocID>
+				<Text>（专用）介入血管造影显示</Text>
+			</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

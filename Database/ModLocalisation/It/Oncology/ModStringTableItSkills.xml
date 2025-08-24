@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_IT_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>it</LanguageCode>
+	<LanguageNameLocalized>Italiano</LanguageNameLocalized>
+	<Contributors>
+		<Name>neoxes</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_ONCOLOGY</LocID>                                          	
+		<Text>Reparto di Oncologia</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+		<Text>Oncologia</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+		<Text>La specializzazione in oncologia viene utilizzata in esami specialistici e per la prescrizione di trattamenti presso il reparto di oncologia e consente al medico di assistere in chirurgia.</Text>  
+		</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+		<Text>Chirurgia Oncologica</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+		<Text>La chirurgia oncologica consente al medico di agire come principale chirurgo presso il reparto di oncologia e influisce sulla frequenza con cui gli interventi chirurgici si concluderanno con complicanze.</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

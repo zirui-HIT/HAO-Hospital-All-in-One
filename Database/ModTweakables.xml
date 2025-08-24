@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <GameDBTweakableInt ID="TWEAKABLE_MAX_FLOORS">
+        <Value>12</Value>
+    </GameDBTweakableInt>
+
+    <GameDBTweakableInt ID="TWEAKABLE_MAX_INSURANCE_COMPANIES">
+        <Value>32</Value>
+    </GameDBTweakableInt>
+
+    <GameDBTweakableFloat ID="TWEAKABLE_COLLAPSE_REPEAT_MIN_HOURS">
+        <Value>12.0</Value>
+    </GameDBTweakableFloat>
+
+    <GameDBTweakableFloat ID="TWEAKABLE_COLLAPSE_REPEAT_MAX_HOURS">
+        <Value>18.0</Value>
+    </GameDBTweakableFloat>
+
+    <!-- <GameDBTweakableInt ID="FIRST_NAME_COUNT">
+        <Value>992</Value>
+    </GameDBTweakableInt>
+
+    <GameDBTweakableInt ID="SURNAME_COUNT">
+        <Value>60</Value>
+    </GameDBTweakableInt> -->
+
+    <GameDBTweakableFloat ID="DLC_TRAINING_HOURLY_IMPROVEMENT">
+        <Value>0.12</Value>
+    </GameDBTweakableFloat>
+
+    <GameDBTweakableFloat ID="DLC_TRAINING_HOURLY_IMPROVEMENT_FAST_LEARNER">
+        <Value>0.2</Value>
+    </GameDBTweakableFloat>
+
+    <GameDBTweakableFloat ID="TWEAKABLE_WALKING_ADDED_DIRT">
+        <Value>0.0</Value>
+    </GameDBTweakableFloat>
+
+    <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_LEAVE_TIME_HOURS">
+        <Value>240</Value>
+    </GameDBTweakableFloat>
+
+    <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_LEAVE_WARNING_HOURS">
+        <Value>236</Value>
+    </GameDBTweakableFloat>
+
+    <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_MAX_WAIT_TIME_HOURS">
+        <Value>240</Value>
+    </GameDBTweakableFloat>
+
+</Database>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_HU_ADDON_CRP_SLEEPYPL_TREATMENTS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT</LocID>                         
+			<Text>Nézd és várj</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_WATCH_WAIT_DESC</LocID>                         
+			<Text>A figyelés és a várakozás magában foglalja a páciens állapotának szoros megfigyelését, anélkül, hogy bármilyen kezelést végeznének, amíg a tünetek megjelennek vagy megváltoznak. Általában ezekben a helyzetekben a test természetes meggyógyulásának hagyása az előnyben részesített megközelítés, mivel a kezelések komplikációk kockázatát hordozhatják. \n\nRequired room: Any office</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+			<Text>Epinefrin autoinjektor</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+			<Text>Az adrenalin-autoinjektor olyan orvostechnikai eszköz, amely mért adag vagy adrenalin-adagok injektálására szolgál autoinjektoros technológiával. Leggyakrabban anafilaxia kezelésére használják. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A</LocID>                                    	
+			<Text>Trimetoprim-szulfametoxazol</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_MRSA_TREATMENT_A_DESC</LocID>                        	
+			<Text>Első vonalbeli MRSA terápia: Trimetoprim-Szulfametoxazol (TMP-SMX; Bactrim DS, Septra DS. Sulfamethoprim-DS). Ez a szer rendkívül hatékonynak bizonyult a meticillin-rezisztens Staphylococcus Aureus kezelésében. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT</LocID>                                    	
+			<Text>Kompressziós ruházat</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_COMPRESSION_GARMENT_DESC</LocID>                        	
+			<Text>Zsírleszívás után kompressziós ruha viselése elősegíti a test felépülését és növeli a betegek kényelmét a gyógyulási folyamat során. A kompressziós ruházat segít a műtét által okozott túlórák, zacskó vagy szabálytalan bőrfelület jellemzőinek kijavításában. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION</LocID>                                    	
+			<Text>Intravénás lipid emulzió</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_INTRA_LIPIDEMULSION_DESC</LocID>                        	
+			<Text>A lipid emulzió vagy a zsír emulzió a humán intravénás alkalmazásra szánt lipid emulzióra utal. Gyakran a leggyakrabban használt változat márkaneve, az Intralipid, amely szójababolaj, tojásfoszfolipidek és glicerin emulziója, 10%, 20% és 30% koncentrációban kapható. Az intravénás lipid emulzió bevett, hatékony kezelés a helyi érzéstelenítés által kiváltott kardiovaszkuláris összeomlás esetén. Hatásmechanizmusának meghatározó elmélete az, hogy egy kibővített, intravaszkuláris lipidfázis létrehozásával olyan egyensúly alakul ki, amely a vétkes gyógyszert a célszövetekből az újonnan kialakult „lipid süllyesztőbe” tereli. \n\nRequired room: Regular Hospitalisation at any dpt.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX</LocID>                                    	
+			<Text>Botulinum Toxin</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_BOTOX_DESC</LocID>                        	
+			<Text>A botulinum toxin (Botox) egy neurotoxikus fehérje, amelyet a Clostridium botulinum baktérium és rokon fajok termelnek. Megakadályozza az acetilkolin neurotranszmitter felszabadulását a neuromuszkuláris csomópont axonvégződéseiből, és így petyhüdt bénulást okoz. Bár hasznos a plasztikai sebészeti eljárások során, a botulinum toxin a legmérgezőbb anyag. Mérgezés természetesen előfordulhat akár seb- vagy bélfertőzés következtében, vagy az előre elkészített toxin étellel történő bevitelével. Az A típusú toxin becsült emberi halálos dózisa intravénásan vagy intramuszkulárisan 1,3–2,1 ng / kg, belégzéskor 10–13 ng / kg, szájon át pedig 1000 ng / kg.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP</LocID>                                    	
+			<Text>Atropin szemcseppek</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_ATROPINE_EYEDROP_DESC</LocID>                        	
+			<Text>Az Atropine szemcsepp az antimuszkarin szerek nevű gyógyszerek osztályába tartozik. A szem pupillájának kitágítására (nagyítására) és a lencse ideiglenes megbénítására szolgál, hogy orvosa megvizsgálhassa a szeme (ke) t. A cikloplegikus gyógyszerek, például az atropin-szulfát egészséges szembe juttatása elmosódott látást és a különböző távolságokra való fókuszálás képességének elvesztését okozza, és a lusta szemet kompenzációra kényszeríti.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH</LocID>                                    	
+			<Text>Szemkendő</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_EYE_PATCH_DESC</LocID>                        	
+			<Text>A szemfolt a blokkolja a páciens erősebb szemének látását. Ez arra kényszeríti a gyengébb, vagy "lusta" szemet, hogy erősebben dolgozzon, hogy javuljon a látás.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS</LocID>                                    	
+			<Text>Kortikoszteroid szemcseppek</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_EYEDROPS_DESC</LocID>                        	
+			<Text>Szemészeti kortikoszteroidokat (kortizon-szerű gyógyszerek) alkalmaznak a szem maradandó károsodásának megelőzésére, amely bizonyos szemproblémákkal vagy műtét miatt jelentkezhet. Megkönnyítik a bőrpírt, az irritációt és más kellemetlenségeket is. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L</LocID>                                    	
+			<Text>Alfa hidroxisav hámlasztó</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHEMPEEL_L_DESC</LocID>                        	
+			<Text>Az alfa-hidroxisavak (AHA-k) általában citromból (citrusfélék), glikolos (cukornádból), tejsavból (erjesztett tej), almasavból (alma) és borkősavból (szőlő) származnak. Általában a glikolsavat és a tejsavat használják a leggyakrabban. Az AHA-k az összes kémiai hámlasztás közül a legkönnyebbek. Elsősorban nagyon finom vonalak, száraz és dehidratált bőr, enyhe bőr- és pigmenthibák és pattanások kezelésére hasznosak. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY</LocID>                                    	
+			<Text>Szkleroterápia</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SCLEROTHERAPY_DESC</LocID>                        	
+			<Text>A szkleroterápia olyan kémiai oldat injekcióját foglalja magában az erekbe, általában pók- vagy visszeres lábakon. A szkleroterápia irritálja az érfalakat, így összetapad. Ez az erek fibrózisához vagy hegesedéséhez vezet. A szklerózisos oldattal befecskendezett nem kívánt vénák hetek alatt feloldódnak, miközben a test természetes módon felszívja a kezelt vénát. A szkleroterápia egy nem invazív eljárás, amely csak körülbelül 10 percet vesz igénybe. Az állásidő minimális, összehasonlítva egy invazív visszeres műtéttel. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT</LocID>                                    	
+			<Text>Bőr lézerterápia</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_SKIN_LT_DESC</LocID>                        	
+			<Text>A lézerterápia vagy a lézeres felújítás olyan eljárás, amely lézerrel javítja a bőr megjelenését, vagy a bőrrétegek eltávolításával kezeli a kisebb archibákat. A két leggyakoribb felújító lézertípus a; A szén-dioxid (CO2), ez a fajta lézer a ráncok, hegek, szemölcsök és egyéb állapotok kezelésére szolgál. A második típus az Erbium, ez a típusú lézer az arc, a kéz, a nyak és a mellkas felületes és közepesen mély vonalainak és ráncainak eltávolítására szolgál. Kevesebb mellékhatást okoz, mint a CO2 lézerek.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT</LocID>                                    	
+			<Text>Enzim injekciók (CCH)</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CHE_INJECT_DESC</LocID>                        	
+			<Text>Egyfajta enzim, általában a C histolyticumból kivont kollagenáz injekció a beteg tenyér feszes zsinórjába lágy és gyengítheti azt, hogy mindenki az orvos számára, hogy manipulálja a kezét a zsinór eltörése és az ujjak kiegyenesítése miatt. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2</LocID>                                    	
+			<Text>Kortikoszteroid injekciók</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CORTICOSTEROID_INJECTIONS2_DESC</LocID>                        	
+			<Text>A kortikoszteroidok (más néven szteroidok) olyan gyógyszerek, amelyek gyulladás kezelésére alkalmazhatók. Ha kortikoszteroidokat injektálnak egy fájdalmas területre vagy annak környékére (például ízületbe vagy izomba), csökkenthetik a gyulladást ezen a területen, enyhítve a fájdalmat, csökkentve a szövetek duzzadását, javítva a funkciókat és a mobilitást. Az orvos kortikoszteroid oldatot injektálhat közvetlenül egy hipertrófiás hegbe vagy keloidba, ami hozzájárulhat annak méretének csökkentéséhez. A szteroidok megszakítják a kollagén rostok közötti kötéseket, ami csökkenti a hegszövet mennyiségét a bőr alatt.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY</LocID>                                    	
+			<Text>Kriosebészet</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_CRYOSURGERY_DESC</LocID>                        	
+			<Text>A kriosebészet olyan típusú műtét, amely extrém hideg alkalmazásával jár a rendellenes szövetek, például a daganatok elpusztítására. A műtét leggyakrabban folyékony nitrogén alkalmazásával jár, bár szén-dioxid és argon is alkalmazható. A kriosebészet a fagypont hőmérsékletének sejtekre gyakorolt romboló erejének kihasználásával működik. Amikor hőmérsékletük egy bizonyos szint fölé süllyed, jégkristályok kezdenek kialakulni a sejtek belsejében, és alacsonyabb sűrűségük miatt végül széttépik ezeket a sejteket. A rosszindulatú növekedés további károsodása akkor következhet be, ha az érintett szövetet ellátó erek megfagynak.  \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL</LocID>                                    	
+			<Text>Hialuronsav töltőanyag</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>TRT_CRP_HYAACID_FILL_DESC</LocID>                        	
+			<Text>Az injektálható hialuronsav (HA) egyfajta ideiglenes dermális töltőanyag. A hialuronsav természetesen a testen keresztül található meg, a legmagasabb koncentráció az ízületekben, a szemekben és a bőrben található. A bőrben a hialuronsav vonzza a vizet, ami lehetővé teszi a bőr hidratáltabbá válását. Az injekciós HA-t a finom vonalak és ráncok, az arc redők megjelenésének csökkentésére, valamint az arc és az ajkak szerkezetének, keretének és térfogatának megteremtésére használják. Az injekciós hialuronsav hatása azonnal észlelhető. \n\nRequired room: Any office</Text>  
+		</GameDBLocalizedString>
+
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

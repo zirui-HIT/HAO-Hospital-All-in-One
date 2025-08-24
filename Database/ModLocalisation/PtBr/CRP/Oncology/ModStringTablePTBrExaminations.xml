@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_PTBR_ADDON_CRP_SLEEPY_EXAMINATIONS">
+
+        <LanguageCode>ptbr</LanguageCode>
+        <LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Cratus</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT</LocID>                                      
+			<Text>Amostragem de sangue de catecolamina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_DESC</LocID>                                      
+			<Text>Os exames de sangue das catecolaminas medem a quantidade de catecolaminas no seu corpo. â € œCatecolaminasâ € é um termo genérico para os hormônios dopamina, noradrenalina e epinefrina. \n\nLaboratório necessário: Hematologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST</LocID>                                      
+			<Text>Teste de sangue de catecolamina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>                                      
+			<Text>Os exames de sangue das catecolaminas medem a quantidade de catecolaminas no seu corpo. â € œCatecolaminasâ € é um termo genérico para os hormônios dopamina, noradrenalina e epinefrina.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA</LocID>                                      
+			<Text>Amostragem de sangue CA</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_DESC</LocID>                                      
+			<Text>Um teste de antígeno do câncer (CA) é um exame de sangue usado para ajudar a diagnosticar e gerenciar certos tipos de câncer. Marcadores tumorais são substâncias, geralmente proteínas, produzidas pelo organismo em resposta ao crescimento do câncer ou pelo próprio tecido cancerígeno. Alguns marcadores tumorais são específicos para um tipo de câncer, enquanto outros são vistos em vários tipos de câncer. Muitos dos marcadores conhecidos são vistos em condições não cancerosas, bem como no câncer. Consequentemente, eles não podem ser usados para diagnosticar câncer. \n\nLaboratório necessário: Haematologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST</LocID>                                      
+			<Text>Exame de sangue CA</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CA_TEST_DESC</LocID>                                      
+			<Text>Um teste de antígeno do câncer (CA) é um exame de sangue usado para ajudar a diagnosticar e gerenciar certos tipos de câncer. Marcadores tumorais são substâncias, geralmente proteínas, produzidas pelo organismo em resposta ao crescimento do câncer ou pelo próprio tecido cancerígeno. Alguns marcadores tumorais são específicos para um tipo de câncer, enquanto outros são vistos em vários tipos de câncer. Muitos dos marcadores conhecidos são vistos em condições não cancerosas, bem como no câncer. Consequentemente, eles não podem ser usados para diagnosticar câncer.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY</LocID>                                      
+			<Text>Colonoscopy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>A colonoscopy is a medical procedure that is done to look for cancer, colon polyps or other abnormalities inside your bowel. Colonoscopy is done using an instrument called a colonoscope (a type of endoscope) â€” a long, thin, flexible tube containing a camera and a light.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS</LocID>                                      
+			<Text>Amostragem de antígeno na urina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_DESC</LocID>                                      
+			<Text>Teste de urina para verificar a quantidade de antígenos baseados em câncer na urina. Ao capitalizar a concentração de antígeno derramado de uma variedade de patógenos nos rins para excreção na urina, o teste de antígeno urinário pode ser usado para obter resultados rápidos. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST</LocID>                                      
+			<Text>Teste de antígeno na urina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST_DESC</LocID>                                      
+			<Text>Teste de urina para verificar a quantidade de antígenos baseados em câncer na urina. Ao capitalizar a concentração de antígeno derramado de uma variedade de patógenos nos rins para excreção na urina, o teste de antígeno urinário pode ser usado para obter resultados rápidos.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>Amostra de biópsia da medula óssea</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Uma biópsia da medula óssea coleta uma amostra cilíndrica do núcleo que preserva a estrutura da medula. A amostra da biópsia é avaliada por um especialista para determinar a celularidade, o volume de células é comparado ao volume de outros componentes da medula óssea, se as diferentes linhagens celulares estão presentes em número adequado e se há infiltrados anormais na medula. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>Bone Marrow Biopsy Test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>Uma biópsia da medula óssea coleta uma amostra cilíndrica do núcleo que preserva a estrutura da medula. A amostra da biópsia é avaliada por um especialista para determinar a celularidade, o volume de células é comparado ao volume de outros componentes da medula óssea, se as diferentes linhagens celulares estão presentes em número adequado e se há infiltrados anormais na medula.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT</LocID>                                      
+			<Text>Flow Cytometry Sample</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_DESC</LocID>                                      
+			<Text>Flow cytometry is a technique used to detect and measure physical and chemical characteristics of a population of cells or particles. A sample containing cells or particles is suspended in a fluid and injected into the flow cytometer instrument. \n\nRequired Lab: Histology</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST</LocID>                                      
+			<Text>Teste de citometria de fluxo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>A citometria de fluxo é uma técnica usada para detectar e medir características físicas e químicas de uma população de células ou partículas. Uma amostra contendo células ou partículas é suspensa em um fluido e injetada no instrumento do citômetro de fluxo.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CBC_SAMPLING</LocID>                                      
+			<Text>Amostragem CBC</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>Amostra de esfregaço de sangue</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>Um filme de sangue - ou esfregaço de sangue periférico - é uma fina camada de sangue manchada em uma lâmina de vidro do microscópio e depois manchada de forma a permitir que as várias células sanguíneas sejam examinadas microscopicamente. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>Teste de esfregaço de sangue</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>Um filme de sangue - ou esfregaço de sangue periférico - é uma fina camada de sangue manchada em uma lâmina de vidro do microscópio e depois manchada de forma a permitir que as várias células sanguíneas sejam examinadas microscopicamente.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>Amostragem de teste de função hepática</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>Os testes de função hepática (também chamados de LFTs) são exames de sangue que podem fornecer informações sobre como o fígado está funcionando. Eles testam os níveis de várias proteínas e enzimas produzidas pelas células hepáticas ou liberadas no sangue quando as células hepáticas são danificadas. \n\nLaboratório necessário: Haematologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST</LocID>                                      
+			<Text>Teste de função hepática</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>Os testes de função hepática (também chamados de LFTs) são exames de sangue que podem fornecer informações sobre como o fígado está funcionando. Eles testam os níveis de várias proteínas e enzimas produzidas pelas células hepáticas ou liberadas no sangue quando as células hepáticas são danificadas..</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE</LocID>                                      
+			<Text>Amostra F.I.S.H.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>A hibridação fluorescente in situ (FISH) é uma técnica citogenética molecular que utiliza sondas fluorescentes que se ligam apenas às partes de uma sequência de ácido nucleico com um alto grau de complementaridade de sequência. Foi desenvolvido por pesquisadores biomédicos no início dos anos 80 para detectar e localizar a presença ou ausência de sequências específicas de DNA nos cromossomos. A microscopia de fluorescência pode ser usada para descobrir onde a sonda fluorescente está ligada aos cromossomos. O FISH é frequentemente usado para encontrar características específicas no DNA para uso em aconselhamento genético, medicina e identificação de espécies. O FISH também pode ser usado para detectar e localizar alvos específicos de RNA (mRNA, lncRNA e miRNA) em células, células tumorais circulantes e amostras de tecido. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST</LocID>                                      
+			<Text>Teste de F.I.S.H.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST_DESC</LocID>                                      
+			<Text>A hibridação fluorescente in situ (FISH) é uma técnica citogenética molecular que utiliza sondas fluorescentes que se ligam apenas às partes de uma sequência de ácido nucleico com um alto grau de complementaridade de sequência. Foi desenvolvido por pesquisadores biomédicos no início dos anos 80 para detectar e localizar a presença ou ausência de sequências específicas de DNA nos cromossomos. A microscopia de fluorescência pode ser usada para descobrir onde a sonda fluorescente está ligada aos cromossomos. O FISH é frequentemente usado para encontrar características específicas no DNA para uso em aconselhamento genético, medicina e identificação de espécies. O FISH também pode ser usado para detectar e localizar alvos específicos de RNA (mRNA, lncRNA e miRNA) em células, células tumorais circulantes e amostras de tecido.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>Amostragem de coloração in vitro</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>A coloração é uma técnica usada para aumentar o contraste nas amostras, geralmente no nível microscópico. Manchas e corantes são freqüentemente usados em histologia (estudo de tecido sob o microscópio) e nos campos médicos de histopatologia, hematologia e citopatologia que se concentram no estudo e diagnosticam doenças em nível microscópico. As manchas podem ser usadas para definir tecidos biológicos (destacando, por exemplo, fibras musculares ou tecido conjuntivo), populações de células (classificando diferentes células sanguíneas) ou organelas em células individuais. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST</LocID>                                      
+			<Text>Teste de coloração in vitro</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>A coloração é uma técnica usada para aumentar o contraste nas amostras, geralmente no nível microscópico. Manchas e corantes são freqüentemente usados em histologia (estudo de tecido sob o microscópio) e nos campos médicos de histopatologia, hematologia e citopatologia que se concentram no estudo e diagnosticam doenças em nível microscópico. As manchas podem ser usadas para definir tecidos biológicos (destacando, por exemplo, fibras musculares ou tecido conjuntivo), populações de células (classificando diferentes células sanguíneas) ou organelas em células individuais.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>Mamografia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>A mamografia é um raio-x do tecido mamário que pode encontrar alterações muito pequenas para serem sentidas durante um exame físico. \n\nSala necessária: Raio-X</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE</LocID>                                      
+			<Text>Amostra de Aspiração de Agulha Fina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>A aspiração por agulha fina é um procedimento de biópsia mais rápido e menos doloroso para remover amostras de tecidos, células ou fluidos. Na aspiração por agulha fina, uma agulha fina é inserida em uma área de tecido ou fluido corporal com aparência anormal. Como em outros tipos de biópsias, a amostra coletada durante a aspiração por agulha fina pode ajudar a diagnosticar ou descartar condições como câncer. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST</LocID>                                      
+			<Text>Teste de Aspiração de Agulha Fina</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST_DESC</LocID>                                      
+			<Text>A aspiração por agulha fina é um procedimento de biópsia mais rápido e menos doloroso para remover amostras de tecidos, células ou fluidos. Na aspiração por agulha fina, uma agulha fina é inserida em uma área de tecido ou fluido corporal com aparência anormal. Como em outros tipos de biópsias, a amostra coletada durante a aspiração por agulha fina pode ser usada para ajudar no diagnóstico.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>                                      
+			<Text>Amostra de microscopia eletrônica</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>A microscopia eletrônica de diagnóstico é usada como uma importante ferramenta de diagnóstico para rastrear tecidos humanos em alta ampliação (o nível ultraestrutural). Para fins de diagnóstico, os tecidos sólidos são preparados para o TEM da mesma maneira que outros tecidos biológicos, são fixados em glutaraldeído e tetróxido de ósmio e depois desidratados e embebidos em resina epóxi. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST</LocID>                                      
+			<Text>Teste de microscopia eletrônica</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>A microscopia eletrônica de diagnóstico é usada como uma importante ferramenta de diagnóstico para rastrear tecidos humanos em alta ampliação (o nível ultraestrutural). Para fins de diagnóstico, os tecidos sólidos são preparados para o TEM da mesma maneira que outros tecidos biológicos, são fixados em glutaraldeído e tetróxido de ósmio e depois desidratados e embebidos em resina epóxi.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM</LocID>                                      
+			<Text>Exame pélvico</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>Um exame pélvico é um exame físico e visual de um médico dos órgãos reprodutivos de uma mulher. Durante o exame, o médico inspeciona a vagina, o colo do útero, as trompas de falópio, a vulva, os ovários e o útero.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM</LocID>                                      
+			<Text>Exame Retal Digital(ERD)</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>                                      
+			<Text>Um exame retal digital (ERD) é um teste para homens e mulheres. Ele permite que um médico verifique o reto inferior, a pelve e a barriga para detectar câncer e outros problemas de saúde, como câncer de próstata.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>                                      
+			<Text>Amostragem de painel mineral abrangente</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>O Painel Mineral Abrangente inclui o teste de cinco minerais no sangue e é usado para detectar deficiências ou superexposição (toxicidade) em todo o espectro mineral. Este painel inclui níveis de teste dos cinco minerais a seguir: Cálcio, Cobre, Magnésio, Manganês e Zinco. \n\nLaboratório necessário: Haematologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST</LocID>                                      
+			<Text>Teste abrangente do painel mineral</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>O Painel Mineral Abrangente inclui o teste de cinco minerais no sangue e é usado para detectar deficiências ou superexposição (toxicidade) em todo o espectro mineral. Este painel inclui níveis de teste dos cinco minerais a seguir: Cálcio, Cobre, Magnésio, Manganês e Zinco.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>Amostragem para biópsia de linfonodo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>A biópsia de linfonodo é um teste no qual um linfonodo ou uma parte de um linfonodo é removido para exame sob um microscópio. Uma biópsia de linfonodo pode ajudar a determinar se o paciente tem uma infecção, um distúrbio imunológico ou câncer. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>Teste de biópsia de linfonodo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>A biópsia de linfonodo é um teste no qual um linfonodo ou uma parte de um linfonodo é removido para exame sob um microscópio. Uma biópsia de linfonodo pode ajudar a determinar se o paciente tem uma infecção, um distúrbio imunológico ou câncer.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Amostra de biópsia por colonoscopia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>A colonoscopia é um procedimento médico feito para procurar câncer, pólipos do cólon ou outras anormalidades dentro do intestino. A colonoscopia é feita usando um instrumento chamado colonoscópio (um tipo de endoscópio) - um tubo longo, fino e flexível que contém uma câmera e uma luz. Durante a colonoscopia, o médico passa um instrumento pelo colonoscópio para obter uma biópsia (uma pequena amostra do revestimento do cólon) para posterior análise. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>Teste de biópsia por colonoscopia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>A colonoscopia é um procedimento médico feito para procurar câncer, pólipos do cólon ou outras anormalidades dentro do intestino. A colonoscopia é feita usando um instrumento chamado colonoscópio (um tipo de endoscópio) - um tubo longo, fino e flexível que contém uma câmera e uma luz. Durante a colonoscopia, o médico passa um instrumento pelo colonoscópio para obter uma biópsia (uma pequena amostra do revestimento do cólon) para ser analisada posteriormente.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Amostragem para biópsia hepática</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Uma biópsia hepática é um procedimento no qual uma pequena agulha é inserida no fígado para coletar uma amostra de tecido. O tecido é então analisado em um laboratório para ajudar os médicos a diagnosticar uma variedade de distúrbios e doenças no fígado. \n\nLaboratório necessário: Histologia</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>Teste de biópsia hepática</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Uma biópsia hepática é um procedimento no qual uma pequena agulha é inserida no fígado para coletar uma amostra de tecido. O tecido é então analisado em um laboratório para ajudar os médicos a diagnosticar uma variedade de distúrbios e doenças no fígado.</Text>  
+			</GameDBLocalizedString>
+			
+			
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>Korean</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>S2SKY</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE</LocID>                    			<Text>성건강 진료실</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>        			<Text>성건강 진료실은 평범한 외래환자용 진료실입니다. /n반드시 필요한 직원:\n1x 의사</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB</LocID>                    			<Text>성건강 실험실</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>        			<Text>성건강 실험실은 다양한 진단법을 확인하기 위해 다양한 검사를 제공합니다 \n반드시 필요한 직원:\n1x 의료기사</Text>  </GameDBLocalizedString>
+		<GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_SH_OFFICE</LocID>                   <Text>관찰실</Text>   </GameDBLocalizedString>
+        <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_SH_OFFICE_DESCRIPTION</LocID>       <Text>성건강 의학과의 관찰실은 입원한 환자들을 위한 검사 및 치료를 제공합니다 \n\n반드시 필요한 직원: \n1x 의사 \n(Personnel based in On-call room)</Text></GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

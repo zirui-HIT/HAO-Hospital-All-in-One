@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_OTOR_TREATMENTS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+    <Name>WDZRMCBIT</Name>
+    </Contributors>
+    <LocalizedStrings>
+
+    <GameDBLocalizedString>      
+    <LocID>SURG_OTOR_CDLS</LocID>                                       
+    <Text>二氧化碳激光手术</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+      <LocID>TRT_CRP_SALINE_NASAL_SPRAY</LocID>
+      <Text>盐水鼻喷雾剂</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SURG_OTOR_CDLS_DESCRIPTION</LocID>                           
+    <Text>二氧化碳激光器（CO2激光器）是最早被开发的气体激光器之一。它由贝尔实验室的库马尔·帕特尔于1964年发明，至今仍是最有用的激光器之一。二氧化碳激光器是目前可用的最高功率的连续波激光器。它们也非常高效：输出功率与泵浦功率之比可高达20%。CO2激光器产生一束红外光，主要波长带集中在9.4和10.6微米。</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     <LocID>SURG_OTOR_ARHN</LocID>                                       
+    <Text>隆鼻术</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      <LocID>SURG_OTOR_ARHN_DESCRIPTION</LocID>                           
+    <Text>鼻整形术可能需要添加材料来增高鼻子。出于美容和功能性适应症，增高是必要的。功能性原因包括为材料缺失的区域（如上或下外侧软骨）提供结构支撑。也可能出于美容原因需要增高。通常，隆鼻术是为了在侧面视角上增加鼻梁的突出度。鼻尖也可以进行增高。此外，可以放置移植物来掩盖鼻骨梁和上或下外侧软骨的不规则之处。</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+    <LocID>SURG_OTOR_ENDOSCOPIC_CAUTERIZATION</LocID>                    
+    <Text>内窥镜烧灼术</Text>   
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+    <LocID>SURG_OTOR_PULMONARY_SURGERY_X</LocID>    
+    <Text>肺部手术</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SURG_OTOR_PULMONARY_SURGERY_X_DESCRIPTION</LocID>                 
+    <Text>肺部手术是为修复或切除受损肺组织部分而进行的手术。\n\n所需房间：创伤科手术室 + 重症监护室(ICU)</Text>    
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+    <LocID>SURG_OTOR_VASCULAR_SURGERY</LocID>                    
+    <Text>血管外科手术</Text>   
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>   
+    <LocID>SURG_OTOR_VASCULAR_SURGERY_DESCRIPTION</LocID>    
+    <Text>缝合和修复受损动脉的外科手术。\n\n所需房间：创伤科手术室 + 重症监护室(ICU)</Text>
+    </GameDBLocalizedString>
+    
+   <GameDBLocalizedString>     
+    <LocID>TRT_JM_CHEWING_GUM_OR_YAWN</LocID>                           
+    <Text>嚼口香糖和打哈欠</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>TRT_JM_CHEWING_GUM_OR_YAWN_DESC</LocID>                                      
+    <Text>嚼口香糖和打哈欠可以帮助打开咽鼓管，以缓解耳内压力。\n\n所需房间：耳鼻喉科诊断单元/耳鼻喉科医生诊室/重症监护室/观察室</Text>  
+    </GameDBLocalizedString>
+        
+    <GameDBLocalizedString>      
+    <LocID>TRT_JM_ANTACIDS</LocID>                          
+    <Text>抗酸剂</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>TRT_JM_ANTACIDS_DESC</LocID>                                     
+    <Text>抗酸剂是中和胃酸的物质，用于缓解胃灼热、消化不良或反流。\n\n所需房间：耳鼻喉科诊断单元/耳鼻喉科医生诊室/重症监护室/观察室</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      <LocID>TRT_JM_CDLS</LocID>                          
+    <Text>二氧化碳激光</Text>  
+    </GameDBLocalizedString>
+    
+   <GameDBLocalizedString>     
+    <LocID>TRT_JM_CONCETRATED_OXYGEN</LocID>       
+    <Text>高浓度氧气</Text> 
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+    <LocID>TRT_JM_CONCETRATED_OXYGEN_DESCRIPTION</LocID>            
+    <Text>基于呼吸高浓度氧气的疗法。\n\n所需房间：诊室/诊断单元/创伤科烧伤病房/重症监护室/急诊科创伤中心</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>   
+    <LocID>TRT_JM_PROTECTIVE_DRESSING</LocID>                         
+    <Text>保护性敷料</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>   
+    <LocID>TRT_JM_PROTECTIVE_DRESSING_DESCRIPTION</LocID>        
+    <Text>绷带保护性敷料。\n\n所需房间：诊室/诊断单元/创伤科烧伤病房/重症监护室/急诊科创伤中心</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>  
+    <LocID>TRT_JM_DEBRIDEMENT</LocID>               
+    <Text>清创术</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+    <LocID>TRT_JM_DEBRIDEMENT_DESCRIPTION</LocID>             
+    <Text>医疗手段清除坏死组织。\n\n所需房间：诊室/诊断单元/创伤科烧伤病房/重症监护室/急诊科创伤中心</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+    <LocID>TRT_JM_BURN_MANAGEMENT</LocID>          
+    <Text>烧伤处理</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+    <LocID>TRT_JM_BURN_MANAGEMENT_DESCRIPTION</LocID>     
+    <Text>治疗各种类型烧伤的医疗程序。\n\n所需房间：诊室/诊断单元/创伤科烧伤病房/重症监护室/急诊科创伤中心</Text>
+    </GameDBLocalizedString>
+    
+  <GameDBLocalizedString>      
+    <LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                            
+    <Text>静脉注射抗组胺药</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>                                       
+    <Text>静脉（IV）补充抗组胺药。\n\n所需房间：任何诊室/病房/单元</Text>  
+    </GameDBLocalizedString>
+    
+    
+    </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_PTBR_ADDON_URKN_TREATMENTS">
+	<LanguageCode>ptbr</LanguageCode>
+	<LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+	<Contributors>
+	<Name>GuerPlatin</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>Orquiopexia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>A orquiopexia é uma cirurgia para mover um testículo não descido para o escroto e fixá-lo permanentemente. A orquiopexia geralmente também descreve a cirurgia usada para resolver a torção testicular.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>Orquiectomia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>A orquiectomia é um procedimento cirúrgico no qual um ou ambos os testículos são removidos (orquiectomia bilateral). A cirurgia é normalmente realizada como tratamento para câncer de testículo, em alguns casos de torção testicular, como um procedimento de afirmação de gênero para algumas mulheres trans, e às vezes é usada no tratamento do câncer de próstata avançado.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>Bloqueadores α1 seletivos</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>Bloqueadores α1 seletivos. Eles incluem alfuzosina, doxazosina, silodosina, tamsulosina, terazosina e naftopidil</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>Inibidores da 5α-redutase</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>Os inibidores da 5α-redutase finasterida e dutasterida também podem ser utilizados em homens com HBP. Esses medicamentos inibem a enzima 5α-redutase, que, por sua vez, inibe a produção de DHT, um hormônio responsável pelo aumento da próstata..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>Ressecção transuretral da próstata</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>Pensa-se que a ressecção transuretral da próstata seja a abordagem mais eficaz para melhorar os sintomas e o fluxo urinário, no entanto, esse procedimento cirúrgico pode estar associado a complicações em até 20% dos homens.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>Inibidores de PDE5</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>Os inibidores da PDE5 sildenafil (Viagra), vardenafil (Levitra) e tadalafil (Cialis) são medicamentos prescritos que são tomados por via oral.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>Transplante renal</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>Transplante de rim ou transplante renal é o transplante de órgão de um rim em um paciente com doença renal em estágio terminal. O transplante de rim é tipicamente classificado como transplante de doador falecido ou de doador vivo, dependendo da fonte do órgão doador.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>Immunosuppressiva</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>Os imunossupressores são medicamentos que inibem a atividade do sistema imunológico, para garantir que o corpo não rejeite o novo órgão.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>Diálise</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>É um processo de remoção dos resíduos do metabolismo das células da corrente sanguínea, quando os rins não conseguem manter essa função. \n\nQuarto Necessário: Enfermaria de Diálise no Departamento de Urologia \n\nEquipamento Necessário: Máquina de Diálise</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>Enfermaria de Diálise</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>Enfermaria de Diálise</Text>  
+	</GameDBLocalizedString>
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>Vasectomia</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>A vasectomia é um procedimento cirúrgico para esterilização masculina ou contracepção permanente. Durante o procedimento, os vasos deferentes masculinos são cortados e amarrados ou selados de modo a evitar que os espermatozoides entrem na uretra e, assim, evitar a fertilização de uma mulher através da relação sexual.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH</LocID>                               
+		<Text>Nefrectomia parcial</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH_DESC</LocID>                               
+		<Text>A nefrectomia é a remoção cirúrgica de um rim. O procedimento é feito para tratar o câncer renal, bem como outras doenças e lesões renais. A nefrectomia também é realizada para remover um rim saudável de um doador para transplante. Na nefrectomia parcial, apenas a parte doente ou lesada do rim é removida.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH</LocID>                               
+		<Text>Nefrectomia radical</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_DESC</LocID>                               
+		<Text>A nefrectomia é a remoção cirúrgica de um rim. O procedimento é feito para tratar o câncer renal, bem como outras doenças e lesões renais. A nefrectomia também é realizada para remover um rim saudável de um doador para transplante. A nefrectomia radical envolve a remoção de todo o rim, junto com uma seção do tubo que leva à bexiga, à glândula que fica no topo do rim e ao tecido adiposo ao redor do rim.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA</LocID>                               
+		<Text>Nefrectomia radical com trombectomia (VCI)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA_DESC</LocID>                               
+		<Text>A nefrectomia é a remoção cirúrgica de um rim. O procedimento é feito para tratar o câncer renal, bem como outras doenças e lesões renais. A nefrectomia radical com trombectomia da veia cava inferior (VCI) é usada quando o câncer se desenvolve em veias próximas (como acontece com alguns cânceres em estágio III). Seu cirurgião pode precisar abrir essas veias para remover todo o câncer. Isso pode exigir que você faça um bypass (uma máquina de coração-pulmão), para que o coração possa ser interrompido por um curto período de tempo para remover o câncer da grande veia que leva ao coração.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH</LocID>                               
+		<Text>Cateter urinário</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH_DESC</LocID>                               
+		<Text>Cateter urinário: drenando a urina da bexiga urinária como no cateterismo urinário.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD</LocID>                               
+		<Text>Cirurgia da Bexiga</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD_DESC</LocID>                               
+		<Text>Cirurgia da Bexiga.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR</LocID>                               
+		<Text>Reparo transvaginal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR_DESC</LocID>                               
+		<Text>Reparo transvaginal: um procedimento feito através da vagina para que nenhuma grande incisão seja necessária.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH</LocID>                               
+		<Text>Cirurgia renal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH_DESC</LocID>                               
+		<Text>Cirurgia renal</Text>  
+	</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_EN_ADDON_DIAG_EXAMINATIONS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Ollyver</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+            
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_SAMPLE</LocID>                         
+			<Text>C1 blood sampling</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_SAMPLE_DESC</LocID>                         
+			<Text>C1-inhibitor is a protease inhibitor belonging to the serpin superfamily. Its main function is the inhibition of the complement system to prevent spontaneous activation but also as the major regulator of the contact system. \n\nRequired Lab: Hematology</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_TEST</LocID>                         
+			<Text>C1 blood testing</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_TEST_DESC</LocID>                         
+			<Text>Hematology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>	
+		</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_SAMPLE</LocID>
+				<Text>Porphyria urine sampling</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_SAMPLE_DESC</LocID>
+				<Text>A raised urine PBG is the diagnostic hallmark of an acute attack of porphyria. \n\nRequired Lab: Histology</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_TEST</LocID>
+				<Text>Porphyria urine testing</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_TEST_DESC</LocID>
+				<Text>Microbiology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>
+			</GameDBLocalizedString>
+			
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_MANOMETER</LocID>
+				<Text>Manometer</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_MANOMETER_DESC</LocID>
+				<Text>Compartment pressures are often measured with a manometer, a device that detects intracompartmental pressure by measuring the resistance that is present when a saline solution is injected into the compartment. \n\nRequired room: Any ward / unit</Text>
+			</GameDBLocalizedString>
+			
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_ESOPHAGEAL_MANOMETER</LocID>
+				<Text>Esophageal Manometer</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_ESOPHAGEAL_MANOMETER_DESC</LocID>
+				<Text>This test involves placing a thin, pressure-sensitive tube through your nose into your esophagus to measure pressure as you swallow. \n\nRequired room: Any diagnostic unit</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_2</LocID>
+				<Text>Sampling of cerebrospinal fluid is performed by inserting a needle through the lower back into the spinal canal, draining a small amount of the fluid. \n\nRequired room: Histology Lab \n\nSampling: Neurology dpt / DID / Department of Diagnostics \n\nRequired equipment: Glassware + Medical centrifuge + Lab analyzer</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_LARYNGOSCOPY_DESCRIPTION_V1</LocID>
+				<Text>A procedure where a flexible tube (endoscope) with a tiny video camera and a light source in the end is inserted through the nose to examine the larynx, glottis, and vocal chords. Laryngoscopy is also used to facilitate tracheal intubation. \n\nRequired room: Doctor's office / Observation room / Trauma center / ICU / Department of Diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION_V1</LocID>
+				<Text>A procedure where the fundus/retina is visualised through a funduscope/opthalmoscope. \n\nRequired room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Emergency / ICU / Internal Medicine dpt / Neurology dpt / Department of Diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_GASTROSCOPY_DESCRIPTION_V1</LocID>
+				<Text>A procedure where a flexible tube (endoscope) with a tiny video camera and a light source in the end is inserted through the mouth in order to examine the upper part of digestive tract.\n\nRequired room: ICU / Office / Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Cardiology dpt / Department of Diagnostics</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_AUDIOMETRY_DESCRIPTION_V1</LocID>
+				<Text>Audiometric testing determines the patient's level of hearing. \n\nRequired room: Doctor's office / Observation room / ICU / Office / Diagnostic unit at Emergency / ICU / General Surgery dpt / Internal Medicine dpt / Department of Diagnostics</Text>
+			</GameDBLocalizedString>
+			
+			
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

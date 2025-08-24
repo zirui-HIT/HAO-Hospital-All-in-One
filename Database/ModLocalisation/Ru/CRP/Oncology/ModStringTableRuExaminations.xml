@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_CRP_EXAMINATIONS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>U-ru-Ru</Name>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT</LocID>                                      
+			<Text>Кровь на катехоламины</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_DESC</LocID>                                      
+			<Text>Анализ крови на катехоламины измеряет количество катехоламинов в организме. «Катехоламины» - это общий термин, обозначающий гормоны дофамин, норадреналин и адреналин.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST</LocID>                                      
+			<Text>Анализ крови на катехоламины</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>                                      
+			<Text>Анализ крови на катехоламины измеряет количество катехоламинов в организме. «Катехоламины» - это общий термин, обозначающий гормоны дофамин, норадреналин и адреналин.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CEA</LocID>                                      
+			<Text>CEA-тест крови</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CEA_DESC</LocID>                                      
+			<Text>Тест на карциноэмбриональный антиген (СЕА) - это анализ крови, который используется для диагностики и лечения определенных видов рака. Тест CEA используется специально для рака толстой и прямой кишки. Тест СЕА измеряет количество СЕА в крови. Большое количество СЕА в вашем теле после лечения или операции предполагает, что рак по прежнему присутствует в организме. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CEA_TEST</LocID>                                      
+			<Text>CEA-тест крови</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CEA_TEST_DESC</LocID>                                      
+			<Text>Тест на карциноэмбриональный антиген (СЕА) - это анализ крови, который используется для диагностики и лечения определенных видов рака. Тест CEA используется специально для рака толстой и прямой кишки. Тест СЕА измеряет количество СЕА в крови. Большое количество СЕА в вашем теле после лечения или операции предполагает, что рак по прежнему присутствует в организме.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY</LocID>                                      
+			<Text>Колоноскопия</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>Колоноскопия - это медицинская процедура, которая проводится для выявления рака, полипов толстой кишки или других патологий в кишечнике. Колоноскопия проводится с использованием инструмента, называемого колоноскоп (тип эндоскопа) - длинной, тонкой, гибкой трубки, содержащей камеру и источник света.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS</LocID>                                      
+			<Text>Отбор проб антигена мочи</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_DESC</LocID>                                      
+			<Text>Анализ мочи, чтобы проверить количество раковых антигенов в моче. Опираясь на концентрацию пролитого антигена от различных патогенов в почках для выведения с мочой, можно использовать тестирование мочевого антигена для получения быстрых результатов теста. \n\nНеобходимая лаборатория: Гистология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST</LocID>                                      
+			<Text>Анализ мочи на антиген</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_UAS_TEST_DESC</LocID>                                      
+			<Text>Анализ мочи, чтобы проверить количество раковых антигенов в моче. Опираясь на концентрацию пролитого антигена от различных патогенов в почках для выведения с мочой, можно использовать тестирование мочевого антигена для получения быстрых результатов теста.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>Биопсия костного мозга</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Весьма болезненная процедура. Образец биопсии оценивается специалистом для определения состава клеток костного мозга. Объемы клеток сравниваются между собой, сопоставляются с объемами иных компонентов костного мозга. Определяется достаточночть их количества и наличие аномалий. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>Биопсия костного мозга</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>Весьма болезненная процедура. Образец биопсии оценивается специалистом для определения состава клеток костного мозга. Объемы клеток сравниваются между собой, сопоставляются с объемами иных компонентов костного мозга. Определяется достаточночть их количества и наличие аномалий.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT</LocID>                                      
+			<Text>Взять образец для проточной цитометрии</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_DESC</LocID>                                      
+			<Text>Проточная цитометрия - это метод, используемый для обнаружения и измерения физических и химических характеристик популяции клеток или частиц. Образец, содержащий клетки или частицы, суспендируют в жидкости и вводят в прибор с проточным цитометром.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST</LocID>                                      
+			<Text>Взять образец для проточной цитометрии</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>Проточная цитометрия - это метод, используемый для обнаружения и измерения физических и химических характеристик популяции клеток или частиц. Образец, содержащий клетки или частицы, суспендируют в жидкости и вводят в прибор с проточным цитометром.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_CBC_SAMPLING</LocID>                                      
+			<Text>(Онкология) Общий анализ крови</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>Микроскопия мазка крови</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>Тонкий слой крови, смазываемый на предметном стекле и окрашиваемый таким образом, чтобы можно было микроскопически исследовать различные клетки крови. Исследование мазка крови позволяет обнаружить различные нарушения структуры эритроцитов (изменение их формы, размеров, появление не вполне зрелых форм эритроцитов и т.д.).</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>Микроскопия мазка крови</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>Тонкий слой крови, смазываемый на предметном стекле и окрашиваемый таким образом, чтобы можно было микроскопически исследовать различные клетки крови. Исследование мазка крови позволяет обнаружить различные нарушения структуры эритроцитов (изменение их формы, размеров, появление не вполне зрелых форм эритроцитов и т.д.).</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>Функциональный тест печени</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>Функциональные тесты печени - это анализы крови, который может предоставить информацию о том, как работает печень. В нем проверяют уровень ряда белков и ферментов, которые либо вырабатываются, либо выделяются в кровь при повреждении клеток печени. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST</LocID>                                      
+			<Text>Функциональный тест печени</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>Функциональные тесты печени - это анализы крови, который может предоставить информацию о том, как работает печень. В нем проверяют уровень ряда белков и ферментов, которые либо вырабатываются, либо выделяются в кровь при повреждении клеток печени.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE</LocID>                                      
+			<Text>F.I.S.H.- исследование</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>Флуоресцентная гибридизация in situ (FISH) - это молекулярно-цитогенетический метод, в котором используются флуоресцентные зонды, которые связываются только с теми частями последовательности нуклеиновой кислоты, которые обладают высокой степенью комплементарности последовательности.Позволяет: \n[1] Обнаружить и локализовать наличия или отсутствие специфических последовательностей ДНК на хромосомах. \n[2]Обнаружить и локализовать специфические РНК в циркулирующих опухолевых клетках и образцах тканей.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST</LocID>                                      
+			<Text>F.I.S.H.- исследование</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FISH_TEST_DESC</LocID>                                      
+			<Text>Флуоресцентная гибридизация in situ (FISH) - это молекулярно-цитогенетический метод, в котором используются флуоресцентные зонды, которые связываются только с теми частями последовательности нуклеиновой кислоты, которые обладают высокой степенью комплементарности последовательности.Позволяет: \n[1] Обнаружить и локализовать наличия или отсутствие специфических последовательностей ДНК на хромосомах. \n[2]Обнаружить и локализовать специфические РНК в циркулирующих опухолевых клетках и образцах тканей.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>Микроскопия с красителями</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>Окрашивание - это метод, используемый для усиления контраста в образцах, как правило, на микроскопическом уровне. Пятна и красители часто используются в гистологии и в медицинских областях гистопатологии, гематологии и цитопатологии. Красители используются для определения биологических тканей (мышечных волокон или соединительной ткани), клеточных популяций (классификация различных клеток крови) или органелл в отдельных клетках.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST</LocID>                                      
+			<Text>Микроскопия с красителями</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>Окрашивание - это метод, используемый для усиления контраста в образцах, как правило, на микроскопическом уровне. Пятна и красители часто используются в гистологии и в медицинских областях гистопатологии, гематологии и цитопатологии. Красители используются для определения биологических тканей (мышечных волокон или соединительной ткани), клеточных популяций (классификация различных клеток крови) или органелл в отдельных клетках.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>Маммография</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>Маммография - это рентгенограмма ткани молочной железы, которая может обнаружить изменения, которые слишком малы, чтобы ощущаться при физикальном осмотре. \n\nНеобходимая комната: Рентген</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE</LocID>                                      
+			<Text>Образец аспирации тонкой иглой</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>Аспирация тонкой иглой - это более быстрая и менее болезненная процедура биопсии для удаления образцов ткани, клеток или жидкости. При такой аспирации тонкая игла вводится в область аномально появляющейся ткани или жидкости организма. Как и в случае других видов биопсии, образец, взятый во время аспирации тонкой иглы, может помочь поставить диагноз или исключить такие состояния, как рак. \n\nНеобходимая лаборатория: Гистология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST</LocID>                                      
+			<Text>Тест аспирации тонкой иглой</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_FNA_TEST_DESC</LocID>                                      
+			<Text>Аспирация тонкой иглой - это более быстрая и менее болезненная процедура биопсии для удаления образцов ткани, клеток или жидкости. При такой аспирации тонкая игла вводится в область аномально появляющейся ткани или жидкости организма. Как и в случае других видов биопсии, образец, собранный во время аспирации тонкой иглой, может использоваться для подтверждения диагноза.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>                                      
+			<Text>Образец электронной микроскопии</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>Диагностическая электронная микроскопия используется в качестве важного диагностического инструмента для скрининга тканей человека при большом увеличении (ультраструктурный уровень). В целях диагностики твердые ткани подготавливают для ПЭМ так же, как и другие биологические ткани, они фиксируются в глутаральдегиде и тетроксиде осмия, затем обезвоживаются и внедряются в эпоксидную смолу. \n\nНеобходимая лаборатория: Гистология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST</LocID>                                      
+			<Text>Электронно-микроскопический тест</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>Диагностическая электронная микроскопия используется в качестве важного диагностического инструмента для скрининга тканей человека при большом увеличении (ультраструктурный уровень). В целях диагностики твердые ткани подготавливают для ПЭМ так же, как и другие биологические ткани, они фиксируются в глутаральдегиде и тетроксиде осмия, затем обезвоживаются и внедряются в эпоксидную смолу.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM</LocID>                                      
+			<Text>Гинекологический осмотр</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>Гинекологический осмотр - это визуальный и физический осмотр женских половых органов. Во время обследования врач осматривает влагалище, шейку матки, маточные трубы, вульву, яичники и матку.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM</LocID>                                      
+			<Text>Цифровой ректальный экзамен (DRE)</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>                                      
+			<Text>Цифровой ректальный экзамен (DRE) - это тест для мужчин и женщин. Это позволяет врачу проверить нижнюю часть прямой кишки, таз и нижнюю часть живота на наличие рака и других проблем со здоровьем, таких как рак простаты.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>                                      
+			<Text>Отбор проб минеральных панелей</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>Комплексная минеральная панель включает анализ крови на пять минералов и используется для выявления недостатков или передержки (токсичность) по всему спектру минералов. Эта панель включает уровни тестирования следующих пяти минералов: кальций, медь, магний, марганец и цинк. \n\nНеобходимая лаборатория: гематология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST</LocID>                                      
+			<Text>Анализ минеральной панели</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>Комплексная минеральная панель включает анализ крови на пять минералов и используется для выявления недостатков или передержки (токсичность) по всему спектру минералов. Эта панель включает уровни тестирования следующих пяти минералов: кальций, медь, магний, марганец и цинк.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>Отбор проб биопсии лимфатического узла</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Биопсия лимфатического узла - это тест, при котором лимфатический узел или часть лимфатического узла удаляют для исследования под микроскопом. Биопсия лимфатического узла может помочь определить, есть ли у пациента инфекция, иммунное расстройство или рак. \n\nНеобходимая лаборатория: гистология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>Биопсия лимфатического узла</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>Биопсия лимфатического узла - это тест, при котором лимфатический узел или часть лимфатического узла удаляют для исследования под микроскопом. Биопсия лимфатического узла может помочь определить, есть ли у пациента инфекция, иммунное расстройство или рак.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Колоноскопическая биопсия</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Колоноскопия - это медицинская процедура, которая проводится для выявления рака, полипов толстой кишки или других патологий в кишечнике. Колоноскопия проводится с использованием инструмента, называемого колоноскоп (тип эндоскопа) - длинной, тонкой, гибкой трубки, содержащей камеру и источник света. Во время колоноскопии врач пропускает инструмент через колоноскоп для получения биопсии (небольшой образец слизистой оболочки толстой кишки) для дальнейшего анализа. \n\nНеобходимая лаборатория: гистология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>Анализ колоноскопической биопсии</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Колоноскопия - это медицинская процедура, которая проводится для выявления рака, полипов толстой кишки или других патологий в кишечнике. Колоноскопия проводится с использованием инструмента, называемого колоноскоп (тип эндоскопа) - длинной, тонкой, гибкой трубки, содержащей камеру и источник света. Во время колоноскопии врач пропускает инструмент через колоноскоп для получения биопсии (небольшой образец слизистой оболочки толстой кишки) для дальнейшего анализа.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Биопсия печени</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Биопсия печени - это процедура, при которой небольшая игла вводится в печень для сбора образца ткани. Затем ткани анализируются в лаборатории, чтобы помочь врачам диагностировать различные нарушения и заболевания печени. \n\nНеобходимая лаборатория: гистология</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>Анализ биопсии печени</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Биопсия печени - это процедура, при которой небольшая игла вводится в печень для сбора образца ткани. Затем ткани анализируются в лаборатории, чтобы помочь врачам диагностировать различные нарушения и заболевания печени.</Text>  
+			</GameDBLocalizedString>
+			
+			
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

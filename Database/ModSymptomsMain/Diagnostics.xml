@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+	<GameDBSymptom ID="SYM_DIAG_C1INH">
+		<DescriptionLocID>SYM_DIAG_C1INH_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_C1_BLOOD_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_STANOZOLOL</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_002</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_C1Q">
+		<DescriptionLocID>SYM_DIAG_C1Q_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_C1_BLOOD_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_STANOZOLOL</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_003</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_004</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ACE_INH">
+		<DescriptionLocID>SYM_DIAG_ACE_INH_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_C1_BLOOD_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_STANOZOLOL</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_005</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_006</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_AIP">
+		<DescriptionLocID>SYM_DIAG_AIP_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_PORPHYRIA_URINE_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_PANHEMATIN</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_009</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_010</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_NAEGLERISIS">
+		<DescriptionLocID>SYM_DIAG_NAEGLERISIS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
+		<!-- <CollapseSymptomRef>SYM_OL_DEATH</CollapseSymptomRef> -->
+		<RiskOfDeathStartHours>1</RiskOfDeathStartHours>
+		<RiskOfDeathEndHours>36</RiskOfDeathEndHours>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_TESTING</ExaminationRef>
+		</Examinations>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_011</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_012</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_CLARKSONS">
+		<DescriptionLocID>SYM_DIAG_CLARKSONS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_IMMUNOGLOBULIN</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_013</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_014</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_WILSONS">
+		<DescriptionLocID>SYM_DIAG_WILSONS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_LIVER_TRANSPLANT</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_015</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_016</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_COMPARTMENT">
+		<DescriptionLocID>SYM_DIAG_COMPARTMENT_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>8</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_NECROSIS</CollapseSymptomRef>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_MANOMETER</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_FASCIOTOMY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_017</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_018</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_NPT3">
+		<DescriptionLocID>SYM_DIAG_NPT3_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ZAVESCA</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_019</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_020</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ZES">
+		<DescriptionLocID>SYM_DIAG_ZES_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_DISTAL_PANCREATECTOMY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_021</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_022</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_MENETRIERS">
+		<DescriptionLocID>SYM_DIAG_MENETRIERS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_GASTRECTOMY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_023</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_024</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ACHALASIA">
+		<DescriptionLocID>SYM_DIAG_ACHALASIA_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_ESOPHAGEAL_MANOMETER</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_MYOTOMY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_025</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_026</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_MALS">
+		<DescriptionLocID>SYM_DIAG_MALS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_LAPAROSCOPY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_027</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_028</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_BOUVERET">
+		<DescriptionLocID>SYM_DIAG_BOUVERET_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>8</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CT_ENTEROGRAPHY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_LAPAROSCOPY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_029</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_030</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_POTS">
+		<DescriptionLocID>SYM_DIAG_POTS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_031</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_032</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_BCS">
+		<DescriptionLocID>SYM_DIAG_BCS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>12</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CLOT_PREVENTING_DRUGS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_033</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_034</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_BSS">
+		<DescriptionLocID>SYM_DIAG_BSS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_PLATELET_TRANSFUSION</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_035</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_036</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_EVANS">
+		<DescriptionLocID>SYM_DIAG_EVANS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CBC_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_IMMUNOGLOBULIN</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_037</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_038</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ADEM">
+		<DescriptionLocID>SYM_DIAG_ADEM_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_039</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_040</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ARPKD">
+		<DescriptionLocID>SYM_DIAG_ARPKD_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DIALYSIS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_041</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_042</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_BEHCETS">
+		<DescriptionLocID>SYM_DIAG_BEHCETS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_043</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_044</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_BIOTIN">
+		<DescriptionLocID>SYM_DIAG_BIOTIN_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_BIOTIN</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_045</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_046</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ABDOEPILEPSY">
+		<DescriptionLocID>SYM_DIAG_ABDOEPILEPSY_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_EEG</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_047</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_048</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_ABDOMIGRAINE">
+		<DescriptionLocID>SYM_DIAG_ABDOMIGRAINE_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1759</IconIndex>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_DJS">
+		<DescriptionLocID>SYM_DIAG_DJS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_OL_PORPHYRIA_URINE_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_049</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_050</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_BDBS">
+		<DescriptionLocID>SYM_DIAG_BDBS_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_AVM_RESECTION</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_051</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_052</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+
+	<GameDBSymptom ID="SYM_DIAG_UPTE">
+		<DescriptionLocID>SYM_DIAG_UPTE_DESC</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>High</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<Examinations>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>SUR_OL_HEMISPHERECTOMY</TreatmentRef>
+		</Treatments>
+
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_DIAG_DIA_ICON_053</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_DIAG_DIA_ICON_054</CustomIconSmallAssetRef>
+
+	</GameDBSymptom>
+
+</Database>

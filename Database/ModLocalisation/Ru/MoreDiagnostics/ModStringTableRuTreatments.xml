@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++  v0.01  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Калиевая соль</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>Наиболее используемым является хлорид калия в микрокапсулированной форме. Это пероральная добавка калия</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Увлажняющий крем</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>Косметический препарат, используемый для предотвращения сухости кожи.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Инфузия глюкозы</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Венозная инфузия глюкозы.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Гидрокортизон</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>Гидрокортизон - это название гормона кортизола, когда он поставляется в качестве лекарства.</Text>	</GameDBLocalizedString>
++++  v0.03  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT</LocID>								<Text>Аутотрансплантата</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT_DESCRIPTION</LocID>					<Text>Трансплантация ткани из одной точки в другую тела одного и того же человека.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT</LocID>								<Text>Аллотрансплантат</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT_DESCRIPTION</LocID>					<Text>Тканевый трансплантат от донора того же вида, что и реципиент, но генетически не идентичен.</Text>	</GameDBLocalizedString>
++++  v0.03.2  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER</LocID>								<Text>Хелирование железом</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER_DESCRIPTION</LocID>					<Text>Цель хелатной терапии железом состоит в том, чтобы предотвратить опосредованное железом повреждение клеток.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE</LocID>								<Text>Склерозирующая терапия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE_DESCRIPTION</LocID>					<Text>Это лечение варикозного расширения кровеносных сосудов путем введения раздражителя, который вызывает воспаление, свертывание крови и сужение стенки кровеносного сосуда.</Text>	</GameDBLocalizedString>
++++  v0.03.3  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR</LocID>										<Text>Иммунодепрессанты</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR_DESCRIPTION</LocID>							<Text>Иммунодепрессивные препараты, также известные как иммунодепрессанты, и антирецидивные препараты, представляют собой препараты, которые ингибируют или предотвращают активность иммунной системы.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV</LocID>											<Text>IV PPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV_DESCRIPTION</LocID>								<Text>Лечение высокой дозой ингибитора протонной помпы перед гастроскопией снижает потребность в эндоскопическом гемостазе.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION</LocID>								<Text>Эндоваскулярная эмболизация</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION_DESCRIPTION</LocID>					<Text>При эндоваскулярной эмболизации катетер вводят в артерию ноги и пропускают через кровеносные сосуды для инъекции эмболизирующего агента с использованием рентгенографии.</Text>	</GameDBLocalizedString>
+-->
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Андрогенная заместительная терапия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>Андрогенная заместительная терапия (АЗТ), часто называемая заместительной терапией тестостероном (ТЗТ), является формой гормональной терапии, при которой андрогены, часто тестостерон, заменяются. АЗТ часто назначают для противодействия последствиям мужского гипогонадизма.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Агонист дофаминовых рецепторов</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>Агонист дофаминовых рецепторов (DA) представляет собой соединение, которое активирует дофаминовые рецепторы. Существует два семейства дофаминовых рецепторов, D2-подобных и D1-подобных, и все они являются G-белковыми рецепторами. D1- и D5-рецепторы принадлежат к D1-подобному семейству, а D2-подобное семейство включает в себя D2, D3 и D4-рецепторы. DA используются при болезни Паркинсона и, в меньшей степени, для лечения депрессии, гиперпролактинемии и синдрома беспокойных ног.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Гидрокортизон - Флудрокортизон</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Ассоциация гидрокортизона и флудрокортизона.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Витамин D</Text>	</GameDBLocalizedString>
+<!--  v0.03  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>Моноклональные антитела</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>Моноклональные антитела (mAb или moAb) представляют собой антитела, которые вырабатываются идентичными иммунными клетками, которые являются клонами уникальной родительской клетки. Моноклональные антитела могут иметь одновалентную аффинность в том смысле, что они связываются с одним и тем же эпитопом (частью антигена, который распознается антителом).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>Трехвалентный катионный хелатор</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>Хелатор трехвалентного катиона способен фиксировать свободное железо из плазмы или клеток с образованием комплекса ферриоксамина.</Text>	</GameDBLocalizedString>
+<!--  v0.03.2  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP</LocID>													<Text>GBI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>Ингибиторы биосинтеза гликолипидов предотвращают синтез гликолипидов.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>										<Text>ERT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>Ферменто-заместительная терапия (ERT) - это медицинское лечение, которое заменяет фермент, дефицитный или отсутствующий в организме.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>Флеботомия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>Хирургическое вскрытие или пункция вены с целью забора крови, введения жидкости или (исторически) при сдаче крови.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>Данапароид натрия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>Данапароид натрия является антикоагулянтом, обладающим антитромботическим действием благодаря ингибированию образования тромбина (TGI) по двум механизмам: косвенной инактивации фактора Ха через AT и прямому ингибированию активации тромбина фактора IX (важная петля обратной связи для генерации тромбина).</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Замена клапана</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>Операция по замене клапана - это замена одного или нескольких клапанов сердца искусственным клапаном сердца или биопротезом.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Электрокардиостимулятор</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>Кардиостимулятор (или искусственный кардиостимулятор, чтобы не путать его с естественным кардиостимулятором сердца) - это медицинское устройство, которое генерирует электрические импульсы, доставляемые электродами, чтобы вызвать работу камер сердечной мышцы (верхней или предсердной и / или ниже или желудочки) сокращаться и, следовательно, качать кровь; тем самым это устройство заменяет и / или регулирует функцию системы электропроводности сердца.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Имплантируемый кардиовертер-дефибриллятор</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Имплантируемый кардиовертер-дефибриллятор (ICD) или автоматический имплантируемый кардиовертер-дефибриллятор (AICD) - это устройство, имплантируемое внутрь тела, способное выполнять кардиоверсию, дефибрилляцию и (в современных версиях) кардиостимуляцию сердца. Таким образом, устройство способно исправить большинство угрожающих жизни аритмий сердца. ICD - это лечение первой линии и профилактическая терапия для пациентов с риском внезапной сердечной смерти из-за фибрилляции желудочков и желудочковой тахикардии. Современные устройства могут быть запрограммированы на обнаружение аномальных сердечных ритмов и проведение терапии с помощью программируемой стимуляции антитахикардии в дополнение к шокам с низкой и высокой энергией.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Реваскуляризация</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>Сосудистое шунтирование и ангиопластика являются двумя основными средствами реваскуляризации.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Фасциотомия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>Фасциотомия или фасциэктомия - это хирургическая процедура, при которой фасция рассекается для снятия напряжения или давления, обычно для лечения возникающей потери кровообращения в области ткани или мышцы.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Стент</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Исключение области аневризмы из кровотока путем установки сосудистого протеза. При сплющивании трансплантата протезную трубку ушивают как над, так и под аневризмой, чтобы реконструировать артерию.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Адреналектомия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Хирургическое удаление одного или обоих надпочечников.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Хирургическое иссечение</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Хирургическое иссечение</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>Удаление - это хирургическая процедура, заключающаяся в удалении из организма вредного или бесполезного для него элемента.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Тиреоидэктомия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Хирургическое удаление щитовидной железы.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>Спленэктомия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>Хирургическое удаление селезенки.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>Стереотактика</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>Стереотаксическая нейрохирургия - это метод определения целей хирургии в головном мозге относительно внешней системы отсчета.</Text>	</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

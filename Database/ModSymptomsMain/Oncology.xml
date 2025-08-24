@@ -1,0 +1,1638 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_IMIQUIMOD_CREAM</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_002</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC1_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_PHOTODYNAMIC_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_002</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC1_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_002</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC1_4_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_002</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC2_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_IMIQUIMOD_CREAM</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC2_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_PHOTODYNAMIC_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC2_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC2_4_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC3_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_PHOTODYNAMIC_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_004</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC3_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_004</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC3_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_004</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC3_4_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_004</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC4_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_365</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_366</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_SC4_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_365</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_366</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_AGC1_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_015</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_016</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_AGC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_LAPAROSCOPIC_SURGERY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_015</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_016</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_AGC1_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_015</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_016</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_AGC2_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_045</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_AGC2_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_ADRENALECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_045</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_AGC2_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_045</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_017</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_018</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>SUR_SLP_LOBECTOMY_SURGERY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_017</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_018</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_017</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_018</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC1_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_IMMUNOTHERAPY_DRUGS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_019</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_020</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_019</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_020</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC2_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_GEMCITABINE</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_375</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_376</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC3_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_379</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_380</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC3_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_SEGMENTECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_379</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_380</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LC4_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ALEMTUZUMAB</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1343</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_383</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_384</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BC1_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>SUR_SLP_POLYPECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_027</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_028</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PARTIAL_COLECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_027</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_028</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BC1_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_029</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_030</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BC2_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_FEP</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_031</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_032</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BC3_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_FEP</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_033</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_034</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BC3_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_FEP</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_033</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_034</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BREC01_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_237</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_238</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BREC01_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_SEG_MASTECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_239</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_240</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BREC01_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_241</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_242</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BREC01_0M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_237</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_238</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BREC01_1M_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_SEG_MASTECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_239</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_240</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BREC01_2M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_241</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_242</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRANIOTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_DEBULKING</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_DEBULKING</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_GTR</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_OVAC1_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_307</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_308</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_OVAC1_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_UNI_SALOOPH</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_307</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_308</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_OVAC1_2F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_309</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_310</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_PROC1_0M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_339</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_PROC1_1M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_RAD_PROS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_339</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_PROC1_2M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_IMMUNOTHERAPY_DRUGS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_339</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_PROC1_3M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_339</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_MC001_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_045</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_MC001_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_045</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LIV0_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_LIVER_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_411</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_412</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LIV0_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_LIVER_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_411</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_412</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LIV0_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_LIVER_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_419</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_420</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_LIV0_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_413</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_414</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_ORA001_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_PAROTIDECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_435</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_436</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_ORA001_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_435</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_436</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_ORA002_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_BRACHYTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0005</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0006</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_ORA002_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_BRACHYTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0005</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0006</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_VAGC1_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_WATCH_WAIT</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_VAGC1_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0004</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_VAGINECTOMY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0004</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_2F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0004</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+</Database>

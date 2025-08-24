@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Maximusyara</Name>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>         
+				<Text>Генитальный скрининг</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>  
+				<Text>Анализ генитального скрининга</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>     
+				<Text>Генитальный мазок</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>   
+				<Text>Анализ мазка</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>  
+				<Text>Небольшой зонд используется для безболезненного взятия небольшого количества клеток с шейки матки или ануса. Клетки отправляются в лабораторию для тестирования.</Text>
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>     
+				<Text>Анализ шейки матки или анальных клеток.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>     
+				<Text>Мазок взят из влагалища или полового члена.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>    
+				<Text>Мазок культуры анализируется на наличие признаков инфекции.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Забор спермы</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Забор спермы относится к процессу получения спермы от пациента, обычно посредством мастурбации, направляя образец в чистую чашку.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Анализ собранной спермы</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>Собранная сперма анализируется..</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Паховое обследование</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Обследование области паха пациента.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

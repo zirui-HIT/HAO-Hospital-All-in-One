@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_JA_ADDON_UR_BUILDING_MODE">
+<LanguageCode>ja</LanguageCode>
+<LanguageNameLocalized>Japanese</LanguageNameLocalized>
+<Contributors>
+<Name>jackall4125678</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>泌尿器科</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>泌尿器科のデカール</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>泌尿器科診察室</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>泌尿器科専門の診療所。 Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>腎臓内科の診察室</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>腎臓専門の診療所 Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>病棟</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>透析を必要とする泌尿器科の患者のための透析病棟。 \n\nMin. Staff requirements: \n1x Doctor \n1x Nurse \n(Personnel based in On-call room and Nurses station)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

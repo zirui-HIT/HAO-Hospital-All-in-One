@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+    <GameDBObject ID="OBJECT_NEW_PSY_MECT">
+        <AbbreviationLocID>OBJECT_NEW_PSY_MECT_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>294</TextureIDNW>
+        <TextureIDNE>295</TextureIDNE>
+        <TextureIDSE>296</TextureIDSE>
+        <TextureIDSW>297</TextureIDSW>
+        <IconIndex>769</IconIndex>
+        <UseOffsetXNW>-0.7</UseOffsetXNW>
+        <UseOffsetYNW>0.0</UseOffsetYNW>
+
+        <AccessPositions>
+            <AccessPosition>
+                <m_x>-1</m_x>
+                <m_y>0</m_y>
+            </AccessPosition>
+        </AccessPositions>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <Placement>INDOORS</Placement>
+
+        <UseAnimations>
+            <Animation>use_equipment_low</Animation>
+        </UseAnimations>
+
+        <RequiresMaintenance>false</RequiresMaintenance>
+        <Durability>20</Durability>
+
+        <Tags>
+            <Tag>ui_equipment</Tag>
+            <Tag>ui_mect</Tag>
+        </Tags>
+
+        <Cost>1699</Cost>
+    </GameDBObject>
+
+
+</Database>

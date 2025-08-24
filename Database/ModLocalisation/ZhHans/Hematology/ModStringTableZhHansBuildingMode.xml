@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_HEMATOLOGY_BUILDING_MODE">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>Leo</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_HEM_OFFICE_DESC</LocID>
+				<Text>血液内科医生的门诊室。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_HEM_OFFICE</LocID>
+				<Text>血液科诊室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_HEM_OFFICE_DESC</LocID>
+				<Text>血液内科医生的门诊室。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_HEM_OFFICE</LocID>
+				<Text>诊断室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_HEM_OFFICE_DESC</LocID>
+				<Text>血液内科住院患者的诊疗室。</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

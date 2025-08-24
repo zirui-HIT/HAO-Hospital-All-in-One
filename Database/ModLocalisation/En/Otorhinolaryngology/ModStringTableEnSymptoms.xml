@@ -1,0 +1,985 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_SYMPTOMS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS</LocID>                 
+		 <Text>Ethmoidal Nasal Polyps</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
+		 <Text>Nasal polyps are soft, painless, noncancerous growths on the lining of your nasal passages or sinuses. They hang down like teardrops or grapes. They result from chronic inflammation. There are two primary types of nasal polyps: ethmoidal and antrochoanal. Ethmoidal polyps arise from the ethmoid sinuses and extend through the middle meatus into the nasal cavity. Antrochoanal polyps usually arise in the maxillary sinus and extend into the nasopharynx and represent only 4–6% of all nasal polyps. They either can be treated with saline spray or surgery depending on how big the nasal polyp is.</Text>  
+		</GameDBLocalizedString>
+		
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION</LocID>                 
+		 <Text>Nasal Inflammation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
+	   	 <Text>The doctor has found inflammation of the nose, and no nasal polyps has been found using a CT or a nasal cavity inspection. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>       
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS</LocID>                               
+		 <Text>Aspergillus found in Sinus</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>                               
+		 <Text>Aspergillus Fungus has been found in the sinuses by a sputum culture.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS</LocID>                 
+		 <Text>ENS Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>Empty Nose Syndrome findings has been detected by a CT scan.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM</LocID>                 
+		 <Text>The Nasal Septum is Deviated</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>A Nasal Cavity Inspection revealed a deviated nasal septum in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_FACE_LACERATION</LocID>                 
+		 <Text>Lacerated Face</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FACE_LACERATION_DESCRIPTION</LocID>     
+		 <Text>The patient's face is lacerated.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE</LocID>                 
+		 <Text>Swollen Nasal Turbinates</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>     
+		 <Text>The patient's nasal turbinates are swollen.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED</LocID>                 
+		 <Text>Dysosmia confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>     
+		 <Text>The doctor confirms that the patient has dysosmia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE</LocID>                 
+		 <Text>Squamous Cell Carcinoma found in Nasal Cavity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Squamous Cell Carcinoma has been found in the Nasal Cavities by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE</LocID>                 
+		 <Text>Adenocarcinoma found in Nasal Cavity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Adenocarcinoma has been found in the Nasal Cavities by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE</LocID>                 
+		 <Text>Melanoma found in Nasal Cavity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Melanoma has been found in the Nasal Cavities by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE</LocID>                 
+		 <Text>Foreign Object in Nose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>     
+		 <Text>The patient's nose has a object lodged in it.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SNORE</LocID>                 
+		 <Text>Snoring</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_CRP_JM_NA_RH</LocID>                 
+		<Text>Non-allergic Rhinitis comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_CRP_JM_NA_RH_DESCRIPTION</LocID>     
+		<Text>A case of non-allergic Rhinitis has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM</LocID>                 
+		 <Text>Allergic Sinusitis Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM_DESCRIPTION</LocID>     
+		 <Text>A case of Allergic Sinusitis has been confirmed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_COLLAPSED_SINUS</LocID>                 
+		 <Text>Collapsed Sinus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>     
+		 <Text>The patient has a collapsed sinus causing facial deformity.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS</LocID>                 
+		 <Text>Acute Infection of the Nose and Sinuses</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>The patient has a acute infection of the nose and sinuses causing acute rhinosinuitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS</LocID>                 
+		 <Text>Chronic Inflammation of the Nose and Sinuses</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>The patient has chronic inflammation of the nose and sinuses causing chronic rhinosinusitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_RHINOPHYMA</LocID>                 
+		 <Text>Rhinophyma confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_RHINOPHYMA_DESCRIPTION</LocID>     
+		 <Text>The doctor has found a thick and excessive amount of Rhinophyma-like mass on the nose/has found excess tissue, oil, bacteria and sebaceous glands using a nose biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE</LocID>                 
+		 <Text>Cleft Lip and Palate</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>     
+		 <Text>The patient has informed the doctor about their cleft lip and palate/the doctor has confirmed that the patient has a cleft lip and palate.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>                 
+		 <Text>Problematic Blood Vessel</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>     
+		 <Text>A Rhinoscopy has found a problematic blood vessel in the patients nose.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N</LocID>                 
+		 <Text>HPV Tumour found in Nose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>     
+		 <Text>A biopsy has found a benign tumour in the nose caused by the Human Papillomavirus (HPV).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_S</LocID>                 
+		 <Text>Antrochoanal Nasal Polyps</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>     
+		 <Text>Nasal polyps are soft, painless, noncancerous growths on the lining of your nasal passages or sinuses. They hang down like teardrops or grapes. They result from chronic inflammation. There are two primary types of nasal polyps: ethmoidal and antrochoanal. Ethmoidal polyps arise from the ethmoid sinuses and extend through the middle meatus into the nasal cavity. Antrochoanal polyps usually arise in the maxillary sinus and extend into the nasopharynx and represent only 4–6% of all nasal polyps. They either can be treated with saline spray or surgery depending on how big the nasal polyp is..</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SADDLE_NOSE</LocID>                 
+		 <Text>Nasal Trauma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SADDLE_NOSE_DESCRIPTION</LocID>     
+		 <Text>The patient has experienced nasal trauma causing a squashed nose.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PERFORATED_SEPTUM</LocID>                 
+		 <Text>Perforated Nasal Septum</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>The patient has perforation of the nasal septum.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SEPTAL_CLOT</LocID>                 
+		 <Text>Septal Blood Clot</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEPTAL_CLOT_DESCRIPTION</LocID>     
+		 <Text>The patient has a blood clot in their nasal septum after experiencing nasal trauma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MENINGES_DEFORMITY</LocID>                 
+		 <Text>Abnormal Sac of Fluid and Brain Tissue</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>A CT or MRI has found a abnormal sac of fluid, brain tissue and meninges because of a skull deformity.</Text>  
+		</GameDBLocalizedString>
+		
+	   
+		
+      
+	   
+
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_RINGING_IN_THE_EARS</LocID>                             
+		 <Text>Tinnitus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_EAR_FLUID_DRAINAGE</LocID>                        
+		 <Text>Otorrhea</Text> 
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SWOLLEN_EAR_CANAL</LocID>                    
+		 <Text>Swollen ear canal</Text>
+		</GameDBLocalizedString>
+		
+	  
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES</LocID>                 
+		 <Text>Severe Meniere's Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES_DESCRIPTION</LocID>     
+		 <Text>A severe case of Meniere's has been confirmed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>Ruptured Eardrum</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>The patients eardrum ruptured. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>Unhealed Rupture of the Eardrum</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>The patients eardrum ruptured and hasn't healed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED</LocID>                 
+		 <Text>Ear infection found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED_DESCRIPTION</LocID>     
+		 <Text>A ear infection was found in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
+		 <Text>Fluid in the middle ear</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                               
+		 <Text>Fluid in the middle ear has been found.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_BAROTRAUMA</LocID>                 
+		 <Text>Barotrauma Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_BAROTRAUMA_DESCRIPTION</LocID>     
+		 <Text>The doctor confirms that the patient has Barotrauma.</Text>  
+		</GameDBLocalizedString>
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_SEVERED_EAR</LocID>                 
+		 <Text>Severed Ear</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERED_EAR_DESCRIPTION</LocID>     
+		 <Text>The patient's ear has been severed from trauma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA</LocID>                 
+		 <Text>Blood Clot in Ear</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>     
+		 <Text>The patient's ear has a blood clot.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR</LocID>                 
+		 <Text>Foreign Object in Ear</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>     
+		 <Text>The patient's ear has a object lodged in it.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS</LocID>                 
+		 <Text>Inflammation of the Vestibular Nerve</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>     
+		 <Text>The patient's vestibular nerve is inflammed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR</LocID>                 
+		 <Text>Tumor Found on Vestibular Nerve</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>     
+		 <Text>The patient's vestibular nerve has a tumor growing on it.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE</LocID>                 
+		 <Text>Ear wax blockage found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>     
+		 <Text>The patient's ear is blocked by ear wax.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL</LocID>                 
+		 <Text>Ear wax removal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>     
+		 <Text>The patient wants their ear wax removed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_BPPV</LocID>                 
+		 <Text>BPPV Suspected</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_BPPV_DESCRIPTION</LocID>     
+		 <Text>The doctor has ruled out all possible diseases related to BPPV, the doctor suspects the patient has BPPV.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M</LocID>                 
+		 <Text>Absent/Abnormal ABR w/ Absent Acoustic Reflexes (Mild)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a Otoauditory Emissions Exam and it has shown a normal outer hair cell function, absent or abnormal Auditory Brainstem Response (ABR) with presence of the cochlear microphonic, and absent acoustic reflexes, and it is fortunately mild.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S</LocID>                 
+		 <Text>Absent/Abnormal ABR w/ Absent Acoustic Reflexes (Severe)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a Otoauditory Emissions Exam and it has shown a normal outer hair cell function, absent or abnormal Auditory Brainstem Response (ABR) with presence of the cochlear microphonic, and absent acoustic reflexes, and it is unfortunately severe.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_M</LocID>                 
+		 <Text>Age Related Hearing Loss (Mild)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a evaluation and audiometry and has concluded that the patient is suffering from Presbycusis (Age Related Hearing Loss), and it is fortunately mild.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_S</LocID>                 
+		 <Text>Age Related Hearing Loss (Severe)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a evaluation and audiometry and has concluded that the patient is suffering from Presbycusis (Age Related Hearing Loss), and it is unfortunately severe.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_LABYRINTHITIS</LocID>                 
+		 <Text>Inflammed Vestibular and Cochlea Nerve</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_LABYRINTHITIS_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a MRI or a CT and it has shown inflammation in both the vestibular and cochlea nerve, which indicates Labyrinthitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_OTOPHYMA</LocID>                 
+		 <Text>Swelling of the Ears</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_OTOPHYMA_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a ear examination and it seems that the patient's ears are swollen, the doctor concludes that the patient has a very rare affliction called Otophyma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR</LocID>                 
+		 <Text>Adenocarcinoma found in Ear Canal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Adenocarcinoma has been found in the Ear Canal by a Biopsy.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR</LocID>                 
+		 <Text>Squamous Cell Carcinoma found in Ear Canal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Squamous Cell Carcinoma has been found in the Ear Canal by a Biopsy.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MELANOMA_EAR</LocID>                 
+		 <Text>Melanoma found in Ear Canal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MELANOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Melanoma has been found in the Ear Canal by a Biopsy.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E</LocID>                 
+		 <Text>Malignant Ear Infection (Externa)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>     
+		 <Text>A malignant infection caused by Pseudomonas Aeruginosa has been found causing Otitis Externa in the patient.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M</LocID>                 
+		 <Text>Malignant Ear Infection (Media)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>     
+		 <Text>A malignant infection caused by Pseudomonas Aeruginosa has been found causing Otitis Media in the patient.</Text>
+		</GameDBLocalizedString>
+	 
+	  
+		
+	 
+	  
+
+		
+	  
+	  
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_HPV_FOUND</LocID>                 
+		 <Text>HPV in throat</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_HPV_FOUND_DESCRIPTION</LocID>     
+		 <Text>HPV has been found by doing a biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
+		 <Text>Laryngeal Trauma Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>A case of Laryngeal Trauma has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION</LocID>                 
+		 <Text>Laryngeal Penetration Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>A case of Laryngeal Penetration has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN</LocID>                 
+		 <Text>Vocal Cord Nodules found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN_DESCRIPTION</LocID>     
+		 <Text>Vocal nodules have been found by a laryngoscope. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA</LocID>                 
+		 <Text>Acute Suppurative Sialadenitis confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA_DESCRIPTION</LocID>     
+		 <Text>Acute Suppurative Sialadenitis has been diagnosed in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA</LocID>                 
+		 <Text>Chronic Sialadenitis confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA_DESCRIPTION</LocID>     
+		 <Text>Chronic Sialadenitis has been diagnosed in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT</LocID>                 
+		 <Text>Squamous Cell Carcinoma found in Pharynx</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Squamous Cell Carcinoma has been found in the Pharynx by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT</LocID>                 
+		 <Text>Adenocarcinoma found in Pharynx</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Adenocarcinoma has been found in the Pharynx by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT</LocID>                 
+		 <Text>Melanoma found in Pharynx</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Melanoma has been found in the Pharynx by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS</LocID>                 
+		 <Text>Chronic Pharyngitis confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>The doctor confirms that the patient has Chronic Pharyngitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS</LocID>                 
+		 <Text>Vocal Cord Paralysis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>     
+		 <Text>The doctor sees signs of a paralysed vocal cord (Larynx).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS</LocID>                 
+		 <Text>Obstructive Sleep Apnea Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>A Polypsomnography revealed obstructive sleep apnea findings in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION</LocID>                 
+		 <Text>Pharyngeal Trauma Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>A case of Pharyngeal Trauma has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION</LocID>                 
+		 <Text>Pharyngeal Penetration Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>A case of Pharyngeal Penetration has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA</LocID>                 
+		 <Text>Collapsed Trachea/Windpipe</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>     
+		 <Text>The patient's trachea/windpipe is collapsed and requires immediate surgery. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS</LocID>                 
+		 <Text>Chronic Laryngeal Inflammation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>The patient's larynx (vocal cords) has been inflammed over 3 months. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CSA_FINDINGS</LocID>                 
+		 <Text>Central Sleep Apnea Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>A Polypsomnography revealed central sleep apnea findings in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_EDEMA</LocID>                 
+		 <Text>Vocal Cord Edema</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_EDEMA_DESCRIPTION</LocID>     
+		 <Text>The patient has a buildup of fluid in their larynx (vocal cord). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_OVERUSE</LocID>                 
+		 <Text>Vocal Cord Overuse</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_OVERUSE_DESCRIPTION</LocID>     
+		 <Text>The patient's vocal cord has been over and misused causing vocal strain. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS</LocID>                 
+		 <Text>Chronic Tonsillitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>     
+		 <Text>The patient has experienced reoccuring infections/chronic infection of the tonsils. </Text>  
+		</GameDBLocalizedString>
+		
+	  
+	  
+	 
+	 
+	 
+	 
+	    <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED</LocID>                    
+		<Text>Large arteries damaged</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED_DESCRIPTION</LocID>        
+		<Text>Some larger arteries are damaged and may cause life-threatening complications.</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT</LocID>                    
+		<Text>Foreign object present</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT_DESCRIPTION</LocID>        
+		<Text>Foreign object or its parts are still present in the wound and may lead to serious complications.</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_LUNGS_PERFORATED</LocID>                          
+		<Text>Lungs perforated</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_LUNGS_PERFORATED_DESCRIPTION</LocID>              
+		<Text>Perforation of the lung membranes and tissue.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS</LocID>                                  
+		<Text>Blisters</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS_DESCRIPTION</LocID>                      
+		<Text>A small pocket of fluid in the space between upper layer of the skin (epidermis) and layers beneath, most often caused by skin being damaged by friction or heat.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION</LocID>  
+		<Text>Desquamation</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION_DESCRIPTION</LocID> 
+		<Text>Also known as peeling skin is shedding of the outermost layer of the skin.</Text>
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DARK_SKIN</LocID>           
+		<Text>Dark skin</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_DARK_SKIN_DESCRIPTION</LocID>           
+		<Text>Abnormal darkening of the skin.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_NECROSIS</LocID>                        
+		<Text>Necrosis</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_NECROSIS_DESCRIPTION</LocID>  
+		<Text>Premature death of a tissue caused by its own enzymes. It occurs when too little blood flows to the tissue. This can be cause by an injury, radiation, or chemicals. Necrosis cannot be reversed.</Text> 
+		</GameDBLocalizedString>
+		
+        
+		<GameDBLocalizedString>
+		<LocID>SYM_JM_GUNSHOT_WOUND</LocID>                            
+		<Text>Gunshot wound</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_GUNSHOT_WOUND_DESCRIPTION</LocID>
+		<Text>Entry or entry-and-exit wound caused by a projectile shot from a firearm.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND</LocID>  
+		<Text>Ballistic wound</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND_DESCRIPTION</LocID> 
+		<Text>Entry-and-exit or an entry wound caused by a projectile.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_STAB_WOUND</LocID>                         
+		<Text>Stab wound</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_STAB_WOUND_DESCRIPTION</LocID>      
+		<Text>Wound caused by stabbing.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND</LocID>    
+		<Text>Penetrating wound</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND_DESCRIPTION</LocID>      
+		<Text>Wound caused by penetration of a foreign object.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_BLAST_WOUND</LocID>  
+		<Text>Blast wound</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BLAST_WOUND_DESCRIPTION</LocID> 
+		<Text>Wound or wounds caused by an explosion.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BURN_WOUND</LocID>     
+		<Text>Burn wound</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_BURN_WOUND_DESCRIPTION</LocID>   
+		<Text>A burn wound caused by heat, cold, electricity, chemicals, friction, or radiation, affects skin or other tissues.</Text>
+		</GameDBLocalizedString>
+
+		
+	 
+	 
+	 
+	   
+
+		
+	 
+	  
+		
+	 
+	  
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK</LocID>                 
+		 <Text>Coxsackievirus A16 Present</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK_DESCRIPTION</LocID>     
+		 <Text>Coxsackieviruses are a few related enteroviruses that belong to the Picornaviridae family of nonenveloped, linear, positive-sense single-stranded RNA viruses.They usually cause Hand, Foot and Mouth Disease.There is no treatment for this virus, or either wait until the infection is over.</Text>  
+		</GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_STAPHY</LocID>           
+		 <Text>Streptococcus pyogenes Present</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>        
+		 <LocID>SYM_CRP_JM_STAPHY_DESCRIPTION</LocID>     
+		 <Text>Streptococcus pyogenes, or Group A streptococcus (GAS), is a facultative, Gram-positive coccus which grows in chains and causes numerous infections in humans including pharyngitis, tonsillitis, scarlet fever, cellulitis, erysipelas, rheumatic fever, post-streptococcal glomerulonephritis, necrotizing fasciitis, myonecrosis and lymphangitis. The only known reservoirs for GAS in nature are the skin and mucous membranes of the human host. The clinical diseases produced by GAS have been well described, however, the pathogenic mechanisms underlying them are poorly understood, largely because each is the culmination of highly complex interactions between the human host defense mechanisms and specific virulence factors of the streptococcus.  </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE</LocID>                 
+		 <Text>C. Diphheriae found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>     
+		 <Text>C. Diphtheriae has been found in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+	 
+	  
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_ACID_REFLUX</LocID>                 
+		 <Text>Acid Reflux</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_ACID_REFLUX_DESCRIPTION</LocID>     
+		 <Text>Heartburn is a painful burning feeling in your chest or throat. It happens when stomach acid backs up into your esophagus, the tube that carries food from your mouth to your stomach. Treatment for heartburn is antacids or proton pump inhibitors. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY</LocID>                 
+		 <Text>Hyperacidity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY_DESCRIPTION</LocID>     
+		 <Text>Hyperacidity is a condition where the stomach secretes an excess of gastric acids. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED</LocID>                 
+		 <Text>Gastroesophageal Reflux Disease Suspected</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED_DESCRIPTION</LocID>     
+		 <Text>The doctor's has evaluated all the symptoms of the patient, and has concluded the patient has Gastroesophageal Reflux Disease. </Text>  
+		</GameDBLocalizedString>
+		
+     
+	  
+		
+		
+	
+	  
+		
+	
+     
+	 
+	    
+	    
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

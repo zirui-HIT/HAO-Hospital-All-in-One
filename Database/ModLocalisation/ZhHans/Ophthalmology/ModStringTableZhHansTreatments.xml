@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_OPHTHALMOLOGY">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_LUBRICANT_EYEDROPS</LocID>
+				<Text>人工泪液/润滑滴眼液</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_LUBRICANT_EYEDROPS_DESCRIPTION</LocID>
+				<Text>补充或稳定泪膜以缓解干涩、异物感与视力波动。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_ANTIHISTAMINE_EYEDROPS</LocID>
+				<Text>抗组胺滴眼液</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_ANTIHISTAMINE_EYEDROPS_DESCRIPTION</LocID>
+				<Text>拮抗组胺介导的瘙痒与充血，缓解过敏性结膜炎症状。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_TOPICAL_ANTIBIOTIC</LocID>
+				<Text>抗生素滴眼液/眼膏</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_TOPICAL_ANTIBIOTIC_DESCRIPTION</LocID>
+				<Text>针对细菌感染或角膜上皮缺损的防治，降低继发感染风险。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_IOP_LOWERING_EYEDROPS</LocID>
+				<Text>降眼压滴眼液</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_IOP_LOWERING_EYEDROPS_DESCRIPTION</LocID>
+				<Text>通过减少房水生成或促进外流以降低眼压，用于青光眼控制。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_STEROID_EYEDROPS</LocID>
+				<Text>糖皮质激素滴眼液</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_STEROID_EYEDROPS_DESCRIPTION</LocID>
+				<Text>短疗程用于抑制眼前节炎症反应，需监测眼压与复发。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_TOPICAL_ANTIVIRAL</LocID>
+				<Text>抗病毒滴眼液</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_TOPICAL_ANTIVIRAL_DESCRIPTION</LocID>
+				<Text>用于疱疹性角膜炎等病毒性感染的局部治疗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_WARM_COMPRESS</LocID>
+				<Text>热敷与睑缘清洁</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_WARM_COMPRESS_DESCRIPTION</LocID>
+				<Text>通过热敷与清洁改善睑板腺堵塞与睑缘炎症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_ANTI_VEGF_INJECTION</LocID>
+				<Text>玻璃体腔抗VEGF注射</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_ANTI_VEGF_INJECTION_DESCRIPTION</LocID>
+				<Text>抑制异常血管渗漏与增殖，治疗湿性AMD与黄斑水肿等。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_RETINAL_LASER</LocID>
+				<Text>视网膜激光光凝</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_RETINAL_LASER_DESCRIPTION</LocID>
+				<Text>通过激光凝固封堵裂孔或消退缺血区，预防出血与脱离。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_LASER_PI</LocID>
+				<Text>激光虹膜周边切开术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_LASER_PI_DESCRIPTION</LocID>
+				<Text>在虹膜外周打孔以解除瞳孔阻滞，防治闭角型青光眼发作。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_PHACOEMULSIFICATION_SURGERY</LocID>
+				<Text>白内障超声乳化手术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_PHACOEMULSIFICATION_SURGERY_DESCRIPTION</LocID>
+				<Text>通过超声乳化吸除混浊晶状体并植入人工晶体以提高视力。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_RETINAL_REATTACHMENT</LocID>
+				<Text>视网膜复位手术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_RETINAL_REATTACHMENT_DESCRIPTION</LocID>
+				<Text>采用玻切、巩膜扣带或气体填充等方式恢复视网膜贴附。</Text>
+			</GameDBLocalizedString>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_PTOSIS_REPAIR</LocID>
+				<Text>上睑下垂矫正手术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_PTOSIS_REPAIR_DESCRIPTION</LocID>
+				<Text>通过手术矫正上睑下垂，改善视力与外观。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_VITRECTOMY</LocID>
+				<Text>玻璃体切除术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_VITRECTOMY_DESCRIPTION</LocID>
+				<Text>通过手术去除玻璃体以治疗视网膜脱离、出血或黄斑病变。</Text>
+			</GameDBLocalizedString>
+
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_SPECTACLES</LocID>
+				<Text>配眼镜</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_SPECTACLES_DESCRIPTION</LocID>
+				<Text>根据屈光不正情况开具的眼镜处方，包括近视、远视、散光等。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_OCCLUSION_THERAPY</LocID>
+				<Text>遮盖治疗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_OCCLUSION_THERAPY_DESCRIPTION</LocID>
+				<Text>通过遮盖一只眼睛来促进另一只眼睛的视觉发育，常用于弱视治疗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_RGP_CL_FITTING</LocID>
+				<Text>RGP/OK镜验配</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_RGP_CL_FITTING_DESCRIPTION</LocID>
+				<Text>根据患者眼部情况验配硬性角膜接触镜（RGP）或角膜塑形镜（OK镜），并进行随访调整。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_CORNEAL_CXL</LocID>
+				<Text>角膜交联术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_CORNEAL_CXL_DESCRIPTION</LocID>
+				<Text>通过紫外线照射和核黄素溶液增强角膜结构稳定性，常用于控制圆锥角膜进展。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_CHALAZION_INCISION_CURETTAGE</LocID>
+				<Text>霰粒肿切开搔刮术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_CHALAZION_INCISION_CURETTAGE_DESCRIPTION</LocID>
+				<Text>通过切开霰粒肿囊壁并清除内容物，缓解局部肿胀与不适。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_KERATOPLASTY</LocID>
+				<Text>角膜移植术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_KERATOPLASTY_DESCRIPTION</LocID>
+				<Text>通过移植供体角膜组织治疗严重角膜病变或损伤，恢复视力与眼部功能。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_VISION_THERAPY</LocID>
+				<Text>视力训练</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_VISION_THERAPY_DESCRIPTION</LocID>
+				<Text>通过一系列视觉训练和练习，改善眼球运动、聚焦能力和视觉协调，常用于弱视、斜视等情况。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_CORTICOSTEROID_SHOCK_THERAPY</LocID>
+				<Text>皮质激素冲击治疗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_OPH_CORTICOSTEROID_SHOCK_THERAPY_DESCRIPTION</LocID>
+				<Text>用于急性眼部炎症或严重过敏反应的短期高剂量皮质激素治疗。</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

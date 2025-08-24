@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_FR_ADDON_DIAG_SYMPTOMS_MAIN">
+		<LanguageCode>fr</LanguageCode>
+		<LanguageNameLocalized>Français</LanguageNameLocalized>
+		<Contributors>
+			<Name>Ollyver</Name>
+			<Name>Nom d'utilisateur</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_C1INH</LocID>
+				<Text>Inhibiteur anormal de l'estérase C1</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_C1INH_DESC</LocID>
+				<Text>Les niveaux d'inhibiteurs C1 sont réduits en cas angio-œdème héréditaire. 85% des patients atteins auront des niveaux d'inhibiteurs de l'estérase C1 diminués au niveau antigéniques, là où les 15% restants ont une protéine dysfonctionnelle.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_C1Q</LocID>
+				<Text>Anomalie de C1Q et de l'inhibiteur de l'estérase C1</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_C1Q_DESC</LocID>
+				<Text>Les tests sanguins ont montrés un taux faible de C1Q et des inhibiteurs bas ou dysfonctionnels de C1.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ACE_INH</LocID>
+				<Text>Inhibiteur de l'enzyme de conversion de l'angiotensine(IECA) détecté dans le test sanguin</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ACE_INH_DESC</LocID>
+				<Text>Les tests sanguins ont montrés une inhibition de l'enzyme de conversion de l'angiotensine et un niveau normal de l'inhibiteur C1.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_AIP</LocID>
+				<Text>PBG anormal dans les urines</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_AIP_DESC</LocID>
+				<Text>Un taux élevé de porphobilinogène (PBG) suggère une attaque aiguë de porphyrie.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_NAEGLERISIS</LocID>
+				<Text>Naeglearia Fowleri détécté</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_NAEGLERISIS_DESC</LocID>
+				<Text>Analyse du liquide céphalorachidien a révélé des amibes Naegleria Fowleri vivants, causant une méningo-encéphalite.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_CLARKSONS</LocID>
+				<Text>Constatation de fuite capillaire</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_CLARKSONS_DESC</LocID>
+				<Text>
+					L'évaluation des symptômes incluant une hypotension artérielle, une hémoconcentration et une hypoalbuminémie en l'absence de cause secondaire
+					de choc ou d’infection indique un syndrome de Clarksons (Syndrome de fuite capillaire idiopathique).
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_WILSONS</LocID>
+				<Text>Trace de la maladie de Wilsons</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_WILSONS_DESC</LocID>
+				<Text>La biopsie du foie indique plus de 250 ug/g de tissu hépatique séché confirme une maladie de Wilsons.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_COMPARTMENT</LocID>
+				<Text>Pression élevée dans le compartiment musculaire</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_COMPARTMENT_DESC</LocID>
+				<Text>Le manomètre indique plus de &gt;30 mmHg dans le compartiment musculaire, consistant avec le syndrome des loges, ainsi que des risques de nécrose ischémique.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_NPT3</LocID>
+				<Text>Gène identifié</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_NPT3_DESC</LocID>
+				<Text>Les tests génétiques ont indiqués une mutation du gène npc1/npc2.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ZES</LocID>
+				<Text>Gastrinomes multiples</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ZES_DESC</LocID>
+				<Text>L'IRM a révélé de multiples gastrinomes dans le pancréas</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_MENETRIERS</LocID>
+				<Text>Résultats de la biopsie de Ménétrier</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_MENETRIERS_DESC</LocID>
+				<Text>La biopsie muqueuse prélevée lors de l’endoscopie concorde avec une maladie de Ménétrier.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ACHALASIA</LocID>
+				<Text>Anomalie de la motilité œsophagienne</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ACHALASIA_DESC</LocID>
+				<Text>Le manomètre œsophagien a montré une motilité concordant avec une achalasie.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_MALS</LocID>
+				<Text>Constatation du syndrome de ligament arqué médian (SLAM)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_MALS_DESC</LocID>
+				<Text>
+					L'échographie Doppler a mesuré une vitesse systolique maximale supérieure à
+					200cm/s dans l'artère céliaque, suggère une sténose de l'artère céliaque associé au SLAM.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BOUVERET</LocID>
+				<Text>Trace de maladie de Bouveret trouvée au scanner</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BOUVERET_DESC</LocID>
+				<Text>Le scanner a révélé une présence d'une fistule cholédocho-duodénale provoquant une obstruction de l'orifice gastrique.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_POTS</LocID>
+				<Text>Augmentation excessive du rythme cardiaque</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_POTS_DESC</LocID>
+				<Text>Un test de levée active a révélé une augmentation de la fréquence cardiaque supérieure à 30 battements par minute.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BCS</LocID>
+				<Text>Échographie hépatique anormale</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BCS_DESC</LocID>
+				<Text>Une échographie du foie révèle des dommages significatifs aux veines hépatiques, accompagné de signes de trombose ou de sténose.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BSS</LocID>
+				<Text>Gène identifié</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BSS_DESC</LocID>
+				<Text>Les tests génétiques ont révélé des anomalies dans les gènes GP1BA, GP1BB et GP9.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_EVANS</LocID>
+				<Text>Constatation du syndrome d'Evans</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_EVANS_DESC</LocID>
+				<Text>Les tests CBC ont révélés la présence simultanée d'une anémie hémolytique et d'un purpura thrombopénique immunologique ainsi qu'un test de Coombs positif pour le syndrome d'Evans.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ADEM</LocID>
+				<Text>EMAD constaté à l'IRM</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ADEM_DESC</LocID>
+				<Text>L'IRM a révélé des lésions démyélinisantes multifocales au cerveau, suggérant une EMAD.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ARPKD</LocID>
+				<Text>Gène identifié</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ARPKD_DESC</LocID>
+				<Text>Les tests génétiques révèlent des anomalies dans le gène PKHD1.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BEHCETS</LocID>
+				<Text>Ulcères récurrents</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BEHCETS_DESC</LocID>
+				<Text>L'évaluation des ulcères récurrents sur la bouche et les parties génitales ainsi qu'une protéine-C réactive élevée suggère une maladie de Behcet.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BIOTIN</LocID>
+				<Text>Gène identifié</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BIOTIN_DESC</LocID>
+				<Text>Les tests génétiques ont révélé des anomalies dans le gène BTD.</Text>
+			</GameDBLocalizedString>
+
+			
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ABDOEPILEPSY</LocID>
+				<Text>Constatation d'épilepsie abdominal</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ABDOEPILEPSY_DESC</LocID>
+				<Text>Une EEG anormale a montré des signes d'épilepsie abdominale.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ABDOMIGRAINE</LocID>
+				<Text>Signes de migraines abdominales</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_ABDOMIGRAINE_DESC</LocID>
+				<Text>Après évaluation du diagnostic et des symptomes du patient, et exclusion de toute autre possibilité, le patient souffre de migraines abdominales.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_DJS</LocID>
+				<Text>Constatation du syndrome de Dubin-Johnson</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_DJS_DESC</LocID>
+				<Text>
+					La coproporphyrine I est 3 à 4 fois plus élevée que la coproporphyrine III parmi les patients atteins de Dubin-Johnson. L'analyse
+					des porphyrines urinaires montre un niveau normal de coproporphyrine, mais l'isomère I représente 80% du total (contrairement aux 25% habituels)
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BDBS</LocID>
+				<Text>Constatation du syndrome de Wyburn-Mason</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_BDBS_DESC</LocID>
+				<Text>L'angiographie fluorescéine a révélé des MAV (Malformations artério-veineuse) au cerveau et dans la rétine.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_UPTE</LocID>
+				<Text>Constatations de traumatisme crânien épileptique</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DIAG_UPTE_DESC</LocID>
+				<Text>Les résultats de l'IRM cérébrale sont concordants avec un traumatisme cranien causant une épilepsie post-traumatique.</Text>
+			</GameDBLocalizedString>
+			
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

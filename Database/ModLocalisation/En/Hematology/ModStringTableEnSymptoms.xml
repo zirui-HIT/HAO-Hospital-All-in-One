@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_EN_ADDON_HEMATOLOGY_SYMPTOMS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+    <Contributors>
+      <Name>WDZRMPCBIT</Name>
+    </Contributors>
+    <LocalizedStrings>
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RBC_HIGH</LocID>                                          	
+			<Text>High red blood cell count</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RBC_HIGH_DESC</LocID>                                          	
+			<Text>The patient has a high red blood cell count.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEMOGLOBIN_HIGH</LocID>                                          	
+			<Text>Elevated hemoglobin</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEMOGLOBIN_HIGH_DESC</LocID>                                          	
+			<Text>The patient's hemoglobin is too high.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PV</LocID>                                          	
+			<Text>Polycythemia Vera</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PV_DESC</LocID>                                          	
+			<Text>Bone marrow biopsy: significant fibrosis, marked proliferation of hematopoietic cells of all lineages, reduced adipose tissue, and relatively obvious megakaryocyte proliferation. The granulocyte to erythroblast ratio is often decreased. Iron staining shows reduced storage iron.</Text>  
+		</GameDBLocalizedString>
+
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PMF</LocID>                                          	
+			<Text>Primary Myelofibrosis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PMF_DESC</LocID>                                          	
+			<Text>Bone marrow biopsy confirmed the diagnosis of primary myelofibrosis.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PNH</LocID>                                          	
+			<Text>Paroxysmal Nocturnal Hemoglobinuria</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PNH_DESC</LocID>                                          	
+			<Text>Flow cytometry: Red blood cells are deficient in CD59.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CLL</LocID>                                          	
+			<Text>Chronic Lymphocytic Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CLL_DESC</LocID>                                          	
+			<Text>Peripheral blood clonal B-lymphocytes ≥5x10^9/L, cell morphology similar to mature small lymphocytes, with a small number of immature or atypical lymphocytes, and smudge cells are visible.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_BMA_RS_CELLS</LocID>                                          	
+			<Text>Bone Marrow Reed-Sternberg Cells</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_BMA_RS_CELLS_DESC</LocID>                                          	
+			<Text>Typical Reed-Sternberg (RS) cells were found in the bone marrow, indicating tumor invasion of the bone marrow.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RS_CELLS</LocID>                                          	
+			<Text>Reed-Sternberg Cells</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RS_CELLS_DESC</LocID>                                          	
+			<Text>Tissue biopsy revealed typical Reed-Sternberg (RS) cells.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MCL</LocID>                                          	
+			<Text>Mantle Cell Lymphoma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MCL_DESC</LocID>                                          	
+			<Text>Biopsy confirmed the diagnosis of Mantle Cell Lymphoma.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DLBCL</LocID>                                          	
+			<Text>Diffuse Large B-cell Lymphoma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DLBCL_DESC</LocID>                                          	
+			<Text>Biopsy confirmed the diagnosis of Diffuse Large B-cell Lymphoma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FL</LocID>                                          	
+			<Text>Follicular Lymphoma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FL_DESC</LocID>                                          	
+			<Text>Biopsy confirmed the diagnosis of Follicular Lymphoma.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MM</LocID>                                          	
+			<Text>Multiple Myeloma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MM_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate: Increased clonal plasma cells in the bone marrow.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERURICEMIA</LocID>                                          	
+			<Text>Hyperuricemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERURICEMIA_DESC</LocID>                                          	
+			<Text>The level of uric acid in the blood is too high.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERCALCEMIA</LocID>                                          	
+			<Text>Hypercalcemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERCALCEMIA_DESC</LocID>                                          	
+			<Text>Hypercalcemia is a common electrolyte disorder.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DAT_HLA</LocID>                                          	
+			<Text>DAT: Autoimmune Hemolytic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DAT_HLA_DESC</LocID>                                          	
+			<Text>Direct antiglobulin test is positive.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IAT_HLA</LocID>                                          	
+			<Text>IAT: Autoimmune Hemolytic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IAT_HLA_DESC</LocID>                                          	
+			<Text>Indirect antiglobulin test is positive.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_CRISIS</LocID>                                          	
+			<Text>Hemolytic Crisis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_CRISIS_DESC</LocID>                                          	
+			<Text>Based on progressively worsening symptoms and comparison of recent blood test results, the patient is suspected of having a hemolytic crisis. Hemolytic crisis (HC) can present with different clinical manifestations depending on various triggers and disease stages, but it is fundamentally an acute hemolysis caused by massive destruction of red blood cells and a sharp drop in hemoglobin over a short period.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SPLENOMEGALY</LocID>                                          	
+			<Text>Splenomegaly</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SPLENOMEGALY_DESC</LocID>                                          	
+			<Text>The spleen is palpable below the costal margin, suggesting splenomegaly.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MDS</LocID>                                          	
+			<Text>Myelodysplastic Syndrome</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MDS_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate: Bone marrow is hypercellular or markedly hypercellular, showing dyspoiesis.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_ANEMIA</LocID>                                          	
+			<Text>Hemolytic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_ANEMIA_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate: Significant erythroid hyperplasia, positive iron stain, and increased sideroblasts.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_THL</LocID>                                          	
+			<Text>Thalassemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_THL_DESC</LocID>                                          	
+			<Text>Hemoglobin electrophoresis revealed abnormal hemoglobin associated with thalassemia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_APL</LocID>                                          	
+			<Text>Acute Promyelocytic Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_APL_DESC</LocID>                                          	
+			<Text>Bone marrow cytochemistry, immunology, cytogenetics, and molecular biology tests confirmed the subtype as Acute Promyelocytic Leukemia (APL).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HCL</LocID>                                          	
+			<Text>Hairy Cell Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HCL_DESC</LocID>                                          	
+			<Text>Bone marrow cytochemistry, immunology, cytogenetics, and molecular biology tests confirmed the subtype as Hairy Cell Leukemia (HCL).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CML</LocID>                                          	
+			<Text>Chronic Myeloid Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CML_DESC</LocID>                                          	
+			<Text>Bone marrow cytochemistry, immunology, cytogenetics, and molecular biology tests confirmed the subtype as Chronic Myeloid Leukemia (CML).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AML</LocID>                                          	
+			<Text>Acute Myeloid Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AML_DESC</LocID>                                          	
+			<Text>Bone marrow cytochemistry, immunology, cytogenetics, and molecular biology tests confirmed the subtype as Acute Myeloid Leukemia (AML).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AAL</LocID>                                          	
+			<Text>Acute Lymphoblastic Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AAL_DESC</LocID>                                          	
+			<Text>Bone marrow cytochemistry, immunology, cytogenetics, and molecular biology tests confirmed the subtype as Acute Lymphoblastic Leukemia (ALL).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CNSL</LocID>                                          	
+			<Text>Central Nervous System Leukemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CNSL_DESC</LocID>                                          	
+			<Text>When leukemia cells involve the central nervous system and present with symptoms such as headache, nausea, vomiting, neck stiffness, convulsions, coma, and cranial nerve damage, it is called Central Nervous System Leukemia (CNSL).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IDA</LocID>                                          	
+			<Text>Iron Deficiency Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IDA_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate shows: active or markedly active proliferation of nucleated marrow cells; predominantly erythroid hyperplasia, with no significant abnormalities in granulocytic or megakaryocytic lineages; the erythroid series is dominated by intermediate and late normoblasts, which are small in size, with dense nuclear chromatin, scanty cytoplasm, irregular morphology, and show signs of poor hemoglobinization ("nuclear-cytoplasmic asynchrony"). No significant changes in the granulocytic and megakaryocytic lineages.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MA</LocID>                                          	
+			<Text>Megaloblastic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MA_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate shows: active or markedly active proliferation of marrow, with significant erythroid hyperplasia. Cells of all lineages exhibit megaloblastic changes (large cell body, delayed nuclear development with normal cytoplasmic development, "nuclear-cytoplasmic asynchrony"), most prominently in the erythroid series. Megaloblastic changes in granulocytes are more pronounced in metamyelocytes and band forms. Megakaryocytes are increased in number, enlarged in size, and hypersegmented. Bone marrow iron staining is increased.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_NORMOCYTIC_ANEMIA</LocID>                                          	
+			<Text>Normocytic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_NORMOCYTIC_ANEMIA_DESC</LocID>                                          	
+			<Text>Normocytic anemia refers to MCV 80-100 fl and MCHC 32-35% (MCV, mean corpuscular volume; MCHC, mean corpuscular hemoglobin concentration). Common causes include acute blood loss anemia, aplastic anemia, certain hemolytic anemias, and anemia caused by endocrine, liver, or kidney diseases. Anemia is a syndrome caused by various factors leading to a decrease in the amount of hemoglobin, red blood cell count, and red blood cell volume per unit volume of peripheral blood, falling below the lower limit of the normal range, resulting in insufficient oxygen transport to tissues. Due to the complexity of measuring red blood cell volume, it is clinically defined as a peripheral blood hemoglobin concentration lower than the normal standard for the patient's age, sex, and region. Based on cell morphology, anemia can be classified into microcytic hypochromic anemia, normocytic anemia, and macrocytic anemia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MICROCYTIC_HYPOCHROMIC_ANEMIA</LocID>                                          	
+			<Text>Microcytic Hypochromic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MICROCYTIC_HYPOCHROMIC_ANEMIA_DESC</LocID>                                          	
+			<Text>Microcytic hypochromic anemia refers to MCV &lt; 80 fl and MCHC &lt; 32% (MCV, mean corpuscular volume; MCHC, mean corpuscular hemoglobin concentration). Common causes include iron deficiency anemia, sideroblastic anemia, and thalassemia. Anemia is a syndrome caused by various factors leading to a decrease in the amount of hemoglobin, red blood cell count, and red blood cell volume per unit volume of peripheral blood, falling below the lower limit of the normal range, resulting in insufficient oxygen transport to tissues. Due to the complexity of measuring red blood cell volume, it is clinically defined as a peripheral blood hemoglobin concentration lower than the normal standard for the patient's age, sex, and region. Based on cell morphology, anemia can be classified into microcytic hypochromic anemia, normocytic anemia, and macrocytic anemia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MACROCYTIC_ANEMIA</LocID>                                          	
+			<Text>Macrocytic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MACROCYTIC_ANEMIA_DESC</LocID>                                          	
+			<Text>Macrocytic anemia refers to MCV &gt; 100 fl and MCHC 32-35% (MCV, mean corpuscular volume; MCHC, mean corpuscular hemoglobin concentration). Common causes include megaloblastic anemia, hemolytic anemia with significant reticulocytosis, myelodysplastic syndrome, and liver diseases. Anemia is a syndrome caused by various factors leading to a decrease in the amount of hemoglobin, red blood cell count, and red blood cell volume per unit volume of peripheral blood, falling below the lower limit of the normal range, resulting in insufficient oxygen transport to tissues. Due to the complexity of measuring red blood cell volume, it is clinically defined as a peripheral blood hemoglobin concentration lower than the normal standard for the patient's age, sex, and region. Based on cell morphology, anemia can be classified into microcytic hypochromic anemia, normocytic anemia, and macrocytic anemia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IRON_DEFICIENCY</LocID>                                          	
+			<Text>Iron Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IRON_DEFICIENCY_DESC</LocID>                                          	
+			<Text>Serum ferritin test indicates iron deficiency.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_VITAMIN_B12_DEFICIENCY</LocID>                                          	
+			<Text>Vitamin B12 Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_VITAMIN_B12_DEFICIENCY_DESC</LocID>                                          	
+			<Text>Serum vitamin B12 test indicates vitamin B12 deficiency.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FOLATE_DEFICIENCY</LocID>                                          	
+			<Text>Folate Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FOLATE_DEFICIENCY_DESC</LocID>                                          	
+			<Text>Serum folate test indicates folate deficiency.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_LOSS_OF_APETITE</LocID>                                          	
+			<Text>Loss of appetite</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AA</LocID>                                          	
+			<Text>Aplastic Anemia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AA_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate shows: hypocellularity or severe hypocellularity in multiple sites (different planes); empty spicules, increased proportion of non-hematopoietic cells (lymphocytes, reticular cells, plasma cells, mast cells, etc.); markedly reduced or absent megakaryocytes; both erythroid and granulocytic lineages are markedly reduced. Suggestive of aplastic anemia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT</LocID>                                          	
+			<Text>Increased reticulocyte count</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT_DESC</LocID>                                          	
+			<Text>An increased reticulocyte count reflects vigorous erythroid proliferation in the bone marrow, commonly seen in hemolytic anemia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RETICULOCYTOPENIA</LocID>                                          	
+			<Text>Reticulocytopenia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RETICULOCYTOPENIA_DESC</LocID>                                          	
+			<Text>A decreased reticulocyte count reflects reduced bone marrow hematopoietic function, commonly seen in aplastic anemia or pure red cell aplasia.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SEVERE_BONE_PAIN</LocID>                                          	
+			<Text>Severe bone pain</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SEVERE_BONE_PAIN_DESC</LocID>                                          	
+			<Text>The patient feels severe bone pain.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_vWD</LocID>                                          	
+			<Text>von Willebrand Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_vWD_DESC</LocID>                                          	
+			<Text>von Willebrand factor antigen test result suggests von Willebrand disease.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FVIII_LOW</LocID>                                          	
+			<Text>Decreased factor VIII activity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FVIII_LOW_DESC</LocID>                                          	
+			<Text>Decreased factor VIII activity suggests Hemophilia A.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FIX_LOW</LocID>                                          	
+			<Text>Decreased factor IX activity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FIX_LOW_DESC</LocID>                                          	
+			<Text>Decreased factor IX activity suggests Hemophilia B.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_TCP</LocID>                                          	
+			<Text>Primary Immune Thrombocytopenia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_TCP_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate: Normal erythroid and myeloid hematopoiesis, normal or increased number of megakaryocytes, but platelet-producing megakaryocytes are significantly reduced or absent. Morphologically, megakaryocytes show signs of maturation arrest, such as increased size, mononuclear forms, scanty cytoplasm, and lack of granules, with no signs of dyspoiesis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PRCA</LocID>                                          	
+			<Text>Pure Red Cell Aplasia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PRCA_DESC</LocID>                                          	
+			<Text>Bone marrow aspirate: Good marrow cellularity, but the erythroid series is markedly reduced or absent, with other lineages being largely normal.</Text>  
+		</GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

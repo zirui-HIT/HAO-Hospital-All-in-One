@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_CRP_SLEEPY_TREATMENTS">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMIQUIMOD_CREAM</LocID>
+        <Text>Imiquimod krem</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMIQUIMOD_CREAM_DESC</LocID>
+        <Text>Imiquimod krem, yüzeyel bazal hücre karsinomu ve aktinik keratoz'u tedavi etmede kullanılan bir immünomodülatör ilaçtır. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PHOTODYNAMIC_THERAPY</LocID>
+        <Text>Fotodinamik terapi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PHOTODYNAMIC_THERAPY_DESC</LocID>
+        <Text>Fotodinamik terapi, özel bir ışık ve fotosensitizan ajan adı verilen bazı ilaçları kullanarak kanser hücrelerini öldüren bir tedavi şeklidir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY</LocID>
+        <Text>Geniş lokal eksizyon (GLE)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>
+        <Text>Geniş lokal eksizyon (GLE) küçük bir alanda yerleşen hastalıklı dokuyu bir miktar sağlıklı dokuyu da alacak şekilde çıkarmayı ifade eden bir cerrahi prosedürdür. Sıklıkla meme ve deri lezyonlarında uygulanmakla beraber vücudun her yerinde icra edilebilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DOCTORS_ADVICE</LocID>
+        <Text>Onkolojik hasta tavsiyesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DOCTORS_ADVICE_DESC</LocID>
+        <Text>Hekim hastayı hastalıkla nasıl mücadele edeceği ve sahip olduğu tedavi seçenekleri konusunda bilgilendirir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TARGETED_THERAPY</LocID>
+        <Text>Hedefe yönelik terapi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TARGETED_THERAPY_DESC</LocID>
+        <Text>Hedefe yönelik terapiler, kanserin büyüyüp yayılmasını bazı spesifik moleküllere müdahale etmek suretiyle engelleyen ilaçlardır. Standart kemoterapiden farklılık gösterir, zira sağlıklı hücrelere zarar vermeden kanser hücrelerine ve spesifik moleküler hedeflere etkide bulunacak şekilde düzenlenmiştir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_CHEMOTHERAPY</LocID>
+        <Text>Kemoterapi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_CHEMOTHERAPY_DESC</LocID>
+        <Text>Kemoterapi, bir veya birden fazla kanser ilacını standardize bir kemoterapi rejiminin parçası olarak kullanmaya dayanan bir kanser tedavisi seçeneğidir. Küratif amaçla verilebildiği gibi semptomları azaltmak veya yaşam süresini uzatmak için de kullanılabilir. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LAPAROSCOPIC_SURGERY</LocID>
+        <Text>Laparoskopik cerrahi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LAPAROSCOPIC_SURGERY_DESC</LocID>
+        <Text>Laparoskopik veya "minimal invaziv" cerrahi, özel bir cerrahi tekniğidir. Küçük insizyonlar gerektiren düşük riskli ve minimal invaziv bir prosedürdür. Laparoskop adı verilen bir cihaz abdominal organları görmek için kullanılır. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LOBECTOMY_SURGERY</LocID>
+        <Text>Pulmoner lobektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LOBECTOMY_SURGERY_DESC</LocID>
+        <Text>Pulmoner lobektomi, akciğerin bir lobunun alındığı bir cerrahi operasyondur. Hastalıklı akciğerin bir kısmını çıkarmak için uygulanır. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION</LocID>
+        <Text>Endovasküler embolizasyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>
+        <Text>Endovasküler embolizasyon (EE) invaziv bir cerrahi prosedürdür. Beyinde veya vücudun diğer kısımlarında bulunan anormal kan damarlarını tedavi etmek için kullanılır. Açık cerrahiye alternatif teşkil eder. Etkilenmiş bölgeye kan akımını kesmek üzere kan damarının bloke edilmesi temeline dayanır. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS</LocID>
+        <Text>İmmünoterapi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS_DESC</LocID>
+        <Text>İmmünoterapi, kanserle savaşmakta olan vücudun immün sistemini desteklemeyi temel alan bir kanser tedavisi seçeneğidir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_NERVE_DECOM_SURGERY</LocID>
+        <Text>Sinir rekonstrüktif cerrahi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_NERVE_DECOM_SURGERY_DESC</LocID>
+        <Text>Cerrahi sinir tamiri, hasarlı sinirin eksplorasyonunu ve hasarlı dokunun veya skarın sinir uçlarından çıkarılmasını kapsar. Daha sonra sinir eğer gerginlik oluşturmayacak şekilde iyi kalitede bir tamire olanak veren yeterli bir uzunluktaysa, uç uca bağlantısı sağlanır. \n\nGerekli oda: Nöroloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_EPIPEN</LocID>
+        <Text>Epinefrin otoenjektörü</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_EPIPEN_DESC</LocID>
+        <Text>Epinefrin otoenjektörü, otoenjektör teknolojisi vasıtasıyla ölçülü bir şekilde doz enjekte etmeye yarayan tıbbi bir cihazdır. Sıklıkla anaflaksi tedavisi için kullanılır. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POLYPECTOMY</LocID>
+        <Text>Polipektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POLYPECTOMY_DESC</LocID>
+        <Text>Polipektomi, kolon içerisindeki polipleri çıkarma prosedürüdür. Anormal doku yığınına polip denir. Nispeten noninvaziv mahiyettedir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARTIAL_COLECTOMY</LocID>
+        <Text>Kolektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARTIAL_COLECTOMY_DESC</LocID>
+        <Text>Kolektomi, kolonun rezeksiyonudur. Kolonun bir kısmının veya tamamının (çoğunlukla segmental) cerrahi olarak çıkarılması işlemidir. İleri vakalarda total kolektomi endike olabilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ADRENALECTOMY</LocID>
+        <Text>Adrenalektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ADRENALECTOMY_DESC</LocID>
+        <Text>Adrenalektomi, adrenal bezlerin birinin veya ikisinin birden cerrahi olarak çıkarılması işlemidir. Genellikle adrenal bezinde tümör olan hastalarda uygulanır. Bu prosedür açık teknikle veya laparoskopik olarak icra edilebilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MITOTANE</LocID>
+        <Text>Mitotan</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MITOTANE_DESC</LocID>
+        <Text>Lysodren müstahzar adıyla satılan mitotan, adrenokortikal karsinomada ve Cushing sendromu'nda kullanılan bir steroidogenez inhibitörü ve sitostatik antineoplastik bir ilaçtır. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPIRONOLACTONE</LocID>
+        <Text>Spironolakton</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPIRONOLACTONE_DESC</LocID>
+        <Text>Spironolakton, vücudun fazla tuz absorbe etmesini engelleyip potasyum düzeylerinin aşırı düşmesini engelleyen bir diüretiktir. Kalp yetmezliğinde, yüksek kan basıncında (hipertansiyon) veya hipokalemide (kanda düşük düzeyde potasyum bulunması) tedavi amaçlı kullanılabilir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_OCTREOTIDE_INJECTION</LocID>
+        <Text>Oktreotid enjeksiyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_OCTREOTIDE_INJECTION_DESC</LocID>
+        <Text>Oktreotid, büyüme hormonu üreten tümörlerin (akromegali ve gigantizm) tedavisinde kullanılır ve karsinoid kriz geçiren bir hastanın stabilize edilmesine yardımcı olabilir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ACTIVE_MONITOR</LocID>
+        <Text>Aktif izlem</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ACTIVE_MONITOR_DESC</LocID>
+        <Text>Aktif izlem, onkoloji uzmanının herhangi bir tedavi önermeyip hastanın sağlığını düzenli kontrollerle ve kan testleriyle takip etmesi anlamına gelir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPER_CVAD</LocID>
+        <Text>İntensif hiper-CVAD terapisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPER_CVAD_DESC</LocID>
+        <Text>"Hiper" ifadesi, yan etkileri minimize etmek için küçük dozlarda ve sık aralıklarla verilen kemoterapinin hiperfraksiyone yönünü ifade eder. "CVAD" kullanılan ilaçların baş harflerinden oluşturulmuştur: Siklofosfamid, vinkristin, doksorubisin (müstahzar adı adriamycin) ve deksametazon. Kısa süreli intensif terapiler iyi sonuç verir. \n\nGerekli oda: Onkoloji bölümünde ara yoğun bakım ünitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPLENECTOMY</LocID>
+        <Text>Splenektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPLENECTOMY_DESC</LocID>
+        <Text>Splenektomi, dalağın cerrahi olarak alınması işlemidir. Dalak göğüs kafesinin altında, abdomenin sol üst kısmında yerleşir. Enfeksiyonla savaşta, yaşlı veya hasarlı kan hücreleri gibi ihtiyaç duyulmayan maddelerin kandan temizlenmesinde rol oynar. Splenektominin en sık endikasyonu rüptüre dalaktır, genelde abdominal yaralanma sonucu gelişir. Bununla beraber splenomegali, bazı kan hastalıkları, bazı kanserler, enfeksiyonlar ve nonkanseröz kistlerde de endike olabilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_G_CSF</LocID>
+        <Text>G-CSF ilaçları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_G_CSF_DESC</LocID>
+        <Text>Koloni stimülan faktör 3 olarak da bilinen granülosit-koloni stimülan faktörleri ilaçları; kemik iliğini granülosit ve kök hücreleri üretmek ve kana salmak üzere uyaran bir glikoproteindir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_METHOTREXATE</LocID>
+        <Text>IV Metotreksat</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_METHOTREXATE_DESC</LocID>
+        <Text>Metotreksat, eski adıyla ametopterin, bir kemoterapi ajanı ve immün sistem baskılayıcısıdır. Kanser, otoimmün hastalık, ektopik gebelik tedavilerinde ve tıbbi küretajda kullanılır. Tedavi ajanı olarak kullanıldığı kanserlere meme kanseri, lösemi, akciğer kanseri, lenfoma ve osteosarkom dahildir. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ALEMTUZUMAB</LocID>
+        <Text>IV Alemtuzumab</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ALEMTUZUMAB_DESC</LocID>
+        <Text>Alemtuzumab, kronik lenfositik lösemi ve multiple skleroz tedavisinde kullanılan bir ilaçtır. KLL'de alemtuzumab hem birinci hem de ikinci basamak tedavisinde kullanılmaktadır. MS'de diğer tedaviler işe yaramadıysa önerilir. Vene enjekte edilerek uygulanır. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_BRAF_INH</LocID>
+        <Text>BRAF inhibitörleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_BRAF_INH_DESC</LocID>
+        <Text>BRAH inhibitörleri BRAF-V600E gen mutasyonunu bloke eder. Yapılan klinik denemelerde metastatik melanom hastalarının sağkalımını arttırdığı gözlemlenmiştir. İlacın yüksek efikasitesine rağmen tümörlerin %20'si ilaca direnç gösterir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TAMOXIFEN</LocID>
+        <Text>Tamoksifen</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TAMOXIFEN_DESC</LocID>
+        <Text>Tamoksifen, erkek ve kadında görülen meme kanseri tedavisinde kullanılan bir hormon ilacıdır. Cerrahiden sonra nüks riskini ve diğer memede kanser gelişme riskini azaltır. Ayrıca ileri evre meme kanserini belli bir süre kontrol altında tutabilir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEG_MASTECTOMY</LocID>
+        <Text>Parsiyel mastektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEG_MASTECTOMY_DESC</LocID>
+        <Text>Memenin tamamını almaksızın yalnızca kanserli dokunun ve çevresindeki bir miktar sağlıklı dokunun çıkarılması işlemidir. Biyopsi için koltuk altındaki bazı lenf nodları alınabilir. Kansere yakın yerleşimli ise ayrıca göğüs duvarını örten dokunun bir kısmı çıkarılabilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPERSALINE</LocID>
+        <Text>Hipertonik salin</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPERSALINE_DESC</LocID>
+        <Text>Hipertonik salin veya mannitol ile yapılan hiperosmolar tedavi ivedi bir şekilde intrakranial basıncı düşürerek hayat kurtarabilir. Kan-beyin bariyerini geçmediği için ve hipertonik muhtevası sayesinde serebrospinal sıvıyı kranium'dan ve beyinden çeker, basıncı ve ileri hasarı engeller. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_INCISION_AND_DRAINAGE</LocID>
+        <Text>İnsizyon ve drenaj</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_INCISION_AND_DRAINAGE_DESC</LocID>
+        <Text>İnsizyon ve drenaj, derinin altında birikmiş sıvı veya basıncı boşaltmak için yapılan küçük cerrahi bir prosedürdür. \n\nGerekli oda: Onkoloji teşhis ünitesi / Onkoloji polikliniği / Yoğun bakım ünitesi / Gözlem odası</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DEBULKING</LocID>
+        <Text>Debulking cerrahi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DEBULKING_DESC</LocID>
+        <Text>Debulking cerrahisi, cerrahi olarak kürü mümkün olmayan malign neoplazinin ileride uygulanacak kemoterapi veya radyoterapiye daha iyi yanıt vermesi için uygulanan tümör hacmini azaltma cerrahisidir. Hekim remisyon sağlamak üzere takibinde farklı tedaviler planlar. \n\nGerekli oda: Nöroloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GTR</LocID>
+        <Text>Gross total rezeksiyon kraniotomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GTR_DESC</LocID>
+        <Text>Gross total rezeksiyon kraniotomi, manyetik rezonans görüntüleme (MRG) ile görülebilen tümör dokusunun tamamen çıkarılması işlemidir. Supratotal rezeksiyon tümöre komşu olan sağlıklı beyin dokusu dahil edilecek şekilde gerçekleştirilir. \n\nGerekli oda: Nöroloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ESTRADIOL_CREAM</LocID>
+        <Text>Östradiol krem</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ESTRADIOL_CREAM_DESC</LocID>
+        <Text>Östradiol krem bir kadın hormonu olan östrojen preparatıdır. Vajinal bölgede kuruluk, yanma, kaşınma, idrar yaparken yanma ve acil idrar hissi gibi menopoz semptomlarını tedavi etmek için vajinal bölgeye topikal uygulanır. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_UNI_SALOOPH</LocID>
+        <Text>Unilateral salpingo-ooferektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_UNI_SALOOPH_DESC</LocID>
+        <Text>Unilateral salpingo-ooferektomi, aynı tarafta bulunan ve ortak kanlanmaya sahip olan over ve tuba uterina'nın cerrahi olarak alınmasıdır, bilateral prosedürde iki over ve tuba uterina da alınır. Doğurganlığını korumak isteyen kadınlarda unilateral yaklaşım ilk tedavi seçeneği olmalıdır. Nüks riski nispeten yüksek olsa da sağkalımı azaltmadığı düşünülmektedir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RAD_PROS</LocID>
+        <Text>Radikal prostatektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RAD_PROS_DESC</LocID>
+        <Text>Radikal prostatektomi, prostat bezinin ve çevresindeki dokuların alınması işlemidir. Genellikle seminal veziküllerin ve çevredeki bazı lenf nodlarının da alınmasını kapsar. Prostat ile sınırlı kanserlerde tam kür sağlayabilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HORMONE_THERAPY</LocID>
+        <Text>Hormon terapisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HORMONE_THERAPY_DESC</LocID>
+        <Text>Hormon terapisi, tıbbi tedavi olarak hormonların kullanılmasıdır. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARATHY</LocID>
+        <Text>Paratiroidektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARATHY_DESC</LocID>
+        <Text>Paratiroidektomi, paratiroit bezlerinin alınması işlemidir. Paratiroit bezleri boyunda tiroit bezinin hemen arkasında yerleşir. Kanda bulunan kalsiyum düzeylerinin düzenlenmesinde rol oynar. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RCHOP</LocID>
+        <Text>R-CHOP kemoterapi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RCHOP_DESC</LocID>
+        <Text>R-CHOP, non-Hodgkin lenfoma (NHL) tedavisinde kullanılan bir kombinasyon terapisidir. Beş adet kemoterapi ilacını muhteva eder: Rituksimab (Rituxan), siklofosfamid, doksorubisin hidroklorid, vinkristin ve prednizolon. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RITUXIMAB</LocID>
+        <Text>Rituksimab</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RITUXIMAB_DESC</LocID>
+        <Text>Rituxan müstahzar adıyla da satılan rituksimab, bazı kanser çeşitlerinin ve otoimmün hastalıkların tedavisinde kullanılan bir ilaçtır. Rituksimab, CD20 proteini kimerik monoklonal antikorudur, CD20 proteini esas olarak B hücrelerinin yüzeyinde bulunur. Rituksimab bu proteine bağlandığında hücre ölümünü tetikler. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GEMCITABINE</LocID>
+        <Text>Gemsitabin</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GEMCITABINE_DESC</LocID>
+        <Text>Gemzar müstahzar adıyla satılan gemsitabin bazı kanser çeşitlerinin tedavisinde kullanılan bir ilaçtır. Bu kanser türlerine meme kanseri, over kanseri, küçük hücreli dışı akciğer kanseri, pankreas kanseri ve mesane kanseri dahildir. Damar yoluyla yavaş bir şekilde enjekte edilir. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POCT</LocID>
+        <Text>POC kombinasyon tedavisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POCT_DESC</LocID>
+        <Text>Pamidronat ve oktreotid kombinasyon tedavisinin bazı vakalarda kemik ağrısını azalttığı ve hipertrofik pulmoner osteoartropati tedavisini asiste ettiği yapılan izole çalışmalarda gösterilmiştir. Bununla beraber esas sorunu çözmek için altta yatan sorunu tedavi etmek elzemdir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEGMENTECTOMY</LocID>
+        <Text>Segmentektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEGMENTECTOMY_DESC</LocID>
+        <Text>Segmental rezeksiyon, bir organ veya bezin bir kısmının cerrahi olarak çıkarılması işlemidir. Ayrıca bir tümörün ve çevresindeki sağlıklı dokunun birlikte çıkarılması için de uygulanabilir. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_FEP</LocID>
+        <Text>FEP kombinasyon tedavisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_FEP_DESC</LocID>
+        <Text>5-fluorourasil (5-FU), sisplatin ve etopozid kombinasyon tedavisi nispeten daha geç tanı konan ve sağkalım oranları daha düşük olan taşlı yüzük hücreli karsinom gibi hastalıkların tedavisinde kullanılan bir tedavi rejimidir. Ayrıca mide kanseri tedavisinde salvage kemoterapi şeklinde de uygulanabilmektedir. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_AMMONUL</LocID>
+        <Text>Ammonul</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_AMMONUL_DESC</LocID>
+        <Text>Ammonul (sodyum benzoat ve sodyum fenilasetat kombinasyonu) kanda fazla miktarda amonyak bulunması ile karakterize hiperamonyemi durumunu tedavi etmek için kullanılır. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LACTULOSE</LocID>
+        <Text>Laktuloz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LACTULOSE_DESC</LocID>
+        <Text>Laktuloz, karaciğer hastalığının bir komplikasyonu olan hepatik ensefalopatiyi önlemek ve tedavi etmek için ağızdan veya rektal yoldan verilen bir ilaçtır. Tam kür sağlamaz ancak hastanın mental durumunu iyileştirebilir. Laktuloz kanda bulunan amonyağı azaltarak etki gösterir. \n\nGerekli oda: Herhangi bir ofis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HEPATECTOMY</LocID>
+        <Text>Hepatektomi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HEPATECTOMY_DESC</LocID>
+        <Text>Hepatektomi, karaciğerin tamamının cerrahi rezeksiyonudur. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LIVER_TRANSPL</LocID>
+        <Text>Karaciğer nakli</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LIVER_TRANSPL_DESC</LocID>
+        <Text>Karaciğer nakli veya transplantasyonu, hastalıklı veya işlev göstermeyen karaciğerin alınıp yerine bir donörden alınmış sağlıklı bir karaciğerin yerleştirildiği cerrahi bir prosedürdür. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOSUS_DRUGS</LocID>
+        <Text>İmmünsüpresif ilaçlar</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOSUS_DRUGS_DESC</LocID>
+        <Text>İmmünsüpresif ilaçlar, vücudun bağışıklık sisteminin gücünü baskılayan veya azaltan ilaçlardır. Bu ilaçların bazıları organ nakillerinde vücudun yeni organı reddetmemesi için kullanılır. \n\nGerekli oda: Onkoloji ameliyathanesi</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

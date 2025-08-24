@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_KR_ADDON_URKN_TREATMENTS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</LocID>                            
+		<Text>Shock wave lithotripsy</Text> 
+	</GameDBLocalizedString>      
+	   
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY_DESC</LocID>              
+		<Text>A procedure commonly carried out to break stones lodged in the urethra (the tube connecting a kidney to the bladder). It is non-surgical treatment option using high energy ultrasound shock waves to broke stones into dust, allowing them to pass. \n\nRequired room: Sonography unit at General Surgery dpt \n\nRequired equipment: Therapy shockwave</Text>  
+	</GameDBLocalizedString>          
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>고환고정술</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>고환고정술은 원치 않는 위치에 있는 고환을 음낭으로 옮겨 영구적으로 고정시키는 수술입니다. 따라서 이는 일반적으로 고환 뒤틀림을 해결하는 대표적인 절차입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>고환절제술</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>고환절제술은 하나 또는 둘 다의 고환을 모두 제거하는 수술입니다. 이는 고환암 치료나 일부 고환 비틀림 치료, 혹은 전립선암 관리를 위해 시행됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>α1 수용체 차단제</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>선택적인 α1 수용체 차단제입니다. 이는 알푸조신, 독사조신, 실로도신, 탐스로신, 테라조신, 나프토피딜을 포함합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>5α 환원효소억제제</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>5α 환원효소억제제는 전립선비대증을 가진 남성에게 사용될 수 있습니다. 이는 전립선 확대를 유발하는 호르몬인 DHT의 생성을 억제합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>경요도 전립선 절제술</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>경요도 전립선 절제술은 비뇨기 문제를 해결하고 흐름을 개선하는 데 가장 효과적인 접근법이지만, 합병증을 유발할 가능성이 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>PDE5 억제제</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>포스포다이에스터레이스5 억제제는 실데나필(Viagra), 바데나필(Levitra), 타다라필(Cialis) 으로 대표되는, 입으로 복용하는 처방약입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>신장 이식술</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>신장 이식술은 신장 말기 질환 환자에게 새 신장을 이식하는 것입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>먼역억제제</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>면역억제제는 신체가 새로운 장기를 거부하지 않도록 하기 위해 면역체계의 활동을 억제하는 약물입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>투석요법</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>신장이 제 기능을 유지하기 힘들 때, 혈류에서 노폐물을 제거하는 과정의 요법입니다.\n\n필요한 방: 비뇨기과의 투석실\n\n필요한 장비: 투석기</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>투석병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>투석병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>정관절제술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>정관절제술은 남성의 영구 피임을 위한 수술 절차입니다. 남성의 정관을 잘라 묶거나 밀봉하여 정자가 요도에 들어가지 않도록 합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH</LocID>                               
+		<Text>부분 신장 절제술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH_DESC</LocID>                               
+		<Text>신장 절제술은 신장을 외과적으로 절제하는 수술입니다. 이는 신장암뿐만 아니라 다른 신장 질환 및 부상을 치료하기 위해서도 시행됩니다. 부분 신장 절제술에서는 신장의 손상된 부분만 제거됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH</LocID>                               
+		<Text>근치적 신장 절제술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_DESC</LocID>                               
+		<Text>신장 절제술은 신장을 외과적으로 절제하는 수술입니다. 이는 신장암뿐만 아니라 다른 신장 질환 및 부상을 치료하기 위해서도 시행됩니다. 근치적 신장 절제술은 신장 주변 조직들과 함께 신장을 제거합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA</LocID>                               
+		<Text>근치적 신장 절제술 및 하대정맥 혈전 절제술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA_DESC</LocID>                               
+		<Text>신장 절제술은 신장을 외과적으로 절제하는 수술입니다. 이는 신장암뿐만 아니라 다른 신장 질환 및 부상을 치료하기 위해서도 시행됩니다. 암이 근처 정맥으로 전이되었을 때 하대정맥 혈전절제술 또한 시행됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH</LocID>                               
+		<Text>방광 카데터</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH_DESC</LocID>                               
+		<Text>방광에 카데터를 달아 소변 배출을 담당시킵니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD</LocID>                               
+		<Text>방광 수술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD_DESC</LocID>                               
+		<Text>방광 수술은 방광의 외상을 해결하기 위해 수행됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR</LocID>                               
+		<Text>방광질누공 수술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR_DESC</LocID>                               
+		<Text>방광질누공을 해결하기 위한, 큰 절개 없이 행해지는 수술입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH</LocID>                               
+		<Text>신장 수술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH_DESC</LocID>                               
+		<Text>신장 수술</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

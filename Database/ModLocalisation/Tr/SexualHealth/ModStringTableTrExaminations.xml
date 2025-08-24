@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_TR_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>tr</LanguageCode>
+        <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>xburcus</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>   
+				<Text>Genital tarama</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>    
+				<Text>Genital tarama analizi</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>    
+				<Text>Genital swab (sürüntü)</Text>
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>   
+				<Text>Genital swab analizi</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>  
+				<Text>Serviks veya anüsten az miktarda hücreyi nazikçe almak için küçük bir örnekleyici kullanılır. Hücreler test edilmek üzere bir laboratuara gönderilir.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>  
+				<Text>Serviks veya anal hücre analizi</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+				<Text>Vajina veya penisten swab alınır.</Text>  
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>     
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>  
+				<Text>Swab kültürü, enfeksiyon belirtilerini kontrol etmek için analiz edilir.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Semen collection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Semen collection refers to the process of obtaining semen from the patient, usually through masturbation, directing the sample into a clean cup.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Semen collection analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>The semen collection is analysed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Groin examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Examination of the patient's groin area.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name/>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++  v0.01  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Potassium salt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>The most used is potassium chloride in micro-encapsulated form. It is an oral potassium supplement</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Moisturizer cream</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>A cosmetic preparation used to prevent dryness in the skin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Glucose infusion</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Venous glucose infusion.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Hydrocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>Hydrocortisone is the name for the hormone cortisol when supplied as a medication.</Text>	</GameDBLocalizedString>
++++  v0.03  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT</LocID>								<Text>Autograft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT_DESCRIPTION</LocID>					<Text>A graft of tissue from one point to another of the same individual's body.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT</LocID>								<Text>Allograft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT_DESCRIPTION</LocID>					<Text>A tissue graft from a donor of the same species as the recipient but not genetically identical.</Text>	</GameDBLocalizedString>
++++  v0.03.2  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER</LocID>								<Text>Iron Chelators</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER_DESCRIPTION</LocID>					<Text>The goal of iron chelation therapy is to prevent iron-mediated injury to cells.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE</LocID>								<Text>Sclerotherapy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE_DESCRIPTION</LocID>					<Text>It's the treatment of varicose blood vessels by the injection of an irritant which causes inflammation, coagulation of blood, and narrowing of the blood vessel wall.</Text>	</GameDBLocalizedString>
++++  v0.03.3  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR</LocID>										<Text>Immunosuppressive drugs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR_DESCRIPTION</LocID>							<Text>Immunosuppressive drugs, also known as immunosuppressive agents, immunosuppressants and antirejection medications are drugs that inhibit or prevent activity of the immune system.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV</LocID>											<Text>IV PPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV_DESCRIPTION</LocID>								<Text>Treatment with a high dose Proton Pump Inhibitor before gastroscopy decreases the need for endoscopic hemostasis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION</LocID>								<Text>Endovascular embolization</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION_DESCRIPTION</LocID>					<Text>In endovascular embolization, a catheter is inserts into a leg artery and threads it through blood vessels to injects an embolizing agent using X-ray imaging. </Text>	</GameDBLocalizedString>
+-->
+
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Androgen replacement therapy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>Androgen replacement therapy (ART), often referred to as testosterone replacement therapy (TRT), is a form of hormone therapy in which androgens, often testosterone, are replaced. ART is often prescribed to counter the effects of male hypogonadism.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Dopaminergic agonist</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>A dopamine receptor agonist (DA) is a compound that activates dopamine receptors. There are two families of dopamine receptors, D2-like and D1-like, and they are all G protein-coupled receptors. D1- and D5-receptors belong to the D1-like family and the D2-like family includes D2, D3 and D4 receptors. The DA are used in Parkinson’s disease and, to a lesser extent, to treat depression, hyperprolactinemia and restless leg syndrome.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Hydrocortisone - Fluorocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Association of hydrocortisone and fluocortisone.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Vitamin D</Text>	</GameDBLocalizedString>
+<!--  v0.03  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>Monoclonal antibodies</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>Monoclonal antibodies (mAb or moAb) are antibodies that are made by identical immune cells that are all clones of a unique parent cell. Monoclonal antibodies can have monovalent affinity, in that they bind to the same epitope (the part of an antigen that is recognized by the antibody).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>Trivalent cation chelator</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>A trivalent cation chelator is capable of fixing free iron from plasma or cells to form the ferrioxamine complex.</Text>	</GameDBLocalizedString>
+<!--  v0.03.2  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP</LocID>													<Text>GBI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>Glycolipid Biosynthesis Inhibitors prevent glycolipid synthesis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>										<Text>ERT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>Enzyme replacement therapy (ERT) is a medical treatment which replaces an enzyme that is deficient or absent in the body.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>Phlebotomy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>The surgical opening or puncture of a vein in order to withdraw blood, to introduce a fluid, or (historically) when letting blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>Danaparoid sodium</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>Danaparoid sodium is an anticoagulant with an antithrombotic action due to inhibition of thrombin generation (TGI) by two mechanisms: indirect inactivation of Factor Xa via AT and direct inhibition of thrombin activation of Factor IX (an important feedback loop for thrombin generation).</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Valve replacement</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>Valve replacement surgery is the replacement of one or more of the heart valves with either an artificial heart valve or a bioprosthesis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Pace-Maker</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>A cardiac pacemaker (or artificial pacemaker, so as not to be confused with the natural pacemaker of the heart), is a medical device that generates electrical impulses delivered by electrodes to cause the heart muscle chambers (the upper, or atria and/or the lower, or ventricles) to contract and therefore pump blood; by doing so this device replaces and/or regulates the function of the electrical conduction system of the heart.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Implantable cardioverter-defibrillator</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>An implantable cardioverter-defibrillator (ICD) or automated implantable cardioverter defibrillator (AICD) is a device implantable inside the body, able to perform cardioversion, defibrillation, and (in modern versions) pacing of the heart. The device is therefore capable of correcting most life-threatening cardiac arrhythmias. The ICD is the first-line treatment and prophylactic therapy for patients at risk for sudden cardiac death due to ventricular fibrillation and ventricular tachycardia. Current devices can be programmed to detect abnormal heart rhythms and deliver therapy via programmable antitachycardia pacing in addition to low-energy and high-energy shocks.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revascularization</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>Vascular bypass and angioplasty are the two primary means of revascularization.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>Fasciotomy or fasciectomy is a surgical procedure where the fascia is cut to relieve tension or pressure commonly to treat the resulting loss of circulation to an area of tissue or muscle.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Stent</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Exclusion of the aneurysmal area from the circulatory flow by interposition of a vascular prosthesis. In the graft flattening, the prosthetic tube is sutured both above and below the aneurysm in order to reconstruct the artery.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Adrenalectomy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Surgical removal of one or both adrenal glands.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Surgical excision</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Surgical excision</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>An excision is a surgical procedure consisting in removing from the organism an element which is harmful or useless to it.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Thyroidectomy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Surgical removal of the thyroid gland.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>Splenectomy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>Surgical removal of the spleen.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>Stereotactic</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>Stereotactic neurosurgery is the technique for locating targets of surgical interest within the brain relative to an external frame of reference.</Text>	</GameDBLocalizedString>
+
+			<!-- Fixed -->
+			
+			<GameDBLocalizedString> <LocID>TRT_CRP_VITAMINOTHERAPY_IV</LocID> <Text>Intravenous vitamin therapy</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>TRT_CRP_VITAMINOTHERAPY_IV_DESCRIPTION</LocID> <Text>Parenteral vitamin supplementation for confirmed or suspected deficiencies or malabsorption (e.g., IV thiamine for suspected Wernicke encephalopathy); typically delivered in clinical settings.</Text> </GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>TRT_MOREDG_TRANSPLANTATION_COEUR</LocID> <Text>Heart transplant</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>TRT_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID> <Text>Surgical replacement of a failing heart with a donor heart for end-stage heart failure when medical and surgical alternatives are no longer effective.</Text> </GameDBLocalizedString>
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

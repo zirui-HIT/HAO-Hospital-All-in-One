@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_CRP_EXAMINATIONS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>U-ru-Ru</Name>
+			<Name>Anubis</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN</LocID>								<Text>Обследование молочных желез</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN_DESCRIPTION</LocID>					<Text>Визуальный осмотр и пальпация молочной железы.</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV</LocID>						<Text>УЗИ таза</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV_DESCRIPTION</LocID>			<Text>УЗИ тазовой области.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_SAMPLING</LocID>						<Text>Взятие Пап-мазка</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_TESTING</LocID>						<Text>Проверка Пап-мазка</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_DESCRIPTION</LocID>					<Text>Метод раннего выявления рака, особенно шейки матки, который включает окрашивание отслоившихся клеток с использованием специальной методики, которая дифференцирует пораженную ткань.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_SAMPLING</LocID>					<Text>Взятие ГТТ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_TESTING</LocID>						<Text>проверка ГТТ</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_DESCRIPTION</LocID>					<Text>Глюкозотолерантный тест (ГТТ) — лабораторный метод исследования, применяемый для диагностики нарушения толерантности к сахару (глюкозе).</Text>	</GameDBLocalizedString>
+
+			
+			
+					
+			
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Сцинтиграфия</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>Сцинтиграфия (от латинского scintilla, «искра»), также известная как гамма-сканирование, является диагностическим тестом в ядерной медицине, где радиоизотопы, прикрепленные к лекарствам, которые перемещаются в определенный орган или ткань (радиофармацевтические препараты), принимаются внутрь и испускают гамма-излучение. захватывается внешними детекторами (гамма-камерами) для формирования двумерных изображений в процессе, аналогичном захвату рентгеновских изображений.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ФСИСА</Text>	</GameDBLocalizedString>	// outdated
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ФСИСА - тестирование</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>Ферментно-связанный иммуносорбентный анализ (ФСИСА) является обычно используемым аналитическим биохимическим анализом. В анализе используется твердофазный иммуноферментный анализ (EIA) для выявления присутствия лиганда (обычно белка) в жидком образце с использованием антител, направленных против измеряемого белка. ФСИСА использовался в качестве диагностического инструмента в медицине, патологии растений и биотехнологии, а также для контроля качества в различных отраслях промышленности. В наиболее простой форме ИФА антигены из образца прикрепляются к поверхности. Затем на поверхность наносится соответствующее антитело, чтобы оно могло связываться с антигеном. Это антитело связано с ферментом, и на последнем этапе добавляется вещество, содержащее субстрат фермента. Последующая реакция производит обнаруживаемый сигнал, чаще всего изменение цвета.</Text>	</GameDBLocalizedString>
+
+
+			
+			
+			
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

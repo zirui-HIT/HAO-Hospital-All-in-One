@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_HU_ADDON_CRP_OTOR_SYMPTOMS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 
+		
+      
+	   
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_NASAL_POLYP</LocID>                 
+		 <Text>Orrpolipok</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SINUS_FINDINGS</LocID>                               
+		 <Text>Orrlelet</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_NASAL_DRIP</LocID>                 
+		 <Text>Orrcsepegés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_NASAL_DRIP_DESCRIPTION</LocID>     
+		 <Text>Az orrcsepegés az orrból származó nyálka, ami ártalmatlanul csöpög le a torkon, amit a beteg lenyel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_INFLAMMED_RH</LocID>                 
+		 <Text>Gyulladt orrüregek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_INFLAMMED_RH_DESCRIPTION</LocID>     
+		 <Text>A beteg orrürege gyulladt. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_INFLAMMED_SINUSES</LocID>                 
+		 <Text>Gyulladt orrmelléküregek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_INFLAMMED_SINUSES_DESCRIPTION</LocID>     
+		 <Text>Gyulladt nyálkahártya szövetbélés, amely az orrmelléküregeket takarja. </Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>    
+		 <LocID>SYM_CRP_SINUS_FINDINGS_DESCRIPTION</LocID>                               
+		 <Text>Orrleleteket talált CT.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_NASAL_DRAINAGE</LocID>                               
+		 <Text>Orrfolyás</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_CRP_NASAL_DRAINAGE_DESCRIPTION</LocID>                               
+		 <Text>A betegnek azonosítatlan folyadékai távoznak az orrból.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_SNORING</LocID>                 
+		 <Text>Horkolás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_SNORE_DESCRIPTION</LocID>     
+		 <Text>A horkolás az a cselekedet vagy tény, hogy alvás közben horkolás vagy morgás hangot ad ki. Jelezheti az obstruktív alvási apnoét.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_IRREGULAR_NASAL_CYCLE</LocID>                 
+		 <Text>Szabálytalan orrciklus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_IRREGULAR_NASAL_CYCLE_DESC</LocID>     
+		 <Text>Az orrciklus az orrüregek gyakran észrevétlenül váltakozó részleges torlódása és dekongesztálása emberekben és más állatokban. Ez az orrdugók fiziológiai torlódása, más néven orrturbinátok, az autonóm idegrendszer egyik felének a hipotalamusz által történő szelektív aktiválása miatt. Nem szabad összetéveszteni a patológiás orrdugulással. Ebben az esetben az orrciklus szabálytalan, és ez annak a jele lehet, hogy valami nincs rendben az orr vagy az orrhoz kapcsolódó idegek miatt. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_DIFFICULTY_BREATHING_THROUGH_NOSE</LocID>                 
+		 <Text>Nehézség az orron keresztüli légzésben</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_DIFFICULTY_BREATHING_THROUGH_NOSE_DESC</LocID>     
+		 <Text>A betegnek nehézségei vannak az orrán keresztüli légzéssel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_DRY_NOSE</LocID>                 
+		 <Text>Száraz orr</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_DRY_NOSE_DESC</LocID>     
+		 <Text>A beteg orra száraz. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_NASAL_PAIN</LocID>                 
+		 <Text>Orrfájdalom</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_NASAL_PAIN_DESC</LocID>     
+		 <Text>A beteg orra fáj. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_LOSS_OF_SMELL_OR_TASTE</LocID>                 
+		 <Text>A szaglás és / vagy az ízlelés elvesztése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_LOSS_OF_SMELL_OR_TASTE_DESC</LocID>     
+		 <Text>A betegnek szaglás- és / vagy ízlelés vesztése van. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_NOSE_DAMAGE</LocID>                 
+		 <Text>Orrkárosodás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_NOSE_DAMAGE_DESCRIPTION</LocID>     
+		 <Text>A beteg orra sérült. </Text>  
+		</GameDBLocalizedString>
+		
+      
+	   
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_EAR_PRESSURE</LocID>                 
+		 <Text>Nyomásérzés a fülben</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_EAR_PRESSURE_DESCRIPTION</LocID>     
+		 <Text>A beteg úgy érzi, hogy nyomás nehezedik a fülére, vagy a füle tele van.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_EAR_DAMAGE</LocID>                 
+		 <Text>Fülkárosodás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_EAR_DAMAGE_DESCRIPTION</LocID>     
+		 <Text>A beteg füle valamilyen trauma vagy betegség miatt károsodott.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_EAR_DEFORMITY</LocID>                 
+		 <Text>Füldeformitás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_EAR_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>A beteg füle eldeformálódott.</Text>  
+		</GameDBLocalizedString>
+		
+	 
+	  
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_NECK_INJURY</LocID>                 
+		 <Text>Nyaki sérülés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_NECK_INJURY_DESCRIPTION</LocID>     
+		 <Text>A beteg nyaki sérülést szenvedett. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SWOLLEN_NECK</LocID>                 
+		 <Text>Duzzadt nyak</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SWOLLEN_NECK_DESCRIPTION</LocID>     
+		 <Text>A beteg nyaka megduzzadt. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_MOUTH_DRAINAGE</LocID>                 
+		 <Text>Szájürítés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_MOUTH_DRAINAGE_DESCRIPTION</LocID>     
+		 <Text>A betegnek azonosítatlan folyadék távozik a szájából.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_DRY_MOUTH</LocID>                 
+		 <Text>Xerostomia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_DRY_MOUTH_DESCRIPTION</LocID>     
+		 <Text>A Xerostomia szájszárazságot jelent, a beteg szája száraz.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_HYPOSALIVATION</LocID>                 
+		 <Text>Hyposaliváció</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_HYPOSALIVATION_DESCRIPTION</LocID>   
+		 <Text>A páciens szája nem termel annyira nyálat, ezért a páciens szája kiszárad.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_SIALOLITHIASIS</LocID>                 
+		 <Text>Sialolithiasis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SIALOLITHIASIS_DESCRIPTION</LocID>     
+		 <Text>A sialolithiasis a nyálmirigy köveinek orvosi kifejezése. Ezek a kövek vagy fogkő többnyire kalciumból állnak, de tartalmaznak magnéziumot, káliumot és ammóniumot is. A szájnak három nyálmirigye van, amelyek kövek képződhetnek: parotid, submandibularis, sublingualis és minor nyálmirigyek.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_PSEUDOMEMBRANE</LocID>                 
+		 <Text>Álmembrán</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_PSEUDOMEMBRANE_DESCRIPTION</LocID>     
+		 <Text>Az álmembrán a szem vagy a torok hamis membránja, amely néha fertőzések és gyulladások során alakul ki. Jellemzően a kötőhártyát vagy a szem fehér részét takarja, és nagyon kényelmetlen lehet, és pszeudomembrán is kialakul, ha a betegnek diftéria van. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_VOCAL_POLYP_HEMORRHAGE</LocID>                 
+		 <Text>Vérzéses vokális polip</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_VOCAL_POLYP_HEMORRHAGE_DESCRIPTION</LocID>     
+		 <Text>A vokális polip vérzik a betegben.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_LUMP_IN_THROAT</LocID>                 
+		 <Text>Csomó a torokban</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_LUMP_IN_THROAT_DESCRIPTION</LocID>     
+		 <Text>A páciens torkában egy vagy több csomót találtak.</Text>  
+		</GameDBLocalizedString>
+	 
+	 
+		
+	 
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_CRP_FACIAL_PRESSURE</LocID>                 
+		 <Text>Arcnyomás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_FACIAL_PRESSURE_DESC</LocID>     
+		 <Text>A beteg nyomást érez az arcán.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_FACIAL_PAIN</LocID>                 
+		 <Text>Arcfájdalom</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_FACIAL_PAIN_DESC</LocID>     
+		 <Text>A beteg fájdalmat érez az arcán.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_FACIAL_WEAKNESS</LocID>                 
+		 <Text>Arc gyengesége</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_FACIAL_WEAKNESS_DESC</LocID>     
+		 <Text>A beteg arcidege gyenge valamilyen trauma vagy betegség miatt.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_FACIAL_DEFORMITY</LocID>                 
+		 <Text>Arc deformitás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_FACIAL_DEFORMITY_DESC</LocID>     
+		 <Text>A beteg arca eldeformálódott.</Text>  
+		</GameDBLocalizedString>
+	 
+	 
+	   
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SQLL_CARCINOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>Laphámsejtes vérmarkerek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SQLL_CARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>A vérvizsgálat során kiderült, hogy olyan vérmarkerek vannak, mint a CA-125, a CA-19-9 és az SCC antigének, amelyek valahol a pikkelysömör daganat felé mutatnak. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_ADENOCARCINOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>Adenocarcinoma vérmarkerek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_ADENOCARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>A vérvizsgálat során kiderült, hogy bizonyos vérmarkerek megemelkedtek, valahol egy Adenocarcinoma tumor felé mutatnak. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_MELANOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>Melanoma vérmarkerek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_MELANOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>A vérvizsgálat során kiderült, hogy bizonyos vérmarkerek antigénjei valahol a melanoma daganat felé mutatnak. </Text>  
+		</GameDBLocalizedString>
+
+	 
+	  
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_ACID_REFLUX</LocID>                 
+		 <Text>Savas reflux</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_ACID_REFLUX_DESCRIPTION</LocID>     
+		 <Text>A gyomorégés fájdalmas égő érzés a mellkasban vagy a torokban. Akkor fordul elő, amikor a gyomorsav visszalép a nyelőcsőbe, abba a csőbe, amely az ételt a szájából a gyomrába viszi. A gyomorégés kezelését antacidok vagy protonpumpa-gátlók segítségével lehet elérni. </Text>  
+		</GameDBLocalizedString>
+		
+     
+	  
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_PNEUMONIA</LocID>                 
+		 <Text>Tüdőgyulladás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_PNEUMONIA_DESCRIPTION</LocID>     
+		 <Text>A tüdőgyulladás olyan fertőzés, amely az egyik vagy mindkét tüdő légzsákjai gyullad be. A légzsákok megtelhetnek folyadékkal vagy gennygel, köhögést okozva váladékkal vagy gennygel, lázzal, hidegrázással és légzési nehézségekkel. Számos organizmus, beleértve a baktériumokat, vírusokat és gombákat, tüdőgyulladást okozhat. A bakteriális tüdőgyulladás kezelése nélkül komplikációkhoz, például légzési elégtelenséghez és akár halálhoz is vezethet. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_ARDS</LocID>                 
+		 <Text>Akut légzési distressz szindróma (ARDS)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_ARDS_DESCRIPTION</LocID>     
+		 <Text>Az akut respirációs distressz szindróma (ARDS) egyfajta légzési elégtelenség, amelyet a széles körben elterjedt gyulladás gyors kezdete jellemez a tüdőben. A tünetek közé tartozik a légszomj, a gyors légzés és a kékes bőrszín. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_STRIDOR</LocID>                 
+		 <Text>Stridor</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_STRIDOR_DESCRIPTION</LocID>     
+		 <Text>A Stridor egy magas, ziháló hang, amelyet a megzavarodott légáramlás okoz. A Stridor nevezhető zenei légzésnek vagy extrathoracikus légúti elzáródásnak is. A légáramlást általában a gége vagy a légcső elzáródása zavarja. A Stridor gyakrabban érinti a gyermekeket, mint a felnőtteket.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_DECREASED_PITCH_AND_LOUDNESS</LocID>                 
+		 <Text>Csökken a hangszín magasság</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_DECREASED_PITCH_AND_LOUDNESS_DESCRIPTION</LocID>     
+		 <Text>A beteg csökkent hangszín magasság-tartományban és hangosságban szenved.</Text>  
+		</GameDBLocalizedString>
+		
+	
+	  
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SEVERE_PAIN</LocID>                 
+		 <Text>Erőteljes fájdalom</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_SEVERE_PAIN_DESCRIPTION</LocID>     
+		 <Text>A beteg intenzív fájdalmat tapasztal. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_ENCEPHALITIS</LocID>                 
+		 <Text>Agyvelőgyulladás (encephalitis)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_ENCEPHALITIS_DESCRIPTION</LocID>     
+		 <Text>Az encephalitis (en-sef-uh-LIE-tis) az agy gyulladása. Számos oka van, de a leggyakoribb a vírusfertőzés. Az encephalitis gyakran csak enyhe influenzaszerű jeleket és tüneteket - például lázat vagy fejfájást - okoz, vagy egyáltalán nem jelentkezik. Néha az influenzaszerű tünetek súlyosabbak. Az encephalitis zavart gondolkodást, görcsrohamokat vagy mozgásproblémákat vagy érzékeket, például látást vagy hallást is okozhat. Bizonyos esetekben az encephalitis életveszélyes lehet. Az időben történő diagnózis és a kezelés azért fontos, mert nehéz megjósolni, hogy az encephalitis milyen hatással lesz az egyénre. </Text>  
+		</GameDBLocalizedString>
+	    
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

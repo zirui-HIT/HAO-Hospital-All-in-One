@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_URKN_SKILLS">
+	
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+		<Name>Knabbel</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+	<GameDBLocalizedString>      
+		<LocID>DPT_URKN</LocID>                                          	
+		<Text>Urology and Nephrology</Text>  
+	</GameDBLocalizedString>
+
+
+
+
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR</LocID>                   
+		<Text>Urology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_DESC</LocID>                   
+		<Text>Urology gives access to specialized procedures for detecting, diagnosing and treating various forms diseases at the urology department.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY</LocID>                   
+		<Text>Genitourinary surgery</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY_DESC</LocID>                   
+		<Text>Genitourinary surgery allows the doctor to act as main surgeon at Urology department and affects how often surgeries will end up with complications.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_IT_ADDON_UR_BUILDING_MODE">
+<LanguageCode>it</LanguageCode>
+<LanguageNameLocalized>Italiano</LanguageNameLocalized>
+<Contributors>
+<Name>neoxes</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>Urologia</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>Adesivo murale.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1</LocID>       			
+		<Text>Poster - URN: Salute</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1_DESC</LocID>       
+		<Text>Una decorazione e una distrazione per i pazienti annoiati.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2</LocID>       			
+		<Text>Poster - URN: Malattie</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2_DESC</LocID>       
+		<Text>Una decorazione e una distrazione per i pazienti annoiati.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3</LocID>       			
+		<Text>Poster - URN: Urina</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3_DESC</LocID>       
+		<Text>Una decorazione e una distrazione per i pazienti annoiati.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>Ambulatorio di Urologia</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>Ambulatorio diagnostico comune di Urologia. \n\nRequisiti min. staff: \n1x Dottore</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>Ambulatorio di Nefrologia</Text>   
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>Ambulatorio diagnostico comune di Nefrologia. \n\nRequisiti min. staff: \n1x Dottore</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>Centro Dialisi</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>Il centro dialisi è specializzato nel trattamento dei pazienti affetti da insufficienza renale. \n\nRequisiti min. staff: \n1x Dottore \n1x Infermiere \n(Personale della Sala Medici e della Sala Infermieri)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

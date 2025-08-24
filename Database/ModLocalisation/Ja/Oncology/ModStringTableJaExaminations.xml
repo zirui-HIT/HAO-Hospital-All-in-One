@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_JA_ADDON_ONCOLOGYSL_EXAMINATIONS">
+
+        <LanguageCode>ja</LanguageCode>
+        <LanguageNameLocalized>日本語</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Clamm0363</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            
+            <GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT</LocID>                                      
+			<Text>血中カテコールアミン検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_DESC</LocID>                                      
+			<Text>血中カテコールアミン検査では、体内のカテコールアミンの量を測定する。「カテコールアミン」とは、ドーパミン、ノルエピネフリン、エピネフリンというホルモンの総称である。 \n\n必要要件：血液検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_TEST</LocID>                                      
+			<Text>血中カテコールアミン検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_TEST_DESC</LocID>                                      
+			<Text>血中カテコールアミン検査では、体内のカテコールアミンの量を測定する。「カテコールアミン」とは、ドーパミン、ノルエピネフリン、エピネフリンというホルモンの総称である。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA</LocID>                                      
+			<Text>腫瘍マーカー検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_DESC</LocID>                                      
+			<Text>特定の種類の癌の診断と管理に用いられる血液検査。腫瘍マーカーとは、癌の増殖に反応して体内で生成される物質(通常はタンパク質）か、癌組織自体によって生成される物質である。腫瘍マーカーの中には、ある種類の癌に特異的なものもあれば、いくつかの種類の癌にみられるものもある。よく知られているマーカーの多くは、癌だけでなく非癌性の病態でもみられる。したがって、癌の診断には使用できない。 \n\n必要条件：血液検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_TEST</LocID>                                      
+			<Text>腫瘍マーカー検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_TEST_DESC</LocID>                                      
+			<Text>特定の種類の癌の診断と管理に用いられる血液検査。腫瘍マーカーとは、癌の増殖に反応して体内で生成される物質(通常はタンパク質）か、癌組織自体によって生成される物質である。腫瘍マーカーの中には、ある種類の癌に特異的なものもあれば、いくつかの種類の癌にみられるものもある。よく知られているマーカーの多くは、癌だけでなく非癌性の病態でもみられる。したがって、癌の診断には使用できない。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY</LocID>                                      
+			<Text>大腸内視鏡検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>大腸内視鏡検査は、癌、大腸ポリープや腸内の他の異常を探すために行われる医療処置である。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具を使用して行われる。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS</LocID>                                      
+			<Text>尿中抗原スクリーニング検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_DESC</LocID>                                      
+			<Text>尿中の癌に基づく抗原の量を調べる尿検査。尿中に排泄される様々な病原体からの脱落抗原が腎臓に濃縮されていることを利用して、尿中抗原検査を行うことで、迅速な検査結果を得ることができる。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_TEST</LocID>                                      
+			<Text>尿中抗原スクリーニング検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_TEST_DESC</LocID>                                      
+			<Text>尿中の癌に基づく抗原の量を調べる尿検査。尿中に排泄される様々な病原体からの脱落抗原が腎臓に濃縮されていることを利用して、尿中抗原検査を行うことで、迅速な検査結果を得ることができる。</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>骨髄生検（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>骨髄生検では、骨髄の構造を保存した円筒形のコアサンプルを採取する。この生検サンプルは、細胞性を判断するために専門家によって評価され、細胞の体積は骨髄の他の成分の体積と比較され、異なる細胞系列が適切な数で存在するかどうか、骨髄に異常な浸潤があるかどうかが判断される。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>骨髄生検</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>骨髄生検では、骨髄の構造を保存した円筒形のコアサンプルを採取する。この生検サンプルは、細胞性を判断するために専門家によって評価され、細胞の体積は骨髄の他の成分の体積と比較され、異なる細胞系列が適切な数で存在するかどうか、骨髄に異常な浸潤があるかどうかが判断される。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT</LocID>                                      
+			<Text>フローサイトメトリー検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_DESC</LocID>                                      
+			<Text>フローサイトメトリーは、細胞または粒子の集団の物理的および化学的特性を検出し、測定するために使用される技術である。細胞または粒子を含むサンプルを流体に懸濁させ、フローサイトメーター装置に注入する。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_TEST</LocID>                                      
+			<Text>フローサイトメトリー検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>フローサイトメトリーは、細胞または粒子の集団の物理的および化学的特性を検出し、測定するために使用される技術である。細胞または粒子を含むサンプルを流体に懸濁させ、フローサイトメーター装置に注入する。</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CBC_SAMPLING</LocID>                                      
+			<Text>（腫瘍科）全血球計算（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>末梢血塗抹標本検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>血液フィルム（末梢血塗抹）とは、顕微鏡のスライドガラス上に血液を薄く塗抹し、様々な血液細胞を顕微鏡で観察できるように染色したもの。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>末梢血塗抹標本検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>血液フィルム（末梢血塗抹）とは、顕微鏡のスライドガラス上に血液を薄く塗抹し、様々な血液細胞を顕微鏡で観察できるように染色したもの。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>肝機能検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>肝機能検査（LFTとも呼ばれる）とは、肝臓がどのように機能しているかについての情報を提供することができる血液検査のこと。肝機能検査では、肝細胞によって産生されたり、肝細胞が損傷を受けた際に血液中に放出されたりする多くのタンパク質や酵素のレベルを検査する。 \n\n必要条件：血液検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_TEST</LocID>                                      
+			<Text>肝機能検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>肝機能検査（LFTとも呼ばれる）とは、肝臓がどのように機能しているかについての情報を提供することができる血液検査のこと。肝機能検査では、肝細胞によって産生されたり、肝細胞が損傷を受けた際に血液中に放出されたりする多くのタンパク質や酵素のレベルを検査する。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_SAMPLE</LocID>                                      
+			<Text>FISH検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>蛍光in situハイブリダイゼーション（FISH）は、高度の配列相補性を有する核酸配列の部分のみに結合する蛍光プローブを用いる分子細胞遺伝学的技術である。染色体上の特定のDNA配列の有無を検出し、その位置を特定するために、1980年代初期に生物医学研究者によって開発された。蛍光顕微鏡を用いて、蛍光プローブが染色体のどこに結合しているかを調べることができる。FISHは、遺伝カウンセリング、医学、種の同定に用いるDNAの特異的な特徴を発見するためにしばしば用いられる。FISHはまた、細胞、循環腫瘍細胞、および組織試料中の特定のRNA標的（mRNA、lncRNA、miRNA）を検出および局在化するために使用される。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_TEST</LocID>                                      
+			<Text>FISH検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_TEST_DESC</LocID>                                      
+			<Text>蛍光in situハイブリダイゼーション（FISH）は、高度の配列相補性を有する核酸配列の部分のみに結合する蛍光プローブを用いる分子細胞遺伝学的技術である。染色体上の特定のDNA配列の有無を検出し、その位置を特定するために、1980年代初期に生物医学研究者によって開発された。蛍光顕微鏡を用いて、蛍光プローブが染色体のどこに結合しているかを調べることができる。FISHは、遺伝カウンセリング、医学、種の同定に用いるDNAの特異的な特徴を発見するためにしばしば用いられる。FISHはまた、細胞、循環腫瘍細胞、および組織試料中の特定のRNA標的（mRNA、lncRNA、miRNA）を検出および局在化するために使用される。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>染色検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>染色とは、一般的には顕微鏡レベルで試料のコントラストを高めるために使用される技術である。染色および染料は、組織学（顕微鏡下での組織の研究）および顕微鏡レベルでの疾患の研究および診断に焦点を当てた組織病理学、血液学、細胞病理学の医療分野で頻繁に使用されている。染色は、生物学的組織（例えば、筋繊維や結合組織を強調する）、細胞集団（異なる血球を分類する）、または個々の細胞内の細胞小器官を定義するために使用される。 \n\n必要条件：血液検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_TEST</LocID>                                      
+			<Text>染色検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>染色とは、一般的には顕微鏡レベルで試料のコントラストを高めるために使用される技術である。染色および染料は、組織学（顕微鏡下での組織の研究）および顕微鏡レベルでの疾患の研究および診断に焦点を当てた組織病理学、血液学、細胞病理学の医療分野で頻繁に使用されている。染色は、生物学的組織（例えば、筋繊維や結合組織を強調する）、細胞集団（異なる血球を分類する）、または個々の細胞内の細胞小器官を定義するために使用される。</Text>  
+			</GameDBLocalizedString>
+			
+			
+			
+			
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>マンモグラフィ検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>マンモグラフィは乳房組織のX線検査で、身体検査では感じられないほどの小さな変化を見つけることができる。 \n\n必要条件：X線検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_SAMPLE</LocID>                                      
+			<Text>穿刺吸引細胞診（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>穿刺吸引とは、組織、細胞、または体液のサンプルを除去するための、より迅速で痛みの少ない生検手順のこと。穿刺吸引では、細い針を異常に見える組織または体液の領域に挿入する。他のタイプの生検と同様に、細針吸引中に採取したサンプルは、診断を行ったり、癌などの状態を除外するのに役立つ。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_TEST</LocID>                                      
+			<Text>穿刺吸引細胞診</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_TEST_DESC</LocID>                                      
+			<Text>穿刺吸引とは、組織、細胞、または体液のサンプルを除去するための、より迅速で痛みの少ない生検手順のこと。穿刺吸引では、細い針を異常に見える組織または体液の領域に挿入する。他のタイプの生検と同様に、細針吸引中に採取したサンプルは、診断を行ったり、癌などの状態を除外するのに役立つ。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_SAMPLE</LocID>                                      
+			<Text>電子顕微鏡検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>診断用電子顕微鏡は、高倍率（超微細レベル）でヒト組織をスクリーニングするための重要な診断ツールとして使用されている。診断目的のために、固体組織は他の生物学的組織と同じ方法で透過型電子顕微鏡（TEM）のために準備され、それらはグルタルアルデヒドと四酸化オスミウムで固定された後、脱水され、エポキシ樹脂に埋め込まれる。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_TEST</LocID>                                      
+			<Text>電子顕微鏡検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>診断用電子顕微鏡は、高倍率（超微細レベル）でヒト組織をスクリーニングするための重要な診断ツールとして使用されている。診断目的のために、固体組織は他の生物学的組織と同じ方法で透過型電子顕微鏡（TEM）のために準備され、それらはグルタルアルデヒドと四酸化オスミウムで固定された後、脱水され、エポキシ樹脂に埋め込まれる。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_PELVIC_EXAM</LocID>                                      
+			<Text>内診</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>内診とは、女性の生殖器を医師が目視および身体的に検査すること。検査中、医師は膣、子宮頸管、卵管、外陰部、卵巣、子宮を検査する。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_DRE_EXAM</LocID>                                      
+			<Text>直腸指診</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_DRE_EXAM_DESC</LocID>                                      
+			<Text>直腸指診（DRE）は、男女ともに受ける検査である。直腸下部、骨盤部、下腹部に癌や前立腺癌などの健康上の問題がないかを調べることができる。</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_SAMPLE</LocID>                                      
+			<Text>血中ミネラル検査（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>血中ミネラル検査は、血液中の5つのミネラルの検査を含み、ミネラルスペクトル全体の欠乏や過剰摂取（毒性）を検出するために使用される。このパネルでは、以下の5つのミネラルのレベルを検査する：カルシウム、銅、マグネシウム、マンガンおよび亜鉛 \n\n必要条件：血液検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_TEST</LocID>                                      
+			<Text>血中ミネラル検査</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>血中ミネラル検査は、血液中の5つのミネラルの検査を含み、ミネラルスペクトル全体の欠乏や過剰摂取（毒性）を検出するために使用される。このパネルでは、以下の5つのミネラルのレベルを検査する：カルシウム、銅、マグネシウム、マンガンおよび亜鉛</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>リンパ節生検（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>リンパ節生検は、顕微鏡下で検査するためにリンパ節またはリンパ節の一部を切除する検査である。リンパ節生検は、患者が感染症、免疫疾患、または癌に罹患しているかどうかを判断するのに役立つ。 \n\n必要条件：組織検査室</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>リンパ節生検</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>リンパ節生検は、顕微鏡下で検査するためにリンパ節またはリンパ節の一部を切除する検査である。リンパ節生検は、患者が感染症、免疫疾患、または癌に罹患しているかどうかを判断するのに役立つ。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA</LocID>                                      
+			<Text>（廃止） 検査は削除されました</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA_DESC</LocID>                                          
+			<Text>この検査はMODから削除されましたが、検査を予約に入れているプレイヤーを保護するためにコードに残してあります。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_CEA_TEST</LocID>                                           
+			<Text>（廃止） 検査は削除されました</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA_TEST_DESC</LocID>                                           
+			<Text>この検査はMODから削除されましたが、検査を予約に入れているプレイヤーを保護するためにコードに残してあります。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA</LocID>                                      
+			<Text>（廃止） 検査は削除されました</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA_DESC</LocID>                                          
+			<Text>この検査はMODから削除されましたが、検査を予約に入れているプレイヤーを保護するためにコードに残してあります。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_5HIAA_TEST</LocID>                                           
+			<Text>（廃止） 検査は削除されました</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA_TEST_DESC</LocID>                                           
+			<Text>この検査はMODから削除されましたが、検査を予約に入れているプレイヤーを保護するためにコードに残してあります。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB</LocID>                                      
+			<Text>（廃止） 検査は削除されました</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB_DESC</LocID>                                          
+			<Text>この検査はMODから削除されましたが、検査を予約に入れているプレイヤーを保護するためにコードに残してあります。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_CHRAB_TEST</LocID>                                           
+			<Text>（廃止） 検査は削除されました</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB_TEST_DESC</LocID>                                           
+			<Text>この検査はMODから削除されましたが、検査を予約に入れているプレイヤーを保護するためにコードに残してあります。</Text>  
+			</GameDBLocalizedString>
+			
+			
+			
+			
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>大腸内視鏡生検（検体採取）</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>大腸内視鏡検査は、癌や結腸ポリープなどの腸内の異常を調べるために行われる医学的検査のことで、大腸内視鏡（内視鏡の一種）と呼ばれる器具を使用して行われる。大腸内視鏡検査では、生検（結腸内壁の小さなサンプル）を実施してさらに詳しい検査を行う。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>大腸内視鏡生検</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>大腸内視鏡検査は、癌や結腸ポリープなどの腸内の異常を調べるために行われる医学的検査のことで、大腸内視鏡（内視鏡の一種）と呼ばれる器具を使用して行われる。大腸内視鏡検査では、生検（結腸内壁の小さなサンプル）を実施してさらに詳しい検査を行う。</Text>  
+			</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

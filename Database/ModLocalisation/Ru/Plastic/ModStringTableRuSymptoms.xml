@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_RU_ADDON_PLASTICS_SYMPTOMS">
+	<LanguageCode>ru</LanguageCode>
+	<LanguageNameLocalized>Русский</LanguageNameLocalized>
+	<Contributors>
+	<Name>Anubis</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C001_V2</LocID>                                          	
+		<Text>Запрос пациента (увеличение груди)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C001_DESC</LocID>                   
+		<Text>Пациентка выразила желание косметического увеличения груди для улучшения своего внешнего вида.</Text>  
+	</GameDBLocalizedString>	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PLAS_NERVE_DAMAGE_V2</LocID>                               
+		<Text>Послеоперационная невропатическая боль</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PLAS_NERVE_DAMAGE_DESC</LocID>                   
+		<Text>Послеоперационная невропатическая боль (ПОНП) может развиться, если нервы были повреждены во время операции. Поврежденные нервы не могут правильно передавать сигналы от различных частей тела к мозгу. Вместо этого эти сигналы становятся преувеличенными, вызывая хроническую боль, которая может сохраняться в течение месяцев или даже лет.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UNDESIRED_RESULTS_V2</LocID>                               
+		<Text>Неблагоприятные исходы</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UNDESIRED_RESULTS_DESC</LocID>                   
+		<Text>Неблагоприятные исходы являются неотъемлемой частью проведения любых операций. Нежелательные результаты после лечения возникают после завершения операции или лечения, и результат отличается от ожидаемого. Это может привести к дальнейшим осложнениям и усилению стресса у пациента.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_S_SCAR_TISSUE_V2</LocID>                               
+		<Text>Значительная рубцовая ткань</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_S_SCAR_TISSUE_DESC</LocID>                   
+		<Text>Шрам - это след, который остается на коже после заживления раны или повреждения поверхности кожи. Образование рубцов или рубцовой ткани - нормальная часть процесса заживления и происходит, когда кожа порезана в результате травмы или хирургического вмешательства. На рост рубцовой ткани влияют многие факторы, в том числе: тяжесть исходного повреждения. Размер, глубина и расположение раны на теле. Излишек рубцовой ткани, имеющий глубокие слои, может значительно снизить функциональность и подвижность через несколько месяцев после операции. Это может иметь негативные последствия и снизить удовлетворенность пациентов.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_CAPSULAR_V2</LocID>                               
+		<Text>Капсульная контрактура</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_CAPSULAR_DESC</LocID>                   
+		<Text>Капсульная контрактура - это осложнение увеличения груди, которое развивается, когда внутренняя рубцовая ткань образует плотную или сужающуюся капсулу вокруг грудного имплантата, сжимая ее до тех пор, пока она не станет деформированной и твердой.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BARSA_INFECTION_V2</LocID>                               
+		<Text>Инфекция грудного имплантата</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BARSA_INFECTION_DESC</LocID>                   
+		<Text>На первый взгляд бактериальная инфекция является проблемой для любого имплантируемого медицинского устройства, включая грудные имплантаты. Симптомы инфекции могут включать высокую температуру и боль в груди, покраснение и / или отек. Если окажется, что одни антибиотики не избавят от инфекции, тогда хирургу может потребоваться очистить инфицированную ткань и либо заменить, либо полностью удалить имплант.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FAILED_BA</LocID>                               
+		<Text>Неудачное увеличение груди</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FAILED_BA_DESC</LocID>                   
+		<Text>Из-за хирургических осложнений пациент не смог добиться успешного результата косметической операции. Им это не понравится. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_IMPLANT_EXTRUSION_V2</LocID>                               
+		<Text>Экструзия грудного имплантата</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_IMPLANT_EXTRUSION_DESC</LocID>                   
+		<Text>В относительно редких случаях после операции по реконструкции имплантата поверхность имплантата или расширителя тканей проходит через кожу и обнажается. Это называется «выдавливанием». У пациента может развиться инфекция, если у них есть выдавленный или обнаженный имплант. Если грудной имплант уже выдавился или вот-вот выдавится, пластическому хирургу придется удалить его или заменить с помощью корректирующей операции.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_ABSCESS</LocID>                   
+		<Text>Абсцесс</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C002_V2</LocID>                                          	
+		<Text>Запрос пациента (липосакция)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C002_DESC</LocID>                   
+		<Text>Пациент заявил, что хочет, чтобы липосакция улучшила его внешний вид.</Text>  
+	</GameDBLocalizedString>	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C003_V2</LocID>                                          	
+		<Text>Запрос пациента (увеличивающая ринопластика)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C003_DESC</LocID>                   
+		<Text>Пациент заявил, что хочет увеличить свой внешний вид с помощью увеличивающей ринопластики.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NOSE_SEPTALPERF_V2</LocID>                                          	
+		<Text>Перфорация носовой перегородки</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NOSE_SEPTALPERF_DESC</LocID>                   
+		<Text>Перфорация носовой перегородки - это заболевание, при котором в носовой перегородке, костной / хрящевой стенке, разделяющей носовые полости, образуется отверстие или трещина. Некоторые перфорации могут вызвать кровотечение, боль и свистящий звук при вдохе. Если скопится засохшая кровь или струпья, у вас также могут возникнуть проблемы с дыханием через нос. Многие перфорации не нужно закрывать, но серьезные или сложные могут привести к инфекциям.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R001</LocID>                                          	
+		<Text>Блефароспазм (оценка)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R001_DESC</LocID>                   
+		<Text>Специального теста на блефароспазм нет. Диагноз основывается на физикальном осмотре, истории болезни и исключении других возможных причин. Врач оценил симптомы пациента и определил, что диагноз действительно блефароспазм.</Text>  
+	</GameDBLocalizedString>		
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_GLOBE_PERFORATION_V2</LocID>                                          	
+		<Text>Повреждение глазного шара</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_GLOBE_PERFORATION_DESC</LocID>                   
+		<Text>Повреждение глазного шара происходит, когда целостность наружных оболочек глаза нарушается тупой или проникающей травмой. Любая травма на всю толщину роговицы, склеры или и того, и другого считается открытой травмой глазного яблока и лечится таким же образом в острых случаях. Повреждение глазного шара - это неотложная офтальмологическая помощь, и незамедлительные действия крайне важны для достижения максимального функционального результата. Хотя положение шара внутри орбиты во многих ситуациях защищает его от травм, повреждение заднего сегмента глаза связано с очень высокой частотой необратимой потери зрения.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_UNDESIRED_RESULTS_V2</LocID>                                          	
+		<Text>Неудовлетворительное выравнивание глаз</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_UNDESIRED_RESULTS_DESC</LocID>                   
+		<Text>Неудовлетворительное выравнивание глаз после операции является наиболее частым осложнением при коррекции косоглазия и других проблем смещения глаз. Несмотря на тщательные предоперационные измерения и использование общепринятых хирургических таблиц дозировок, у определенного процента пациентов после операции будет произведена избыточная или недокоррекция, требующая корректирующих хирургических процедур для облегчения проблемы.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_CIC_V2</LocID>                               
+		<Text>Киста включения конъюнктивы</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_CIC_DESC</LocID>                   
+		<Text>Кисты включения конъюнктивы возникают, когда эпителиальные клетки конъюнктивы погружаются под поверхность конъюнктивы во время операции. Эти клетки могут со временем размножаться и образовывать субконъюнктивальную кисту через несколько дней или лет после первоначальной операции. Рубцы конъюнктивы чаще возникают после повторной операции, а также после хирургической резекции, когда продвижение мышцы живота может продвинуть более толстую заднюю теноновую капсулу ближе к лимбу, где она более заметна.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_SLIPPED_MUSCLE_V2</LocID>                               
+		<Text>Скольжение мышц</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_SLIPPED_MUSCLE_DESC</LocID>                   
+		<Text>Скольжение мышц развивается, когда мышечная капсула сужается без включения мышцы или мышечного сухожилия во время операции по поводу косоглазия. Когда капсула снова прикрепляется к склере, сухожилие и мышца могут свободно скользить кзади от места прикрепления.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C004_V2</LocID>                               
+		<Text>Запрос пациента (пересадка волос)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C004_DESC</LocID>                   
+		<Text>Пациент заявил, что хочет, чтобы пересадка волос улучшила его внешний вид.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C005</LocID>                               
+		<Text>Запрос пациента (химический пилинг)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C005_DESC</LocID>                   
+		<Text>Пациент заявил, что хочет, чтобы химический пилинг улучшил его внешний вид. Пациент хочет сделать только легкий пилинг, чтобы не было проблем с кожей и не требовало длительного лечения.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R002</LocID>                                          	
+		<Text>Смещенные глаза</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R002_DESC</LocID>                   
+		<Text>Подтверждено, что у пациента смещены глаза.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R003</LocID>                                          	
+		<Text>Простое варикозное расширение вен</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R003_DESC</LocID>                   
+		<Text>У пациента варикозное расширение вен, но, к счастью, они довольно просты и не имеют признаков или симптомов более серьезного диагноза. Нельзя игнорировать варикозное расширение вен, вызывающее симптомы, и немедленно лечить его, чтобы предотвратить дискомфорт пациента и помочь предотвратить проблемы в будущем.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C006</LocID>                                          	
+		<Text>Запрос пациента (сосудистые звездочки)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C006_DESC</LocID>                   
+		<Text>Пациент заявил, что ему нужна процедура по удалению сосудистых звездочек (телеангиэктазии) на части или частях тела, чтобы улучшить его внешний вид.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R004_M</LocID>                                          	
+		<Text>Постоянно согнутый палец</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R004_F</LocID>                                          	
+		<Text>Постоянно согнутый палец</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R004_DESC</LocID>                   
+		<Text>Палец пациента постоянно согнут внутрь к ладони. Изгиб является результатом того, что толстая ткань заставляет палец принять сжатое положение. Оценка предполагает, что это причина контрактуры Дюпюитрена.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R005</LocID>                                          	
+		<Text>Гипертрофический рубец</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R005_DESC</LocID>                   
+		<Text>У пациента появились гипертрофические рубцы, которые доставляют ему некоторый дискомфорт. Хотя эти шрамы не опасны или опасны для жизни, устранение дискомфорта поможет улучшить качество жизни пациента.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R006</LocID>                                          	
+		<Text>Келоидные рубцы</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_R006_DESC</LocID>                   
+		<Text>Пациент обратился с жалобой на келоидные рубцы, доставляющие некоторый дискомфорт. Хотя эти шрамы не опасны или опасны для жизни, устранение дискомфорта поможет улучшить качество жизни пациента.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_RT001_V2</LocID>                                          	
+		<Text>Потеря пальца</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_RT001_DESC</LocID>                   
+		<Text>Один из пальцев пациента был ампутирован в результате несчастного случая или травмы.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C007</LocID>                               
+		<Text>Запрос пациента (кондиционирование кожи)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C007_DESC</LocID>                   
+		<Text>Пациент сказал, что ему нужны инъекции ботокса, чтобы улучшить состояние кожи и улучшить ее внешний вид.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C008</LocID>                               
+		<Text>Запрос пациента (кондиционирование кожи)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C008_DESC</LocID>                   
+		<Text>Пациент заявил, что ему нужны инъекции кожного наполнителя, чтобы улучшить состояние кожи и улучшить ее внешний вид.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C009</LocID>                               
+		<Text>Запрос пациента (омоложение кожи)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_C009_DESC</LocID>                   
+		<Text>Пациент заявил, что хочет, чтобы процедура лазерной шлифовки помогла омолодить кожу и улучшить ее внешний вид.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

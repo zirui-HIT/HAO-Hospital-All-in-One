@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_HU_ADDON_CRP_SLEEPY_TREATMENTS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>GaborBartal</Name>
+	<Name>kmd94</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Imiquimod krém</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>Az imikimod egy vényköteles krém, amely immunválasz-módosítóként működik, amelyet felszíni bazális sejtes karcinóma és aktinikus keratózis kezelésére használnak. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Fotodinamikai terápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>A fotodinamikai terápia olyan kezelés, amely bizonyos fényérzékenyítő szereknek nevezett gyógyszereket és egy speciális fényt használ a rákos sejtek elpusztítására. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Onkológiai betegtanácsadás</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>Az orvos tanácsokat ad a betegnek a helyzetének kezelésére, segít a páciensnek abban, hogy jobban megértse lehetőségeit, például a palliatív ellátást, és mindent megtesz annak érdekében, hogy a beteg ebben az időben a lehető legjobb életminőséget élvezze. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Célzott terápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>A célzott terápiák olyan gyógyszerek vagy egyéb anyagok, amelyek blokkolják a rák növekedését és terjedését azáltal, hogy bizonyos molekulákba hatnak. A célzott terápiák különböznek a szokásos kemoterápiától, mivel úgy tervezték őket, hogy meghatározott molekuláris célpontokra hatjanak, és az egészséges sejtek károsítása nélkül támadják meg a rákos sejteket. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Kemoterápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>A kemoterápia egyfajta rákkezelés, amely egy vagy több rákellenes gyógyszert használ a standard kemoterápiás kezelés részeként. A kemoterápia gyógyító szándékkal adható, vagy célja lehet az élet meghosszabbítása vagy a tünetek csökkentése. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Immun terápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>Az immunterápia egyfajta rákkezelés, amely segíti a szervezet immunrendszerét a rák elleni küzdelemben. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+	<Text>Epinefrin autoinjektor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+	<Text>Az epinefrin autoinjektor olyan orvostechnikai eszköz, amely mért dózis vagy adrenalin injekciókat vezet be autoinjektor technológiával. Leggyakrabban anafilaxia kezelésére használják. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MITOTANE</LocID>                                    	
+	<Text>Mitotane</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MITOTANE_DESC</LocID>                        	
+	<Text>A Lysodren márkanéven forgalmazott mitotán egy szteroidogenezis gátló és citosztatikus daganatellenes gyógyszer, amelyet adrenokortikális carcinoma és Cushing-szindróma kezelésében alkalmaznak. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Spironolakton</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>A spironolakton egy kálium-megtakarító vízhajtó (vizes tabletta), amely megakadályozza, hogy a test túl sok sót szívjon fel, és megakadályozza, hogy a káliumszint túl alacsony legyen. A spironolaktont szívelégtelenség, magas vérnyomás (magas vérnyomás) vagy hipokaliémia (alacsony káliumszint a vérben) kezelésére alkalmazzák. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Oktreotid injekció</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>Az oktreotidot a növekedési hormont termelő daganatok (akromegália és gigantizmus) kezelésére használják, és segíthet egy karcinoid-krízisben szenvedő beteg stabilizálásában. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Aktív megfigyelés</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>Aktív monitorozás az, amikor az onkológus nem javasol kezelést, de rendszeres ellenőrzésekkel és vérvizsgálatokkal figyeli a beteg egészségi állapotát. Ezt néha „gondos megfigyelésnek” vagy „figyelés és várakozás” -nak nevezik. \n\nRequired room: Any Oncology office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_HYPER_CVAD</LocID>                                    	
+	<Text>Intenzív Hyper-CVAD terápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>A „hiper” kifejezés a kemoterápia hiperfrakcionált jellegére utal, amelyet kisebb adagokban, gyakrabban adnak be a mellékhatások minimalizálása érdekében. A „CVAD” az A tanfolyamon használt gyógyszerek rövidítése: ciklofoszfamid, vinkrisztin, doxorubicin (kereskedelmi nevén Adriamycin néven is ismert) és dexametazon. A rövid távú intenzív terápiák jobb eredményeket mutatnak. \n\nRequired room: High Priority Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_G_CSF</LocID>                                    	
+	<Text>G-CSF gyógyszerek</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_G_CSF_DESC</LocID>                        	
+	<Text>A granulocita-kolóniát stimuláló gyógyszerek, más néven kolónia-stimuláló faktor 3, egy glikoprotein, amely stimulálja a csontvelőt granulociták és őssejtek termelésére és a véráramba történő felszabadításra. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_METHOTREXATE</LocID>                                    	
+	<Text>Metotrexát IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_METHOTREXATE_DESC</LocID>                        	
+	<Text>A metotrexát, korábban amethopterin néven, kemoterápiás szer és immunrendszer-szuppresszáns. Rák, autoimmun betegségek, méhen kívüli terhesség és orvosi abortuszok kezelésére szolgál. A rák típusai, amelyekre alkalmazzák, emlőrák, leukémia, tüdőrák, limfóma és oszteoszarkóma. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Alemtuzumab IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>Az alemtuzumab egy krónikus limfocita leukémia és sclerosis multiplex kezelésére szolgáló gyógyszer. A CLL-ben az Alemtuzumabot mind első, mind második vonalbeli kezelésként alkalmazták. SM-ben általában csak akkor ajánlott, ha más kezelések nem működtek. Vénába történő injekció formájában adják be. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_BRAF_INH</LocID>                                    	
+	<Text>BRAF inhibitorok</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_BRAF_INH_DESC</LocID>                        	
+	<Text>A BRAF inhibitorok segítenek blokkolni a BRAF-V600E génmutációt. Klinikai vizsgálatokban a B-Raf növelte a metasztatikus melanoma betegek túlélési esélyét. A gyógyszer magas hatékonysága ellenére a daganatok 20% -ában még mindig rezisztencia alakul ki a kezeléssel szemben. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TAMOXIFEN</LocID>                                    	
+	<Text>Tamoxifen</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>A tamoxifen az emlőrák hormonterápiája nőknél és férfiaknál egyaránt. Csökkenti annak kockázatát, hogy a korai emlőrák műtét után visszatér (visszatérő) vagy a másik emlőben kialakulhat. Ez egy ideig képes a fejlett emlőrák kezelésére is. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPERSALINE</LocID>                                    	
+	<Text>Hipertóniás sóoldat</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPERSALINE_DESC</LocID>                        	
+	<Text>A hipertóniás sóoldattal vagy mannittel végzett hiperoszmoláris terápia gyorsan csökkentheti a koponyaűri nyomást, életeket és agysejteket menthet meg. A hipertóniás sóoldat azért hatékony, mert nem lépi át a vér-agy gátat (sokat), és ezáltal a cerebrospinalis folyadékot a koponyából, a folyadékot pedig a sérült agyból húzza ki, csökkentve a nyomást és a további sérüléseket. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Bevágás és vízelvezetés</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>A bemetszés, a vízelvezetés és a klinikai szúrás kisebb sebészeti beavatkozások a bőr alatt felhalmozódott folyadék vagy nyomás felszabadítására. \n\nRequired room: Oncology Diagnostic Unit / Oncology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Ösztradiol krém</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>Az ösztradiol krém az ösztrogén, egy női hormon készítmény, amelyet a hüvely területére lokálisan alkalmaznak, a menopauza bizonyos tüneteinek kezelésére, például a hüvelyi terület szárazságára, égésére és viszketésére, valamint sürgető vagy vizelési irritációra. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Hormonterápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>A hormonterápia vagy a hormonális terápia a hormonok alkalmazása az orvosi kezelésben. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RCHOP</LocID>                                    	
+	<Text>R-CHOP kemoterápia</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RCHOP_DESC</LocID>                        	
+	<Text>Az R-CHOP egy kombinált kezelés, amelyet a non-Hodgkin-lymphoma (NHL) kezelésére használnak. Az R-CHOP öt kemoterápiás gyógyszert tartalmaz: a rituximab (Rituxan) ciklofoszfamidot. doxorubicin-hidroklorid, vinkrisztin és prednizolon. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RITUXIMAB</LocID>                                    	
+	<Text>Rituximab</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RITUXIMAB_DESC</LocID>                        	
+	<Text>A Rituxanab, amelyet többek között Rituxan márkanév alatt árulnak, bizonyos autoimmun betegségek és rákfajták kezelésére szolgáló gyógyszer. A rituximab egy kiméra monoklonális antitest a CD20 fehérjével szemben, amely elsősorban az immunrendszer B-sejtjeinek felületén található meg. Amikor ehhez a fehérjéhez kötődik, kiváltja a sejthalált. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GEMCITABINE</LocID>                                    	
+	<Text>Gemcitabin</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GEMCITABINE_DESC</LocID>                        	
+	<Text>A többek között a Gemzar márkanév alatt értékesített gemcitabin kemoterápiás gyógyszer, amelyet számos ráktípus kezelésére használnak. Ezek a rákok közé tartoznak az emlőrák, a petefészekrák, a nem kissejtes tüdőrák, a hasnyálmirigyrák és a hólyagrák. Lassú vénás injekcióval adják be. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POCT</LocID>                                    	
+	<Text>POC kombinált kezelés</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POCT_DESC</LocID>                        	
+	<Text>Pamidronát és oktreotid kombinált kezelés. Elszigetelt jelentések szerint a pamidronát és az oktreotid egyes esetekben segíthetnek a csontfájdalom enyhítésében, és segítséget nyújthatnak a hipertrófiás tüdőos osteoarthropathia (HPOA) kezelésében. A probléma megoldásához az alapprobléma kezelése szükséges.  \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_FEP</LocID>                                    	
+	<Text>FEP kombinált kezelés</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_FEP_DESC</LocID>                        	
+	<Text>5-fluorouracil (5-FU), ciszplatin és etopozid (FEP) kombinált kezelés. A kemoterápia viszonylag gyenge gyógyító hatású bizonyos rákos megbetegedésekben, például a Signet Ring Cell Carcinoma (SRCC) és a betegek körében, és az általános túlélési arány alacsonyabb, mint a tipikusabb rákbetegségben szenvedőké. Ezeket a rákokat általában a betegség késői szakaszában diagnosztizálják, ezért a daganatok általában agresszívebben terjednek, mint a nem pecsétes daganatok, így a kezelés kihívást jelent, de a legtöbb aktív kezelés az 5-fluor-uracilt (5-FU), a ciszplatint és / vagy az etopozidot tartalmazza. A FEP kombinált kemoterápia hatékony gyógymódnak tűnik a gyomorrákban, mint megmentő kemoterápia. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_AMMONUL</LocID>                                    	
+	<Text>Ammonul</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_AMMONUL_DESC</LocID>                        	
+	<Text>Az Ammonul-t (nátrium-benzoát és nátrium-fenil-acetát kombináció) olyan állapot kezelésére használják, amelyet a vér túl sok ammónia okoz (hiperammonémia). \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LACTULOSE</LocID>                                    	
+	<Text>Laktulóz</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LACTULOSE_DESC</LocID>                        	
+	<Text>A laktulóz egy vényköteles gyógyszer, amelyet szájon át vagy rektálisan alkalmaznak a májbetegségek (máj encephalopathia) szövődményeinek kezelésére vagy megelőzésére. Nem gyógyítja meg a problémát, de segíthet a mentális állapot javításában. A laktulóz egy vastagbél savanyító, amely úgy működik, hogy csökkenti az ammónia mennyiségét a vérben. \n\nRequired room: Any office.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Immunszuppresszív gyógyszerek</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Az immunszuppresszív gyógyszerek a gyógyszerek olyan csoportja, amelyek elnyomják vagy csökkentik a szervezet immunrendszerének erejét. Ezen gyógyszerek egy részét arra használják, hogy a test kevésbé hajlandó elutasítani az átültetett szerveket, mint például a máj, a szív vagy a vese. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

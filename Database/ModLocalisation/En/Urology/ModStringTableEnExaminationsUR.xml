@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <Contributors>
+        <Name>Knabbel</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Inguinal orchiectomy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>Inguinal orchiectomy is a specific method of orchiectomy whereby one or both testicles and the full spermatic cord are surgically removed through an incision in the lower lateral abdomen. The procedure is generally performed by a urologist, typically if testicular cancer is suspected. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Testing the obtained testicle in inguinal orchiectomy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Testing the obtained testicle in inguinal orchiectomy.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Testis palpation</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>Palpation of the scrotum and its contents will reveal the presence, size, position, and shape of the testicles and their adnexa. The normal testicle is ovoid, smooth, firm, and mildly tender to palpation. The testicle is easily separated from the epididymis, which lies posterior and slightly lateral to the testicle.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

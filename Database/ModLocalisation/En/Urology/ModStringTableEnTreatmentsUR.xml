@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_EN_ADDON_URKN_TREATMENTS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Knabbel</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</LocID>                            
+		<Text>Shock wave lithotripsy</Text> 
+	</GameDBLocalizedString>      
+	   
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_SHOCK_WAVE_LITHOTRIPSY_DESC</LocID>              
+		<Text>A procedure commonly carried out to break stones lodged in the urethra (the tube connecting a kidney to the bladder). It is non-surgical treatment option using high energy ultrasound shock waves to broke stones into dust, allowing them to pass. \n\nRequired room: Sonography unit at Urology dpt \n\nRequired equipment: Therapy shockwave</Text>  
+	</GameDBLocalizedString>          
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY</LocID>                               
+		<Text>Orchiopexy</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIOPEXY_DESC</LocID>                   
+		<Text>Orchiopexy is a surgery to move an undescended testicle into the scrotum and permanently fix it there. Orchiopexy typically also describes the surgery used to resolve testicular torsion.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY</LocID>                               
+		<Text>Orchiectomy</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ORCHIECTOMY_DESC</LocID>                   
+		<Text>Orchiectomy is a surgical procedure in which one or both testicles are removed (bilateral orchiectomy). The surgery is typically performed as treatment for testicular cancer, in some cases of testicular torsion, as a gender-affirming procedure for some trans women, and is sometimes used in the management of advanced prostate cancer.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS</LocID>                               
+		<Text>Selective α1-blockers</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_ALPHA_BLOCKERS_DESC</LocID>                   
+		<Text>Selective α1-blockers. They include alfuzosin, doxazosin, silodosin, tamsulosin, terazosin, and naftopidil</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS</LocID>                               
+		<Text>5α-reductase inhibitors</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_5A_REDUCTASE_INHIBITORS_DESC</LocID>                   
+		<Text>The 5α-reductase inhibitors finasteride and dutasteride may also be used in men with BPH. These medications inhibit the 5α-reductase enzyme, which, in turn, inhibits production of DHT, a hormone responsible for enlarging the prostate.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP</LocID>                               
+		<Text>Transurethral resection of the prostate</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TURP_DESC</LocID>                   
+		<Text>Transurethral resection of the prostate is thought to be the most effective approach for improving urinary symptoms and urinary flow, however, this surgical procedure may be associated with complications in up to 20% of men.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS</LocID>                               
+		<Text>PDE5 inhibitors</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PDE5_INHIBITORS_DESC</LocID>                   
+		<Text>PDE5 inhibitors sildenafil (Viagra), vardenafil (Levitra) and tadalafil (Cialis) are prescription drugs which are taken by mouth.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS</LocID>                               
+		<Text>Kidney transplantation</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KIDN_TRANS_DESC</LocID>                   
+		<Text>Kidney transplantation or renal transplantation is the organ transplant of a kidney into a patient with end-stage kidney disease. Kidney transplantation is typically classified as deceased-donor or living-donor transplantation depending on the source of the donor organ.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES</LocID>                               
+		<Text>Immunosuppressiva</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_IMMUNO_SUPRES_DESC</LocID>                   
+		<Text>Immunosuppressiva are drugs that inhibit activity of the immune system, to make sure that the body doesn't reject the new organ.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS</LocID>                               
+		<Text>Dialysis</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_DESC</LocID>                   
+		<Text>Is a process of removing the waste products from the cells metabolism from the bloodstream, when the kidneys are not able to maintain this function. \n\nRequired room: Dialysis ward at Urology dpt \n\nRequired equipment: Dialysis machine</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD</LocID>                               
+		<Text>Dialysis ward</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_WARD_DESC</LocID>                               
+		<Text>Dialysis ward</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_DIALYSIS_2</LocID>                               
+		<Text>Dialysis</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY</LocID>                               
+		<Text>Vasectomy</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_VASECTOMY_DESC</LocID>                               
+		<Text>Vasectomy is a surgical procedure for male sterilization or permanent contraception. During the procedure, the male vasa deferentia are cut and tied or sealed so as to prevent sperm from entering into the urethra and thereby prevent fertilization of a female through sexual intercourse.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH</LocID>                               
+		<Text>Partial Nephrectomy</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_PARTNEPH_DESC</LocID>                               
+		<Text>Nephrectomy is the surgical removal of a kidney. The procedure is done to treat kidney cancer as well as other kidney diseases and injuries. Nephrectomy is also done to remove a healthy kidney from a donor for transplantation. In partial nephrectomy, only the diseased or injured portion of the kidney is removed. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH</LocID>                               
+		<Text>Radical Nephrectomy</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_DESC</LocID>                               
+		<Text>Nephrectomy is the surgical removal of a kidney. The procedure is done to treat kidney cancer as well as other kidney diseases and injuries. Nephrectomy is also done to remove a healthy kidney from a donor for transplantation. Radical nephrectomy involves removing the entire kidney, along with a section of the tube leading to the bladder, the gland that sits atop the kidney , and the fatty tissue surrounding the kidney.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA</LocID>                               
+		<Text>Radical nephrectomy with inferior vena cava thrombectomy</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_RADNEPH_INFVECA_DESC</LocID>                               
+		<Text>Nephrectomy is the surgical removal of a kidney. The procedure is done to treat kidney cancer as well as other kidney diseases and injuries. Radical nephrectomy with inferior vena cava (IVC) thrombectomy is used, when the cancer has grown into nearby veins (as with some stage III cancers). Your surgeon may need to cut open these veins to remove all of the cancer. This may require putting you on bypass (a heart-lung machine), so that the heart can be stopped for a short time to remove the cancer from the large vein leading to the heart.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH</LocID>                               
+		<Text>Urinary catheter</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_URN_CATH_DESC</LocID>                               
+		<Text>Urinary catheter: draining urine from the urinary bladder as in urinary catheterization.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD</LocID>                               
+		<Text>Bladder Surgery</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_BLAD_DESC</LocID>                               
+		<Text>Bladder surgery is done to resolve trauma to the bladder.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR</LocID>                               
+		<Text>Transvaginally repair</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRANS_REPAIR_DESC</LocID>                               
+		<Text>Transvaginally repair: A procedure done through the vagina so no big incision is needed.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH</LocID>                               
+		<Text>Kidney surgery</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_KN_TRM_NEPH_DESC</LocID>                               
+		<Text>Kidney surgery</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>	
+	
+</Database>

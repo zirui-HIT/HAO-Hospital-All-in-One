@@ -1,0 +1,2294 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_OTOR_OBSO">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham (Translation by Gemini)</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <GameDBLocalizedString>   
+		 <LocID>SYM_JM_NASAL_POLYP</LocID>                 
+		 <Text>鼻息肉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINUS_FINDINGS</LocID>                               
+		 <Text>鼻部检查发现</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_DRIP</LocID>                 
+		 <Text>鼻后滴漏</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_DRIP_DESCRIPTION</LocID>     
+		 <Text>鼻后滴漏是指鼻腔分泌的粘液无害地沿着喉咙后部滴下，并被吞咽。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_RH</LocID>                 
+		 <Text>鼻腔发炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_RH_DESCRIPTION</LocID>     
+		 <Text>患者鼻腔发炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_SINUSES</LocID>                 
+		 <Text>鼻窦发炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_SINUSES_DESCRIPTION</LocID>     
+		 <Text>覆盖鼻窦的粘膜组织发炎。</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>    
+		 <LocID>SYM_JM_SINUS_FINDINGS_DESCRIPTION</LocID>                               
+		 <Text>CT扫描发现了鼻部异常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_NASAL_DRAINAGE</LocID>                               
+		 <Text>鼻涕</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_DRAINAGE_DESCRIPTION</LocID>                               
+		 <Text>患者鼻中有不明液体流出。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_SNORING</LocID>                 
+		 <Text>打鼾</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_SNORE_DESCRIPTION</LocID>     
+		 <Text>打鼾是指在睡眠时发出哼声或咕噜声的行为或事实。这可能预示着阻塞性睡眠呼吸暂停。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_IRREGULAR_NASAL_CYCLE</LocID>                 
+		 <Text>鼻周期不规律</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_IRREGULAR_NASAL_CYCLE_DESC</LocID>     
+		 <Text>鼻周期是人类和其他动物鼻腔中经常不被注意的交替性部分充血和减充血现象。这是由下丘脑选择性激活自主神经系统的一半而引起的鼻甲（也称鼻涡轮）的生理性充血。它不应与病理性鼻塞混淆。在这种情况下，鼻周期不规律，这可能是鼻子或连接鼻子的神经出现问题的迹象。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_DIFFICULTY_BREATHING_THROUGH_NOSE</LocID>                 
+		 <Text>经鼻呼吸困难</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_DIFFICULTY_BREATHING_THROUGH_NOSE_DESC</LocID>     
+		 <Text>患者经鼻呼吸困难。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRY_NOSE</LocID>                 
+		 <Text>鼻部干燥</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DRY_NOSE_DESC</LocID>     
+		 <Text>患者鼻子干燥。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_PAIN</LocID>                 
+		 <Text>鼻部疼痛</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_NASAL_PAIN_DESC</LocID>     
+		 <Text>患者鼻子疼痛。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LOSS_OF_SMELL_OR_TASTE</LocID>                 
+		 <Text>嗅觉和/或味觉丧失</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_LOSS_OF_SMELL_OR_TASTE_DESC</LocID>     
+		 <Text>患者嗅觉和/或味觉丧失。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_NOSE_DAMAGE</LocID>                 
+		 <Text>鼻部损伤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_NOSE_DAMAGE_DESCRIPTION</LocID>     
+		 <Text>患者鼻子受损。</Text>  
+		</GameDBLocalizedString>
+		
+	   <GameDBLocalizedString>  
+		 <LocID>SYM_JM_NASAL_POLYPS</LocID>                 
+		 <Text>筛窦鼻息肉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
+		 <Text>鼻息肉是鼻腔或鼻窦内壁上柔软、无痛的非癌性增生，形状像泪珠或葡萄。它由慢性炎症引起。鼻息肉主要有两种类型：筛窦型和后鼻孔型。筛窦息肉源于筛窦，通过中鼻道延伸至鼻腔。后鼻孔息肉通常源于上颌窦，延伸至鼻咽部，仅占所有鼻息肉的4-6%。治疗方法可以是盐水喷雾或手术，具体取决于息肉的大小。</Text>  
+		</GameDBLocalizedString>
+		
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_JM_NASAL_OBSTRUCTION</LocID>                 
+		 <Text>鼻部炎症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
+	   	 <Text>医生通过CT或鼻腔检查发现鼻部有炎症，但未发现鼻息肉。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>       
+		 <LocID>SYM_JM_FUNGAL_INFECTION_OF_SINUS</LocID>                               
+		 <Text>鼻窦中发现曲霉菌</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>     
+		 <LocID>SYM_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>                               
+		 <Text>通过痰培养在鼻窦中发现了曲霉菌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_ENS_FINDINGS</LocID>                 
+		 <Text>空鼻症检查发现</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ENS_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>CT扫描检测到空鼻症的体征。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DEVIATED_NASAL_SEPTUM</LocID>                 
+		 <Text>鼻中隔偏曲</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>鼻腔检查显示患者鼻中隔偏曲。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_FACE_LACERATION</LocID>                 
+		 <Text>面部撕裂伤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_FACE_LACERATION_DESCRIPTION</LocID>     
+		 <Text>患者面部有撕裂伤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_SWOLLEN_NASAL_TURBINATE</LocID>                 
+		 <Text>鼻甲肿大</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>     
+		 <Text>患者鼻甲肿大。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_DYSOSMIA_CONFIRMED</LocID>                 
+		 <Text>嗅觉障碍已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>     
+		 <Text>医生确认患者患有嗅觉障碍。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_SQUAMOUS_CELL_NOSE</LocID>                 
+		 <Text>鼻腔内发现鳞状细胞癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>     
+		 <Text>活检在鼻腔内发现一个患有鳞状细胞癌的肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_ADENOCARCINOMA_NOSE</LocID>                 
+		 <Text>鼻腔内发现腺癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>活检在鼻腔内发现一个患有腺癌的肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_MELANOMA_NOSE</LocID>                 
+		 <Text>鼻腔内发现黑色素瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>活检在鼻腔内发现一个患有黑色素瘤的肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_NOSE</LocID>                 
+		 <Text>鼻内异物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>     
+		 <Text>患者鼻中有异物塞入。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SNORE</LocID>                 
+		 <Text>打鼾</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_NA_RH</LocID>                 
+		<Text>非过敏性鼻炎已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_NA_RH_DESCRIPTION</LocID>     
+		<Text>一例非过敏性鼻炎病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_ASN_CONFIRM</LocID>                 
+		 <Text>过敏性鼻窦炎已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASN_CONFIRM_DESCRIPTION</LocID>     
+		 <Text>一例过敏性鼻窦炎病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_COLLAPSED_SINUS</LocID>                 
+		 <Text>鼻窦塌陷</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>     
+		 <Text>患者鼻窦塌陷，导致面部畸形。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_ACUTE_RHINOSINUSITIS</LocID>                 
+		 <Text>鼻和鼻窦急性感染</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>患者鼻和鼻窦发生急性感染，导致急性鼻窦炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_CHRONIC_RHINOSINUSITIS</LocID>                 
+		 <Text>鼻和鼻窦慢性炎症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>患者鼻和鼻窦发生慢性炎症，导致慢性鼻窦炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_RHINOPHYMA</LocID>                 
+		 <Text>鼻赘已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_RHINOPHYMA_DESCRIPTION</LocID>     
+		 <Text>医生在鼻子上发现了厚重且过量的鼻赘样肿块/通过鼻部活检发现过多的组织、油脂、细菌和皮脂腺。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_CLEFT_LIP_PALATE</LocID>                 
+		 <Text>唇裂和腭裂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>     
+		 <Text>患者已告知医生其唇裂和腭裂的情况/医生已确认患者患有唇裂和腭裂。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>                 
+		 <Text>有问题的血管</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>     
+		 <Text>鼻镜检查在患者鼻腔内发现一个有问题的血管。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_INVERTED_PAPILLOMA_N</LocID>                 
+		 <Text>鼻内发现HPV肿瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>     
+		 <Text>活检在鼻内发现一个由人乳头瘤病毒（HPV）引起的良性肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_NASAL_POLYPS_S</LocID>                 
+		 <Text>后鼻孔鼻息肉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>     
+		 <Text>鼻息肉是鼻腔或鼻窦内壁上柔软、无痛的非癌性增生，形状像泪珠或葡萄。它由慢性炎症引起。鼻息肉主要有两种类型：筛窦型和后鼻孔型。筛窦息肉源于筛窦，通过中鼻道延伸至鼻腔。后鼻孔息肉通常源于上颌窦，延伸至鼻咽部，仅占所有鼻息肉的4-6%。治疗方法可以是盐水喷雾或手术，具体取决于息肉的大小。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_SADDLE_NOSE</LocID>                 
+		 <Text>鼻部创伤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_SADDLE_NOSE_DESCRIPTION</LocID>     
+		 <Text>患者经历鼻部创伤，导致鼻子塌陷。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_PERFORATED_SEPTUM</LocID>                 
+		 <Text>鼻中隔穿孔</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>患者鼻中隔穿孔。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_SEPTAL_CLOT</LocID>                 
+		 <Text>鼻中隔血凝块</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_SEPTAL_CLOT_DESCRIPTION</LocID>     
+		 <Text>患者在经历鼻部创伤后，鼻中隔出现血凝块。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>SYM_JM_MENINGES_DEFORMITY</LocID>                 
+		 <Text>异常的液体和脑组织囊</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>CT或MRI因颅骨畸形发现一个异常的液体、脑组织和脑膜囊。</Text>  
+		</GameDBLocalizedString>
+		
+	   <GameDBLocalizedString>      
+	     <LocID>SYM_JM_HEARING_DIFFICULTIES</LocID>                            
+		 <Text>听力问题</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIMINISHED_HEARING</LocID>                              
+		 <Text>听力下降</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_PRESSURE</LocID>                 
+		 <Text>耳内压</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_EAR_PRESSURE_DESCRIPTION</LocID>     
+		 <Text>患者感觉耳内有压力或耳朵发胀。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_DAMAGE</LocID>                 
+		 <Text>耳部损伤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_EAR_DAMAGE_DESCRIPTION</LocID>     
+		 <Text>患者耳朵因某种创伤或疾病而受损。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_DEFORMITY</LocID>                 
+		 <Text>耳部畸形</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_EAR_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>患者耳朵畸形。</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>
+		 <LocID>SYM_JM_SEVERE_MENIERES</LocID>                 
+		 <Text>重度梅尼埃病已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_MENIERES_DESCRIPTION</LocID>     
+		 <Text>一例重度梅尼埃病病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_M_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>鼓膜破裂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>患者鼓膜破裂。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_S_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>鼓膜未愈合破裂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>患者鼓膜破裂且未愈合。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EAR_INFECTED</LocID>                 
+		 <Text>发现耳部感染</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EAR_INFECTED_DESCRIPTION</LocID>     
+		 <Text>在患者体内发现了耳部感染。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
+		 <Text>中耳积液</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                               
+		 <Text>发现中耳积液。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_BAROTRAUMA</LocID>                 
+		 <Text>气压伤已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_BAROTRAUMA_DESCRIPTION</LocID>     
+		 <Text>医生确认患者患有气压伤。</Text>  
+		</GameDBLocalizedString>
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_JM_SEVERED_EAR</LocID>                 
+		 <Text>耳朵断离</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERED_EAR_DESCRIPTION</LocID>     
+		 <Text>患者耳朵因创伤而断离。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_PERICHONDRIAL_HEMATOMA</LocID>                 
+		 <Text>耳廓血肿</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>     
+		 <Text>患者耳部有血凝块。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_EAR</LocID>                 
+		 <Text>耳内异物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>     
+		 <Text>患者耳中有异物塞入。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_VESTIBULAR_NEURITIS</LocID>                 
+		 <Text>前庭神经炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>     
+		 <Text>患者前庭神经发炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_VESTIBULAR_TUMOR</LocID>                 
+		 <Text>前庭神经上发现肿瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>     
+		 <Text>患者前庭神经上长有肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_WAX_BLOCKAGE</LocID>                 
+		 <Text>发现耳垢堵塞</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>     
+		 <Text>患者的耳朵被耳垢堵塞。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_WAX_REMOVAL</LocID>                 
+		 <Text>清除耳垢</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>     
+		 <Text>患者想要清除耳垢。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_BPPV</LocID>                 
+		 <Text>疑似BPPV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_BPPV_DESCRIPTION</LocID>     
+		 <Text>医生排除了所有与BPPV相关的可能疾病，怀疑患者患有BPPV。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_AUDITORY_NEUROPATHY_M</LocID>     <Text>ABR缺失/异常伴声反射缺失（轻度）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>     
+		 <Text>医生进行了耳声发射检查，结果显示外毛细胞功能正常，听性脑干反应（ABR）缺失或异常，存在耳蜗微音电位，声反射缺失，幸运的是病情轻微。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_AUDITORY_NEUROPATHY_S</LocID>                 
+		 <Text>ABR缺失/异常伴声反射缺失（重度）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>     
+		 <Text>医生进行了耳声发射检查，结果显示外毛细胞功能正常，听性脑干反应（ABR）缺失或异常，存在耳蜗微音电位，声反射缺失，不幸的是病情严重。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_PRESBYCUSIS_M</LocID>                 
+		 <Text>老年性听力损失（轻度）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>     
+		 <Text>医生进行了评估和听力测定，得出结论，患者患有老年性听力损失（老年聋），幸运的是病情轻微。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_PRESBYCUSIS_S</LocID>                 
+		 <Text>老年性听力损失（重度）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>     
+		 <Text>医生进行了评估和听力测定，得出结论，患者患有老年性听力损失（老年聋），不幸的是病情严重。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_LABYRINTHITIS</LocID>                 
+		 <Text>前庭神经和耳蜗神经发炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_LABYRINTHITIS_DESCRIPTION</LocID>     
+		 <Text>医生进行了MRI或CT检查，结果显示前庭神经和耳蜗神经均有炎症，表明患有迷路炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_OTOPHYMA</LocID>                 
+		 <Text>耳廓肿胀</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_OTOPHYMA_DESCRIPTION</LocID>     
+		 <Text>医生进行了耳部检查，发现患者耳朵肿胀，医生断定患者患有一种非常罕见的疾病，称为耳赘。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_ADENOCARCINOMA_EAR</LocID>                 
+		 <Text>耳道内发现腺癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>活检在耳道内发现一个患有腺癌的肿瘤。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_JM_SQUAMOUS_CELL_EAR</LocID>                 
+		 <Text>耳道内发现鳞状细胞癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>     
+		 <Text>活检在耳道内发现一个患有鳞状细胞癌的肿瘤。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_JM_MELANOMA_EAR</LocID>                 
+		 <Text>耳道内发现黑色素瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_MELANOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>活检在耳道内发现一个患有黑色素瘤的肿瘤。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_E</LocID>                 
+		 <Text>恶性耳部感染（外耳）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>     
+		 <Text>发现由铜绿假单胞菌引起的恶性感染，导致患者患上外耳炎。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_M</LocID>                 
+		 <Text>恶性耳部感染（中耳）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>     
+		 <Text>发现由铜绿假单胞菌引起的恶性感染，导致患者患上中耳炎。</Text>
+		</GameDBLocalizedString>
+	 
+	  <GameDBLocalizedString> <LocID>SYM_JM_MILD_MENIERES</LocID>                 
+		 <Text>轻度梅尼埃病已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <LocID>SYM_JM_MILD_MENIERES_DESCRIPTION</LocID>     
+		 <Text>一例轻度梅尼埃病病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <LocID>SYM_JM_CHOLES_FOUND</LocID>                 
+		 <Text>发现胆脂瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CHOLES_FOUND_DESCRIPTION</LocID>    <Text>CT扫描在患者体内检测到胆脂瘤。</Text>  
+		</GameDBLocalizedString>
+		
+	 <GameDBLocalizedString>      
+		 <LocID>SYM_JM_WHITE_PATCHES_ON_TONSILS</LocID>                 
+		 <Text>扁桃体上有白斑</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WHITE_PATCHES_ON_TONSILS_DESCRIPTION</LocID>     
+		 <Text>扁桃体上可见白斑。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NECK_INJURY</LocID>                 
+		 <Text>颈部损伤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NECK_INJURY_DESCRIPTION</LocID>     
+		 <Text>患者颈部受伤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SWOLLEN_NECK</LocID>                 
+		 <Text>颈部肿胀</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SWOLLEN_NECK_DESCRIPTION</LocID>     
+		 <Text>患者颈部肿胀。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_MOUTH_DRAINAGE</LocID>                 
+		 <Text>口腔分泌物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_MOUTH_DRAINAGE_DESCRIPTION</LocID>     
+		 <Text>患者口中有不明液体流出。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_DRY_MOUTH</LocID>                 
+		 <Text>口干症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DRY_MOUTH_DESCRIPTION</LocID>     
+		 <Text>Xerostomia意为口干，指患者口腔干燥。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_HYPOSALIVATION</LocID>                 
+		 <Text>唾液分泌减少</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPOSALIVATION_DESCRIPTION</LocID>   
+		 <Text>患者唾液分泌不足，导致口腔干燥。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SIALOLITHIASIS</LocID>                 
+		 <Text>唾液腺结石病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SIALOLITHIASIS_DESCRIPTION</LocID>     
+		 <Text>唾液腺结石病是唾液腺结石的医学术语。这些结石或钙化物主要由钙组成，但也含有镁、钾和铵。您的口腔中有三种可能形成结石的唾液腺：腮腺、颌下腺、舌下腺以及小唾液腺。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_PSEUDOMEMBRANE</LocID>                 
+		 <Text>假膜</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_PSEUDOMEMBRANE_DESCRIPTION</LocID>     
+		 <Text>假膜是在感染和炎症期间，有时在眼睛或喉咙中形成的假性膜。它通常覆盖结膜，即眼睛的白色部分，会非常不舒服，当患者患有白喉时也会形成假膜。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_VOCAL_POLYP_HEMORRHAGE</LocID>                 
+		 <Text>出血性声带息肉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_VOCAL_POLYP_HEMORRHAGE_DESCRIPTION</LocID>     
+		 <Text>患者声带息肉出血。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_LUMP_IN_THROAT</LocID>                 
+		 <Text>喉咙有肿块</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_LUMP_IN_THROAT_DESCRIPTION</LocID>     
+		 <Text>患者喉咙里发现一个肿块。</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>
+		 <LocID>SYM_JM_HPV_FOUND</LocID>                 
+		 <Text>喉咙内发现HPV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HPV_FOUND_DESCRIPTION</LocID>     
+		 <Text>通过活检发现HPV。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
+		 <Text>喉部创伤已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>一例喉部创伤病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_LACERATION</LocID>                 
+		 <Text>喉部穿透伤已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>一例喉部穿透伤病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VCN</LocID>                 
+		 <Text>发现声带小结</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VCN_DESCRIPTION</LocID>     
+		 <Text>喉镜检查发现声带小结。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ACUTE_S_SIA</LocID>                 
+		 <Text>急性化脓性唾液腺炎已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_ACUTE_S_SIA_DESCRIPTION</LocID>     
+		 <Text>患者被诊断出患有急性化脓性唾液腺炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_CHRONIC_SIA</LocID>                 
+		 <Text>慢性唾液腺炎已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_CHRONIC_SIA_DESCRIPTION</LocID>     
+		 <Text>患者被诊断出患有慢性唾液腺炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SQUAMOUS_CELL_THROAT</LocID>                 
+		 <Text>咽部发现鳞状细胞癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>     
+		 <Text>活检在咽部发现一个患有鳞状细胞癌的肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ADENOCARCINOMA_THROAT</LocID>                 
+		 <Text>咽部发现腺癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>活检在咽部发现一个患有腺癌的肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_THROAT</LocID>                 
+		 <Text>咽部发现黑色素瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_MELANOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>活检在咽部发现一个患有黑色素瘤的肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_CHRONIC_PHARYNGITIS</LocID>                 
+		 <Text>慢性咽炎已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>医生确认患者患有慢性咽炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_LARYNGEAL_PARALYSIS</LocID>                 
+		 <Text>声带麻痹</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>     
+		 <Text>医生看到声带（喉）麻痹的迹象。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_OSA_FINDINGS</LocID>                 
+		 <Text>阻塞性睡眠呼吸暂停检查发现</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_OSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>多导睡眠图显示患者有阻塞性睡眠呼吸暂停的迹象。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_BLUNT_PHARYNX_CONTUSION</LocID>                 
+		 <Text>咽部创伤已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>一例咽部创伤病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_BLUNT_PHARYNX_LACERATION</LocID>                 
+		 <Text>咽部穿透伤已确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>一例咽部穿透伤病例已得到确认。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_COLLAPSED_TRACHEA</LocID>                 
+		 <Text>气管/风管塌陷</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>     
+		 <Text>患者气管/风管塌陷，需要立即手术。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_CHRONIC_LARYNGITIS</LocID>                 
+		 <Text>慢性喉部炎症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>患者喉部（声带）发炎已超过3个月。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_CSA_FINDINGS</LocID>                 
+		 <Text>中枢性睡眠呼吸暂停检查发现</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_CSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>多导睡眠图显示患者有中枢性睡眠呼吸暂停的迹象。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_VC_EDEMA</LocID>                 
+		 <Text>声带水肿</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_VC_EDEMA_DESCRIPTION</LocID>     
+		 <Text>患者喉部（声带）积液。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_VC_OVERUSE</LocID>                 
+		 <Text>声带过度使用</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_VC_OVERUSE_DESCRIPTION</LocID>     
+		 <Text>患者声带过度和不当使用，导致声音疲劳。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_CHRONIC_TONSILITIS</LocID>                 
+		 <Text>慢性扁桃体炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>     
+		 <Text>患者经历反复发作的感染/扁桃体的慢性感染。</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>
+		 <LocID>SYM_JM_AIRWAY_CONSTRICTION</LocID>                 
+		 <Text>气道收缩</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AIRWAY_CONSTRICTION_DESCRIPTION</LocID>     
+		 <Text>患者气道肿胀，导致气道收缩，可能导致窒息。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SUFFOCATION</LocID>                 
+		 <Text>窒息</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SUFFOCATION_DESCRIPTION</LocID>     
+		 <Text>患者正在窒息。</Text>  
+		</GameDBLocalizedString>
+	  
+	 <GameDBLocalizedString> 
+		 <LocID>SYM_JM_FACIAL_PRESSURE</LocID>                 
+		 <Text>面部压力</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_FACIAL_PRESSURE_DESC</LocID>     
+		 <Text>患者感觉面部有压力。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_FACIAL_PAIN</LocID>                 
+		 <Text>面部疼痛</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_FACIAL_PAIN_DESC</LocID>     
+		 <Text>患者感觉面部疼痛。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FACIAL_WEAKNESS</LocID>                 
+		 <Text>面部无力</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_FACIAL_WEAKNESS_DESC</LocID>     
+		 <Text>患者因某种面神经创伤或疾病而虚弱。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FACIAL_DEFORMITY</LocID>                 
+		 <Text>面部畸形</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_FACIAL_DEFORMITY_DESC</LocID>     
+		 <Text>患者面部畸形。</Text>  
+		</GameDBLocalizedString>
+	 
+	 <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPOTENSION</LocID>                               
+		 <Text>低血压</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPOTENSION_DESCRIPTION</LocID>                               
+		 <Text>低血压是低血压（低于90/60）的医学术语。血压读数显示为两个数字。第一个和较高的数字是收缩压的度量，即心脏搏动并将血液充满动脉时的压力。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SQLL_CARCINOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>鳞状细胞癌血液标志物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SQLL_CARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>血液测试显示，如CA-125、CA-19-9和SCC抗原等血液标志物升高，指向某处存在鳞状细胞癌肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ADENOCARCINOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>腺癌血液标志物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ADENOCARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>血液测试显示某些血液标志物升高，指向某处存在腺癌肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>黑色素瘤血液标志物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>血液测试显示某些血液标志物抗原升高，指向某处存在黑色素瘤肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+	 <GameDBLocalizedString>     
+		 <LocID>SYM_JM_ABSCESS</LocID>                        
+		 <Text>脓肿</Text>  
+		</GameDBLocalizedString>
+			
+		<GameDBLocalizedString>   <LocID>SYM_OTOR_ABSCESS</LocID>                             
+		 <Text>脓肿</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_OTOR_ABSCESS_DESCRIPTION</LocID>                               
+		 <Text>一个脓肿。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WIDESPREAD_PAINFUL_RASH</LocID>                 
+		 <Text>广泛性疼痛皮疹</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WIDESPREAD_PAINFUL_RASH_DESCRIPTION</LocID>     
+		 <Text>通过对患者的目视检查，发现全身覆盖着广泛的、疼痛的皮疹。</Text>  
+		</GameDBLocalizedString>
+		
+	 <GameDBLocalizedString>      
+		 <LocID>SYM_JM_COXSACK</LocID>                 
+		 <Text>柯萨奇病毒A16存在</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COXSACK_DESCRIPTION</LocID>     
+		 <Text>柯萨奇病毒是几种相关的肠道病毒，属于微小核糖核酸病毒科的无包膜、线性、正链单股RNA病毒。它们通常引起手足口病。目前没有针对该病毒的治疗方法，只能等待感染结束。</Text>  
+		</GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_STAPHY</LocID>           
+		 <Text>化脓性链球菌存在</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>        
+		 <LocID>SYM_JM_STAPHY_DESCRIPTION</LocID>     
+		 <Text>化脓性链球菌，即A组链球菌（GAS），是一种兼性、革兰氏阳性球菌，呈链状生长，可引起人类多种感染，包括咽炎、扁桃体炎、猩红热、蜂窝织炎、丹毒、风湿热、链球菌感染后肾小球肾炎、坏死性筋膜炎、肌坏死和淋巴管炎。自然界中GAS的唯一已知宿主是人类皮肤和粘膜。GAS引起的临床疾病已有详细描述，但其致病机制尚不清楚，主要是因为每种疾病都是人类宿主防御机制与链球菌特异性毒力因子之间高度复杂相互作用的结果。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_C_DIPHTHERIAE</LocID>                 
+		 <Text>发现白喉棒状杆菌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>     
+		 <Text>在患者体内发现了白喉棒状杆菌。</Text>  
+		</GameDBLocalizedString>
+		
+	 <GameDBLocalizedString>    <LocID>SYM_JM_HEARTBURN</LocID>                 
+		 <Text>胃灼热</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>SYM_JM_HEARTBURN_DESCRIPTION</LocID>     
+		 <Text>胃灼热是胸部或喉咙的一种疼痛性烧灼感。当胃酸反流到食道（将食物从口腔输送到胃的管道）时就会发生。胃灼热的治疗方法是抗酸剂和质子泵抑制剂。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_GERD_SUSPECTED</LocID>                 
+		 <Text>疑似胃食管反流病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD_SUSPECTED_DESCRIPTION</LocID>     
+		 <Text>医生评估了患者的所有症状，得出结论认为患者患有胃食管反流病。</Text>  
+		</GameDBLocalizedString>
+		
+     <GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONIA</LocID>                 
+		 <Text>肺炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONIA_DESCRIPTION</LocID>     
+		 <Text>肺炎是一种感染，可使一个或两个肺中的气囊发炎。气囊可能充满液体或脓液，导致咳嗽带痰或脓、发烧、寒战和呼吸困难。多种生物体，包括细菌、病毒和真菌，都可引起肺炎。如果不治疗细菌性肺炎，可能导致呼吸衰竭等并发症。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARDS</LocID>                 
+		 <Text>急性呼吸窘迫综合征（ARDS）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARDS_DESCRIPTION</LocID>     
+		 <Text>急性呼吸窘迫综合征（ARDS）是一种呼吸衰竭，其特征是肺部广泛性炎症迅速发作。症状包括呼吸急促、呼吸加快和皮肤发绀。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_STRIDOR</LocID>                 
+		 <Text>喘鸣</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_STRIDOR_DESCRIPTION</LocID>     
+		 <Text>喘鸣是由气流受阻引起的高音调、喘息声。喘鸣也可能被称为音乐性呼吸或胸外气道阻塞。气流通常因喉部（声匣）或气管（风管）的阻塞而受阻。喘鸣在儿童中比成人更常见。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DECREASED_PITCH_AND_LOUDNESS</LocID>                 
+		 <Text>音高和响度降低</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_DECREASED_PITCH_AND_LOUDNESS_DESCRIPTION</LocID>     
+		 <Text>患者音高范围和响度降低。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TROUBLE_SPEAKING</LocID>                 
+		 <Text>说话困难</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_TROUBLE_SPEAKING_DESCRIPTION</LocID>     
+		 <Text>患者说话困难。</Text>  
+		</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_PAIN</LocID>                 
+		 <Text>剧烈疼痛</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_PAIN_DESCRIPTION</LocID>     
+		 <Text>患者正在经历剧烈的疼痛。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ENCEPHALITIS</LocID>                 
+		 <Text>脑炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ENCEPHALITIS_DESCRIPTION</LocID>     
+		 <Text>脑炎是脑部的炎症。有多种原因，但最常见的是病毒感染。脑炎通常只引起轻微的流感样症状，如发烧或头痛，或者根本没有症状。有时流感样症状会更严重。脑炎还可能导致思维混乱、癫痫发作或运动或感觉（如视觉或听觉）问题。在某些情况下，脑炎可能危及生命。及时诊断和治疗非常重要，因为很难预测脑炎将如何影响每个个体。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NERVE_INJURY</LocID>                 
+		 <Text>神经损伤</Text>  
+		</GameDBLocalizedString>
+			
+     <GameDBLocalizedString> 
+		 <LocID>SYM_JM_HIVES</LocID>                 
+		 <Text>荨麻疹</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIVES_DESCRIPTION</LocID>     
+		 <Text>荨麻疹，也称为风疹块，是皮肤上突然出现的肿胀、淡红色的肿块或斑块（风团）——可能是身体对某些过敏原的反应，也可能原因不明。荨麻疹通常会引起瘙痒，但有时也像蚊子叮咬一样有烧灼感或刺痛感。</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALLERGEN_DETECTED</LocID>                 
+		 <Text>检测到过敏原</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>
+		 <LocID>SYM_JM_ELEVATED_TRYPTASE</LocID>                 
+		 <Text>类胰蛋白酶水平升高</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ELEVATED_TRYPTASE_DESCRIPTION</LocID>     
+		 <Text>患者血液中类胰蛋白酶水平升高，这是一种肥大细胞在过敏反应期间释放的化学物质。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_ELEVATED_HISTAMINE</LocID>                 
+		 <Text>组胺水平升高</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ELEVATED_HISTAMINE_DESCRIPTION</LocID>     
+		 <Text>患者血液中组胺水平升高，这是一种肥大细胞和嗜碱性粒细胞在过敏反应期间释放的化学物质。</Text>  
+		</GameDBLocalizedString>
+	
+	  <GameDBLocalizedString>      
+		 <LocID>SYM_JM_CHRONIC_WOUND</LocID>                               
+		 <Text>慢性伤口</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_CHRONIC_WOUND_DESC</LocID>                   
+		 <Text>慢性伤口是指大约三个月内不能愈合的疮。它们可能从小处开始，并可能反复结痂，但不会好转。</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DYSPHASIA</LocID>                   
+		 <Text>言语障碍</Text>  
+	    </GameDBLocalizedString> 
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DYSPHASIA_DESC</LocID>                               
+		 <Text>言语障碍是一种语言障碍，表现为由于脑部疾病或损伤导致的言语生成障碍，有时还包括言语理解障碍。</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_METASTASIZED_CANCER</LocID>                               
+		 <Text>转移性癌症</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_METASTASIZED_CANCER_DESC</LocID>                   
+		 <Text>转移性癌症是指从原发部位扩散到身体另一部分的癌症。</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PERINEURAL_INVASION</LocID>                               
+		 <Text>神经周围侵犯</Text>  
+        </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_PERINEURAL_INVASION_DESC</LocID>                   
+		 <Text>神经周围侵犯，简称PNI，指癌细胞侵入神经周围的空间。</Text>  
+	    </GameDBLocalizedString>
+		
+	  
+	  <GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANAPHYLACTIC_SHOCK</LocID>                               
+		 <Text>过敏性休克</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+	 	 <LocID>SYM_JM_ANAPHYLACTIC_SHOCK_DESC</LocID>                   
+	 	 <Text>过敏性休克是一种罕见但严重的过敏反应，如果不立即治疗可能会致命。它最常由对食物、昆虫叮咬或某些药物的过敏引起。需要立即注射一种名为肾上腺素的药物以防止进一步的并发症。</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NERVE_DAMAGE</LocID>                               
+		 <Text>术后神经病理性疼痛</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_NERVE_DAMAGE_DESC</LocID>                   
+		 <Text>神经损伤会影响您的大脑与肌肉和器官的沟通能力。周围神经的损伤称为周围神经病变。它可能由创伤（神经损伤）和手术并发症（术后神经病理性疼痛/PONP）引起。尽快为周围神经损伤寻求医疗护理非常重要。早期诊断和治疗可以预防并发症和永久性损伤。</Text>  
+	    </GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FESS</LocID>                                    	
+	<Text>功能性内窥镜鼻窦手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FESS_DESCRIPTION</LocID>                        	
+	<Text>功能性内窥镜鼻窦手术（FESS）是一种微创手术治疗，使用鼻内窥镜扩大鼻窦的引流通道，以改善鼻窦通气。此手术通常用于治疗炎症性和感染性鼻窦疾病，包括对药物无反应的慢性鼻窦炎、鼻息肉、某些癌症，以及格雷夫斯眼病中眼眶/视神经的减压。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_TYPT</LocID>                                    	
+	<Text>鼓室成形术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_TYPT_DESCRIPTION</LocID>                        	
+	<Text>鼓室成形术，也称为鼓膜修复术，是指为重建穿孔的鼓膜或中耳小骨而进行的手术。鼓膜穿孔可能由慢性感染引起，或较少情况下由鼓膜创伤引起。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>   
+	<LocID>SURG_OTOR_PRS</LocID>                                    	
+	<Text>乳头状瘤切除手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>    
+	<LocID>SURG_OTOR_PRS_DESCRIPTION</LocID>                        	
+	<Text>乳头状瘤切除手术是切除由人乳头瘤病毒（HPV）引起的乳头状瘤（肿瘤样增生），以预防或治疗现有病症。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_VNS</LocID>                                    	
+	<Text>前庭神经切断术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_VNS_DESCRIPTION</LocID>                        	
+	<Text>前庭神经切断术描述了切断耳蜗前庭颅神经的前庭部分的过程。这通常是为了消除复发性眩晕发作而进行的。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NDS</LocID>                                    	
+	<Text>颈部清扫术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NDS_DESCRIPTION</LocID>                        	
+	<Text>颈部清扫术是用于控制头颈部鳞状细胞癌（SCC）颈部淋巴结转移的一种外科手术。该手术的目的是从颈部一侧切除癌细胞可能已经迁移到的淋巴结。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ERCS</LocID>                                    	
+	<Text>耳廓重建手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ERCS_DESCRIPTION</LocID>                        	
+	<Text>耳廓重建是一种手术形式，可以重建因创伤或癌症手术而受损的耳朵，或因先天性（出生时即存在）疾病而畸形或缺失的耳朵。除了重建或修复耳朵的手术外，可能还需要与耳科医生进行听力康复。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ADNO</LocID>                                    	
+	<Text>腺样体切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ADNO_DESCRIPTION</LocID>                        	
+	<Text>腺样体切除术是一种切除腺样体的手术。腺样体是位于鼻腔后部的一团淋巴组织。所有手术都有风险和潜在并发症。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_LOTS</LocID>                                    	
+	<Text>喉气管重建手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_LOTS_DESCRIPTION</LocID>                        	
+	<Text>喉气管重建手术可以扩大您的气管，使呼吸更容易。喉气管重建涉及将一小块软骨（在您身体许多部位发现的坚硬结缔组织）插入气管的狭窄部分以使其变宽。儿童最常遇到气管狭窄的问题，尽管这个问题也可能发生在成人身上。它可能由多种原因引起，包括损伤、感染、胃酸反流、先天缺陷或作为插入呼吸管的结果。成人的气管可能因相同原因变窄，但原因也可能是导致血管或组织炎症的疾病，如韦格纳肉芽肿病或结节病。喉气管重建的目标是在没有呼吸管辅助的情况下提供安全稳定的气道。对于已经使用气管切开管帮助呼吸的人，此手术通常可以使其摆脱气管切开管。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_SPTP</LocID>                                    	
+	<Text>鼻中隔成形术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_SPTP_DESCRIPTION</LocID>                        	
+	<Text>鼻中隔成形术是一种外科手术，用于矫正分隔两个鼻孔空间的骨骼和软骨（鼻中隔）。当鼻中隔弯曲时，称为鼻中隔偏曲。鼻中隔偏曲会使经鼻呼吸更加困难，并可能因引流不畅而增加鼻窦感染的风险。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FRS</LocID>                                    	
+	<Text>面部重建</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FRS_DESCRIPTION</LocID>                        	
+	<Text>面部重建手术用于在创伤性损伤或事件严重损害个人面部和外貌后，恢复其外貌至相对正常的状态。此类损伤可能移除部分或全部面部。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <LocID>SURG_OTOR_PHRS</LocID>                                    	
+	<Text>咽部重建</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>SURG_OTOR_PHRS_DESCRIPTION</LocID>                        	
+	<Text>咽部重建是一种重建喉咙（咽）以扩大或修复缺陷或损伤的手术。这通常用于切除咽部癌症并修复喉咙。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <LocID>SURG_OTOR_TCSY</LocID>                                    	
+	<Text>气管重建手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>SURG_OTOR_TCSY_DESCRIPTION</LocID>                        	
+	<Text>气管重建是一种扩大气管以使呼吸更容易的手术。它是治疗与气管狭窄（如气管塌陷或气管狭窄）相关的呼吸困难的常见方法。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <LocID>SURG_OTOR_TONS</LocID>                                    	
+	<Text>扁桃体切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>SURG_OTOR_TONS_DESCRIPTION</LocID>                        	
+	<Text>扁桃体切除术是切除扁桃体的外科手术，扁桃体是喉咙后部的两个椭圆形组织垫——每侧一个扁桃体。扁桃体切除术曾经是治疗扁桃体感染和炎症（扁桃体炎）的常见手术。如今，扁桃体切除术通常用于治疗睡眠呼吸障碍，但当扁桃体炎频繁发生或对其他治疗无反应时，仍可能是一种治疗方法。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <LocID>SURG_OTOR_COIM</LocID>                                    	
+	<Text>人工耳蜗植入</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>SURG_OTOR_COIM_DESCRIPTION</LocID>                        	
+	<Text>人工耳蜗是一种部分恢复听力的电子设备。对于因内耳损伤导致严重听力损失且助听器不再有帮助的人来说，这可能是一个选择。人工耳蜗使用一个安装在耳后的声音处理器。处理器捕获声音信号并将其发送到植入耳后皮下的接收器。接收器将信号发送到植入蜗牛形内耳（耳蜗）的电极。这些信号刺激听神经，然后听神经将它们导向大脑。大脑将这些信号解释为声音，尽管这些声音不会像正常听力那样。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> <LocID>SURG_OTOR_MTDY</LocID>                                    	
+	<Text>乳突切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>SURG_OTOR_MTDY_DESCRIPTION</LocID>                        	
+	<Text>乳突切除术是一种切除病变乳突气房的手术。乳突是位于您耳朵后面的颅骨部分。它充满了由骨骼构成的气房，看起来像一个蜂巢。病变的细胞通常是耳部感染扩散到颅骨的结果。\n\n所需房间：耳鼻喉科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>神经重建手术</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>神经重建手术，或称手术神经修复，涉及探查受伤的神经并从神经末梢移除受伤的组织或疤痕。之后，如果有足够的长度允许在无张力的情况下进行高质量的修复，神经可以直接重新连接。\n\n所需房间：神经外科手术室。</Text>  
+	</GameDBLocalizedString>
+	
+   <GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY</LocID>                                    	
+	<Text>声音治疗</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY_DESC</LocID>                        	
+	<Text>声音治疗是一个旨在通过指导改变发声行为和生活方式来减少声音嘶哑的计划。声音治疗包括各种任务，旨在消除有害的发声行为，塑造健康的发声行为，并协助手术或损伤后声带伤口的愈合。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>切开引流和临床穿刺是释放皮下积液或压力的小型外科手术。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> 
+	<LocID>TRT_JM_ACTIVE_MONITOR</LocID>                                    	
+	<Text>积极监测</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>    
+	<LocID>TRT_JM_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>积极监测是指肿瘤科医生建议不进行治疗，但通过定期检查和血液测试来监测患者的健康状况。这有时被称为“仔细监测”或“观察等待”。\n\n所需房间：任何肿瘤科办公室</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY</LocID>                        	
+	<Text>盐水鼻喷雾</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>一种冲洗鼻腔并增加经鼻通气的鼻喷雾。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP</LocID>                        	
+	<Text>持续气道正压通气机</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP_DESC</LocID>                                    	
+	<Text>CPAP是治疗中度至重度阻塞性睡眠呼吸暂停的有效方法。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_MASSAGE</LocID>                        	
+	<Text>按摩</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+	<LocID>TRT_JM_MASSAGE_DESC</LocID>                                    	
+	<Text>按摩是对身体软组织的操作。按摩技术通常用手、手指、肘部、膝盖、前臂、脚或设备来应用。按摩的目的通常是治疗身体压力或疼痛。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>       
+	<LocID>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</LocID>                        	
+	<Text>皮质类固醇鼻喷雾</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_CORTICOSTEROID_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>类固醇鼻喷雾，也称为皮质类固醇鼻喷雾，是您喷入鼻子中的抗炎药物。它们可用于治疗一系列疾病，包括花粉热、鼻窦炎、非过敏性鼻炎和鼻息肉。一些类固醇鼻喷雾可以从药房和商店购买，而另一些则只能凭处方获得。还有类固醇鼻滴剂可用。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_OBJECT_REMOVAL</LocID>                        	
+	<Text>异物取出</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_OBJECT_REMOVAL_DESC</LocID>                                    	
+	<Text>从身体某一部位取出异物。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>TRT_JM_HEARING_AIDS</LocID>                        	
+	<Text>助听器</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>       <LocID>TRT_JM_HEARING_AIDS_DESC</LocID>                                    	
+	<Text>助听器是一种旨在通过使声音对有听力损失的人可闻来改善听力的设备。助听器在大多数国家被归类为医疗设备，并受相应法规的管制。小型音频放大器，如个人声音放大产品（PSAP）或其他简单的声音增强系统，不能作为“助听器”出售。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+	
+   <GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION</LocID>                        	
+	<Text>插管</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION_DESC</LocID>                                    	
+	<Text>插管是将一根称为气管内插管（ET）的管子通过口腔然后插入气道的过程。这样做是为了可以将患者连接到呼吸机上，以在麻醉、镇静或严重疾病期间辅助呼吸。\n\n所需房间：耳鼻喉科诊断室/耳鼻喉科医生办公室/ICU/观察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>   <LocID>TRT_JM_CHEMOTHERAPY</LocID>                                    	
+	<Text>化疗</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>化疗是一种癌症治疗，使用一种或多种抗癌药物作为标准化化疗方案的一部分。化疗可能以治愈为目的，也可能旨在延长生命或减轻症状。\n\n所需房间：肿瘤科普通住院部。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    <LocID>TRT_JM_EPIPEN</LocID>                                    	
+	<Text>肾上腺素自动注射器</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <LocID>TRT_JM_EPIPEN_DESC</LocID>                        	
+	<Text>肾上腺素自动注射器是一种医疗设备，用于通过自动注射器技术注射一剂或多剂肾上腺素。它最常用于治疗过敏性休克。\n\n所需房间：任何办公室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>切开引流</Text>  
+	</GameDBLocalizedString>
+	
+  <GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                        	
+	<Text>静脉注射抗组胺药</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>                                    	
+	<Text>静脉（IV）补充抗组胺药。\n\n所需房间：任何办公室/病房/单元</Text>  
+	</GameDBLocalizedString>
+	   
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_EAR_EXAMINATION</LocID>    
+	<Text>（耳鼻喉科版本）耳部检查</Text>  
+	</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+	<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING</LocID>
+	<Text>类胰蛋白酶测试 - 采样</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING_DESCRIPTION</LocID>  
+	<Text>类胰蛋白酶是一种酶，当肥大细胞作为正常免疫反应和过敏（超敏）反应的一部分被激活时，会与组胺和其他化学物质一起释放。该测试测量血液中类胰蛋白酶的含量。\n\n所需房间：血液学实验室</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>
+	<LocID>EXM_JM_TRYPTASE_TEST_TESTING</LocID>
+	<Text>类胰蛋白酶测试 - 检测</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_TRYPTASE_TEST_TESTING_DESCRIPTION</LocID>  
+	<Text>为进行类胰蛋白酶测试而采血。\n\n所需房间：血液学实验室</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>
+	<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING</LocID>
+	<Text>组胺测试 - 采样</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING_DESCRIPTION</LocID>  
+	<Text>组胺测试是肥大细胞活化的一个有用指标。该测试可用于帮助确认某人是否发生了过敏性反应，或用于帮助诊断肥大细胞增多症，这是一组罕见的以肥大细胞异常增殖为特征的疾病。\n\n所需房间：血液学实验室</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>
+	<LocID>EXM_JM_HISTAMINE_TEST_TESTING</LocID>
+	<Text>组胺测试 - 检测</Text> 
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_HISTAMINE_TEST_TESTING_DESCRIPTION</LocID>  
+	<Text>为进行组胺测试而采血。\n\n所需房间：血液学实验室</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSN</LocID>                         
+		 <Text>慢性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSN_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是患者鼻窦因感染或过敏而发炎的病症，但在慢性鼻窦炎的情况下，鼻窦炎症持续超过3个月，通常由慢性过敏或鼻息肉病引起。在这种情况下，它是由过敏或其他病症如普通感冒或支气管炎引起的。此病的治疗方法是使用盐水和皮质类固醇鼻喷雾疗程来治疗炎症。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSP</LocID>                         
+		 <Text>伴有鼻息肉病的慢性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSP_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是患者鼻窦因感染或过敏而发炎的病症，但在慢性鼻窦炎的情况下，鼻窦炎症持续超过3个月，通常由慢性过敏或鼻息肉病引起。在这种情况下，它是由鼻息肉病引起的，这是一种因过敏、流感、哮喘或囊性纤维化而在鼻内形成鼻息肉的病症，通常需要盐水和皮质类固醇鼻喷雾，在某些情况下还需要手术。由于病情严重，治疗方法是内窥镜鼻窦手术切除息肉，并使用盐水和皮质类固醇鼻喷雾疗程治疗息肉。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_ASN</LocID>                         
+	 	 <Text>过敏性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ASN_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是鼻窦发炎的病症。病例可由过敏等引起。在这种情况下，它是由过敏引起的，治疗方法是抗组胺药。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_ENS</LocID>                         
+		 <Text>空鼻症</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ENS_DESCRIPTION</LocID>             
+		 <Text>空鼻症（ENS），是继发性萎缩性鼻炎的一种形式，是一种临床综合征，患者鼻道通畅却经历一系列症状，最常见的是鼻塞感、鼻干和结痂，以及感觉无法呼吸。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NAR</LocID>                         
+		 <Text>非过敏性鼻炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NAR_DESCRIPTION</LocID>             
+		 <Text>非过敏性鼻炎涉及慢性打喷嚏或鼻塞、流涕，但没有明显原因。非过敏性鼻炎的症状与花粉热（过敏性鼻炎）相似，但不存在过敏反应的通常证据。非过敏性鼻炎可以影响儿童和成人，但在20岁后更常见。非过敏性鼻炎症状的触发因素各不相同，可能包括空气中的某些气味或刺激物、天气变化、某些药物、某些食物和慢性健康状况。在排除过敏原因后，才会诊断为非过敏性鼻炎。这可能需要过敏皮肤或血液测试。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_JM_AFS</LocID>                         
+		 <Text>过敏性真菌性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_AFS_DESCRIPTION</LocID>             
+		 <Text>过敏性真菌性鼻窦炎。过敏性真菌性鼻窦炎（AFS）是一种罕见的鼻窦真菌感染。致病真菌存在于环境中，并引起过敏反应，导致厚重的真菌碎片、粘稠的粘液和受感染鼻窦的堵塞。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_DNS</LocID>                         
+		 <Text>鼻中隔偏曲</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_DNS_DESCRIPTION</LocID>             
+		 <Text>鼻中隔偏曲意味着鼻子的隔膜因某种创伤而弯曲。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_LOF</LocID>                         
+		 <Text>面部撕裂伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_LOF_DESCRIPTION</LocID>             
+		 <Text>患者面部有撕裂伤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_THT</LocID>                         
+		 <Text>鼻甲肥大</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_THT_DESCRIPTION</LocID>             
+		 <Text>鼻甲是帮助温暖和湿润通过鼻子流入空气的长而窄的通道。鼻甲也称为鼻海螺。如果鼻甲太大，它们实际上会阻塞气流。医生称这种情况为鼻甲肥大。这种情况可能导致呼吸问题、频繁感染和鼻出血。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_DSA</LocID>                         
+		 <Text>嗅觉障碍</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_DSA_DESCRIPTION</LocID>             
+		 <Text>嗅觉障碍被描述为对气味感知的任何质的改变或扭曲。质的改变不同于量的改变，后者包括嗅觉缺失和嗅觉减退。嗅觉障碍可分为嗅觉倒错（也称嗅觉异常）或幻嗅。嗅觉倒错是对气味的感知扭曲。气味闻起来与记忆中的不同。幻嗅是在没有气味剂存在时感知到气味。嗅觉障碍的原因仍然是一个理论。它通常被认为是一种神经系统疾病，并且已经与该疾病建立了临床关联。大多数病例被描述为特发性的，与嗅觉倒错相关的主要前因是上呼吸道感染、头部创伤以及鼻和鼻窦疾病。嗅觉障碍往往会自行消失，但对于希望立即缓解的患者，有治疗选择。</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_NSC_DESCRIPTION</LocID>             
+		 <Text>鼻旁窦和鼻腔癌是一种疾病，其中恶性（癌）细胞在鼻旁窦和鼻腔的组织中形成。“鼻旁”意味着靠近鼻子。鼻旁窦是鼻子周围骨骼中的空心、充满空气的空间。鼻窦内衬有产生粘液的细胞，这些细胞可以防止鼻腔内部在呼吸时变干。鼻子通向鼻腔，鼻腔被分为两个鼻道。空气在呼吸时通过这些通道。鼻腔位于构成口腔顶部的骨骼上方，并在后部向下弯曲与喉咙相连。鼻孔内部的区域称为鼻前庭。每个鼻道顶部的一小块特殊细胞向大脑发送信号，以产生嗅觉。鼻旁窦和鼻腔共同过滤和温暖空气，并在空气进入肺部之前使其湿润。空气通过鼻窦和呼吸系统的其他部分运动有助于发出说话的声音。鼻旁窦和鼻腔癌是头颈癌的一种类型。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_JM_FON</LocID>                         
+		 <Text>鼻内异物</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_FON_DESCRIPTION</LocID>             
+		 <Text>患者鼻中有异物塞入。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_SSS</LocID>                         
+		 <Text>静默鼻窦综合征</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_SSS_DESCRIPTION</LocID>             
+		 <Text>静默鼻窦综合征是一种疾病，其特征是在无症状慢性上颌窦炎存在的情况下，由于眼眶底塌陷而导致的眼球内陷或眼球下陷。该疾病谱也以两个替代名称为人所知：“慢性上颌窦不张”和“内爆上颌窦综合征”，尽管有些人仍然认为这些是不同的临床实体。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_RST</LocID>                         
+		 <Text>急性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_RST_DESCRIPTION</LocID>             
+		 <Text>急性鼻窦炎是一种普遍存在于世界各地的常见疾病。它对卫生服务构成了重大负担。它最常由病毒引起，并且是自限性的。急性鼻窦炎的诊断是临床的，通常不需要进行鼻窦放射学检查。大多数急性鼻窦炎病例进行对症治疗。然而，当继发性细菌感染占主导地位时，症状可能会持续超过10天。抗生素仅用于中度或重度病例，或当出现急性鼻窦炎并发症时。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_CRS</LocID>                         
+		 <Text>慢性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_CRS_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎发生在鼻窦内壁被感染或刺激，变得肿胀，并产生额外的粘液时。肿胀的内壁也可能干扰粘液的引流。慢性鼻窦炎是指一种持续至少12周的病症，尽管经过治疗，并导致以下至少两种症状：鼻塞、鼻涕或粘液从鼻后部滴下、面部疼痛、压力或“饱胀感”、嗅觉减退。慢性鼻窦炎不同于更常见的鼻窦炎形式（称为急性鼻窦炎），后者是鼻窦的暂时性感染，通常在感冒后发生。慢性鼻窦炎是一个更持久的问题，需要特定的治疗方法。由于症状更低级和慢性，它有时被患者和医疗保健提供者忽视。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_RPM</LocID>                         
+		 <Text>鼻赘</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_RPM_DESCRIPTION</LocID>             
+		 <Text>鼻赘是一种皮肤病，其特征是鼻子大而红，呈块状或球状。它可以作为瘤性酒渣鼻的一部分发生。鼻赘的确切原因尚不清楚，但它被认为是严重酒渣鼻的一个亚型。这种情况在男性中明显更常见，尤其是在50至70岁之间。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_CLP</LocID>                         
+		 <Text>唇裂和腭裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_CLP_DESCRIPTION</LocID>             
+		 <Text>唇裂和腭裂是上唇、口腔顶部（腭）或两者的开口或裂口。唇裂和腭裂是由于未出生婴儿中正在发育的面部结构未完全闭合而导致的。唇裂和腭裂是最常见的先天缺陷之一。它们最常作为孤立的先天缺陷出现，但也与许多遗传性遗传病症或综合征相关。生下一个有裂口的孩子可能会令人不安，但唇裂和腭裂可以被矫正。在大多数婴儿中，一系列手术可以恢复正常功能，并以最小的疤痕达到更正常的外观。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_IVP</LocID>                         
+		 <Text>内翻性乳头状瘤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_IVP_DESCRIPTION</LocID>             
+		 <Text>内翻性乳头状瘤是在鼻腔后部形成的非癌性肿瘤。随着它们的生长，它们有时会延伸到鼻旁窦或眼眶。偶尔，内翻性乳头状瘤会发生恶性转化为一种称为鳞状细胞癌的侵袭性癌症。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_PBN</LocID>                         
+		 <Text>慢性鼻出血（血管）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_PBN_DESCRIPTION</LocID>             
+		 <Text>慢性鼻出血或鼻血是一种由于可能有问题的血管、创伤或任何其他疾病导致鼻部慢性出血的病症。在这种情况下，它是由一个有问题的血管引起的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_SDN</LocID>                         
+		 <Text>鞍鼻</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_SDN_DESCRIPTION</LocID>             
+		 <Text>鞍鼻是一种与鼻部创伤、先天性梅毒、复发性多软骨炎、伴有多血管炎的肉芽肿病、可卡因滥用和麻风病等病症相关的病症。最常见的原因是鼻部创伤。其特征是由于鼻梁塌陷而导致鼻子高度的丧失。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_SPF</LocID>                         
+		 <Text>鼻中隔穿孔</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_SPF_DESCRIPTION</LocID>             
+		 <Text>鼻中隔穿孔是一种医疗状况，其中分隔鼻腔的骨/软骨壁（鼻中隔）出现孔洞或裂缝。这可能是直接引起的，如鼻环穿刺，或间接引起的，如长期局部用药，包括鼻内乙基芬酯、甲基苯丙胺、可卡因、压碎的处方药或减充血鼻喷雾剂、慢性鼻出血、过度挖鼻以及作为鼻中隔成形术或隆鼻术等鼻部手术的并发症。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_SPH</LocID>                         
+		 <Text>鼻中隔血肿</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_SPH_DESCRIPTION</LocID>             
+		 <Text>鼻中隔血肿是鼻中隔或两个鼻孔之间空间的血液积聚。血肿类似于瘀伤或血块，但如果不及时治疗，可能会损害组织并导致感染。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_CSSP</LocID>                         
+		 <Text>伴有轻度鼻息肉病的慢性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_CSSP_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是患者鼻窦因感染或过敏而发炎的病症，但在慢性鼻窦炎的情况下，鼻窦炎症持续超过3个月，通常由慢性过敏或鼻息肉病引起。在这种情况下，它是由鼻息肉病引起的，这是一种因过敏、流感、哮喘或囊性纤维化而在鼻内形成鼻息肉的病症，通常需要盐水和皮质类固醇鼻喷雾，在某些情况下还需要手术。由于鼻息肉较轻微，治疗方法是使用盐水和皮质类固醇鼻喷雾疗程。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <LocID>DIA_JM_MEC</LocID>                         
+		 <Text>脑膜脑膨出</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <LocID>DIA_JM_MEC_DESCRIPTION</LocID>             
+		 <Text>脑膜脑膨出是一种脑膨出，是一种异常的液体、脑组织和脑膜（覆盖大脑和脊髓的膜）囊，通过颅骨的缺损延伸出来。脑膜脑膨出主要有两种类型，根据囊的位置命名。额筛型位于额骨和筛骨处，而枕骨型位于枕骨处。</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SED</LocID>                         
+		 <Text>梅尼埃病（重度）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SED_DESCRIPTION</LocID>             
+		 <Text>梅尼埃病是一种内耳疾病，可导致头晕（眩晕）和听力损失。在大多数情况下，梅尼埃病只影响一只耳朵。梅尼埃病可发生在任何年龄，但通常在青壮年期开始。它被认为是一种慢性病，但各种治疗方法可以帮助缓解症状并最大限度地减少其对您生活的长期影响。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SVE</LocID>                         
+		 <Text>耳朵断离</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_SVE_DESCRIPTION</LocID>             
+		 <Text>耳朵断离意味着耳朵被割掉或咬掉。</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_BTE</LocID>                         
+		 <Text>气压伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_BTE_DESCRIPTION</LocID>             
+		 <Text>耳气压伤是由于鼓膜内外压力差引起的耳部不适。它可能包括对耳朵的损伤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_FOE</LocID>                         
+		 <Text>耳内异物</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_FOE_DESCRIPTION</LocID>             
+		 <Text>患者耳中有异物塞入。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_ACN</LocID>                         
+		 <Text>听神经瘤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_ACN_DESCRIPTION</LocID>             
+		 <Text>前庭神经鞘瘤（也称为听神经瘤、听神经鞘瘤或听神经纤维瘤）是一种良性的、通常生长缓慢的肿瘤，它从供应内耳的平衡和听力神经发展而来。该肿瘤来自雪旺细胞的过度生产——这些细胞通常像洋葱皮一样包裹神经纤维，以帮助支持和隔离神经。随着前庭神经鞘瘤的生长，它会影响听力和平衡神经，通常导致单侧或不对称的听力损失、耳鸣和头晕/平衡丧失。随着肿瘤的生长，它会干扰面部感觉神经（三叉神经），导致面部麻木。前庭神经鞘瘤还可能影响面部神经（用于面部肌肉），导致肿瘤侧的面部无力或瘫痪。如果肿瘤变得很大，最终会压迫附近的脑结构（如脑干和小脑），危及生命。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_VNI</LocID>                         
+		 <Text>前庭神经炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_VNI_DESCRIPTION</LocID>             
+		 <Text>前庭神经炎是一种影响内耳神经（称为前庭耳蜗神经）的疾病。这条神经将平衡和头部位置信息从内耳发送到大脑。当这条神经肿胀（发炎）时，它会扰乱大脑正常解释信息的方式。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_CTN</LocID>                         
+		 <Text>耵聍栓塞</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_CTN_DESCRIPTION</LocID>             
+		 <Text>耳垢，也称为耵聍，是身体为保护耳朵而产生的。耳垢具有润滑和抗菌特性。未经治疗的积聚可能导致听力损失、刺激、耳痛、头晕、耳鸣和其他问题。耳垢可以通过多种方式清除；其中一些方法可以在家进行。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_BPPV</LocID>                         
+		 <Text>良性阵发性位置性眩晕</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_BPPV_DESCRIPTION</LocID>             
+		 <Text>良性阵发性位置性眩晕（BPPV）是一种由内耳问题引起的疾病。症状是反复的、短暂的眩晕发作，伴随头部位置的变化而出现旋转感。这可能在床上翻身或改变位置时发生。每次眩晕发作通常持续不到一分钟。通常伴有恶心。BPPV是眩晕最常见的原因之一。BPPV可能由头部受伤引起，或仅在老年人中发生。通常找不到具体原因。其潜在机制涉及一个小的钙化耳石在内耳中松散移动。它是一种平衡障碍，与迷路炎和梅尼埃病同属一类。诊断通常是在Dix-Hallpike测试结果为眼球震颤（一种特定的眼球运动模式）并且排除了其他可能原因后作出的。在典型病例中，不需要医学成像。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_PCHA</LocID>                         
+		 <Text>耳廓血肿</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_PCHA_DESCRIPTION</LocID>             
+		 <Text>如果您曾参加过摔跤比赛，您可能会注意到一些运动员的耳朵有些不同。菜花耳，也称为耳廓血肿或摔跤手耳，是由创伤引起的耳朵畸形。菜花耳发生在您的耳廓被击中或撞击后血液积聚在其中。耳廓是您的外耳。这种血液积聚，称为血肿，需要立即治疗。虽然没有治疗菜花耳的方法，但即使在创伤发生后也可以预防。因此，了解警告信号并立即采取行动至关重要。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_JM_EWR</LocID>                         
+		 <Text>清除耳垢预约</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_EWR_DESCRIPTION</LocID>             
+		 <Text>患者与耳鼻喉科专家预约清除耳垢。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MEDR</LocID>                         
+		 <Text>鼓膜破裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MEDR_DESCRIPTION</LocID>             
+		 <Text>鼓膜破裂（鼓膜穿孔）是分隔耳道和中耳的薄组织（鼓膜）上的一个孔或撕裂。鼓膜破裂可能导致听力损失。它还可能使您的中耳易受感染。鼓膜破裂通常在几周内无需治疗即可愈合。但有时需要补片或手术修复才能愈合。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SEDR</LocID>                         
+		 <Text>未愈合的鼓膜破裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SEDR_DESCRIPTION</LocID>             
+		 <Text>鼓膜破裂（鼓膜穿孔）是分隔耳道和中耳的薄组织（鼓膜）上的一个孔或撕裂。鼓膜破裂可能导致听力损失。它还可能使您的中耳易受感染。鼓膜破裂通常在几周内无需治疗即可愈合。但有时需要补片或手术修复才能愈合。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_ANM</LocID>                         
+		 <Text>听神经病（轻度）</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      <LocID>DIA_JM_ANS</LocID>                         
+		 <Text>听神经病（重度）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_JM_ANM_DESCRIPTION</LocID>             
+		 <Text>听神经病（AN）是一种听力障碍，其中耳蜗的外毛细胞存在且功能正常，但声音信息未被听神经充分传输到大脑。AN的听力损失范围可以从正常听力敏感度到极重度听力损失。神经病通常指外周神经或神经的疾病，但在听神经病谱系障碍中，听神经本身并不总是受到影响。人群中的患病率相对未知。具有听力损失高风险因素的新生儿患病率高达40%（Vignesh, Jaya, and Muraleedharan 2016）。这些高风险因素是：缺氧、低出生体重、早产、高胆红素血症、黄疸和氨基糖苷类抗生素治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_PBCM</LocID>                         
+		 <Text>老年性耳聋（轻度）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_PBCS</LocID>                         
+		 <Text>老年性耳聋（重度）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_JM_PBCM_DESCRIPTION</LocID>             
+		 <Text>随着年龄增长逐渐发生的听力损失（老年性耳聋）很常见。在美国，65至75岁之间约有三分之一的人有某种程度的听力损失。对于75岁以上的人，这个数字约为二分之一。衰老和长期暴露于巨大噪音都会导致听力损失。其他因素，如过多的耳垢，可以暂时降低耳朵传导声音的能力。大多数类型的听力损失无法逆转。然而，您和您的医生或听力专家可以采取措施改善您所能听到的内容。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_LBRT</LocID>                         
+		 <Text>迷路炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_JM_LBRT_DESCRIPTION</LocID>             
+		 <Text>迷路炎是内耳的炎症。迷路炎的名字来源于容纳前庭系统的迷路，前庭系统感知头部位置或头部运动的变化。这会导致感觉世界在旋转，也可能导致听力损失或耳鸣。它可以是单次发作、一系列发作，或在三到六周内减弱的持续状况。它可能与恶心、呕吐和眼球震颤有关。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_OTP</LocID>                         
+		 <Text>耳赘</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_JM_OTP_DESCRIPTION</LocID>             
+		 <Text>耳赘是用于描述耳朵皮脂腺肥大和增生的术语。它通常是酒渣鼻的晚期——一种病因不明的常见、慢性皮肤病。我们在此介绍一个罕见的耳赘病例及其临床特征、病因、诊断，并回顾了内科和外科治疗。该患者多年未被诊断和错误管理，直到最终被诊断出患有这种罕见病症并成功通过手术技术进行管理。据我们所知，这是耳鼻喉科文献中介绍的第二个耳赘病例。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_ESC</LocID>                         
+		 <Text>耳道癌（鳞状细胞癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_EAC</LocID>                         
+		 <Text>耳道癌（腺癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_EMA</LocID>                         
+		 <Text>耳道癌（黑色素瘤）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <LocID>DIA_JM_ESC_DESCRIPTION</LocID>             
+		 <Text>耳癌可以影响耳朵的内部和外部。它通常始于外耳的皮肤癌，然后扩散到各种耳部结构，包括耳道和鼓膜。耳癌也可能从耳内开始。它可以影响耳内的骨骼，称为颞骨。颞骨还包括乳突骨。这是您在耳后感觉到的骨性肿块。耳癌非常罕见。美国每年只有约300人被诊断出患有此病。相比之下，根据国家癌症研究所的数据，预计2018年将诊断出超过25万例新的乳腺癌病例。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_NOM</LocID>                         
+		 <Text>坏死性中耳炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_NOE</LocID>                         
+		 <Text>坏死性外耳炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <LocID>DIA_JM_NOM_DESCRIPTION</LocID>             
+		 <Text>坏死性/恶性外耳炎（MOE）是一种影响外耳道和颞骨的感染。致病菌通常是铜绿假单胞菌，该病常见于患有糖尿病的老年患者。感染始于外耳炎，然后发展为颞骨的骨髓炎。疾病通过圣托里尼裂隙和骨软骨交界处向外耳道外扩散。Toulmouche可能是1838年第一个报告恶性外耳炎（MEO）病例的医生。1959年，Meltzer报告了一例颞骨的假单胞菌骨髓炎病例。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SWE</LocID>                         
+		 <Text>重度外耳炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GEE</LocID>                         
+		 <Text>重度胶耳</Text>	
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString> 
+		 <LocID>DIA_JM_CSA</LocID>                         
+		 <Text>慢性唾液腺炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_CSA_DESCRIPTION</LocID>             
+		 <Text>相比之下，慢性唾液腺炎通常疼痛较轻，与腺体反复肿大（通常在饭后）相关，通常无红斑。该病的慢性形式与唾液流量减少的病症有关，而不是脱水。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_ASS</LocID>                         
+		 <Text>急性化脓性唾液腺炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ASS_DESCRIPTION</LocID>             
+		 <Text>急性唾液腺炎是唾液腺的细菌性炎症。它通常影响一个主要唾液腺，最常见的是腮腺，并且在身体虚弱、住院或术后患者中很常见。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_JM_DTA</LocID>                         
+		 <Text>白喉</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_DTA_DESCRIPTION</LocID>             
+		 <Text>白喉是一种严重的细菌感染，通常影响鼻子和喉咙的粘膜。由于对该病的广泛疫苗接种，白喉在美国和其他发达国家极为罕见。白喉可以用药物治疗。但在晚期，白喉会损害您的心脏、肾脏和神经系统。即使经过治疗，白喉也可能致命，尤其是在儿童中。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_VCP</LocID>                         
+		 <Text>声带麻痹</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_VCP_DESCRIPTION</LocID>             
+		 <Text>声带麻痹发生在通往声匣（喉）的神经冲动中断时。这导致声带肌肉麻痹。声带麻痹会影响您的说话能力甚至呼吸。这是因为您的声带，有时称为声褶，不仅仅是产生声音。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_TSC</LocID>                         
+		 <Text>咽癌（鳞状细胞癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_TAC</LocID>                         
+		 <Text>咽癌（腺癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_TML</LocID>                         
+		 <Text>咽癌（黑色素瘤）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_TSC_DESCRIPTION</LocID>             
+		 <Text>喉部鳞状细胞癌是最常见的喉癌类型。喉部鳞状细胞癌是喉部内壁异常细胞的不受控制的生长。喉部包括咽（舌后上部）和喉（声匣）。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_CPHG</LocID>                         
+		 <Text>慢性咽炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_CPHG_DESCRIPTION</LocID>             
+		 <Text>咽炎是喉咙后部，即咽部的炎症。急性咽炎更常见，症状通常在十天内消退。急性咽炎的治疗通常集中于治疗症状。大多数急性咽炎是病毒性的，但有些是细菌性的。抗生素仅在细菌感染是急性咽炎的原因时才有效。但即使明确是细菌性的，有时也很难判断，抗生素治疗也不一定推荐给所有患者群体。然而，慢性咽炎可能由感染以外的多种不同因素引起。在慢性咽炎中，喉咙痛要么不消失，要么频繁复发。如果喉咙痛持续超过几周，咽炎可能是慢性的。慢性咽炎有几个根本原因，治疗取决于根本原因是什么。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SPT</LocID>                         
+		 <Text>链球菌性喉炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SPT_DESCRIPTION</LocID>             
+		 <Text>链球菌性喉炎是由一种细菌（A组链球菌）引起的感染。链球菌引起近三分之一的喉咙痛。链球菌性喉炎通常需要用抗生素治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_HFMV2</LocID>                         
+		 <Text>手足口病</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HFM_DESCRIPTION</LocID>             
+		 <Text>手足口病（HFMD）是由一组病毒引起的常见感染。它通常以发烧和全身不适开始。一两天后，手、脚和口腔上会出现扁平的变色斑点或肿块，可能会起泡。这种疾病没有治疗方法，您只需治疗症状，直到疾病结束。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_LGP</LocID>                         
+		 <Text>喉乳头状瘤病</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_LGP_DESCRIPTION</LocID>             
+		 <Text>喉乳头状瘤病，也称为复发性呼吸道乳头状瘤病或声门乳头状瘤病，是一种罕见的医疗状况，其中良性肿瘤（乳头状瘤）沿呼吸消化道形成。根据发病年龄有两种变体：幼年型和成年型喉乳头状瘤病。肿瘤是由喉部人乳头瘤病毒（HPV）感染引起的。肿瘤可能导致气道狭窄，从而导致声音改变或气道阻塞。喉乳头状瘤病最初通过间接喉镜检查观察到喉部增生来诊断，并可通过活检确认。喉乳头状瘤病的治疗旨在切除乳头状瘤并限制其复发。由于病毒的复发性，通常需要重复治疗。喉乳头状瘤病主要通过手术治疗，但在某些情况下可以考虑辅助的非手术和/或药物治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_VCN</LocID>                         
+		 <Text>声带小结</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_VCN_DESCRIPTION</LocID>             
+		 <Text>声带小结是声带上的坚硬、粗糙的非癌性增生。它们可以小如针头，也可以大如豌豆。您会因为用力或过度使用声音而得小结，尤其是唱歌、大喊或大声或长时间说话。声带小结根据其原因有其他名称。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYC</LocID>                         
+		 <Text>喉部创伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYC_DESCRIPTION</LocID>             
+		 <Text>喉部创伤是声匣或喉的损伤，喉是气道的上部，声带所在的位置。气道的钝性创伤相当常见，但在儿童中比成人少见。在儿科病例中，创伤通常由跌倒或颈部打击或其他喉部损伤引起。损伤范围可以从轻微的声带无力到喉或气管软骨结构的骨折。这些骨折可能导致空气逸入颈部和胸部，导致严重的呼吸功能不全，如果不迅速诊断和治疗，甚至可能死亡。在儿童期，喉和气管的软骨结构柔软，尺寸小。因此，儿科骨折发生较少。即使是最大的医院也只看到少数真正的喉气管骨折病例。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYL</LocID>                         
+		 <Text>喉部撕裂伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYL_DESCRIPTION</LocID>             
+		 <Text>喉部创伤是声匣或喉的损伤，喉是气道的上部，声带所在的位置。气道的钝性创伤相当常见，但在儿童中比成人少见。在儿科病例中，创伤通常由跌倒或颈部打击或其他喉部损伤引起。损伤范围可以从轻微的声带无力到喉或气管软骨结构的骨折。这些骨折可能导致空气逸入颈部和胸部，导致严重的呼吸功能不全，如果不迅速诊断和治疗，甚至可能死亡。在儿童期，喉和气管的软骨结构柔软，尺寸小。因此，儿科骨折发生较少。即使是最大的医院也只看到少数真正的喉气管骨折病例。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GRDV2</LocID>                         
+		 <Text>胃食管反流病</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GRD</LocID>                         
+		 <Text>胃食管反流病（已过时）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GRD_DESCRIPTION</LocID>             
+		 <Text>胃食管反流病，即GERD，是一种影响食管下括约肌（LES）的消化系统疾病，LES是食管和胃之间的肌肉环。许多人，包括孕妇，都患有由GERD引起的胃灼热或胃酸消化不良。如果不及时治疗，它将导致食管炎、巴雷特食管甚至食管癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_OSA2</LocID>                         
+		 <Text>阻塞性睡眠呼吸暂停</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_OSA_DESCRIPTION</LocID>             
+		 <Text>阻塞性睡眠呼吸暂停（OSA）是最常见的睡眠呼吸暂停类型，其特征是在睡眠期间尽管努力呼吸，上呼吸道仍反复出现完全或部分阻塞，并且通常与血氧饱和度降低相关。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_JM_PYC</LocID>                         
+		 <Text>咽部创伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_JM_PYC_DESCRIPTION</LocID>             
+		 <Text>咽部创伤是喉咙或咽部的损伤。咽部穿孔在儿童中是一种不常见的损伤。迄今为止报告的大多数病例都是继发于器械操作或穿透性伤口。咽壁的撕裂伤可能将空气、分泌物和细菌引入咽旁间隙和纵隔，因此具有潜在的危及生命的后遗症。这些损伤的处理是有争议的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_JM_PYL</LocID>                         
+		 <Text>咽部撕裂伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_JM_PYL_DESCRIPTION</LocID>             
+		 <Text>咽部创伤是喉咙或咽部的损伤。咽部穿孔在儿童中是一种不常见的损伤。迄今为止报告的大多数病例都是继发于器械操作或穿透性伤口。咽壁的撕裂伤可能将空气、分泌物和细菌引入咽旁间隙和纵隔，因此具有潜在的危及生命的后遗症。这些损伤的处理是有争议的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_CWP</LocID>                         
+		 <Text>气管软化症</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CWP_DESCRIPTION</LocID>             
+		 <Text>气管软化症是一种病症或事件，其中保持气道（气管）开放的软骨过软，以致气管部分塌陷，尤其是在气流增加时。通常的症状是呼气时出现喘鸣。这通常被称为气管塌陷。气管在吸气时通常会轻微张开，在呼气时会轻微变窄。在气管软化症中，这些过程被夸大，导致呼气时气道塌陷。如果病情进一步延伸到大气道（支气管）（如果也存在支气管软化症），则称为气管支气管软化症。同样的情况也可能影响喉部，称为喉软化症。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_CLRG</LocID>                         
+		 <Text>慢性喉炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CLRG_DESCRIPTION</LocID>             
+		 <Text>持续超过三周的喉炎称为慢性喉炎。这种类型的喉炎通常是由长期接触刺激物引起的。慢性喉炎可能导致声带紧张和损伤或声带上生长物（息肉或小结）。慢性喉炎可能由吸入性刺激物——烟雾、化学品和过敏原、胃食管反流病、吸烟、饮酒、慢性鼻窦炎和过度使用声音引起。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_CTSA</LocID>                         
+		 <Text>中枢性睡眠呼吸暂停</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CTSA_DESCRIPTION</LocID>             
+		 <Text>中枢性睡眠呼吸暂停是一种您的呼吸在睡眠期间反复停止和开始的疾病。中枢性睡眠呼吸暂停发生是因为您的大脑没有向控制呼吸的肌肉发送正确的信号。这种情况不同于阻塞性睡眠呼吸暂停，在阻塞性睡眠呼吸暂停中，您因上呼吸道阻塞而无法正常呼吸。中枢性睡眠呼吸暂停比阻塞性睡眠呼吸暂停少见。中枢性睡眠呼吸暂停可能是其他病症的结果，如心力衰竭和中风。在高海拔地区睡觉也可能导致中枢性睡眠呼吸暂停。中枢性睡眠呼吸暂停的治疗可能涉及治疗现有病症、使用辅助呼吸设备或使用补充氧气。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_RKE</LocID>                         
+		 <Text>任克氏水肿</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_RKE_DESCRIPTION</LocID>             
+		 <Text>任克氏水肿是由于任克氏腔内积液（水肿）导致的声带肿胀。由德国解剖学家弗里德里希·B·任克于1895年首次发现，任克氏腔是声带的一个凝胶状层，位于声带外层细胞下方。当人说话时，任克氏腔振动以产生声音（发声）。任克氏腔有时被称为浅层固有层。任克氏水肿的特征是充满液体的声带呈“囊状”外观。声带的肿胀导致声音变得低沉和沙哑。因此，任克氏水肿的主要症状是类似于喉炎的沙哑。与任克氏水肿相关的主要原因是吸烟。事实上，97%的被诊断患有任克氏水肿的患者是习惯性吸烟者。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_OVC</LocID>                         
+		 <Text>声音疲劳</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_OVC_DESCRIPTION</LocID>             
+		 <Text>声音疲劳可能由过度使用声音引起。我们经常在职业用声者中看到这种情况——例如教师、歌手和呼叫中心员工。就像跑步会让你的腿感到疲劳一样，长时间使用声音也会让你的声音感到疲劳。我们的声音治疗师建议，每使用60分钟的声音，就需要10分钟的声音休息。过度使用会损伤声带，如果你经常发现在一天结束时或唱歌一小时后声音嘶哑，你的声带可能正在经历组织损伤。喉科医生会检查你的声带是否有增生或其他病症，并可能推荐声音治疗来学习减轻声带压力的技巧，并希望有助于逆转任何组织损伤。这些治疗技巧侧重于声音产生的基础知识和重新平衡声音子系统。治疗是根据每个用声者及其声音需求进行个性化的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_CTS</LocID>                         
+		 <Text>慢性扁桃体炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CTS_DESCRIPTION</LocID>             
+		 <Text>扁桃体炎是扁桃体的炎症，扁桃体是喉咙后部的两个椭圆形组织垫——每侧一个。扁桃体炎的体征和症状包括扁桃体肿大、喉咙痛、吞咽困难和颈部两侧淋巴结触痛。大多数扁桃体炎是由常见病毒感染引起的，但细菌感染也可能引起扁桃体炎。如果症状持续超过3个月，扁桃体炎可能是慢性的。在这种情况下，您的医生可能会建议切除您的扁桃体（扁桃体切除术）。</Text>  
+		</GameDBLocalizedString>
+		
+	  <GameDBLocalizedString>      
+		 <LocID>DIA_JM_APX</LocID>                         
+		 <Text>过敏性休克</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_APX_DESCRIPTION</LocID>             
+		 <Text>过敏性休克是一种严重的、可能危及生命的过敏反应。它可以在接触您过敏的物质（如花生或蜜蜂蜇伤）后的几秒或几分钟内发生。过敏性休克导致您的免疫系统释放大量化学物质，可能使您进入休克状态——您的血压突然下降，气道变窄，阻碍呼吸。体征和症状包括快速、微弱的脉搏；皮疹；以及恶心和呕吐。常见的触发因素包括某些食物、一些药物、昆虫毒液和乳胶。过敏性休克需要注射肾上腺素并随后前往急诊室。如果您没有肾上腺素，您需要立即去急诊室。如果过敏性休克不立即治疗，它可能是致命的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MED</LocID>                         
+		 <Text>梅尼埃病（轻度）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MED_DESCRIPTION</LocID>             
+		 <Text>梅尼埃病是一种内耳疾病，可导致头晕（眩晕）和听力损失。在大多数情况下，梅尼埃病只影响一只耳朵。梅尼埃病可发生在任何年龄，但通常在青壮年期开始。它被认为是一种慢性病，但各种治疗方法可以帮助缓解症状并最大限度地减少其对您生活的长期影响。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CLA</LocID>                         
+		 <Text>胆脂瘤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CLA_DESCRIPTION</LocID>             
+		 <Text>胆脂瘤是一种由中耳和/或乳突中的角化鳞状上皮组成的破坏性和扩张性生长物。胆脂瘤并非如其名所示为癌性，但由于其侵蚀性和扩张性，可能导致严重问题。这可能导致中耳骨骼（小骨）的破坏，以及通过颅底生长到大脑中。它们经常被感染，并可能导致慢性耳部流脓。治疗几乎总是包括手术切除。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_HFM</LocID>                         
+		 <Text>手足口病（已过时）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_OSA</LocID>                         
+		 <Text>阻塞性睡眠呼吸暂停（已过时）</Text>	
+		</GameDBLocalizedString>
+	   
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

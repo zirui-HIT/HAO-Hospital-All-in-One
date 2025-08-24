@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_RU_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>ru</LanguageCode>
+	<LanguageNameLocalized>Русский</LanguageNameLocalized>
+	<Contributors>
+		<Name>U-ru-Ru</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_ONCOLOGY</LocID>                                          	
+		<Text>Онкология</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+		<Text>Онкология</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+		<Text>"Онкология" предоставляет доступ к специализированным процедурам для выявления, диагностики и лечения различных форм рака.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+		<Text>Хирургическая онкология</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+		<Text>"Хирургическая онкология" позволяет врачу практиковать хирургию в онкологическом отделении и влияет на то, как часто операции заканчиваются осложнениями.</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

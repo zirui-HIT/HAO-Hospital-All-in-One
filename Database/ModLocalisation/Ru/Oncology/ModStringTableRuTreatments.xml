@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_RU_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>ru</LanguageCode>
+	<LanguageNameLocalized>Русский</LanguageNameLocalized>
+	<Contributors>
+	<Name>U-ru-Ru, Anubis</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Крем Имиквимод</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>Имиквимод - это рецептурный крем, который действует как модификатор иммунного ответа и используется для лечения поверхностного базальноклеточного рака и актинического кератоза. \nНеобходимая комната: любой кабинет </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Фотодинамическая терапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>Фотодинамическая терапия - это лечение, при котором для уничтожения раковых клеток используются определенные препараты, называемые фотосенсибилизирующими средствами, а также специальный свет.\n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Широкая резекция пораженной области</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>Широкая резекция пораженной области - это хирургическая процедура по удалению небольшого участка больной или проблемной ткани с частью здоровой ткани. Эта процедура обычно выполняется на груди или кожных повреждениях, но может использоваться на любой области тела. \n Необходимая комната: Операционная в отделении онкологии. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Рекомендация онко-пациенту</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>Врач дает пациенту советы о том, как справляться с его ситуацией, помогает пациенту лучше понять его варианты, такие как паллиативная помощь, и делает все возможное, чтобы обеспечить пациенту наилучшее качество жизни на периуд заболевания. \n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Таргетная терапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>Таргетная терапия направлена ​​на конкретные гены, белки или тканевую среду рака, которая способствует его росту и выживанию.\n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Химиотерапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>Химиотерапия - это вид лечения рака, при котором один или несколько противораковых препаратов используются в качестве части стандартной схемы химиотерапии. Химиотерапия может проводиться с лечебной целью, или она может быть направлена ​​на продление жизни или уменьшение симптомов.\n Необходимая комната: обычная госпитализация в онкологическом отделении.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Лапароскопическая хирургия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>Лапароскопическая или «минимально инвазивная» хирургия - это специализированная техника для проведения операции. Это минимально инвазивная процедура с низким уровнем риска, требующая минимального разреза. Лапароскопия использует инструмент под названием лапароскоп, чтобы посмотреть на органы брюшной полости. \n Необходимая комната: Операционная в отделении онкологии. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Легочная лобэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>Лёгочная лобэктомия - это хирургическая операция, при которой удаляется часть больного легкого при раке на ранней стадии. \n Необходимая комната: Операционная в отделении онкологии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Эндоваскулярная эмболизация</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>Эндоваскулярная эмболизация является инвазивной хирургической процедурой. Он используется для лечения аномальных кровеносных сосудов, обнаруженных в вашем мозге, а также в других областях вашего тела. Эта процедура является альтернативой открытой хирургии. В процессе процедуры блокируется кровеносный сосуд, перекрывая приток крови к пораженному участку. \n Необходимая комната: Операционная в отделении онкологии. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Иммунотерапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>Иммунотерапия - это способ лечения, который помогает иммунной системе организма бороться с раком. \n Необходимая комната: любой кабинет </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Реконструктивная хирургия нерва</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Хирургическое восстановление нерва включает исследование поврежденного нерва и удаление поврежденной ткани или рубца из нервных окончаний. После этого нерв может быть напрямую восстановлен, если на его концах достаточно длины, чтобы обеспечить качественный востановление без натяжения. \n Необходимая комната: Операционная в отделении онкологии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
+	<Text>Автоинъектор адреналина</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
+	<Text>Автоинъектор адреналина - это медицинское устройство для введения расчитанной дозы или доз адреналина с помощью автоинъектора. Чаще всего используется для лечения анафилаксии. \n Необходимая комната: любой кабинет </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>Полипэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>Полипэктомия - это процедура, используемая для удаления полипов внутри толстой кишки. Полип представляет собой аномальный набор тканей. Процедура относительно неинвазивна. \n Необходимая комната: Операционная в отделении онкологии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Колэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>Колэктомия - это резекция толстой кишки. Обычно удалается только часть, но в крайних случаях допускается полное удаление. \n Необходимая комната: Операционная в отделении онкологии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>Адреналэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>Адреналэктомия - это хирургическое удаление одного или обоих надпочечников. Процедура может быть выполнена с использованием открытого разреза или лапароскопической техники. \n Необходимая комната: Операционная в отделении онкологии. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE</LocID>                                    	
+	<Text>Митотан</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE_DESC</LocID>                        	
+	<Text>Митотан, продаваемый под торговой маркой Lysodren, является ингибитором стероидогенеза и цитостатическим противоопухолевым препаратом, который используется для лечения адренокортикальной карциномы и синдрома Кушинга. \n Необходимая комната: любой кабинет </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Спиронолактон</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>Спиронолактон - это калийсберегающее мочегонное средство, которое предотвращает поглощение организмом слишком большого количества соли и предотвращает слишком низкий уровень калия. Спиронолактон используется для лечения сердечной недостаточности, высокого кровяного давления (гипертония) или гипокалиемии (низкий уровень калия в крови). \n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Октреотидная инъекция</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>Октреотид используется для лечения опухолей, продуцирующих гормон роста (акромегалия и гигантизм), и может помочь в стабилизации состояния пациента, страдающего карциноидным кризисом. \n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SL_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Активный мониторинг</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>Активный мониторинг - это когда онколог не проводит лечение, но контролирует здоровье пациента с помощью регулярных обследований и анализов крови. \n Необходимая комната: Любое кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_HYPER_CVAD</LocID>                                    	
+	<Text>Интенсивная гипер-CVAD-терапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>Термин «гипер» относится к гиперфракционному характеру химиотерапии, которая проводится в меньших дозах для минимизации побочных эффектов. «CVAD» - это аббревиатура от лекарств, используемых в курсе: циклофосфамид, винкристин, доксорубицин (также известный под торговым названием адриамицин) и дексаметазон. Краткосрочные интенсивные терапии показывают улучшенные результаты. \n Необходимая комната: госпитализация ПИН в онкологическом отделении.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>Спленэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>Спленэктомия - это хирургическая операция по удалению селезенки. Селезенка - это орган, который находится под грудной клеткой в ​​верхней левой части живота. Он помогает бороться с инфекцией и фильтрует старые или поврежденные клетки из вашей крови. Наиболее распространенным показанием к спленэктомие является разрыв селезенки, которому часто сопутствует повреждение брюшины. Спленэктомия может помочь в лечении других состояний, включая спленомегалию вызывающую дискомфорт, некоторые заболевания крови, некоторые виды рака, инфекцию и нераковые кисты или опухоли. \n Необходимая комната: Операционная в отделении онкологии. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF</LocID>                                    	
+	<Text>Препараты G-CSF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF_DESC</LocID>                        	
+	<Text>Препараты, стимулирующие гранулоцитарно-колониальные факторы, также известные как колониестимулирующий фактор 3, представляют собой гликопротеин, который стимулирует костный мозг к образованию гранулоцитов и стволовых клеток и их высвобождению в кровоток. \n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE</LocID>                                    	
+	<Text>Метотрексат IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE_DESC</LocID>                        	
+	<Text>Метотрексат, ранее известный как аметоптерин, является агентом химиотерапии и подавителем иммунной системы. Он используется для лечения рака, аутоиммунных заболеваний, внематочной беременности и медикаментозного аборта. Типы рака, для которых он используется, включают рак молочной железы, лейкоз, рак легких, лимфому и остеосаркому. \n Необходимая комната: обычная госпитализация в онкологическом отделении.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Алемтузумаб IV (ВВ)</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>Алемтузумаб - это лекарство, используемое для лечения хронического лимфолейкоза и рассеянного склероза. При рассеянном склерозе рекомендуется в крайнем случае, когда другие методы лечения не помогли. Внутривенная иньекция. \n Необходимая комната: обычная госпитализация в онкологическом отделении.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH</LocID>                                    	
+	<Text>Ингибиторы BRAF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
+	<Text>Ингибиторы BRAF помогают блокировать мутацию гена BRAF-V600E. В клинических испытаниях B-Raf увеличивал вероятность выживания у пациента с метастатической меланомой. Несмотря на высокую эффективность препарата, у 20% опухолей все еще развивается устойчивость к лечению. \n Необходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>Тамоксифен</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>Тамоксифен - гормонотерапия рака молочной железы как у женщин, так и у мужчин. Это снижает риск раннего (повторного) рака груди после операции или развития у другой молочной железы. Это может также помочь с продвинутой стадией ракоа молочной железы в течение некоторого времени. \n\nНеобходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Частичная мастэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>Операция по удалению рака и некоторых нормальных тканей вокруг него, но не самой груди. Некоторые лимфатические узлы под рукой могут быть удалены для биопсии. Часть слизистой оболочки грудной клетки также может быть удалена, если рак находится рядом с ней. \n\nНеобходимая комната: Операционная в отделении онкологии.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>Гипертонический солевой раствор</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>Гиперосмолярная терапия гипертоническим солевым раствором или маннитом может быстро снизить внутричерепное давление, возможно, спасая жизни и клетки мозга. Гипертонический солевой раствор эффективен, потому что он не пересекает гематоэнцефалический барьер (в значительной степени) и тем самым вытягивает спинномозговую жидкость из черепа и жидкость из поврежденного мозга, снижая давление и дальнейшие травмы. \n\nНеобходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Разрез и дренаж</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Разрез, дренаж и клиническое прокалывание - это незначительные хирургические процедуры для выделения жидкости или давления под кожей. \n\nНеобходимая комната: Кабинет общей диагностики / Кабинет врача / ПИН / Обычная палата</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>Хирургическое устранение опухолей</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>Хирургическое устранение опухолей - это процедура, при которой хирургически неизлечимое злокачественное новообразование частично удаляется без лечебных намерений, чтобы сделать последующую терапию лекарственными средствами, облучением или другими дополнительными мерами более эффективной и, таким образом, увеличить продолжительность выживания. Врач должен будет помочь пациенту, чтобы попытаться подтолкнуть рак к ремиссии. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>Полная резекционная краниотомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>Полная резекция - это полное удаление видимой опухолевой ткани с помощью магнитно-резонансной томографии (МРТ). Супратотальная резекция выполняется как полная резекция с удалением видимых границ опухоли ткани МРТ в неповрежденную ткань мозга. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Крем эстрадиол</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>Крем эстрадиол - это препарат эстрогена, женского гормона, для местного применения во влагалищной области, используемый для лечения определенных симптомов менопаузы, таких как сухость, жжение и зуд влагалищной области, а также срочность или раздражение при мочеиспускании. \n\nНеобходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>Односторонняя сальпинго-овариэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Односторонняя сальпинго-офорэктомия - это хирургическое удаление одного яичника и одной фаллопиевой трубы, которые расположены на одной стороне тела и имеют общее кровоснабжение (напротив, двусторонняя процедура включает удаление как яичников, так и фаллопиевой трубки). Односторонняя сальпинго-офореэктомия должна рассматриваться как первый вариант лечения, экономящего фертильность, для женщин, которые хотят сохранить фертильность. Хотя более высокий риск локальных рецидивов обнаружен, он не связан с уменьшением общей выживаемости. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>Радикальная простатэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>Радикальная простатэктомия - это операция по удалению предстательной железы и окружающих ее тканей. Обычно это семенные пузырьки и некоторые близлежащие лимфатические узлы. Радикальная простатэктомия может вылечить рак простаты у мужчин, у которых рак ограничен простатой. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Гормонотерапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>Гормонотерапия или гормональная терапия - это использование гормонов в лечении. \n\nНеобходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>Паратиреоидэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>Паратиреоидэктомия - это операция по удалению околощитовидных желез или опухолей околощитовидной железы. Паращитовидные железы находятся прямо за щитовидной железой на шее. Эти железы помогают организму контролировать уровень кальция в крови. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>R-CHOP Химиотерапия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOP - это комбинированное лечение, используемое для лечения неходжкинской лимфомы (НХЛ). R-CHOP включает пять препаратов для химиотерапии: ритуксимаб (ритуксан), циклофосфамид. гидрохлорид доксорубицина, винкристин и преднизолон. \n\nНеобходимая комната: Регулярная госпитализация в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>Ритуксимаб</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>Ритуксимаб, продаваемый под торговой маркой Ритуксан среди прочих, является лекарством, используемым для лечения определенных аутоиммунных заболеваний и типов рака. Ритуксимаб представляет собой химерное моноклональное антитело против белка CD20, которое в основном обнаруживается на поверхности В-клеток иммунной системы. Когда он связывается с этим белком, он вызывает гибель клеток. \n\nНеобходимая комната: Регулярная госпитализация в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
+	<Text>Гемцитабин</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE_DESC</LocID>                        	
+	<Text>Гемцитабин, продаваемый под торговой маркой Гемзар, среди прочих, является химиотерапевтическим препаратом, применяемым для лечения ряда видов рака. Эти раковые заболевания включают рак молочной железы, рак яичников, немелкоклеточный рак легких, рак поджелудочной железы и рак мочевого пузыря. Он дается медленной инъекцией в вену. \n\nНеобходимая комната: Регулярная госпитализация в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT</LocID>                                    	
+	<Text>Комбинированное лечение POC</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT_DESC</LocID>                        	
+	<Text>Комбинированное лечение памидронатом и октреотидом. Отдельные сообщения предполагают, что в некоторых случаях памидронат и октреотид могут помочь в облегчении боли в костях и помочь в лечении гипертрофической легочной остеоартропатии (HPOA). Лечение основной проблемы необходимо, что-бы решить всю проблему.  \n\nНеобходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Сегментэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>Сегментарная резекция - это хирургическая операция по удалению части органа или железы как подтипа резекции, которая может включать удаление всей части тела. Это может также использоваться, чтобы удалить опухоль и нормальную ткань вокруг этого. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP</LocID>                                    	
+	<Text>FEP комбинированное лечение</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
+	<Text>Комбинированное лечение 5-фторурацилом (5-FU), цисплатином и этопозидом (FEP). Химиотерапия имеет относительно низкую лечебную эффективность при некоторых видах рака, таких как Перстневидноклеточный рак (SRCC) и у пациентов, и общая выживаемость ниже по сравнению с пациентами с более типичной патологией рака. Эти раковые заболевания обычно диагностируются на поздних стадиях заболевания, поэтому опухоли обычно распространяются более агрессивно, чем неопухолевые, что затрудняет лечение, но большинство активных схем включают 5-фторурацил (5-FU), цисплатин и / или этопозид. Комбинированная химиотерапия FEP, по-видимому, является эффективной схемой лечения рака желудка в качестве спасительной химиотерапии. \n\nНеобходимая комната: Регулярная госпитализация в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL</LocID>                                    	
+	<Text>Аммонул</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL_DESC</LocID>                        	
+	<Text>Аммонул (комбинация бензоата натрия и фенилацетата натрия) используется для лечения состояния, вызванного слишком большим содержанием аммиака в крови (гипераммонемия). \n\nНеобходимая комната: Регулярная госпитализация в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE</LocID>                                    	
+	<Text>Лактулоза</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE_DESC</LocID>                        	
+	<Text>Лактулоза - это отпускаемый по рецепту лекарственный препарат, который используют перорально или ректально для лечения или профилактики осложнений заболевания печени (печеночная энцефалопатия). Это не излечивает проблему, но может помочь улучшить психическое состояние. Лактулоза является подкислителем толстой кишки, который работает, уменьшая количество аммиака в крови. \n\nНеобходимая комната: любой кабинет</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>Гепатэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>Гепатэктомия - это хирургическая резекция (удаление всей или части) печени. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Операция по пересадке печени</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>Пересадка печени - это хирургическая процедура, в результате которой удаляется печень, которая больше не функционирует должным образом (печеночная недостаточность), и заменяется на здоровую печенью от умершего донора или часть здоровой печени от живого донора. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Иммунодепрессанты</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Иммунодепрессанты - это класс препаратов, которые подавляют или уменьшают силу иммунной системы организма. Некоторые из этих препаратов используются для снижения вероятности отторжения пересаженного органа, такого как печень, сердце или почка. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Паротидэктомия</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>Паротидэктомия - это хирургическое иссечение околоушной железы, основной и самой большой из слюнных желез. Процедура обычно выполняется из-за новообразований, которые представляют собой рост быстро и ненормально делящихся клеток. Новообразования могут быть доброкачественными или злокачественными. \n\nНеобходимая комната: Операционная в отделении онкологии</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

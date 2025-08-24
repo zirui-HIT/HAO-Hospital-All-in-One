@@ -1,0 +1,3158 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_NEW_PSYCHIATRY_SYMPTOMS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>Leo</Name>
+    </Contributors>
+    <LocalizedStrings>
+	
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_SPINAL_CORD_INJURY</LocID>
+        <Text>脊髓损伤</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SPINAL_CORD_INJURY_DESC</LocID>
+        <Text>MRI提示脊髓损伤。</Text>
+      </GameDBLocalizedString>	
+      
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_SPINE_CORD_INJURY</LocID>
+        <Text>脊柱损伤</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SPINE_CORD_INJURY_DESC</LocID>
+        <Text>X光片或CT提示脊柱骨折、脊柱脱位。</Text>
+      </GameDBLocalizedString>	
+		
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_PARALYSIS</LocID>
+        <Text>瘫痪</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_PARALYSIS_DESC</LocID>
+        <Text>瘫痪是指肌肉随意运动能力的减低或消失。当随意运动消失时要确定是否为瘫痪，需排除关节或骨骼等疾病导致的活动障碍。瘫痪的分类方法很多，包括按照发病原因、瘫痪程度、肌张力状态、瘫痪的分布及传导通路累及部位等五钟。</Text>
+      </GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>
+        <LocID>SYM_NMC_DLB</LocID>
+        <Text>路易体病</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_DLB_DESC</LocID>
+        <Text>患者符合路易体病的诊断标准。</Text>
+      </GameDBLocalizedString>	
+		
+		
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_PITUITARY_ADENOMA</LocID>
+        <Text>垂体腺瘤</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_PITUITARY_ADENOMA_DESC</LocID>
+        <Text>CT或MRI发现微腺瘤或大腺瘤的典型影像学表现。</Text>
+      </GameDBLocalizedString>	
+		
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_PRL</LocID>
+        <Text>高水平催乳素</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_PRL_DESC</LocID>
+        <Text>催乳素（PRL）水平升高。</Text>
+      </GameDBLocalizedString>		
+	
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_SWI_ICAA</LocID>
+        <Text>不对称的大片白质病变</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SWI_ICAA_DESC</LocID>
+        <Text>炎症型脑淀粉样血管病通常为不对称的大片白质病变，影像学特点符合血管源性水肿的特征，可有占位效应、脑实质或脑膜强化。与AD（阿尔茨海默病）患者接受抗Aβ单克隆抗体治疗后出现的“Aβ相关影像异常”类似。</Text>
+      </GameDBLocalizedString>	
+		
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_SWI_CAA</LocID>
+        <Text>局限脑叶的多发点状微出血</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SWI_CAA_DESC</LocID>
+        <Text>磁敏感加权成像（SWI）序列上显示局限脑叶的多发点状微出血，是脑淀粉样血管病（CAA）标志性影像学特点，此外常合并脑白质高信号、皮质表面铁沉积、血管周围间隙等。</Text>
+      </GameDBLocalizedString>
+		
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_HYDROCEPHALUS</LocID>
+        <Text>脑积水</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYDROCEPHALUS_DESC</LocID>
+        <Text>CT或MRI显示脑室扩大。脑积水是脑室系统或导水管、延髓流出孔或颅底蛛网膜下腔某些部位发生脑脊液引流障碍，脑脊液在脑室内积聚导致颅内压增高、脑室扩大和半球扩张。脑积水也指脑萎缩后脑室被动扩张和脑发育障碍的脑室扩张。Dandy和Blackfan（1914）提出交通性和梗阻性（非交通性）脑积水的分类概念。</Text>
+      </GameDBLocalizedString>
+		
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_ARTERY_DISSECTION</LocID>
+        <Text>动脉夹层</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ARTERY_DISSECTION_DESC</LocID>
+        <Text>超声、CTA、MRI或DSA发现了颈部动脉夹层的相应证据。举例来说，DSA可见“火焰征”“线样征”“鼠尾征”、内膜瓣、假性动脉瘤等表现。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_MOYAMOYA_DISEASE</LocID>
+        <Text>烟雾病</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_MOYAMOYA_DISEASE_DESC</LocID>
+        <Text>以DSA为例，可显示双侧颈内动脉虹吸段、大脑前、中动脉起始段狭窄或闭塞，伴脑底异常血管网，如吸烟后突吐出的烟雾，还可发现动脉瘤。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_ELEVATED_WHITE_BLOOD_CELL_COUNT_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>脑脊液白细胞数增高</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ELEVATED_WHITE_BLOOD_CELL_COUNT_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>脑脊液白细胞数增高。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_CRANIOFACIAL_PAINS</LocID>
+        <Text>颅面部疼痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CRANIOFACIAL_PAINS_DESC</LocID>
+        <Text>患者自感颅面部疼痛。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_ORTHOSTATIC_HEADACHE</LocID>
+        <Text>体位性头痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ORTHOSTATIC_HEADACHE_DESC</LocID>
+        <Text>头痛与体位有明显关系，立位时出现加重，卧位时减轻或消失，头痛多在体位变换后15~30分钟内出现。</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_TN</LocID>
+        <Text>三叉神经痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_TN_DESC</LocID>
+        <Text>疼痛为一侧面部严格按三叉神经分布区域的发作性剧烈刺痛，呈撕裂样，烧灼样或刀割样疼痛，而无任何先兆，常突发突停止。发作持续数秒至两分钟，常因洗脸，刷牙，进食，发酵，咳嗽等诱发。发作时常伴有患侧面肌反射性抽搐（称为“痛性抽搐”）。面部特定区域尤其敏感，如鼻翼，口角，颊，唇，舌或齿根部轻触即可诱发（称为“扳机点”）。发作次数从每天一次到数十次不整，病程呈周期性，持续数天、数周、数月不等，间歇期可正常。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_DECREASED_CEREBROSPINAL_FLUID_PRESSURE</LocID>
+        <Text>脑脊液压力降低</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_DECREASED_CEREBROSPINAL_FLUID_PRESSURE_DESC</LocID>
+        <Text>脑脊液压力降低（＜60mmH20），部分病例压力测不出，呈“干性穿刺”。</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>SYM_BLURRED_VISION</LocID>
+        <Text>视物模糊</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_BVP</LocID>
+        <Text>前庭眼动反射下降或缺失</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_BVP_DESC</LocID>
+        <Text>下述方式中至少一项记录到前庭眼动反射(VOR)功能下降或缺失: ①vHIT(视频头脉冲试验)或磁场巩膜搜索线圈技术测得双侧VOR水平增益＜0.6;②冷热试验反应减弱(每侧冷热试验眼震最大慢相速度之和＜6°/s);③正弦摆动转椅试验(0.1Hz,Vmax=50°/s)水平增益＜0.1,相位超前＞68°(连续时间＜5秒)。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_POSITION_TEST</LocID>
+        <Text>变位试验(+)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_POSITION_TEST_DESC</LocID>
+        <Text>变位试验，即位置试验，是指利用不同方法刺激半规管，通过观察眼球运动从而评估该半规管的功能。典型的BPPV通过变位试验即可确诊。Dix-hallpike试验用于评估垂直半规管的功能，仰卧滚转试验(supine roll test)用于评估水平半规管的功能。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_DIZZINESS</LocID>
+        <Text>头晕</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_DIZZINESS_DESCRIPTION</LocID>
+        <Text>头晕是非旋转性的，是空间定向能力的受损或感受障碍，无虚假的或扭曲的运动感。虽然“头晕”这一专业术语被广泛运用，而且在很多情况下被认为包括虚假的运动感，但是在本分类中的“头晕”不包括“眩晕”，头晕和眩晕是明确区分、互不排除的，这两个症状在同一个患者中既可以共存，也可以先后出现。本分类中的头晕不能用于描述单纯的昏倒感（昏厥前的感觉）、精神混乱、脱离现实感，也不适用于全身乏力、疲劳、虚弱等非特异性感觉。根据国际前庭疾病分类(ICVD)，前庭症状包括眩晕、头晕、前庭-视觉症状和姿势性症状等。</Text>
+        
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_PAIN_DESCRIPTION</LocID>
+        <Text>疼痛是一种不愉快的感觉和情绪上的感受，伴随着现有或潜在的组织损伤。疼痛分为急性疼痛和慢性疼痛。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_DRD</LocID>
+        <Text>DRD基因突变</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_DRD_DESC</LocID>
+        <Text>发现了导致多巴反应性肌张力障碍的基因突变，包括GCHI、TH、SR、PTPS等。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_TORTICOLLIS_GENE</LocID>
+        <Text>痉挛性斜颈</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_TORTICOLLIS_GENE_DESC</LocID>
+        <Text>经过查体和辅助检查，排除其他疾病，诊断“痉挛性斜颈”。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_TORTICOLLIS</LocID>
+        <Text>斜颈</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_TORTICOLLIS_DESC</LocID>
+        <Text>斜颈，是指以胸锁乳突肌、斜方肌为主的颈部肌肉发生不自主收缩，引起头向一侧扭转或阵挛性倾斜。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_TORSION_SPASM</LocID>
+        <Text>全身扭转性肌张力障碍</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_TORSION_SPASM_DESC</LocID>
+        <Text>扭转痉挛的典型表现是以躯干为轴的扭转或螺旋样运动，常引起脊柱前凸、侧凸和骨盆前倾。</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_NF</LocID>
+        <Text>神经纤维瘤病</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_NF_DESC</LocID>
+        <Text>基因分析确定了NFI或NFII的突变类型。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRASPINAL_TUMORS</LocID>
+        <Text>椎管内肿瘤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRASPINAL_TUMORS_DESC</LocID>
+        <Text>影像检查提示椎管内肿瘤，也称为脊髓肿瘤。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MENINGIOMA</LocID>
+        <Text>颅内脑膜瘤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MENINGIOMA_DESC</LocID>
+        <Text>MRI检查显示出了颅内脑膜瘤的特征。</Text>
+      </GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_ACOUSTIC_NEUROMA</LocID>
+        <Text>听神经瘤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ACOUSTIC_NEUROMA_DESC</LocID>
+        <Text>肿瘤显示T1W高信号，T2W高信号，T2信号通常高于脑膜瘤，T1信号低于脑膜瘤，可见肿瘤呈蒂状深入内耳道内。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_LOCAL_BONE_CHANGES</LocID>
+        <Text>局限性骨质改变</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_LOCAL_BONE_CHANGES_DESC</LocID>
+        <Text>X线平片可见局部颅骨破坏或增生。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_CVT</LocID>
+        <Text>颅内静脉血栓形成</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_CVT_DESC</LocID>
+        <Text>脑血管造影(DSA)显示颅内静脉血栓形成。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HSP</LocID>
+        <Text>遗传性痉挛性截瘫</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HSP_DESC</LocID>
+        <Text>基因检测发现了遗传性痉挛性截瘫，该病的遗传分类基于染色体位点和致病基因，分别命名为SPG1~80。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_SPASTIC_PARAPLEGIC_GAIT</LocID>
+        <Text>痉挛性截瘫步态</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_SPASTIC_PARAPLEGIC_GAIT_DESC</LocID>
+        <Text>痉挛性截瘫步态，又称剪刀步态，是双侧皮质脊髓束受损所致。表现为患者站立时双下肢伸直靠近，小腿略分开，双足下垂伴有内旋。行走时躯干前倾，两臂抬举，两大腿强烈内收，膝关节紧贴，足前半和趾底部着地，似用足尖走路，交叉前进，呈剪刀状。</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRACRANIAL_TUMOUR</LocID>
+        <Text>颅内肿瘤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRACRANIAL_TUMOUR_DESC</LocID>
+        <Text>CT可见密度异常的病灶，高度怀疑颅内肿瘤。</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_NEUROGLIOMA</LocID>
+        <Text>神经胶质瘤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_NEUROGLIOMA_DESC</LocID>
+        <Text>MRI提示胶质瘤。低级别的胶质瘤常规MRI呈长T1、长T2信号影，边界不清，周边轻度水肿影，局部轻度占位征象；高级别胶质瘤MRI信号明显不均匀，呈混杂T1/T2信号影，周边明显指状水肿影，占位效应明显，临近脑室受压变形，中线结构移位，脑沟、脑池受压。</Text>
+      </GameDBLocalizedString>
+    
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MRI_DEMYELINATION</LocID>
+        <Text>脱髓鞘改变</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MRI_DEMYELINATION_DESC</LocID>
+        <Text>MRI上发现了脱髓鞘病灶。</Text>
+      </GameDBLocalizedString>
+      
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_OBI</LocID>
+        <Text>非火器性颅脑开放伤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_OBI_DESC</LocID>
+        <Text>头颅CT发现了非火器性颅脑开放伤。</Text>
+      </GameDBLocalizedString>
+      
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_MCI</LocID>
+        <Text>颅脑火器伤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MCI_DESC</LocID>
+        <Text>头颅CT发现了颅脑火器伤。</Text>
+      </GameDBLocalizedString>
+    
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_SKULL_FRACTURE</LocID>
+        <Text>颅骨骨折</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_SKULL_FRACTURE_DESCRIPTION</LocID>
+        <Text>颅骨骨折包括颅盖骨折和颅底骨折。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_AIH</LocID>
+        <Text>硬膜下血肿</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_AIH_DESC</LocID>
+        <Text>CT可见脑表面新月形高密度影，內缘可不整齐，相对脑皮质内有点片状出血灶，脑水肿明显，脑室受压变形，向对侧移位。</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_EDH</LocID>
+        <Text>硬膜外血肿</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_EDH_DESC</LocID>
+        <Text>CT典型表现为颅骨下方凸透镜样高密度影。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_CTS</LocID>
+        <Text>脑挫裂伤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_CTS_DESC</LocID>
+        <Text>CT可见高、低密度混合影，伴周围低密度水肿区，显示脑室、脑池及中线结构形态移位。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_DAI</LocID>
+        <Text>弥漫性轴索损伤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_DAI_DESC</LocID>
+        <Text>MRI显示轴索损伤，在T1WI低信号，T2WI高信号，病灶通常为0.5mm至数毫米，沿神经纤维方向呈卵圆形，多见灰白质交界或白质纤维囊如放射冠、内囊后肢、胼胝体及脑干长束等，病灶在周边区较多，中央区较少，通常无占位效应。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_IT15_CAG</LocID>
+        <Text>IT15基因的CAG重复序列拷贝数增加</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_IT15_CAG_DESC</LocID>
+        <Text>IT15基因的CAG重复序列拷贝数增加，大于40而具有临床价值。</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_BALLISMUS</LocID>
+        <Text>投掷症</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_BALLISMUS_DESC</LocID>
+        <Text>投掷症也称为舞动动作，是肢体近端剧烈、粗大的无规律投掷样不自主运动。该症与舞蹈症、手足徐动症有密切关联，这些运动异常经常同时并存。投掷症缓解后趋于转化为受累肢体远端部位不太剧烈的舞蹈手足徐动症。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_THE_CAUDATE_NUCLEUS_PUTAMEN_AND_PALE_AND_SWOLLEN_AREAS</LocID>
+        <Text>尾状核、壳核和苍白核肿大</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_THE_CAUDATE_NUCLEUS_PUTAMEN_AND_PALE_AND_SWOLLEN_AREAS_DESC</LocID>
+        <Text>MRI提示，尾状核、壳核和苍白核肿大。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ELEVATED_POTENCY_OF_ANTI_STREPTOCOCCAL_HEMOLYSIN_O</LocID>
+        <Text>抗链球菌溶血素“O”效价升高</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ELEVATED_POTENCY_OF_ANTI_STREPTOCOCCAL_HEMOLYSIN_O_DESC</LocID>
+        <Text>溶血素“O”是A群溶血性链球菌产生的具有溶血活性的代谢产物，相应抗体称抗链球菌溶血素"O"。阳性表示病人近期内有A群溶血性链球菌感染。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ESR_HIGH</LocID>
+        <Text>血沉加快</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ESR_HIGH_DESC</LocID>
+        <Text>血沉即红细胞沉降率(ESR)，是指红细胞在一定条件下沉降的速率。血沉增快临床常见于生理性增快和病理性增快，风湿热、结核病时，因纤维蛋白原及免疫球蛋白增加，血沉明显增快。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_CONCUSSION</LocID>
+        <Text>脑震荡</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_CONCUSSION_DESC</LocID>
+        <Text>CT未发现颅脑损伤的神经系统器质性改变，考虑诊断“脑震荡”。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MYASTHEMIC_CRISIS</LocID>
+        <Text>肌无力危象</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MYASTHEMIC_CRISIS_DESC</LocID>
+        <Text>肌无力危象是重症肌无力危象的一种，为疾病发展严重时导致的呼吸机麻痹性呼吸困难。在临床上，其需要和因应用抗胆碱酯酶药物过量引起的呼吸困难相鉴别。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_ACHR_AB</LocID>
+        <Text>AChR抗体(+)</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_ACHR_AB_DESC</LocID>
+        <Text>血清AChR抗体阳性。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_MUSK_AB</LocID>
+        <Text>MuSK抗体(+)</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_MUSK_AB_DESC</LocID>
+        <Text>血清MuSK抗体阳性。</Text>
+      </GameDBLocalizedString>
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_LRP4_AB</LocID>
+        <Text>LRP4抗体(+)</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HIGH_LRP4_AB_DESC</LocID>
+        <Text>血清LRP4抗体阳性。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_NEOSTIGMINE_TEST</LocID>
+        <Text>新斯的明试验(+)</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_NEOSTIGMINE_TEST_DESC</LocID>
+        <Text>新斯的明试验阳性。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_SYRINGOMYELIA</LocID>
+        <Text>脊髓空洞症</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_SYRINGOMYELIA_DESC</LocID>
+        <Text>MRI是脊髓空洞症的首选诊断方法，可见病变脊髓节段增粗、正常或变细、脊髓内可见长T1、长T2异常信号区，多呈管状，部分可呈多房性或腊肠状。交通性脊髓空洞症也可因脑脊液波动而出现脑脊液流空现象，表现为高信号空洞内有低信号区。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SCD</LocID>
+        <Text>亚急性联合变性</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_SCD_DESC</LocID>
+        <Text>MRI平扫表现为颈、胸段后索或侧索对称性T2高信号，轴位表现为“反兔耳征”，或“倒V征”。</Text>
+      </GameDBLocalizedString>
+      
+      
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PYRAMIDAL_SIGN</LocID>
+        <Text>锥体束征</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PYRAMIDAL_SIGN_DESC</LocID>
+        <Text>锥体束征也称病理反射，包括了巴宾斯基征以及巴宾斯基等位征（霍夫曼征实际上是牵张反射）。上运动神经元受损后，被锥体束抑制的屈曲性防御反射变得易化或被释放，称为病理反射。</Text>
+      </GameDBLocalizedString>
+	<GameDBLocalizedString>
+        <LocID>SYM_NMC_ALS</LocID>
+        <Text>ALS电生理改变</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ALS_DESC</LocID>
+        <Text>肌电图对ALS有很高的诊断价值。ALS患者运动神经传导测定可能出现复合肌肉动作电位波幅减低，运动神经传导速度可轻度减慢，感觉神经传导多无异常。ALS患者同心针肌电图往往在延髓、颈、胸与腰骶多个区域的肌肉出现进行性失神经支配和慢性神经再生支配的电生理表现。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MUSCLE_ATROPHY</LocID>
+        <Text>肌肉萎缩</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_MUSCLE_ATROPHY_DESC</LocID>
+        <Text>肌萎缩是指由于肌肉营养不良而导致的骨骼肌体积缩小，肌纤维变细甚至消失。引起肌萎缩的原因有很多，前角神经元、前根、周围神经、神经肌肉接头或肌肉本身病变均可引起肌肉萎缩，甚至全身代谢性疾病亦可引起肌肉萎缩。肌肉萎缩按照病变性质可分为神经源性肌萎缩和肌源性肌萎缩。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_VN</LocID>
+        <Text>单侧前庭神经功能减弱</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_VN_DESC</LocID>
+        <Text>相关辅助检查提示单侧前庭神经功能减弱(患侧前庭功能显著减退)，如患侧vHIT(视频头脉冲试验)增益降低伴纠正性扫视，患侧双温试验反应降低，患侧VEMPs(眼性前庭诱发肌源性电位)异常，患侧OTR(眼偏斜反应)等。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_PPPD</LocID>
+        <Text>持续性姿势-知觉性头晕</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PPPD_DESC</LocID>
+        <Text>根据巴拉尼协会2017年制定的诊断标准，排除性地诊断为3PD。</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_VP</LocID>
+        <Text>第VIII对脑神经的血管神经交叉压迫</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_VP_DESC</LocID>
+        <Text>MRI中，3D-CISS序列和3D-TOF序列可显示第VIII对脑神经的血管神经交叉压迫。</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ET</LocID>
+        <Text>特发性震颤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_ET_DESC</LocID>
+        <Text>根据症状和体征，排除其他疾病，诊断“原发性震颤”。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PD</LocID>
+        <Text>帕金森病表现</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PD_DESC</LocID>
+        <Text>该患符合帕金森病的诊断标准。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPOSMIA</LocID>
+        <Text>嗅觉减退</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPOSMIA_DESC</LocID>
+        <Text>患者自感嗅觉减退。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_FESTINATING_GAIT</LocID>
+        <Text>慌张步态</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_FESTINATING_GAIT_DESC</LocID>
+        <Text>慌张步态表现为身体前屈，头向前探，肘关节、腕关节、膝关节屈曲，双臂略微内收于躯干；行走时起步困难，第一步不能迈出，开始行走后，步履缓慢，后逐渐速度加快，碎步前冲，双上肢自然摆臂减少，止步困难，极易跌倒；转身费力，以一脚为轴，挪蹭转身。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_RIGIDITY</LocID>
+        <Text>肌强直</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_RIGIDITY_DESC</LocID>
+        <Text>肌强直是异常的高肌张力状态，肌肉持续性或间歇性收缩，触摸时有紧绷感或坚实感。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_BRADYKINESIA</LocID>
+        <Text>运动迟缓</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_BRADYKINESIA_DESC</LocID>
+        <Text>运动迟缓，常与运动减少并存，是指患者动作缓慢，动作反应时间长，完成动作时间比正常人长，而无思维迟缓或心理运动计划形成困难。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+         <LocID>SYM_NMC_POSTURAL_TREMOR</LocID>
+        <Text>姿势性震颤</Text>
+     </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSTURAL_TREMOR_DESC</LocID>
+        <Text>姿势性震颤在静止状态及不随意运动时不出现，当运动完成，肢体和躯干主动保持在某种姿势时出现，多见于上肢或头部，下肢也可见到。肢体放松时震颤小时，肌肉紧张时又变得明显。</Text>
+      </GameDBLocalizedString>
+     <GameDBLocalizedString>
+        <LocID>SYM_NMC_STATIC_TREMOR</LocID>
+        <Text>静止性震颤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_STATIC_TREMOR_DESC</LocID>
+        <Text>静止性震颤是指在安静和肌肉松弛的情况下出现的震颤，安静时出现，活动时减轻，睡眠时小时，震颤节律为4~6次/秒，呈“搓丸样”动作，严重时可发生于头、下颌、唇舌、前臂和下肢及足等部位。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTENTIONAL_TREMOR</LocID>
+        <Text>意向性震颤</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTENTIONAL_TREMOR_DESC</LocID>
+        <Text>运动性震颤又称为意向性震颤，是一种动作性震颤，是指肢体在运动过程中主动肌与拮抗剂不能协同完成目的动作出现的震颤，且越接近目标震颤越明显。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_RBD</LocID>
+        <Text>快速眼动期睡眠行为障碍(RBD)</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_RBD_DESC</LocID>
+        <Text>快速眼动期睡眠行为障碍，称为RBD，是最常见的REM期异态睡眠，是一种以REM期睡眠期间肌肉张力迟缓状态消失，伴随有梦境相关的局部或全身肌肉活动为特征的睡眠疾病，发作时时常出现暴力行为并可造成自身及同床者伤害，导致睡眠片段化。RBD可分为继发性的和特发性的，常继发于α-突触核蛋白病，譬如帕金森病、路易体痴呆等。</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PSG_RWA</LocID>
+        <Text>PSG:REM睡眠期骨骼肌迟缓状态消失</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>SYM_NMC_PSG_RWA_DESC</LocID>
+        <Text>PSG显示REM睡眠期骨骼肌迟缓状态消失，支持RBD的诊断。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>      
+		<LocID>SYM_NMC_POSITIVE_CEREBROSPINAL_FLUID_CYSTICERCOSIS_ANTIBODY_TEST</LocID>                                          	
+		<Text>脑脊液囊虫抗体试验阳性</Text>  
+	</GameDBLocalizedString>
+    <GameDBLocalizedString>      
+		<LocID>SYM_NMC_POSITIVE_CEREBROSPINAL_FLUID_CYSTICERCOSIS_ANTIBODY_TEST_DESC</LocID>                                          	
+		<Text>脑脊液中囊虫抗体试验阳性，脑脊液的免疫学检查对脑囊虫病的诊断及治疗的检测均有重要意义。</Text>  
+	</GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_TREMOR_DESC</LocID>
+        <Text>震颤是身体的一部分或全部表现的不随意的节律性或无节律性的颤动。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_BELL_PALSY</LocID>
+        <Text>特发性面神经麻痹</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_BELL_PALSY_DESC</LocID>
+        <Text>根据患者起病形式及特异性临床表现，排除导致面神经麻痹的其他疾病，诊断“特发性面神经麻痹”。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPERACUSIS</LocID>
+        <Text>听觉过敏</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPERACUSIS_DESC</LocID>
+        <Text>听觉过敏是指患者对于正常的声音感觉比实际声源强度大。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPOGEUSIA</LocID>
+        <Text>味觉减退</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPOGEUSIA_DESC</LocID>
+        <Text>患者自感味觉减退。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_GBS</LocID>
+        <Text>GBS电生理改变</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_GBS_DESC</LocID>
+        <Text>肌电图发现了吉兰-巴雷综合征相应的电生理改变。实际上，发病早期该病可仅有F波潜伏期延长或缺如。运动传导速度降低，远端运动电位潜伏期延长，动作电位波幅正常或下降。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_ACUTE_MYELITIS</LocID>
+        <Text>急性脊髓炎</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ACUTE_MYELITIS_DESC</LocID>
+        <Text>MRI表现为受累脊髓节段水肿、增粗；受累脊髓内显示斑片状长T1长T2异常信号，提示急性横贯性脊髓炎。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_ANTI_GANGLIOSIDE_ANTIBODY</LocID>
+        <Text>脑脊液抗神经节苷脂抗体阳性</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_ANTI_GANGLIOSIDE_ANTIBODY_DESC</LocID>
+        <Text>脑脊液抗神经节苷脂抗体阳性。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBROSPINAL_FLUID_PROTEIN_CELL_SEPARATION_PHENOMENON</LocID>
+        <Text>脑脊液蛋白-细胞分离现象</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBROSPINAL_FLUID_PROTEIN_CELL_SEPARATION_PHENOMENON_DESC</LocID>
+        <Text>脑脊液蛋白-细胞分离现象，即患者脑脊液内蛋白升高而细胞数正常或接近正常。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_GIANT_CYSTICERCOSIS</LocID>
+        <Text>巨大囊虫</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_GIANT_CYSTICERCOSIS_DESC</LocID>
+        <Text>头颅影像学发现了脑实质内单发或多发的巨大囊虫。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_CYSTICERCOSIS</LocID>
+        <Text>脑囊虫病</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_CYSTICERCOSIS_DESC</LocID>
+        <Text>头颅影像学发现了脑实质内、脑室内的囊虫。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_MIG</LocID>
+        <Text>偏头痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_MIG_DESC</LocID>
+        <Text>综合病史和辅助检查结果，排除其他继发性头痛，根据ICHD-3（头痛分类的国际标准），诊断为偏头痛。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CLH</LocID>
+        <Text>丛集性头痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CLH_DESC</LocID>
+        <Text>综合病史和辅助检查结果，排除其他继发性头痛，根据ICHD-3（头痛分类的国际标准），诊断为丛集性头痛。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_TTH</LocID>
+        <Text>紧张型头痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_TTH_DESC</LocID>
+        <Text>综合病史和辅助检查结果，排除其他继发性头痛，根据ICHD-3（头痛分类的国际标准），诊断为紧张型头痛。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_DIMINISHED_HEARING</LocID>
+        <Text>听力减退</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIV_CEREBROSPINAL_FLUID_ANTI_NMDAR_ANTIBODY</LocID>
+        <Text>抗NMDAR抗体阳性</Text>
+      </GameDBLocalizedString>
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIV_CEREBROSPINAL_FLUID_ANTI_NMDAR_ANTIBODY_DESC</LocID>
+        <Text>脑脊液中的抗NMDAR抗体阳性。</Text>
+      </GameDBLocalizedString>	
+	 <GameDBLocalizedString>
+        <LocID>SYM_NMC_DYSTONIA</LocID>
+        <Text>肌张力障碍</Text>
+      </GameDBLocalizedString>
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_DYSTONIA_DESC</LocID>
+        <Text>肌张力障碍是一种不自主、持续性或间歇性肌肉收缩引起的扭曲、重复运动或姿势异常的综合征。肌张力障碍与手足徐动症关系密切，两者差别只在于异常姿势固定时间的长短与累及的部位不同。</Text>
+      </GameDBLocalizedString>	
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_ATHETOSIS</LocID>
+        <Text>手足徐动症</Text>
+      </GameDBLocalizedString>
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_ATHETOSIS_DESC</LocID>
+        <Text>手足徐动症也称为指划症，该症状的特点是手指、足趾、舌或身体其他部位相对缓慢的、弯曲不定的、无目的的不自主运动，常为一个动作接着一个动作，导致受累部位不能维持在一个姿势或位置。</Text>
+      </GameDBLocalizedString>	
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CHOREA</LocID>
+        <Text>舞蹈症</Text>
+      </GameDBLocalizedString>
+       <GameDBLocalizedString>
+        <LocID>SYM_NMC_CHOREA_DESC</LocID>
+        <Text>舞蹈症是一种不规则的、非节律性的、快速有力的、不持续性的不自主运动，动作可简单或复杂，既可见于肢体，也可见于躯干及头面部。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_IRREGULAR_HEARTBEAT</LocID>
+        <Text>心律失常</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_MOG_IGG</LocID>
+        <Text>血清MOG-IgG抗体阳性</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_MOG_IGG_DESC</LocID>
+        <Text>血清MOG-IgG抗体阳性。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_AQP4-IGG_POSITIVE</LocID>
+        <Text>血清NMO抗体阳性</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_AQP4-IGG_POSITIVE_DESC</LocID>
+        <Text>血清AQP4-IgG(NMO)抗体阳性。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_MRI_NMOSD</LocID>
+        <Text>视神经脊髓炎谱系疾病</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_MRI_NMOSD_DESC</LocID>
+        <Text>MRI显示出视神经脊髓炎谱系疾病临床症候群的影像学特征性表现。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_TIA</LocID>
+        <Text>短暂性脑缺血发作(TIA)</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_TIA_DESC</LocID>
+        <Text>综合临床表现和辅助检查手段，回忆性地诊断为短暂性脑缺血发作。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ADEM</LocID>
+        <Text>急性播散性脑脊髓炎</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_ADEM_DESC</LocID>
+        <Text>CT显示白质内弥散性多灶性大片或半片低密度区，可见唤醒或结节状强化。MRI可见脑火脊髓白质内散在多发的T1低信号，T2高信号病灶，部分病灶可强化，脑室周围多见，深部灰质亦可受累。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_IGG_OB</LocID>
+        <Text>IgG寡克隆带</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_IGG_OB_DESC</LocID>
+        <Text>脑脊液中出现IgG寡克隆带，是鞘内IgG合成的重要定性指标。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_MULTIPLE_SCLEROSIS</LocID>
+        <Text>多发性硬化</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_MULTIPLE_SCLEROSIS_DESC</LocID>
+        <Text>MRI的T2加权成像上，脑病灶通常直径3~5mm，圆形或卵圆形，位于脑室周围白质、胼胝体、半卵圆中心、近皮层区域、脑桥、第四脑室底、小脑角或小脑半球，病灶长轴常垂直于脑室壁；偶尔会有明显水肿、占位效应和环装增强的类瘤样病变；病程长的患者可伴脑室系统扩张、脑沟增宽等脑萎缩征象。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_NYSTAGMUS</LocID>
+        <Text>眼球震颤</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_NYSTAGMUS_DESC</LocID>
+        <Text>眼球震颤是指眼球注视某一点时的不自主的节律性往复运动，简称眼震。眼震可以是生理性的，也可由某种疾病引起，据此分为眼源性眼震、前庭性眼震（前庭周围性眼震、前庭中枢性眼震）。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_SAH</LocID>
+        <Text>蛛网膜下腔出血</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_SAH_DESC</LocID>
+        <Text>头颅影像学检查提示蛛网膜下腔出血。</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SAH_CSF</LocID>
+        <Text>蛛网膜下腔出血</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_SAH_CSF_DESC</LocID>
+        <Text>腰椎穿刺发现均匀血性脑脊液。</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_ANEURYSM</LocID>
+        <Text>脑动脉瘤破裂</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_ANEURYSM_DESC</LocID>
+        <Text>血管造影检查存在脑动脉瘤并已破裂。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_WEAKNESS</LocID>
+        <Text>肢体无力</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_WEAKNESS_DESC</LocID>
+        <Text>患者感到肢体无力。</Text>
+      </GameDBLocalizedString>
+      
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPONATREMIA</LocID>
+        <Text>低钠血症</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPONATREMIA_DESC</LocID>
+        <Text>低钠血症是指血清钠＜135mmol/L的一种病理生理状态，与体内总钠量元关。由中枢神经系统疾病引起的低钠血症常见的病因是脑耗盐综合征和抗利尿激素分泌失调综合征。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_BRAIN_SWELLING</LocID>
+        <Text>手术后脑水肿</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_HEMORRHAGE_MEETS_SURGICAL_CONDITIONS</LocID>
+        <Text>手术治疗指征</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_HEMORRHAGE_MEETS_SURGICAL_CONDITIONS_DESC</LocID>
+        <Text>颅脑影像学检查和评估显示，脑出血符合神经外科手术的指征。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_ICH</LocID>
+        <Text>脑出血</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ICH_DESC</LocID>
+        <Text>颅脑影像学检查提示脑实质内出血。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRACEREBRAL_HEMORRHAGE</LocID>
+        <Text>原发性脑出血</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRACEREBRAL_HEMORRHAGE_DESC</LocID>
+        <Text>血管成像未见可能导致脑出血的明显异常。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_CAROTID_STENOSIS</LocID>
+        <Text>颈动脉狭窄</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CAROTID_STENOSIS_DESC</LocID>
+        <Text>颈动脉超声发现了颈动脉狭窄，颈动脉狭窄的主要病因是动脉粥样硬化。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_VERTIGO</LocID>
+        <Text>眩晕</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_VERTIGO_DESC</LocID>
+        <Text>内在的眩晕是指没有自身运动时却产生了自身运动的感觉，或者在正常头部运动是产生了扭曲的自身运动感觉。“内在的”是为了区别于后面的前庭-视觉症状中的“外在的”视觉运动感。一般而言，眩晕即特指“内在的眩晕”，该属于包括了虚假的旋转感和其他虚假的感觉，如摇摆、倾斜、上下摆动、弹跳或滑动（非旋转性眩晕）。根据国际前庭疾病分类(ICVD)，前庭症状包括眩晕、头晕、前庭-视觉症状和姿势性症状等。</Text>
+      </GameDBLocalizedString>
+	   <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_INFARCTION</LocID>
+        <Text>缺血性卒中</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CEREBRAL_INFARCTION_DESC</LocID>
+        <Text>急查CT未见出血，结合急性脑血管病表现，考虑为缺血性卒中。另注，在缺血性卒中的超早期阶段，即发病3小时以内，CT可以发现一些轻微的改变，如大脑中动脉高密度征、皮质边缘（尤其是岛叶）以及豆状核区灰白质分解不清楚、脑沟消失等，这些改变的出现提示梗死灶较大、预后较差，选择溶栓治疗时应慎重。缺血性卒中发病后2周左右，脑梗死病灶处因水肿减轻和吞噬细胞浸润可与周围正常脑组织等密度，CT上难以分辨，称为“模糊效应”。虽然头颅CT是脑梗死最常用的检查，但是CT对急性期的小梗死灶不敏感，特别是脑干和小脑的小梗死灶更难检出。</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SMALL_ARTERY_OCCLUSION</LocID>
+        <Text>腔隙性脑梗死</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_SMALL_ARTERY_OCCLUSION_DESC</LocID>
+        <Text>缺血、坏死的脑组织由吞噬细胞移走形成小的空腔，故称腔隙性脑梗死。通常受损的动脉直径在400~900μm，梗死灶的直径在3~15mm。腔隙性脑梗死常用的影像学检查方法为CT和MRI。急性深部腔隙性脑梗死在CT和MRI上均可以显示。CT可见单个或多个圆形、卵圆形低密度病灶，边界清晰，无占位效应。然而CT检查存在着一定的局限性。与CT相比，MRI可更清晰地显示腔隙性脑梗死病灶。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRACRANIAL_ARTERY_STENOSIS</LocID>
+        <Text>责任血管狭窄</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INTRACRANIAL_ARTERY_STENOSIS_DESC</LocID>
+        <Text>血管造影（DSA）显示责任血管狭窄，支持大动脉粥样硬化性脑梗死的诊断。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ATHEROSCLEROTIC_CEREBRAL_INFARCTION</LocID>
+        <Text>脑梗死</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ATHEROSCLEROTIC_CEREBRAL_INFARCTION_DESC</LocID>
+        <Text>缺血性卒中的MRI一般在发病后6~12小时后可见T1加权像呈低信号，T2加权像呈高信号，出血性梗死显示其中混杂T1高信号。弥散加权成像（DWI）及ADC系数成像可早期诊断缺血性卒中，在发病2小时内显示缺血病变，为早期治疗提供重要信息。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_HYPERTENSION</LocID>
+        <Text>高血压急症</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_HYPERTENSION_DESCRIPTION</LocID>
+        <Text>高血压急症是指原发性或继发性高血压病人，在某些诱因的作用下，血压突然和明显升高（一般超过180/120mmHg），伴有进行性重要靶器官功能不全的表现。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_AMNESIA_ABOUT_TRAUMA</LocID>
+        <Text>逆行性遗忘</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_AMNESIA_ABOUT_TRAUMA_DESCRIPTION</LocID>
+        <Text>逆行性遗忘，是指对疾病发生之前某一阶段的熟悉时间部分或完全遗忘。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_INK_STAINING</LocID>
+        <Text>墨汁染色(+)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_POSITIVE_INK_STAINING_DESC</LocID>
+        <Text>面脑脊液墨汁染色阳性，提示隐球菌感染。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CRYPTOCOCCUS_CAPSULE_ANTIGEN_POSITIVE</LocID>
+        <Text>隐球菌荚膜抗原(+)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CRYPTOCOCCUS_CAPSULE_ANTIGEN_POSITIVE_DESC</LocID>
+        <Text>脑脊液免疫学方法检测到隐球菌荚膜抗原。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CULTURE_OF_CRYPTOCOCCUS_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>脑脊液培养发现隐球菌</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CULTURE_OF_CRYPTOCOCCUS_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>脑脊液培养出了隐球菌。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_FACIAL_PARALYSIS</LocID>
+        <Text>面神经麻痹</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_FACIAL_PARALYSIS_DESC</LocID>
+        <Text>面神经麻痹是面神经受损导致面肌瘫痪的一组神经缺损症状。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPOPSIA</LocID>
+        <Text>视力障碍</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_HYPOPSIA_DESC</LocID>
+        <Text>视力障碍是指单眼或双眼全部视野的视力下降或丧失。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_VISUAL_FIELD_DEFECT</LocID>
+        <Text>视野缺损</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_VISUAL_FIELD_DEFECT_DESC</LocID>
+        <Text>当眼球平直向前注视某一点时所见到的全部空间，叫做视野。视野缺损是指视野的某一区域出现视力障碍而其他区域视力正常。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_PATHOGENIC_BACTERIA_FOUND_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>脑脊液发现化脓性脑膜炎病原菌</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_PATHOGENIC_BACTERIA_FOUND_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>脑脊液做涂片染色，检查到造成化脓性脑膜炎的病原菌，例如脑膜炎双球菌、肺炎球菌、流感嗜血杆菌B型等。</Text>
+      </GameDBLocalizedString>
+	  <GameDBLocalizedString>
+        <LocID>SYM_NMC_CULTIVATION_OF_MYCOBACTERIUM_TUBERCULOSIS_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>脑脊液培养出结核分枝杆菌</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_CULTIVATION_OF_MYCOBACTERIUM_TUBERCULOSIS_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>脑脊液培养出结核分枝杆菌。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ZEIHL-NEELSEN_ACID-FAST_STAIN</LocID>
+        <Text>抗酸染色(+)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_ZEIHL-NEELSEN_ACID-FAST_STAIN_DESC</LocID>
+        <Text>脑脊液抗酸染色阳性，提示结核分枝杆菌感染。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INCREASED_PROTEIN_LEVELS_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>脑脊液蛋白质增高</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_NMC_INCREASED_PROTEIN_LEVELS_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>脑脊液生化检查中，脑脊液蛋白质增高。</Text>
+      </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_RASH</LocID>
+        <Text>皮肤损害</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_RASH_DESCRIPTION</LocID>
+        <Text>皮肤损害或称皮疹，是指可以被他人用视觉或触觉检查出来的皮肤黏膜上所呈现的病变。</Text>
+      </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_EEG_EPILEPTIC_DISCHARGE</LocID>                                          	
+		<Text>癫痫样放电</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_EEG_EPILEPTIC_DISCHARGE_DESC</LocID>                                          	
+		<Text>脑电图痫样放电，主要表现为棘波、尖波、3Hz棘慢波综合、多棘波、尖慢复合波、多棘慢复合波、高幅失律等。</Text>  
+	</GameDBLocalizedString>
+  
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_EEG_FOCAL_SLOW_WAVE</LocID>                                          	
+		<Text>局灶性慢波</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_EEG_FOCAL_SLOW_WAVE_DESC</LocID>                                          	
+		<Text>脑电图见局灶性慢波，是局部脑实质功能障碍所致。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_EEG_DIFFUSE_SLOWING</LocID>                                          	
+		<Text>弥漫性慢波</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_EEG_DIFFUSE_SLOWING_DESC</LocID>                                          	
+		<Text>背景活动为弥漫性慢波，是异常的常见表现，无特异性。见于各种病因引起的弥漫性脑损害、缺氧性脑病、脑膜炎、中枢神经系统变形病、脱髓鞘性脑病等。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_CSE</LocID>                                          	
+		<Text>全面性发作持续状态</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_CSE_DESC</LocID>                                          	
+		<Text>全面性发作持续状态，又称为惊厥性癫痫持续状态，是临床上最常见、最危险的癫痫状态，表现为强直-阵挛发作反复发生，可发生脑、心、肝、肺等多器官衰竭，自主神经和生命体征改变。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_SEIZURES</LocID>                                          	
+		<Text>惊厥</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_SEIZURES_DESC</LocID>                                          	
+		<Text>当肌群收缩表现为强直性和阵挛性时，称为惊厥，惊厥即癫痫大发作，一般为全身性、对称性，伴有或不伴有意识丧失。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_CEREBRAL_HERNIA</LocID>                                          	
+		<Text>脑疝</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_CEREBRAL_HERNIA_DESC</LocID>                                          	
+		<Text>脑疝是指部分脑组织因为颅内压力移位，并超过了一定的解剖界限，当移位的脑组织影响到生命中枢时，可能直接威胁生命。脑疝是高颅压最严重的后果。临床上常见的有小脑裂孔疝（包括海马沟回疝和中心疝）以及枕骨大孔疝。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_INTRACRANIAL_HYPERTENSION</LocID>                                          	
+		<Text>颅内压增高</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_INTRACRANIAL_HYPERTENSION_DESC</LocID>                                          	
+		<Text>颅内压是颅腔内容物对颅腔壁产生的压力，颅内压增高是由于颅内容积变化引起颅内压力调节失代偿所致的临床综合征，可表现为头痛、恶心、呕吐和意识障碍。脑疝是指部分脑组织因为颅内压力移位，并超过了一定的解剖界限，当移位的脑组织影响到生命中枢时，可能直接威胁生命。脑疝是高颅压最严重的后果。临床上常见的有小脑裂孔疝（包括海马沟回疝和中心疝）以及枕骨大孔疝。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_HSV</LocID>                                          	
+		<Text>PCR:单纯疱疹病毒性脑炎</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_HSV_DESC</LocID>                                          	
+		<Text>PCR检测出脑脊液中单纯疱疹病毒（HSV）DNA。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_VIRAL_MENINGITIS</LocID>                                          	
+		<Text>病毒性脑膜炎</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_VIRAL_MENINGITIS_DESC</LocID>                                          	
+		<Text>PCR检测出脑脊液中存在导致病毒性脑膜炎的病毒，包括肠道病毒、疱疹病毒等。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_INTRACRANIAL_INFECTION</LocID>                                          	
+		<Text>颅内感染</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_INTRACRANIAL_INFECTION_DESC</LocID>                                          	
+		<Text>CT表现为界限不清的低密度影或不均匀密度影，提示颅内感染性疾病。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_MRI_MENINGITIS</LocID>                                          	
+		<Text>脑膜炎</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_MRI_MENINGITIS_DESC</LocID>                                          	
+		<Text>MRI显示脑组织广泛水肿，脑沟裂及脑室变小，有时可见脑膜强化，提示脑膜炎急性期。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_INTRACRANIAL_INFECTION</LocID>                                          	
+		<Text>颅内感染</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_INTRACRANIAL_INFECTION_DESC</LocID>                                          	
+		<Text>CT表现为界限不清的低密度影或不均匀密度影，提示颅内感染性疾病。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_MRI_HSE</LocID>                                          	
+		<Text>MRI:单纯疱疹病毒性脑炎</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_MRI_HSE_DESC</LocID>                                          	
+		<Text>MRI典型表现为颞叶、海马及边缘系统的长T2信号，提示单纯疱疹脑炎。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_SOMNOLENCE</LocID>                                          	
+		<Text>嗜睡</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_SOMNOLENCE_DESC</LocID>                                          	
+		<Text>嗜睡是意识障碍的早期表现。患者处在睡眠状态，能被唤醒，醒后能勉强配合检查及回答简单问题，定向力基本完整，停止刺激后又很快入睡。反射正常。</Text>  
+	</GameDBLocalizedString>
+  
+  <GameDBLocalizedString>      
+		<LocID>SYM_NMC_MENINGEAL_IRRITATION_SIGN</LocID>                                          	
+		<Text>脑膜刺激征</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_NMC_MENINGEAL_IRRITATION_SIGN_DESC</LocID>                                          	
+		<Text>脑膜刺激征包括了颈强直、克尼格征和布鲁津斯基征，主要见于脑膜炎、蛛网膜下清出血、颅内压增高等。脑膜刺激征伴发热常提示感染，伴短暂昏迷而不伴发热常见于蛛网膜下腔出血。</Text>  
+	</GameDBLocalizedString>
+  
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_LONG_REACT_TIME</LocID>                                          	
+		<Text>反应迟钝</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_CONFUSION</LocID>                                          	
+		<Text>意识障碍</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CONFUSION_DESCRIPTION</LocID>                                          	
+		<Text>意识是指个体对周围环境及自身状态的感知能力，意识障碍可分为意识水平和意识内容变化两个方面，前者表现为嗜睡、昏睡和昏迷，后者则表现为意识模糊和谵妄。</Text>  
+	</GameDBLocalizedString>
+  
+	
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_THROMBOCYTHEMIA_CBC</LocID>                                          	
+		<Text>血小板增多</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_THROMBOCYTHEMIA_CBC_DESC</LocID>                                          	
+		<Text>血小板过多。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_THROMBOCYTHEMIA</LocID>                                          	
+		<Text>原发性血小板增多症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_THROMBOCYTHEMIA_DESC</LocID>                                          	
+		<Text>骨髓象:以巨核细胞增生为主，原始及幼巨核细胞均增多，并有大量血小板形成，可有中、晚幼粒细胞。中性粒细胞碱性磷酸酶活性增高。骨髓活检:有时伴有轻到中度纤维组织增多。</Text>  
+	</GameDBLocalizedString>
+  
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_THROMBOCYTOPENIA</LocID>                                          	
+		<Text>血小板减少</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_THROMBOCYTOPENIA_DESC</LocID>                                          	
+		<Text>患者的血小板减少。</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_RBC_HIGH</LocID>                                          	
+		<Text>红细胞计数过高</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_RBC_HIGH_DESC</LocID>                                          	
+		<Text>患者的红细胞计数过高。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEMOGLOBIN_HIGH</LocID>                                          	
+		<Text>血红蛋白升高</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEMOGLOBIN_HIGH_DESC</LocID>                                          	
+		<Text>患者的血红蛋白过高。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_PV</LocID>                                          	
+		<Text>真性红细胞增多症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_PV_DESC</LocID>                                          	
+		<Text>骨髓活检:有明显纤维化，各系造血细胞显著增生,脂肪组织减少,巨核细胞增生较明显。粒细胞与幼红细胞比例常下降。铁染色显示贮存铁减少。</Text>  
+	</GameDBLocalizedString>
+
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_PMF</LocID>                                          	
+		<Text>原发性骨髓纤维化</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_PMF_DESC</LocID>                                          	
+		<Text>骨髓活检确定了原发性骨髓纤维化的诊断。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_PNH</LocID>                                          	
+		<Text>阵发性睡眠性血红蛋白尿症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_PNH_DESC</LocID>                                          	
+		<Text>流式细胞术:红细胞缺失CD59。</Text>  
+	</GameDBLocalizedString>
+    
+     <GameDBLocalizedString>      
+		<LocID>SYM_HEM_CLL</LocID>                                          	
+		<Text>慢性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_CLL_DESC</LocID>                                          	
+		<Text>外周血克隆性B淋巴细胞≥5x10/L，细胞形态类似成熟的小淋巴细胞，少量幼稚或不典型淋巴细胞，可见涂抹细胞。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_BMA_RS_CELLS</LocID>                                          	
+		<Text>骨髓镜影细胞</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_BMA_RS_CELLS_DESC</LocID>                                          	
+		<Text>在骨髓内发现了了典型的镜影细胞（RS细胞），证明肿瘤侵犯骨髓。</Text>  
+	</GameDBLocalizedString>
+    
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_RS_CELLS</LocID>                                          	
+		<Text>镜影细胞</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_RS_CELLS_DESC</LocID>                                          	
+		<Text>组织活检找到了典型的镜影细胞（RS细胞）。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_MCL</LocID>                                          	
+		<Text>套细胞淋巴瘤</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MCL_DESC</LocID>                                          	
+		<Text>活组织检查证明了套细胞淋巴瘤的诊断。</Text>  
+	</GameDBLocalizedString>
+    
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_DLBCL</LocID>                                          	
+		<Text>弥漫大B细胞淋巴瘤</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_DLBCL_DESC</LocID>                                          	
+		<Text>活组织检查证明了弥漫大B细胞淋巴瘤的诊断。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_FL</LocID>                                          	
+		<Text>滤泡性淋巴瘤</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_FL_DESC</LocID>                                          	
+		<Text>活组织检查证明了滤泡性淋巴瘤的诊断。</Text>  
+	</GameDBLocalizedString>
+    
+    
+      <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MM</LocID>                                          	
+		<Text>多发性骨髓瘤</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MM_DESC</LocID>                                          	
+		<Text>骨髓象:骨髓中克隆性浆细胞增多。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HYPERURICEMIA</LocID>                                          	
+		<Text>高尿酸血症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HYPERURICEMIA_DESC</LocID>                                          	
+		<Text>血液中的尿酸水平过高。</Text>  
+	</GameDBLocalizedString>
+    
+     <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HYPERCALCEMIA</LocID>                                          	
+		<Text>高钙血症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HYPERCALCEMIA_DESC</LocID>                                          	
+		<Text>高钙血症是一种常见的电解质紊乱。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_DAT_HLA</LocID>                                          	
+		<Text>DAT:自身免疫性溶血性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_DAT_HLA_DESC</LocID>                                          	
+		<Text>直接抗人球蛋白试验呈阳性。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_IAT_HLA</LocID>                                          	
+		<Text>IAT:自身免疫性溶血性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_IAT_HLA_DESC</LocID>                                          	
+		<Text>间接抗人球蛋白试验呈阳性。</Text>  
+	</GameDBLocalizedString>
+    
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HEMOLYTIC_CRISIS</LocID>                                          	
+		<Text>溶血危象</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HEMOLYTIC_CRISIS_DESC</LocID>                                          	
+		<Text>根据进行性加重的症状和近期血检查结果的比对，患者疑似溶血危象。溶血危象（HC）可因不同的诱因及疾病的不同阶段而出现不同的临床表现，但总之是因短期内红细胞大量破坏、血红蛋白急剧下降而发生的急性溶血。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_SPLENOMEGALY</LocID>                                          	
+		<Text>脾脏肿大</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_SPLENOMEGALY_DESC</LocID>                                          	
+		<Text>在肋缘下触及脾脏，提示脾肿大。</Text>  
+	</GameDBLocalizedString>
+    
+     <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MDS</LocID>                                          	
+		<Text>骨髓增生异常综合征</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MDS_DESC</LocID>                                          	
+		<Text>骨髓象:骨髓增生活跃或明显活跃，呈病态造血。</Text>  
+	</GameDBLocalizedString>
+    
+    
+    
+     <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HEMOLYTIC_ANEMIA</LocID>                                          	
+		<Text>溶血性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HEMOLYTIC_ANEMIA_DESC</LocID>                                          	
+		<Text>骨髓象:红细胞显著增生，铁染色阳性，铁幼粒细胞增多。</Text>  
+	</GameDBLocalizedString>
+    
+      <GameDBLocalizedString>      
+		<LocID>SYM_HEM_THL</LocID>                                          	
+		<Text>珠蛋白生成障碍性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_THL_DESC</LocID>                                          	
+		<Text>血红蛋白电泳发现了与珠蛋白生成障碍性贫血相关的异常血红蛋白。</Text>  
+	</GameDBLocalizedString>
+    
+      <GameDBLocalizedString>      
+		<LocID>SYM_HEM_APL</LocID>                                          	
+		<Text>急性早幼粒细胞白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_APL_DESC</LocID>                                          	
+		<Text>骨髓化学反应、免疫学、细胞遗传学和分子生物学检查将分型确定为急性早幼粒细胞白血病（APL）。</Text>  
+	</GameDBLocalizedString>
+    
+       <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HCL</LocID>                                          	
+		<Text>毛细胞白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_HCL_DESC</LocID>                                          	
+		<Text>骨髓细胞化学反应、免疫学、细胞遗传学和分子生物学检查将分型确定为毛细胞白血病（HCL）。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_CML</LocID>                                          	
+		<Text>慢性粒细胞白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_CML_DESC</LocID>                                          	
+		<Text>骨髓细胞化学反应、免疫学、细胞遗传学和分子生物学检查将分型确定为慢性粒细胞白血病（慢性髓性白血病，CML）。</Text>  
+	</GameDBLocalizedString>
+    
+      <GameDBLocalizedString>      
+		<LocID>SYM_HEM_AML</LocID>                                          	
+		<Text>急性髓系白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_AML_DESC</LocID>                                          	
+		<Text>骨髓细胞化学反应、免疫学、细胞遗传学和分子生物学检查将分型确定为急性髓系白血病（AML）。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_AAL</LocID>                                          	
+		<Text>急性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_AAL_DESC</LocID>                                          	
+		<Text>骨髓化学反应、免疫学、细胞遗传学和分子生物学检查将分型确定为急性淋巴细胞白血病（ALL）。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_CNSL</LocID>                                          	
+		<Text>中枢神经系统白血病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_CNSL_DESC</LocID>                                          	
+		<Text>当白血病细胞累及中枢神经系统并出现头痛、恶心、呕吐、颈项强直、抽搐、昏迷及脑神经损害等表现时，称中枢性白血病（CNSL）。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_IDA</LocID>                                          	
+		<Text>缺铁性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_IDA_DESC</LocID>                                          	
+		<Text>骨髓象可见:骨髓有核细胞增生活跃或明显活跃;以红系增生为主,粒系、巨核系无明显异常;红系中以中、晚幼红细胞为主,其体积小、核染色质致密、细胞质量少、形态不规则,有血红蛋白形成不良表现(“核老浆幼”)。粒系,巨核系无明显变化。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_MA</LocID>                                          	
+		<Text>巨幼细胞贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MA_DESC</LocID>                                          	
+		<Text>骨髓象可见:骨髓呈增生活跃或明显活跃,以红系增生明显,各系细胞均表现为巨幼变(胞体大,胞核发育迟缓而胞质发育正常,“老浆幼核”),红系最为显著。粒细胞巨幼变以晚幼粒和杆状核粒细胞更为明显。巨核细胞增多,体积增大,分叶过多。骨髓铁染色增加。</Text>  
+	</GameDBLocalizedString>
+    
+    
+     <GameDBLocalizedString>      
+		<LocID>SYM_HEM_NORMOCYTIC_ANEMIA</LocID>                                          	
+		<Text>正常细胞性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_NORMOCYTIC_ANEMIA_DESC</LocID>                                          	
+		<Text>正常细胞性贫血是指CV/f=l80~100，MCHC/%=32~35（MCV，即红细胞平均体积；MCHC，即红细胞平均血红蛋白浓度），常见的疾病有急性失血性贫血、再生障碍性贫血，某些溶血性贫血，内分泌疾病、肝肾疾病引起的贫血等。贫血是指有各种原因引起的人体外周血单位体积血液中血红蛋白量、红细胞计数及红细胞容量减少，低于正常范围下线，不能运输足够的氧至组织而产生的综合征。由于红细胞容量测定技术复杂，临床上一般指外周血中血红蛋白浓度低于患者同年龄组、同性别和同地区的正常标准。根据细胞形态学，可将贫血分为小细胞低色素性贫血、正常细胞性贫血和大细胞性贫血。</Text>  
+	</GameDBLocalizedString>
+    
+     <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MICROCYTIC_HYPOCHROMIC_ANEMIA</LocID>                                          	
+		<Text>小细胞低色素性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MICROCYTIC_HYPOCHROMIC_ANEMIA_DESC</LocID>                                          	
+		<Text>小细胞低色素性贫血是指MCV/fl＜80，MCHC/%＜32（MCV，即红细胞平均体积；MCHC，即红细胞平均血红蛋白浓度），常见的疾病有缺铁性贫血、铁粒幼细胞性贫血和珠蛋白生障碍性贫血等。贫血是指有各种原因引起的人体外周血单位体积血液中血红蛋白量、红细胞计数及红细胞容量减少，低于正常范围下线，不能运输足够的氧至组织而产生的综合征。由于红细胞容量测定技术复杂，临床上一般指外周血中血红蛋白浓度低于患者同年龄组、同性别和同地区的正常标准。根据细胞形态学，可将贫血分为小细胞低色素性贫血、正常细胞性贫血和大细胞性贫血。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_MACROCYTIC_ANEMIA</LocID>                                          	
+		<Text>大细胞性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_MACROCYTIC_ANEMIA_DESC</LocID>                                          	
+		<Text>大细胞性贫血是指MCV/fl＞100，MCHC/%=32~35（MCV，即红细胞平均体积；MCHC，即红细胞平均血红蛋白浓度），常见的疾病有巨幼细胞贫血、伴网织红细胞大量增生的溶血性贫血、骨髓增生异常综合征、肝脏疾病等。贫血是指有各种原因引起的人体外周血单位体积血液中血红蛋白量、红细胞计数及红细胞容量减少，低于正常范围下线，不能运输足够的氧至组织而产生的综合征。由于红细胞容量测定技术复杂，临床上一般指外周血中血红蛋白浓度低于患者同年龄组、同性别和同地区的正常标准。根据细胞形态学，可将贫血分为小细胞低色素性贫血、正常细胞性贫血和大细胞性贫血。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_IRON_DEFICIENCY</LocID>                                          	
+		<Text>铁缺乏症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_IRON_DEFICIENCY_DESC</LocID>                                          	
+		<Text>血清铁蛋白检测提示铁缺乏症。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_VITAMIN_B12_DEFICIENCY</LocID>                                          	
+		<Text>维生素B12缺乏</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_VITAMIN_B12_DEFICIENCY_DESC</LocID>                                          	
+		<Text>血清维生素B12检测提示维生素B12缺乏。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_FOLATE_DEFICIENCY</LocID>                                          	
+		<Text>叶酸缺乏</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_FOLATE_DEFICIENCY_DESC</LocID>                                          	
+		<Text>血清叶酸检测提示叶酸缺乏。</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_LOSS_OF_APETITE</LocID>                                          	
+		<Text>食欲下降</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_AA</LocID>                                          	
+		<Text>再生障碍性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_AA_DESC</LocID>                                          	
+		<Text>骨髓象可见:多部位（不同平面）骨髓增生减低或重度减低；小粒空虚，非造血细胞（淋巴细胞、网状细胞、浆细胞、肥大细胞等）比例增高；巨核细胞明显减少或缺如；红系、粒系细胞均明显减少。提示再生障碍性贫血。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT</LocID>                                          	
+		<Text>网织红细胞增多</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT_DESC</LocID>                                          	
+		<Text>网织红细胞增多，反应骨髓红细胞系增生旺盛，常见于溶血性贫血。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_RETICULOCYTOPENIA</LocID>                                          	
+		<Text>网织红细胞减少</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_RETICULOCYTOPENIA_DESC</LocID>                                          	
+		<Text>网织红细胞减少，反应骨髓造血功能减低，常见于再障或纯红再障。</Text>  
+	</GameDBLocalizedString>
+    
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_SEVERE_BONE_PAIN</LocID>                                          	
+		<Text>骨骼剧痛</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_SEVERE_BONE_PAIN_DESC</LocID>                                          	
+		<Text>患者感到骨骼剧痛。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_vWD</LocID>                                          	
+		<Text>血管性血友病</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_vWD_DESC</LocID>                                          	
+		<Text>血管性血友病抗原测定结果提示血管性血友病。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_FVIII_LOW</LocID>                                          	
+		<Text>凝血因子VIII活性降低</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_FVIII_LOW_DESC</LocID>                                          	
+		<Text>凝血因子VIII活性降低，提示血友病A。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_FIX_LOW</LocID>                                          	
+		<Text>凝血因子FIX活性降低</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_FIX_LOW_DESC</LocID>                                          	
+		<Text>凝血因子FIX活性降低，提示血友病B。</Text>  
+	</GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+		<LocID>SYM_HEM_TCP</LocID>                                          	
+		<Text>原发性免疫性血小板减少症</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_TCP_DESC</LocID>                                          	
+		<Text>骨髓象:骨髓红系、髓系造血正常,巨核细胞数目正常或增多,但产生血小板的巨核细胞明显减少或缺乏。巨核细胞形态上表现为体积增大,可呈单核、胞质量少、缺乏颗粒等成熟障碍改变,无病态造血表现。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_HEM_PRCA</LocID>                                          	
+		<Text>纯红细胞再生障碍性贫血</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+		<LocID>SYM_HEM_PRCA_DESC</LocID>                                          	
+		<Text>骨髓象:骨髓增生良好,但红系明显减少或缺如,其他系统大致正常。</Text>  
+	</GameDBLocalizedString>
+
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_RESTLESS_LEGS</LocID>
+        <Text>不宁腿</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_RESTLESS_LEGS_DESC</LocID>
+        <Text>不宁腿表现为夜间睡眠时或处于安静状态下，双下肢出现的极度不适感，迫使患者不停地活动下肢或者下地行走，活动时不适感可减轻或消失，但是当患者回到休息状态时，症状常会再次出现，这种异常的感觉常常被患者描述为爬行感、麻刺感、痒感或酸痛感等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_PLMI</LocID>
+        <Text>PSG:多次周期性肢体运动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_PLMI_DESC</LocID>
+        <Text>患者在睡眠中存在≥5次/小时的周期性肢体运动，支持不宁腿综合征的诊断。</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HEBEPHRENIC_EXCITEMENT</LocID>
+        <Text>青春性兴奋</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HEBEPHRENIC_EXCITEMENT_DESC</LocID>
+        <Text>青春性兴奋，是一种典型的不协调性精神运动性兴奋，是指言语和行为均增加，但缺乏目的性和指向性，杂乱无章，与思维、情感活动明显不协调，并且言语支离破碎，情感喜怒无常、变化莫测，行为幼稚愚蠢、做作离奇，本能意向亢进等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_EXCITEMENT</LocID>
+        <Text>紧张性兴奋</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_EXCITEMENT_DESC</LocID>
+        <Text>紧张性兴奋，是指缺乏动机目的，难以预料，常常突然出现，持续时间较短的一种不协调的运动性兴奋状态，往往表现为突然出现伤人、毁物的冲动性行为，行为单调刻板，甚至有作态，常常伴有刻板和重复动作，但是却很少伴有言语紊乱。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_EXCITEMENT</LocID>
+        <Text>心因性兴奋</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_EXCITEMENT_DESC</LocID>
+        <Text>心因性兴奋，是指在强烈的精神刺激后突然出现兴奋躁动、激越喊叫、痛哭流涕，甚至情感爆发和痉挛发作等，言语内容与心因有关，持续数小时或数天后恢复。</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHT-EATING</LocID>
+        <Text>夜食</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHT-EATING_DESC</LocID>
+        <Text>夜食有两层含义，其一是晚餐后过度进食，即在晚餐后与睡前之间过度进食，有些患者晚餐后无明显饱腹感，故夜间仍然控制不住进食，具有强烈的进食欲望；其二是夜行性进食，即在入睡后，即睡眠维持戒断中途醒来大量进食，食物通常包括饼干、蛋糕或薯片等富含高碳水化合物的食品。患者是有意识地夜间进食，第二天能够很好回忆。</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SHIFT_WORK</LocID>
+        <Text>轮班工作</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SHIFT_WORK_DESC</LocID>
+        <Text>患者的工作时间与社会常规的工作时间不一致，经常在应该睡眠的时间工作（工作时间在上午8时至下午6时以外），尤其是夜间工作。</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_AND_TRANSIENT_PSYCHOTIC_DISORDERS</LocID>
+        <Text>急性短暂性精神病性障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_AND_TRANSIENT_PSYCHOTIC_DISORDERS_DESC</LocID>
+        <Text>患者被确诊为急性短暂性精神病性障碍。</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POSSIBLE_MENTAL_DISORDERS</LocID>
+        <Text>可疑的精神卫生情况</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POSSIBLE_MENTAL_DISORDERS_DESC</LocID>
+        <Text>患者存在可疑的精神障碍或精神卫生情况，最好引导他去精神科就诊，或者请精神科会诊。</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NON_SPECIFIC_ABNORMALITY_OF_ELECTROENCEPHALOGRAM</LocID>
+        <Text>脑电图非特异性异常</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NON_SPECIFIC_ABNORMALITY_OF_ELECTROENCEPHALOGRAM_DESC</LocID>
+        <Text>患者的脑电图存在非特异性的异常，主要表现为α波节律不规律、慢波活动增多。</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TIC_DISORDERS</LocID>
+        <Text>抽动障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TIC_DISORDERS_DESC</LocID>
+        <Text>患者被诊断为抽动障碍。</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ZOOPHOBIA</LocID>
+        <Text>动物恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ZOOPHOBIA_DESC</LocID>
+        <Text>表现为对动物或昆虫的恐惧，如蜘蛛、鼠、猫、狗、猪等。</Text>
+    </GameDBLocalizedString>   
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_NATURAL_ENVIRONMENT</LocID>
+        <Text>自然环境恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_NATURAL_ENVIRONMENT_DESC</LocID>
+        <Text>表现为对自然环境的的恐惧，如恐高处、黑暗、雷电、风雨、水流等。</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_BLOOD_INJECTIONS_AND_INJURIE</LocID>
+        <Text>血液—注射—损伤恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_BLOOD_INJECTIONS_AND_INJURIE_DESC</LocID>
+        <Text>表现为对鲜血、外伤、打针、拔牙、手术的恐惧。</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CLAUSTROPHOBIA</LocID>
+        <Text>幽闭恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CLAUSTROPHOBIA_DESC</LocID>
+        <Text>表现为对飞机、电梯等密闭空间的恐惧。</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SPECIFIC_PHOBIA</LocID>
+        <Text>特定恐惧</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SPECIFIC_PHOBIA_DESC</LocID>
+        <Text>患者被确诊为特定恐惧症。</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGRO_PHOBIA</LocID>
+        <Text>场所恐怖</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGRO_PHOBIA_DESC</LocID>
+        <Text>表现为害怕单独离家外出或独自留在家里；不敢到喧闹拥挤的场所，如火车站、商场、剧院、餐馆；害怕乘坐公共交通工具，如拥挤的船舱、火车、地铁等；对某些特定场所的恐惧、害怕，如空旷的广场、公园、黑暗场所等。患者过分担心在上述情景发生危险而自己不能及时逃离，或者出现令人尴尬的局面。为此，患者焦虑、紧张不安，出现头晕、心悸、胸闷、出汗等自主神经功能系统症状。有的患者早期也可努力克服这种困境，但是仍感到恐惧、痛苦。在人陪伴的情况下，焦虑、恐惧的程度会有所减轻。因此，患者会越来越依赖他人的陪伴，有些患者常常把自己困在家里，不敢出门，影响其社会功能。</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_STEROTYPE_OF_SPEECH</LocID>
+        <Text>刻板言语</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_STEROTYPE_OF_SPEECH_DESC</LocID>
+        <Text>刻板言语是指患者的思维在原地踏步，概念转换困难，并且脑中概念较少，表现为机械地、刻板地重复一些无意义的词或句子。</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COPROLALIA</LocID>
+        <Text>秽语</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COPROLALIA_DESC</LocID>
+        <Text>秽语是指患者反复突然说出猥亵、粗鄙，或对民族、种族或宗教上的诋毁的言语，刻板重复，不能自我控制。</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SENSORY_TICS</LocID>
+        <Text>感觉性抽动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SENSORY_TICS_DESC</LocID>
+        <Text>大部分抽动秽语综合征患者存在一种在抽动发作之前的感觉异常的先兆或者想要抽动的冲动，每次抽动发做到“恰到好处”后，这种感觉才会消失，故称“感觉性抽动”，其通常是一种非局限性、无特征性的感觉，而这种身体的冲动感，常被描述为一种强烈的驱动、紧张和渴望，努力控制这种抽动比抽动本身可能更使患者感到疲劳和困扰，因此他们常常通过产生抽动症状来试图减轻这种不适感。</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_VOCAL_TICS</LocID>
+        <Text>复杂发声抽动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_VOCAL_TICS_DESC</LocID>
+        <Text>抽动是一种不随意、突然发生、快速、反复出现、无明显目的、非节律性的运动或发声，表现形式复杂多样，其不可克制，但可在短时间内受意志控制。发声抽动是气流通过鼻腔、口腔、咽喉部时上述部位肌肉不自主收缩产生的声音。复杂发声抽动是突然的、有意义的发声，如重复特别的词句、重复自己或他人说的话。（严格意义上，复杂发声抽动应该包括秽语，但是在模组中分开列出）。</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_VOCAL_TICS</LocID>
+        <Text>简单发声抽动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_VOCAL_TICS_DESC</LocID>
+        <Text>抽动是一种不随意、突然发生、快速、反复出现、无明显目的、非节律性的运动或发声，表现形式复杂多样，其不可克制，但可在短时间内受意志控制。发声抽动是气流通过鼻腔、口腔、咽喉部时上述部位肌肉不自主收缩产生的声音。简单发声抽动是突然而、无意义的发声，如吸鼻、清嗓、咳嗽、尖叫等，还可出现犬吠声、咯咯声、咕噜声，等等。</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_MOTOR_TICS</LocID>
+        <Text>简单运动抽动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_MOTOR_TICS_DESC</LocID>
+        <Text>抽动是一种不随意、突然发生、快速、反复出现、无明显目的、非节律性的运动或发声，表现形式复杂多样，其不可克制，但可在短时间内受意志控制。运动抽动是随意肌不自主收缩产生的动作，分为简单和复杂两类。简单运动抽动是突然的，没有意义的运动，是一个或少数肌群收缩所致，如眨眼、侧视、翻眼、耸鼻、撇嘴、张嘴、咧嘴、做鬼脸、点头、摇头、耸肩、上肢的突然抖动、腹肌的抽动，等等。</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_MOTOR_TICS</LocID>
+        <Text>复杂运动抽动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_MOTOR_TICS_DESC</LocID>
+        <Text>抽动是一种不随意、突然发生、快速、反复出现、无明显目的、非节律性的运动或发声，表现形式复杂多样，其不可克制，但可在短时间内受意志控制。运动抽动是随意肌不自主收缩产生的动作，分为简单和复杂两类。复杂运动抽动是稍慢一点的、持续时间稍长些、看似有目的动作行为，是几个或多个肌群同时收缩的结果，如咬舌、咬唇、咬身体其他部位、打自己、触碰他人的身体部位、弯腰、后仰、旋转、跳跃等，还可表现为猥亵动作。</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INVOLUNTARY_MOVEMENT</LocID>
+        <Text>不自主运动</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INVOLUNTARY_MOVEMENT_DESC</LocID>
+        <Text>不自主运动指患者在意识清楚的情况下，出现的不受主观控制的无目的的异常运动。</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_HALLUCINATION</LocID>
+        <Text>强迫性幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_HALLUCINATION_DESC</LocID>
+        <Text>强迫性幻觉是指患者反复出现某种内容完全一致的幻觉体验，无法摆脱，因而感到痛苦，此症状少见。</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VERBAL_AUDITORY_HALLUCINATION</LocID>
+        <Text>听幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VERBAL_AUDITORY_HALLUCINATION_DESC</LocID>
+        <Text>听幻觉是最常见的幻觉，即患者听到了并不存在的声音。这种声音可以是单调的，也可以是复杂的，可以是言语性的，如评论、赞扬、辱骂、斥责或命令等，也可以是非言语性的，例如机器轰鸣声、流水声、鸟叫声等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMENT_HALLUCINATION</LocID>
+        <Text>评论性幻听</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMENT_HALLUCINATION_DESC</LocID>
+        <Text>听幻觉是最常见的幻觉，评论性幻听特指听内容是对患者的道德品行进行评判，甚至斥责、嘲笑、讽刺的听幻觉。</Text>
+    </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ARGUMENT_HALLUCINATION</LocID>
+        <Text>争论性幻听</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ARGUMENT_HALLUCINATION_DESC</LocID>
+        <Text>听幻觉是最常见的幻觉，评论性幻听特指听内容是几个声音之间意见不一，站在不同的角度谈论患者，甚至相互之间发生争吵的幻觉。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMAND_HALLUCINATION</LocID>
+        <Text>命令性幻听</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMAND_HALLUCINATION_DESC</LocID>
+        <Text>听幻觉是最常见的幻觉，评论性幻听，即命令患者做某件事的幻觉，命令性幻听可产生严重的结果，如杀人和自杀。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VISUAL_HALLUCINATION</LocID>
+        <Text>视幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VISUAL_HALLUCINATION_DESC</LocID>
+        <Text>视幻觉，也称为幻视，指患者在没有视觉刺激的情况下出现视觉形象的体验，较为常见。幻觉的内容可分为单调的闪光、颜色、图案、物体，也可为复杂的情境性场面。其形象可以模糊不清，也可以是丰富的彩色景象。固定不动的幻觉称为稳定性幻觉，活动多变的幻觉称为舞台性幻觉，比正常物体大或小的幻觉分别称为视物显大性幻觉和视物显小性幻觉，少数患者体验到视野之外的视幻觉，称之为域外幻觉。有时幻觉单调平淡，是日常生活事务。但是有时幻觉形象则是猛兽、毒蛇、鬼怪等恐怖性的内容，患者以参与者的身份出现，伴有强烈的恐惧情绪，发生逃避甚至越窗跳楼的行为。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OLFACTORY_HALLUCINATION</LocID>
+        <Text>嗅幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OLFACTORY_HALLUCINATION_DESC</LocID>
+        <Text>嗅幻觉，也称幻嗅，是指在没有相应的嗅觉刺激的情况下，能闻到特定的气味，譬如腐败的尸体、化学物品烧焦味、血腥味、农药味等，往往引起患者不愉快的情绪体验。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GUSTATORY_HALLUCINATION</LocID>
+        <Text>味幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GUSTATORY_HALLUCINATION_DESC</LocID>
+        <Text>味幻觉，也称为幻味，是指在没有响应味觉刺激的情况下，能够体会到饮食中含有某种异常的特殊气味，因此常常拒食，往往与嗅幻觉同时出现。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TACTILE_HALLUCINATION</LocID>
+        <Text>触幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TACTILE_HALLUCINATION_DESC</LocID>
+        <Text>触幻觉，也称为幻触、皮肤与黏膜幻觉。即患者感到皮肤或黏膜上有某种异常的感觉。如虫蚁爬行、电流通过、风拂动、液体流过（潮湿性幻觉）、针刺、触压、被人击打、异物感、性刺激等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FUNCTIONAL_HALLUCINATION</LocID>
+        <Text>功能性幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FUNCTIONAL_HALLUCINATION_DESC</LocID>
+        <Text>功能性幻觉是指客观刺激引起一种知觉体验的同时，出现同类感觉分析器的另一种幻觉体验。幻觉体验与真性知觉同时存在、同时消失、彼此独立、互不融合。比如患者听到洒水车放音乐声音时，就听到“滚开，滚开”的幻听，洒水车走远了，幻听也就消失了。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_REFLEX_HALLUCINATION</LocID>
+        <Text>反射性幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_REFLEX_HALLUCINATION_DESC</LocID>
+        <Text>反射性幻觉，是指客观刺激引起某种知觉体验的同时，出现另一类感觉分析器的幻觉体验。如听到敲门声时，立即看到眼前站着一个人。前者是真实听觉，而后者是视幻觉。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POVERTY_OF_THOUGHT</LocID>
+        <Text>思维贫乏</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POVERTY_OF_THOUGHT_DESC</LocID>
+        <Text>思维贫乏是思维联想障碍中联想速度和量的异常，主要是指联想数量的减少，概念贫乏。患者体验到脑子里没有什么可以思考的。交谈时言语贫乏，内容单调，词穷句短，回答简单，多以“不知道”“没什么”作答，或以点头摇头作答，给人以漠然处之之感。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT</LocID>
+        <Text>思维松弛</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT_DESC</LocID>
+        <Text>思维松弛是思维联想障碍中思维思维连贯性的异常，患者联想内容松散，缺乏主题和联系。表现为说话和书写时，每一句的结构完整，可以理解，但是总体内容没有中心思想，或者段与段之间缺乏联系，使人难以理解他究竟要阐述什么问题。交谈时不切题或偏离主题，使人觉得交谈费力，难以深入患者的内心世界。</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT</LocID>
+        <Text>思维松弛</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT_DESC</LocID>
+        <Text>思维松弛是思维联想障碍中思维思维连贯性的异常，患者联想内容松散，缺乏主题和联系。表现为说话和书写时，每一句的结构完整，可以理解，但是总体内容没有中心思想，或者段与段之间缺乏联系，使人难以理解他究竟要阐述什么问题。交谈时不切题或偏离主题，使人觉得交谈费力，难以深入患者的内心世界。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLOCKING_OF_THOUGHT</LocID>
+        <Text>思维中断</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLOCKING_OF_THOUGHT_DESC</LocID>
+        <Text>思维中断又称为思维阻滞。是指患者在思维联想过程中突然中断，同时觉得脑子一片空白。表现为说话时的突然停顿，片刻之后再说话时其内容已经不是原来的话题。患者对此不能做出解释，同时也不是意识障碍、遗忘或注意力分散所致。如患者感受到当时思维有被抽走的感觉，则称作思维被夺。</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PRESSURE_OF_THOUGHT</LocID>
+        <Text>思维云集</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PRESSURE_OF_THOUGHT_DESC</LocID>
+        <Text>思维云集是一种思维联想障碍，是其中思维自主性的异常，又称强制性思维，是指脑内反复不自主地涌现出有临床意义的行为或一连串的联想，有时觉得是别人强加于他的。这种联想的内容多、变化大，前后可能没有联系，不为患者所料，内容毫无现实意义。虽然患者觉得联想内容丰富而多样名，但是将其联想内容记录下来，却发现其联想的概念有限，甚至许多是前后重复的，这与联想加速时观念飘忽不同。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SYNBOLIC_OF_THINKING</LocID>
+        <Text>病理性象征性思维</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SYNBOLIC_OF_THINKING_DESC</LocID>
+        <Text>病理性象征性思维是一种思维逻辑障碍，属于典型的概念转换，以无关的具体概念代替某一抽象概念，若患者不加以解释，常人则无法理解。但是具体概念和抽象概念之间仍然存在某种表面上的联系，可能有字音、字形、意义或形体上的某些相关。譬如，患者常常穿反衣服，以表自己“表里合一、心底坦白”，在吃饭时一直吞食骨头，以表自己有“硬骨头”精神。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NEOLOGISM</LocID>
+        <Text>词语新作</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NEOLOGISM_DESC</LocID>
+        <Text>词语新作是一种思维逻辑障碍，是指概念的融合、浓缩以及无关概念的拼凑。患者自创一些新的符号、文字、图形或语言来代替某些特殊的概念，其意义只有自己才能理解，而常人看来则显得荒谬离奇。如将几个字浓缩、加工为字典中没有的新词，如用“里相”表示“理想”；用“男/女”表达离婚的意思，在一个桃形框中加个五角星以表自己有中国心。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARALOGIC_THINKING</LocID>
+        <Text>逻辑倒错性思维</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARALOGIC_THINKING_DESC</LocID>
+        <Text>逻辑倒错性思维以思维推理缺乏逻辑为特点。表现为推理结论却缺乏前提依据，或因果倒置，令人觉得稀奇古怪，不可理解。如一患者经常吃生菜叶子、吃草，他解释说:“我的属相属牛，牛是吃草的，所以我应该吃草”。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOPHISTIC_THINKING</LocID>
+        <Text>诡辩症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOPHISTIC_THINKING_DESC</LocID>
+        <Text>诡辩症指患者以日常生活中无意义的琐事为主题，发表无实际意义的、无具体目标的长篇大论。在形式上似乎合乎逻辑、推理正确、理论高深，但是内容空泛，明显违背了思维的现实性和目的性这些基本特性，与正常人具有某种特殊的现实意义的诡辩或狡辩不同。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_THOUGHT_AMBIVALENCE</LocID>
+        <Text>矛盾思维</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_THOUGHT_AMBIVALENCE_DESC</LocID>
+        <Text>矛盾思维又称为对立思维或矛盾观鸟，是指患者脑中同一时刻出现两种相反的、矛盾对立的概念，相互抗衡而难以取舍、僵持不下。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_PERSEECUTION</LocID>
+        <Text>被害妄想</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_PERSEECUTION_DESC</LocID>
+        <Text>妄想是思维内容障碍的主要表现形式，被害妄想是指患者毫无根据地坚信别人在迫害他或他的家人。迫害的方式可以形式多样，如在背后议论、诽谤和造谣中伤，偷窃他的财产，在食物中放毒，用高科技手段损害他的身体或者跟踪监视并试图逮捕或暗杀他。迫害的人可以是隔壁人或某些人，可以是陌生人、熟人甚至家人、亲友，也可以是教会、帮派或黑社会等组织。患者可能采取一系列保护措施或报复行为，如反复上诉、报警或随身带刀预防。有时，患者会觉得对手过于强大，在抵抗无效时会出现自杀行为。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_REFERECNE</LocID>
+        <Text>关系妄想</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_REFERECNE_DESC</LocID>
+        <Text>妄想是思维内容障碍的主要表现形式，关系妄想又称为牵连观念、援引观念等，是指患者坚信周围环境发生的各种本与他不相干的事务，都与他有关系。别人的谈话，无线电广播、报纸上的消息都是针对他而发出的；别人的咳嗽、吐痰是轻视他，甚至于花开花落、吹风下雨也莫不与他有密切关联。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_INFLUENCE</LocID>
+        <Text>影响妄想</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_INFLUENCE_DESC</LocID>
+        <Text>妄想是思维内容障碍的主要表现形式，影响妄想又称物理影响妄想。患者坚信自己的心理活动与性外受外界某种特殊东西、神秘力量或者仪器的干扰与控制，或认为有外力刺激自己的躯体产生种种不舒服感，有的甚至认为自的内脏活动，如胃肠蠕动、血压、脉搏等都受外界的操控或控制，这些体验并非患者本人意愿，有强烈的被动性和不自主性，往往继发于其他被动体验或者与其他被动体验合并出现，构成精神自动症。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EXPERIENCE_OF_BEING_REVALED</LocID>
+        <Text>被洞悉感</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EXPERIENCE_OF_BEING_REVALED_DESC</LocID>
+        <Text>被洞悉感是一种其它妄想，患者坚信自己的思想未经过言语或者其他方式表达出来就被别人知道了，甚至人尽皆知，自己成了一个透明人，毫无隐私可言。但是别人究竟是如何知道的，患者却不一定能描述得清楚。思维扩散更强调患者感到其思想在向周围传播，基本与被洞悉感属同一概念。如患者感到自己的思维显声，在向周围扩散，使尽人皆知，则称思维被广播。上述三者均系思维自主性障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APATHY</LocID>
+        <Text>情感淡漠</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APATHY_DESC</LocID>
+        <Text>情感淡漠指对外界刺激缺乏相应的情感反应，属于情感反应的降低。表现为对亲友的冷淡，对周围事物的漠不关心，即使涉及利害关系的事情也缺乏相应的内心体验和面部表情。严重者遇意外而不惊，受捉弄而不怒。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARATHYMIA</LocID>
+        <Text>情感倒错</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARATHYMIA_DESC</LocID>
+        <Text>情感倒错指情感反应的表达正好与外界刺激的性质相反，如对令人高兴的事件引起悲哀的反应。一女患者听说8岁的儿子被车撞伤送到医院时，高兴不已地告诉邻居，并哈哈大笑。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AMBIVALENT_FEELINGS</LocID>
+        <Text>矛盾情感</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AMBIVALENT_FEELINGS_DESC</LocID>
+        <Text>矛盾情感是指在同一时刻出现两种截然相反、相互矛盾的情感体验。如对同一事物既喜欢，又讨厌，对同一个人又爱又恨的情感体验。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARABULIA</LocID>
+        <Text>意向倒错</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARABULIA_DESC</LocID>
+        <Text>意向倒错是指意志行为违背常情，使人难以理解。例如食意向倒错者吃泥土、粪便、木头等物质。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_STUPOR</LocID>
+        <Text>紧张性木僵</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_STUPOR_DESC</LocID>
+        <Text>木僵是指行为动作和言语活动的普遍减少或完全抑制。紧张性木僵则是在此的同时，以全身骨骼肌的僵住不动为突出表现。患者可长时间僵住不动，或呆坐，或站立，活睡卧于床，没有任何躯体活动，面部表情呆板，唾液滞留口中不咽不吐，任其外溢，大小便任其充盈，也不主动排出。无主动言语，对外界刺激无反应，也无防御反射性动作。活动其肢体出现肌紧张和抗拒反应。患者意识清晰，症状缓解后回忆。一般持续数天、数月、少数可达数年之久。与紧张性兴奋构成紧张症状群。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_ACT</LocID>
+        <Text>强迫行为</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_ACT_DESC</LocID>
+        <Text>强迫行为是指患者感到不得不反复进行的行为或精神活动，这是为了阻止、抵消和控制强迫观念所带来的不适感和焦虑而出现的一些已实行的反复的行为动作。常见的强迫行为包括清洁、计数、重复、检查、祈祷、触摸、寻求保障和仪式化的回避等。具体来说，有下列分类:①强迫洗涤，即为了消除对赃物、毒物或微生物污染的担心，常常反复洗手、洗澡或洗衣服。有的患者不仅自己反复清洗，而且要求同住者，如配偶、子女、父母也必须按照他的要求彻底清洗；②强迫检查，通常与强迫疑虑一同出现，即对明知已做好的事情不放心，反复检查。如反复检查门窗是否锁好、反复核查账单、信件或稿件，反复检查燃气阀门等；③强迫计数，即不可控制地数台阶、电线杆、门窗、地板砖数，做一定次数的特殊动作，否则感到不安，若怀疑遗漏，则要重新数起；④强迫仪式动作，即在日常活动职权之前，先要做一套程序化的动作，如睡前必须要按一定程序脱衣鞋并按固定的规律拜访，否则感到焦虑不安，而重新穿戴整齐，再按程序脱下，方可安然入睡；⑤强迫性注视，即注视某种患者认为不该看的物品，例如与人交往上注视他人的隐私部位等，越控制不注意，越想看，还有注视余光中出现的人物或物品等症状。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_AFFECT</LocID>
+        <Text>强迫情绪</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_AFFECT_DESC</LocID>
+        <Text>强迫情绪，意指一种不必要的担心和恐惧。这种恐惧是对自己情绪失去控制的恐惧，如害怕自己会发疯，会做出违反法律或道德的事情。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_INTENTION</LocID>
+        <Text>强迫意向</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_INTENTION_DESC</LocID>
+        <Text>强迫意向，意指在某种场合下，患者出现一种明知与自己心愿相违背的冲动，却不能控制这种意向的出现，苦恼不堪。如母亲抱小孩走到河边时，突然产生将小孩扔到河里去的想法，虽然未实际发生，但是患者这种冲动不止，欲罢不能，因此十分紧张、恐惧；再如，患者看到刀子，就出现想捅人的冲动，担心真的这样做，为此恐惧不安。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_THOUGHT</LocID>
+        <Text>强迫思维</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_THOUGHT_DESC</LocID>
+        <Text>强迫思维是指一种反复出现、持续存在、不恰当地闯入头脑中的一些想法、表项和冲动。患者能认识到这些想法是无意义的患者攻击性的，但是却无法停止或控制它们，因此引起明显的焦虑和痛苦。常见强迫思维包括怕脏，怕给自己和他人带来伤害，要求对称、精准、有序，对宗教和道德的关注，等等，又按照具体的情况分为如下几种:①强迫表现，即患者的头脑里反复出现过去感觉到的体验，如一些恐怖的画面、表情、声音等。如患者闹钟不断闪现刚刚看过的广告字牌、路标、行人、小鸟等，为此非常苦恼；脑子再开始努力学习室反复浮现过去听过的歌曲的声音；②强迫联想，即反复联想一系列不好的事情会发生，虽明知不必要，却克制不住，并由此引发情绪紧张和恐惧；③强迫回忆，即反复回忆曾经做过的日常琐事，明知无任何意义，却无法摆脱，挥之不去；④强迫怀疑，即对自己完成的事情并不确定，产生不必要的疑虑，要反复核实。如离开房间前疑虑门窗是否关好，反复数次前去检查，否则会焦虑不安，又如，刚刚看过的句子，明明已经看得清清楚楚，却总感到没有看清、反复阅读；⑤强迫性穷思竭虑，即对一些毫无意义的“问题”反复思考，刨根问底，明知毫无意义，却不得停止，如“为什么每天是24小时？”“为什么1加1不等于3？”；⑥强迫对立思维，即两种对立的词句或概念反复在脑海中相继出现，自知毫无意义，却不能释怀，而感到苦恼和紧张，如想到“高尚”就会立即联想到“卑鄙”，说道“白天”时想到“黑夜”等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHTMARE</LocID>
+        <Text>梦魇</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHTMARE_DESC</LocID>
+        <Text>梦魇是一种常见的异态睡眠，特点是患者反复从睡梦中惊醒，烦躁不安，能很快被唤醒并回忆出栩栩如生、非常真实，大多集中于个体迫在眉睫的躯体危险的梦境。儿童的梦魇经历非常常见，偶尔的梦魇多数不构成障碍。接近80%的创伤后应激障碍患者在创伤后3个月出现了梦魇，有的甚至持续终生。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLASH_BACK</LocID>
+        <Text>反复重现创伤性体验</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLASH_BACK_DESC</LocID>
+        <Text>反复重现创伤性体验，以“闪回”而著称。患者以各种形式体验创伤的情景，如不由自主地回想受打击的经历，出现创伤性的图像、知觉和想象；频频出现与创伤事件有关的噩梦；有时患者仿佛又完全回到创伤性情境中，重新表现出创伤性事件发生时的各种情感的行为，即闪回，flash back。患者接触任何与创伤性事件有关的事件或线索时，如死者遗物、旧地重游、周年纪念日、相似的天气及各种场景因素等，都会感到异常痛苦和产生明显的生理反应。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AVOIDANCE</LocID>
+        <Text>回避症状</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AVOIDANCE_DESC</LocID>
+        <Text>回避症状在创伤和应激相关障碍中，特指患者总是尽量回避与创伤有关的情景、人和物、有关的想法、感受及话题等。有些患者表现为选择性遗忘，不能回忆起与创伤有关的一些重要内容。同时，患者情感麻痹，整体上给人以木讷或淡然的感觉。在恐惧障碍中，回避症状则是指患者总是尽量回避易于让自己感到紧张不安的情景。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DULLNESS</LocID>
+        <Text>情感迟钝</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DULLNESS_DESC</LocID>
+        <Text>情感迟钝，又称为情感平淡，通常认为轻于情感淡漠，情感淡漠又请于情感衰退。患者对一般的情感刺激反应迟钝，即使是强烈的情感因素反应也很弱，而且内心体验不深刻。这是一种逐渐发展和长期存在的症状，是情感普遍而深刻的变化，即使不是不可逆的，它的恢复和走向也总是缓慢的。这种情感变化不限于外在的表情、言语和行为，更重要的是患者主观上的体验变得像一潭死水一样，很难激起情感上的波浪，缺少明确的内心体验。</Text>
+    </GameDBLocalizedString>
+    
+      <GameDBLocalizedString>
+        <LocID>SYM_IRRITABILITY</LocID>
+        <Text>易激惹</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_IRRITABILITY_DESCRIPTION</LocID>
+        <Text>一般的刺激即引起强烈而不愉快的情绪体验。患者遇到轻微的挫折时激动不安、生气愤怒甚至暴怒发作。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_ANXIETY</LocID>
+        <Text>焦虑情绪</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_ANXIETY_DESCRIPTION</LocID>
+        <Text>焦虑是面对危险的一种正常反应，但如果其严重程度或持续时间与实际威胁明显不相称就是属于异常。病态的焦虑是指在无客观根据的情况下表现为持续地紧张、担心和害怕并伴有多种躯体和自主神经功能紊乱的症状。心理上可以表现为紧张不安、提心吊胆、担心害怕、注意范围狭窄、警觉性增高、情绪易激惹等。躯体上课表现为坐立不安、搓手顿足、肌肉紧张、肢体震颤等。多数患者会有心悸、出汗、四肢发冷、便秘、腹泻等自主神经功能紊乱的表现。有时患者呈现极度的焦虑、惶恐不安、体验到濒临死亡之感，称作惊恐发作。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ELATION</LocID>
+        <Text>情感高涨</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ELATION_DESC</LocID>
+        <Text>患者的情感活动明显增强，总是表现得欢欣喜悦、轻松愉快、兴高采烈、洋洋自得。自我感觉非常良好，心境特别愉快、乐观，喜欢与人接近。自视甚高，对客观困难往往估计过低。表情喜悦，语音高昂；或傲慢自负，盛气凌人；或诙谐孟浪，引人发笑，常带有明显的夸大色彩。患者易激惹，稍有不遂就勃然大怒，遇悲哀事也可伤心流泪，但转瞬即逝。情绪增高可有有不同程度的表现，如高兴、愉悦、欣快、狂喜等。常见于躁狂发作、分裂情感性精神病、脑器质性精神障碍。但躁狂发作时所表现出的情感高涨通常具有较好的可理解性和一定的感染力，而不易理解的、自得其乐的情绪高涨状态（欣快），多见于脑器质性精神障碍或酒醉状态。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELIRIUM</LocID>
+        <Text>谵妄</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELIRIUM_DESC</LocID>
+        <Text>谵妄状态，也称为急性脑病综合征或急性器质性综合征，是一种以意识模糊为基础，除了意识清晰度下降外，伴有整体精神活动的障碍。主要临床特征包括意识清晰度明显降低，定向力不佳，注意迟钝，思维不连贯，并伴有恐怖性的幻觉和错觉，一般以视幻觉和视错觉多见，形象生动逼真，如可怕的昆虫、猛兽、毒蛇等，偶见听幻觉和触幻觉，常常伴随紧张不安、恐惧等情绪反应。不少患者同时思维活动困难，思维不连贯，理解困难，容易对环境形成曲解和错误判断，由此形成短暂的妄想，内容为迫害性的；也可见情绪不稳，精神运动性兴奋，行为缺乏目的性，可在幻觉和妄想的支配下出现逃避行为、自伤行为和伤人行为。睡眠和觉醒障碍也常常存在，白天昏昏欲睡，晚上兴奋不宁，将梦境与现实混淆。病程呈昼轻夜重的波动性变化。可有完全清醒期。起病急，持续时间长短不等，可从数小时到数天，个别可持续1个月。病前可有无力、失眠、烦躁、反应迟钝等症状。意识恢复后常常部分或全部遗忘。常见于感染、高热、中毒、脑外伤性疾病。此外许多躯体疾病所致的精神障碍、衰竭状态、癫痫和老年性痴呆亦可发生谵妄。另有急性起病的精神分裂症、麻痹性痴呆激越型、谵妄性躁狂也可见到类似的状态。震颤谵妄则为酒精中毒的一种特殊表现。各种谵妄状态的产生常有急性弥散性脑损害为基础，进一步可导致意识混浊或昏迷。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSION</LocID>
+        <Text>情绪低落</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSION_DESC</LocID>
+        <Text>情绪低落，是指一段时间内持续存在的压抑、郁闷、沮丧的情绪状态，与情绪高涨相对应，属于负性情绪的增强。患者感觉心情不愉快，悲观郁闷，忧心忡忡。表现为愁眉苦脸，唉声叹气，语气低沉缓慢，动作迟缓，行为减少，不愿与人交往。自我评价过低，自卑，缺乏信心，凡事都失去兴趣。觉得度日如年，有生不如死之感。严重者情绪极度不愉快，自罪自责，不语不动不食，悲观厌世，出现自杀行为。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOBULIA</LocID>
+        <Text>意志减弱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOBULIA_DESC</LocID>
+        <Text>意志减弱，也称为意志减退，是指意志活动显著减少，患者表现出病态的缺乏主动性和进取心，缺乏克服困难的决心和力量，对周围的一切均兴趣索然，不愿参加外界活动，不想做事，没有积极性，严重时连日常生活都懒于料理。整日活独处一隅，或呆坐不动，或卧床不起，工作学习都难以完成。患者有一定的意志要求，但总感觉自己做不了什么或做什么都没有意义，因而不想做。患者活动明显减退。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INHIBITION_OF_THOUGHT</LocID>
+        <Text>思维迟缓</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INHIBITION_OF_THOUGHT_DESC</LocID>
+        <Text>思维迟缓也称为思维抑制，指联想的速度减慢，数量减少，联想困难。患者自觉脑子变笨，反应慢，思考问题困难，记忆力差。交谈中言语少，速度缓慢，声音低沉，表达简单。回答问题中肯，理解正确，但拖延时间长，甚至要连续追问多次才有极简单的回答。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLIGHT_OF_THOUGHT</LocID>
+        <Text>思维奔逸</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLIGHT_OF_THOUGHT_DESC</LocID>
+        <Text>思维奔逸是一种兴奋性的思维联想障碍，指联想过程的加速。患者自觉思潮澎湃，概念一个接一个不断涌现出来。表现为语速增快，口若悬河，滔滔不绝。此时患者联想进程虽然很快，但方向却不固定，易受环境影响而离开原来主题，并转移到新接触的事物上去。有时由于患者思维过快，导致说话的速度赶不上思维的速度，因而说出一些片段，没有联系的词句，或者只有一些偶然的联系。上下句之间如果有一两个字同音，称之为音联；如果意义相关患者字义相通，便称为意联。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GRANDIOSE_DELUSION</LocID>
+        <Text>夸大妄想</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GRANDIOSE_DELUSION_DESC</LocID>
+        <Text>夸大妄想是指患者鉴定自己有很高的职位，把握无上的权力；或称自己才能惊人，有许多发明创造；或称拥有大量财富，肆意挥霍；或称有极高的门第，是名门之后等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERBULIA</LocID>
+        <Text>意志增强</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERBULIA_DESC</LocID>
+        <Text>意志增强是指意志活动增多，患者呈现病态的自信和固执的行为。临床上有几种不同的表现。有的患者经常为各种动机所驱使，终日忙碌，但由于动机时常改变，以至有始无终，一事无成，常见于躁狂状态。有的患者受妄想影响，坚持某项活动，如控诉“迫害者”等，可以表现出极大的顽强性，不顾行动中所遭受的一切阻碍，仍旧一往直前，经久不懈。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TRANSFERENCE_OF_ATTENTION</LocID>
+        <Text>注意转移</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TRANSFERENCE_OF_ATTENTION_DESC</LocID>
+        <Text>注意转移主要指被动注意的兴奋性明显增强、稳定性降低。患者的注意极易为外界的变化所吸引，被注意的对象经常转换。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUNTING_OF_ATTENTION</LocID>
+        <Text>注意缓慢</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUNTING_OF_ATTENTION_DESC</LocID>
+        <Text>注意缓慢又称注意迟缓，是指注意集中缓慢和转移困难。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_STUPOR</LocID>
+        <Text>抑郁性木僵</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_STUPOR_DESC</LocID>
+        <Text>木僵是指动作和言语活动的普遍减少甚至完全抑制，患者常时间卧床或呆立呆坐，不动不语。亚木僵状态主要可能由抑郁性木僵、心因性木僵引起，是指患者偶有翻身、坐起或少量自发言行。抑郁性木僵是抑郁发作时最严重的表现形式之一。在严重的情绪低落的同时，患者出现言语和行为的明显减少，甚至没有自发言行。患者卧床不起，对一般的言语刺激没有反应。有时在反复询问下可以获得微弱而简短的回答，或以点头摇头应答。谈及触及内心的时间是可有相应的情感反应，患者的肌张力正常。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SUICIDE</LocID>
+        <Text>自杀</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SUICIDE_DESC</LocID>
+        <Text>患者想要自杀。自杀是指自愿而有计划地伤害或毁灭自己的行为，多由严重的绝望情绪、幻觉妄想等病态心理引起。如有被害妄想着怕别人谋杀自己，不如自己了结以免遭人毒杀；有自罪自责妄想者认为自己罪大恶极，不应该活在世上；有命令性幻听者受幻听支配而自杀等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EARLY_AWAKENING</LocID>
+        <Text>早醒</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EARLY_AWAKENING_DESC</LocID>
+        <Text>患者醒得过早。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIFFICULTY_FALLING_ASLEEP</LocID>
+        <Text>入睡困难</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIFFICULTY_FALLING_ASLEEP_DESC</LocID>
+        <Text>患者入睡困难。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_MAINTENANCE_DISORDER</LocID>
+        <Text>睡眠维持障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_MAINTENANCE_DISORDER_DESC</LocID>
+        <Text>患者难以维持睡眠，常常出现半夜觉醒后再次入睡困难。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DAYTIME_SLEEPINESS</LocID>
+        <Text>日间嗜睡</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DAYTIME_SLEEPINESS_DESC</LocID>
+        <Text>患者在白天应该维持清醒的主要时段不能保持清醒和警觉，出现难以抑制的困倦甚至突然入睡。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_SYNDROME</LocID>
+        <Text>抑郁状态</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_SYNDROME_DESC</LocID>
+        <Text>患者处于抑郁状态。抑郁状态，或称抑郁综合征，是指以情绪低落、兴趣与精力下降，快感却乏味主要临床表现的综合征。患者表现为整个精神活动的抑制与减少，精神活动之间互相协调。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANXIETY_TENSION_SYNDROME</LocID>
+        <Text>焦虑状态</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANXIETY_TENSION_SYNDROME_DESC</LocID>
+        <Text>患者处于焦虑状态，或称焦虑紧张综合征，是指以焦虑症状群为主要临床表现的综合征。患者表现为紧张、担心和害怕感，坐立不安、搓手顿足、声音颤抖，伴有头晕、口干舌苦、心慌、发冷发热、便秘便溏、小便频数多等等多种躯体不适。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INSOMNIA</LocID>
+        <Text>量表:失眠</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INSOMNIA_DESC</LocID>
+        <Text>阿森斯失眠量表测得，患者存在具有临床价值的失眠。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_INSOMNIA</LocID>
+        <Text>PSG:失眠</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_INSOMNIA_DESC</LocID>
+        <Text>多导睡眠监测发现，患者睡眠潜伏期延长，入睡后觉醒时间延长，睡眠效率下降，客观睡眠时间缩短，符合一般的失眠症诊断，不存在睡眠呼吸障碍。</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_IMPAIRED_COGNITIVE_FUNCTION</LocID>
+        <Text>认知功能受损</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_IMPAIRED_COGNITIVE_FUNCTION_DESC</LocID>
+        <Text>患者存在认知功能的受损。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BIPOLAR_DISORDER</LocID>
+        <Text>双相障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BIPOLAR_DISORDER_DESC</LocID>
+        <Text>患者被诊断为双相障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PTSD</LocID>
+        <Text>创伤后应激障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PTSD_DESC</LocID>
+        <Text>患者被诊断为创伤后应激障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OBSESSIVE-COMPULSIVE_DISORDER</LocID>
+        <Text>强迫症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OBSESSIVE-COMPULSIVE_DISORDER_DESC</LocID>
+        <Text>患者被诊断为强迫症。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GENERALIZED_ANXIETY_DISORDER</LocID>
+        <Text>广泛性焦虑障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GENERALIZED_ANXIETY_DISORDER_DESC</LocID>
+        <Text>患者被诊断为广泛性焦虑障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOMATIC_SYMPTOM_DISORDER</LocID>
+        <Text>躯体症状障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOMATIC_SYMPTOM_DISORDER_DESC</LocID>
+        <Text>患者被诊断为躯体症状障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MAJOR_DEPRESSIVE_DISORDER</LocID>
+        <Text>抑郁症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MAJOR_DEPRESSIVE_DISORDER_DESC</LocID>
+        <Text>患者被诊断为抑郁症。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SCHIZOPHRENIA</LocID>
+        <Text>精神分裂症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SCHIZOPHRENIA_DESC</LocID>
+        <Text>患者被诊断为精神分裂症。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CHRONIC_INSOMNIA</LocID>
+        <Text>慢性失眠症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CHRONIC_INSOMNIA_DESC</LocID>
+        <Text>患者被诊断为慢性失眠症。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ALCOHOL_WITHDRAWAL</LocID>
+        <Text>酒精戒断</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ALCOHOL_WITHDRAWAL_DESC</LocID>
+        <Text>患者被诊断为酒精戒断。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION</LocID>
+        <Text>不真实感</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION_DESC</LocID>
+        <Text>非真实感又称为现实解体，是指患者对周围环境的感知清晰度降低，感到周围的事物都变得模糊不清，毫无生气，缺乏鲜明生动感，视物如隔一层帷幔，听声音如隔一道屏障，因而认为外界变得不真实了，都是假的一样。见于人格解体/现实解体障碍，也可见于各类神经症、抑郁症和惊恐发作时的表现。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PANIC_ATTACK</LocID>
+        <Text>惊恐发作</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PANIC_ATTACK_DESC</LocID>
+        <Text>患者处于急性焦虑发作（惊恐状态）中。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_AMNESIA</LocID>
+        <Text>心因性遗忘</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_AMNESIA_DESC</LocID>
+        <Text>心因性遗忘是指对过去某一特定时间段的经历或事件不能回忆，通常是异常痛苦的经历和事件，持续可数日、数月甚至更长。如对这一阶段的全部经历发生了遗忘，则称之阶段性遗忘，反之，如只对创伤事件有关的经历的遗忘，则称之选择性遗忘。其发生时大脑皮质的功能性抑制，并非器质性损害，经过催眠暗示等治疗后，遗忘的内容可以重新回忆。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPONESIA</LocID>
+        <Text>记忆减退</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPONESIA_DESC</LocID>
+        <Text>记忆减退是指记忆的各个基本过程功能的普遍减退。轻者表现为近记忆力的减退，如记不得刚刚交往过的人的名字和单位，刚告诉的电话号码等。严重时远记忆力也减退，如难以回忆起个人的重要经历，等等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERMNESIA</LocID>
+        <Text>记忆增强</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERMNESIA_DESC</LocID>
+        <Text>记忆增强是指个体对既往发生的，在正常时早已遗忘的事件和经历又能重新回忆起来。如躁狂患者对多年前学过的、在平常早已忘记的诗词和儿歌在发病时又能背出和咏唱，又如妄想患者对涉及妄想内容的生活细节都能详细地回忆。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOCIAL_PHOBIA</LocID>
+        <Text>社交恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOCIAL_PHOBIA_DESC</LocID>
+        <Text>恐惧是指客观存在的某种事物或处境产生持续的惧怕和回避的现象。正常人在面对危险的事物或处境会出现恐惧。病态的恐惧是指其严重程度和持续时间与现实威胁不相符的恐惧反应。轻者表现为害怕、提心吊胆，重者惊恐不安，奔跑喊叫，伴有心悸心慌等自主神经功能变化。患者自知过分，却难以自控，因而出现回避和逃离行为。恐惧的对象多种多样。而在社交中对人的恐惧就称社交恐惧。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PERFORMANCE_ANXIETY</LocID>
+        <Text>表演性焦虑</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PERFORMANCE_ANXIETY_DESC</LocID>
+        <Text>表演性焦虑是指个体在公共场合发表演讲、表演节目时感到过度的恐惧和焦虑。</Text>
+    </GameDBLocalizedString>
+    
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUSH_PHOBIA</LocID>
+        <Text>脸红恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUSH_PHOBIA_DESC</LocID>
+        <Text>脸红恐惧是指个体在公共场合与人接触时害怕自己脸红。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EYE_PHOBIA</LocID>
+        <Text>对视恐惧</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EYE_PHOBIA_DESC</LocID>
+        <Text>脸红恐惧是指个体怕与他人目光对视。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APHASIA</LocID>
+        <Text>失语症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APHASIA_DESC</LocID>
+        <Text>失语症是指由于大脑某些部位的局限性损害，丧失了对语言信号意义的理解或表达的能力。患者意识清晰，没有感觉缺失和发音肌肉瘫痪。临床上，按照失语的不同性质，分为运动性失语、感觉性失语、传导性失语、命名性失语、失读和失写，等等。失用、失认现象常常与失语症同时出现。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APRAXIA</LocID>
+        <Text>失用症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APRAXIA_DESC</LocID>
+        <Text>失用症是指感觉、肌力和协调性运动正常，但是却不能进行有目的的活动。失用可分为观念性失用症、观念运动性失用症和运动性失用症三种。①观念性失用症表现为不能执行指令，当要求患者完成某一动作时，他可能什么也不做或者做出完全不相干的动作，可有模仿动作，能够单独完成复杂系列行为中的单一行为或分解动作；②观念运动性失用症的特点是不能模仿一个简单的动作如挥手、敬礼等，更不能模仿复杂的运动，但是却在自然状态下可自动地、反射地做有关运动，与顶叶和额叶皮质间的联络障碍有关；③运动性失用是指不能把指令转化为有目的性的动作，无论其简单或复杂，但是患者能清楚地理解并描述命令的内容。请患者做一些简单的运动，如挥手、敬礼、梳头可以比较容易地发现失用。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGNOSIA</LocID>
+        <Text>失认症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGNOSIA_DESC</LocID>
+        <Text>失认症是指在大脑皮质水平难以识别或辨认各种感官的刺激，这种识别困难不是由于外周感受器的损害，如听力减退所致。失认可以分为听觉世人、视觉失认、体感觉失认，而这三种失认又可以表现出多种症状。①视觉失认可以表现为对人物形象、颜色、距离、空间环境等的失认，视觉失认极容易造成空间定向障碍，当视觉失认较轻时，患者易在熟悉的环境中迷失方向，当程度较重时，连在熟悉的地方也会发声迷路。有的视觉失认患者阅读困难，不能通过视觉来辨别物体，严重时不能辨认亲属甚至自己的形象，最终成为精神盲；②听觉失认表现为对声音的定向反应的心理感应消失或减退，患者不能辨别周围环境声音的意义，对语音、语调及语言的意义难以理解。③体感觉失认主要表现为患者难以辨别躯体上的感觉刺激，对身体上的刺激不能分析其强度、性质等。严重时患者不能辨别手中的物品，最终不知如何穿衣、洗脸、梳头等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ORGANIC_PERSONALITY_CHANGE</LocID>
+        <Text>器质性人格改变</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ORGANIC_PERSONALITY_CHANGE_DESC</LocID>
+        <Text>人格改变是指一种后天获得性的障碍，是指一个原本人格正常的人，再严重或持久的应激、严重的精神障碍及脑部疾病之后其人格发生了改变。器质性人格改变是由于脑器质性原因所致，是原发疾病症状的一部分。以抑制行为和情感方面的异常为主要表现，但也与损害部位有关，譬如前额叶损害时主要表现为情感淡漠，意志减退，动力缺乏，注意减弱，动作迟缓，行为缺乏主动性，没有责任心。眶额叶损害时主要表现为情绪不稳，易冲动，自控力差，容易出现病理性欣快，表情诙谐，言语和行为增多，行为幼稚而不检点，不符合社会规范，本能意向亢进，可出现攻击性行为。颞叶损害时则表现为情绪不稳，易激惹，易出现冲动攻击性行为。另外，人格改表也可表现为原本人格特征的强化或削弱，如原来固执的人变得更为偏执，原来急躁的人变得温顺拖拉。但随着疾病的发展，多数患者最终表现为情感淡漠和意志缺乏。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBRAL_ATROPHY</LocID>
+        <Text>脑萎缩</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBRAL_ATROPHY_DESC</LocID>
+        <Text>脑萎缩是一种影像学表现，指脑细胞异常减少、脑组织发生萎缩的情况，既可以是衰老的表现，也可能是脑部创伤、神经系统疾病、感染等原因所致。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HIPPOCAMPAL_ATROPHY</LocID>
+        <Text>海马萎缩</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HIPPOCAMPAL_ATROPHY_DESC</LocID>
+        <Text>颞叶，特别是海马结构的选择性萎缩被认为是阿尔茨海默病的特征性病理表现。</Text>
+    </GameDBLocalizedString>
+    
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIVERGENCE_OF_ATTENTION</LocID>
+        <Text>注意涣散</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIVERGENCE_OF_ATTENTION_DESC</LocID>
+        <Text>注意涣散又称为注意力不集中，指主动注意的明显减弱，表现为难以将注意集中和保持在一定的对象上，易于分散。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERACTIVITY</LocID>
+        <Text>活动过多</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERACTIVITY_DESC</LocID>
+        <Text>表现为活动过多，过于兴奋，过于不安，动作明显增多。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LEARNING_DIFFICULTY</LocID>
+        <Text>学习困难</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LEARNING_DIFFICULTY_DESC</LocID>
+        <Text>患者或由于智力障碍，或由于注意力不集中，或由于认知障碍造成学习困难，学业成绩不佳。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ADHD</LocID>
+        <Text>注意缺陷多动障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ADHD_DESC</LocID>
+        <Text>患者被确诊为注意缺陷多动障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LIFE_EVENT</LocID>
+        <Text>生活事件</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LIFE_EVENT_DESC</LocID>
+        <Text>患者在患病前处于生活事件当中，譬如居丧、离婚、事业或换岗、迁居、转学、升学、患重病、经济危机、退休等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATAPLEXY</LocID>
+        <Text>猝倒</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATAPLEXY_DESC</LocID>
+        <Text>猝倒是指因双侧对称性肌张力突然完全或部分丧失，而发生全身性或局部性的瘫软发作，可以表现为跌倒、低头、上睑下垂、张口或吐舌等。发作时通常持续时间短暂（＜2分钟），患者意识清楚、无记忆障碍，可完全恢复。常由强烈的情绪因素诱发，通常为正性情绪。</Text>
+    </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_PARALYSIS</LocID>
+        <Text>睡眠瘫痪</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_PARALYSIS_DESC</LocID>
+        <Text>睡眠瘫痪是指在睡眠-觉醒转换期间发生的一过性随肌不能活动现象，可持续数秒到数分钟，表现为不能活动、不能言语，但是意识清醒。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_RELATED_HALLUCINARION</LocID>
+        <Text>睡眠幻觉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_RELATED_HALLUCINARION_DESC</LocID>
+        <Text>睡眠幻觉是一类统称，包括了入睡前幻觉和醒前幻觉，表现为在觉醒和睡眠的转换期出现的幻觉，可为视、听或触幻觉，如听到叫自己名字，看到人影等，清醒后能对幻觉内容完全回忆，也可表现为梦境样体验。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_BARCOLEPSY</LocID>
+        <Text>PSG:发作性睡病</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_BARCOLEPSY_DESC</LocID>
+        <Text>PSG显示患者夜间入睡后15分钟之内出现异常的REM睡眠。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MSLT_BARCOLEPSY</LocID>
+        <Text>MSLT:发作性睡病</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MSLT_BARCOLEPSY_DESC</LocID>
+        <Text>MSLT显示平均睡眠潜伏期缩短，可见两次或两次以上的REM睡眠始发（SORENMPs）。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOW_LEVELS_OF_OREXIN_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>低脑脊液促食欲素</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOW_LEVELS_OF_OREXIN_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>患者脑脊液中促食欲素的水平过低。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OVERPRICED_FEAR_OF_OBESITY</LocID>
+        <Text>怕胖的超价观念</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OVERPRICED_FEAR_OF_OBESITY_DESC</LocID>
+        <Text>超价观念有压倒一切不接受批判的含义。指个体心理活动中一段时间内占主导的一种观念，具有强烈的情感色彩，表现为偏激、偏爱、偏恨，明显影响其心理活动和行为，且不受外来反面意见的干扰，也不被同一文化状态的多数人所接受。它的形成具有一定的性格与现实基础，并无逻辑推理错误。怕胖的超价观念是指一种持续存在的害怕肥胖而无法抗拒的超价观念，患者常常因此出现限制摄食、进行过度体育锻炼、滥用泻药或减肥药、催吐等行为。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BODY_IMAGE_DISORDER</LocID>
+        <Text>体像障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BODY_IMAGE_DISORDER_DESC</LocID>
+        <Text>患者对自己的身体存在歪曲的认知。一部分表现为明明很消瘦，却仍然坚持认为自己肥胖，有时这种感知是针对身体某一部位的，例如大腿和腹部。还有一部分患者在进食后立刻感觉身体向外膨胀，甚至只要将食物送进口中，立刻就会感到身体胖起来。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANOREXIA_NERVOSA</LocID>
+        <Text>神经性厌食症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANOREXIA_NERVOSA_DESC</LocID>
+        <Text>患者被确诊为神经性厌食。</Text>
+    </GameDBLocalizedString>
+    
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INCREASED_APPETITE</LocID>
+        <Text>食欲增加</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INCREASED_APPETITE_DESC</LocID>
+        <Text>表现为食欲的增强。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TOBACCO_WITHDRAWAL</LocID>
+        <Text>烟草戒断</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TOBACCO_WITHDRAWAL_DESC</LocID>
+        <Text>患者处于烟草戒断过程当中。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EMOTIONAL_FRAGILITY</LocID>
+        <Text>情感脆弱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EMOTIONAL_FRAGILITY_DESC</LocID>
+        <Text>情感脆弱是指轻微的外界刺激即可引起患者明显的伤心体验。表现为极易伤感，微小的外界刺激或想到自己的不幸遭遇和困境就伤心哭泣，泪流满面，无法克制。严重者对情感反应完全失去控制能力，轻微刺激就会使其内心体验立刻毫无保留地、过分地表现出来，称作情绪失禁。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EUPHORIA</LocID>
+        <Text>欣快</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EUPHORIA_DESC</LocID>
+        <Text>欣快表现为自我感觉良好，自得其乐，与周围环境无联系，也说不清楚为何高兴，其内容刻板单调，面部表情愉悦但显得愚蠢可笑，不能引起别人的共鸣。有时伴有轻度的兴奋，语言行为增多，出现浅薄的诙谐和戏谑行为，行为幼稚可笑，称之诙谐性欣快。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBROVASCULAR_DISEASE</LocID>
+        <Text>脑血管疾病</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBROVASCULAR_DISEASE_DESC</LocID>
+        <Text>患者存在发生过的脑血管病，包括但不限于脑梗死、脑出血、脑小血管病（如腔隙性脑梗死、脑白质高信号、脑微出血、脑萎缩）等。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AFFECTIVE_PARALYSIS</LocID>
+        <Text>情感麻木</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AFFECTIVE_PARALYSIS_DESC</LocID>
+        <Text>情感麻木又称为情感性休克，指由强烈的精神刺激导致情感反应出现暂时的抑制状态，患者虽处于极度悲哀或惊恐之中，但是缺乏内心体验和表情变化，呆若木鸡，甚至对疼痛刺激也无反应或呈木僵状态。有时可出现一些无目的性的动作。一说也指人格解体中的情感缺失，即存在思维判断，有情感反应，但是内心却体会不到情感反应。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOPROSEXIA</LocID>
+        <Text>注意减弱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOPROSEXIA_DESC</LocID>
+        <Text>注意减弱又叫注意迟钝，是指个体对外界刺激的注意力下降，包括主动注意和被动注意的减弱。表现为注意力集中困难，稳定性差，范围狭窄。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NARROWING_OF_ATTENTION</LocID>
+        <Text>注意狭窄</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NARROWING_OF_ATTENTION_DESC</LocID>
+        <Text>注意狭窄，是指注意范围的显著缩小，主动注意明显减弱。患者在缩窄的注意范围内能比较正常地感知，超出这一范围的一般刺激则很难引起其的注意。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOESTHESIA</LocID>
+        <Text>感觉减退</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOESTHESIA_DESC</LocID>
+        <Text>感觉减退是指个体感觉阈值增高，对外界刺激的感受性降低。患者对强烈的刺激感觉轻微，或者完全不能感知（感觉缺失）。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_JAMAIS_VU</LocID>
+        <Text>视旧如新症</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_JAMAIS_VU_DESC</LocID>
+        <Text>视旧如新症，是指患者对早已熟悉的事物感到陌生，如对熟悉的人和地方感到生疏，对读过的小说好像是第一次看，严重者感到周围的一切都是陌生的。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION_DIA</LocID>
+        <Text>人格解体</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION_DIA_DESC</LocID>
+        <Text>患者被确诊为人格解体。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYS_NEW_PSY_SNORE</LocID>
+        <Text>打鼾</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYS_NEW_PSY_SNORE_DESC</LocID>
+        <Text>打鼾是指由于上呼吸道狭窄或塌陷造成气流加速或涡流引发生呼吸道周围组织的振动，如来自腭垂、软腭、舌和咽壁等组织的震动，而反复出现鼾声。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_OBSTRUCTIVE_SLEEP_APNEA</LocID>
+        <Text>阻塞性睡眠呼吸暂停</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_OBSTRUCTIVE_SLEEP_APNEA_DESC</LocID>
+        <Text>患者被存在阻塞性睡眠呼吸暂停，PSG表现为AHI（呼吸暂停低通气指数）≥5次，呼吸暂停和低通气以阻塞性为主。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TEILIGHT_STATE</LocID>
+        <Text>朦胧状态</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TEILIGHT_STATE_DESC</LocID>
+        <Text>朦胧状态，也称为意识模糊，是指意识范围缩窄，同时伴有意识清晰度的降低。在狭窄的意识范围之内，患者可以正常感知到外界刺激，并做出正常反应。但对狭窄的意识范围以外的事情就不能正确认知。表现为联想困难，计算、理解能力缺乏，可出现片段的错觉、幻觉和妄想观念，表情呆板或迷茫，也可出现焦虑、恐惧、暴怒、狂喜等情绪及冲动、自伤或伤人行为。有环境和自我定向障碍。常常突然发生、突然中止，每次持续数分钟至数小时，偶可达数日。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DISRIENTATION</LocID>
+        <Text>定向障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DISRIENTATION_DESC</LocID>
+        <Text>定向力是指对时间、地点、人物（包括自身状况）的认识能力。其中对时间、地点、人物的认识称作环境定向，对自身状况的认识称作自我定向。定向障碍是指对环境和自身状况的认识能力丧失或者错误。定向障碍可单独出现，也可同时涉及多方面的异常。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_STUPOR</LocID>
+        <Text>心因性木僵</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_STUPOR_DESC</LocID>
+        <Text>心因性木僵是指在急性、强烈的精神创伤后出现的行为和言语的抑制状态。行为抑制在精神创伤后突然出现，表现为呆若木鸡、面无表情、全身僵住不动、缄默少语，对外界刺激反应减弱。一般表现为亚木僵状态，持续时间短暂，或转为兴奋状态，或迅速恢复正常。此时间可有轻度意识障碍，恢复后不一定能完全回忆。有些分离转换性障碍患者可出现木僵，往往是心因性木僵发展而来，以后可能基于有意或无意的继发性获益而出现木僵。这类患者在无人时可以自动进食，经过催眠或麻醉诱导可发现其内心冲突，也可使木僵恢复。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_STRESS_DISORDER</LocID>
+        <Text>急性应激障碍</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_STRESS_DISORDER_DESC</LocID>
+        <Text>患者被确诊为急性应激障碍。</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOTIC_SYMPTOMS</LocID>
+        <Text>精神病性症状</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOTIC_SYMPTOMS_DESC</LocID>
+        <Text>精神病性症状主要指幻觉、妄想以及兴奋、躁动，思维、言语及行为紊乱。不只是精神分裂症等精神病性障碍，代谢紊乱、感染、中度、脑血管疾病等多种躯体疾病及药物戒断和药物不良反应等均可引起精神病性症状。其也是综合医院精神科急会诊较多的原因。</Text>
+    </GameDBLocalizedString>
+    
+    
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

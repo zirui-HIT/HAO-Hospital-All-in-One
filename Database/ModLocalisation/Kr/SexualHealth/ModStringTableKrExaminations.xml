@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>Korean</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>S2SKY</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>                      <Text>생식기 검사</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>                       <Text>생식기 검사 분석</Text>  </GameDBLocalizedString>	
+			<GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>                      	   <Text>생식기 표본</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>                       	   <Text>생식기 표본 분석</Text>  </GameDBLocalizedString>	
+			<GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>          <Text>소형 채취 도구를 사용해 적은 수의 세포를 조심스럽게 자궁경부 또는 항문 주변으로부터 긁어냅니다. 채취된 세포들은 검사를 위해 실험실로 보내집니다. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>           <Text>자궁경부 또는 항문 세포 분석</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>          	   <Text>면봉으로 질 또는 음경으로부터 표본을 채취합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>           	   <Text>감염 증상의 유무를 확인하기 위해 배양된 표본을 분석합니다.</Text>  </GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

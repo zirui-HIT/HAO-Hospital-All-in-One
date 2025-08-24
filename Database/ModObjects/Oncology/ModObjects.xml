@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    
+
+    <GameDBObject ID="MOD_ONCO_OBJECT_CUBE1">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_CUBE1_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <IconIndex>952</IconIndex>
+        
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <Placement>INDOORS</Placement>
+
+        <AttachmentSlot>
+            <HeightOffset>0.85</HeightOffset>
+            <DepthOffset>0.2</DepthOffset>
+            <AllowedTags>
+				<Tag>ui_ModObjects</Tag> 
+                <Tag>tv</Tag>
+                <Tag>ui_plants</Tag>
+                <Tag>radio</Tag>
+                <Tag>lab_eq_small</Tag>
+                <Tag>printer</Tag>
+                <Tag>defibrillator</Tag>
+                <Tag>surgery_instruments</Tag>
+                <Tag>electrocautery_machine</Tag>
+                <Tag>fast_usg</Tag>
+                <Tag>RIA</Tag>
+                <Tag>audiometer</Tag>
+                <Tag>crp_scan</Tag>
+                <Tag>spirometer</Tag>
+                <Tag>lab_analyzer</Tag>
+                <Tag>thermal_cycler</Tag>
+                <Tag>electrocardiograph</Tag>
+                <Tag>ui_coffee_machine</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+         <Tags>
+            <Tag>ui_furniture</Tag>
+            <Tag>ui_cabinets</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_001</CustomIconAssetRef>
+
+        <Cost>149</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CHAIRS_BLACK</ColorSetRef>
+    </GameDBObject>
+
+    <GameDBObject ID="MOD_ONCO_OBJECT_CUBE2">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_CUBE2_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <IconIndex>951</IconIndex>
+        
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <Placement>INDOORS</Placement>
+
+        <AttachmentSlot>
+            <HeightOffset>0.85</HeightOffset>
+            <DepthOffset>0.2</DepthOffset>
+            <AllowedTags>
+				<Tag>ui_ModObjects</Tag> 
+                <Tag>tv</Tag>
+                <Tag>ui_plants</Tag>
+                <Tag>radio</Tag>
+                <Tag>printer</Tag>
+                <Tag>defibrillator</Tag>
+                <Tag>lab_eq_small</Tag>
+                <Tag>surgery_instruments</Tag>
+                <Tag>electrocautery_machine</Tag>
+                <Tag>fast_usg</Tag>
+                <Tag>RIA</Tag>
+                <Tag>audiometer</Tag>
+                <Tag>crp_scan</Tag>
+                <Tag>spirometer</Tag>
+                <Tag>lab_analyzer</Tag>
+                <Tag>thermal_cycler</Tag>
+                <Tag>electrocardiograph</Tag>
+                <Tag>ui_coffee_machine</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+        <Tags>
+            <Tag>ui_furniture</Tag>
+            <Tag>ui_cabinets</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_002</CustomIconAssetRef>
+
+        <Cost>149</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CHAIRS_BLACK</ColorSetRef>
+    </GameDBObject>
+	
+	<GameDBObject ID="MOD_ONCO_OBJECT_CUBE3">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_CUBE3_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>8</TextureIDNW>
+        <TextureIDNE>9</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <IconIndex>952</IconIndex>
+        
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <Placement>INDOORS</Placement>
+
+        <AttachmentSlot>
+            <HeightOffset>0.85</HeightOffset>
+            <DepthOffset>0.2</DepthOffset>
+            <AllowedTags>
+				<Tag>ui_ModObjects</Tag> 
+                <Tag>tv</Tag>
+                <Tag>ui_plants</Tag>
+                <Tag>radio</Tag>
+                <Tag>lab_eq_small</Tag>
+                <Tag>printer</Tag>
+                <Tag>defibrillator</Tag>
+                <Tag>surgery_instruments</Tag>
+                <Tag>electrocautery_machine</Tag>
+                <Tag>fast_usg</Tag>
+                <Tag>RIA</Tag>
+                <Tag>audiometer</Tag>
+                <Tag>crp_scan</Tag>
+                <Tag>spirometer</Tag>
+                <Tag>lab_analyzer</Tag>
+                <Tag>thermal_cycler</Tag>
+                <Tag>electrocardiograph</Tag>
+                <Tag>ui_coffee_machine</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+         <Tags>
+            <Tag>ui_furniture</Tag>
+            <Tag>ui_cabinets</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_004</CustomIconAssetRef>
+
+        <Cost>149</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CHAIRS_BLACK</ColorSetRef>
+    </GameDBObject>
+
+    <GameDBObject ID="MOD_ONCO_OBJECT_CUBE4">
+        <AbbreviationLocID>MOD_ONCO_OBJECT_CUBE4_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>10</TextureIDNW>
+        <TextureIDNE>11</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <IconIndex>951</IconIndex>
+        
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <Placement>INDOORS</Placement>
+
+        <AttachmentSlot>
+            <HeightOffset>0.85</HeightOffset>
+            <DepthOffset>0.2</DepthOffset>
+            <AllowedTags>
+				<Tag>ui_ModObjects</Tag> 
+                <Tag>tv</Tag>
+                <Tag>ui_plants</Tag>
+                <Tag>radio</Tag>
+                <Tag>printer</Tag>
+                <Tag>defibrillator</Tag>
+                <Tag>lab_eq_small</Tag>
+                <Tag>surgery_instruments</Tag>
+                <Tag>electrocautery_machine</Tag>
+                <Tag>fast_usg</Tag>
+                <Tag>RIA</Tag>
+                <Tag>audiometer</Tag>
+                <Tag>crp_scan</Tag>
+                <Tag>spirometer</Tag>
+                <Tag>lab_analyzer</Tag>
+                <Tag>thermal_cycler</Tag>
+                <Tag>electrocardiograph</Tag>
+                <Tag>ui_coffee_machine</Tag>
+            </AllowedTags>
+            <ForcesAttachmentOrientation>true</ForcesAttachmentOrientation>
+        </AttachmentSlot>
+
+        <Tags>
+            <Tag>ui_furniture</Tag>
+            <Tag>ui_cabinets</Tag>
+        </Tags>
+		
+		<CustomIconAssetRef>ASSET_TEX_ONCO_OBJECT_005</CustomIconAssetRef>
+
+        <Cost>149</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_CHAIRS_BLACK</ColorSetRef>
+    </GameDBObject>
+</Database>

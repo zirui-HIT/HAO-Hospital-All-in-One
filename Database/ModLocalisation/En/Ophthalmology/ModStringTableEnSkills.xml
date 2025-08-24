@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MOD_OPHTHALMOLOGY_SKILLS">
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OPH</LocID>
+				<Text>Ophthalmology</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OPH_DESC</LocID>
+				<Text>Ophthalmology is the branch of medicine that studies the occurrence, development, and outcomes of diseases of the visual organs, as well as their prevention, diagnosis, and treatment. Due to the unique characteristics and functional complexity of the visual system, the methods for examining and treating eye diseases differ greatly from other clinical disciplines. Ophthalmology has long been established as an independent field and is an important component of clinical medicine.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OPH_SURGERY</LocID>
+				<Text>Ophthalmic Surgery</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OPH_SURGERY_DESC</LocID>
+				<Text>Ophthalmic Surgery enables experienced physicians to perform eye surgery.</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_EN_ADDON_DIAG_TREATMENTS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Ollyver</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+
+		
+		
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_STANOZOLOL</LocID>
+			<Text>Stanozolol</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>TRT_STANOZOLOL_DESC</LocID>
+			<Text>Stanozolol may be used in the long-term treatment of patients with hereditary angioedema provided such patients are closely supervised with routine clinical, biochemical, and radiologic assessments. \n\nRequired room: Any office</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_MILTEFOSINE</LocID>
+			<Text>Miltefosine</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>TRT_MILTEFOSINE_DESC</LocID>
+			<Text>Miltefosine, sold under the trade name Impavido among others, is a medication mainly used to treat leishmaniasis and free-living amoeba infections such as Naegleria fowleri and Balamuthia mandrillaris. \n\nRequired room: Any office</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_ZAVESCA</LocID>
+			<Text>Zavesca</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>TRT_ZAVESCA_DESC</LocID>
+			<Text>Zavesca is a medicine that is used to treat mild to moderate type 1 Gaucher disease in adults and it is also used to treat Niemann-Pick type C. \n\nRequired room: Any office</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_BIOTIN</LocID>
+			<Text>Biotin Capsules</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>TRT_BIOTIN_DESC</LocID>
+			<Text>Biotin (vitamin B7) is a vitamin found in foods like eggs, milk, and bananas. Oral Biotin is offered as an over the counter supplement and is used in the treatment of Biotin deficiency. \n\nRequired room: Any office</Text>
+		</GameDBLocalizedString>
+
+		
+		
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_INTRAVENOUS_BERINERT</LocID>
+			<Text>Berinert</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>TRT_INTRAVENOUS_BERINERT_DESC</LocID>
+			<Text>Intravenous (IV) Infusion of Berinert(C1-INH concentrate). \n\nRequired room: Any ward / unit</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_INTRAVENOUS_PANHEMATIN</LocID>
+			<Text>Panhematin</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>TRT_INTRAVENOUS_PANHEMATIN_DESC</LocID>
+			<Text>Panhematin is a hemin for injection prescription medication used to relieve repeated attacks of acute intermittent porphyria. \n\nRequired room: Any ward / unit</Text>
+		</GameDBLocalizedString>
+
+		
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_CLOT_PREVENTING_DRUGS</LocID>
+			<Text>Anticoagulants</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>TRT_CLOT_PREVENTING_DRUGS_DESCRIPTION_V1</LocID>
+			<Text>Drugs preventing blood platelets to stick to each other and forming clots. \n\nRequired room: ICU / Office / Diagnostic unit at Cardiology dpt / General Surgery dpt / Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_DIALYSIS</LocID>
+			<Text>Dialysis</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>TRT_DIALYSIS_DESCRIPTION_V1</LocID>
+			<Text>Is a process of removing the waste products from the cells metabolism from the bloodstream, when the kidneys are not able to maintain this function. \n\nRequired room: Diagnostic unit at General Surgery dpt / Department of Diagnostics \n\nRequired equipment: Dialysis machine</Text>
+		</GameDBLocalizedString>
+			
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_INTRAVENOUS_IMMUNOGLOBULIN</LocID>
+			<Text>IV immunoglobulin</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>TRT_INTRAVENOUS_IMMUNOGLOBULIN_DESCRIPTION_V1</LocID>
+			<Text>A purified blood product containing antibodies delivered by the intravenous (IV) route. \n\nRequired room: ICU / Office/Diagnostic unit at Orthopaedy dpt / Neurology dpt / Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_DIURETICS</LocID>
+			<Text>Diuretics</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>TRT_DIURETICS_DESCRIPTION_V1</LocID>
+			<Text>Medications that lower the amount of sodium and water in the body. \n\nRequired room: ICU / Office/Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Cardiology / Neurology / Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>
+			<LocID>TRT_DEBRIDEMENT_DESCRIPTION</LocID>
+			<Text>Medical removal of death tissue. \n\nRequired room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency / Department of Diagnostics</Text>
+		</GameDBLocalizedString>
+	
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

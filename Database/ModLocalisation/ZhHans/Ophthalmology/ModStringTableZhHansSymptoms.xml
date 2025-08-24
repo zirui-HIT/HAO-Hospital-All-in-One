@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_OPHTHALMOLOGY_SYMPTOMS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>WDZRMPCBIT</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OCULAR_DRYNESS</LocID>
+        <Text>眼部干涩</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OCULAR_DRYNESS_DESCRIPTION</LocID>
+        <Text>主观感到眼睛干燥、缺乏润滑或沙涩感。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FOREIGN_BODY_SENSATION</LocID>
+        <Text>异物感</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FOREIGN_BODY_SENSATION_DESCRIPTION</LocID>
+        <Text>患者自述眼内像有砂粒或异物刮擦的不适。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BURNING_STINGING</LocID>
+        <Text>眼部灼痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BURNING_STINGING_DESCRIPTION</LocID>
+        <Text>眼表刺激引起的烧灼或针刺样疼痛。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPHOBIA</LocID>
+        <Text>畏光</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPHOBIA_DESCRIPTION</LocID>
+        <Text>光线刺激即诱发不适或加重眼痛。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLUCTUATING_VISION</LocID>
+        <Text>视力波动</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLUCTUATING_VISION_DESCRIPTION</LocID>
+        <Text>视力在一天中或用眼后明显时好时坏。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TBUT_POSITIVE</LocID>
+        <Text>泪膜破裂时间缩短</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TBUT_POSITIVE_DESCRIPTION</LocID>
+        <Text>荧光素检查示泪膜稳定性下降，提示干眼。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUDDEN_FLOATERS</LocID>
+        <Text>飞蚊骤增</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUDDEN_FLOATERS_DESCRIPTION</LocID>
+        <Text>短时间内出现或明显增多的漂浮黑影。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPSIA_FLASHES</LocID>
+        <Text>闪光感</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PHOTOPSIA_FLASHES_DESCRIPTION</LocID>
+        <Text>眼前出现闪电样光感，多与玻璃体牵拉相关。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CURTAIN_VISION_LOSS</LocID>
+        <Text>幕帘样黑影</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CURTAIN_VISION_LOSS_DESCRIPTION</LocID>
+        <Text>视野某侧出现由上/下/侧向中心推进的暗影。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ACUTE_DECREASED_VA</LocID>
+        <Text>突发视力下降</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ACUTE_DECREASED_VA_DESCRIPTION</LocID>
+        <Text>在短时间内明显降低的视力水平。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PERIPHERAL_FIELD_DEFECT</LocID>
+        <Text>周边视野缺损</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PERIPHERAL_FIELD_DEFECT_DESCRIPTION</LocID>
+        <Text>视野检查提示外周范围感受下降或缺失。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_BREAK_DETACHMENT_SEEN</LocID>
+        <Text>见视网膜裂孔/脱离</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_BREAK_DETACHMENT_SEEN_DESCRIPTION</LocID>
+        <Text>眼底检查直接观察到视网膜裂孔或抬起。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYE_PAIN</LocID>
+        <Text>眼痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYE_PAIN_DESCRIPTION</LocID>
+        <Text>眼部持续性疼痛或酸胀不适。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CILIARY_FLUSH_RED_EYE</LocID>
+        <Text>睫状充血/红眼</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CILIARY_FLUSH_RED_EYE_DESCRIPTION</LocID>
+        <Text>角膜周边紫红色充血环，提示前段炎症。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BLURRED_VISION</LocID>
+        <Text>视力模糊</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_BLURRED_VISION_DESCRIPTION</LocID>
+        <Text>看远或看近均不清晰，可能随疲劳加重。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CONSENSUAL_PHOTOPHOBIA</LocID>
+        <Text>对侧照明诱发痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CONSENSUAL_PHOTOPHOBIA_DESCRIPTION</LocID>
+        <Text>照射健眼时患眼出现疼痛或畏光加重。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ANTERIOR_CHAMBER_CELLS_FLARE</LocID>
+        <Text>前房细胞/闪辉阳性</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ANTERIOR_CHAMBER_CELLS_FLARE_DESCRIPTION</LocID>
+        <Text>裂隙灯见炎性细胞飘浮与蛋白渗出。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAINLESS_BLURRING</LocID>
+        <Text>无痛性视力下降</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAINLESS_BLURRING_DESCRIPTION</LocID>
+        <Text>缓慢进展且不伴疼痛的视物模糊。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_GLARE_HALOS_NIGHT</LocID>
+        <Text>眩光/夜间光晕</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_GLARE_HALOS_NIGHT_DESCRIPTION</LocID>
+        <Text>强光或夜间灯光周围出现耀光与光圈。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DECREASED_CONTRAST</LocID>
+        <Text>对比敏感度下降</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DECREASED_CONTRAST_DESCRIPTION</LocID>
+        <Text>物体与背景的灰阶区分能力变差。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIC_SHIFT</LocID>
+        <Text>近视移</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIC_SHIFT_DESCRIPTION</LocID>
+        <Text>屈光状态向近视方向偏移，近距离看得更清。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MONOCULAR_DIPLOPIA</LocID>
+        <Text>单眼复视</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MONOCULAR_DIPLOPIA_DESCRIPTION</LocID>
+        <Text>遮盖另一只眼后仍出现重影，多与晶体混浊相关。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LENS_OPACITY_SEEN</LocID>
+        <Text>见晶状体混浊</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LENS_OPACITY_SEEN_DESCRIPTION</LocID>
+        <Text>裂隙灯直接观察到晶状体皮质/核/后囊混浊。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_VISION_LOSS</LocID>
+        <Text>中心视力下降</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_VISION_LOSS_DESCRIPTION</LocID>
+        <Text>以中央注视区为主的视敏度降低。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_METAMORPHOPSIA</LocID>
+        <Text>视物变形</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_METAMORPHOPSIA_DESCRIPTION</LocID>
+        <Text>直线看起来弯曲或扭曲，常提示黄斑受累。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRAIGHT_LINES_WAVY</LocID>
+        <Text>直线变弯曲</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRAIGHT_LINES_WAVY_DESCRIPTION</LocID>
+        <Text>阿姆斯勒方格测试出现线条扭曲。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_SCOTOMA</LocID>
+        <Text>中心暗点</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CENTRAL_SCOTOMA_DESCRIPTION</LocID>
+        <Text>中央视野出现黑斑或缺损区域。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_READING_DIFFICULTY</LocID>
+        <Text>阅读困难</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_READING_DIFFICULTY_DESCRIPTION</LocID>
+        <Text>近距离阅读需要更强光或更大字号。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_AMD_OCT_FA_CONFIRM</LocID>
+        <Text>黄斑新生血管/渗漏</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_AMD_OCT_FA_CONFIRM_DESCRIPTION</LocID>
+        <Text>影像学发现黄斑区水肿、渗漏或新生血管。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_PAIN_TENDERNESS</LocID>
+        <Text>眼睑疼痛/压痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_PAIN_TENDERNESS_DESCRIPTION</LocID>
+        <Text>触碰睑缘时疼痛明显，多为局部炎症所致。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LOCALIZED_LID_NODULE</LocID>
+        <Text>眼睑局限性结节</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LOCALIZED_LID_NODULE_DESCRIPTION</LocID>
+        <Text>眼睑边缘出现红肿硬结，可逐渐化脓。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ORBITAL_CELLULITIS</LocID>
+        <Text>眼眶内软组织感染</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ORBITAL_CELLULITIS_DESCRIPTION</LocID>
+        <Text>眼眶内软组织感染，常伴有肿胀、压痛和发热。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_ERYTHEMA</LocID>
+        <Text>眼睑发红</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_EYELID_ERYTHEMA_DESCRIPTION</LocID>
+        <Text>局部皮肤潮红，提示炎症反应。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING</LocID>
+        <Text>流泪</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING_DESCRIPTION</LocID>
+        <Text>泪液分泌或反射性分泌增多。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PURULENT_LID_PUSTULE</LocID>
+        <Text>睑缘脓点</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PURULENT_LID_PUSTULE_DESCRIPTION</LocID>
+        <Text>睫毛根部或睑板腺口可见黄白色脓头。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLOATERS_CHANGING</LocID>
+        <Text>飞蚊症波动</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_FLOATERS_CHANGING_DESCRIPTION</LocID>
+        <Text>漂浮物数量/形态随时间或血糖波动而变化。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_NIGHT_VISION_WORSE</LocID>
+        <Text>夜间视力差</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_NIGHT_VISION_WORSE_DESCRIPTION</LocID>
+        <Text>低照度环境下视物困难，细节丢失。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_COLOR_VISION_REDUCED</LocID>
+        <Text>色觉下降</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_COLOR_VISION_REDUCED_DESCRIPTION</LocID>
+        <Text>对颜色的辨别能力减弱或褪色感。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OSCILLATING_VISION_WITH_GLUCOSE</LocID>
+        <Text>血糖相关的视力波动</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_OSCILLATING_VISION_WITH_GLUCOSE_DESCRIPTION</LocID>
+        <Text>视力随血糖水平变化而波动。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DR_FINDINGS_CONFIRMED</LocID>
+        <Text>DR 眼底体征已确认</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DR_FINDINGS_CONFIRMED_DESCRIPTION</LocID>
+        <Text>眼底或影像学见微动脉瘤、出血、渗出或新生血管。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING_EPIPHORA</LocID>
+        <Text>溢泪</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_TEARING_EPIPHORA_DESCRIPTION</LocID>
+        <Text>泪液溢出睑缘之外，多因角膜刺激或引流不畅。</Text>
+      </GameDBLocalizedString>
+
+      
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_OPACITY</LocID>
+        <Text>玻璃体混浊</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_OPACITY_DESCRIPTION</LocID>
+        <Text>玻璃体内出现混浊，可能影响视力，常见于老年人或眼部疾病患者。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_HEMORRHAGE</LocID>
+        <Text>玻璃体出血</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITREOUS_HEMORRHAGE_DESCRIPTION</LocID>
+        <Text>玻璃体内出血，可能由视网膜裂孔、糖尿病视网膜病变或外伤引起，表现为视力下降、飞蚊症或视野缺损。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_TEAR</LocID>
+        <Text>视网膜裂孔</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_TEAR_DESCRIPTION</LocID>
+        <Text>视网膜局部破裂，可能导致视网膜脱离，症状包括闪光、飞蚊与视野缺损，需及时治疗。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CORNEAL_ULCER</LocID>
+        <Text>角膜溃疡</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CORNEAL_ULCER_DESCRIPTION</LocID>
+        <Text>角膜上皮或基质的缺损，可能由感染、外伤或干眼引起，表现为疼痛、红眼、流泪和视力下降。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUBCONJUNCTIVAL_HEMORRHAGE</LocID>
+        <Text>结膜下出血</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUBCONJUNCTIVAL_HEMORRHAGE_DESCRIPTION</LocID>
+        <Text>结膜下血管破裂导致的出血，通常表现为眼白部分出现红色斑点或大片红色区域，通常无疼痛感。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTOSIS_LID_DROOP</LocID>
+        <Text>眼睑下垂</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTOSIS_LID_DROOP_DESCRIPTION</LocID>
+        <Text>上睑位置异常低下，可能影响视野与外观，常见于神经或肌肉疾病。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MGD_ORIFICE_OBSTRUCTION</LocID>
+        <Text>睑板腺开口阻塞</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MGD_ORIFICE_OBSTRUCTION_DESCRIPTION</LocID>
+        <Text>睑板腺开口被堵塞，导致油脂分泌异常，可能引起干眼症状。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTERYGIUM_GROWTH_SEEN</LocID>
+        <Text>见角膜上纤维血管性赘生物</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PTERYGIUM_GROWTH_SEEN_DESCRIPTION</LocID>
+        <Text>眼球结膜上出现翼状胬肉，可能导致视力模糊或不适，需定期监测或手术治疗。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ENTROPION_WITH_TRICHIASIS</LocID>
+        <Text>眼睑缘内翻伴倒睫</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ENTROPION_WITH_TRICHIASIS_DESCRIPTION</LocID>
+        <Text>眼睑内翻导致睫毛向内生长，可能刺激角膜，引起疼痛或不适。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ECTROPION_WITH_PUNCTAL_EVERSION</LocID>
+        <Text>眼睑缘外翻伴泪点外露</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ECTROPION_WITH_PUNCTAL_EVERSION_DESCRIPTION</LocID>
+        <Text>眼睑外翻导致泪点外露，可能引起泪液排泄异常或干眼症状。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DENDRITIC_ULCER_STAIN_POSITIVE</LocID>
+        <Text>树枝状角膜溃疡</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DENDRITIC_ULCER_STAIN_POSITIVE_DESCRIPTION</LocID>
+        <Text>荧光素染色显示角膜上皮有树枝状溃疡，常见于单纯疱疹病毒感染。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ABNORMAL_MEIBUM_EXPRESSION</LocID>
+        <Text>眼睑异常睑板腺分泌物</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_ABNORMAL_MEIBUM_EXPRESSION_DESCRIPTION</LocID>
+        <Text>眼睑部位的睑板腺分泌物异常，可能导致干眼症状或不适。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LACRIMAL_SAC_REFLUX</LocID>
+        <Text>泪囊回流</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_LACRIMAL_SAC_REFLUX_DESCRIPTION</LocID>
+        <Text>泪液从泪囊回流至鼻腔，可能提示泪道阻塞或感染。</Text>
+      </GameDBLocalizedString>
+
+      
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIA_DEFINING</LocID>
+        <Text>远视力下降，负球镜矫正后显著改善</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_MYOPIA_DEFINING_DESCRIPTION</LocID>
+        <Text>看远处模糊，但加入负球镜后视力明显提高；为屈光性近视的定义性特征，可与远视/老视区分。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SQUINTING_FOR_DISTANCE</LocID>
+        <Text>看远处时眯眼</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SQUINTING_FOR_DISTANCE_DESCRIPTION</LocID>
+        <Text>为提高景深并减少像差，患者在观看远处目标时不自觉眯眼，主观能稍改善清晰度。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_POOR_STEREOPSIS</LocID>
+        <Text>立体视差差</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_POOR_STEREOPSIS_DESCRIPTION</LocID>
+        <Text>双眼视融合受限导致立体觉下降或缺失，常见于弱视或斜视人群，可影响精细操作与距离判断。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRABISMUS_PRESENT</LocID>
+        <Text>可见斜视</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_STRABISMUS_PRESENT_DESCRIPTION</LocID>
+        <Text>一眼注视目标时另一眼出现偏斜，可表现为内斜、外斜或垂直偏斜，常伴复视或抑制。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUPPRESSION_SCOTOMA</LocID>
+        <Text>抑制性暗点</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SUPPRESSION_SCOTOMA_DESCRIPTION</LocID>
+        <Text>为避免复视，大脑主动抑制一眼成像而形成的功能性暗点，多见于弱视/斜视患者。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SCISSORING_REFLEX</LocID>
+        <Text>检影剪刀样反光</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_SCISSORING_REFLEX_DESCRIPTION</LocID>
+        <Text>检影时红光反射呈分离并交叉的剪刀样改变，提示不规则散光，常见于圆锥角膜。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_WEISS_RING_SEEN</LocID>
+        <Text>可见 Weiss 环</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_WEISS_RING_SEEN_DESCRIPTION</LocID>
+        <Text>视乳头前方可见环状混浊（Weiss 环），多提示玻璃体后脱离，需警惕伴发视网膜裂孔。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_NEOVASCULARIZATION</LocID>
+        <Text>视网膜新生血管</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_NEOVASCULARIZATION_DESCRIPTION</LocID>
+        <Text>缺血刺激形成的异常脆弱血管，易出血与牵拉，常见于增殖期糖尿病视网膜病变。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_SEEN</LocID>
+        <Text>可见脉络膜黄白病灶</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_SEEN_DESCRIPTION</LocID>
+        <Text>眼底见黄白色病灶，边界可模糊，可伴视网膜/脉络膜反应，提示脉络膜炎或相关疾病。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_ACTIVE</LocID>
+        <Text>活动性脉络膜病灶</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_CHOROIDAL_LESIONS_ACTIVE_DESCRIPTION</LocID>
+        <Text>影像学提示病灶处于活动期，常伴渗出、荧光渗漏或邻近玻璃体炎细胞增加。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITRITIS_ACTIVE_CELLS</LocID>
+        <Text>玻璃体炎细胞（+）</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_VITRITIS_ACTIVE_CELLS_DESCRIPTION</LocID>
+        <Text>裂隙灯/眼底检查可见玻璃体腔内悬浮炎症细胞与混浊，常提示后段葡萄膜炎活动。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RAPD_POSITIVE</LocID>
+        <Text>RAPD 阳性</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RAPD_POSITIVE_DESCRIPTION</LocID>
+        <Text>摆动电筒试验提示相对传入性瞳孔缺陷，多见于单眼（或不对称）视神经病变。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAIN_WITH_EYE_MOVEMENT</LocID>
+        <Text>眼球转动痛</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_PAIN_WITH_EYE_MOVEMENT_DESCRIPTION</LocID>
+        <Text>在转动眼球时出现眶后或眼后疼痛感，常与视神经及其鞘膜的炎症相关。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DYSCHROMATOPSIA</LocID>
+        <Text>色觉减退</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_DYSCHROMATOPSIA_DESCRIPTION</LocID>
+        <Text>颜色分辨与饱和度感知下降，常累及红绿色谱，也可伴对比敏感度降低。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM</LocID>
+        <Text>检测到弱视</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM_DESCRIPTION</LocID>
+        <Text>排除角膜、晶状体、玻璃体与视网膜等器质性病变后仍存在的视力低下，符合弱视诊断要点。</Text>
+      </GameDBLocalizedString>
+
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_MICROANEURYSMS</LocID>
+        <Text>眼底微动脉瘤</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_OPH_RETINAL_MICROANEURYSMS_DESCRIPTION</LocID>
+        <Text>眼底镜下可见细小的红色点状病灶（微动脉瘤），多位于后极部；提示轻度糖尿病视网膜病变，通常无新生血管。</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_RU_ADDON_UR_BUILDING_MODE">
+<LanguageCode>ru</LanguageCode>
+<LanguageNameLocalized>Русский</LanguageNameLocalized>
+<Contributors>
+<Name>Anubis</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_UR</LocID>       			
+		<Text>Урология</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DESC</LocID>       
+		<Text>Настенный знак</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1</LocID>       			
+		<Text>Плакат месяца урологического здоровья</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC1_DESC</LocID>       
+		<Text>Плакат, рекламирующий важность вашего урологического здоровья</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2</LocID>       			
+		<Text>Плакат урологических заболеваний</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC2_DESC</LocID>       
+		<Text>Плакат со всеми видами заболеваний мочеполовой системы</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3</LocID>       			
+		<Text>Урологический плакат цвет мочи</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>MOD_OBJECT_UR_PIC3_DESC</LocID>       
+		<Text>Плакат, объясняющий разные цвета мочи</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE</LocID>                          	
+		<Text>Кабинет уролога</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_UR_OFFICE_DESC</LocID>              	
+		<Text>Кабинет врача, специализирующийся на урологии. \n\nМин. требования к персоналу: \n1x врач</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE</LocID>                          	
+		<Text>Кабинет нефролога</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_NF_OFFICE_DESC</LocID>              	
+		<Text>Кабинет врача, специализирующийся на нефрологии. \n\nМин. требования к персоналу: \n1x врач</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD</LocID>                          	
+		<Text>Палата диализа</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIA_WARD_DESC</LocID>              	
+		<Text>Палата диализа для пациентов урологии, которым требуется диализ. \n\nМин. требования к персоналу: \n1x врач \n1x медсестра \n(Персонал, работающий в оридинаторской и посту медсестер)</Text>  
+	</GameDBLocalizedString>
+	
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

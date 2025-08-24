@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_GYNECOLOGIE_DIAGNOSES">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+    </Contributors>
+    <LocalizedStrings>
+      
+      <GameDBLocalizedString>
+        <LocID>DIA_GEU</LocID>
+        <Text>Ektopik gebelik</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GEU_DESCRIPTION</LocID>
+        <Text>Döllenmiş yumurtanın uterus dışında (tuba uterina veya peritoneal kavite gibi) bir yerde implante olması.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SOPK</LocID>
+        <Text>PKOS</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SOPK_DESCRIPTION</LocID>
+        <Text>Polikistik over sendromu. Amenore, hirsutizm, obezite, infertilite ve ovaryen büyüme ile karakterize, çeşitlilik gösteren bir hastalıktır. Artan lüteinizan hormon, androjen ve östrojen seviyelerine bağlı hipofizden salınan gonadotropin pulsasyonu bozulur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SD_PREMENSTRUEL</LocID>
+        <Text>Premenstrüel sendrom</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SD_PREMENSTRUEL_DESCRIPTION</LocID>
+        <Text>Menstrüasyondan önce gelişen ve çeşitlilik gösteren semptomları tanımlar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MENOPAUSE</LocID>
+        <Text>Menopoz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MENOPAUSE_DESCRIPTION</LocID>
+        <Text>Menstrüasyonun doğal nedenlerle kesilmesidir. Genellikle 45-55 yaşları arasında gerçekleşir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ENDOMETRIOSE</LocID>
+        <Text>Endometriozis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ENDOMETRIOSE_DESCRIPTION</LocID>
+        <Text>Uterus dışında işlevsel endometriyal dokuların ektopik olarak bulunmasıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_FIBROME_SS</LocID>
+        <Text>Subseröz fibroma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_FIBROME_SM</LocID>
+        <Text>Submüköz fibroma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_FIBROME_I</LocID>
+        <Text>İnterstisyel fibroma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_FIBROME_UTERIN_DESCRIPTION</LocID>
+        <Text>Esasen fibröz dokulardan oluşan benign bir tümördür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_KYSTE_OVARIEN1</LocID>
+        <Text>Organik over kisti</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_KYSTE_OVARIEN1_DESCRIPTION</LocID>
+        <Text>Over kisti, overde bulunan içi sıvı dolu kesedir. Organik kistler komplike veya dejenere olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_KYSTE_OVARIEN2</LocID>
+        <Text>Fonksiyonel over kisti</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_KYSTE_OVARIEN2_DESCRIPTION</LocID>
+        <Text>Over kisti, overde bulunan içi sıvı dolu kesedir. Fonksiyonel kistler menstrüel siklustaki hormonal değişikliklere bağlı büyüyebilirler.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TORSION_KYSTE_OVARIEN</LocID>
+        <Text>Over torsiyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TORSION_KYSTE_OVARIEN_DESCRIPTION</LocID>
+        <Text>Over torsiyonu, kendisini destekleyen yapılarla birlikte overin kendi etrafında dönmesidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ABCES_OVARIEN</LocID>
+        <Text>Over absesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ABCES_OVARIEN_DESCRIPTION</LocID>
+        <Text>Over absesi, overde içi iltihap ile dolu kese bulunmasıdır. Genellikle bakteriyal kaynaklı gelişir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_PROLAPSUS_GENITAL</LocID>
+        <Text>Prolapsus</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_PROLAPSUS_GENITAL_DESCRIPTION</LocID>
+        <Text>Bir organın olması gereken yerden aşağıya doğru yer değiştirmesidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GONOCOCCIE</LocID>
+        <Text>Gonore</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GONOCOCCIE_DESCRIPTION</LocID>
+        <Text>Gonokokların neden olduğu genital mukoza inflamasyonudur, bulaşıcıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CHLAMYDIOSE</LocID>
+        <Text>Klamidya</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CHLAMYDIOSE_DESCRIPTION</LocID>
+        <Text>Chlamydia bakterisinin neden olduğu hastalıktır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SYPHILIS</LocID>
+        <Text>Sifiliz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SYPHILIS_DESCRIPTION</LocID>
+        <Text>Genellikle cinsel ilişkiyle bulaşan ama konjenital de olabilen kronik bulaşıcı bir hastalıktır, etkeni Treponema pallidum'dur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TRICHOMONOSE</LocID>
+        <Text>Trikomoniazis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TRICHOMONOSE_DESCRIPTION</LocID>
+        <Text>Trichomonas'ın etken olduğu hastalık veya enfeksiyondur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MYCOSE</LocID>
+        <Text>Vajinal mikozis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MYCOSE_DESCRIPTION</LocID>
+        <Text>Mantar enfeksiyonu veya hastalığıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_IGE</LocID>
+        <Text>Pelvik inflamatuar hastalık</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_IGE_DESCRIPTION</LocID>
+        <Text>Üst genital sistem (tuba uterina ve overler gibi) inflamasyonudur. Genellikle cinsel yolla bulaşan bir hastalığa sekonder gelişir, infertiliteye yol açabilir. </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GROSSESSE</LocID>
+        <Text>Gebelik</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GROSSESSE_DESCRIPTION</LocID>
+        <Text>Gebe olma halini tanımlar.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>DIA_COL_UTERUS_BENIN</LocID>
+        <Text>Premalign serviks lezyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_COL_UTERUS_BENIN_DESCRIPTION</LocID>
+        <Text>Kansere dönüşme riski yüksek olan serviksteki hücresel değişikliklerdir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CERVICITE</LocID>
+        <Text>Servisit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CERVICITE_DESCRIPTION</LocID>
+        <Text>Serviks inflamasyonudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_POLYPE_COL</LocID>
+        <Text>Servikal polip</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_POLYPE_COL_DESCRIPTION</LocID>
+        <Text>Müköz membrandan büyüyen saplı yapılardır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_COL_UTERUS</LocID>
+        <Text>Serviks kanseri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_COL_UTERUS_DESCRIPTION</LocID>
+        <Text>Serviksten kaynaklanan bir kanser türüdür. İnvazyon ve vücudun diğer kısımlarına yayılma yeteneğine sahip hücrelerin anormal proliferasyonudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_CORPS_UTERUS</LocID>
+        <Text>Uterus kanseri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_CORPS_UTERUS_DESCRIPTION</LocID>
+        <Text>Rahim kanseri en sık karşılaşılan kadın genital kanserlerinden biridir, menopoza girmiş kadınlarda daha sık görülür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_RUPTURE_KYSTE_OVARIEN</LocID>
+        <Text>Rüptüre over kisti</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_RUPTURE_KYSTE_OVARIEN_DESCRIPTION</LocID>
+        <Text>Overde bulunan içi sıvı dolu, benign kitlenin yırtılmasıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_OVAIRE</LocID>
+        <Text>Over kanseri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_OVAIRE_DESCRIPTION</LocID>
+        <Text>Overden kaynaklanan bir kanser türüdür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ADENOFIBROME</LocID>
+        <Text>Fibroadenom</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ADENOFIBROME_DESCRIPTION</LocID>
+        <Text>Memede gelişen ve tipik olarak kadınlarda gelişen bir çeşit kitledir. Sık görülürler, benign niteliktedirler, kanserleşmezler.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MFK</LocID>
+        <Text>Fibrokistik meme</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MFK_DESCRIPTION</LocID>
+        <Text>Memenin topaklı bir görünüm kazandığı bir durumdur, benigndir. Tehlike arz etmez, ancak rahatsızlık verebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_SEIN</LocID>
+        <Text>Meme kanseri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_K_SEIN_DESCRIPTION</LocID>
+        <Text>Memedeki hücrelerin kontrolsüz çoğalmaları ile karakterizedir. Memenin farklı yerlerinden gelişebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_HTA_G</LocID>
+        <Text>GHT</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_HTA_G_DESCRIPTION</LocID>
+        <Text>Gestasyonel hipertansiyon, gebelikte yüksek kan basıncı ile karakterize bir durumdur. Ciddi bir komplikasyon olan preeklampsiye dönüşebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_DG</LocID>
+        <Text>GDM</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_DG_DESCRIPTION</LocID>
+        <Text>Gestasyonel diyabet, gebelikte ortaya çıkan glukoz intoleransıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CHORIOAMNIOTITE</LocID>
+        <Text>Koryoamniyonit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CHORIOAMNIOTITE_DESCRIPTION</LocID>
+        <Text>Doğumda veya doğumdan önce gerçekleşen bakteriyal enfeksiyondur. Fetüsü çevreleyen membranlardan adını alır: Koryon (dış membran) ve amniyon (içi sıvı dolu kese).</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CA_G</LocID>
+        <Text>Gebelik sistiti</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CA_G_DESCRIPTION</LocID>
+        <Text>Sistit mesane enfeksiyonudur, idrar yaparken yanma hissine neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_PNA_G</LocID>
+        <Text>Gebelik pyelonefriti</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_VAGINOSE</LocID>
+        <Text>Gebelik vajinozisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_VAGINOSE_DESCRIPTION</LocID>
+        <Text>Kokulu beyaz bir akıntıya neden olan vajinanın bakteriyal enfeksiyonudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_BABY_BLUES</LocID>
+        <Text>Annelik hüznü</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_BABY_BLUES_DESCRIPTION</LocID>
+        <Text>Annenin doğumdan sonra hissettiği ve genellikle iki haftadan kısa süren üzüntü duygusudur. Tam olarak bir hastalık veya psikiyatrik bir tanı değildir, doğumdan sonra ortaya çıkan ve birkaç gün içinde geçen nahoş hisleri tarifler.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_DEPRESSION_PP</LocID>
+        <Text>Postpartum depresyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_DEPRESSION_PP_DESCRIPTION</LocID>
+        <Text>Postpartum depresyon doğumdan sonra anneyi etkileyen bir ruh hali bozukluğudur. Aşırı üzüntü, anksiyete ve tükenmişlik hissi mevcuttur, annenin günlük aktivitelerini yapmasına engel olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_EA_PP</LocID>
+        <Text>Postpartum endometrit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_EA_PP_DESCRIPTION</LocID>
+        <Text>Postpartum endometrit, desidua enfeksiyonunu tarifler.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_EM_PP</LocID>
+        <Text>Meme angorjmanı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_EM_PP_DESCRIPTION</LocID>
+        <Text>Meme angorjmanı, memede çok miktarda süt birikmesidir ve ağrılı bir durumdur. Sıklıkla bebeğin ihtiyacından daha fazla süt üretildiği zaman ortaya çıkar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CM_PP</LocID>
+        <Text>Meme ucu çatlağı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CM_PP_DESCRIPTION</LocID>
+        <Text>Meme ucu çatlağı, emziren annelerde çeşitli nedenlerden ötürü ortaya çıkabilen bir durumdur. Emzirme sırasında ağrıya, kuruluğa, iritasyona veya kanamaya sebep olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_LM_PP</LocID>
+        <Text>Mastit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_LM_PP_DESCRIPTION</LocID>
+        <Text>Mastit, meme dokusunun inflamasyonudur, bazen enfeksiyon eşlik edebilir. İnflamasyon memede ağrıya, ödeme, ısı artışına ve kızarıklığa neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GALACTOPHORITE</LocID>
+        <Text>Enfeksiyöz mastit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_GALACTOPHORITE_DESCRIPTION</LocID>
+        <Text>Bakteriyal enfeksiyona bağlı gelişen meme dokusu inflamasyonudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ABCES_MAMMAIRE</LocID>
+        <Text>Meme absesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ABCES_MAMMAIRE_DESCRIPTION</LocID>
+        <Text>Meme absesi, memede iltihap toplanmasıdır. Çoğunluğu derinin hemen altında ortaya çıkar ve bakteriyal enfeksiyona sekonder gelişir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TVP_PP</LocID>
+        <Text>Postpartum DVT</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TVP_PP_DESCRIPTION</LocID>
+        <Text>Derin ven trombozu veya DVT, derin venlerde kan pıhtısı oluşmasıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TVPELV</LocID>
+        <Text>Pelvik ven trombozu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_TVPELV_DESCRIPTION</LocID>
+        <Text>Pelvik ven trombozu, ovaryen ven trombozunu, derin pelvik ven trombozunu ve/veya septik pelvik tromboflebiti ihtiva edebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_AMENORHEE_HF</LocID>
+        <Text>FHA</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_AMENORHEE_HF_DESCRIPTION</LocID>
+        <Text>Fonksiyonel hipotalamik amenore (FHA) organik olmayan ve düzeltilebilen bir bozukluktur, gonadotropin-releasing hormonun (GnRH) pulsatil sekresyonundaki bozukluk kilit rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MOLE_HYDATIFORME</LocID>
+        <Text>Molar gebelik</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_MOLE_HYDATIFORME_DESCRIPTION</LocID>
+        <Text>Molar gebelik, yaşamla bağdaşmayan fertilize yumurtanın uterus'a implante olması sonucu gelişen anormal bir gebelik türüdür. Aynı zamanda bir çeşit gestasyonel trofoblastik hastalıktır, uterus'ta ödemli koryon villus içeren bir kitleye dönüşür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_NECROBIOSE_ASEPTIQUE</LocID>
+        <Text>Aseptik nekrobiosis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_NECROBIOSE_ASEPTIQUE_DESCRIPTION</LocID>
+        <Text>Aseptik nekrobiosis, hyalinize myomun aşırı büyüyüp yeterli kanlanma sağlayamamasından ötürü iskemik nekroza gitmesi sonucu gelişir, neticede hemorajik infarkt ve kırmızı dejenerasyon gözlemlenir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ADENOMYOSE</LocID>
+        <Text>Adenomyozis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ADENOMYOSE_DESCRIPTION</LocID>
+        <Text>Adenomyozis, endometriyal dokunun (uterus'u döşeyen tabaka) anormal bir şekilde myometriyum'da (uterus'un kalın müsküler tabakası) olması anlamına gelir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SD_SHEEHAN</LocID>
+        <Text>Sheehan sendromu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_SD_SHEEHAN_DESCRIPTION</LocID>
+        <Text>Postpartum hipofiz bezi nekrozu olarak da bilinen Sheehan sendromu, doğumdan sonra kan kaybı ve hipovolemik şoka bağlı hipofiz'in iskemik nekrozundan kaynaklanır, hipopitüitarizm (hipofiz bezinin işlevinde azalma) gözlemlenir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_HYPOPHYSITE_POST_PARTUM</LocID>
+        <Text>Postpartum hipofizer hipofizit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_HYPOPHYSITE_POST_PARTUM_DESCRIPTION</LocID>
+        <Text>Hipofizer inflamatuar bozukluktur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CHOC_TOXIQUE_SD</LocID>
+        <Text>Toksik şok sendromu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_CHOC_TOXIQUE_SD_DESCRIPTION</LocID>
+        <Text>Toksik şok sendromu, bakteriyal toksinlerin neden olduğu bir hastalıktır.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_IU_EFFORT</LocID>
+        <Text>Stres inkontinans</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_IU_EFFORT_DESCRIPTION</LocID>
+        <Text>Stres inkontinans; gülme, öksürme, hapşırma, spor yapma gibi intraabdominal basıncı arttıran hadiseler sırasında aniden istemsiz idrar kaçırmayı ifade eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE</LocID>
+        <Text>Aşırı aktif mesane</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_IU_HYPERACTIVITE_VESICALE_DESCRIPTION</LocID>
+        <Text>Aşırı aktif mesane, aniden duyulan ve baskılanamayan işeme ihtiyacını takiben istemsiz ve eforsuz idrar kaçırmayı ifade eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_SALPINGITE</LocID>
+        <Text>Salpenjit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_SALPINGITE_DESCRIPTION</LocID>
+        <Text>Salpenjit, tuba uterina'nın enfeksiyon ve inflamasyonudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_ENDOMETRITE</LocID>
+        <Text>Endometrit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_OBGYN_ENDOMETRITE_DESCRIPTION</LocID>
+        <Text>Endometrit, uterus'u içten döşeyen tabakanın inflamasyonudur.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRM_HGEN</LocID>
+        <Text>Jinekolojik kanama</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HGEN_DESCRIPTION</LocID>
+        <Text>Jinekolojik kanama, kadın genital sistemindeki aşırı kanamayı tanımlar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_PLACENTA_PRAEVIA</LocID>
+        <Text>Plasenta previa</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_PLACENTA_PRAEVIA_DESCRIPTION</LocID>
+        <Text>Plasentanın, serviksin internal os'unda veya yakınında yerleşmesidir. Doğumda bebeğin önünde yer aldığı için ciddi maternal kanamaya sebebiyet verebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HEMATOME_RETROPLACENTAIRE</LocID>
+        <Text>Retroplasental hematom</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HEMATOME_RETROPLACENTAIRE_DESCRIPTION</LocID>
+        <Text>Retroplasental hematom tamamen plasentanın arkasında gelişir ve gestasyonel keseye temas etmez.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_MAP</LocID>
+        <Text>Erken doğum tehdidi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_MAP_DESCRIPTION</LocID>
+        <Text>Preterm doğum immatüriteye neden olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_PREECLAMPSIE</LocID>
+        <Text>Preeklampsi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_PREECLAMPSIE_DESCRIPTION</LocID>
+        <Text>Gebeliğin geç evrelerinde ortaya çıkan ciddi bir durumdur. Kan basıncında ani artış, aşırı kilo alımı, jeneralize ödem, proteinüri, ciddi baş ağrısı ve görme bozuklukları ile karakterizedir, tedavi edilmezse eklampsiye neden olabilir.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRM_DEC_TROPHOB</LocID>
+        <Text>Gestasyonel trofoblastik dekolman</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_DEC_TROPHOB_DESCRIPTION</LocID>
+        <Text>Gestasyonel 24. haftadan önce gelişen gebelik kanamasıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HDELIVRANCE</LocID>
+        <Text>Postpartum kanama</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HDELIVRANCE_DESCRIPTION</LocID>
+        <Text>Postpartum kanama bir obstetrik acildir. Vajinal doğumdan sonra 500 mL'den fazla, sezaryen doğumdan sonra ise 1000 mL'den fazla kan kaybı şeklinde tanımlanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_PPCF</LocID>
+        <Text>Postpartum psikoz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_PPCF_DESCRIPTION</LocID>
+        <Text>Postpartum psikoz, doğumdan sonra ortayan çıkan ciddi bir ruhsal hastalık türüdür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HELLP_SYNDROME</LocID>
+        <Text>HELLP sendromu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_HELLP_SYNDROME_DESCRIPTION</LocID>
+        <Text>HELLP sendromu bir gebelik komplikasyonudur; hemoliz, artmış karaciğer enzimleri düzeyleri ve azalmış platelet düzeyleri ile karakterizedir. Sıklıkla gebeliğin son üç haftasında veya doğumdan sonra ortaya çıkar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_RUPTURE_UTERUS</LocID>
+        <Text>Uterin rüptür</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRM_RUPTURE_UTERUS_DESCRIPTION</LocID>
+        <Text>Uterin rüptür, gebelik sırasında veya doğumda uterus'un müsküler tabakasının yırtılmasıdır.</Text>
+      </GameDBLocalizedString>
+	  
+	  
+    
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I</LocID>									<Text>Sifiliz (I)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_I_DESCRIPTION</LocID>						<Text>Primary syphilis is marked, after about 3 weeks of silent incubation, by the appearance of the chancre at the point of inoculation of the treponema and its lymphadenopathy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II</LocID>								<Text>Sifiliz (II)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>DIA_OBGYN_SYPHILIS_II_DESCRIPTION</LocID>					<Text>Secondary syphilis is marked by several mucocutaneous rashes interspersed with asymptomatic phases of a few weeks or months and last two years on average. General and visceral signs are associated with it, which testify to the systematic spread of treponema.</Text>	</GameDBLocalizedString>
+	  
+	  
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

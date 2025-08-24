@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <GameDBObject ID="OBJECT_ENT_OBJECT_POLYSOMGRAPH">
+        <AbbreviationLocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_SMALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_64</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>494</TextureIDNW>
+        <TextureIDNE>495</TextureIDNE>
+        <TextureIDSE>496</TextureIDSE>
+        <TextureIDSW>497</TextureIDSW>
+        <IconIndex>779</IconIndex>
+        <UseOffsetXNW>-0.35</UseOffsetXNW>
+
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AttachedToObject>true</AttachedToObject>
+        <AllowsObjectsOnWallsAbove>false</AllowsObjectsOnWallsAbove>
+
+        <UseAnimations>
+            <Animation>use_equipment_low</Animation>
+        </UseAnimations>
+
+        <Tags>
+            <Tag>ui_equipment</Tag>
+            <Tag>ui_polysomnograph</Tag>
+            <Tag>polysomnograph</Tag>
+        </Tags>
+
+        <Cost>199</Cost>
+    </GameDBObject>
+
+</Database>

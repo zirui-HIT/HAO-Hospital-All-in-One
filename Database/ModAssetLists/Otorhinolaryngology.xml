@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+	<GameDBAsset ID="ASSET_OR_DECAL_ENT">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_decal_ent.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_TEX_ENT_DECALS">
+		<Type>TEXTURE_OBJECTS</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_decals_2048_atlas.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_COVID_POSTER">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_object_jm_covid19_poster.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_BAMBOO_PLANT">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_object_jm_bamboo_plant.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EMPTY_SHELF">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_object_jm_empty_shelf.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SHELF">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_object_jm_shelf.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_STREP_POSTER">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_object_jm_strep_poster.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_TEX_ENT_OBJECTS_TALL">
+		<Type>TEXTURE_OBJECTS</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_objects_tall_atlas.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_MOD_ICON_OR">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_skill_icon_or.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_MOD_ICON_OR_DARK">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_skill_icon_or_dark.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_0">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_0.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_1">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_1.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_2">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_2.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_3">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_3.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_4">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_4.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_5">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_5.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DPT_ICON_6">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_dept_icon_6.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON001_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_chronic_sinusitisa.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON001_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_chronic_sinusitisb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON002_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_gerda.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON002_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_gerdb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON003_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_throat_cancera.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON003_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_throat_cancerb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON004_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_nose_cancera.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON004_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_nose_cancerb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON005_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_ear_cancera.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON005_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_ear_cancerb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON006_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_severed_eara.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON006_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_jm_severed_earb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON007_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_sl_nseptal1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_DIA_ICON007_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/dia_sl_nseptal1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON001_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_blunt_larynx_trauma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON001_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_blunt_larynx_trauma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON002_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_larynx_trauma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON002_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_larynx_trauma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON003_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_diphtheriae1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON003_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_diphtheriae1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON004_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_dry_mouth1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON004_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_dry_mouth1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON005_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_hpv1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON005_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_hpv1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON006_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_larynx_nodules1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON006_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_larynx_nodules1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON007_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_mucus1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON007_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_mucus1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON008_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nasalpolyps1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON008_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nasalpolyps1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON009_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_runnynose1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON009_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_runnynose1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON010_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_staphylo1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON010_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_staphylo1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON011_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_swollen_neck1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON011_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_swollen_neck1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON012_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_sinus_findings1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON012_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_sinus_findings1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON013_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_hemorrhagic_vpolyp1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON013_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_hemorrhagic_vpolyp1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON014_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_mouth_drainage1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON014_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_mouth_drainage1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON015_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_lump_in_throat1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON015_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_lump_in_throat1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON016_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_larynx_paralysis1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON016_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_larynx_paralysis1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON017_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_throat_sqcll_carcinoma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON017_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_throat_sqcll_carcinoma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON018_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_pressure1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON018_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_pressure1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON020_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_foreign_object_ear1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON020_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_foreign_object_ear1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON021_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_vestibular_neuritis1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON021_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_vestibular_neuritis1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON022_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_deviated_nasal_septum1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON022_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_deviated_nasal_septum1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON023_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_damage1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON023_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_damage1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON024_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_dry_nose1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON024_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_dry_nose1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON025_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nasal_cycle1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON025_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nasal_cycle1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON026_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_damage1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON026_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_damage1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON027_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_throat_adenocarcinoma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON027_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_throat_adenocarcinoma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON028_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_pain1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON028_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_pain1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON029_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_pain1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON029_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_pain1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON030_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_pressure1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON030_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_pressure1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON031_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_laceration1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON031_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_laceration1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON032_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_cleft_lip1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON032_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_cleft_lip1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON033_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_inflammation1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON033_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_inflammation1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON034_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_labyrinthitis1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON034_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_ear_labyrinthitis1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON035_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_melanoma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON035_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_melanoma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON036_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_sqcll_carcinoma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON036_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_nose_sqcll_carcinoma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON037_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_otophyma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON037_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_otophyma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON038_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_overuse_larynx1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON038_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_overuse_larynx1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON039_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_reinkes_edema1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON039_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_reinkes_edema1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON040_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_rhinophyma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON040_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_rhinophyma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON041_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_septal_perforation1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON041_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_septal_perforation1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON042_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_throat_melanoma1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON042_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_throat_melanoma1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON043_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_weakness1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_SYM_ICON043_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_jm_face_weakness1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_005">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_metasta.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_006">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_metastb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_PNIa.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_PNIb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_023">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_nervea.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_024">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_nerveb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_025">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_aniflexa.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_026">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_aniflexb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_291">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_speech1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_SYM_ICON_292">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/sym_sl_speech1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_CRPJ_TRT_ICON_009">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_sl_epipena.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_TRT_ICON_010">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_sl_epipenb.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_TRT_ICON_013">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_sl_activemon1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_CRPJ_TRT_ICON_014">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_sl_activemon1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON001_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_adenoidectomy1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON001_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_adenoidectomy1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON002_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_lots1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON002_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_lots1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON003_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_nerve_surgery1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON003_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_nerve_surgery1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON004_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_papilloma_removal_surgery1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON004_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_papilloma_removal_surgery1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON005_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_gum1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON005_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_gum1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON006_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_hearing_aid1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_TRT_ICON006_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/trt_jm_hearing_aid1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON001_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_swab1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON001_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_swab1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON002_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_otoscopy1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON002_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_otoscopy1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON003_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_rhinoscopy1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON003_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_rhinoscopy1b.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON004_LARGE">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_laryngoscopy1a.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_EXM_ICON004_SMALL">
+		<Type>TEXTURE_CUSTOM_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/exm_jm_laryngoscopy1b.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ENT_OFFICE_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_ent_office_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ENT_OFFICE_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_ent_office_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ENT_OFFICE_MODERN">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_ent_office_modern.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_DIAGNOSTIC_UNIT_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_diagnostic_unit_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_DIAGNOSTIC_UNIT_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_diagnostic_unit_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_DIAGNOSTIC_UNIT_MODERN">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_diagnostic_unit_modern.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_AUDIOGRAM_UNIT_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_audiogram_unit_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_AUDIOGRAM_UNIT_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_audiogram_unit_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_SLEEP_LAB">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_or_sleep_lab.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_CLEANING_CLOSET">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_cleaning_closet.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_COMMON_ROOM">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_common_room.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_HDU_WARD_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_high_priority_ward_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_HDU_WARD_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_high_priority_ward_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_WARD_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_inpatient_ward_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_WARD_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_inpatient_ward_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_NURSES_STATION_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_nurses_station_large_gs.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_NURSES_STATION_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_nurses_station_small_gs.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ONCALL_ROOM_LARGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_on_call_room_large_gs.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ONCALL_ROOM_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_on_call_room_small_gs.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_OPERATING_THEATRE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_operating_theatre_gs.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_SONOGRAPHY_UNIT">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_sonography_unit_gs.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_RESTROOM">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_restroom.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_RESTROOM_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_restroom_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_LOUNGE">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_lounge.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ENDO">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_ent_endo_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_ENDO_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_ent_endo_small.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_LAB">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_ent_lab_large.png</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_OR_PREFAB_LAB_SMALL">
+		<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>
+		<File>MOD_ROOT/Assets/Otorhinolaryngology/mod_prefab_ent_lab_small.png</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_OUTPATIENT_ENT_OFFICE_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_ent_office_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_OUTPATIENT_ENT_OFFICE_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_ent_office_large.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_OUTPATIENT_ENT_OFFICE_MODERN">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_ent_office_modern.xml</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_AUDIOGRAM_UNIT_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_audiogram_unit_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_AUDIOGRAM_UNIT_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_audiogram_unit_large.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_SLEEP_LAB">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_sleep_lab.xml</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_INPATIENT_ENT_OFFICE_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_diagnostic_unit_large.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_INPATIENT_ENT_OFFICE_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_diagnostic_unit_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_INPATIENT_ENT_OFFICE_MODERN">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_diagnostic_unit_modern.xml</File>
+	</GameDBAsset>
+
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_CLEANING_CLOSET">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_cleaning_closet.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_COMMON_ROOM">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_common_room.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_HDU_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_high_priority_ward_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_HDU_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_high_priority_ward_large.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_WARD_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_inpatient_ward_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_WARD_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_inpatient_ward_large.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_ONCALL_ROOM_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_on_call_room_small_gs.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_ONCALL_ROOM_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_on_call_room_large_gs.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_NURSES_STATION_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_nurses_station_small_gs.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_NURSES_STATION_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_nurses_station_large_gs.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_OPERATING_THEATRE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_operating_theatre_gs.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_RESTROOM">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_restroom.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_RESTROOM_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_restroom_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_SONOGRAPHY">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_sonography_unit_gs.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_LOUNGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_lounge.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_ENDOSCOPY_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_endoscopy_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_ENDOSCOPY_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_endoscopy_large.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_LAB_SMALL">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_lab_small.xml</File>
+	</GameDBAsset>
+
+	<GameDBAsset ID="ASSET_PREFAB_OT_LAB_LARGE">
+		<Type>PREFAB</Type>
+		<File>MOD_ROOT/Prefab/Otorhinolaryngology/ot_lab_large.xml</File>
+	</GameDBAsset>
+
+</Database>

@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_URKN_DIAGNOSES">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Knabbel</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_TT</LocID>                               
+		<Text>Testicular torsion</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_TT_DESC</LocID>                   
+		<Text>Testicular torsion occurs when the spermatic cord twists, cutting off the blood supply to the testicle</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI</LocID>                               
+		<Text>Epididymitis</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI_DESC</LocID>                   
+		<Text>Epididymitis is an inflammation of the coiled tube the epididymis at the back of the testicle that stores and carries sperm. Males of any age can get epididymitis, although it is more common in younger man.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI_ORCH</LocID>                               
+		<Text>Epididymitis orchitis</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_EPI_ORCH_DESC</LocID>                   
+		<Text>Epididymitis is an inflammation of the coiled tube the epididymis at the back of the testicle that stores and carries sperm, together with an inflammation and often caused by the testis. Males of any age can get epididymitis orchitis, although it's more common in younger man.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_1</LocID>                               
+		<Text>Seminoma testicular cancer: stage I </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_1_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Seminoma means it's only one type of cancercell. Stage I means that the cancer remains localized to the testis.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_2</LocID>                               
+		<Text>Seminoma testicular cancer: stage II</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_2_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Seminoma means it's only one type of cancercell. Stage II means that the cancer involves the testis and metastasis in the lymph nodes below the diaphragm.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_3</LocID>                               
+		<Text>Seminoma testicular cancer: stage III</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_3_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Seminoma means it's only one type of cancercell. Stage III means that the cancer involves the testis and metastasis in the lymph nodes below as well as above the diaphragm.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_4</LocID>                               
+		<Text>Seminoma testicular cancer: stage IV</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_SM_TSTM_4_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Seminoma means it's only one type of cancercell. Stage IV means that the cancer has metastasized to other organs.</Text>  
+	</GameDBLocalizedString>	
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_1</LocID>                               
+		<Text>Non-seminoma testicular cancer: stage I </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_1_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Non-seminoma means it's more than one type of cancercell. Stage I means that the cancer remains localized to the testis.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_2</LocID>                               
+		<Text>Non-seminoma testicular cancer: stage II</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_2_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Non-seminoma means it's more than one type of cancercell. Stage II means that the cancer involves the testis and metastasis in the lymph nodes below the diaphragm.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_3</LocID>                               
+		<Text>Non-seminoma testicular cancer: stage III</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_3_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Non-seminoma means it's more than one type of cancercell. Stage III means that the cancer involves the testis and metastasis in the lymph nodes below as well as above the diaphragm.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_4</LocID>                               
+		<Text>Non-seminoma testicular cancer: stage IV</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_NSM_TSTM_4_DESC</LocID>                   
+		<Text>After orchiectomy was performed, the type of cancer has been differentiated. Non-seminoma means it's more than one type of cancercell. Stage IV means that the cancer has metastasized to other organs.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_1</LocID>                               
+		<Text>Benign prostatic hyperplasia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_1_DESC</LocID>                   
+		<Text>Benign prostatic hyperplasia (BPH), also called prostate enlargement, is a noncancerous increase in size of the prostate gland.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_2</LocID>                               
+		<Text>Benign prostatic hyperplasia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_BPH_2_DESC</LocID>                   
+		<Text>Benign prostatic hyperplasia (BPH), also called prostate enlargement, is a noncancerous increase in size of the prostate gland.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KNUR_ARF</LocID>                               
+		<Text>Acute renal failure -10%</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KNUR_ARF_DESC</LocID>                               
+		<Text>Acute renal failure refers to an abrupt loss of kidney function, effectively seizing the ability to filter the blood and produce urine. A patient with kidney a loss of function of less than 10 percent needs a kidney transplantation. The causes can be many, but are usually due to extensive tissue damage or decreased kidney blood flow.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_WDIA</LocID>                               
+		<Text>Weekly dialysis apointment</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_WDIA_DESC</LocID>                               
+		<Text>The patient has chronic kidney failure and has to come in every week for dialysis.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_COU</LocID>                         
+		<Text>Calculus of ureter</Text> 
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>    
+		<LocID>DIA_KN_COU_DESCRIPTION</LocID>         
+		<Text>Kidney stones, also known as urolithiasis, are usually concretions of calcium. Even though the stones usually pass on their own through the urinary tract, they can sometimes get stuck in the ureter, which is an extremely painful condition.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>  
+		<LocID>DIA_KN_CIB</LocID>                      
+		<Text>Calculus in bladder</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_CIB_DESCRIPTION</LocID>             
+		<Text>Bladder stones can be formed in the bladder due to a mineralization of concentrated urine. There will only be symptoms if the flow of urine is compromised.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_ACS</LocID>                    
+		<Text>Urinary tract infection</Text> 
+	</GameDBLocalizedString>
+           
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_ACS_DESCRIPTION</LocID>          
+		<Text>UTF, or cystitis, is an infection of the bladder usually by E. coli; a type of bacteria commonly found in the gastrointestinal (GI) tract. It is a condition a hundred times more common in women due to a shorter urinary tract.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_INC</LocID>                        
+		<Text>Interstitial cystitis</Text> 
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_INC_DESCRIPTION</LocID>         
+		<Text>Interstitial cystitis is also called painful bladder syndrome.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_ANS</LocID>                     
+		<Text>Glomerulonephritis</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_TIN</LocID>                    
+		<Text>Interstitial nephritis</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_PNS</LocID>                        
+		<Text>Pyelonephritis</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_ARF</LocID>                        
+		<Text>Acute renal failure</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_KN_CKD</LocID>                        
+		<Text>Chronic kidney disease</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_COK</LocID>                     
+		<Text>Kidney stones</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_047</LocID>          
+        <Text>HUS</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>TRM_KN_KCB</LocID>          
+        <Text>Renal contusion</Text>	 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_STER_WISH</LocID>                     
+		<Text>Sterilization wish</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_STER_WISH_DESC</LocID>          
+        <Text>Sterilization wish; Sterilization is any of a number of medical methods of birth control that intentionally leaves a person unable to reproduce. Sterilization procedures are intended to be permanent; reversal is generally difficult or impossible.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_FOURGANG</LocID>                     
+		<Text>Fournier gangrene</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_FOURGANG_DESC</LocID>          
+        <Text>Fournier gangrene is a type of necrotizing fasciitis or gangrene affecting the external genitalia or perineum. It commonly occurs in older men, but it can also occur in women and children. It is more likely to occur in diabetics, alcoholics, or those who are immunocompromised.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_1</LocID>                     
+		<Text>Clear Cell Renal Cell Carcinoma: stage I</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_1_DESC</LocID>          
+        <Text>Clear cell renal cell carcinoma, or ccRCC, is a type of kidney cancer. Clear cell renal cell carcinoma is named after how the tumor looks under the microscope. The cells in the tumor look clear, like bubbles. Stage I means that the tumor has a diameter of 7 cm or smaller, and limited to the kidney. No lymph node involvement or metastases to distant organs.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_LOC_2</LocID>                     
+		<Text>Clear Cell Renal Cell Carcinoma: stage II</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_LOC_2_DESC</LocID>          
+        <Text>Clear cell renal cell carcinoma, or ccRCC, is a type of kidney cancer. Clear cell renal cell carcinoma is named after how the tumor looks under the microscope. The cells in the tumor look clear, like bubbles. Stage II means that the tumor has a diameter bigger than 7 cm, but is still limited to the kidney. No lymph node involvement or metastases to distant organs. In this case the cancer is localized so partial nephrectomy will be enough to remove the tumor.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_SP_2</LocID>                     
+		<Text>Clear Cell Renal Cell Carcinoma: stage II</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_SP_2_DESC</LocID>          
+        <Text>Clear cell renal cell carcinoma, or ccRCC, is a type of kidney cancer. Clear cell renal cell carcinoma is named after how the tumor looks under the microscope. The cells in the tumor look clear, like bubbles. Stage II means that the tumor has a diameter bigger than 7 cm, but is still limited to the kidney. No lymph node involvement or metastases to distant organs. In this case the cancer has grown through the Gerota's fascia this is the renal fascia is a layer of connective tissue encapsulating the kidneys and the adrenal glands. Radical nephrectomy will be needed to remove the tumor.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_INFA_3</LocID>                     
+		<Text>Clear Cell Renal Cell Carcinoma: stage III</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_INFA_3_DESC</LocID>          
+        <Text>Clear cell renal cell carcinoma, or ccRCC, is a type of kidney cancer. Clear cell renal cell carcinoma is named after how the tumor looks under the microscope. The cells in the tumor look clear, like bubbles. Stage III means it can be a tumor of any size with involvement of a nearby lymph node but no metastases to distant organs. Tumour of this stage may be with or without spread to fatty tissue around the kidney, with or without spread into the large veins leading from the kidney to the heart. In this case the cancer has spread into the inferior Vena Cava.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_3</LocID>                     
+		<Text>Clear Cell Renal Cell Carcinoma: stage III</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_3_DESC</LocID>          
+        <Text>Clear cell renal cell carcinoma, or ccRCC, is a type of kidney cancer. Clear cell renal cell carcinoma is named after how the tumor looks under the microscope. The cells in the tumor look clear, like bubbles. Stage III means it can be a tumor of any size with involvement of a nearby lymph node but no metastases to distant organs. Tumour of this stage may be with or without spread to fatty tissue around the kidney, with or without spread into the large veins leading from the kidney to the heart. In this case the cancer has spread into lymph nodes around the kidney.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_4</LocID>                     
+		<Text>Clear Cell Renal Cell Carcinoma: stage IV</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_CCRCC_4_DESC</LocID>          
+        <Text>Clear cell renal cell carcinoma, or ccRCC, is a type of kidney cancer. Clear cell renal cell carcinoma is named after how the tumor looks under the microscope. The cells in the tumor look clear, like bubbles. Stage IV means it can be a tumor of any size and has metastasized.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_BLRUP</LocID>                     
+		<Text>Blunt Bladder Contusion</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_BLRUP_DESC</LocID>          
+        <Text>Blunt Bladder Contusion</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_IPRUP</LocID>                     
+		<Text>Intraperitoneal Bladder Rupture</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_IPRUP_DESC</LocID>           
+        <Text>Intraperitoneal Bladder Rupture: If the tear is on the top of the bladder, the hole will usually open to the part of the abdomen that holds the liver, spleen, and bowel. Urine leaking into the abdomen is a serious problem. This tear can be sewn closed with surgery. A catheter is left in the bladder for up to 2 weeks after surgery to allow the bladder to rest. The tube will either come out through the urethra or out through the skin below the belly button.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_1</LocID>                     
+		<Text>Extraperitoneal Bladder Rupture</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_1_DESC</LocID>          
+        <Text>Extraperitoneal Bladder Rupture: If the tear is at the bottom or side of the bladder, the urine will leak into the tissues around the bladder instead of the abdominal cavity. Complex injuries of this type should be repaired with surgery. But often it can be treated by simply placing a wide catheter into the bladder to keep it empty. The urine and blood drain into a collection bag. It usually takes at least 10 days for the bladder to heal. The catheter is left in the bladder until an X-ray shows that the leak has sealed. If the catheter doesn’t drain properly, surgery is needed.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_2</LocID>                     
+		<Text>Extraperitoneal Bladder Rupture</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_EXRUP_2_DESC</LocID>          
+        <Text>Extraperitoneal Bladder Rupture: If the tear is at the bottom or side of the bladder, the urine will leak into the tissues around the bladder instead of the abdominal cavity. Complex injuries of this type should be repaired with surgery. But often it can be treated by simply placing a wide catheter into the bladder to keep it empty. The urine and blood drain into a collection bag. It usually takes at least 10 days for the bladder to heal. The catheter is left in the bladder until an X-ray shows that the leak has sealed. The catheter doesn’t drain properly, surgery is needed! </Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_PENRUP_1</LocID>                     
+		<Text>Penetrating Bladder Rupture</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_PENRUP_1_DESC</LocID>          
+        <Text>Penetrating Bladder Rupture: Injury to the bladder from a bullet or other penetrating object is usually fixed with surgery. Most of the time, other organs in the area will be injured and need repair as well. After surgery, a catheter is left in the bladder to drain the urine and blood until the bladder heals.</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_VVF</LocID>                     
+		<Text>Vesicovaginal fistula</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>DIA_KN_VVF_DESC</LocID>          
+        <Text>Vesicovaginal fistula, is an abnormal fistulous tract extending between the bladder (vesica) and the vagina that allows the continuous involuntary discharge of urine into the vaginal vault.</Text>	
+	</GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

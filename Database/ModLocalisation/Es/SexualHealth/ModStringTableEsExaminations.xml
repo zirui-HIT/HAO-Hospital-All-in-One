@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Davstingo</Name>
+			<Name>DrkTemplar</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>    
+				<Text>Examen genital</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>         
+				<Text>Análisis de examen genital</Text>
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>      
+				<Text>Muestra genital</Text>  
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>        
+				<Text>Análisis de muestra genital</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>     
+				<Text>Se toma una pequeña muestra para seleccionar cuidadosamente un pequeño número de células del cérvix o del ano. Las células se mandan a un laboratorio para su análisis.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>       
+				<Text>Análisis de cérvix o de células anales.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+				<Text>Se toma una muestra de la vagina o el pene.</Text>
+			</GameDBLocalizedString>
+            <GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>  
+				<Text>Se analiza el cultivo de la muestra para comprobar si hay signos de infección.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Muestra de semen</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>La recogida de semen es el proceso de obtener una muestra de semen del paciente, normalmente mediante la masturbación, guardando la muestra en un bote estéril.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Análisis de semen</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>Se analiza la muestra de semen.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Exploración inguinal</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Exploración del área inguinal del paciente.</Text>
+			</GameDBLocalizedString>
+							
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

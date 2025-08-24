@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_NL_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>nl</LanguageCode>
+	<LanguageNameLocalized>Nederlands</LanguageNameLocalized>
+	<Contributors>
+		<Name>emilievdb</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_ONCOLOGY</LocID>                                          	
+		<Text>Oncologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+		<Text>Oncologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+		<Text>Oncologie geeft toegang tot gespecialiseerde procedures voor het opsporen, diagnosticeren en behandelen van verschillende vormen van kanker.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+		<Text>Chirurgische oncologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+		<Text>Chirurgische oncologie stelt de arts in staat om op te treden als hoofdchirurg op de afdeling Oncologie en beïnvloedt hoe vaak operaties leiden tot complicaties.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

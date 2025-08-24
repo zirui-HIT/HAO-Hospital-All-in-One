@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_ES_ADDON_PLAS_BUILDING_MODE">
+<LanguageCode>es</LanguageCode>
+<LanguageNameLocalized>Español</LanguageNameLocalized>
+<Contributors>
+<Name>Srmojon</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_PLAS_OFFICE</LocID>                          	
+		<Text>Oficina de Cirugía Plástica</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_PLAS_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Consultorio médico especializado en cirugía plástica. Requerimientos de personal:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_PLAS_OFFICE</LocID>                               
+		<Text>Unidad de diagnóstico</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_PLAS_OFFICE_DESC</LocID>                   
+		<Text>La unidad de diagnóstico en el departamento de Cirugía Plástica proporciona procedimientos de examen y tratamiento para pacientes hospitalizados. \n\nMin. Requerimientos de personal: \n1x Doctor \n(Personal basado en sala de guardia)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_PLAS</LocID>       			
+		<Text>Cirugía plástica A</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_PLAS_DESC</LocID>       
+		<Text>Etiqueta de la pared</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

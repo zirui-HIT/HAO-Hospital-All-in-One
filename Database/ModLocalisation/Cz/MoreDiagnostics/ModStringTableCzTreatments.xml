@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_MORE_DG_TREATMENTS">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
+-->
+
+			<!-- ================================================== Normaux ================================================== -->
+<!--  v0.02  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>										<Text>Androgenní substituční terapie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>							<Text>Androgenní substituční terapie (ART), často označovaná jako testosteronová substituční terapie (TRT), je forma hormonální terapie, při které se nahrazují androgeny, často testosteron. ART je často předepsán k potlačení účinků mužského hypogonadismu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>											<Text>Dopaminergní agonista</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>								<Text>Agonista dopaminového receptoru (DA) je sloučenina, která aktivuje dopaminové receptory. Existují dvě rodiny dopaminových receptorů, D2 a D1, a všechny jsou receptory spojené s G proteinem. Receptory D1 a D5 patří do rodiny podobné D1 a rodina podobná D2 zahrnuje receptory D2, D3 a D4. DA se používají při Parkinsonově chorobě a v menší míře k léčbě deprese, hyperprolaktinémie a syndromu neklidných nohou.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC</LocID>													<Text>Hydrokortizon - fluorokortison</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>										<Text>Sdružení hydrokortizonu a fluokortizonu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>										<Text>Vitamín D</Text>	</GameDBLocalizedString>
+<!--  v0.03  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>								<Text>Monoklonální protilátky</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>					<Text>Monoklonální protilátky (mAb nebo moAb) jsou protilátky, které jsou vytvářeny identickými imunitními buňkami, které jsou klony jedinečné původní buňky. Monoklonální protilátky mohou mít monovalentní afinitu v tom, že se váží na stejný epitop (část antigenu, která je rozpoznávána protilátkou).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>										<Text>Chelatátor trojmocného kationtu</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>							<Text>Trojmocný chelátor kationtů je schopen fixovat volné železo z plazmy nebo buněk za vzniku komplexu ferrioxaminu.</Text>	</GameDBLocalizedString>
+<!--  v0.03.2  -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP</LocID>													<Text>GBI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>										<Text>Inhibitory biosyntézy glykolipidů zabraňují syntéze glykolipidů.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>										<Text>ERT</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>							<Text>Enzymová substituční terapie (ERT) je léčba, která nahrazuje enzym, který je v těle nedostatečný nebo chybí.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>											<Text>Flebotomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>								<Text>Chirurgické otevření nebo propíchnutí žíly za účelem odběru krve, zavedení tekutiny nebo (historicky) při propouštění krve.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>									<Text>Danaparoid sodný</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>						<Text>Danaparoid sodný je antikoagulant s antitrombotickým účinkem v důsledku inhibice tvorby trombinu (TGI) dvěma mechanismy: nepřímá inaktivace faktoru Xa prostřednictvím AT a přímá inhibice aktivace trombinu faktoru IX (důležitá zpětnovazebná smyčka pro tvorbu trombinu).</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>								<Text>Výměna chlopně</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>					<Text>Chirurgická náhrada chlopně je nahrazení jedné nebo více srdečních chlopní umělou srdeční chlopní nebo bioprotézou.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER</LocID>												<Text>Kardiostimulátor</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>									<Text>Srdeční kardiostimulátor (nebo umělý kardiostimulátor, aby nedošlo k záměně s přirozeným kardiostimulátorem srdce), je zdravotnický prostředek, který generuje elektrické impulsy dodávané elektrodami, které způsobují komory srdečního svalu (horní část nebo síně a/nebo dolní komory nebo komory), aby se stahovaly, a proto pumpovaly krev; tím toto zařízení nahrazuje a / nebo reguluje funkci systému elektrického vedení srdce.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI</LocID>													<Text>Implantovatelný kardioverter-defibrilátor</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>										<Text>Implantovatelný kardioverter-defibrilátor (ICD) nebo automatický implantabilní kardioverterový defibrilátor (AICD) je zařízení implantovatelné uvnitř těla, které je schopné provádět kardioverzi, defibrilaci a (v moderních verzích) stimulaci srdce. Zařízení je proto schopné napravit většinu život ohrožujících srdečních arytmií. ICD je léčba první linie a profylaktická léčba u pacientů s rizikem náhlé srdeční smrti v důsledku ventrikulární fibrilace a komorové tachykardie. Současná zařízení lze naprogramovat tak, aby kromě nízkoenergetických a vysokoenergetických šoků detekovala abnormální srdeční rytmy a poskytovala terapii prostřednictvím programovatelné antitachykardické stimulace.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION</LocID>										<Text>Revaskularizace</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>							<Text>Cévní bypass a angioplastika jsou dva primární prostředky revaskularizace.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>								<Text>Fasciotomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>					<Text>Fasciotomie nebo fasciektomie je chirurgický zákrok, při kterém je fascie řezána, aby se uvolnilo napětí nebo tlak běžně k léčbě výsledné ztráty oběhu v oblasti tkáně nebo svalu.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>											<Text>Stent</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>								<Text>Vyloučení aneurysmální oblasti z oběhového toku vložením vaskulární protézy. Při zploštění štěpu je protetická trubice sešita nad a pod aneuryzmatem, aby se rekonstruovala tepna.</Text>	</GameDBLocalizedString>
+<!-- v0.02 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>											<Text>Adrenalektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>								<Text>Chirurgické odstranění jedné nebo obou nadledvin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_GS</LocID>												<Text>Chirurgická excize</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_MI</LocID>												<Text>Chirurgická excize</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>										<Text>Vyříznutí je chirurgický zákrok spočívající v odstranění prvku, který je pro něj škodlivý nebo zbytečný.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>											<Text>Tyreoidektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>								<Text>Chirurgické odstranění štítné žlázy.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>											<Text>Splenektomie</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>									<Text>Chirurgické odstranění sleziny.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->		
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>											<Text>Stereotaktika</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>								<Text>Stereotaktická neurochirurgie je technika pro lokalizaci cílů chirurgického zájmu v mozku ve vztahu k vnějšímu referenčnímu rámci.</Text>	</GameDBLocalizedString>
+
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

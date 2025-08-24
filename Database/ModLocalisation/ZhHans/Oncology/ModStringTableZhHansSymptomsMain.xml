@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_SYMPTOMSMAIN">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	<Name>Frost</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_1_DETECTED</LocID>                               
+		<Text>基底细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_2_DETECTED</LocID>                               
+		<Text>基底细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_3_DETECTED</LocID>                               
+		<Text>基底细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌已经扩散到附近的淋巴结和周围组织。.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_4_DETECTED</LocID>                               
+		<Text>基底细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_1_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</LocID>                   
+		<Text>发现鳞状细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_2_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</LocID>                   
+		<Text>发现鳞状细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_3_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</LocID>                   
+		<Text>发现鳞状细胞癌已经扩散到附近的淋巴结和周围组织。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_4_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</LocID>                   
+		<Text>发现有转移迹象的鳞状细胞癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_1_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</LocID>                   
+		<Text>检测到黑色素瘤没有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_2_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</LocID>                   
+		<Text>检测到黑色素瘤没有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_3_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</LocID>                   
+		<Text>检测发现黑色素瘤，有迹象表明它已经扩散到附近的淋巴结和周围组织。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_4_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</LocID>                   
+		<Text>发现有转移迹象的黑色素瘤</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC1_0_DETECTED</LocID>                               
+		<Text>检出嗜铬细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</LocID>                   
+		<Text>已经检测到嗜铬细胞瘤，并且有证据表明它仅是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC1_1_DETECTED</LocID>                               
+		<Text>检出嗜铬细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</LocID>                   
+		<Text>已经检测出嗜铬细胞瘤，并有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC1_2_DETECTED</LocID>                               
+		<Text>检出嗜铬细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</LocID>                   
+		<Text>已经检测到嗜铬细胞瘤，并有转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC_0_DETECTED</LocID>                               
+		<Text>检测到非小细胞肺癌（NSCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</LocID>                   
+		<Text>检测到非小细胞肺癌仅是局部的的证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC_1_DETECTED</LocID>                               
+		<Text>检测到非小细胞肺癌（NSCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</LocID>                   
+		<Text>测试已经检测到非小细胞肺癌，并有局部证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC_2_DETECTED</LocID>                               
+		<Text>检测到非小细胞肺癌（NSCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</LocID>                   
+		<Text>已经检测到非小细胞肺癌，并有转移证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC1_0_DETECTED</LocID>                               
+		<Text>检测到小细胞肺癌（SCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</LocID>                   
+		<Text>测试已经检测到小细胞肺癌，并有证据表明它处于有限状态。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC1_1_DETECTED</LocID>                               
+		<Text>检测到小细胞肺癌（SCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</LocID>                   
+		<Text>已经检测到小细胞肺癌，并有证据表明它处于广泛状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC1_0_DETECTED</LocID>                               
+		<Text>检出大肠腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</LocID>                   
+		<Text>测试已经检测到结直肠腺癌，并且有证据表明它仅是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC1_1_DETECTED</LocID>                               
+		<Text>检出大肠腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</LocID>                   
+		<Text>已经检测到结直肠腺癌，并有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC1_2_DETECTED</LocID>                               
+		<Text>检出大肠腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</LocID>                   
+		<Text>已经检测到结直肠腺癌，并有转移证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC2_0_DETECTED</LocID>                               
+		<Text>检出肾上腺皮质癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现肾上腺皮质癌，有证据表明它只是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC2_1_DETECTED</LocID>                               
+		<Text>检出肾上腺皮质癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</LocID>                   
+		<Text>发现肾上腺皮质癌，有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC2_2_DETECTED</LocID>                               
+		<Text>检出肾上腺皮质癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</LocID>                   
+		<Text>发现肾上腺皮质癌有转移的证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_MC001_0_DETECTED</LocID>                               
+		<Text>胃肠道净检测</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</LocID>                   
+		<Text>已经检测到神经内分泌肿瘤，并有证据表明其处于有限状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_MC001_1_DETECTED</LocID>                               
+		<Text>胃肠道净检测</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现一个胃肠神经内分泌肿瘤，有证据表明它是广泛的状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED</LocID>                               
+		<Text>发现Pre-B急性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现Pre-B急性淋巴细胞白血病，有证据表明它是急性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED</LocID>                               
+		<Text>检测到B细胞急性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现B细胞淋巴细胞白血病，有证据表明是急性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED</LocID>                               
+		<Text>检测到慢性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</LocID>                   
+		<Text>检测发现淋巴细胞性白血病是慢性，但是稳定的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED</LocID>                               
+		<Text>检测到慢性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</LocID>                   
+		<Text>检测发现淋巴细胞性白血病，有证据表明它是慢性的，晚期的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED</LocID>                               
+		<Text>检测到T细胞急性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_DESC</LocID>                   
+		<Text>检测发现T淋巴细胞白血病，有证据表明它是急性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_3_DETECTED</LocID>                               
+		<Text>检测到T细胞急性淋巴细胞白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_3_DETECTED_DESC</LocID>                   
+		<Text>检测发现T淋巴细胞白血病，有证据表明它是急性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED</LocID>                               
+		<Text>检测发现T淋巴细胞白血病，有证据表明它是急性的。</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现淋巴细胞性白血病，有证据表明它是亚型，t细胞肥大的淋巴细胞白血病(LGL)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED</LocID>                               
+		<Text>检测到nk细胞大颗粒淋巴细胞(LGL)白血病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现淋巴细胞性白血病，证明它是一个亚型，nk细胞大颗粒淋巴细胞白血病(LGL)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED</LocID>                               
+		<Text>检测到t细胞前淋巴细胞白血病(T-PLL)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</LocID>                   
+		<Text>检测发现淋巴细胞性白血病是一种罕见的亚型，即t细胞前淋巴细胞性白血病。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED</LocID>                               
+		<Text>检测到急性髓样白血病(AML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现髓样白血病，有证据表明它是急性的。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED</LocID>                               
+		<Text>检测到慢性髓样白血病(CML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</LocID>                   
+		<Text>检测发现了骨髓性白血病，有证据表明它处于慢性期。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED</LocID>                               
+		<Text>检查到慢性髓样白血病 (CML) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</LocID>                   
+		<Text>检测发现骨髓性白血病，有证据表明它正处于加速期。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED</LocID>                               
+		<Text>检测到慢性髓样白血病(CML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</LocID>                   
+		<Text>检测发现髓样白血病，有证据表明它正处于胚细胞危象期。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC06_0_DETECTED</LocID>                               
+		<Text>检测到毛细胞白血病(HCL)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现毛细胞白血病。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC06_1_DETECTED</LocID>                               
+		<Text>检测到毛细胞白血病变异(HCL-V)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现毛细胞白血病是一种罕见的变异.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_0_DETECTED</LocID>                               
+		<Text>导管原位癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现导管癌，有证据表明它在原位(在原来的地方，没有扩散)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED</LocID>                               
+		<Text>发现浸润性导管癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现导管癌是侵袭性的，已经侵入周围组织。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_2_DETECTED</LocID>                               
+		<Text>发现转移性乳腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</LocID>                   
+		<Text>检测发现乳腺癌有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED</LocID>                               
+		<Text>发现毛细胞型星形细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内有毛细胞性星形细胞瘤。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED</LocID>                               
+		<Text>弥漫性星形细胞瘤中发现</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内存在弥漫性星形细胞瘤。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED</LocID>                               
+		<Text>间变性星形细胞瘤中发现</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内有间变性星形细胞瘤。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED</LocID>                               
+		<Text>高级别浆液性癌(HGSC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内存在高级别浆液性癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED</LocID>                               
+		<Text>低级别浆液性癌(LGSC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内存在低级别浆液性癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED</LocID>                               
+		<Text>胶质母细胞瘤中发现</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内有胶质母细胞瘤。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED</LocID>                               
+		<Text>前列腺癌(1期)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内存在前列腺癌(1期)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED</LocID>                               
+		<Text>前列腺癌(2期)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者患有前列腺癌(2期)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED</LocID>                               
+		<Text>前列腺癌(3期)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者患有前列腺癌(3期)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED</LocID>                               
+		<Text>前列腺癌(4期)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者患有前列腺癌(4期)。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED</LocID>                               
+		<Text>发现转移性卵巢癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</LocID>                   
+		<Text>检测发现患者体内存在转移性卵巢癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED</LocID>                               
+		<Text>弥漫性大b细胞(NOS)淋巴瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现弥漫性大b细胞(NOS)淋巴瘤。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED</LocID>                               
+		<Text>滤泡性淋巴瘤的检测</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现滤泡性淋巴瘤。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC4_0_DETECTED</LocID>                               
+		<Text>梅克尔细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现默克尔细胞癌，有证据表明它只是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC4_1_DETECTED</LocID>                               
+		<Text>梅克尔细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现默克尔细胞癌，有转移的证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC09_0_DETECTED</LocID>                               
+		<Text>发现外套细胞淋巴瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现套细胞淋巴瘤。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC2_0_DETECTED</LocID>                               
+		<Text>检出肺大细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</LocID>                   
+		<Text>检测检出肺大细胞癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC3_0_DETECTED</LocID>                               
+		<Text>检出早期肺腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</LocID>                   
+		<Text>测试检测出肺腺癌，证据表明尚处早期阶段。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC3_1_DETECTED</LocID>                               
+		<Text>检出晚期肺腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</LocID>                   
+		<Text>测试检测出肺腺癌，证据表明已处晚期阶段。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC4_0_DETECTED</LocID>                               
+		<Text>检出鳞状细胞肺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</LocID>                   
+		<Text>检测检出鳞状细胞肺癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC2_0_DETECTED</LocID>                               
+		<Text>测出印戒细胞结直肠癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</LocID>                   
+		<Text>检测检出测出印戒细胞结直肠癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC3_0_DETECTED</LocID>                               
+		<Text>测出大肠混合型粘液癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</LocID>                   
+		<Text>测出大肠粘液癌，特征表明处于混合型粘液癌状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC3_1_DETECTED</LocID>                               
+		<Text>测出大肠纯粘液癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</LocID>                   
+		<Text>测出大肠粘液癌，特征表明处于纯粘液癌状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_CRP_BREC01_0M_DETECTED</LocID>                               
+		<Text>测出导管原位癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED</LocID>                               
+		<Text>测出浸润性导管癌(IDC)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_BREC01_2M_DETECTED</LocID>                               
+		<Text>测出继发性乳腺癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_CRP_LIV0_0_DETECTED</LocID>                               
+		<Text>测出肝细胞癌(局部)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</LocID>                               
+		<Text>检测测出肝细胞癌，特征表明病灶限于局部。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_CRP_LIV0_1_DETECTED</LocID>                               
+		<Text>测出肝细胞癌(区域)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</LocID>                               
+		<Text>检测测出肝细胞癌，特征表明已发生区域性转移。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_CRP_LIV0_2_DETECTED</LocID>                               
+		<Text>测出肝细胞癌（危急）</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</LocID>                               
+		<Text>检测测出肝细胞癌，特征表明已处于危急状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_CRP_LIV0_3_DETECTED</LocID>                               
+		<Text>测出转移性肝癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</LocID>                               
+		<Text>检测测出转移性肝癌，特征表明属于转移性。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</LocID>                               
+		<Text>测出前B细胞急淋白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</LocID>                               
+		<Text>测出B细胞急淋白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</LocID>                               
+		<Text>测出T细胞急淋白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</LocID>                               
+		<Text>测出慢淋白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</LocID>                               
+		<Text>测出慢淋白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</LocID>                               
+		<Text>测出T-LGL白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</LocID>                               
+		<Text>测出NK-LGL白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</LocID>                               
+		<Text>测出T-PLL白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</LocID>                               
+		<Text>测出急性髓系白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</LocID>                               
+		<Text>测出慢性髓系白血病</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</LocID>                               
+		<Text>测出慢性髓系白血病</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</LocID>                               
+		<Text>测出慢性髓系白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</LocID>                               
+		<Text>测出滤泡白血病</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</LocID>                               
+		<Text>测出弥漫大B细胞淋巴瘤</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</LocID>                               
+		<Text>测出浸润性导管癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</LocID>                               
+		<Text>测出浸润性导管癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_MC001_1_DETECTED_V2</LocID>                               
+		<Text>测出胃肠道神经内分泌瘤</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC3_4_DETECTED_V2</LocID>                               
+		<Text>测出黑色素瘤</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_SC4_1_DETECTED_V2</LocID>                               
+		<Text>测出默克尔细胞癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA001_1_DETECTED</LocID>                               
+		<Text>测出粘液表皮样癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</LocID>                               
+		<Text>检测测出粘液表皮样癌，特征显示为低恶性。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA001_2_DETECTED</LocID>                               
+		<Text>测出粘液表皮样癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</LocID>                               
+		<Text>检测测出粘液表皮样癌，特征显示为低恶性。</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>                               
+		<Text>检测到阴道上皮内瘤变 (VAIN)(低风险)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>                               
+		<Text>测试已检测到阴道上皮内瘤变 (VAIN)，但有证据表明其风险较低。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>                               
+		<Text>检测到阴道上皮内瘤变 (VAIN)(高风险)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>                               
+		<Text>测试已检测到阴道上皮内瘤变 (VAIN)，并且有证据表明它具有高风险。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>                               
+		<Text>检测到阴道鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>                               
+		<Text>测试检测到阴道鳞状细胞癌，并有证据表明它是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>                               
+		<Text>检测到阴道鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>                               
+		<Text>测试已检测到阴道鳞状细胞癌，并有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>                               
+		<Text>检测到转移性阴道癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>                               
+		<Text>测试发现阴道癌，有证据表明它是转移性的，并已扩散到全身。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>                               
+		<Text>检测到涎腺导管癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>                               
+		<Text>检测到涎腺导管癌</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>                               
+		<Text>测试发现涎腺导管癌。</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

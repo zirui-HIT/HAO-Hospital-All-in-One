@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_CRP_SLEEPY_TREATMENTS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>1328411791</Name>
+      <Name>Toobin</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMIQUIMOD_CREAM</LocID>
+        <Text>咪喹莫特乳膏</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMIQUIMOD_CREAM_DESC</LocID>
+        <Text>咪喹莫特是一种作为免疫反应调节剂的处方乳霜，用于治疗浅表基底细胞癌和光化性角化病。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PHOTODYNAMIC_THERAPY</LocID>
+        <Text>光动力疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PHOTODYNAMIC_THERAPY_DESC</LocID>
+        <Text>光动力疗法是一种使用某些称为光敏剂的药物与特殊光一起杀死癌细胞的治疗方法。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY</LocID>
+        <Text>莫氏显微外科</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>
+        <Text>莫氏手术是一项先进的手术技术，可以精确去除所有形式的皮肤癌，同时又能保护周围的健康组织。 \n\n所需房间：肿瘤学手术室。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DOCTORS_ADVICE</LocID>
+        <Text>肿瘤病咨询</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DOCTORS_ADVICE_DESC</LocID>
+        <Text>医生会就如何处理情况向患者提供建议，帮助患者更好地了解他们的选择（例如姑息治疗），并尽一切努力确保患者在这段时间内拥有最佳的生活质量。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TARGETED_THERAPY</LocID>
+        <Text>靶向疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TARGETED_THERAPY_DESC</LocID>
+        <Text>靶向疗法通过靶向癌症的特定基因，蛋白质或有助于癌症生长和存活的组织环境而起作用。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_CHEMOTHERAPY</LocID>
+        <Text>化学疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_CHEMOTHERAPY_DESC</LocID>
+        <Text>化学疗法是一种癌症治疗方法，它使用一种或多种抗癌药作为标准化化疗方案的一部分。 化学疗法可能具有治愈目的，或者可能旨在延长寿命或减轻症状。 \n\n所需房间：肿瘤科住院。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LAPAROSCOPIC_SURGERY</LocID>
+        <Text>腹腔镜手术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LAPAROSCOPIC_SURGERY_DESC</LocID>
+        <Text>腹腔镜或“微创”手术是一种进行手术的专门技术。 这是一种低风险，微创手术，仅需很小的切口即可。 腹腔镜检查使用一种称为腹腔镜的仪器来检查腹部器官。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LOBECTOMY_SURGERY</LocID>
+        <Text>肺肺叶切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LOBECTOMY_SURGERY_DESC</LocID>
+        <Text>肺肺叶切除术是一项外科手术，其中肺叶被切除。 这样做是为了除去一部分患病的肺，例如早期肺癌。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION</LocID>
+        <Text>血管内栓塞术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>
+        <Text>血管内栓塞术（EE）是一种侵入性外科手术。 它用于治疗大脑以及身体其他部位发现的异常血管。 该程序是开放手术的替代方法。 它会阻塞血管以切断流向患处的血液。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS</LocID>
+        <Text>免疫疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS_DESC</LocID>
+        <Text>免疫疗法是一种癌症疗法，可帮助人体的免疫系统抵抗癌症。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_NERVE_DECOM_SURGERY</LocID>
+        <Text>神经重建手术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_NERVE_DECOM_SURGERY_DESC</LocID>
+        <Text>外科手术神经修复包括探查受伤的神经并从神经末梢去除受伤的组织或疤痕。 此后，如果末端有足够的长度以允许高质量的修复而没有张力，则可以直接重新连接神经。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_EPIPEN</LocID>
+        <Text>肾上腺素自动注射器</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_EPIPEN_DESC</LocID>
+        <Text>肾上腺素自动注射器是一种通过自动注射器技术注射一定剂量的肾上腺素的医疗设备。 它最常用于过敏反应的治疗。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POLYPECTOMY</LocID>
+        <Text>息肉切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POLYPECTOMY_DESC</LocID>
+        <Text>息肉切除术是一种用于从结肠内部（也称为大肠）切除息肉的手术。 息肉是组织的异常集合。 该过程是相对无创的。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARTIAL_COLECTOMY</LocID>
+        <Text>结肠切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARTIAL_COLECTOMY_DESC</LocID>
+        <Text>结肠切除术是大肠的肠切除术。 它包括手术切除任何程度的结肠，通常是分段切除。 在极端情况下，整个大肠都会被切除。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ADRENALECTOMY</LocID>
+        <Text>肾上腺切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ADRENALECTOMY_DESC</LocID>
+        <Text>肾上腺切除术是通过手术切除一个或两个肾上腺。 通常建议肾上腺肿瘤患者使用。 该过程可以使用开放切口或腹腔镜技术进行。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MITOTANE</LocID>
+        <Text>米托坦</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_MITOTANE_DESC</LocID>
+        <Text>米托坦是一种类固醇生成抑制剂和细胞抑制剂，用于治疗肾上腺皮质癌和库欣综合征。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPIRONOLACTONE</LocID>
+        <Text>安体舒通 </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPIRONOLACTONE_DESC</LocID>
+        <Text>安体舒通是一种保钾利尿剂(水丸)，可以防止身体吸收过多的盐，防止钾含量过低。螺内酯用于治疗心力衰竭、高血压(高血压)或低钾血症(血液中的低钾水平)。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_OCTREOTIDE_INJECTION</LocID>
+        <Text>奥曲肽注射液</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_OCTREOTIDE_INJECTION_DESC</LocID>
+        <Text>奥曲肽用于产生生长激素的肿瘤(肢端肥大症和巨人症)的治疗，可以帮助稳定患类癌危象的病人。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ACTIVE_MONITOR</LocID>
+        <Text>主动监控</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ACTIVE_MONITOR_DESC</LocID>
+        <Text>主动监测是指肿瘤科医生不建议治疗，而是通过定期检查和验血来监测患者的健康状况。 有时称为“细心监视”或“监视和等待”。 \n\n所需房间：任何肿瘤科诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPER_CVAD</LocID>
+        <Text>强化Hyper-CVAD治疗</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPER_CVAD_DESC</LocID>
+        <Text>术语“过度”是指化学疗法的超分割性质，以较小剂量或更频繁地给药，以最大程度地减少副作用。 “ CVAD”是过程A中使用的药物的首字母缩写：环磷酰胺，长春新碱，阿霉素（也称为商品名阿霉素）和地塞米松。 短期强化治疗显示出更好的结果。 \n\n所需房间：肿瘤监护病房。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPLENECTOMY</LocID>
+        <Text>脾切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SPLENECTOMY_DESC</LocID>
+        <Text>脾切除术是去除脾脏的外科手术。 脾脏是位于腹部左上角肋骨下的器官。 它有助于抵抗感染，并从血液中过滤掉不需要的物质，例如旧的或受损的血细胞。 脾切除术最常见的原因是治疗脾破裂，这通常是由腹部受伤引起的。 脾切除术可用于治疗其他疾病，包括引起不适（脾肿大）的脾脏肿大，某些血液疾病，某些癌症，感染以及非癌性囊肿或肿瘤。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_G_CSF</LocID>
+        <Text>G-CSF药物</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_G_CSF_DESC</LocID>
+        <Text>粒细胞集落刺激因子药物，也称为集落刺激因子3，是一种糖蛋白，可刺激骨髓产生粒细胞和干细胞，并将其释放到血液中。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_METHOTREXATE</LocID>
+        <Text>甲氨蝶呤IV</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_METHOTREXATE_DESC</LocID>
+        <Text>甲氨蝶呤，以前称为氨蝶呤，是一种化学治疗剂和免疫系统抑制剂。 它用于治疗癌症，自身免疫性疾病，异位妊娠和药物流产。 它用于治疗的癌症类型包括乳腺癌，白血病，肺癌，淋巴瘤和骨肉瘤。 \n\n所需房间：肿瘤科住院。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ALEMTUZUMAB</LocID>
+        <Text>阿仑单抗IV</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ALEMTUZUMAB_DESC</LocID>
+        <Text>阿仑单抗是用于治疗慢性淋巴细胞性白血病和多发性硬化症的药物。 在CLL中，阿仑单抗已被用作一线和二线治疗。 在MS中，通常仅在其他治疗无效的情况下才建议使用。 通过静脉注射给予。 \n\n所需房间：肿瘤监护病房。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_BRAF_INH</LocID>
+        <Text>BRAF抑制剂</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_BRAF_INH_DESC</LocID>
+        <Text>BRAF抑制剂有助于阻止BRAF-V600E基因突变。 在临床试验中，B-Raf增加了转移性黑色素瘤患者生存的机会。 尽管该药具有很高的疗效，但仍有20％的肿瘤对治疗产生抵抗力。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TAMOXIFEN</LocID>
+        <Text>他莫昔芬</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_TAMOXIFEN_DESC</LocID>
+        <Text>他莫昔芬 是治疗男性和女性的乳腺癌激素疗法。 它降低了术后复发的风险和在另一个乳房出现的风险。他也可以在一段时间内控制晚期癌症。\n\n所需房间：任何诊疗室.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEG_MASTECTOMY</LocID>
+        <Text>乳房切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEG_MASTECTOMY_DESC</LocID>
+        <Text>切除肿瘤和一些周围正常的组织, 但不是切除乳房。 一些上肢下的淋巴结也可能被切除送去活检。如果癌细胞生长在胸腔内壁，也可以切除。 \n\n所需房间：肿瘤科手术室 </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPERSALINE</LocID>
+        <Text>高渗生理盐水</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HYPERSALINE_DESC</LocID>
+        <Text>使用高渗盐水或者甘露醇治疗，可迅速降低颅内压，可挽救生命和脑细胞。 高渗盐水是极其有效的，因为不穿过血脑屏障（很多）。 从而将液体从大脑中渗透出，使得颅内压降低，损伤降低。\n\n所需房间：任何诊室.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_INCISION_AND_DRAINAGE</LocID>
+        <Text>切口引流术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_INCISION_AND_DRAINAGE_DESC</LocID>
+        <Text>切口引流和临床穿刺是释放液体和降低压力的一种微创手术。 \n\n所需房间：肿瘤科诊断室 / 肿瘤科检查室 / 重症监护室 / 观察室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DEBULKING</LocID>
+        <Text>减积手术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_DEBULKING_DESC</LocID>
+        <Text>这种手术是切除无法治疗的恶性肿瘤的一种方法，虽不能很好的起到治疗效果，但可以方便后续的治疗，比如放疗或其他更有效的治疗方法。从而提高患者生存质量和生存时间。患者需要和医生商讨后续治疗方案，从而提升后续治疗效果。 \n\n所需房间：神经科手术室 </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GTR</LocID>
+        <Text>开颅切除手术（大部分）</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GTR_DESC</LocID>
+        <Text>开颅切除手术（大部分）是切除核磁共振成像上所呈现的肿瘤组织。在核磁共振成像的基础上，大体切除核磁共振成像上可见的肿瘤组织。\n\n所需房间：神经科手术室 </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ESTRADIOL_CREAM</LocID>
+        <Text>雌二醇乳膏 </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_ESTRADIOL_CREAM_DESC</LocID>
+        <Text>雌二醇是一种雌性激素，可外用于阴道的雌激素制剂，可用于治疗绝经后的一些症状，比如干燥，灼烧和瘙痒的更年期症状，以及尿频，尿痛。 \n\n所需房间：任何诊室.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_UNI_SALOOPH</LocID>
+        <Text>单侧输卵管切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_UNI_SALOOPH_DESC</LocID>
+        <Text>这种手术只切除同一侧的输卵管和卵巢， 和同样的血管供应一并切除（反之，双侧切除则两侧均切除).这种手术是一些想保住生育功能的女性们的不二法门。虽然复发率很高，但和总体生存率下降没有关系。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RAD_PROS</LocID>
+        <Text>根治性前列腺切除手术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RAD_PROS_DESC</LocID>
+        <Text>这种手术可切除前列腺和周围的一些组织。一般包括精囊和附近的淋巴结。这种手术可治愈前列腺癌，或其他在前列腺发生的癌症。 \n\n所需房间：肿瘤科手术室.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HORMONE_THERAPY</LocID>
+        <Text>激素疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HORMONE_THERAPY_DESC</LocID>
+        <Text>激素疗法是激素在临床医学的一种应用 \n\n所需房间：任何诊室.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARATHY</LocID>
+        <Text>甲状旁腺切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PARATHY_DESC</LocID>
+        <Text>甲状旁腺切除术是用于切除甲状旁腺或甲状旁腺肿瘤的手术，甲状旁腺位于你颈部脖子右侧。这种腺体帮你控制血液中钙的平衡。 \n\nRequired room:肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RCHOP</LocID>
+        <Text>R-CHOP 化疗方案</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RCHOP_DESC</LocID>
+        <Text>R-CHOP化疗方案用于治疗非霍奇金淋巴瘤（NHK）的一种联合化疗方案。R-CHOP联合运用了五种药物: 利妥昔单抗 环磷酰胺 盐酸阿霉素 长春新碱 强地松龙 \n\n所需房间：肿瘤科普通病房住院</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RITUXIMAB</LocID>
+        <Text>利妥昔单抗</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_RITUXIMAB_DESC</LocID>
+        <Text>利妥昔单抗，商品名美罗华等，是一种用于治疗某些自身免疫性疾病和各种癌症的药物。利妥昔单抗是一种针对CD20蛋白的嵌合单克隆抗体，主要存在于免疫系统B细胞表面。当它与这种蛋白质结合时，就会触发细胞死亡。必备室:肿瘤dpt定期住院治疗。</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GEMCITABINE</LocID>
+        <Text>吉西他滨</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_GEMCITABINE_DESC</LocID>
+        <Text>吉西他滨，商品名健择等，是用于治疗多种癌症的化学疗法药物。包括乳腺癌，卵巢癌，非小细胞肺癌，胰腺癌和膀胱癌。需静脉滴注。\n\n所需房间：肿瘤科普通病房</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POCT</LocID>
+        <Text>PAO联合化疗</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_POCT_DESC</LocID>
+        <Text>帕米膦酸和奥曲肽(PAO)联合化疗。多例报告表明，帕米膦酸和奥曲肽在某些情况下可能有助于缓解骨痛，并有助于治疗肥厚性肺骨关节炎(HPOA)。 既要治本，也须治标。  \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEGMENTECTOMY</LocID>
+        <Text>分段切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_SEGMENTECTOMY_DESC</LocID>
+        <Text>分段切除术是一种外科手术程序，可切除一部分器官或腺体，这是切除术的一种子类型。可能涉及切除整个身体部位， 它也可以用于去除肿瘤及其周围的正常组织。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_FEP</LocID>
+        <Text>FEP联合化疗</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_FEP_DESC</LocID>
+        <Text>5-氟尿嘧啶，顺铂和依托泊苷(FEP)联合治疗。 与典型的癌症相比，化疗对诸如印戒细胞癌等疗效较差且生存率较低。这类癌症往往在晚期才被诊断出来，通常扩散更为严重。但FEP联合化疗以其活跃性成为挽救性化疗最为活跃的一种疗法。\n\n所需房间：肿瘤科普通病房</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_AMMONUL</LocID>
+        <Text>氨脉疗</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_AMMONUL_DESC</LocID>
+        <Text>苯乙酸钠与苯甲酸钠复方制剂，商品名氨脉疗(Ammonul)，用于辅助治疗急性高氨血症。 \n\n所需房间：肿瘤科普通病房</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LACTULOSE</LocID>
+        <Text>乳果糖</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LACTULOSE_DESC</LocID>
+        <Text>乳果糖口服或栓剂是用于治疗或预防肝病（肝性脑病）并发症的处方药。 它不能解决问题，但可能有助于改善心理状况。 乳果糖是一种结肠酸化剂，可通过减少血液中氨的含量起作用。 \n\n所需房间：任何诊室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HEPATECTOMY</LocID>
+        <Text>肝脏切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_HEPATECTOMY_DESC</LocID>
+        <Text>切除全部或部分肝脏的外科手术。\n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LIVER_TRANSPL</LocID>
+        <Text>肝脏移植</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_LIVER_TRANSPL_DESC</LocID>
+        <Text>通过外科手术切除衰竭的肝脏，并用已故供体的健康肝脏或活体供体的一部分健康肝脏代替。\n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOSUS_DRUGS</LocID>
+        <Text>免疫抑制剂</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_IMMUNOSUS_DRUGS_DESC</LocID>
+        <Text>免疫抑制剂是抑制或降低人体免疫系统强度的一类药物，其中一些常用于抑制人体免疫系统对移植器官的排斥反应。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PAROTIDECTOMY</LocID>
+        <Text>腮腺切除术</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_CRP_PAROTIDECTOMY_DESC</LocID>
+        <Text>切除腮腺的外科手术，该术主要用于治疗腮腺瘤。腮腺是最主要且最大的唾液腺。 腮腺瘤可以是良性的也可以是饿醒的。 \n\n所需房间：肿瘤科手术室</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

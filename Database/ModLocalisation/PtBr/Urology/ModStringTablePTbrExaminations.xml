@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PTBR_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>ptbr</LanguageCode>
+        <LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+        <Contributors>
+        <Name>GuerPlatin</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Orquiectomia inguinal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>A palpação do documento e seu conteúdo revelam presença, tamanho, posição e forma dos testículos e seus anexos. O teste normal é ovóide, liso, firme e levemente sensível à palpação. O testículo é facilmente separado do epidídimo, que fica posterior e lateralmente ao testículo. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Testando o testículo obtido na orquiectomia inguinal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Testando o testículo obtido na orquiectomia inguinal.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Testando o testículo usado na orquiectomia inguinal</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>A palpação do escroto e seu conteúdo revelam a presença, tamanho, posição e forma dos testículos e seus anexos. O testículo normal é ovóide, liso, firme e levemente sensível à palpação. O testículo é facilmente separado do epidídimo, que fica posterior e ligeiramente lateral ao testículo.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

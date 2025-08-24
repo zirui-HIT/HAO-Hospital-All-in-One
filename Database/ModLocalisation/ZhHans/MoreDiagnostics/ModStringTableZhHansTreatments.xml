@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_MORE_DG_TREATMENTS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>Toobin</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++  v0.01  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>钾盐补充</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>最普遍的是胶囊式氯化钾口服钾补充剂。</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>保湿霜</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>用于防止皮肤干燥的护肤品。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>葡萄糖输注</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>葡萄糖静脉输注。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>氢化可的松</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>氢化可的松是皮质醇激素药用商品名。</Text>	</GameDBLocalizedString>
++++  v0.03  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT</LocID>								<Text>自体移植</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT_DESCRIPTION</LocID>					<Text>将同一个患者身体组织的一部分移植到身体的另一部分。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT</LocID>								<Text>同种移植</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT_DESCRIPTION</LocID>					<Text>来自与受者相同物种但遗传上不同的供体的组织移植物。</Text>	</GameDBLocalizedString>
++++  v0.03.2  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER</LocID>								<Text>铁螯合剂</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER_DESCRIPTION</LocID>					<Text>铁螯合疗法可以防止铁介导对细胞损伤。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE</LocID>								<Text>硬化疗法</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE_DESCRIPTION</LocID>					<Text>通过注射引起炎症，血液凝结和血管壁狭窄的刺激物来治疗静脉曲张。</Text>	</GameDBLocalizedString>
++++  v0.03.3  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR</LocID>										<Text>免疫抑制剂</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR_DESCRIPTION</LocID>							<Text>又名抗排斥剂，是抑制或阻断免疫系统活性的药物。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV</LocID>											<Text>静脉PPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV_DESCRIPTION</LocID>								<Text>胃镜检查前用高剂量质子泵抑制剂可减少内镜止血的可能性。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION</LocID>								<Text>血管内栓塞术</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION_DESCRIPTION</LocID>					<Text>将导管插入腿动脉并穿过血管，使用X显像像技术注入栓塞剂以封闭血管。</Text>	</GameDBLocalizedString>
+-->
+      <!-- ================================================== Normaux ================================================== -->
+      <!--  v0.02  -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>
+        <Text>雄激素代替疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>
+        <Text>雄激素代替疗法(ART), 又称睾酮代替疗法(TRT)，常用于应对男性性腺功能消退。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>
+        <Text>多巴胺受体激动剂</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>
+        <Text>多巴胺(DA)在体内是合成肾上腺素和去甲肾上腺素的前体物质， 多巴胺受体激动剂是一类在分子构象上同多巴胺相似，能直接作用于多巴胺受体的药物，常用于治疗抑郁症、高泌乳素血症和不安腿综合征。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_HC_FC</LocID>
+        <Text>氢化可的松联氟氢可的松</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>
+        <Text>氢化可的松与氟氢可的松的联合剂。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>
+        <Text>维生素D</Text>
+      </GameDBLocalizedString>
+      <!--  v0.03  -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>
+        <Text>单克隆抗体</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>
+        <Text>单克隆抗体(mAb或moAb)是由相同免疫细胞制成的抗体，这些免疫细胞都是唯一亲本细胞的克隆。 单克隆抗体可以具有单价亲和力，因为它们结合相同的表位。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_DEFEROXAMINE</LocID>
+        <Text>三价阳离子螯合剂</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>
+        <Text>三价阳离子螯合剂能够固定血浆或细胞中的游离铁以形成铁氧胺复合物。</Text>
+      </GameDBLocalizedString>
+      <!--  v0.03.2  -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_IGP</LocID>
+        <Text>糖脂生物合成抑制剂</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>
+        <Text>糖脂生物合成抑制剂(GBI)能抑制糖类与脂类的合成。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>
+        <Text>酶代替疗法</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>
+        <Text>酶替代疗法(ERT)可替代体内降低或缺乏的酶。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>
+        <Text>静脉切开</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>
+        <Text>静脉切开或穿刺一遍放血或导入液体，历史上也曾用于放血。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>
+        <Text>达那肝素钠</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>
+        <Text>抗凝血药，可阻抑血液的凝结过程，用于防止血栓形成。</Text>
+      </GameDBLocalizedString>
+      <!-- ================================================== Chirurgie ================================================== -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>
+        <Text>瓣膜置换</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>
+        <Text>瓣膜置换手术是用人工心脏瓣膜或生物假体置换一个或多个心脏瓣膜。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_PACEMAKER</LocID>
+        <Text>人工起搏器</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>
+        <Text>人工起搏器是植入人体内的一种医疗器械，在需要的时候向心脏发出微小的电脉冲，负责向心脏传送微小电脉冲，刺激心脏跳动。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_DAI</LocID>
+        <Text>埋藏式复律除颤器</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>
+        <Text>埋藏式心脏复律除颤器(ICD)可植入体内，能执行心脏复律除颤和起搏的医疗设备。能够纠正大多数心律不齐，可起到预防促使的作用。同时也能通过编程实现检测异常心律、抗心速起搏、并以高低能电击进行治疗。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_REVASCULARISATION</LocID>
+        <Text>血运重建</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>
+        <Text>以手术建立新的血流通道以改善和重建心血循环，主要有血管搭桥术和血管成形术两种。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>
+        <Text>筋膜切开</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>
+        <Text>通过筋膜切开或筋膜切除以减轻张力和压力的手术，以治疗由附近区域的血液循环损失。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_MISE_A_PLAT</LocID>
+        <Text>支架</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>
+        <Text>是一种应用于植入型外科手术的管状器具，以治疗体内病变的管道例如血管、食道或输尿管等，恢复管道的正常运输功能。</Text>
+      </GameDBLocalizedString>
+      <!-- v0.02 -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>
+        <Text>肾上腺切除</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>
+        <Text>通过手术摘除一侧或双侧肾上腺。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_EXERESE_GS</LocID>
+        <Text>手术切除</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_EXERESE_MI</LocID>
+        <Text>手术切除</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>
+        <Text>通过手术摘除生物体中有害或无用的部位。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>
+        <Text>甲状腺切除</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>
+        <Text>通过手术切除甲状腺。</Text>
+      </GameDBLocalizedString>
+      <!-- v0.03 -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>
+        <Text>脾脏切除</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>
+        <Text>通过手术切除脾脏</Text>
+      </GameDBLocalizedString>
+      <!-- v0.03.2 -->
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>
+        <Text>立体定向</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>
+        <Text>通过在目标外部建立参照框在神经系统内部定位手术目标的技术。</Text>
+      </GameDBLocalizedString>
+
+      <!-- Fix -->
+      
+      <GameDBLocalizedString> <LocID>TRT_CRP_VITAMINOTHERAPY_IV</LocID> <Text>静脉维生素治疗</Text> </GameDBLocalizedString>
+      <GameDBLocalizedString> <LocID>TRT_CRP_VITAMINOTHERAPY_IV_DESCRIPTION</LocID> <Text>针对已确诊或疑似维生素吸收障碍的患者给予维生素静脉补充（例如韦尼克脑病时静脉注射硫胺素），通常在临床设置执行。</Text> </GameDBLocalizedString>
+
+      <GameDBLocalizedString> <LocID>TRT_MOREDG_TRANSPLANTATION_COEUR</LocID> <Text>心脏移植</Text> </GameDBLocalizedString>
+      <GameDBLocalizedString> <LocID>TRT_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID> <Text>在终末期心力衰竭且其他治疗方式无效时，通过外科手术用供体心脏替换患者衰竭心脏。</Text> </GameDBLocalizedString>
+    
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

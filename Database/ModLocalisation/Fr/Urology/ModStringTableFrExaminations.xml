@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_FR_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>fr</LanguageCode>
+        <LanguageNameLocalized>Français</LanguageNameLocalized>
+        <Contributors>
+        <Name>aigledunumerique</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Orchidectomie inguinale</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>L'orchidectomie inguinale est une méthode spécifique d'orchidectomie par laquelle un ou les deux testicules et le cordon spermatique complet sont retirés chirurgicalement par une incision dans l'abdomen latéral inférieur. La procédure est généralement effectuée par un urologue, généralement si un cancer des testicules est suspecté. </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Test du testicule obtenu en orchidectomie inguinale</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Test du testicule obtenu en orchidectomie inguinale.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Palpation testiculaire</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>La palpation du scrotum et de son contenu révélera la présence, la taille, la position et la forme des testicules et de leurs annexes. Le testicule normal est ovoïde, lisse, ferme et légèrement sensible à la palpation. Le testicule est facilement séparé de l'épididyme, qui se trouve en arrière et légèrement latéral au testicule.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

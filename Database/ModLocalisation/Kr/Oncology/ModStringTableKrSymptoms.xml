@@ -1,0 +1,2954 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_KR_ADDON_ONCOLOGYSL_SYMPTOMS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+		<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ACTINIC_KERATOSIS</LocID>                               
+			<Text>광선 각화증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ACTINIC_KERATOSIS_DESC</LocID>                   
+			<Text>지속적인 햇빛 노출에 의해 피부에 인설이 동반된 분홍색 또는 적색의 반점이나 구진이 발생했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NODULE_SKIN</LocID>                               
+			<Text>피부 결절</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NODULE_SKIN_DESC</LocID>                   
+			<Text>피부에 작고 반짝이는 혹이나 결절이 존재합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_1_DETECTED</LocID>                               
+			<Text>기저세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 징후가 없는 기저세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_2_DETECTED</LocID>                               
+			<Text>기저세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 징후가 없는 기저세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PERINEURAL_INVASION</LocID>                               
+			<Text>신경주위 침윤</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PERINEURAL_INVASION_DESC</LocID>                   
+			<Text>신경을 둘러싼 공간에 암세포가 침입함이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_3_DETECTED</LocID>                               
+			<Text>기저세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_3_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 인근 림프절과 주변 조직으로 전이된 흔적이 있는 기저세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_4_DETECTED</LocID>                               
+			<Text>기저세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC1_4_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 단계의 기저세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_METASTASIZED_CANCER</LocID>                               
+			<Text>전이성 암</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_METASTASIZED_CANCER_DESC</LocID>                   
+			<Text>본래의 발병지에서 신체의 다른 부분으로 퍼진 전이성 암이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CHRONIC_WOUND</LocID>                               
+			<Text>만성창상</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CHRONIC_WOUND_DESC</LocID>                   
+			<Text>더 나아질 징후가 없는 만성적인 상처가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_1_DETECTED</LocID>                               
+			<Text>편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 징후가 없는 편평세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_2_DETECTED</LocID>                               
+			<Text>편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 징후가 없는 편평세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_3_DETECTED</LocID>                               
+			<Text>편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_3_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 인근 림프절과 주변 조직으로 전이된 흔적이 있는 편평세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_4_DETECTED</LocID>                               
+			<Text>편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC2_4_DETECTED_DESC</LocID>                   
+			<Text>본래의 발병지에서 신체의 다른 부분으로 퍼진 편평세포암이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ABNORMAL_MOLE</LocID>                               
+			<Text>비정상적인 점</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ABNORMAL_MOLE_DESC</LocID>                   
+			<Text>피부에 테두리가 고르지 않거나, 색이 변했거나, 성장 변화가 있는 점이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_1_DETECTED</LocID>                               
+			<Text>흑색종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 징후가 없는 흑색종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_2_DETECTED</LocID>                               
+			<Text>흑색종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 징후가 없는 흑색종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_3_DETECTED</LocID>                               
+			<Text>흑색종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_3_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 인근 림프절과 주변 조직으로 전이된 흔적이 있는 흑색종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_4_DETECTED</LocID>                               
+			<Text>흑색종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_4_DETECTED_DESC</LocID>                   
+			<Text>본래의 발병지에서 신체의 다른 부분으로 퍼진 흑색종이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_EPLVL</LocID>                               
+			<Text>높은 에피네프린 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_EPLVL_DESC</LocID>                   
+			<Text>수질 샘에서 부신과 뉴런에 의해 생성되는 아드레날린인 에피네프린의 혈중 농도가 상승했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_NEPLVL</LocID>                               
+			<Text>높은 노르에피네프린 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_NEPLVL_DESC</LocID>                   
+			<Text>스트레스 호르몬과 신경 전달 물질인 노르에피네프린의 혈중 농도가 상승했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC1_0_DETECTED</LocID>                               
+			<Text>갈색세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC1_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 국소적 단계의 갈색세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC1_1_DETECTED</LocID>                               
+			<Text>갈색세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC1_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 지역적 단계의 갈색세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC1_2_DETECTED</LocID>                               
+			<Text>갈색세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC1_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 단계의 갈색세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC_0_DETECTED</LocID>                               
+			<Text>비소세포폐암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 국소적 단계의 비소세포폐암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC_1_DETECTED</LocID>                               
+			<Text>비소세포폐암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 지역적 단계의 비소세포폐암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_SEIZURES</LocID>                               
+			<Text>발작</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_SEIZURES_DESC</LocID>                   
+			<Text>비정상적인 신경활동으로 인해 일어난 짧은 발작 증상입니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC_2_DETECTED</LocID>                               
+			<Text>비소세포폐암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 단계의 비소세포폐암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_HEMOPTYSIS1</LocID>                               
+			<Text>약간의 객혈</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_HEMOPTYSIS1_DESC</LocID>                   
+			<Text>기침을 할 때 약간의 피나 피가 섞인 가래를 뱉어냅니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC1_0_DETECTED</LocID>                               
+			<Text>소세포폐암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC1_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 제한적 단계의 소세포폐암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC1_1_DETECTED</LocID>                               
+			<Text>소세포폐암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC1_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 확장성 단계의 소세포폐암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NERVE_DAMAGE</LocID>                               
+			<Text>신경 손상</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
+			<Text>수술 수 신경이 손상되어 수 개월 또는 수 년동안 지속될 수도 있는 만성적인 통증을 유발합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC1_0_DETECTED</LocID>                               
+			<Text>대장암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC1_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 국소적 단계의 대장암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC1_1_DETECTED</LocID>                               
+			<Text>대장암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC1_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 지역적 단계의 대장암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC1_2_DETECTED</LocID>                               
+			<Text>대장암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC1_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 단계의 대장암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_CEALVL</LocID>                               
+			<Text>높은 태아성암항원 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_CEALVL_DESC</LocID>                   
+			<Text>특정 유형의 암과 암 질환의 징후인 태아성암항원의 혈중 농도가 상승했습니다.</Text> 
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_POLYPS</LocID>                               
+			<Text>대장 용종</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_POLYPS_DESC</LocID>                   
+			<Text>결장이나 직장의 안쪽에 폴립이라고도 불리는 용종 조직이 발견되었습니다.</Text> 
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC2_0_DETECTED</LocID>                               
+			<Text>부신암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC2_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 국소적 단계의 부신암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC2_1_DETECTED</LocID>                               
+			<Text>부신암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC2_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 지역적 단계의 부신암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC2_2_DETECTED</LocID>                               
+			<Text>부신암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_AGC2_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 단계의 부신암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPONATREMIA</LocID>                               
+			<Text>저나트륨혈증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPONATREMIA_DESC</LocID>                   
+			<Text>혈액 내 나트륨 농도가 비정상적으로 낮습니다.</Text> 
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERGLYCEMIA</LocID>                               
+			<Text>고혈당증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERGLYCEMIA_DESC</LocID>                   
+			<Text>혈당 수치가 높습니다.</Text> 
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERCORTISOL</LocID>                               
+			<Text>고코르티솔증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERCORTISOL_DESC</LocID>                   
+			<Text>쿠싱 증후군이라고도 하는, 부신에서 생성되는 호르몬인 코르티솔과 연관된 내분비 장애인 고코르티솔증 소견이 있습니다.</Text> 
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERALDOSTERONISM</LocID>                               
+			<Text>고알도스테론증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERALDOSTERONISM_DESC</LocID>                   
+			<Text>부신이 너무 많은 알도스테론을 만들어 고혈압과 낮은 혈중 칼륨 수치로 이어지는 질병인 고알도스테론증 소견이 있습니다.</Text> 
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_MC001_0_DETECTED</LocID>                               
+			<Text>신경내분비종양 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_MC001_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 제한성 단계의 신경내분비종양이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_MC001_1_DETECTED</LocID>                               
+			<Text>신경내분비종양 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_MC001_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 확장성 단계의 신경내분비종양이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LARGE_LYMPHNODE</LocID>                               
+			<Text>림프절염</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LARGE_LYMPHNODE_DESC</LocID>                   
+			<Text>질병, 감염 또는 스트레스에 반응하여 림프절이 부어오르는 림프절염이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ELAVATED_5HIAA</LocID>                               
+			<Text>높은 5-HIAA 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ELAVATED_5HIAA_DESC</LocID>                   
+			<Text>위장 카르시노이드(유암종) 문제를 의미하는, 소변에서 높은 5-HIAA 수치가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CGA_BL_DETECTED</LocID>                               
+			<Text>높은 혈중 크로모그라닌-A 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CGA_BL_DETECTED_DESC</LocID>                   
+			<Text>혈액에서 위장 카르시노이드(유암종)와 관련된 마커인 크로모그라닌-A 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CARCINOID_CRISIS</LocID>                               
+			<Text>유암종위기</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CARCINOID_CRISIS_DESC</LocID>                   
+			<Text>카르시노이드 위기라고도 불리는, 극심한 스트레스나 종양 생검,수술이나 마취로 유발될 수 있는 종양을 암시하는 병입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK</LocID>                               
+			<Text>아나필락시스 쇼크</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK_DESC</LocID>                   
+			<Text>아나필락시스 쇼크는 드물지만 심한 알레르기 반응으로 당장 치료하지 않으면 치명적일 수 있습니다. 음식, 곤충, 특정 약물 알레르기에 의해 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_UNUSUAL_INFECT</LocID>                               
+			<Text>비정상적 감염</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_UNUSUAL_INFECT_DESC</LocID>                   
+			<Text>원인을 알 수 없거나 비정상적인 특징을 가지는 감염이 확인됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FREQUENT_INFECT</LocID>                               
+			<Text>빈번한 감염</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FREQUENT_INFECT_DESC</LocID>                   
+			<Text>신체 면역계가 제대로 작동할만큼의 충분한 백혈구가 없기에 감염이 빈번할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LYMPHOCYTOSIS</LocID>                               
+			<Text>림프구증가증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LYMPHOCYTOSIS_DESC</LocID>                   
+			<Text>백혈구의 하위 유형인 림프구가 정상보다 많은 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PETECHIAE</LocID>                               
+			<Text>점상 출혈</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PETECHIAE_DESC</LocID>                   
+			<Text>피부나 점막의 작고 원형인 점에서 출혈이 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLEEDING_GUM</LocID>                               
+			<Text>잇몸 출혈</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLEEDING_GUM_DESC</LocID>                   
+			<Text>잇몹에서 출혈이 자주 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_TCOUNT</LocID>                               
+			<Text>높은 T세포 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HIGH_TCOUNT_DESC</LocID>                   
+			<Text>백혈구와 관련되어있는 T세포 수치가 비정상적으로 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_RC_APLASIA</LocID>                               
+			<Text>적혈구무형성증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_RC_APLASIA_DESC</LocID>                   
+			<Text>적혈구 수가 비정상적으로 낮습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CHRONIC_NEUT</LocID>                               
+			<Text>호중성백혈구감소증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CHRONIC_NEUT_DESC</LocID>                   
+			<Text>백혈구의 일종인 호중구 수치가 낮습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SPLENOMEGALY</LocID>                               
+			<Text>비장 비대</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>                   
+			<Text>비장의 크기가 비정상적으로 큰 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>                               
+			<Text>비장 파열</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>                   
+			<Text>비장의 캡슐 같은 덮개가 열리고 복부에 혈액을 내뿜는 응급 의료 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HEPATOMEGALY</LocID>                               
+			<Text>간 비대</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HEPATOMEGALY_DESC</LocID>                   
+			<Text>환자의 간이 비정상적으로 큰 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_THROMBOCYTOPENIA</LocID>                               
+			<Text>저혈소판증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_THROMBOCYTOPENIA_DESC</LocID>                   
+			<Text>혈액 내 혈소판 수가 적습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_02</LocID>                               
+			<Text>PML-RARA이상 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_02_DESC</LocID>                   
+			<Text>염색체 이상으로 PML/RARa 비정상 융합 유전자가 형성되었음이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FISH_POSLESION</LocID>                               
+			<Text>형광동소보합법 양성 소견</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FISH_POSLESION_DESC</LocID>                   
+			<Text>형광동소보합법 검사 결과 악성인 것으로 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_01</LocID>                               
+			<Text>필라델피아 염색체 이상 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_01_DESC</LocID>                   
+			<Text>형광동소보합법 검사 결과 만성골수성백혈병의 주요 지표인 필라델피아 염색체 결함이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_001</LocID>                               
+			<Text>골수세포형과산화효소 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_001_DESC</LocID>                   
+			<Text>백혈구의 일종인 호중구에 위치한 효소인 골수세포형과산화효소 검사 결과 양성입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_002</LocID>                               
+			<Text>수단블랙B 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_002_DESC</LocID>                   
+			<Text>수단블랙B 염색 검사 결과 양성입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_03</LocID>                               
+			<Text>이소시트레이트탈수소효소1/2 변이 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_03_DESC</LocID>                   
+			<Text>R-2-HG의 비정상 축적을 초래하고 백혈구 생성을 촉진하는 이소시트레이트탈수소효소 돌연변이가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_04</LocID>                               
+			<Text>BCR-ABL 융합 유전자 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_04_DESC</LocID>                   
+			<Text>BCR과 ABL로 알려진 두 유전자의 조합에 의해 형성되는 돌연변이가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_05</LocID>                               
+			<Text>8번 삼염색체 장애 발견</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_05_DESC</LocID>                   
+			<Text>8번 염색체가 일부 세포에서 2번이 아니라 3개가 존재하는 장애가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_06</LocID>                               
+			<Text>9번 삼염색체 장애 발견</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_06_DESC</LocID>                   
+			<Text>9번 염색체가 일부 세포에서 2번이 아니라 3개가 존재하는 장애가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_07</LocID>                               
+			<Text>필라델피아 염색체 복제</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_07_DESC</LocID>                   
+			<Text>필라델피아 염색체가 중복으로 나타나는 현상이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLA_HIGH1</LocID>                               
+			<Text>증가한 아세포 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLA_HIGH1_DESC</LocID>                   
+			<Text>검사 결과 환자의 혈액에서 아세포 수치가 높게(5-19%) 나왔습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLA_HIGH2</LocID>                               
+			<Text>높은 아세포 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLA_HIGH2_DESC</LocID>                   
+			<Text>검사 결과 환자의 혈액에서 아세포 수치가 매우 높게(20%-30%) 나왔습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLA_HIGH3</LocID>                               
+			<Text>심각한 아세포 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BLA_HIGH3_DESC</LocID>                   
+			<Text>검사 결과 환자의 혈액에서 아세포 수치가 심각하게(30%이상) 나왔습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_0_DETECTED</LocID>                               
+			<Text>Pre-B세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 Pre-B세포 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_1_DETECTED</LocID>                               
+			<Text>B세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 B세포 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC02_A_DETECTED</LocID>                               
+			<Text>만성 림프구성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC02_A_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 아직은 안정 단계인 만성 림프구성 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC02_B_DETECTED</LocID>                               
+			<Text>만성 림프구성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC02_B_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 진행 단계인 만성 림프구성 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_2_DETECTED</LocID>                               
+			<Text>T세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 T세포 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_3_DETECTED</LocID>                               
+			<Text>T세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_3_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 T세포 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_0_DETECTED</LocID>                               
+			<Text>T세포 거대과립림프구성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 T세포 거대과립림프구성백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_1_DETECTED</LocID>                               
+			<Text>NK세포 거대과립림프구성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 NK세포 거대과립림프구성백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_2_DETECTED</LocID>                               
+			<Text>T세포 전림프구성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 T세포 전림프구성 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC04_0_DETECTED</LocID>                               
+			<Text>급성골수성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC04_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 급성골수성백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_A_DETECTED</LocID>                               
+			<Text>만성골수성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_A_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 만성기 단계의 만성골수성백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_B_DETECTED</LocID>                               
+			<Text>만성골수성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_B_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 진행기 단계의 만성골수성백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_C_DETECTED</LocID>                               
+			<Text>만성골수성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_C_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 증폭기 단계의 만성골수성백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD10_BRIGHT</LocID>                               
+			<Text>CD10항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD10_BRIGHT_DESC</LocID>                   
+			<Text>급성 림프모구 백혈병 항원으로도 알려진 CD10이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD10_NEG</LocID>                               
+			<Text>CD10항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD10_NEG_DESC</LocID>                   
+			<Text>급성 림프모구 백혈병 항원으로도 알려진 CD10이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD19_BRIGHT</LocID>                               
+			<Text>CD19항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD19_BRIGHT_DESC</LocID>                   
+			<Text>B림프구 항원인 CD19가 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD19_NEG</LocID>                               
+			<Text>CD19항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD19_NEG_DESC</LocID>                   
+			<Text>B림프구 항원인 CD19가 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD20_DIM</LocID>                               
+			<Text>CD20항원 중성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD20_DIM_DESC</LocID>                   
+			<Text>B-림프구 항원인 CD20이 중성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD20_BRIGHT</LocID>                               
+			<Text>CD20항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD20_BRIGHT_DESC</LocID>                   
+			<Text>B-림프구 항원인 CD20이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_TDT_BRIGHT</LocID>                               
+			<Text>TdT항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_TDT_BRIGHT_DESC</LocID>                   
+			<Text>급성림프모구 백혈병에서 발현되는 TDT 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_TDT_NEG</LocID>                               
+			<Text>TdT항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_TDT_NEG_DESC</LocID>                   
+			<Text>급성림프모구 백혈병에서 발현되는 TDT 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD22_DIM</LocID>                               
+			<Text>CD22항원 중성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD22_DIM_DESC</LocID>                   
+			<Text>성숙한 B세포의 표면에서 별견되는 CD22 항원이 중성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD22_BRIGHT</LocID>                               
+			<Text>CD22항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD22_BRIGHT_DESC</LocID>                   
+			<Text>성숙한 B세포의 표면에서 별견되는 CD22 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD23_BRIGHT</LocID>                               
+			<Text>CD23항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD23_BRIGHT_DESC</LocID>                   
+			<Text>만성림프구성 백혈병 분화와 관련된 단백질인 CD23 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD34_BRIGHT</LocID>                               
+			<Text>CD34항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD34_BRIGHT_DESC</LocID>                   
+			<Text>T세포가 림프절에 들어가기 위해 필요한 CD34 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD79a_BRIGHT</LocID>                               
+			<Text>CD79A항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD79a_BRIGHT_DESC</LocID>                   
+			<Text>B-세포와 관련된 CD79A 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD79b_NEG</LocID>                               
+			<Text>CD79B항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD79b_NEG_DESC</LocID>                   
+			<Text>면역글로불린 관련 베타인 CD79B 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD11c_BRIGHT</LocID>                               
+			<Text>CD11C항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD11c_BRIGHT_DESC</LocID>                   
+			<Text>Integrin Alpha X로도 알려진 CD11C 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD25_BRIGHT</LocID>                               
+			<Text>CD25항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD25_BRIGHT_DESC</LocID>                   
+			<Text>성인T세포 백혈병에서 발현되는 CD25 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD25_NEG</LocID>                               
+			<Text>CD25항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD25_NEG_DESC</LocID>                   
+			<Text>성인T세포 백혈병에서 발현되는 CD25 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD103_BRIGHT</LocID>                               
+			<Text>CD103항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD103_BRIGHT_DESC</LocID>                   
+			<Text>모발세포백혈병의 지표인 CD103 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD123_DIM</LocID>                               
+			<Text>CD123항원 중성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD123_DIM_DESC</LocID>                   
+			<Text>급성골수성백혈병 아형의 지표인 CD123 항원이 중성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD123_BRIGHT</LocID>                               
+			<Text>CD123항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD123_BRIGHT_DESC</LocID>                   
+			<Text>급성골수성백혈병 아형의 지표인 CD123 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+			<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD123_NEG</LocID>                               
+			<Text>CD123항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD123_NEG_DESC</LocID>                   
+			<Text>급성골수성백혈병 아형의 지표인 CD123 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD1a_BRIGHT</LocID>                               
+			<Text>CD1A항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD1a_BRIGHT_DESC</LocID>                   
+			<Text>T세포와 연관된 CD1A 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD1a_NEG</LocID>                               
+			<Text>CD1A항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD1a_NEG_DESC</LocID>                   
+			<Text>T세포와 연관된 CD1A 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD5_BRIGHT</LocID>                               
+			<Text>CD5항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD5_BRIGHT_DESC</LocID>                   
+			<Text>B세포 악성 종양의 지표인 CD5 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD7_BRIGHT</LocID>                               
+			<Text>CD7항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD7_BRIGHT_DESC</LocID>                   
+			<Text>성숙한 T세포에서 발견되는 CD7 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD13_BRIGHT</LocID>                               
+			<Text>CD13항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD13_BRIGHT_DESC</LocID>                   
+			<Text>다양한 백혈병 및 림프종의 지표인 CD13 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD15_BRIGHT</LocID>                               
+			<Text>CD15항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD15_BRIGHT_DESC</LocID>                   
+			<Text>거의 모든 Reed-Sternberg 세포에 존재하는 CD15 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD33_BRIGHT</LocID>                               
+			<Text>CD33항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD33_BRIGHT_DESC</LocID>                   
+			<Text>Siglec-3이라고도 불리는 CD33 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD117_BRIGHT</LocID>                               
+			<Text>CD117항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD117_BRIGHT_DESC</LocID>                   
+			<Text>줄기세포 성장 인자와 관련된 CD117 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD117_NEG</LocID>                               
+			<Text>CD117항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD117_NEG_DESC</LocID>                   
+			<Text>줄기세포 성장 인자와 관련된 CD117 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD38_BRIGHT</LocID>                               
+			<Text>CD38항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD38_BRIGHT_DESC</LocID>                   
+			<Text>면역 반응이나 신진대사, 기억 상실 등과 관련이 있는 CD38 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD38_DIM</LocID>                               
+			<Text>CD38항원 중성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD38_DIM_DESC</LocID>                   
+			<Text>면역 반응이나 신진대사, 기억 상실 등과 관련이 있는 CD38 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD43_BRIGHT</LocID>                               
+			<Text>CD43항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD43_BRIGHT_DESC</LocID>                   
+			<Text>B-세포 림프종의 지표인 CD43 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD8_BRIGHT</LocID>                               
+			<Text>CD8항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD8_BRIGHT_DESC</LocID>                   
+			<Text>T세포 수용체와 관련있는 CD8 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD3_BRIGHT</LocID>                               
+			<Text>CD3항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD3_BRIGHT_DESC</LocID>                   
+			<Text>거의 모든 T-세포 림프종 및 백혈병에 존재하는 CD3 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD3_NEG</LocID>                               
+			<Text>CD3항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD3_NEG_DESC</LocID>                   
+			<Text>거의 모든 T-세포 림프종 및 백혈병에 존재하는 CD3 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD16_BRIGHT</LocID>                               
+			<Text>CD16항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD16_BRIGHT_DESC</LocID>                   
+			<Text>FcγRIII으로도 알려진 CD16 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD56_BRIGHT</LocID>                               
+			<Text>CD56항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD56_BRIGHT_DESC</LocID>                   
+			<Text>종종 신경 계통 연계의 지표로도 사용되는 CD56 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_HLADR_BRIGHT</LocID>                               
+			<Text>HLA-DR항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_HLADR_BRIGHT_DESC</LocID>                   
+			<Text>MHC class II 세포 표면 수용체인 HLA-DR 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PANCYTOPENIA</LocID>                               
+			<Text>범혈구감소증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PANCYTOPENIA_DESC</LocID>                   
+			<Text>혈액 내의 적혈구, 백혈구 및 혈소판 유형의 모든 수치가 낮습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HAIRYCELL</LocID>                               
+			<Text>털모양 세포</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HAIRYCELL_DESC</LocID>                   
+			<Text>비정상적인 백혈구들이 털 같은 돌기를 가진 모양으로 발견됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_003</LocID>                               
+			<Text>TRAP 효소 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_003_DESC</LocID>                   
+			<Text>포유 동물에서 발현되는 단백질 효소인 TRAPase가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_08</LocID>                               
+			<Text>BRAF-V600E 돌연변이 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_08_DESC</LocID>                   
+			<Text>BRAF 유전자의 V600E의 코돈 600에서 돌연변이가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_09</LocID>                               
+			<Text>IGHV 돌연변이 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_09_DESC</LocID>                   
+			<Text>Ig heavy chain V-III region VH26 유전자에서 돌연변이가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC06_0_DETECTED</LocID>                               
+			<Text>모발상세포백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC06_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 모발상세포 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC06_1_DETECTED</LocID>                               
+			<Text>비전형 모발상세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC06_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 비전형 모발상세포 백혈병이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_10</LocID>                               
+			<Text>염색체 17p13 결실</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_10_DESC</LocID>                   
+			<Text>검사 결과 환자의 세포에서 염색체 17p13이 결실되었음이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NECROSIS</LocID>                               
+			<Text>괴사</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NECROSIS_DESC</LocID>                   
+			<Text>세포의 조기 사망을 초래하는 세포 손상의 한 형태인 괴사 현상이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LPT1</LocID>                               
+			<Text>큰 원발성 종양 발견</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LPT1_DESC</LocID>                   
+			<Text>검사 결과 암이 진행된 상태에 있다는 신호일 수 있는 큰 1차 종양이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_LUMP</LocID>                               
+			<Text>유방 종괴</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_LUMP_DESC</LocID>                   
+			<Text>유방 조직이 덩어리로 팽창 또는 융기함이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_DISCH</LocID>                               
+			<Text>유방 액체 배출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_DISCH_DESC</LocID>                   
+			<Text>유두에서 유체가 방출됩니다. 매우 흔한 유방 증상이지만 대부분의 경우 이는 유방의 정상적인 기능의 일부입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SORE_NIPPLE</LocID>                               
+			<Text>유두 통증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SORE_NIPPLE_DESC</LocID>                   
+			<Text>유두 주변의 유방 조직에서 통증이 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_SCHANGE</LocID>                               
+			<Text>유방 형태 변화</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_SCHANGE_DESC</LocID>                   
+			<Text>환자의 유방 모양이나 크기가 변화했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_DIMP</LocID>                               
+			<Text>유방 오목형성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_DIMP_DESC</LocID>                   
+			<Text>유방의 피부가 오렌지의 겉면처럼 울퉁불퉁합니다. 피부가 붉어지고 염증이 있을 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_PAIN</LocID>                               
+			<Text>유방 통증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BREAST_PAIN_DESC</LocID>                   
+			<Text>일반적인 증상이지만, 한쪽 또는 양쪽 가슴에 압통 또는 예리한 통증을 느낍니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SUS_CALC</LocID>                               
+			<Text>유방 석회화</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SUS_CALC_DESC</LocID>                   
+			<Text>유방 조직에서 작은 칼슘 침착물을 발생시킴이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IRR_BMASS</LocID>                               
+			<Text>불규칙한 유방 밀도</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IRR_BMASS_DESC</LocID>                   
+			<Text>유방 촬영 사진은 밀도가 불규칙하고 덩어리가 존재함을 알려주고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMA_CA153</LocID>                               
+			<Text>높은 혈중 CA15-3 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMA_CA153_DESC</LocID>                   
+			<Text>다양한 세포, 특히 유방함 세포에 의해 만들어지는 단백질인 CA15-3 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+			<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMA_CA2729</LocID>                               
+			<Text>높은 혈중 CA27-29 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMA_CA2729_DESC</LocID>                   
+			<Text>전이성 유방암 모니터링에 주로 사용되는 CA27-29 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_0_DETECTED</LocID>                               
+			<Text>유방 관상피내암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 유방 관상피내암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_11</LocID>                               
+			<Text>결함 BRCA1 유전자 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_11_DESC</LocID>                   
+			<Text>DNA 복구를 담당하는 종양 억제 유전자인 BRCA에 결함이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HRM_01</LocID>                               
+			<Text>에스트로겐 수용체 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HRM_01_DESC</LocID>                   
+			<Text>에스트로겐 수용체 검사 결과 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HRM_02</LocID>                               
+			<Text>황체호르몬 수용체 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HRM_02_DESC</LocID>                   
+			<Text>황체호르몬 수용체 검사 결과 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD340_NEG</LocID>                               
+			<Text>CD340항체 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD340_NEG_DESC</LocID>                   
+			<Text>ERBB2로도 알려진 CD340 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD340_POS</LocID>                               
+			<Text>CD340항체 돌연변이 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD340_POS_DESC</LocID>                   
+			<Text>ERBB2로도 알려진 CD340 항원이 양성 돌연변이 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SPEC_MARG</LocID>                               
+			<Text>별모양 조직</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SPEC_MARG_DESC</LocID>                   
+			<Text>조직 가닥에 이상이 생겨 별 모양으로 뭉쳐 있음이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_1_DETECTED</LocID>                               
+			<Text>침윤성 유방암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 침윤성 유방암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD44v6_BRIGHT</LocID>                               
+			<Text>CD44v6항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD44v6_BRIGHT_DESC</LocID>                   
+			<Text>종양 성장, 전이와 관련이 있는 CD44v6 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_12</LocID>                               
+			<Text>GATA3 돌연변이 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_12_DESC</LocID>                   
+			<Text>유방암 진단의 중요 지표인 GATA3 항원이 돌연변이 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_2_DETECTED</LocID>                               
+			<Text>전이성 유방암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이성 유방암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_HEMOPTYSIS2</LocID>                               
+			<Text>심한 객혈</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_HEMOPTYSIS2_DESC</LocID>                   
+			<Text>기침을 할 때 피나 피가 섞인 가래를 뱉어냅니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_INC_INTRAPRE</LocID>                               
+			<Text>두개내압 증가</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_INC_INTRAPRE_DESC</LocID>                   
+			<Text>뇌 주위의 압력이 상승하였습니다. 뇌척수액의 양의 증가나 파열된 종양으로 뇌 혈액 증가가 원인일 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BRAIN_ABW</LocID>                               
+			<Text>비정상적인 뇌파</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BRAIN_ABW_DESC</LocID>                   
+			<Text>비정상적인 뇌파 패턴이 감지되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LPT2</LocID>                               
+			<Text>비정상 덩어리 감지</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_LPT2_DESC</LocID>                   
+			<Text>검사 결과 비정상적인 덩어리가 발견되었으며, 추가적인 검사가 필요합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_0_DETECTED</LocID>                               
+			<Text>모양성 성상세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 모양성 성상세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_13</LocID>                               
+			<Text>신경섬유종증 1형 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_13_DESC</LocID>                   
+			<Text>신경섬유종증 1형은 염색체 17 유전자의 돌연변이에 의해 발생하는 복잡한 다중 시스템 장애입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_EGB</LocID>                               
+			<Text>호산과립구형체</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_EGB_DESC</LocID>                   
+			<Text>호산과립구형체의 빈번한 존재는 낮은 등급의 종양에 대해 더 높은 등급으로의 발전을 억제하는 유용한 실마리입니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SL_ABSCESS</LocID>                               
+			<Text>농양</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FND</LocID>                   
+			<Text>국소 신경학적 결손</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FND_DESC</LocID>                               
+			<Text>국소적인 신경 결손은 신경, 척수 또는 뇌 기능에의 문제입니다. 얼굴의 한 쪽 또는 팔, 혀와 같은 작은 영역과 같은 위치에 영향을 주며, 언어나 시각 및 청각 문제도 포함합니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMD</LocID>                   
+			<Text>뇌석</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMD_DESC</LocID>                               
+			<Text>두개 내 석회화인 뇌석이 발견되었습니다. 이는 외상, 수술, 뇌졸중 및 방사선 치료와 같은 뇌 손상 부위에서 가장 흔하게 나타납니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSPHASIA</LocID>                   
+			<Text>언어장애</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_14</LocID>                   
+			<Text>리-프라우메니 증후군</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_14_DESC</LocID>                               
+			<Text>TP53으로 알려진 종양 억제 유전자의 돌연변이가 리-프라우메니 증후군을 유발합니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSPHASIA_DESC</LocID>                               
+			<Text>뇌 질환이나 손상으로 인해 이해력이 부족한 언어 장애가 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_MCRO_CYSTS</LocID>                   
+			<Text>소낭종</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_MCRO_CYSTS_DESC</LocID>                               
+			<Text>아주 작으며 액체 또는 반고체 물질로 채워진, 비정상적이며 암으로 성장할 수 있는 소낭종은 때로 통증을 유발할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_1_DETECTED</LocID>                               
+			<Text>미만성 성상세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 미만성 성상세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_KI67_LLI</LocID>                               
+			<Text>낮은 KI-67항원 지수</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_KI67_LLI_DESC</LocID>                   
+			<Text>세포의 성장 분율을 결정하는 중요한 지표인 KI-67 항원 지수가 낮습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_KI67_BLI</LocID>                               
+			<Text>활발한 KI-67항원 지수</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_2_DETECTED</LocID>                               
+			<Text>역형성 성상세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_2_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 역형성 성상세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_15</LocID>                               
+			<Text>이형접합성 상실</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_15_DESC</LocID>                   
+			<Text>낮은 생존율을 유발하는 이 돌연변이는 염색체 ARM10Q 에서 이형접합성을 상실하게 합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_16</LocID>                               
+			<Text>혈소판유래성장인자 과다</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_16_DESC</LocID>                   
+			<Text>혈관 형성과 혈관의 성장에 중요한 역할을 하는 혈소판유래성장인자가 과다한 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_017</LocID>                               
+			<Text>IDH1/IDH2 돌연변이 음성</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSPAREUNIA</LocID>                   
+			<Text>성교통증 (여성)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSPAREUNIA_DESC</LocID>                               
+			<Text>성관계시 생식기 통증을 느낍니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMA_CA125</LocID>                   
+			<Text>높은 CA125항원 수치</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CMA_CA125_DESC</LocID>                               
+			<Text>난소암과 주로 관련된 CA125항원 혈중 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_OVAC1_0F_DETECTED</LocID>                               
+			<Text>고등급 장액성 난소암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_OVAC1_0F_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 고등급 장액성 난소암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_EARLY_SAT</LocID>                               
+			<Text>조기포만감</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_EARLY_SAT_DESC</LocID>                   
+			<Text>적은 음식을 먹고도 과다한 포만감을 느낍니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PMPB</LocID>                               
+			<Text>폐경후 출혈</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PMPB_DESC</LocID>                   
+			<Text>폐경기인 여성의 자궁에서 출혈이 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IRR_MNS</LocID>                               
+			<Text>불규칙한 월경</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IRR_MNS_DESC</LocID>                   
+			<Text>불규칙적이고 비정상적인 월경 패턴을 가집니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_APM</LocID>                               
+			<Text>골반 비정상 덩어리 감지</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_APM_DESC</LocID>                   
+			<Text>자궁 및 주변 기관, 창자, 방광, 요관 및 신장 기관과 같은 골반 기관에 비정상적인 덩어리가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_OVAR_CYST</LocID>                               
+			<Text>난소 낭종</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_OVAR_CYST_DESC</LocID>                   
+			<Text>난소 또는 그 표면에 유체로 채워진 낭종 주머니가 존재합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_OVAC1_1F_DETECTED</LocID>                               
+			<Text>저등급 장액성 난소암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_OVAC1_1F_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 저등급 장액성 난소암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_004</LocID>                               
+			<Text>미세 유두 침습 패턴</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_004_DESC</LocID>                   
+			<Text>섬유 혈관 코어가 없는 미세 유두 구조를 나타내는 패턴이 발견됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_005</LocID>                               
+			<Text>모래종체</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_005_DESC</LocID>                   
+			<Text>둥글고 미세한 석회질 덩어리인 모래종체가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_18</LocID>                               
+			<Text>BRAF-V599E 돌연변이 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_18_DESC</LocID>                   
+			<Text>BRAF 유전자에서 V599E 돌연변이가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ASCITES</LocID>                               
+			<Text>복수</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ASCITES_DESC</LocID>                   
+			<Text>배 속 공간복강에 액체가 차 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PLEURAL_EFFUSION</LocID>                               
+			<Text>흉막삼출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PLEURAL_EFFUSION_DESC</LocID>                   
+			<Text>흉강 내에 혈장성 액체나 삼출액이 차 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD146_BRIGHT</LocID>                               
+			<Text>CD146항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD146_BRIGHT_DESC</LocID>                   
+			<Text>흑색종세포부착분자인 MCAM 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK7_BRIGHT</LocID>                               
+			<Text>CK7항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK7_BRIGHT_DESC</LocID>                   
+			<Text>케라틴-7 또는 SCL로 알려진 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK7_NEG</LocID>                               
+			<Text>CK7항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK7_NEG_DESC</LocID>                   
+			<Text>케라틴-7 또는 SCL로 알려진 단백질 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK20_BRIGHT</LocID>                               
+			<Text>CK20항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK20_BRIGHT_DESC</LocID>                   
+			<Text>케라틴-20으로도 불리는 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK20_NEG</LocID>                               
+			<Text>CK20항원 음성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CK20_NEG_DESC</LocID>                   
+			<Text>케라틴-20으로도 불리는 단백질 항원이 음성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_17</LocID>                               
+			<Text>IDH1/IDH2 비검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_17_DESC</LocID>                   
+			<Text>이소시트레이트탈수소효소 검출 시험 결과가 음성입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_3_DETECTED</LocID>                               
+			<Text>교모세포종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BRAC01_3_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 교모세포종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PSA_BL_DETECTED</LocID>                               
+			<Text>높은 PSA 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_PSA_BL_DETECTED_DESC</LocID>                   
+			<Text>전립선에 의해서만 생산되는 단백질인 전립샘특이항원 수치가 보통보다 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSORGASMIA</LocID>                   
+			<Text>고통스러운 오르가즘</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSORGASMIA_DESC</LocID>                               
+			<Text>성관계 중에는 사전 통증이 없지만 고통스러운 오르가즘을 동반합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_APM1</LocID>                               
+			<Text>비정상적인 전립선 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_APM1_DESC</LocID>                   
+			<Text>검사 결과 환자의 전립선에 이상이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_0M_DETECTED</LocID>                               
+			<Text>전립선암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_0M_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 1기에 해당하는 전립선암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_1M_DETECTED</LocID>                               
+			<Text>전립선암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_1M_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 2기에 해당하는 전립선암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_2M_DETECTED</LocID>                               
+			<Text>전립선암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_2M_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 3기에 해당하는 전립선암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_3M_DETECTED</LocID>                               
+			<Text>전립선암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_PROC1_3M_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 4기에 해당하는 전립선암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DIFF_URINE</LocID>                               
+			<Text>요폐</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DIFF_URINE_DESC</LocID>                   
+			<Text>방광을 소변을 보더라도 온전히 비울 수 없습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NIGHT_URGE</LocID>                               
+			<Text>야간 빈뇨</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_NIGHT_URGE_DESC</LocID>                   
+			<Text>야간에 소변을 위해 화장실에 자주 가야 합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_UAS_PCA3</LocID>                               
+			<Text>높은 PCA3 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_UAS_PCA3_DESC</LocID>                   
+			<Text>검사 결과 전립선암항원인 PCA3수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_UAS_PCA3</LocID>                               
+			<Text>높은 PCA3 수치</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_UAS_PCA3_DESC</LocID>                   
+			<Text>검사 결과 전립선암항원인 PCA3수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ED</LocID>                               
+			<Text>발기부전</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ED_DESC</LocID>                   
+			<Text>발기하기 어렵거나 유지하기 힘듭니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HEMATOSPERMIA</LocID>                               
+			<Text>혈정액증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HEMATOSPERMIA_DESC</LocID>                   
+			<Text>정액에 혈액이 포함됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERCALCEMIA</LocID>                               
+			<Text>고칼슘혈증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>                   
+			<Text>혈중 칼슘 수치가 정상보다 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>                               
+			<Text>심각한 고칼슘혈증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>                   
+			<Text>혈중 칼슘 수치가 심각하게 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_OVAC1_2F_DETECTED</LocID>                               
+			<Text>전이성 난소암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_OVAC1_2F_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이성 난소암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD13_NEG</LocID>                               
+			<Text>CD13항원 음성</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD30_BRIGHT</LocID>                   
+			<Text>CD30항원 양성</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD30_BRIGHT_DESC</LocID>                               
+			<Text>TNFRSF8로도 알려진 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC07_0_DETECTED</LocID>                               
+			<Text>광범위큰B세포림프종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC07_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 광범위큰B세포림프종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD45_BRIGHT</LocID>                               
+			<Text>CD45항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD45_BRIGHT_DESC</LocID>                   
+			<Text>PTPRC로도 알려진 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_19</LocID>                               
+			<Text>IGH-BCL2 재배열</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_19_DESC</LocID>                   
+			<Text>염색체 14의 IGH 유전자와 염색체 18의 BCL2 유전자에 재배열 이상이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_20</LocID>                               
+			<Text>BCL6 과돌연변이</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_20_DESC</LocID>                   
+			<Text>B세포 림프종 6 단백질이 빈번하게 돌연변이되고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC08_0_DETECTED</LocID>                               
+			<Text>소포림프종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC08_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 소포림프종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_BLC2_BRIGHT</LocID>                               
+			<Text>BCL2항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_BLC2_BRIGHT_DESC</LocID>                   
+			<Text>B세포 림프종 2 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_DGP</LocID>                               
+			<Text>광범위성장패턴</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_DGP_DESC</LocID>                   
+			<Text>모호한 마디가 있거나 광범위한 세포 성장 패턴을 보입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC4_0_DETECTED</LocID>                               
+			<Text>메르켈 세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC4_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 국소 단계의 메르켈 세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ABNORMAL_NODULE</LocID>                               
+			<Text>비정상적으로 착색된 결절</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_ABNORMAL_NODULE_DESC</LocID>                   
+			<Text>환자의 피부에 비정상적인 붉은 색이나 자주 색 결절이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_MCP_VIR</LocID>                               
+			<Text>메르켈세포 폴리오마바이러스 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_MCP_VIR_DESC</LocID>                   
+			<Text>PCR 또는 FISH 검사에 의해 메르켈세포 폴리오마바이러스가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_MCP_VIR_EL</LocID>                               
+			<Text>메르켈세포 폴리오마바이러스 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_MCP_VIR_EL_DESC</LocID>                   
+			<Text>전자현미경 검사로 메르켈세포 폴리오마바이러스가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC4_1_DETECTED</LocID>                               
+			<Text>메르켈 세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC4_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 전이 단계의 메르켈 세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC09_0_DETECTED</LocID>                               
+			<Text>외투세포림프종 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC09_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 외투세포림프종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_006</LocID>                               
+			<Text>사이클린 D1 과잉생산</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_006_DESC</LocID>                   
+			<Text>세포 주기 진입을 조절하는 단백질인 사이클린 D1을 과잉생산합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_21</LocID>                               
+			<Text>IGH/CCND1 재배열</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_21_DESC</LocID>                   
+			<Text>IGH/CCND1 유전자 재배열이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_SPC</LocID>                               
+			<Text>소금후추 염색질</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_SPC_DESC</LocID>                   
+			<Text>소금후추 염색질을 나타내는 세포핵을 발견하였습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_LSAC</LocID>                               
+			<Text>역형성 큰 세포</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_LSAC_DESC</LocID>                   
+			<Text>주변보다 상당히 큰 거대 세포가 형성되어 기괴한 모양의 하나, 또는 여러개의 핵을 가지는 세포가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC2_0_DETECTED</LocID>                               
+			<Text>대세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC2_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 대세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_007</LocID>                               
+			<Text>TTF1 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_007_DESC</LocID>                   
+			<Text>갑상선전사인자인 TTF1 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IS_001</LocID>                               
+			<Text>P63 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IS_001_DESC</LocID>                   
+			<Text>전립선 암종 및 양성 전립선 조직과 관련된 P63 단백질 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC3_0_DETECTED</LocID>                               
+			<Text>폐 선암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC3_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 초기 단계의 폐 선암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC3_1_DETECTED</LocID>                               
+			<Text>폐 선암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC3_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 후기 단계의 폐 선암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERTROPHIC_PO</LocID>                               
+			<Text>비대성 골관절증</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_HYPERTROPHIC_PO_DESC</LocID>                   
+			<Text>환자에게 비대성 골관절증 증세가 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD44_BRIGHT</LocID>                               
+			<Text>CD44항원 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD44_BRIGHT_DESC</LocID>                   
+			<Text>세포간 상호 작용, 세포 부착 및 이동에 관여하는 CD44 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_22</LocID>                               
+			<Text>EGFR 돌연변이 과발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_22_DESC</LocID>                   
+			<Text>표피성장인자수용체인 EGFR 과다 발현 돌연변이는 제어되지 않은 세포 분열을 유발한다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC4_0_DETECTED</LocID>                               
+			<Text>폐 편평상피세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_LC4_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 폐 편평상피세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD274_BRIGHT</LocID>                               
+			<Text>CD274 양성</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CM_CD274_BRIGHT_DESC</LocID>                   
+			<Text>특정 질병에 대한 면역과 관련있는 CD274 항원이 양성 특징을 가지고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IS_002</LocID>                               
+			<Text>P53 비정상 발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_IS_002_DESC</LocID>                   
+			<Text>종양 억제와 관련있는 P53 종양 단백질이 비정상적으로 발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_HISRC</LocID>                               
+			<Text>반지세포 모양 발견</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_HISRC_DESC</LocID>                   
+			<Text>조직학에서, 고리모양 세포는 큰 액포를 가지는 세포이며, 악성 유형은 암종에서 보이고는 합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_23</LocID>                               
+			<Text>현미부수체 불안정</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_23_DESC</LocID>                   
+			<Text>미세현미부수체의 길이가 변하는 오류가 쉽게 복구되지 않아 이들 길이의 불안정성이 흔하게 동반됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_008</LocID>                               
+			<Text>뮤신4 고발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_008_DESC</LocID>                   
+			<Text>결장 및 자궁 경부와 같은 상피 표면을 덮는 점액과 관련된 뮤신4가 고발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_24</LocID>                               
+			<Text>CDH1 돌연변이 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_CDF_T_24_DESC</LocID>                   
+			<Text>CD324나 CAM120/80으로도 알려진 종양 억제 유전자에서 돌연변이가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC2_0_DETECTED</LocID>                               
+			<Text>대장 반지세포암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC2_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 대장 반지세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_COLONOFIND</LocID>                               
+			<Text>대장내시경 소견</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_COLONOFIND_DESC</LocID>                   
+			<Text>대장내시경 결과 결장에서 비정상적인 점이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_010</LocID>                               
+			<Text>뮤신2 고발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_010_DESC</LocID>                   
+			<Text>상피 내벽의 세포로부터 대장으로 분비되는 장에서 두드러지는 뮤신2가 고발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_011</LocID>                               
+			<Text>뮤신5AC 고발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_011_DESC</LocID>                   
+			<Text>상피 세포에 대한 장벽 기능과 병원체와의 상호작용과 관련된 뮤신5AC가 고발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_012</LocID>                               
+			<Text>뮤신1 고발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_012_DESC</LocID>                   
+			<Text>병원체로부터의 감염을 막아주는 뮤신1이 고발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_009</LocID>                               
+			<Text>뮤신6 고발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_009_DESC</LocID>                   
+			<Text>MUC6으로도 알려진 뮤신6이 고발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_PMCC</LocID>                               
+			<Text>순수한 점액종양</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_PMCC_DESC</LocID>                   
+			<Text>90-100%의 점액세포로 구성된 점액종양이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_MMCC</LocID>                               
+			<Text>혼합된 점액종양</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_BL_MMCC_DESC</LocID>                   
+			<Text>다른 암종 세포와 결합하여 구성된 점액종양이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC3_0_DETECTED</LocID>                               
+			<Text>점액성 대장암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC3_0_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 혼합성인 점액성 대장암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC3_1_DETECTED</LocID>                               
+			<Text>점액성 대장암 검출</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BC3_1_DETECTED_DESC</LocID>                   
+			<Text>검사 결과 일반적인 점액성 대장암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_013</LocID>                               
+			<Text>냅신A 고발현</Text>  
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_SM_P_013_DESC</LocID>                   
+			<Text>폐암에 대한 지표와 관련이 있기도 한 냅신A가 고발현되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_ONCO_BREC01_0M_DETECTED</LocID>                               
+			<Text>유방 관상피내암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_BREC01_1M_DETECTED</LocID>                               
+			<Text>침윤성 유방암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_BREC01_2M_DETECTED</LocID>                               
+			<Text>전이성 유방암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_WHITE_STOOLS</LocID>                               
+			<Text>흰색 변</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_WHITE_STOOLS_DESC</LocID>                               
+			<Text>회색이나 흰색의 변은 간에서 생성되는 담즙이 부족하여 발생하며, 이는 심각한 문제가 있음을 의미합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_LIV_PRECONDITION</LocID>                               
+			<Text>기존 간 질환</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_LIV_PRECONDITION_DESC</LocID>                               
+			<Text>의료 기록은 이 환자에게 기존 간 질환이 있음을 알려주고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_HEPATIC_ENCE</LocID>                               
+			<Text>간성뇌병증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_HEPATIC_ENCE_DESC</LocID>                               
+			<Text>간성뇌병증은 심각한 간 질환의 결과로 발생하는 뇌 기능의 감소로 의미하며, 이 상태에서 간은 독소를 적절하게 제거할 수 없습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_HYPERAMMONEMIA</LocID>                               
+			<Text>고암모니아혈증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_HYPERAMMONEMIA_DESC</LocID>                               
+			<Text>고암모니아혈증은 혈액에 과량의 암모니아가 발견되는 상태이며, 뇌 손상과 사망으로 이어질 수 있는 심각한 지표이다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_IS_003</LocID>                               
+			<Text>높은 알파태아단백질 수치</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_IS_003_DESC</LocID>                               
+			<Text>간 질환의 악성 지표와 관련된 알파태아단백질 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_CMA_CAHP1</LocID>                               
+			<Text>간세포 파라핀1 항원 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_CMA_CAHP1_DESC</LocID>                               
+			<Text>간세포 암종 지표와 관련된 간세포 파라핀1 항원이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_ONCO_LIV0_0_DETECTED</LocID>                               
+			<Text>간세포암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_LIV0_0_DETECTED_DESC</LocID>                               
+			<Text>검사 결과 초기 단계의 간세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_ONCO_LIV0_1_DETECTED</LocID>                               
+			<Text>간세포암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_LIV0_1_DETECTED_DESC</LocID>                               
+			<Text>검사 결과 중기 단계의 간세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_ONCO_LIV0_2_DETECTED</LocID>                               
+			<Text>간세포암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_LIV0_2_DETECTED_DESC</LocID>                               
+			<Text>검사 결과 말기 단계의 간세포암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_ONCO_LIV0_3_DETECTED</LocID>                               
+			<Text>전이성 간암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_LIV0_3_DETECTED_DESC</LocID>                               
+			<Text>검사 결과 전이 단계의 간암이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_SLP_AB_LFT</LocID>                               
+			<Text>비정상적 간기능검사 결과</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_AB_LFT_DESC</LocID>                               
+			<Text>간기능검사 결과 비정상적인 소견이 발견되었습니다. 항상 간 질환을 의미하는것은 아니며 여러 요인이 있을 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>                               
+			<Text>급성 간부전</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>                               
+			<Text>급성 간부전은 간 기능이 급격히 상실되는 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_SLP_CELL_REJECTION</LocID>                               
+			<Text>거부반응</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_CELL_REJECTION_DESC</LocID>                               
+			<Text>이식된 장기를 신체가 외부 침입으로 식별하고 공격하는 현상입니다. 가능한 빨리 이를 치료하는것이 매우 중요합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_SLP_INTERNAL_BLEEDING</LocID>                               
+			<Text>내부 출혈</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_INTERNAL_BLEEDING_DESC</LocID>                               
+			<Text>주로 흉강이나 위강, 또는 근육같이 신체 내부에서 출혈이 발생합니다. 이는 외상이나 수술, 합병증으로 발생할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_SLP_HEMO_INSTA</LocID>                               
+			<Text>혈류 불안정</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_HEMO_INSTA_DESC</LocID>                               
+			<Text>혈압이 비장성적이거나 혈역학적으로 불안정하여 혈류가 위험한 상황입니다. 생명을 위협하는 시급한 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>SYM_SLP_LES_RUPTURE</LocID>                               
+			<Text>병변 파열</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>                               
+			<Text>환자 내부의 병변이나 종양이 파열되었습니다. 이는 생명을 위협하는 내부 출혈과 직접적으로 연관됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_0_DETECTED_V2</LocID>                               
+			<Text>Pre-B세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_1_DETECTED_V2</LocID>                               
+			<Text>B세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC01_2_DETECTED_V2</LocID>                               
+			<Text>T세포 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC02_A_DETECTED_V2</LocID>                               
+			<Text>만성 림프구성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC02_B_DETECTED_V2</LocID>                               
+			<Text>만성 림프구성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_0_DETECTED_V2</LocID>                               
+			<Text>T세포 거대과립림프구성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_1_DETECTED_V2</LocID>                               
+			<Text>NK세포 거대과립림프구성백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC03_2_DETECTED_V2</LocID>                               
+			<Text>T세포 전림프구성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC04_0_DETECTED_V2</LocID>                               
+			<Text>급성 골수성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_A_DETECTED_V2</LocID>                               
+			<Text>만성 골수성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_B_DETECTED_V2</LocID>                               
+			<Text>만성 골수성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC05_C_DETECTED_V2</LocID>                               
+			<Text>만성 골수성 백혈병 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC08_0_DETECTED_V2</LocID>                               
+			<Text>소포림프종 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BLC07_0_DETECTED_V2</LocID>                               
+			<Text>광범위큰B세포림프종 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_BREC01_1_DETECTED_V2</LocID>                               
+			<Text>침윤성 유방암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>SYM_ONCO_BREC01_1M_DETECTED_V2</LocID>                               
+			<Text>침윤성 유방암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_MC001_1_DETECTED_V2</LocID>                               
+			<Text>신경내분비종양 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC3_4_DETECTED_V2</LocID>                               
+			<Text>흑색종 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_SC4_1_DETECTED_V2</LocID>                               
+			<Text>메르켈 세포암 검출</Text>  
+		</GameDBLocalizedString>
+
+		
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_ORA001_1_DETECTED</LocID>                               
+			<Text>점액표피양암종 발견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_ORA001_1_DETECTED_DESC</LocID>                               
+			<Text>검사 결과 국소 단계의 점액표피양암종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_ORA001_2_DETECTED</LocID>                               
+			<Text>점액표피양암종 발견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_ONCO_ORA001_2_DETECTED_DESC</LocID>                               
+			<Text>검사 결과 전이 단계의 점액표피양암종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FACIAL_NERVE_PARA</LocID>                               
+			<Text>안면신경 마비</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_FACIAL_NERVE_PARA_DESC</LocID>                               
+			<Text>안면신경 마비는 일반적으로 얼굴의 한쪽에서만의 안면 근육 약화를 특징으로 하며, 미각 상실이나 타액 및 눈물 분비 감소 등의 다른 증상을 동반하기도 합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSPLASIA</LocID>                               
+			<Text>이형성증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_DYSPLASIA_DESC</LocID>                               
+			<Text>형성 이상이라고도 불리는 이형성증은, 조직 내에서 비정상적인 유형의 세포가 존재한다는 것을 의미하며, 이는 암 발병 전 단계를 의미할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_EPI_HIGH1</LocID>                               
+			<Text>표피세포 수 증가</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_SLP_EPI_HIGH1_DESC</LocID>                               
+			<Text>검사 결과 표피세포의 수가 비정상적으로 높음이 발견되었습니다. 이것은 예후가 나쁘고 더욱 악화된 암의 진행을 의미할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

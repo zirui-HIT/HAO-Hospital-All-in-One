@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>neoxes</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>
+			<LocID>ROOM_TYPE_SH_OFFICE</LocID>				<Text>Ambulatorio di Malattie Sessualmente Trasmesse</Text>
+		</GameDBLocalizedString>
+        <GameDBLocalizedString>
+			<LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>	<Text>Ambulatorio diagnostico comune di malattie sessualmente trasmesse. \n\nRequisiti min. staff: \n1x Dottore</Text>
+		</GameDBLocalizedString>
+		<GameDBLocalizedString>
+			<LocID>ROOM_TYPE_SH_LAB</LocID>					<Text>Laboratorio di Venereologia</Text>  </GameDBLocalizedString>
+        <GameDBLocalizedString>
+			<LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>		<Text>Il laboratorio di analisi per le malattie sessualmente trasmesse offre un'ampia varietà di esami per confermare diagnosi diverse.\nRequisiti min. staff:\n1x Tecnico - Biochimico</Text>
+		</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

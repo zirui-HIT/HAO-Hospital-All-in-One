@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="BETTER_DEPARTMENT_NAMES">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>Leo</Name>
+    </Contributors>
+    <LocalizedStrings>
+    
+		<GameDBLocalizedString>      <LocID>TRT_ANTIVENOM</LocID>                                       <Text>抗蛇毒血清</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIVENOM_DESCRIPTION</LocID>                           <Text>用抗体结合并中和特定毒液的治疗。\n\n需求房间：创伤外科门诊室/诊断室/重症监护室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_CONCETRATED_OXYGEN</LocID>                              <Text>浓缩氧气</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_CONCETRATED_OXYGEN_DESCRIPTION</LocID>                  <Text>以吸入浓缩氧气为基础的治疗。\n\n需求房间：创伤外科门诊室/诊断室/烧伤病房/重症监护室/急诊创伤中心</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_WARMED_IV_FLUIDS</LocID>                                <Text>加温静脉输液</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_WARMED_IV_FLUIDS_DESCRIPTION</LocID>                    <Text>静脉输液加热到38-45°C/100-113°F，用于控制体温过低。\n\n需求房间：创伤外科烧伤病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_PROTECTIVE_DRESSING</LocID>                             <Text>保护性敷料</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_PROTECTIVE_DRESSING_DESCRIPTION</LocID>                 <Text>绷带包扎保护性敷料。\n\n需求房间：创伤外科门诊室/诊断室/烧伤病房/重症监护室/急诊创伤中心</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_DEBRIDEMENT</LocID>                                     <Text>清创术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_DEBRIDEMENT_DESCRIPTION</LocID>                         <Text>医疗清除死亡组织。\n\n需求房间：创伤外科门诊室/诊断室/烧伤病房/重症监护室/急诊创伤中心</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BURN_MANAGEMENT</LocID>                                 <Text>烧伤处理</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BURN_MANAGEMENT_DESCRIPTION</LocID>                     <Text>治疗各类烧伤的医疗操作。\n\n需求房间：创伤外科门诊室/诊断室/烧伤病房/重症监护室/急诊创伤中心</Text>	</GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>      <LocID>TRT_SPLENECTOMY</LocID>                                     <Text>脾切除术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SPLENECTOMY_DESCRIPTION</LocID>                         <Text>切除受损或破裂的脾脏的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HEPATOPLASTY</LocID>                                    <Text>肝成形术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HEPATOPLASTY_DESCRIPTION</LocID>                        <Text>治疗肝脏或其部分的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_GASTRIC_PERFORATION_REPAIR</LocID>                      <Text>胃穿孔修补术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_GASTRIC_PERFORATION_REPAIR_DESCRIPTION</LocID>          <Text>封闭胃穿孔的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SMALL_BOWEL_RESECTION</LocID>                           <Text>小肠切除术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SMALL_BOWEL_RESECTION_DESCRIPTION</LocID>               <Text>切除一部分小肠的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BOWEL_RESECTION</LocID>                                 <Text>肠切除术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_BOWEL_RESECTION_DESCRIPTION</LocID>                     <Text>切除一小部分大肠的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_PANCREATICOPLASTY</LocID>                               <Text>胰成形术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_PANCREATICOPLASTY_DESCRIPTION</LocID>                   <Text>治疗胰腺或其部分的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_SURGERY</LocID>                                  <Text>胸部创伤手术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_SURGERY_ARM</LocID>                              <Text>上肢创伤手术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_SURGERY_LEG</LocID>                              <Text>下肢创伤手术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_SURGERY_DESCRIPTION</LocID>                      <Text>治疗处于急性、危及生命或可能危及生命的手术条件下的患者的创伤外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_LAPAROSCOPIC_PYELOPLASTY</LocID>                        <Text>腹腔镜肾盂成形术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_LAPAROSCOPIC_PYELOPLASTY_DESCRIPTION</LocID>            <Text>治疗肾脏的微创外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_FRACTURE_SURGERY_ARM</LocID>                     <Text>创伤性骨折手术 - 手部</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_FRACTURE_SURGERY_ARM_DESCRIPTION</LocID>         <Text>修复骨折的创伤外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_FRACTURE_SURGERY_LEG</LocID>                     <Text>创伤性骨折手术 - 腿部</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_FRACTURE_SURGERY_LEG_DESCRIPTION</LocID>         <Text>修复骨折的创伤外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_FRACTURE_SURGERY_THORAX</LocID>                  <Text>创伤性骨折手术 - 胸部</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_TRAUMA_FRACTURE_SURGERY_THORAX_DESCRIPTION</LocID>      <Text>修复骨折的创伤外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRT_VASCULAR_SURGERY</LocID>                                <Text>血管手术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_VASCULAR_SURGERY_DESCRIPTION</LocID>                    <Text>缝合和固定受损动脉的外科手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_PULMONARY_SURGERY_X</LocID>                             <Text>肺部手术</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_PULMONARY_SURGERY_X_DESCRIPTION</LocID>                 <Text>肺部手术是指修复或切除部分受损肺组织的手术。\n\n需求房间：创伤外科手术室+重症监护室</Text>	</GameDBLocalizedString>
+
+
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_J</LocID>                            <Text>创伤外科：大医院</Text>	</GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION</LocID>                      <Text>通过眼底镜/检眼镜检查眼底/视网膜的程序。\n\n需求房间：诊室/观察室/急救中心/重症监护室/办公室/内科诊断室/神经科诊断室创伤外科</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>TRT_ANTI_ARRHYTMICALS_DESCRIPTION_V2</LocID>                <Text>药物通常静脉注射或吞服的方式来抑制心脏的律动异常。\n\n需求房间：重症监护室 / 任何急诊科/普外科/内科/神经内科的诊室/诊断室创伤外科</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_WOUND_CLOSURE_DESCRIPTION_V2</LocID>                    <Text>缝合肌肉和皮肤的治疗。\n\n需求房间：医生办公室/观察室/创伤急救中心/重症监护室/骨科门诊室/诊断室创伤外科</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ACE_INHIBITOR_DESCRIPTION</LocID>                       <Text>全称血管紧张素转化酶抑制剂，用于治疗高血压。\n\n需求房间：任何门诊室 / 诊断室除了急诊科和感染科</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIHISTAMINES_DESCRIPTION</LocID>                      <Text>治疗过敏的药物，对抗组胺受体的活动，这是引起过敏症状的原因。\n\n需求房间：门诊室/观察室/重症监护室/普通外科门诊室/诊断室/内科门诊室/诊断室/神经科门诊室/诊断室创伤外科</Text>  </GameDBLocalizedString>
+    
+		<GameDBLocalizedString>      <LocID>DLC_TRAUMATOLOGY</LocID>                                       <Text>创伤外科DLC</Text>  </GameDBLocalizedString>
+    
+			<GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_TRAUMATOLOGY</LocID>                            <Text>创伤外科</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_TRAUMATOLOGY_DESCRIPTION</LocID>                <Text>创伤外科医师专门治疗需要立即医治的严重急性身体损伤。</Text>	</GameDBLocalizedString>
+                                                                                                            
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_TRAUMA_SURGERY</LocID>                          <Text>创伤外科手术学</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_TRAUMA_SURGERY_DESCRIPTION</LocID>              <Text>创伤外科医师专门负责复杂的创伤和多发创伤的外科手术。</Text>	</GameDBLocalizedString>
+    
+    
+     <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE</LocID>                          <Text>创伤外科门诊室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>              <Text>负责简单检查和治疗的门诊室。员工需求：\n1x创伤外科医师</Text>  </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE</LocID>
+        <Text>诊断室</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>
+        <Text>心脏中心的诊断室为住院患者提供检查和治疗程序。 \n\n最低员工需求： \n1 x 医生\n（需要是值班室值班医生）</Text>
+        
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE</LocID>
+        <Text>诊断室</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_NEUROLOGY_OFFICE_DESCRIPTION</LocID>
+        <Text>神经科的诊断室为住院患者提供检查和治疗程序。 \n\n最低员工需求： \n1 x 医生\n（需要是值班室值班医生）</Text>
+        
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE</LocID>
+        <Text>心脏中心门诊室</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_CARDIOLOGY_OFFICE_DESCRIPTION</LocID>
+        <Text>心脏中心门诊室是一般门诊的诊室。\n\n最低员工需求：\n1 x 医生</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_NEUROLOGY_OFFICE</LocID>
+        <Text>神经科门诊室</Text>
+        
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>DPT_DEFAULT</LocID>
+        <Text>无科室</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_EMERGENCY</LocID>
+        <Text>急诊科</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_ICU</LocID>
+        <Text>重症医学科</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_GENERAL_SURGERY_DEPARTMENT</LocID>
+        <Text>普通外科</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_INTERNAL_MEDICINE_DEPARTMENT</LocID>
+        <Text>内科</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_ORTHOPAEDICS_AND_TRAUMATOLOGY</LocID>
+        <Text>骨外科</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_CARDIOLOGY</LocID>
+        <Text>心脏中心</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DPT_NEUROLOGY</LocID>
+        <Text>神经科</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>      
+      <LocID>DPT_INFECTIOUS_DISEASES_DEPARTMENT</LocID>                     
+      <Text>感染科</Text>  
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>      
+       <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            
+       <Text>创伤外科</Text>  
+       </GameDBLocalizedString>
+       
+      <GameDBLocalizedString>
+        <LocID>DPT_RADIOLOGY</LocID>
+        <Text>影像科</Text>
+        
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE</LocID>
+        <Text>临床医学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_QUALIF_GENERAL_MEDICINE_DESCRIPTION</LocID>
+        <Text>临床医学资质允许医生做出一些基础的检查和治疗，并影响他们的速度。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_QUALIF_DIAGNOSIS</LocID>
+        <Text>诊断学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_QUALIF_DIAGNOSIS_DESCRIPTION</LocID>
+        <Text>一般诊断资质等级影响医生误诊几率或咨询其他医生的频率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE</LocID>
+        <Text>急诊医学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ACUTE_MEDICINE_DESCRIPTION</LocID>
+        <Text>急诊医学特长允许医生在急诊科对患者进行特殊的诊断和治疗操作。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS</LocID>
+        <Text>高级诊断</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS_DESCRIPTION</LocID>
+        <Text>高级诊断特长允许医生进行鉴别诊断。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_CRITICAL_CARE</LocID>
+        <Text>重症医学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_CRITICAL_CARE_DESCRIPTION</LocID>
+        <Text>重症医学允许医生在重症监护科进行特殊诊断操作。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY</LocID>
+        <Text>普通外科学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_GENERAL_SURGERY_DESCRIPTION</LocID>
+        <Text>普通外科特长允许医生在普通外科使用处方治疗并允许医生协助手术。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY</LocID>
+        <Text>普通外科手术学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_OPERATIVE_SURGERY_DESCRIPTION</LocID>
+        <Text>外科手术允许医生在普通外科担任主刀医生并影响手术并发症的发生几率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE</LocID>
+        <Text>内科学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_DESCRIPTION</LocID>
+        <Text>内科学专长允许医生在内科进行处方治疗并允许医生协助手术。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY</LocID>
+        <Text>内科手术</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_INTERNAL_MEDICINE_SURGERY_DESCRIPTION</LocID>
+        <Text>内科手术允许医生在内科科室中担任主刀医生并影响手术并发症的发生几率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ORTHOPAEDY</LocID>
+        <Text>骨科学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ORTHOPAEDY_DESCRIPTION</LocID>
+        <Text>骨科学特长允许医生在骨科使用处方治疗并允许医生协助手术。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY</LocID>
+        <Text>骨外科手术</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ORTHOPAEDIC_SURGERY_DESCRIPTION</LocID>
+        <Text>骨科手术特长允许医生在骨科担任主刀医生并影响手术并发症的发生几率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_CARDIOLOGY</LocID>
+        <Text>心脏病学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_CARDIOLOGY_DESCRIPTION</LocID>
+        <Text>心脏病学特长允许医生在心脏中心使用处方治疗并允许医生协助手术。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY</LocID>
+        <Text>心脏外科手术</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_CARDIO_SURGERY_DESCRIPTION</LocID>
+        <Text>心脏外科手术特长允许医生在心脏外科担任主刀医生并影响手术并发症的发生几率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_NEUROLOGY</LocID>
+        <Text>神经医学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_NEUROLOGY_DESCRIPTION</LocID>
+        <Text>神经医学特长允许医生在神经科使用处方治疗并允许医生协助手术。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_NEURO_SURGERY</LocID>
+        <Text>神经外科手术学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_NEURO_SURGERY_DESCRIPTION</LocID>
+        <Text>神经外科手术特长允许医生在神经科担任主刀医生并影响手术并发症的发生几率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY</LocID>
+        <Text>麻醉学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ANESTHESIOLOGY_DESCRIPTION</LocID>
+        <Text>麻醉学特质是在手术中担任麻醉师所必须的，并会给与病情已稳定的病倒患者额外的生存几率。\n降低病倒患者死亡几率。\n降低手术后并发症几率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE</LocID>
+        <Text>患者看护</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_QUALIF_PATIENT_CARE_DESCRIPTION</LocID>
+        <Text>护士可以对患者进行多项护理操作。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_SPEC_RECEPTIONIST</LocID>
+        <Text>接诊护士</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_SPEC_RECEPTIONIST_DESCRIPTION</LocID>
+        <Text>接诊护士是接触患者的第一环。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY</LocID>
+        <Text>医疗手术</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_SPEC_MEDICAL_SURGERY_DESCRIPTION</LocID>
+        <Text>医疗手术护士是手术外科团队中重要的一员。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST</LocID>
+        <Text>外科护士专家</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_NURSE_SPEC_CLINICAL_SPECIALIST_DESCRIPTION</LocID>
+        <Text>外科护士专家能够发现患者潜在的症状。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</LocID>
+        <Text>生物化学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION_DESCRIPTION</LocID>
+        <Text>生物化学资质解锁化验室的多项测试。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_BIOCHEMISTRY</LocID>
+        <Text>高级生物化学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_BIOCHEMISTRY_DESCRIPTION</LocID>
+        <Text>高级生物化学提高实验室测试的效率。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY</LocID>
+        <Text>医学影像学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY_DESCRIPTION</LocID>
+        <Text>医学影像学专家能够独立操作放射成像机及其他相关的仪器。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT</LocID>
+        <Text>GIT</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_GIT_DESCRIPTION</LocID>
+        <Text>GIT专家能够操作普通外科相关的检查仪器。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_USG</LocID>
+        <Text>超声波学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_USG_DESCRIPTION</LocID>
+        <Text>超声波学专家能够操作超声装置。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_CARDIOLOGY</LocID>
+        <Text>心脏检查</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_CARDIOLOGY_DESCRIPTION</LocID>
+        <Text>心脏检查专家能够操作心脏医学相关的检查仪器。</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</LocID>
+        <Text>神经医学</Text>
+        
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY_DESCRIPTION</LocID>
+        <Text>神经医学专家能够操作神经医学相关的检查仪器。</Text>
+        
+      </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_INFECTIOUS_DISEASES</LocID>                                 <Text>感染科DLC</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ISOLATION_INPATIENT_WARD</LocID>                      <Text>隔离病房</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_ISOLATION_INPATIENT_WARD_DESCRIPTION</LocID>          <Text>隔离病房是一个独立的病房，用来隔离患有传染病的患者和防止病原体传播。</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INFECTIOUS_DISEASES_OFFICE</LocID>                    <Text>感染科门诊室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INFECTIOUS_DISEASES_OFFICE_DESCRIPTION</LocID>        <Text>感染科门诊室负责简单的检查和治疗。员工需求：\n1x感染病学家 </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_DID_OFFICE</LocID>                          <Text>诊断室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_DID_OFFICE_DESCRIPTION</LocID>              <Text>感染科的诊断科室为住院患者提供检查和治疗程序。\n\n最低员工需求：\n1x感染病学家\n（值班室人员）</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_DID</LocID>            <Text>心动图诊室</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>DLC_TOOLTIP_LOGISTICS_BIOHAZARD</LocID>                         <Text>生物危害区，进入时必须戴防护口罩和手套。</Text>  </GameDBLocalizedString>
+                                                                                                                
+                                                                                  
+            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_ISOLATION</LocID>                           <Text>隔离住院</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_ISOLATION_DESCRIPTION</LocID>               <Text>安排患者在隔离病房住院，以防止传染病的传播，并给予他们高水平的护理。\n\n需求房间：隔离病房</Text>  </GameDBLocalizedString>
+                                                                                                                
+                                                                                                  
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_EPIDEMIOLOGY</LocID>                             <Text>感染病学</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_EPIDEMIOLOGY_DESCRIPTION</LocID>                 <Text>感染病学家调查疾病和寄生虫的分布，以确定病因、风险因素、进展、生命周期或传播方式。</Text>	</GameDBLocalizedString> 
+                                                                                                                
+                                                                                     
+            <GameDBLocalizedString>      <LocID>DAYS_LEFT</LocID>                                               <Text>剩余天数： </Text></GameDBLocalizedString>
+                                                                                                                 
+            <GameDBLocalizedString>      <LocID>DLC_WORLD_EVENT_DISEASE_OUTBREAK</LocID>                        <Text>疫情爆发！</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_WORLD_EVENT_DISEASE_OUTBREAK_TEXT</LocID>                   <Text>你没有控制住所有的传染病患者，结果你医院的一部分被感染了。工作人员现在必须戴上口罩，并放缓工作速度！</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_WORLD_EVENT_DISEASE_OUTBREAK_TEXT_WARD</LocID>              <Text>有位传染病患者被安排在隔离病房外住院，结果你医院的一部分被感染了。工作人员现在必须戴上口罩，并放缓工作速度！</Text></GameDBLocalizedString>
+                                                                                                                
+                                                                                         
+                                                                                                  
+                                                                                         
+            <GameDBLocalizedString>      <LocID>DLC_EVENT_PANDEMIC_LAB_DESC</LocID>         		            <Text>一起发生于大学实验室的事故释放了一些非常危险的病原体。所有的城市医院都应该准备好他们的防护设备，并且非常小心地对待新来的患者。 </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_EVENT_PANDEMIC_TOURISTS_DESC</LocID>         	            <Text>据报道，某热门旅游胜地爆发了高度危险的疫情。所有从该地归来的市民如果感到身体不适，应立即到附近的医院就诊上报。 </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_EVENT_PANDEMIC_CLIMATE_DESC</LocID>         	            <Text>气候变化导致外来疾病越来越频繁地传播到本地，特别是每年的这个时候。 </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_EVENT_PANDEMIC_CORONA_DESC</LocID>                          <Text>然而，另一场新冠肺炎侵袭了这座城市。所有的医院和医疗设施都应该为大量的传染病患者做好准备。</Text></GameDBLocalizedString>
+                                                                                                                
+                                                   
+            <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT_DISEASE_OUTBREAK_ENDED</LocID>               <Text>每日新闻</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_GLOBAL_EVENT_DISEASE_OUTBREAK_ENDED_TEXT</LocID>          <Text>你的所有员工已恢复健康。你在这场疫情爆发中幸免于难！</Text>  </GameDBLocalizedString>
+
+            
+            
+            <GameDBLocalizedString>      <LocID>DLC_INFECTED</LocID>                                            <Text>被感染</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>HIGHLY_CONTAGIOUS</LocID>                                       <Text>高度传染性！</Text>  </GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>      <LocID>DOOR_BIOHAZARD</LocID>                     		                <Text>生物危害门</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_OVAL_WINDOW</LocID>                                        <Text>带椭圆形窗户的门</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_BIOHAZARD_DOUBLE</LocID>                                   <Text>二道生物危害门</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOOR_OVAL_WINDOW_DOUBLE</LocID>                                 <Text>二道带椭圆形窗户的门</Text>  </GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>      <LocID>OBJECT_LIFE_MONITOR_OLD</LocID>                     	    	<Text>生命检测器</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_MECHANICAL_VENTILATOR_DLC</LocID>                        <Text>呼吸机</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_WALL</LocID>                                   <Text>隔离墙</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_WALL_BIOHAZARD</LocID>                         <Text>隔离墙</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_WALL_CABINET</LocID>                           <Text>隔离墙柜</Text>  </GameDBLocalizedString>
+                                                  
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_WALL_DESCRIPTION</LocID>                       <Text>提供保护，防止由可通过空气传播的病原体引起的所有疾病。</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_SANITARY_EQUIPMENT</LocID>                     <Text>卫生设备</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_SANITARY_EQUIPMENT_DESCRIPTION</LocID>         <Text>用于隔离病房，以解决患者的基本卫生问题。</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_AC</LocID>                    			    	<Text>隔离空调</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_AC_DESCRIPTION</LocID>                         <Text>空调为被隔离的患者提供过滤的新鲜空气和更高的舒适度。</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>OBJECT_WARNING_CAUTION</LocID>                                  <Text>标志 - 注意</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_WARNING_CAUTION_DESCRIPTION</LocID>                      <Text>疫情警报。</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>OBJECT_WARNING_QUARANTINE</LocID>                               <Text>标志 - 隔离</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_WARNING_QUARANTINE_DESCRIPTION</LocID>                   <Text>非授权人员禁入。</Text>  </GameDBLocalizedString>
+                                                                                                               
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_AIR_DOOR</LocID>                               <Text>隔离风门</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_ISOLATION_AIR_DOOR_DESCRIPTION</LocID>                   <Text>负压气流系统用于降低周围设施空气污染的风险。</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>      <LocID>OBJECT_NOTICE_BOARD_X</LocID>                                   <Text>病历板</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_NOTICE_BOARD_X_DESCRIPTION</LocID>                       <Text>磁性病历板。</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DESINFECTANTS</LocID>                                    <Text>消毒工具</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DESINFECTANTS_DESCRIPTION</LocID>                        <Text>适合日常使用的消毒工具。</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_POSTER_INFECT1</LocID>                                   <Text>海报 - 传染病</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_POSTER_INFECT2</LocID>                                   <Text>海报 - 疟疾</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_BENCH_X</LocID>                                <Text>长椅 - 现代</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_COFFEE_TABLE_2</LocID>                                   <Text>咖啡桌</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_X_01</LocID>                         <Text>救护车</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_AMBULANCE_X_01_DESCRIPTION</LocID>             <Text>新型欧式救护车，可在最严重的医疗条件下运送患者。</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>COMPOSITE_OBJECT_STRETCHER_X</LocID>                            <Text>担架</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_BIOHAZARD</LocID>                                  <Text>隔离病房</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DID_DEPARTMENT</LocID>                             <Text>传染病</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_HOSPITAL_I</LocID>                                <Text>传染病: 大型医院</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_INFECTIOUS_DISEASES</LocID>             <Text>感染科室模板</Text>  </GameDBLocalizedString>
+
+
+
+            
+            <GameDBLocalizedString>      <LocID>TRT_DOXYCYCLINE</LocID>                                         <Text>多西环素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_DOXYCYCLINE_DESCRIPTION</LocID>                             <Text>用于对抗特定细菌和寄生物的特殊四环素抗生素治疗。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_IV_DOXYCYCLINE</LocID>                                      <Text>静脉注射多西环素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_IV_DOXYCYCLINE_DESCRIPTION</LocID>                          <Text>用于对抗特定细菌和寄生物的特殊四环素抗生素治疗。\n\n需求房间：感染科门诊室/诊断室 + 感染科隔离病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MINOCYCLINE</LocID>                                         <Text>米诺环素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_MINOCYCLINE_DESCRIPTION</LocID>                             <Text>用于对抗特定细菌和寄生物的特殊四环素抗生素治疗。\n\n需求房间：感染科门诊室/感染科诊断室/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_CHLORAMPHENICOL</LocID>                                     <Text>氯霉素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_CHLORAMPHENICOL_DESCRIPTION</LocID>                         <Text>用于对抗细菌感染的特殊广谱抗生素。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_AZITHROMYCIN</LocID>                                        <Text>阿奇霉素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_AZITHROMYCIN_DESCRIPTION</LocID>                            <Text>用于对抗各种细菌感染的抗生素。\n\n需求房间：感染科门诊室/感染科诊断室/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_INTRAMUSCULAR_ANTIBIOTICS</LocID>                           <Text>肌肉注射抗生素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_INTRAMUSCULAR_ANTIBIOTICS_DESCRIPTION</LocID>               <Text>肌肉注射抗生素是注射入大肌肉的抗生素。\n\n需求房间：感染科门诊室/感染科诊断室/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SPECIAL_ANTIVIRAL_TREATMENT</LocID>                         <Text>综合抗病毒治疗</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SPECIAL_ANTIVIRAL_TREATMENT_DESCRIPTION</LocID>             <Text>综合抗病毒治疗用于没有靶向抗病毒药物可用的情况。\n\n需求房间：感染科门诊室/诊断室 + 感染科隔离病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_EXPERIMENTAL_SERUM</LocID>                                  <Text>实验性血清</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_EXPERIMENTAL_SERUM_DESCRIPTION</LocID>                      <Text>治疗埃博拉出血热的实验性静脉注射药物血清。\n\n需求房间：感染科门诊室/诊断室 + 感染科隔离病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIMALARIAL_MEDICATION</LocID>                             <Text>抗疟药物</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIMALARIAL_MEDICATION_DESCRIPTION</LocID>                 <Text>各种抗生素、药物和支持性物质的组合，可对抗疟疾和疟疾相关疾病。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_IV_PASSIVE_IMMUNOTHERAPY</LocID>                            <Text>静脉注射被动免疫治疗</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_IV_PASSIVE_IMMUNOTHERAPY_DESCRIPTION</LocID>                <Text>针对不同病毒性出血热的特异性抗体静脉注射剂。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTISENSE_THERAPY</LocID>                                   <Text>反义治疗</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTISENSE_THERAPY_DESCRIPTION</LocID>                       <Text>反义治疗是一种治疗遗传疾病或感染的方法，它可以合成一条RNA/DNA链来关闭某个特异性基因。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_VANCOMYCIN</LocID>                                          <Text>万古霉素</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_VANCOMYCIN_DESCRIPTION</LocID>                              <Text>治疗多种细菌感染的静脉注射抗生素。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_FLUCONAZOLE</LocID>                                         <Text>氟康唑</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_FLUCONAZOLE_DESCRIPTION</LocID>                             <Text>用于治疗由真菌引起的各种疾病的特殊抗真菌药品。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_NITAZOXANIDE</LocID>                                        <Text>硝唑尼特</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_NITAZOXANIDE_DESCRIPTION</LocID>                            <Text>抗寄生虫病药和广谱抗病毒药品。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_OSELTAMIVIR</LocID>                                         <Text>奥司他韦</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_OSELTAMIVIR_DESCRIPTION</LocID>                             <Text>用于治疗和预防甲型和乙型流感的抗病毒药品。\n\n需求房间：感染科门诊室/诊断室 + 感染科隔离病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_CIPROFLOXACIN</LocID>                                       <Text>环丙沙星</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_CIPROFLOXACIN_DESCRIPTION</LocID>                           <Text>用于治疗多种细菌感染的抗生素。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_IV_CIPROFLOXACIN</LocID>                                    <Text>静脉注射环丙沙星</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_IV_CIPROFLOXACIN_DESCRIPTION</LocID>                        <Text>用于治疗多种细菌感染的抗生素。\n\n需求房间：感染科门诊室/诊断室 + 感染科隔离病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SUPPORTIVE_CARE</LocID>                                     <Text>支持疗法</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_SUPPORTIVE_CARE_DESCRIPTION</LocID>                         <Text>支持疗法包括许多对症治疗，主要是针对没有特定治疗方法的病毒性疾病。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_RABIES_IMMUNE_GLOBULIN_X</LocID>                            <Text>狂犬病免疫球蛋白</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_RABIES_IMMUNE_GLOBULIN_X_DESCRIPTION</LocID>                <Text>防止狂犬病病毒感染患者的快速见效型注射。通常预防性地注射给被可能患有狂犬病的动物咬伤的患者。\n\n需求房间：感染科门诊室/诊断室 + 感染科普通病房/重症监护室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_INTERFERON_ALPHA-2B_X</LocID>                               <Text>干扰素α-2b</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_INTERFERON_ALPHA-2B_X_DESCRIPTION</LocID>                   <Text>用于治疗慢性乙型和丙型肝炎的高度特异性抗病毒药物。\n\n需求房间：门诊室/感染科诊断室/重症监护室</Text>  </GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>      <LocID>EXM_GASTROSCOPY_DESCRIPTION</LocID>                             <Text>将末端带有微型摄像机和光源的软管（内窥镜）插入口腔以检查消化道上部的过程。\n\n需求房间：重症监护室/普外科/内科/心脏科/感染科的门诊室/诊断室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>      <Text>脑脊液取样是通过将针头从下背部插入椎管，抽取少量的脑脊液的过程。\n\n需求房间：组织学实验室\n\n取样：神经内科/感染科\n\n所需设备：玻璃器皿 + 医用离心机 + 实验室分析仪</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>             <Text>收集患者粪便样本进行进一步分析的操作。\n\n需求房间：组织学实验室\n\n取样：急诊科/普外科/内科/重症监护室/感染科\n\n所需设备：玻璃器皿 + 粪便分析仪</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_AUDIOMETRY_DESCRIPTION</LocID>                              <Text>听力测试确定患者的听力水平。\n\n需求房间：医生办公室/观察室/重症监护室/急诊/重症监护室/普外科/内科/感染科的门诊室/诊断室</Text>  </GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>      <LocID>TRT_INTRAVENOUS_IMMUNOGLOBULIN_DESCRIPTION</LocID>              <Text>通过静脉注射的方式，注射免疫球蛋白。\n\n需求房间：重症监护室/任意科室的门诊室/诊断室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIVIROTICS_DESCRIPTION</LocID>                            <Text>抑制病毒感染的药物。与抗生素不同，抗病毒药物不会直接破坏病原体。\n\n需求房间：医生办公室/观察室/重症监护室/普外科/神经内科/感染科的门诊室/诊断室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIDIARRHEALS_DESCRIPTION_V2</LocID>                       <Text>止泻药物，可缓解症状，但不能消除病因。它们通常通过减少排便来起作用。\n\n需求房间：医生办公室/观察室/创伤急救中心/重症监护室/普外科/内科/感染科的门诊室/诊断室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_ANTIPARASITIC_DRUGS_DESCRIPTION_V2</LocID>                  <Text>用于治疗各种寄生虫感染的药物。\n\n需求房间：医生办公室/观察室/创伤急救中心/内科/感染科的门诊室/诊断室</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_NASAL_DROPS_DESCRIPTION</LocID>                             <Text>用于清除鼻腔，解决鼻塞，让鼻孔通气的药物。\n\n需求房间：门诊室/观察室/内科门诊室/诊断室/心脏科诊室/诊断室/诊断室</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>       <LocID>DLC_DPT_PATHOLOGY</LocID>                     		<Text>病理学研究室</Text></GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

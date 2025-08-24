@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_JA_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>Japanese</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>jackall4125678</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>婦人科診察室</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>婦人科診療所は一般的な診断外来診療所です。 \n\nMin. Staff requirements: \n1x Doctor</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>婦人科受付</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>婦人科の受付は、入院患者の検査と治療の手順を提供します。 \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>OBJECT_DECAL_GYNECO_DPT</LocID>								<Text>婦人科</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

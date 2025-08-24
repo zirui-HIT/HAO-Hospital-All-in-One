@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_OPHTHALMOLOGY_EXAMINATIONS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>WDZRMPCBIT</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>EXM_SLIT_LAMP_EXAM</LocID>
+        <Text>裂隙灯检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_SLIT_LAMP_EXAM_DESCRIPTION</LocID>
+        <Text>利用裂隙灯观察角结膜、前房、虹膜与晶状体等前节结构体征。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_FLUORESCEIN_STAIN</LocID>
+        <Text>角膜荧光素染色</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_FLUORESCEIN_STAIN_DESCRIPTION</LocID>
+        <Text>以荧光素染色观察角膜上皮缺损并测量泪膜破裂时间。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_SCHIRMER_TEST</LocID>
+        <Text>Schirmer泪液分泌试验</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_SCHIRMER_TEST_DESCRIPTION</LocID>
+        <Text>用滤纸条测定基础与反射性泪液分泌量，评估干眼。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_AMSLER_GRID</LocID>
+        <Text>阿姆斯勒方格测试</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_AMSLER_GRID_DESCRIPTION</LocID>
+        <Text>通过观察方格线是否扭曲/缺失来筛查黄斑区功能异常。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OCT</LocID>
+        <Text>光学相干断层扫描</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OCT_DESCRIPTION</LocID>
+        <Text>非接触式层析成像评估黄斑水肿、视神经纤维层厚度等。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_FA</LocID>
+        <Text>眼底荧光血管造影</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_FA_DESCRIPTION</LocID>
+        <Text>静脉注射荧光素后进行眼底拍照以评估渗漏、缺血与新生血管。</Text>
+      </GameDBLocalizedString>
+
+      
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_MANIFEST_REFRACTION</LocID>
+        <Text>主观屈光检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_MANIFEST_REFRACTION_DESCRIPTION</LocID>
+        <Text>通过电脑验光与视力表检查，评估屈光状态并确定矫正视力。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_CYCLOPLEGIC_REFRACTION</LocID>
+        <Text>睫状肌麻痹验光</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_CYCLOPLEGIC_REFRACTION_DESCRIPTION</LocID>
+        <Text>使用睫状肌麻痹药物后进行验光，以评估屈光状态。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_KERATOMETRY</LocID>
+        <Text>角膜曲率计检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_KERATOMETRY_DESCRIPTION</LocID>
+        <Text>使用角膜曲率计测量角膜的曲率半径，以评估角膜形态和屈光状态。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_CORNEAL_TOPOGRAPHY</LocID>
+        <Text>角膜地形图检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_CORNEAL_TOPOGRAPHY_DESCRIPTION</LocID>
+        <Text>使用角膜地形图仪（如Pentacam或Placido）评估角膜形态、厚度和曲率分布。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_BSCAN_ULTRASOUND</LocID>
+        <Text>眼部B超检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_BSCAN_ULTRASOUND_DESCRIPTION</LocID>
+        <Text>使用超声波检查眼球后段结构，如玻璃体、视网膜和脉络膜，以评估病变或异常。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_VEP</LocID>
+        <Text>视诱发电位检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OPH_VEP_DESCRIPTION</LocID>
+        <Text>通过记录视神经对视觉刺激的反应，评估视神经传导功能。</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

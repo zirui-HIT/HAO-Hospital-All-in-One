@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_KR_ADDON_OTOR_SKILLS">
+	
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+		<Name>아린</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_OTORHINOLARYNGOLOGY</LocID>                                          	
+		<Text>이비인후과</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</LocID>                   
+		<Text>이비인후과</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</LocID>                   
+		<Text>다양한 형태의 귀, 코, 목 질환의 발견, 진단 및 치료를 위한 전문적 절차에 접근할 수 있게 해준다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY</LocID>                   
+		<Text>이비인후과 수술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</LocID>                   
+		<Text> 이비인후과 수술 의사가 이비인후과의 주요 외과의 역할을 할 수 있게 해주며 수술이 얼마나 자주 합병증을 일으키는지 영향을 준다.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

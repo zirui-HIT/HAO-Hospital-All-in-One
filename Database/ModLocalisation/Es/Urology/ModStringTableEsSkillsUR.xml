@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ES_ADDON_URKN_SKILLS">
+	
+	<LanguageCode>es</LanguageCode>
+	<LanguageNameLocalized>Español</LanguageNameLocalized>
+	<Contributors>
+		<Name>Srmojon</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+	<GameDBLocalizedString>      
+		<LocID>DPT_URKN</LocID>                                          	
+		<Text>Urología y Nefrología</Text>  
+	</GameDBLocalizedString>
+
+
+
+
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR</LocID>                   
+		<Text>Urología</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_DESC</LocID>                   
+		<Text>Urología da acceso a procedimientos especializados para la detección, diagnóstico y tratamiento de diversas formas de enfermedades en el Departamento de Urología.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY</LocID>                   
+		<Text>Cirugía Genitourinaria</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_UR_SURGERY_DESC</LocID>                   
+		<Text>La cirugía genitourinaria permite que el Doctor actúe como cirujano principal en el departamento de Urología y afecta la frecuencia con la que las cirugías terminarán con complicaciones.</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DIAG_EXAMINATIONS">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Ollyver</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		
+            <GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_SAMPLE</LocID>                         
+			<Text>C1血样采集</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_SAMPLE_DESC</LocID>                         
+			<Text>C1抑制物是一种属于丝氨酸蛋白酶抑制剂超家族的蛋白酶抑制剂。其主要功能是抑制补体系统以防止自发激活，同时也是接触系统的主要调节剂。\n\n所需实验室：血液实验室</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_TEST</LocID>                         
+			<Text>C1血液检测</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>EXM_OL_C1_BLOOD_TEST_DESC</LocID>                         
+			<Text>血液科技术人员正在处理患者提供的样本。他们很快会返回结果。</Text>	
+		</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_SAMPLE</LocID>
+				<Text>卟啉病尿样采集</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_SAMPLE_DESC</LocID>
+				<Text>尿液中胆色素原（PBG）升高是卟啉病急性发作的诊断标志。\n\n所需实验室：组织实验室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_TEST</LocID>
+				<Text>卟啉病尿液检测</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_PORPHYRIA_URINE_TEST_DESC</LocID>
+				<Text>微生物科技术人员正在处理患者提供的样本。他们很快会返回结果。</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_MANOMETER</LocID>
+				<Text>压力计</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_MANOMETER_DESC</LocID>
+				<Text>筋膜室压力通常用压力计测量，该设备通过测量向筋膜室注射盐水时的阻力来检测室内压力。\n\n所需房间：任何病房/单元</Text>
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_ESOPHAGEAL_MANOMETER</LocID>
+				<Text>食管压力计</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OL_ESOPHAGEAL_MANOMETER_DESC</LocID>
+				<Text>这项检查需要将一根细的、对压力敏感的管子通过鼻子插入食管，以测量吞咽时的压力。\n\n所需房间：任何诊断单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_2</LocID>
+				<Text>脑脊液采样通过将针头插入下背部进入椎管，引流少量液体进行。\n\n所需实验室：组织学\n\n采样科室：神经内科/传染病科/诊断科\n\n所需设备：玻璃器皿 + 医用离心机 + 实验室分析仪</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_LARYNGOSCOPY_DESCRIPTION_V1</LocID>
+				<Text>此操作使用一根末端带有微型摄像机和光源的软管（内窥镜）经鼻插入，以检查喉、声门和声带。喉镜检查也用于辅助气管插管。\n\n所需房间：医生办公室/观察室/创伤中心/ICU/诊断科</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OPHTHALMOSCOPY_DESCRIPTION_V1</LocID>
+				<Text>通过检眼镜/眼底镜观察眼底/视网膜的操作。\n\n所需房间：医生办公室/观察室/创伤中心/ICU/急诊科、ICU、内科、神经内科、诊断科的办公室/诊断单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_GASTROSCOPY_DESCRIPTION_V1</LocID>
+				<Text>此操作使用一根末端带有微型摄像机和光源的软管（内窥镜）经口插入，以检查上消化道。\n\n所需房间：ICU/普外科、内科、心脏内科、诊断科的办公室/诊断单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_AUDIOMETRY_DESCRIPTION_V1</LocID>
+				<Text>听力测定测试确定患者的听力水平。\n\n所需房间：医生办公室/观察室/ICU/急诊科、ICU、普外科、内科、诊断科的办公室/诊断单元</Text>
+			</GameDBLocalizedString>
+			
+			</LocalizedStrings>
+</GameDBStringTable>
+</Database>

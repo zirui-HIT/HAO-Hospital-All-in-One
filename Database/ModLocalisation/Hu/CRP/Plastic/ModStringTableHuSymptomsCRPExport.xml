@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_HU_ADDON_CRP_SLEEPYPL_SYMPTOMS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SEROMA</LocID>                                          	
+		<Text>Seroma</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SEROMA_DESC</LocID>                   
+		<Text>A szeroma a bőr felszínén felhalmozódó folyadékgyűjtemény. A szeromák műtéti beavatkozás után alakulhatnak ki, leggyakrabban a műtéti bemetszés helyén vagy a szövet eltávolításakor. A szeroma néhány hétig tarthat, amíg önmagában felszívódik. A szeroma önmagában történő felszívódásának a legjobb módja a természetes gyógyulás, mindaddig, amíg komplikációk nem merülnek fel.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_POSTOP_PAIN</LocID>                               
+		<Text>Műtét utáni fájdalom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_POSTOP_PAIN_DESC</LocID>                   
+		<Text>A műtét utáni fájdalom a háttérfájdalom várható és átmeneti növekedése, amely általában a műtét után jelentkezik. A műtét utáni fájdalom továbbra is jelentős probléma a betegek számára, és kihívást jelent az aneszteziológusok és az akut fájdalomgyógyászati szakemberek számára. A multimodális fájdalomcsillapító kezelések fokozott alkalmazásával, a regionális érzéstelenítésben elért haladással és a műtét utáni folyamatos fájdalomcsillapító infúziók alkalmazásával az elmúlt két évtizedben elért eredmények ellenére a betegek bizonyos alcsoportjai krónikus posztoperatív fájdalmat fognak kialakítani. A rosszul kezelt posztoperatív fájdalom komplikációkhoz és elhúzódó rehabilitációhoz vezethet.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_M_SCAR_TISSUE</LocID>                               
+		<Text>Kisebb hegszövet</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_M_SCAR_TISSUE_DESC</LocID>                   
+		<Text>A heg egy olyan nyom, amely a bőrön marad, miután egy seb vagy a bőr felszínén bekövetkezett sérülés meggyógyult. A hegek vagy hegszövetek képződése a gyógyulási folyamat normális része, és akkor fordul elő, amikor a bőr sérülés vagy műtét miatt elvágódik. A hegszövet növekedését számos tényező befolyásolja, ezek a következők: Az eredeti sérülés súlyossága. A seb mérete, mélysége és elhelyezkedése a testen.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MRSA_INFECTION</LocID>                               
+		<Text>Rezisztens S. Aureus fertőzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MRSA_INFECTION_DESC</LocID>                   
+		<Text>A meticillin-rezisztens Staphylococcus aureus (MRSA) fertőzést egy olyan staph baktérium okozza, amely rezisztenssé vált a közönséges staph fertőzések kezelésére használt számos antibiotikummal szemben. Ezek gyorsan mély, fájdalmas tályogokká válhatnak, amelyek műtéti ürítést igényelnek. Néha a baktériumok a bőrön maradnak. De mélyen behatolhatnak a testbe is, potenciálisan életveszélyes fertőzéseket okozva a csontokban, ízületekben, sebészeti sebekben, a véráramban, a szívbillentyűkben és a tüdőben.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_PULMONARY_EMBOLISM</LocID>                               
+		<Text>Tüdőembólia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_PULMONARY_EMBOLISM_DESC</LocID>                   
+		<Text>A tüdőembólia (PE) egy artéria elzáródása a tüdőben egy olyan anyag által, amely a test más részeiről a véráramon keresztül mozgott (embólia). Leggyakrabban a tüdőembóliát a lábakból, vagy ritkán a test más részeiből átjutó vérrögök okozzák (mélyvénás trombózis vagy DVT). A műtét növeli a beteg tüdőembólia kockázatát. \n\nTreatment Requirements: Cardiology or ICU dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_LOCALPOISIONING</LocID>                               
+		<Text>Helyi érzéstelenítő mérgezés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_LOCALPOISIONING_DESC</LocID>                   
+		<Text>A helyi érzéstelenítés toxicitása általában terápiás hiba eredményeként jelentkezik. A toxicitáshoz vezető helyzetek közé tartozik a véletlen vénás vagy artériás injekció, valamint a bevitt vagy helyileg alkalmazott helyi érzéstelenítőt tartalmazó készítmények túl nagy dózisa. A központi idegrendszer érzékenyebb a helyi érzéstelenítők hatásaira, mint a szívrendszer, és általában először a toxicitás jeleit / tüneteit fogja nyilvánítani.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_BAGGY_SKIN</LocID>                               
+		<Text>Aszimmetrikus vagy „táskás” bőrfelület</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LI_BAGGY_SKIN_DESC</LocID>                   
+		<Text>Amikor a zsírt eltávolítják a bőr alól, egyes betegek úgy vélik, hogy a bőrük zsugorodik, hogy simább, tónusosabb testükhöz illeszkedjen. Ez azonban nem mindig így van, különösen azokon a területeken, ahol a bőr jelentősen károsodik. Ez a leggyakoribb a gyomor és a farizom területén, bár az egész testben előfordulhat. Ha a bőrt hosszú ideig feszítették a zsírlerakódásokon, akkor nem biztos, hogy megfeszül vagy visszahúzódik, ha a zsírlerakódások már nincsenek meg. Bármely terület, ahol például striák vannak, nem valószínű, hogy gyorsan meghúzza a zsírleszívást követően. A zsírleszívás utáni gödrözés leggyakoribb oka a felesleges és megereszkedett bőr.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_WOUND_INFECTION2</LocID>                               
+		<Text>Sebfertőzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_WOUND_INFECTION2_DESC</LocID>                   
+		<Text>A sebfertőzés akkor fordul elő, amikor baktériumok, például baktériumok nőnek a seb sérült bőrén belül.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_RAPID_BLINKING</LocID>                               
+		<Text>Túlzottan pislog</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_RAPID_BLINKING_DESC</LocID>                   
+		<Text>A pislogás reflex, ami azt jelenti, hogy a tested automatikusan megteszi. Azt is megteheti, hogy pislogjon, amikor akar. A túlzott pislogás az, amikor többet pislogsz, mint szeretnéd. A túlzott pislogást a villogó reflex túlzott ingerlése okozza. Ez leggyakrabban a szem idegen testének köszönhető. Ez olyan egyszerű lehet, mint egy benőtt szempilla, amely a szemgolyó elejéhez dörzsöli. Így bármi, ami szaruhártya kopását okozza, túlzott pislogást és öntözést okoz az idegen test kimosása céljából. A túlzott pislogást allergiás reakciók is okozhatják, amelyek a kötőhártya öntözését, viszketését és érdesedését okozzák. A túlzott pislogáshoz számos más betegség is társul. A túlzott pislogás kezelése a kiváltó októl függ.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LAZY_EYE</LocID>                               
+		<Text>Amblyopia (Lusta szem)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LAZY_EYE_DESC</LocID>                   
+		<Text>Az ambliopia olyan látásfejlődési rendellenesség, amelyben a szem nem képes normális látásélességet elérni, még vényköteles szemüveg vagy kontaktlencse esetén sem. Lustaságnak is nevezik, az amblyopia csecsemőkorban és kora gyermekkorban kezdődik. A legtöbb esetben csak egy szem érintett.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_DIPLOPIA</LocID>                               
+		<Text>Diplopia (kettős látás)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_DIPLOPIA_DESC</LocID>                   
+		<Text>A Diplopia, más néven Double Vision, egyetlen objektum két képének egyidejű érzékelése, amely vízszintesen, függőlegesen, átlósan (azaz függőlegesen és vízszintesen egyaránt), vagy egymáshoz képest forgásirányban elmozdulhat.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_CONJU_SCAR</LocID>                               
+		<Text>Konjunktív hegesedés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_EYE_CONJU_SCAR_DESC</LocID>                   
+		<Text>A kötőhártya-ijesztés tartós probléma lehet a műtét után. Ahelyett, hogy visszatérne a tipikus áttetsző fehér megjelenésre, a kötőhártya krónikusan hiperémiás és rózsaszínű maradhat. Sok körülmény okozhatja a kötőhártya, a vékony átlátszó membrán, amely a szem fehérjét és a szemhéjak alsó részét takarja, hegesedést. A hegesedés károsítja a kötőhártyát, és megakadályozza a nyálkahártya védőrétegének megtartását, ami elősegíti a könnyek tapadását a felszínen.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_FOLLICULITIS</LocID>                               
+		<Text>Folliculitis</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_FOLLICULITIS_DESC</LocID>                   
+		<Text>A folliculitis egy gyakori bőrbetegség, amelyben a hajhagymák gyulladnak. Általában bakteriális vagy gombás fertőzés okozza. Eleinte apró vörös dudoroknak vagy fehér fejű pattanásoknak tűnhet a szőrtüszők körül - az apró zsebek, amelyekből minden haj kinő.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MILD_AR</LocID>                               
+		<Text>Enyhe allergiás reakció</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_MILD_AR_DESC</LocID>                   
+		<Text>A betegnek a műtét alatt vagy után enyhe allergiás reakciója volt. Ez reakció lehet bizonyos alkalmazott érzéstelenítőkre, környezeti viszonyokra, más típusú gyógyszerekre vagy a műtét során használt anyagokra, vagy akár a sebkötözésre.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_THPAFA</LocID>                               
+		<Text>A Palmar Fascia megvastagodása</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_THPAFA_DESC</LocID>                   
+		<Text>A tenyérfascia egy háromszög alakú szerkezet a tenyerében, distalis alapú. Amikor megvastagodik, feszül és rövidül, az ujjakat befelé húzza a tenyér felé.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_BENT_DIGIT</LocID>                               
+		<Text>A kéz hajlítási rendellenessége</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_BENT_DIGIT_DESC</LocID>                   
+		<Text>A páciens befelé hajlított ujjal mutatott a kezén, és miközben még mindig motorosan vezérli az ujját, a beteg nem képes saját maga korrigálni a hajlítást.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_THICKCORD</LocID>                               
+		<Text>Kiemelkedő zsinór</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_H_THICKCORD_DESC</LocID>                   
+		<Text>A beteg kezén edzett és vastag izom- / szövetzsinór található.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_DIMPLES</LocID>                               
+		<Text>A bőr méretezése</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_DIMPLES_DESC</LocID>                   
+		<Text>A páciens bőrének mélyedése van, hasonlóan a narancshéj vagy a golflabda felületéhez.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OOST</LocID>                               
+		<Text>A hegszövet túlszaporodása</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OOST_DESC</LocID>                   
+		<Text>A hegszövet túlnövekedése akkor fordul elő, ha túl sok kollagén termelődik a seb helyén. A heg folyamatosan növekszik, még a seb gyógyulása után is.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING1</LocID>                               
+		<Text>Nagyon könnyű vérzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING1_DESC</LocID>                   
+		<Text>A beteg nagyon enyhén vérzik, jellemzően nincs változás az életfontosságú jelekben, és a folyadék újraélesztése általában nem szükséges. Az ilyen vérzés általában magától megszűnik.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING2</LocID>                               
+		<Text>Enyhe vérzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING2_DESC</LocID>                   
+		<Text>A páciens enyhén vérzik, az életjelek jellemzően nem változnak, és a folyadék újraélesztése általában nem szükséges. Szükség lehet a vérzés leállítására a további szövődmények megelőzése érdekében.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING3</LocID>                               
+		<Text>Mérsékelt vérzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING3_DESC</LocID>                   
+		<Text>A páciens kissé erősen vérzik, feltalálásra van szükség a hipovolémiás sokk megelőzésére.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING4</LocID>                               
+		<Text>Súlyos vérzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING4_DESC</LocID>                   
+		<Text>A beteg erősen vérzik, a találmány kritikus fontosságú a hipovolémiás sokk megelőzésében.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING5</LocID>                               
+		<Text>Katasztrofális vérzés</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEEDING5_DESC</LocID>                   
+		<Text>A beteg erősen vérzik, azonnali beavatkozásra van szükség a beteg életének megmentéséhez.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

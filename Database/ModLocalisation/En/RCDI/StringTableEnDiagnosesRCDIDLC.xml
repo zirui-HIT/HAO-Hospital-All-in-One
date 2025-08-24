@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_DIAGNOSES_RCDI">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Butch</Name>
+            
+        </Contributors>
+
+        <LocalizedStrings>
+
+            
+
+            
+            
+            
+
+            <GameDBLocalizedString>      <LocID>DIA_CLA</LocID>                         <Text>Acute Cholangitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLA_DESCRIPTION</LocID>             <Text>Acute Cholangitis is an infection of the bile duct usually caused by bacteria ascending from the duodenum (first part of the small intestine). The most common cause of Acute Cholangitis is bile duct obstruction by gallstones. This typically manifests as the triad of fever, upper abdominal pain and jaundice. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APT</LocID>                         <Text>Acute Pancreatitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APT_DESCRIPTION</LocID>             <Text>Acute Pancreatitis refers to inflammation of the pancreas that develops over a short period of time. It is usually caused by gallstone blockage or excessive alcohol intake.</Text>  </GameDBLocalizedString>
+			
+            
+            
+			
+			<GameDBLocalizedString>      <LocID>DIA_ISSTK</LocID>                         <Text>Ischemic Stroke</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ISSTK_DESCRIPTION</LocID>             <Text>Ischemic Stroke occurs when the blood supply to an area of the brain is suddenly interrupted or severely reduced, resulting in the death (necrosis) of brain tissue in the affected area.</Text>  </GameDBLocalizedString>
+        
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

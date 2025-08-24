@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_FR_ADDON_CRP_SLEEPY_TREATMENTS">
+	<LanguageCode>fr</LanguageCode>
+	<LanguageNameLocalized>Français</LanguageNameLocalized>
+	<Contributors>
+	<Name>Nico57970</Name>
+	<Name>Damn3d</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Crème Imiquimod</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>L'imiquimod, vendu sous la marque Aldara, est une crème qui agit comme un modificateur de la réponse immunitaire et qui est utilisée pour traiter le carcinome basocellulaire superficiel et les kératoses actiniques. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Thérapie photodynamique</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>La thérapie photodynamique est un traitement qui utilise certains médicaments appelés agents photosensibilisants, ainsi qu'une lumière spéciale, pour tuer les cellules cancéreuses. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Excision locale large</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>Une excision locale large(WLE) est une intervention chirurgicale pour enlever une petite zone de tissu malade ou problématique. Cette procédure est couramment effectuée sur le sein et les lésions cutanées, mais peut être utilisée sur n'importe quelle zone du corps. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Conseils en oncologie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>Le médecin donne au patient des conseils sur la façon de gérer sa situation, aide le patient à mieux comprendre ses options telles que les soins palliatifs et fait tout ce qu'il peut pour assurer au patient la meilleure qualité de vie possible pendant cette période. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Thérapie ciblée</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>Les thérapies ciblées sont des médicaments ou d'autres substances qui bloquent la croissance et la propagation du cancer en interférant avec des molécules spécifiques. Les thérapies ciblées diffèrent de la chimiothérapie standard car elles sont conçues pour agir sur des cibles moléculaires spécifiques et attaquer les cellules cancéreuses sans nuire aux cellules saines. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Chimiothérapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>La chimiothérapie est un type de traitement du cancer qui utilise un ou plusieurs médicaments anticancéreux dans le cadre d'un régime de chimiothérapie standardisé. La chimiothérapie peut être administrée à des fins curatives, elle peut viser à prolonger la vie du patient ou à réduire les symptômes. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Chirurgie laparoscopique</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>La chirurgie laparoscopique ou «peu-invasive» est une technique spécialisée pour effectuer la chirurgie. Il s'agit d'une procédure à faible risque et peu invasive qui ne nécessite que de petites incisions. La laparoscopie utilise un instrument appelé laparoscope pour observer les organes abdominaux. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Lobectomie pulmonaire</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>La lobectomie pulmonaire est une opération chirurgicale où un lobe du poumon est retiré. Elle est faite pour enlever une partie du poumon malade, comme le cancer du poumon à un stade précoce. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Embolisation endovasculaire</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>L'embolisation endovasculaire(EE) est une intervention chirurgicale invasive. Elle est utilisée pour traiter les vaisseaux sanguins anormaux dans votre cerveau, ainsi que dans d'autres parties de votre corps. Cette procédure est une alternative à la chirurgie ouverte. Elle bloque les vaisseaux sanguins pour couper le flux sanguin dans une zone affectée. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Immunothérapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>L'immunothérapie est un type de traitement contre le cancer qui aide le système immunitaire de l'organisme à combattre le cancer. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Chirurgie reconstructrice des nerfs</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>La chirurgie reconstructrice des nerfs implique l'exploration du la zone lésé et l'élimination des tissus blessés ou des cicatrices des terminaisons nerveuses. Après cela, un nerf peut être reconnecté directement s'il y a suffisamment de longueur aux extrémités pour permettre une réparation de bonne qualité sans tension. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_EPIPEN</LocID>                                    	
+	<Text>Auto-injecteur d'épinéphrine</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_EPIPEN_DESC</LocID>                        	
+	<Text>Un auto-injecteur d'épinéphrine est un dispositif médical permettant d'injecter une ou plusieurs doses mesurées d'épinéphrine au moyen de la technologie d'auto-injecteur. Il est le plus souvent utilisé pour le traitement de l'anaphylaxie. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POLYPECTOMY</LocID>                                    	
+	<Text>Polypectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>Une polypectomie est une procédure utilisée pour éliminer les polypes de l'intérieur du colon, également appelé gros intestin. Un polype est une croissance anormale de tissus. La procédure est non invasive. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Colectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>Une colectomie est une résection intestinale du gros intestin. Elle consiste en l'ablation chirurgicale de d'une partie du colon, généralement une résection segmentaire. Dans les cas extrêmes tout le colon peut être retiré. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ADRENALECTOMY</LocID>                                    	
+	<Text>Surrénalectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>La surrénalectomie est l'ablation chirurgicale d'une ou des deux glandes surrénales. Il est généralement conseillé aux patients atteints de tumeurs des glandes surrénales. La procédure peut être effectuée en utilisant une incision ouverte ou une technique laparoscopique. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MITOTANE</LocID>                                    	
+	<Text>Mitotane</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_MITOTANE_DESC</LocID>                        	
+	<Text>Le mitotane, vendu sous la marque Lysodren, est un médicament inhibiteur de la stéroïdogenèse et un médicament antinéoplasique cytostatique qui est utilisé dans le traitement du carcinome corticosurrénalien et du syndrome de Cushing. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Spironolactone</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>La spironolactone est un diurétique potassique qui empêche votre corps d'absorber trop de sel et empêche votre taux de potassium de devenir trop bas. La spironolactone est utilisée pour traiter l'insuffisance cardiaque, l'hypertension artérielle ou l'hypokaliémie (faible taux de potassium dans le sang). \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Injection d'octréotide</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>L'octréotide est utilisé pour le traitement des tumeurs productrices d'hormones de croissance(acromégalie et gigantisme) et peut aider à stabiliser un patient souffrant d'une crise carcinoïde. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Surveillance Active</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>La surveillance active consiste à ce que l'oncologue ne recommande aucun traitement mais surveille la santé du patient avec des bilans de santé réguliers et des tests sanguins. Ceci est parfois appelé «surveillance attentive». \n\nSalle requise: Cabinet d'oncologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_HYPER_CVAD</LocID>                                    	
+	<Text>Thérapie Intensive Hyper-CVAD</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>Le terme «hyper» fait référence à la nature hyperfractionnée de la chimiothérapie, qui est administrée à plus petites doses mais plus fréquemment, pour minimiser les effets secondaires. «CVAD» est l'acronyme des médicaments utilisés dans le traitements: cyclophosphamide, vincristine, doxorubicine(Adriamycin) et dexaméthasone. Les thérapies intensives de courte durée montrent de meilleurs résultats. \n\nSalle requise: Hospitalisation HDE du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_CRP_SPLENECTOMY</LocID>                                    	
+	<Text>Splénectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>La splénectomie est une intervention chirurgicale pour retirer votre rate. La rate est un organe qui se trouve sous votre cage thoracique sur le côté supérieur gauche de votre abdomen. Il aide à combattre les infections et filtre le sang des matières inutiles, telles que les anciennes cellules sanguines ou les cellules endommagées. La splénectomie est plus couramment utilisée pour traiter une rupture de la rate, souvent causée par une blessure abdominale. La splénectomie peut être utilisée pour traiter d'autres affections, notamment une hypertrophie de la rate qui provoque une gêne(splénomégalie), certains troubles sanguins, certains cancers, une infection et des kystes non cancéreuses. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_G_CSF</LocID>                                    	
+	<Text>Médicaments G-CSF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_G_CSF_DESC</LocID>                        	
+	<Text>Les médicaments G-CSF(Granulocyte colony stimulating factor) contre les facteurs de stimulation des colonies de granulocytes, sont une glycoprotéine qui stimule la moelle osseuse pour produire des granulocytes et des cellules souches puis les libérer dans la circulation sanguine. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_METHOTREXATE</LocID>                                    	
+	<Text>Méthotrexate IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_METHOTREXATE_DESC</LocID>                        	
+	<Text>Le méthotrexate, anciennement appelé améthoptérine, est un agent de chimiothérapie et un suppresseur du système immunitaire. Il est utilisé pour traiter le cancer, les maladies auto-immunes, les grossesses extra-utérines et les avortements médicaux. Les types de cancers pour lesquels il est utilisé sont le cancer du sein, la leucémie, le cancer du poumon, le lymphome et l'ostéosarcome. Il est administré par intra-veineuse. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Alemtuzumab IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>L'alemtuzumab est un médicament utilisé pour traiter la leucémie lymphoïde chronique et la sclérose en plaques. Dans la LLC, l'alemtuzumab a est utilisé à la fois comme traitement de première intention et de deuxième intention. Dans la SEP, elle n'est généralement recommandée que si d'autres traitements n'ont pas fonctionné. Il est administré par intra-veineuse. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_BRAF_INH</LocID>                                    	
+	<Text>Inhibiteurs de B-RAF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_BRAF_INH_DESC</LocID>                        	
+	<Text>Les inhibiteurs de B-RAF aident à bloquer la mutation du gène BRAF-V600E. Dans les essais cliniques, B-RAF a augmenté les chances de survie des patients atteints de mélanome métastatique. Malgré la grande efficacité du médicament, 20% des tumeurs développent encore une résistance au traitement. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TAMOXIFEN</LocID>                                    	
+	<Text>Tamoxifen</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>Le tamoxifène est une hormonothérapie du cancer du sein chez les femmes et les hommes. Il réduit le risque de récidive du cancer du sein après la chirurgie ou celui de se développer dans l'autre sein. Il peut également contrôler le cancer du sein avancé pendant un certain temps. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Mastectomie partiel</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>La mastectomie partiel est une opération chirurgicale pour retirer le cancer et certains tissus normaux qui l'entourent, mais pas le sein lui-même. Certains ganglions lymphatiques sous le bras peuvent être retirés pour une biopsie. Une partie de la doublure de la paroi thoracique peut également être enlevée si le cancer est à proximité. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPERSALINE</LocID>                                    	
+	<Text>Solution saline hypertonique</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HYPERSALINE_DESC</LocID>                        	
+	<Text>La thérapie hyperosmolaire avec une solution saline hypertonique ou du mannitol peut rapidement réduire la pression intracrânienne, sauver éventuellement des vies et des cellules cérébrales. La solution saline hypertonique est efficace car elle ne traverse pas la barrière hémato-encéphalique, et attire ainsi le liquide céphalorachidien du crâne, réduisant ainsi la pression et les blessures supplémentaires. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Incision et drainage</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>L'incision et le drainage sont des procédures chirurgicales mineures pour libérer le liquide ou la pression accumulée sous la peau. \n\nSalle requise: unité de diagnostic du dpt d'oncologie/Cabinet d'oncologie/USC/Salle d'observation</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEBULKING</LocID>                                    	
+	<Text>Ablation chirurgicale</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEBULKING_DESC</LocID>                        	
+	<Text>L'ablation chirurgicale des tumeurs est une procédure par laquelle un néoplasme cancéreux incurable est partiellement retiré sans intention curative afin de rendre plus efficace la thérapie avec des médicaments, des radiations ou d'autres mesures d'appoint et, ainsi, améliorer la survie du patient. Le médecin devra suivre le patient afin d'amener le cancer en rémission. \n\nSalle requise: Bloc opératoire du service de Neurologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GTR</LocID>                                    	
+	<Text>Résection totale par Craniotomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GTR_DESC</LocID>                        	
+	<Text>La résection totale par craniotomie est une élimination complète du tissu tumoral visible par imagerie à résonance magnétique (IRM). La résection supratotale est réalisée en tant que résection totale grave avec excision des bords du tissu tumoral visible sur l'IRM dans le tissu cérébral non affecté. \n\nSalle requise: Bloc opératoire du service de Neurologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Crème Estradiol</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>La crème Estradiol est une préparation à base d'oestrogène, une hormone féminine, pour une application topique sur la zone vaginale utilisée pour traiter certains symptômes de la ménopause tels que la sécheresse, les brûlures et les démangeaisons de la zone vaginale. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_UNI_SALOOPH</LocID>                                    	
+	<Text>Salpingo-ovariectomie unilatérale</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Une salpingo-ovariectomie unilatérale est l'ablation chirurgicale d'un ovaire et d'une trompe de Fallope, qui sont tous deux situés du même côté du corps et partagent un approvisionnement en sang commun (en revanche, une procédure bilatérale implique l'ablation des ovaires et des trompes de Fallope des deux cotés). La salpingo-ovariectomie unilatérale doit être considérée comme le premier choix de traitement préservant la fertilité pour les femmes. Bien que le risque de rechutes locales est plus elevé, il n'est pas associé à une diminution de la survie globale. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RAD_PROS</LocID>                                    	
+	<Text>Prostatectomie radicale</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RAD_PROS_DESC</LocID>                        	
+	<Text>La prostatectomie radicale est une opération visant à retirer la glande prostatique et les tissus qui l'entourent. Cela comprend généralement les vésicules séminales et certains ganglions lymphatiques voisins. La prostatectomie radicale peut guérir le cancer de la prostate chez les hommes dont le cancer est resté limité à la prostate. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Hormonothérapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>L'hormonothérapie est l'utilisation d'hormones pour le traitement médical. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARATHY</LocID>                                    	
+	<Text>Parathyroïdectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PARATHY_DESC</LocID>                        	
+	<Text>La parathyroïdectomie est une intervention chirurgicale visant à retirer les glandes parathyroïdes ou les tumeurs parathyroïdiennes. Les glandes parathyroïdes sont juste derrière la thyroïde dans le cou. Ces glandes aident votre corps à contrôler le taux de calcium dans le sang. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RCHOP</LocID>                                    	
+	<Text>Polychimiothérapie R-CHOP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RCHOP_DESC</LocID>                        	
+	<Text>La polychimiothérapie R-CHOP est un traitement combiné utilisé pour traiter le lymphome non hodgkinien(LNH). R-CHOP comprend cinq médicaments de chimiothérapie: le rituximab(Rituxan), le cyclophosphamide, l'hydroxyadriamycine, la vincristine et le prednisone. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RITUXIMAB</LocID>                                    	
+	<Text>Rituximab</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_RITUXIMAB_DESC</LocID>                        	
+	<Text>Le rituximab, vendu entre autres sous la marque Rituxan, est un médicament utilisé pour traiter certaines maladies auto-immunes et certains types de cancer. Le rituximab est un anticorps monoclonal chimérique contre la protéine CD20, qui se trouve principalement à la surface des cellules B du système immunitaire. Lorsqu'il se lie à cette protéine, il déclenche la mort cellulaire. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GEMCITABINE</LocID>                                    	
+	<Text>Gemcitabine</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_GEMCITABINE_DESC</LocID>                        	
+	<Text>La gemcitabine, vendue sous la marque Gemzar, entre autres, est un médicament de chimiothérapie utilisé pour traiter un certain nombre de types de cancer. Ces cancers comprennent le cancer du sein, le cancer de l'ovaire, le cancer du poumon non à petites cellules, le cancer du pancréas et le cancer de la vessie. Il est administré par injection lente dans une veine (IV). \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POCT</LocID>                                    	
+	<Text>POC en traitement combiné</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_POCT_DESC</LocID>                        	
+	<Text>Pamidronate et octréotide en traitement combiné. Des rapports isolés suggèrent que le pamidronate et l'octréotide peuvent aider à soulager la douleur osseuse dans certains cas et aider au traitement de l'arthrose pulmonaire hypertrophique. Le traitement du problème sous-jacent est nécessaire pour résoudre le problème principale. \n\nSalle requise: Tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>La résection segmentaire est une intervention chirurgicale visant à retirer une partie d'un organe ou d'une glande, en tant que sous-type d'une résection, ce qui pourrait impliquer l'ablation de la totalité de l'organe. Il peut également être utilisé pour retirer une tumeur et les tissus normaux qui l'entourent. \n\nSalle requise: Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_FEP</LocID>                                    	
+	<Text>FEP en traitement combiné</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_FEP_DESC</LocID>                        	
+	<Text>Traitement combiné au 5-fluorouracile(5-FU), au cisplatine et à l'étoposide(FEP). La chimiothérapie a une efficacité curative relativement médiocre dans certains cancers tels que le carcinome à cellules en bague. Les patients et les taux de survie globaux sont inférieurs par rapport aux patients présentant une pathologie cancéreuse plus typique. Ces cancers sont généralement diagnostiqués au cours des derniers stades de la maladie, de sorte que les tumeurs se propagent généralement de manière plus agressive que les cancers non-annelés, ce qui rend le traitement difficile, mais la plupart des schémas thérapeutiques actifs comprennent le 5-fluorouracile (5-FU), le cisplatine et/ou l'étoposide. La chimiothérapie combinée FEP semble être un schéma thérapeutique efficace pour le cancer gastrique en tant que chimiothérapie de sauvetage. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_AMMONUL</LocID>                                    	
+	<Text>Ammonul</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_AMMONUL_DESC</LocID>                        	
+	<Text>Ammonul (combinaison de benzoate de sodium et de phénylacétate de sodium) est utilisé pour traiter une affection causée par un excès d'ammoniac dans le sang (hyperammonémie). \n\nSalle requise : Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LACTULOSE</LocID>                                    	
+	<Text>Lactulose</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LACTULOSE_DESC</LocID>                        	
+	<Text>Le lactulose est un médicament sur ordonnance utilisé par voie orale ou rectale pour traiter ou prévenir les complications d'une maladie du foie (encéphalopathie hépatique). Il ne guérit pas le problème, mais peut aider à améliorer l'état mental. Le lactulose est un acidifiant du côlon qui agit en diminuant la quantité d'ammoniaque dans le sang. \n\nSalle requise: tout bureau/unité de diagnostic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HEPATECTOMY</LocID>                                    	
+	<Text>Hépatectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>L'hépatectomie est la résection chirurgicale (ablation de tout ou partie) du foie. \n\nSalle requise : Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Chirurgie de transplantation du foie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>Une transplantation de foie est une procédure chirurgicale qui consiste à retirer un foie qui ne fonctionne plus correctement (insuffisance hépatique) et à le remplacer par un foie sain provenant d'un donneur décédé ou une partie d'un foie sain provenant d'un donneur vivant. \n\nSalle requise : Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Médicaments immunosuppresseurs</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Les immunosuppresseurs sont une classe de médicaments qui suppriment ou réduisent la force du système immunitaire de l'organisme. Certains de ces médicaments sont utilisés pour rendre l'organisme moins susceptible de rejeter un organe transplanté, comme un foie, un cœur ou un rein. \n\nSalle requise : Bloc opératoire du service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Parotidectomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>Une parotidectomie est l'excision chirurgicale de la glande parotide, la principale et la plus grande des glandes salivaires. L'intervention est le plus souvent pratiquée en raison de néoplasmes, qui sont des croissances de cellules se divisant rapidement et anormalement. Les néoplasmes peuvent être bénins ou malins. \Salle requise : Salle d'opération au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

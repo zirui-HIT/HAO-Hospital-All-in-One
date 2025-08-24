@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_KR_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>kr</LanguageCode>
+<LanguageNameLocalized>한국어</LanguageNameLocalized>
+<Contributors>
+<Name>아린</Name>
+</Contributors>
+
+<LocalizedStrings>
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>진료실(이비인후과)</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>귀, 코, 목을 전문으로 하는 의사의 진료실. \n\n직원 요구 사항:\n1x 의사</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>치료실(이비인후과)</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>입원한 환자들을 위한 검사와 치료 절차를 제공. \n\n직원 요구 사항: \n1x 의사 \n(당직실 기준 인원)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>초음파 검사실</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>특정 초음파 기반 검사와 치료를 제공. \n\n직원 요구 사항: \n1x 의료기사 - USG</Text>  
+	</GameDBLocalizedString>
+            
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

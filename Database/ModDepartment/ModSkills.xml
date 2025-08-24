@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <!-- Sexual Health -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_SH">
+        <AbbreviationLocID>SKILL_DOC_SPEC_SH_DESCRIPTION</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <IconIndex>2322</IconIndex>
+        <CustomIconAssetRef>ASSET_MOD_SH_ICON_SH</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_SH_ICON_SH_DARK</CustomIconLightBackgroundAssetRef>
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_SH_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_SH_SURGERY_DESCRIPTION</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <IconIndex>2388</IconIndex>
+        <ExtraLevelingPercent>50</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Gynecology -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE">
+        <AbbreviationLocID>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE_DESCRIPTION</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <IconIndex>403</IconIndex>
+        <CustomIconAssetRef>ASSET_GYNECO_ICON_G</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_GYNECO_ICON_G_DARK</CustomIconLightBackgroundAssetRef>
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_GYNECOLOGUE_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_GYNECOLOGUE_SURGERY_DESCRIPTION</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <IconIndex>2388</IconIndex>
+        <ExtraLevelingPercent>50</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Oncology -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_ONCO">
+        <AbbreviationLocID>SKILL_DOC_SPEC_ONCO_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>403</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_ONCO</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_ONCO_DARK</CustomIconLightBackgroundAssetRef>
+
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_ONCO_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>2388</IconIndex>
+
+        <ExtraLevelingPercent>50</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Otorhinolaryngology -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>403</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_OR</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_OR_DARK</CustomIconLightBackgroundAssetRef>
+
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>2388</IconIndex>
+
+        <ExtraLevelingPercent>50</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Plastic -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_PLAS">
+        <AbbreviationLocID>SKILL_DOC_SPEC_PLAS_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>403</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_PLAS</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_PLAS_DARK</CustomIconLightBackgroundAssetRef>
+
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_PLAS_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_PLAS_SURGERY_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>2388</IconIndex>
+
+        <ExtraLevelingPercent>50</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Urology -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_UR">
+        <AbbreviationLocID>SKILL_DOC_SPEC_UR_DESC</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>403</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_UR</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_UR_DARK</CustomIconLightBackgroundAssetRef>
+
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_UR_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_UR_SURGERY_DESC</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>2388</IconIndex>
+
+        <ExtraLevelingPercent>50</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Psychiatry -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_NEW_PSY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_NEW_PSY_DESCRIPTION</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <ExtraLevelingPercent>70</ExtraLevelingPercent>
+        <IconIndex>430</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_NEW_PSY</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_NEW_PSY</CustomIconLightBackgroundAssetRef>
+
+    </GameDBSkill>
+
+    <!-- Diagnostic -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_DIAG">
+        <AbbreviationLocID>SKILL_DOC_SPEC_DIAG_DESCR</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+        <IconIndex>403</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_DIAG</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_DIAG_DARK</CustomIconLightBackgroundAssetRef>
+
+        <ExtraLevelingPercent>100</ExtraLevelingPercent>
+    </GameDBSkill>
+
+    <!-- Hematology -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_HEM">
+        <AbbreviationLocID>SKILL_DOC_SPEC_HEM_DESC</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <ExtraLevelingPercent>70</ExtraLevelingPercent>
+        <IconIndex>430</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_HEM</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_HEM</CustomIconLightBackgroundAssetRef>
+
+    </GameDBSkill>
+
+    <!-- Ophthalmology -->
+    <GameDBSkill ID="SKILL_DOC_SPEC_OPH">
+        <AbbreviationLocID>SKILL_DOC_SPEC_OPH_DESC</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <ExtraLevelingPercent>70</ExtraLevelingPercent>
+        <IconIndex>430</IconIndex>
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_OPH</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_OPH</CustomIconLightBackgroundAssetRef>
+    </GameDBSkill>
+    <GameDBSkill ID="SKILL_DOC_SPEC_OPH_SURGERY">
+        <AbbreviationLocID>SKILL_DOC_SPEC_OPH_SURGERY_DESC</AbbreviationLocID>
+        <ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+        <IconIndex>2388</IconIndex>
+        <ExtraLevelingPercent>60</ExtraLevelingPercent>
+    </GameDBSkill>
+
+</Database>

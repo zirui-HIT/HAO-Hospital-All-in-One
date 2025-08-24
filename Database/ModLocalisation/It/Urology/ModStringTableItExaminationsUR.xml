@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+        <Contributors>
+        <Name>neoxes</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>Orchiectomia inguinale</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>L'orchiectomia inguinale è un metodo specifico di orchiectomia che prevede l'asportazione chirurgica di uno o entrambi i testicoli e l'intero cordone spermatico attraverso un'incisione nell'addome laterale inferiore. La procedura viene generalmente eseguita da un urologo, in genere se si sospetta un cancro ai testicoli.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>Orchiectomia inguinale - esame del testicolo</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>Esame del testicolo rimosso tramite orchiectomia inguinale.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>Palpazione dello scroto</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>La palpazione dello scroto e del suo contenuto rivelerà la presenza, le dimensioni, la posizione e la forma dei testicoli e dei loro annessi. In condizioni normali, il testicolo è ovoidale, liscio, compatto e leggermente dolente alla palpazione. Tipicamente  è facilmente separato dall'epididimo, che si trova posteriormente e leggermente laterale al testicolo.</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

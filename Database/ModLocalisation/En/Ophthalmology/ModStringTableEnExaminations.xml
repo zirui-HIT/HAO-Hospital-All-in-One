@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_EN_ADDON_MOD_OPHTHALMOLOGY_EXAMINATIONS">
+    <LanguageCode>en</LanguageCode>
+    <LanguageNameLocalized>English</LanguageNameLocalized>
+    <Contributors>
+      <Name>WDZRMPCBIT</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>EXM_SLIT_LAMP_EXAM</LocID>
+        <Text>Slit-Lamp Examination</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_SLIT_LAMP_EXAM_DESCRIPTION</LocID>
+        <Text>Uses a slit lamp to observe signs in anterior segment structures like the cornea, conjunctiva, anterior chamber, iris, and lens.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_FLUORESCEIN_STAIN</LocID>
+        <Text>Corneal Fluorescein Staining</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_FLUORESCEIN_STAIN_DESCRIPTION</LocID>
+        <Text>Uses fluorescein stain to observe corneal epithelial defects and measure tear film break-up time.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_SCHIRMER_TEST</LocID>
+        <Text>Schirmer's Test</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_SCHIRMER_TEST_DESCRIPTION</LocID>
+        <Text>Measures basal and reflex tear secretion using filter paper strips to evaluate dry eye.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_AMSLER_GRID</LocID>
+        <Text>Amsler Grid Test</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_AMSLER_GRID_DESCRIPTION</LocID>
+        <Text>Screens for macular dysfunction by checking for distortion or missing areas in a grid pattern.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_OCT</LocID>
+        <Text>Optical Coherence Tomography (OCT)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_OCT_DESCRIPTION</LocID>
+        <Text>Non-contact tomographic imaging to assess macular edema, retinal nerve fiber layer thickness, etc.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_FA</LocID>
+        <Text>Fundus Fluorescein Angiography (FFA)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_FA_DESCRIPTION</LocID>
+        <Text>Involves intravenous injection of fluorescein followed by fundus photography to assess for leakage, ischemia, and neovascularization.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

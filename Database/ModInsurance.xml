@@ -1,0 +1,1385 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+
+    <GameDBInsuranceCompany ID="IN_COM_MEDICARE">
+        <NameLocID>IN_COM_MEDICARE</NameLocID>
+        <IconIndex>2305</IconIndex>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>TREATED_PATIENTS</ConditionType>
+                <ConditionValue>20</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+
+        <Objectives>
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>25</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>15550</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>30</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>25</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>35</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>35250</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>40</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>30</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>45</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>50</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>35</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>55</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>62500</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>60</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>40</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>62</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>3</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>65</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>74575</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>70</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>45</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>75</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>80000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>80</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>50</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>85</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>85000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>90</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>60</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>95</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>90000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>100</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>100000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>100</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>5</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>1</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>35000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>2</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>40000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>45000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>4</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>6</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>7</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>8</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>9</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>10</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>11</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>12</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>13</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>14</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>15</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>16</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>17</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>18</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>19</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>20</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>21</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>22</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>23</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>24</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>25</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>26</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>27</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>28</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>29</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>30</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>31</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+        </Objectives>
+
+        <PatientsPerDay>20</PatientsPerDay>
+        <ImmobilePerDay>0</ImmobilePerDay>
+
+        <CoverCostPercent>-25</CoverCostPercent>
+        <UnlockCompany>UNLOCK_MEDICARE</UnlockCompany>
+
+    </GameDBInsuranceCompany>
+
+    <GameDBInsuranceCompany ID="IN_COM_RGI">
+        <NameLocID>IN_COM_RGI</NameLocID>
+        <IconIndex>2311</IconIndex>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                <ConditionValue>7</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+
+        <Objectives>
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>25</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>20000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>30</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>6</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>30000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>35</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>7</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>4</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>30000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>40</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>8</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>40000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>45</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>10</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>50</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>12</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>7</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>2</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>60000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>55</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>15</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>6</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>60000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>60</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>20</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>7</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>60000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>7</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>4</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>65</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>25</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_PATIENTS_SENT_AWAY_OR_WENT_AWAY_DAYS</ConditionType>
+                    <ConditionValue>7</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>60000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>14</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>5</RewardParam>
+                </Reward>
+            </Objective>
+        </Objectives>
+
+        <PatientsPerDay>5</PatientsPerDay>
+        <ImmobilePerDay>0</ImmobilePerDay>
+
+        <CoverCostPercent>80</CoverCostPercent>
+        <UnlockCompany>UNLOCK_RGI</UnlockCompany>
+
+    </GameDBInsuranceCompany>
+
+    <GameDBInsuranceCompany ID="IN_COM_Anthem_Inc">
+        <NameLocID>Anthem_Inc</NameLocID>
+        <IconIndex>486</IconIndex>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</ConditionType>
+                <ConditionDatabaseID>DPT_EMERGENCY</ConditionDatabaseID>
+                <ConditionValue>30</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+
+        <Objectives>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>WORKING_HOSPITALIZATION_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_EMERGENCY</ConditionDatabaseID>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>25000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>10</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_EMERGENCY</ConditionDatabaseID>
+                    <ConditionValue>30</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>7</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>SAVE_PATIENT_AFTER_COLLAPSES</ConditionType>
+                    <ConditionValue>1</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>9</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_EMERGENCY</ConditionDatabaseID>
+                    <ConditionValue>90</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>15</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PERFORM_SURGERY</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>11</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>500</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>13</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NUMBER_OF_AMBULANCES</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>2</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>15</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_EMERGENCY</ConditionDatabaseID>
+                    <ConditionValue>95</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>25000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>1000</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>5</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PERFORM_SURGERY</ConditionType>
+                    <ConditionValue>10</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>15</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_EMERGENCY</ConditionDatabaseID>
+                    <ConditionValue>50</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>10</RewardParam>
+                    <RewardDuration>3</RewardDuration>
+                </Reward>
+            </Objective>
+        </Objectives>
+
+        <PatientsPerDay>5</PatientsPerDay>
+        <ImmobilePerDay>0</ImmobilePerDay>
+
+        <CoverCostPercent>0</CoverCostPercent>
+        <UnlockCompany>UNLOCK_Anthem_Inc</UnlockCompany>
+        <AlwaysAvailable>false</AlwaysAvailable>
+
+    </GameDBInsuranceCompany>
+
+    <GameDBInsuranceCompany ID="IN_COM_Kaiser_Foundation">
+        <NameLocID>Kaiser_Foundation</NameLocID>
+        <IconIndex>2323</IconIndex>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                <ConditionValue>60</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                <ConditionValue>60</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+
+        <Objectives>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_INTERNAL_MEDICINE_DEPARTMENT</ConditionDatabaseID>
+                    <ConditionValue>10</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>10</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_INTERNAL_MEDICINE_DEPARTMENT</ConditionDatabaseID>
+                    <ConditionValue>90</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>12</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>100</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_INTERNAL_MEDICINE_DEPARTMENT</ConditionDatabaseID>
+                    <ConditionValue>15</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>10</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>15</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>WORKING_HOSPITALIZATION_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_INTERNAL_MEDICINE_DEPARTMENT</ConditionDatabaseID>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NUMBER_OF_AMBULANCES</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>3</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>120</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>15</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_INTERNAL_MEDICINE_DEPARTMENT</ConditionDatabaseID>
+                    <ConditionValue>25</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>18</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>500</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>10</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>WORKING_HOSPITALIZATION_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_ICU</ConditionDatabaseID>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>5</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_IMMOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>7</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE_AT_DEPARTMENT</ConditionType>
+                    <ConditionDatabaseID>DPT_INTERNAL_MEDICINE_DEPARTMENT</ConditionDatabaseID>
+                    <ConditionValue>95</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>22</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE</ConditionType>
+                    <ConditionValue>90</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>25</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>1000</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>15</RewardParam>
+                    <RewardDuration>2</RewardDuration>
+                </Reward>
+            </Objective>
+
+        </Objectives>
+
+        <PatientsPerDay>5</PatientsPerDay>
+        <ImmobilePerDay>0</ImmobilePerDay>
+
+        <CoverCostPercent>25</CoverCostPercent>
+        <UnlockCompany>UNLOCK_Kaiser_Foundation</UnlockCompany>
+        <AlwaysAvailable>false</AlwaysAvailable>
+
+    </GameDBInsuranceCompany>
+
+    <GameDBInsuranceCompany ID="IN_COM_United_Healthcare">
+        <NameLocID>United_Healthcare</NameLocID>
+        <IconIndex>2317</IconIndex>
+
+        <Requirements>
+            <Requirement>
+                <ConditionType>TREATED_PATIENTS</ConditionType>
+                <ConditionValue>1500</ConditionValue>
+                <Hidden>true</Hidden>
+            </Requirement>
+        </Requirements>
+
+        <Objectives>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>125</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>7</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>20</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>140</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>12</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PROFITABLE_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>15</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE</ConditionType>
+                    <ConditionValue>90</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>BALANCE</ConditionType>
+                    <ConditionValue>500000</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>10</RewardParam>
+                    <RewardDuration>1</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NUMBER_OF_FULLY_WORKING_DEPARTMENTS</ConditionType>
+                    <ConditionValue>3</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>18</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>NO_DEAD_PATIENTS_DAYS</ConditionType>
+                    <ConditionValue>5</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>50000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>1500</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>25</RewardParam>
+                    <RewardDuration>2</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS_PER_DAY</ConditionType>
+                    <ConditionValue>175</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>22</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>2000</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>PRESTIGE_BONUS</RewardType>
+                    <RewardParam>30</RewardParam>
+                    <RewardDuration>3</RewardDuration>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>BALANCE</ConditionType>
+                    <ConditionValue>1000000</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>GET_GREAT_INTERNS</RewardType>
+                    <RewardParam>5</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>TREATED_PATIENTS</ConditionType>
+                    <ConditionValue>2500</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>MONEY_GRANT</RewardType>
+                    <RewardParam>150000</RewardParam>
+                </Reward>
+            </Objective>
+
+            <Objective>
+                <Requirement>
+                    <ConditionType>PRESTIGE</ConditionType>
+                    <ConditionValue>100</ConditionValue>
+                </Requirement>
+                <Reward>
+                    <RewardType>SET_MOBILE_PATIENT_COUNT</RewardType>
+                    <RewardParam>25</RewardParam>
+                </Reward>
+            </Objective>
+
+        </Objectives>
+
+        <PatientsPerDay>5</PatientsPerDay>
+        <ImmobilePerDay>0</ImmobilePerDay>
+
+        <CoverCostPercent>80</CoverCostPercent>
+        <UnlockCompany>UNLOCK_United_Healthcare</UnlockCompany>
+        <AlwaysAvailable>false</AlwaysAvailable>
+
+    </GameDBInsuranceCompany>
+
+</Database>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>MacNaab</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Dexamethasone suppression test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Dexamethasone suppression test - Testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>The dexamethasone suppression test (DST) is used to assess adrenal gland function by measuring how cortisol levels change in response to an injection of dexamethasone. It is typically used to diagnose Cushing's syndrome.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>ACTH stimulation test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>ACTH stimulation test - Testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>The ACTH test (also called the cosyntropin, tetracosactide, or Synacthen test) is a medical test usually ordered and interpreted by endocrinologists to assess the functioning of the adrenal glands's stress response by measuring the adrenal response to adrenocorticotropic hormone (ACTH; corticotropin) or another corticotropic agent such as tetracosactide (cosyntropin, tetracosactrin; Synacthen) or alsactide (Synchrodyn). ACTH is a hormone produced in the anterior pituitary gland that stimulates the adrenal glands to release cortisol, dehydroepiandrosterone (DHEA), dehydroepiandrosterone sulfate (DHEA-S), and aldosterone. During the test, a small amount of synthetic ACTH is injected, and the amount of cortisol (and sometimes aldosterone) that the adrenals produce in response is measured. This test may cause mild side effects in some individuals.</Text>	</GameDBLocalizedString>
+<!-- v0.03 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>				<Text>Coombs test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>				<Text>Coombs test - Testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>			<Text>A Coombs test, also known as antiglobulin test (AGT) is either of two blood tests used in immunohematology. They are the direct and indirect Coombs tests. The direct Coombs test detects antibodies that are stuck to the surface of the red blood cells.</Text>	</GameDBLocalizedString>
+<!-- v0.03.2 -->
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_SAMPLING</LocID>				<Text>Chromosome breakage</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_TESTING</LocID>				<Text>Chromosome breakage - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>			<Text>Chromosome breakage analysis is a test for assessing genomic instability.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString> <LocID>EXM_CRP_WALK_EXAMINATION</LocID> <Text>Gait examination</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString> <LocID>EXM_CRP_WALK_EXAMINATION_DESCRIPTION</LocID> <Text>Bedside assessment of stance and walking (base width, Romberg/tandem gait, turning). A wide-based, unstable gait often suggests cerebellar ataxia.</Text> </GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Scintigraphy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>Scintigraphy (from Latin scintilla, "spark"), also known as a gamma scan, is a diagnostic test in nuclear medicine, where radioisotopes attached to drugs that travel to a specific organ or tissue (radiopharmaceuticals) are taken internally and the emitted gamma radiation is captured by external detectors (gamma cameras) to form two-dimensional images in a similar process to the capture of x-ray images.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>	// outdated
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>The enzyme-linked immunosorbent assay (ELISA) is a commonly used analytical biochemistry assay. The assay uses a solid-phase enzyme immunoassay (EIA) to detect the presence of a ligand (commonly a protein) in a liquid sample using antibodies directed against the protein to be measured. ELISA has been used as a diagnostic tool in medicine, plant pathology, and biotechnology, as well as a quality control check in various industries. In the most simple form of an ELISA, antigens from the sample are attached to a surface. Then, a matching antibody is applied over the surface so it can bind to the antigen. This antibody is linked to an enzyme, and in the final step, a substance containing the enzyme's substrate is added. The subsequent reaction produces a detectable signal, most commonly a color change.</Text>	</GameDBLocalizedString>
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

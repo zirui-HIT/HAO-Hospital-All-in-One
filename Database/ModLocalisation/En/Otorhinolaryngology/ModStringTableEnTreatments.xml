@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_TREATMENTS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+		
+	
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_CDLS</LocID>                                    	
+	<Text>Carbon Dioxide Laser Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_CDLS_DESCRIPTION</LocID>                        	
+	<Text>The carbon dioxide laser (CO2 laser) was one of the earliest gas lasers to be developed. It was invented by Kumar Patel of Bell Labs in 1964, and is still one of the most useful. Carbon dioxide lasers are the highest-power continuous wave lasers that are currently available. They are also quite efficient: the ratio of output power to pump power can be as large as 20%. The CO2 laser produces a beam of infrared light with the principal wavelength bands centering on 9.4 and 10.6 micrometers .</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ARHN</LocID>                                    	
+	<Text>Augmentation Rhinoplasty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ARHN_DESCRIPTION</LocID>                        	
+	<Text>Rhinoplasty may require the addition of material to augment the nose. Augmentation is necessary for both aesthetic and functional indications. Functional reasons for augmentation include providing structural support for areas deficient of material, such as the upper or lower lateral cartilages. Augmentation may also be required for aesthetic reasons. Typically, augmentation rhinoplasty is performed to increase the projection of the nasal dorsum on the profile view. The nasal tip may also be augmented. In addition, grafts may be placed to camouflage irregularities of the bony dorsum and of the upper or lower lateral cartilages. </Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_ENDOSCOPIC_CAUTERIZATION</LocID>                    
+	<Text>Endoscopic Cauterization</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+	<LocID>SURG_OTOR_PULMONARY_SURGERY_X</LocID>    
+	<Text>Pulmonary surgery</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>SURG_OTOR_PULMONARY_SURGERY_X_DESCRIPTION</LocID>                 
+	<Text>Pulmonary or lung surgery is surgery done to repair or remove parts of damaged lung tissue. \n\nRequired room: Operating room at Traumatology + ICU</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_VASCULAR_SURGERY</LocID>                    
+	<Text>Vascular surgery</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>   
+	<LocID>SURG_OTOR_VASCULAR_SURGERY_DESCRIPTION</LocID>    
+	<Text>Surgical procedure to sew and fix damaged arteries. \n\nRequired room: Operating room at Traumatology + ICU</Text>
+	</GameDBLocalizedString>
+	
+   
+   
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_CHEWING_GUM_OR_YAWN</LocID>                        	
+	<Text>Chewing Gum and Yawning</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CHEWING_GUM_OR_YAWN_DESC</LocID>                                    	
+	<Text>Chewing Gum and Yawning can help open up the Eustachian tube to relieve pressure within the ears \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS</LocID>                        	
+	<Text>Antacids</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS_DESC</LocID>                                    	
+	<Text>Antacids are substances that neutralize stomach acid, used to relieve heartburn, indigestion or reflux.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CDLS</LocID>                        	
+	<Text>Carbon Dioxide Laser</Text>  
+	</GameDBLocalizedString>
+	
+   
+	
+   
+   
+    <GameDBLocalizedString>     
+	<LocID>TRT_JM_CONCETRATED_OXYGEN</LocID>       
+	<Text>Concentrated oxygen</Text> 
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_CONCETRATED_OXYGEN_DESCRIPTION</LocID>            
+	<Text>Therapy based on breathing concentrated oxygen. \n\nRequired room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>   
+	<LocID>TRT_JM_PROTECTIVE_DRESSING</LocID>                         
+    <Text>Protective dressing</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>   
+	<LocID>TRT_JM_PROTECTIVE_DRESSING_DESCRIPTION</LocID>        
+	<Text>Bandage protective dressing. \n\nRequired room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>  
+    <LocID>TRT_JM_DEBRIDEMENT</LocID>               
+	<Text>Debridement</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_DEBRIDEMENT_DESCRIPTION</LocID>             
+	<Text>Medical removal of dead tissue. \n\nRequired room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_BURN_MANAGEMENT</LocID>          
+	<Text>Burn management</Text>
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>    
+	<LocID>TRT_JM_BURN_MANAGEMENT_DESCRIPTION</LocID>     
+	<Text>Medical procedure to cure various types of burns. \n\nRequired room: Office/Diagnostic unit/ Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency</Text>
+	</GameDBLocalizedString>
+	
+  
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                        	
+	<Text>IV Antihistamines</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>                                    	
+	<Text>Intravenous (IV) supplement of antihistamine. \n\nRequired room: Any office / ward / unit</Text>  
+	</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

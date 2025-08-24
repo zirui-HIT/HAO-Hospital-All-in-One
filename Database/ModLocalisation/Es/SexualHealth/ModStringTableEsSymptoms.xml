@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_SEXUAL_HEALTH_SYMPTOMS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Davstingo</Name>
+			<Name>DrkTemplar</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_DISCHARGE</LocID>
+				<Text>Secreción genital</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_DISCHARGE_DESCRIPTION</LocID>
+				<Text>Secreción frecuente de la vagina, pene o ano.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PUBIC_LICE</LocID>
+				<Text>Presencia de piojo púbico</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PUBIC_LICE_DESCRIPTION</LocID>
+				<Text>Parásitos en el pubis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_NEISSERIA_GONORRHOEAE</LocID>
+				<Text>Neisseria Gonorrhoeae detectada</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_NEISSERIA_GONORRHOEAE_DESCRIPTION</LocID>
+				<Text>Los análisis han detectado la bacteria Neisseria Gonorrhoeae.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CHLAMYDIA</LocID>
+				<Text>Clamidia detectada</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CHLAMYDIA_DESCRIPTION</LocID>
+				<Text>Los análisis muestran la presencia de la bacteria de la clamidia.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_SORES</LocID>
+				<Text>Llagas genitales</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_SORES_DESCRIPTION</LocID>
+				<Text>Llagas, verrugas o úlceras que aparecen típicamente en el pene, escroto, vagina, vulva o alrededor del ano.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SYPHILIS</LocID>
+				<Text>Sífilis detectada</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SYPHILIS_DESCRIPTION</LocID>
+				<Text>Los análisis muestran la presencia de la bacteria de la sífilis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HIV</LocID>
+				<Text>VIH detectado</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HIV_DESCRIPTION</LocID>
+				<Text>Los análisis han confirmado la presencia del Virus de Inmunodeficiencia Humana.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HSV</LocID>
+				<Text>Detectados anticuerpos del VHS</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HSV_DESCRIPTION</LocID>
+				<Text>Los análisis han detectado la presencia de anticuerpos del Virus del Herpes Simplex.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SCABIES</LocID>
+				<Text>Sarna detectada</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SCABIES_DESCRIPTION</LocID>
+				<Text>Ácaros, huevos o nidos han indicado la presencia de sarna.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HPV</LocID>
+				<Text>VPH detectado</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HPV_DESCRIPTION</LocID>
+				<Text>La revisión genital ha mostrado la presencia del VPH.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MCI</LocID>
+				<Text>MC detectado</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MCI_DESCRIPTION</LocID>
+				<Text>La exploración física ha detectado la presencia de MC (Molusco contagioso).</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TV</LocID>
+				<Text>TV detectado</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TV_DESCRIPTION</LocID>
+				<Text>El análisis de muestra genital ha mostrado la presencia del virus de la Tricomoniasis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BV</LocID>
+				<Text>BV detectada</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BV_DESCRIPTION</LocID>
+				<Text>El análisis de muestra genital ha detectado la aparición de vaginosis bacteriana.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CERVICITIS</LocID>
+				<Text>Cervicitis detectada</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CERVICITIS_DESCRIPTION</LocID>
+				<Text>El análisis de muestra genital ha detectado la aparición de Cervicitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_VAGINAL_BLEEDING</LocID>
+				<Text>Sangrado vaginal anormal</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_VAGINAL_BLEEDING_DESCRIPTION</LocID>
+				<Text>El sangrado vaginal que ocurre fuera del ciclo menstrual.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SEX_PAIN</LocID>
+				<Text>Dolor en las relaciones sexuales</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SEX_PAIN_DESCRIPTION</LocID>
+				<Text>El paciente siente dolor durante el acto sexual.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_FEMALE</LocID>
+				<Text>Detectado Mgen</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_FEMALE_DESCRIPTION</LocID>
+				<Text>Las pruebas han detectado la presencia de mycoplasma genitalium.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_MALE</LocID>
+				<Text>Detectado Mgen</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_MALE_DESCRIPTION</LocID>
+				<Text>Las pruebas han detectado la presencia de mycoplasma genitalium.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TESTICULAR_PAIN</LocID>
+				<Text>Dolor testicular</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TESTICULAR_PAIN_DESCRIPTION</LocID>
+				<Text>El paciente siente dolor testicular.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PREP</LocID>
+				<Text>Paciente de riesgo</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PREP_DESCRIPTION</LocID>
+				<Text>El paciente tiene un alto riesgo de contraer VIH. Puede ser por mantener relaciones sexuales o drogodependientes con una persona seropositiva.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_UR</LocID>
+				<Text>Uretritis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_UR_DESCRIPTION</LocID>
+				<Text>Las pruebas indican que el paciente sufre uretritis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_ED</LocID>
+				<Text>Disfunción eréctil</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_ED_DESCRIPTION</LocID>
+				<Text>El paciente tiene problemas para mantener una erección.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EXCESS_SEMEN</LocID>
+				<Text>Eyaculación abundante</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EXCESS_SEMEN_DESCRIPTION</LocID>
+				<Text>El paciente refiere eyaculaciones anormalmente abundantes.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPERS</LocID>
+				<Text>Hiperespermia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPERS_DESCRIPTION</LocID>
+				<Text>Las pruebas indican que el paciente sufre hiperespermia.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_LOW_SEMEN</LocID>
+				<Text>Eyaculación escasa</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_LOW_SEMEN_DESCRIPTION</LocID>
+				<Text>El paciente refiere eyaculaciones anormalmente escasas.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPOS</LocID>
+				<Text>Hipospermia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPOS_DESCRIPTION</LocID>
+				<Text>Las pruebas indican que el paciente sufre hipospermia.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EPI</LocID>
+				<Text>Epididimitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EPI_DESCRIPTION</LocID>
+				<Text>Las pruebas indican que el paciente sufre epididimitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PHIMOSIS</LocID>
+				<Text>Fimosis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PHIMOSIS_DESCRIPTION</LocID>
+				<Text>La fimosis es la condición en la que no es posible retraer completamente el prepucio del glande.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BAL</LocID>
+				<Text>Balanitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BAL_DESCRIPTION</LocID>
+				<Text>La exploración inguinal indica que el paciente sufre balanitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PRO</LocID>
+				<Text>Prostatitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PRO_DESCRIPTION</LocID>
+				<Text>Las pruebas indican que el paciente sufre prostatitis.</Text>
+			</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

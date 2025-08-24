@@ -1,0 +1,1919 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<!-- Cardiologie -->
+
+    <GameDBSymptom ID="SYM_MOREDG_RETRECISSEMENT_AORTIQUE">
+        <DescriptionLocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+        
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_INSUFFISANCE_AORTIQUE">
+        <DescriptionLocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+        
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_URGENCE_HTA">
+        <DescriptionLocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+        
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2166</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_SYNCOPE_REFLEXE">
+        <DescriptionLocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+   
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HYPOTA_ORTHO">
+        <DescriptionLocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+     
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_SYNCOPE_SA"> <!-- SYNCOPE Adams-Stokes -->
+        <DescriptionLocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+     
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PACEMAKER</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_LIPOTHIMIE"> <!-- Lipothymie découverte -->
+        <DescriptionLocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+   
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_FA_ECG">		<!-- absence d'onde P visible et QRS le plus souvent irréguliers -->
+        <DescriptionLocID>SYM_MOREDG_FA_ECG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>12</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_BSA_ECG">		<!-- bloc sinoatrial (BSA) du 2e degré -->
+        <DescriptionLocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>12</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PACEMAKER</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_BAV3_ECG">		<!-- bloc atrioventriculaire (BAV) du 3e degré -->
+        <DescriptionLocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PACEMAKER</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_BBG_ECG">		<!-- bloc atrioventriculaire (BAV) du 3e degré -->
+        <DescriptionLocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PACEMAKER</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_MOREDG_TV_ECG">		<!-- dissociation auriculo ventriculaire -->
+        <DescriptionLocID>SYM_MOREDG_TV_ECG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>12</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PACEMAKER</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_QT_LONG">		<!-- dissociation auriculo ventriculaire -->
+        <DescriptionLocID>SYM_MOREDG_QT_LONG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_TCJ_ECG">		<!-- Tachycardies jonctionnelles -->
+        <DescriptionLocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ONDE_DELTA">		<!-- PR court + onde delta + élargissement QRS (ECG TABOULET) -->
+        <DescriptionLocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>2170</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM1_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G">		<!-- Signe écho -->
+        <DescriptionLocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>26</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>34</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1751</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D">		<!--  -->
+        <DescriptionLocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <RiskOfCollapseStartHours>26</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>34</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1751</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_IPS_BAS">		<!-- IPS  -->
+        <DescriptionLocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CLOT_PREVENTING_DRUGS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1699</IconIndex>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_ANEVRISME_AAA">		<!-- AAA  -->
+        <DescriptionLocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_MISE_A_PLAT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1301</IconIndex>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_ANEVRISME_POPLITE">		<!-- Anévrisme poplité  -->
+        <DescriptionLocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_MISE_A_PLAT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1301</IconIndex>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_OCCLUSION_A_COELIAQUE">		<!-- occlusion artère coeliaque  -->
+        <DescriptionLocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REVASCULARISATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1505</IconIndex>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_MOREDG_ISCHEMIE_MS">		<!-- MS  -->
+        <DescriptionLocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>12</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REVASCULARISATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1505</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ISCHEMIE_MI">		<!-- MI  -->
+        <DescriptionLocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>12</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_MOREDG_SYNDROME_LOGE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REVASCULARISATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1505</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ISCHEMIE_MESENTERIQUE">		<!-- Mésentérique  -->
+        <DescriptionLocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>12</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_MOREDG_INFARCTUS_MESENTERIQUE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ECHO</ExaminationRef>
+            <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REVASCULARISATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1505</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_RUPTURE_ANEVRISME_AAA">		<!-- Rupture anévrisme Aorte Abdo  -->
+        <DescriptionLocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+       
+        <PatientMobility>IMOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REVASCULARISATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1747</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_RUPTURE_ANEVRISME_AIC">		<!-- Rupture anévrisme Artère iliaque commune  -->
+        <DescriptionLocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+       
+        <PatientMobility>IMOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_REVASCULARISATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1747</IconIndex>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_MOREDG_TRANSPLANTATION_COEUR">
+        <DescriptionLocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_TRANSPLANTATION_COEUR</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1685</IconIndex>
+    </GameDBSymptom>
+
+<!-- Endocrinologie -->
+<!-- MI -->
+    <GameDBSymptom ID="SYM_MOREDG_TESTO">
+        <DescriptionLocID>SYM_MOREDG_TESTO_DESCRIPTION</DescriptionLocID>	<!-- testostérone biodisponible faible (baisse significative de la testostérone circulante) -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_ANDROGENOTHERAPIE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1369</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_PROLACTINOME_F">
+        <DescriptionLocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_AGONISTE_DOPA</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_PROLACTINOME_H">
+        <DescriptionLocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_AGONISTE_DOPA</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_ADENOME_SOMATOTROPE">
+        <DescriptionLocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</DescriptionLocID>	<!-- abs freinage freinage GH à l'HGPO -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+		    <ExaminationRef>EXM_CRP_HGPO_TESTING</ExaminationRef>
+        </Examinations>
+		<Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>		
+        <IconIndex>1803</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_ADENOME_CORTICOTROPE_F">
+        <DescriptionLocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</DescriptionLocID>	<!-- hypercortisolisme ACTH - dépendants -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+		    <ExaminationRef>EXM_MOREDG_FREIN_TESTING</ExaminationRef>
+        </Examinations>
+		<Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>		
+        <IconIndex>1803</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_MOREDG_ADENOME_CORTICOTROPE_H">
+        <DescriptionLocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</DescriptionLocID>	<!-- hypercortisolisme ACTH - dépendants -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+		    <ExaminationRef>EXM_MOREDG_FREIN_TESTING</ExaminationRef>
+        </Examinations>
+		<Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>		
+        <IconIndex>1803</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ADENOME_THYREOTROPE">
+        <DescriptionLocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</DescriptionLocID>	<!-- Hyperthyroidie centrale -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_PAN_HYPOPITUITARISME_F">
+        <DescriptionLocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</DescriptionLocID>	<!-- hypercortisolisme ACTH - dépendants -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+		    <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+		<Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>		
+        <IconIndex>1803</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_PAN_HYPOPITUITARISME_H">
+        <DescriptionLocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</DescriptionLocID>	<!-- hypercortisolisme ACTH - dépendants -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+		    <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+		<Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>		
+        <IconIndex>1803</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S7</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ISRNP_F">
+        <DescriptionLocID>SYM_MOREDG_ISRNP_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>26</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_CRP_INSUFFISANCE_SR_AIGUE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_MOREDG_SYNACTHENE_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_HC_FC</TreatmentRef>	<!-- TTT substitutif (GC (hydrocortisone)+ MC(fluorocortisone)) -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ISRNP_H">
+        <DescriptionLocID>SYM_MOREDG_ISRNP_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+       
+	    <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_CRP_INSUFFISANCE_SR_AIGUE</CollapseSymptomRef>
+		
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_MOREDG_SYNACTHENE_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_HC_FC</TreatmentRef>	<!-- TTT substitutif (GC (hydrocortisone)+ MC(fluorocortisone)) -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_21OH_F">
+        <DescriptionLocID>SYM_MOREDG_21OH_DESCRIPTION</DescriptionLocID>	<!-- Il est admis par l’ensemble de la communauté des endocrinologues que le diagnostic du D21OH-NC repose sur le dosage de 17OHP le matin et au mieux en première partie de cycle. Le prélèvement doit être effectué en l’absence ou à distance d’un traitement par les glucocorticoïdes car un traitement même « substitutif » et a fortiori pharmacologique introduit un risque de méconnaître le diagnostic (faux négatif) par l’inhibition de l’axe corticotrope qu’il entraîne. Le prélèvement pour le dosage de 17OHP doit aussi être fait le matin, car s’il est fait l’après midi, la concentration de 17OHP peut se retrouver dans l’intervalle de normalité chez une patiente avec D21OH-NC du simple fait des fluctuations nycthémérales de la fonction corticosurrénalienne. -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_CRP_INSUFFISANCE_SR_AIGUE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_HORMONE_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_21OH_H">
+        <DescriptionLocID>SYM_MOREDG_21OH_DESCRIPTION</DescriptionLocID>	<!-- Il est admis par l’ensemble de la communauté des endocrinologues que le diagnostic du D21OH-NC repose sur le dosage de 17OHP le matin et au mieux en première partie de cycle. Le prélèvement doit être effectué en l’absence ou à distance d’un traitement par les glucocorticoïdes car un traitement même « substitutif » et a fortiori pharmacologique introduit un risque de méconnaître le diagnostic (faux négatif) par l’inhibition de l’axe corticotrope qu’il entraîne. Le prélèvement pour le dosage de 17OHP doit aussi être fait le matin, car s’il est fait l’après midi, la concentration de 17OHP peut se retrouver dans l’intervalle de normalité chez une patiente avec D21OH-NC du simple fait des fluctuations nycthémérales de la fonction corticosurrénalienne. -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+		
+		<RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_CRP_INSUFFISANCE_SR_AIGUE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_HORMONE_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ISF_CORTICOT">
+        <DescriptionLocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_CRP_INSUFFISANCE_SR_AIGUE</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_MOREDG_SYNACTHENE_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_HYDROCORTISONE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_AC_ANTI_CASR">
+        <DescriptionLocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+		    
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_SUPPLEMENT_vitD</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM3</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM3_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ADENOME_PARATHYROIDE">
+        <DescriptionLocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</DescriptionLocID>	<!-- Adénome PR fixant à la scintigraphie -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+		   
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM3</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM3_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+<!-- GS -->
+    <GameDBSymptom ID="SYM_MOREDG_CONN">	<!-- Adénome de Conn -->
+        <DescriptionLocID>SYM_MOREDG_CONN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_SURRENALECTOMIE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HPBL_SRN">	<!-- Hyperplasie bilatérale surrénalienne -->
+        <DescriptionLocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_SPIRONOLACTONE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM2</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM2_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_INSULINOME">	<!-- sécrétion inappropriée d'insuline et de peptide C -->
+        <DescriptionLocID>SYM_MOREDG_INSULINOME_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_GS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM4</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM4_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_SD_HGP">	<!-- hypoglycémie d'origine pancréatique non liée à un adénome insulinosécrétant -->
+        <DescriptionLocID>SYM_MOREDG_SD_HGP_DESCRIPTION</DescriptionLocID>	<!-- Le diagnostic d'hypoglycémie d'origine pancréatique non liée à un adénome insulinosécrétant a été porté sur les critères suivants : hypoglycémie et symptômes d'apparition postprandiale, triade de Whipple, résultat négatif d'une épreuve de jeûne de 72 heures (signe caractéristique et paradoxal), exploration du pancréas par imagerie préopératoire négative (échographie, scanner, artériographie), exploration manuelle et échographique peropératoire négative, absence d'adénome sur la pièce de résection pancréatique, guérison de l'hypoglycémie. -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_EXERESE_GS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM4</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM4_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_THYROIDE_QUERVAIN">
+        <DescriptionLocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</DescriptionLocID>	<!-- Abscence de fixation à la scintigraphie -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+		   
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIVIROTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM5</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM5_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE">
+        <DescriptionLocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</DescriptionLocID>	<!-- alternance de plages chaudes et froides (en « damier ») à la scintigraphie -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+		   
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_THYROIDECTOMIE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM5</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM5_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ADENOME_TOXIQUE">
+        <DescriptionLocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</DescriptionLocID>	<!-- hyperfixation de l'isotope au niveau du nodule tandis que le reste du parenchyme est hypofixant ou froid (ou « éteint »), en raison de la diminution de la TSH. -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+		   
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_THYROIDECTOMIE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM5</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM5_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_MOREDG_CORTISOL_EFF">	<!-- cortisolémie effrondrée -->
+        <DescriptionLocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_HYDROCORTISONE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1369</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_CETONEMIE">	<!--  -->
+        <DescriptionLocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1803</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HYPEROSMOLAIRE">	<!--  -->
+        <DescriptionLocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+		
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1803</IconIndex>
+    </GameDBSymptom>
+
+
+<!-- Hématologie -->
+    <GameDBSymptom ID="SYM_MOREDG_SPHEROCYTE">
+        <DescriptionLocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_SPLENECTOMIE_MI</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM9</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM9_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DEFICIT_GPI">
+        <DescriptionLocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</DescriptionLocID>	<!-- La maladie est due à des mutations somatiques du gène PIG-A (Xp22.1), codant pour une protéine nécessaire à la biosynthèse du glycosyl-phosphatidylinositol (GPI). La mutation a lieu dans une ou plusieurs cellule(s) souche(s) hématopoïétique(s) et entraîne un déficit (total ou partiel) de toutes les protéines qui s'attachent normalement à la surface de la membrane cellulaire grâce à la molécule d'ancrage GPI (en particulier CD55 et CD59 qui régulent l'hémolyse liée au complément). -->
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_ANTICORPS_MONOCLONAL</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DEFICIT_G6PD">
+        <DescriptionLocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_DEFEROXAMINE</TreatmentRef>	<!-- déféroxamine  : chélateur des cations trivalents https://www.vidal.fr/substances/1184/deferoxamine/ -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+        <IconIndex>1289</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_PK_BAS">
+        <DescriptionLocID>SYM_MOREDG_PK_BAS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MORE_DG_TEST_COMBS_D">
+        <DescriptionLocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_MOREDG_TEST_COMBS_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1685</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DEFICIT_ADAMTS13">
+        <DescriptionLocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DREPANOCYTE_A">
+        <DescriptionLocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DREPANOCYTE_C">
+        <DescriptionLocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_HYDROXYUREA</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_NPC1_MUTE"> <!-- Gene muté-->
+        <DescriptionLocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_IGP</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_IGE_PNE"> <!-- hyperéosinophilie et une élévation des IgE totales.-->
+        <DescriptionLocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S9</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S9_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_CASSURE_K"> <!-- son diagnostic repose sur le test de cassures chromosomiques induites par le diépoxybutane (DEB) ou la mitomycine C -->
+        <DescriptionLocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_MOREDG_DEB_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_PLAQUETTES_GEANTES">
+        <DescriptionLocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG19</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_DG19_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DEFICIT_AIIB_B3">
+        <DescriptionLocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_RP">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_GLUCOCEREBROSIDASE">
+        <DescriptionLocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_TTT_ENZ_SUBSTITU</TreatmentRef>	<!-- traitement enzymatique de substitution -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_SH2D1A">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</DescriptionLocID> <!--  mutation du gène SH2D1A  -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ALLOGRAFT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_SIDEROBLASTE">
+        <DescriptionLocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</DescriptionLocID> <!--  sidéroblastes en couronne > biopsie osseuse  -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_SM10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_SM10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HÉMOGLOBINE_C">
+        <DescriptionLocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_DG24_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HÉMOGLOBINE_D">
+        <DescriptionLocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_DG24_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HÉMOGLOBINE_E">
+        <DescriptionLocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_DG24_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_HÉMOGLOBINE_M">
+        <DescriptionLocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_DG24_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_TRIADE_PLUMMER_VINSON">
+        <DescriptionLocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1685</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_ACVRL_ENG">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_HFE">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>	<!-- phlébotomies -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_HJV_OU_HAMP">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</DescriptionLocID>	<!-- Le type 2A, la forme la plus fréquente, est due à des mutations du gène codant pour l'hémojuvéline (HJV) sur le chromosome 1 et le type 2B est dû à des mutations du gène codant pour l'hepcidine (HAMP) sur le chromosome 19 -->
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>	<!-- phlébotomies -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_TFR2">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>	<!-- phlébotomies -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_MUTATION_SLC40A1">
+        <DescriptionLocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>	<!-- phlébotomies -->
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S10</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S10_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_PURPURA_FULMINANS">
+        <DescriptionLocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+        <RiskOfCollapseStartHours>0.5</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>5</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+        <Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1539</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_CIVD_DECOMPENSE">
+        <DescriptionLocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>10</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1607</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_PURPURA_THROMBOPENIQUE">
+        <DescriptionLocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+        <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1539</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_DRESS_SD">	<!-- HE -->
+        <DescriptionLocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+        <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_FAINTING</CollapseSymptomRef>
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1607</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S9</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S9_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_MOREDG_ANTICORPS_ANTI_F4P">	<!-- Anticorps anti-PF4 - héparine - plasma -->
+        <DescriptionLocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+        <RiskOfCollapseStartHours>16</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_FAINTING</CollapseSymptomRef>
+        <Examinations>
+            <ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_MOREDG_DANAPAROÏDE_SODIQUE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1607</IconIndex>
+		<CustomIconBigAssetRef>ASSET_CRP_SYM_ICON_069</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_CRP_SYM_ICON_070</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+<!-- Neurologie -->
+
+    <GameDBSymptom ID="SYM_MOREDG_NEURO_B1_EFF">
+        <DescriptionLocID>SYM_MOREDG_NEURO_B1_EFF_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_VITAMINOTHERAPY_IV</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+    <GameDBSymptom ID="SYM_MOREDG_NEURO_PP_EFF">
+        <DescriptionLocID>SYM_MOREDG_NEURO_B1_EFF_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+		</Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_VITAMINOTHERAPY_IV</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1289</IconIndex>
+		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_S8</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S8_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_MOREDG_NEURO_FLAPPING_TREMOR">
+        <DescriptionLocID>SYM_MOREDG_NEURO_FLAPPING_TREMOR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+        </Examinations>
+		<Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+		<RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>551</IconIndex>
+    </GameDBSymptom>
+
+</Database>

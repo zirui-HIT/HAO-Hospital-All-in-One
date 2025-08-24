@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_FR_ADDON_DIAG_TREATMENTS_SURG">
+		<LanguageCode>fr</LanguageCode>
+		<LanguageNameLocalized>Français</LanguageNameLocalized>
+		<Contributors>
+			<Name>Ollyver</Name>
+			<Name>nom d'utilisateur</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_DISTAL_PANCREATECTOMY</LocID>
+				<Text>Pancréatectomie distale</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_DISTAL_PANCREATECTOMY_DESC</LocID>
+				<Text>Une pancréatectomie distale consiste à enlever la partie distale (ou la queue du pancréas) \n\nSalle requise: Bloc opératoire du Dpt. des diagnostics.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_FASCIOTOMY</LocID>
+				<Text>Fasciotomie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_FASCIOTOMY_DESC</LocID>
+				<Text>Une fasciotomie est une procédure consistant à inciser le fascia pour soulager la pression dans le compartiment musculaire. Cette procédure est utilisée pour traiter des personnes souffrant du syndrome des loges \n\nSalle requise: Bloc opératoire du dpt. des diagnostics.</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_GASTRECTOMY</LocID>
+				<Text>Gastrectomie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_GASTRECTOMY_DESC</LocID>
+				<Text>
+					Une gastrectomie est une procédure médicale où une partie ou l'entièreté de l'estomac est retiré. \n\n
+					Salle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_LIVER_TRANSPLANT</LocID>
+				<Text>Greffe du foie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_LIVER_TRANSPLANT_DESC</LocID>
+				<Text>
+					Une greffe du foie consiste à retirer un foie malade par un foie sain venant d'un donneur compatible. Une greffe peut être partielle ou totale
+					\n\nSalle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_MYOTOMY</LocID>
+				<Text>Myotomie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_MYOTOMY_DESC</LocID>
+				<Text>
+					La myotomie de Heller consiste à inciser les muscles du cardia, permettant aux aliments et aux liquides de passer dans l'estomac
+					\n\nSalle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_LAPAROSCOPY</LocID>
+				<Text>Chirurgie lapraroscopique</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_LAPAROSCOPY_DESC</LocID>
+				<Text>
+					Une chirurgie micro-invasive. L'opération consiste à faire une série de petites incisions par lesquelles vont passer de l'équipement chirurgical.
+					\n\nSalle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_SPLENECTOMY</LocID>
+				<Text>Splénectomie</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_SPLENECTOMY_DESC</LocID>
+				<Text>
+					Une splénectomie consiste en l'ablation de la rate. La rate est un organe se situant sous la cage thoracique, dans la partie supérieure gauche de l'abdomen. La rate sert à combattre les infections et à filtrer ce qui n'est pas nécessaire, comme les globules rouges vieux ou abîmés.
+					La raison la plus commune pour une splénectomie est nue rupture de la rate, qui est souvent due à une blessure à l'abdomen. Cette procédure sert également en cas de rate enflée, certaines maladies du sang, certains cancers, infections, et kystes ou tumeurs non-cancereuses.
+					\n\nSalle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_ENDOSCOPIC_CAUTERIZATION</LocID>
+				<Text>Cautérisation endoscopique</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_ENDOSCOPIC_CAUTERIZATION_DESCRIPTION</LocID>
+				<Text>
+					Une cautérisation endoscopique consiste à faire passer un courant électrique dans une zone afin de la brûler ou la cautériser. Souvent utilisé pour ouvrir ou refermer des zones, ainsi que pour stopper les saignements pendant une chirurgie
+					\n\Salle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_AVM_RESECTION</LocID>
+				<Text>Résection d'une MAV</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_AVM_RESECTION_DESC</LocID>
+				<Text>
+					Une résection d'une Malformation Artèrio-Veineuse (MAV) implique de séparer la MAV du tissu autour. Avec l'aide d'un microscope, un neurochirurgien coupe l'afflux de sang de la MAV et la retire.
+					\n\nSalle requise : Bloc opératoire du département des diagnostics.
+				</Text>
+			</GameDBLocalizedString>
+
+			
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_HEMISPHERECTOMY</LocID>
+				<Text>Hémisphèrectomie anatomique</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SUR_OL_HEMISPHERECTOMY_DESC</LocID>
+				<Text>
+					Une hémisphèrectomie anatomique consiste à retirer un hémisphère entier du cerveau, y compris le lobe frontal, pariétal, temporal et occipital.
+					Les fonctions les plus importantes du cerveau, comme le thalamus ou les ganglions de la base sont laissés intacts.
+					\n\nSalle requise : Bloc opératoire du département de neurologie.
+				</Text>
+			</GameDBLocalizedString>
+			
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

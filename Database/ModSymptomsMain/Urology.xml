@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <GameDBSymptom ID="SYM_KN_TESTISBlOODFLOW">
+        <DescriptionLocID>SYM_KN_TESTISBlOODFLOW_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+            <ExaminationRef>EXM_FAST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_ORCHIOPEXY</TreatmentRef>
+        </Treatments>
+
+        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_KN_TESTICULARINFARCTION</CollapseSymptomRef>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_TORSIE_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_TORSIE_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_SM_TSTM_1">
+        <DescriptionLocID>SYM_KN_SM_TSTM_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_SM_TSTM_2">
+        <DescriptionLocID>SYM_KN_SM_TSTM_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_SM_TSTM_3">
+        <DescriptionLocID>SYM_KN_SM_TSTM_3_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_SM_TSTM_4">
+        <DescriptionLocID>SYM_KN_SM_TSTM_4_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_NSM_TSTM_1">
+        <DescriptionLocID>SYM_KN_NSM_TSTM_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_NSM_TSTM_2">
+        <DescriptionLocID>SYM_KN_NSM_TSTM_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_NSM_TSTM_3">
+        <DescriptionLocID>SYM_KN_NSM_TSTM_3_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_NSM_TSTM_4">
+        <DescriptionLocID>SYM_KN_NSM_TSTM_4_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_KN_INORCHIECTOMY_TEST</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_BPH_DETC_1">
+        <DescriptionLocID>SYM_KN_BPH_DETC_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_ALPHA_BLOCKERS</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_BPH_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_BPH_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_BPH_DETC_2">
+        <DescriptionLocID>SYM_KN_BPH_DETC_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_TURP</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_BPH_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_BPH_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_EPI_DETC">
+        <DescriptionLocID>SYM_KN_EPI_DETC_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_EPIDI_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_EPIDI_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_EPI_ORCH_DETC">
+        <DescriptionLocID>SYM_KN_EPI_ORCH_DETC_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+
+        <RiskOfCollapseStartHours>18</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_KN_TESTICULARINFARCTION</CollapseSymptomRef>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_EPIDI_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_EPIDI_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KIDNEY_TISSUE_BADLY_DAMAGED">
+        <DescriptionLocID>SYM_KIDNEY_TISSUE_BADLY_DAMAGED_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KIDN_TRANS</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1107</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_WEEKLY_DIALYSIS">
+        <DescriptionLocID>SYM_WEEKLY_DIALYSIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_DIALYSIS</TreatmentRef>
+            <TreatmentRef>TRT_DIALYSIS</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1955</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_PENETRATING_KIDNEY_LACERATION">
+        <DescriptionLocID>SYM_PENETRATING_KIDNEY_LACERATION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_FAST</ExaminationRef>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_TRM_NEPH</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1125</IconIndex>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_STERILIZATION_WISH">
+        <DescriptionLocID>SYM_STERILIZATION_WISH_DESC</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_VASECTOMY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1955</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_SYM_STER_WISH_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_STER_WISH_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_BACSCRO">
+        <DescriptionLocID>SYM_KN_BACSCRO_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_SYM_SCR_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SCR_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_CCRCC_1">
+        <DescriptionLocID>SYM_KN_CCRCC_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_PARTNEPH</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_CCRCC_21">
+        <DescriptionLocID>SYM_KN_CCRCC_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_PARTNEPH</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_CCRCC_22">
+        <DescriptionLocID>SYM_KN_CCRCC_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_RADNEPH</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_CCRCC_31">
+        <DescriptionLocID>SYM_KN_CCRCC_3_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_RADNEPH_INFVECA</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_CCRCC_32">
+        <DescriptionLocID>SYM_KN_CCRCC_3_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_KN_RADNEPH</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_CCRCC_4">
+        <DescriptionLocID>SYM_KN_CCRCC_4_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
+        </Treatments>
+
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_BLUNT_BLCONT">
+        <DescriptionLocID>SYM_KN_BLUNT_BLCONT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_NUTRITION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_DIA_BLBLCO_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_BLBLCO_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_IP_RUP">
+        <DescriptionLocID>SYM_KN_IP_RUP_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_BLAD</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_DIA_IPRUP_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_IPRUP_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_EX_RUP_1">
+        <DescriptionLocID>SYM_KN_EX_RUP_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_NUTRITION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_DIA_EXRUP_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_EXRUP_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_EX_RUP_2">
+        <DescriptionLocID>SYM_KN_EX_RUP_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_BLAD</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_DIA_EXRUP_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_EXRUP_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_PEN_RUP_1">
+        <DescriptionLocID>SYM_KN_PEN_RUP_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_BLAD</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_DIA_PENBLD_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_PENBLD_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_VESCI_FIST">
+        <DescriptionLocID>SYM_KN_VESCI_FIST_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_TRANS_REPAIR</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1127</IconIndex>
+        <CustomIconBigAssetRef>ASSET_UR_DIA_VVF_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_VVF_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KIDNEY_TISSUE_DAMAGED">
+        <DescriptionLocID>SYM_KIDNEY_TISSUE_DAMAGED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_DIALYSIS_2</TreatmentRef>
+            <TreatmentRef>TRT_DIALYSIS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1107</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KIDNEY_PROGRESSIVE_DAMAGE">
+        <DescriptionLocID>SYM_KIDNEY_PROGRESSIVE_DAMAGE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
+
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_DIALYSIS_2</TreatmentRef>
+            <TreatmentRef>TRT_DIALYSIS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1105</IconIndex>
+    </GameDBSymptom>
+
+
+    <GameDBSymptom ID="SYM_KN_URETHRAL_STONES_DETECTED">
+        <DescriptionLocID>SYM_URETHRAL_STONES_DETECTED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1109</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_BLADDER_STONES_DETECTED">
+        <DescriptionLocID>SYM_BLADDER_STONES_DETECTED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1109</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_KN_KIDNEY_STONES_DISCOVERED">
+        <DescriptionLocID>SYM_KIDNEY_STONES_DISCOVERED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_SHOCK_WAVE_LITHOTRIPSY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1109</IconIndex>
+    </GameDBSymptom>
+
+    </Database>

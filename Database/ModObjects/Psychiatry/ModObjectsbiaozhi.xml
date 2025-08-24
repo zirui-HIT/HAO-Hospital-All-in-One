@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+    <GameDBObject ID="OBJECT_NEW_PSY_SIGN_KSBZ">
+        <AbbreviationLocID>OBJECT_NPSY_SIGN_Z_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_NPSY_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ICON_NPSY_KSBZ</CustomIconAssetRef>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <BlockedAboveOtherObjects>false</BlockedAboveOtherObjects>
+        <NonBlocking>false</NonBlocking>
+        <Placement>UNLIMITED</Placement>
+        <HeightOffset>1.5</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.0</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+        <Cost>20</Cost>
+        <ColorSetRef>COLOR_NPSY_Y</ColorSetRef>
+    </GameDBObject>
+
+    <!-- <GameDBObject ID="OBJECT_NPSY_SIGN_J">
+        <AbbreviationLocID>OBJECT_NPSY_SIGN_Z_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_NPSY_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ICON_NPSY_J</CustomIconAssetRef>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <BlockedAboveOtherObjects>false</BlockedAboveOtherObjects>
+        <NonBlocking>false</NonBlocking>
+        <Placement>UNLIMITED</Placement>
+        <HeightOffset>1.5</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.0</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+        <Cost>20</Cost>
+    </GameDBObject>
+    <GameDBObject ID="OBJECT_NPSY_SIGN_S">
+        <AbbreviationLocID>OBJECT_NPSY_SIGN_Z_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_NPSY_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>16</TextureIDNW>
+        <TextureIDNE>17</TextureIDNE>
+        <TextureIDSE>18</TextureIDSE>
+        <TextureIDSW>19</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ICON_NPSY_S</CustomIconAssetRef>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <BlockedAboveOtherObjects>false</BlockedAboveOtherObjects>
+        <NonBlocking>false</NonBlocking>
+        <Placement>UNLIMITED</Placement>
+        <HeightOffset>1.5</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.0</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+        <Cost>20</Cost>
+    </GameDBObject>
+    <GameDBObject ID="OBJECT_NPSY_SIGN_K">
+        <AbbreviationLocID>OBJECT_NPSY_SIGN_Z_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_NPSY_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>32</TextureIDNW>
+        <TextureIDNE>33</TextureIDNE>
+        <TextureIDSE>34</TextureIDSE>
+        <TextureIDSW>35</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ICON_NPSY_K</CustomIconAssetRef>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <BlockedAboveOtherObjects>false</BlockedAboveOtherObjects>
+        <NonBlocking>false</NonBlocking>
+        <Placement>UNLIMITED</Placement>
+        <HeightOffset>1.5</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.0</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+        <Cost>20</Cost>
+    </GameDBObject>
+    <GameDBObject ID="OBJECT_NPSY_SIGN_JING">
+        <AbbreviationLocID>OBJECT_NPSY_SIGN_Z_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_OBJECTS_NPSY_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_32</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>36</TextureIDNW>
+        <TextureIDNE>37</TextureIDNE>
+        <TextureIDSE>38</TextureIDSE>
+        <TextureIDSW>39</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ICON_NPSY_JING</CustomIconAssetRef>
+
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <BlockedAboveOtherObjects>false</BlockedAboveOtherObjects>
+        <NonBlocking>false</NonBlocking>
+        <Placement>UNLIMITED</Placement>
+        <HeightOffset>1.5</HeightOffset>
+        <UseOffsetXNW>0.0</UseOffsetXNW>
+        <UseOffsetYNW>0.0</UseOffsetYNW>
+
+        <CallbackMessageName>POSTER_READ</CallbackMessageName>
+        <UseAnimationsStart>
+            <Animation>stand_look_in</Animation>
+        </UseAnimationsStart>
+        <UseAnimations>
+            <Animation>stand_look_idle</Animation>
+        </UseAnimations>
+        <UseAnimationsEnd>
+            <Animation>stand_look_out</Animation>
+        </UseAnimationsEnd>
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+        <Cost>20</Cost>
+    </GameDBObject> -->
+
+</Database>

@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_MOD_NEW_PSYCHIATRY_EXAMINATIONS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>Leo</Name>
+    </Contributors>
+    <LocalizedStrings>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_MRA</LocID>
+        <Text>磁共振血管成像(MRA)</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_MRA_DESC</LocID>
+        <Text>磁共振血管成像(MRA)，是利用“流空效应”的成像技术，可以不应用造影剂。临床主要用于颅内血管狭窄或闭塞、颅内动脉瘤、脑血管畸形等的诊断。但MRA的缺点是信号变化复杂，易产生伪影，对末梢血管的评估准确性不如CTA和DSA。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_CTA</LocID>
+        <Text>非创伤性血管成像(CTA)</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_CTA_DESC</LocID>
+        <Text>非创伤性血管成像(CTA)，经快速注射含碘造影剂，采用螺旋CT在受检者靶血管造影剂强化达到高峰期间进行连续快速体积扫描，并以三维重建的方式重建靶血管立体影像。CTA可显示脑动脉瘤、动静脉畸形，也可发现血管狭窄，显示血管壁上的钙化斑块；能明确颅内肿瘤与临近血管的关系，如血管移位、受压以及侧支循环形成，也可部分显示肿瘤滋养动脉，有利于手术前肿瘤准确定位。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_ANGIOGRAPHY</LocID>
+        <Text>数字减影血管造影(DSA)</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_ANGIOGRAPHY_DESCRIPTION</LocID>
+        <Text>数字减影血管造影(DSA)，是将X先投照人体所得到的光学图像，经影像增强视频扫描及数模转换，最终经数字化处理后，骨骼、脑组织等影像被剪影减去，而充盈造影剂的血管图像被保留，产生实时动态的血管图像。在脑血管疾病的诊断和治疗方面，DSA具有重要的实用价值。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_VESTIBULAR_FUNCTION_TEST</LocID>
+        <Text>前庭功能检查</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_VESTIBULAR_FUNCTION_TEST_DESC</LocID>
+        <Text>前庭功能系列检查，即通过刺激内耳前庭终末器官而引发的前庭-眼动反射（VOR）眼动。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_NEOSTIGMINE_TEST</LocID>
+        <Text>新斯的明试验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_NEOSTIGMINE_TEST_DESC</LocID>
+        <Text>新斯的明试验是最常应用的抗胆碱酯酶药物试验。成人一次性肌内注射甲基硫酸新斯的明1.0~1.5mg，同时予以阿托品0.5mg肌内注射，以消除其M胆碱样不良反应，注射后每10~20min症状明显减轻者为阳性。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_PET</LocID>
+        <Text>PET</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_PET_DESC</LocID>
+        <Text>PET是一种放射性核素显像，即正电子发射计算机断层，主要使用正电子放射性核素及其标记化合物，显示脑代谢和功能的图像、脑血流分布、脑内生理或病理分子的分布和水平。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EMG_DESC</LocID>
+        <Text>肌电图和神经传导速度是神经系统的重要辅助检查，两者通常联合用于脊髓前角细胞以下病变，主要用于周围神经疾病、神经 - 肌肉接头疾病和肌肉病变的诊断。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_EEG_DESCRIPTION</LocID>
+        <Text>脑电图（EEG）是脑电生物活动的检查技术，通过测定自发性节律的生物活动以了解脑功能状态。\n\n需求房间：神经实验室</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING</LocID>
+        <Text>脑脊液检查</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_SPINAL_FLUID_ANALYSIS_TESTING_DESCRIPTION_1_1</LocID>
+        <Text>脑脊液检查包括常规检查、生化检查和特殊检查。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</LocID>
+        <Text>腰椎穿刺</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</LocID>
+        <Text>腰椎穿刺是神经系统疾病重要的辅助检查方法之一，用于留取脑脊液并进行检查以辅助神经系统疾病的诊断。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</LocID>
+        <Text>神经系统检查</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM_DESC</LocID>
+        <Text>神经内科的体格检查是医师对患者进行的全身体格检查基础上进行神经系统专科检查和客观的评价，完整、准确的神经系统体格检查是定位诊断的基础，任何先进的仪器都替代不了。其包括一般检查、脑神经检查、运动系统检查、感觉系统检查、反射检查、自主神经功能检查、脑膜刺激征等。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_SAMPLING</LocID>
+        <Text>骨髓活检 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_SAMPLING_DESC</LocID>
+        <Text>骨髓活检，是指用一个特制穿刺针取一小块约0.5~1cm长的圆柱形骨髓组织以进行病理学检查，可用于全面衡量骨髓造血组织增生程度及其各组织的比例。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_TESTING</LocID>
+        <Text>骨髓活检 - 分析</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_TESTING_DESC</LocID>
+        <Text>骨髓活检，是指用一个特制穿刺针取一小块约0.5~1cm长的圆柱形骨髓组织以进行病理学检查，可用于全面衡量骨髓造血组织增生程度及其各组织的比例。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_FCM_SAMPLING</LocID>
+        <Text>流式细胞术 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_FCM_SAMPLING_DESC</LocID>
+        <Text>流式细胞术（FCM）是一种对液流中排成单列的细胞或其它生物微粒（如微球，细菌，小型模式生物等）逐个进行快速定量分析和分选的技术。主要用于观察血液中的红细胞、白细胞和血小板等成分的形态和数量。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_FCM_TESTING</LocID>
+        <Text>流式细胞术 - 检验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_FCM_TESTING_DESC</LocID>
+        <Text>流式细胞术（FCM）是一种对液流中排成单列的细胞或其它生物微粒（如微球，细菌，小型模式生物等）逐个进行快速定量分析和分选的技术。主要用于观察血液中的红细胞、白细胞和血小板等成分的形态和数量。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ELECTROPHORESIS_SAMPLING</LocID>
+        <Text>血红蛋白电泳 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ELECTROPHORESIS_SAMPLING_DESC</LocID>
+        <Text>血红蛋白电泳是诊断血红蛋白病的主要且重要的手段。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ELECTROPHORESIS_TESTING</LocID>
+        <Text>血红蛋白电泳 - 分析</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ELECTROPHORESIS_TESTING_DESC</LocID>
+        <Text>血红蛋白电泳是诊断血红蛋白病的主要且重要的手段。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_ASPIRATION_TESTING</LocID>
+        <Text>骨髓穿刺 - 检验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_ASPIRATION_TESTING_DESC</LocID>
+        <Text>骨髓穿刺是指用穿刺针进入骨髓腔抽取部分骨髓（一般约0.2ml）进行细胞学、病原学、病理、免疫学、基因检测等检查的技术，以辅助诊断再生障碍性贫血、缺铁性贫血、白血病等血液系统疾病以及感染性疾病，指导临床治疗。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_ASPIRATION_SAMPLING</LocID>
+        <Text>骨髓穿刺 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_ASPIRATION_SAMPLING_DESC</LocID>
+        <Text>骨髓穿刺是指用穿刺针进入骨髓腔抽取部分骨髓（一般约0.2ml）进行细胞学、病原学、病理、免疫学、基因检测等检查的技术，以辅助诊断再生障碍性贫血、缺铁性贫血、白血病等血液系统疾病以及感染性疾病，指导临床治疗。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_ASPIRATION_TESTING</LocID>
+        <Text>骨髓穿刺 - 检验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_ASPIRATION_TESTING_DESC</LocID>
+        <Text>骨髓穿刺是指用穿刺针进入骨髓腔抽取部分骨髓（一般约0.2ml）进行细胞学、病原学、病理、免疫学、基因检测等检查的技术，以辅助诊断再生障碍性贫血、缺铁性贫血、白血病等血液系统疾病以及感染性疾病，指导临床治疗。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_BLOOD_SERUM_VITAMIN_B12_SAMPLING</LocID>
+        <Text>血清维生素B12叶酸铁蛋白 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_BLOOD_SERUM_VITAMIN_B12_SAMPLING_DESC</LocID>
+        <Text>测定血清中维生素B12和叶酸、血清铁蛋白的水平。血清铁蛋白（SF）是肝脏产生的急性期蛋白，反映人体内储存铁含量的重要指标，WHO推荐将其作为我国确诊缺铁性贫血的标准。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_BLOOD_SERUM_VITAMIN_B12_TESTING</LocID>
+        <Text>血清维生素B12叶酸铁蛋白 - 检验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_BLOOD_SERUM_VITAMIN_B12_TESTING_DESC</LocID>
+        <Text>测定血清中维生素B12和叶酸、血清铁蛋白的水平。血清铁蛋白（SF）是肝脏产生的急性期蛋白，反映人体内储存铁含量的重要指标，WHO推荐将其作为我国确诊缺铁性贫血的标准。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DAT_SAMPLING</LocID>
+        <Text>直接抗人球蛋白试验 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DAT_SAMPLING_DESC</LocID>
+        <Text>抗人球蛋白（Coombs）试验为确定自身免疫性溶血性贫血的金标准。直接抗人球蛋白试验（DAT）直接检测红细胞表面是否结合了不完全型温抗体，应用普遍，但是相比于间接抗人球蛋白试验其灵敏度低，特异性较差。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DAT_TESTING</LocID>
+        <Text>直接抗人球蛋白试验 - 检验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DAT_TESTING_DESC</LocID>
+        <Text>抗人球蛋白（Coombs）试验为确定自身免疫性溶血性贫血的金标准。直接抗人球蛋白试验（DAT）直接检测红细胞表面是否结合了不完全型温抗体，应用普遍，但是相比于间接抗人球蛋白试验其灵敏度低，特异性较差。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DETERMINATION_OF_COAGULATION_FACTOR_ACTIVITY_TESTING</LocID>
+        <Text>凝血因子活性测定和血管性血友病抗原测定 - 检验</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DETERMINATION_OF_COAGULATION_FACTOR_ACTIVITY_TESTING_DESC</LocID>
+        <Text>对人体内的各种凝血因子进行活性测定。vWF 抗原测定(vWF:Ag)包括血浆vWF瑞斯托霉素辅因子活性(vWF:RCo)以及血浆FVⅧ活性(FⅧ:C)测定。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DETERMINATION_OF_COAGULATION_FACTOR_ACTIVITY_SAMPLING</LocID>
+        <Text>凝血因子活性测定和血管性血友病抗原测定 - 取样</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_DETERMINATION_OF_COAGULATION_FACTOR_ACTIVITY_SAMPLING_DESC</LocID>
+        <Text>对人体内的各种凝血因子进行活性测定。vWF 抗原测定(vWF:Ag)包括血浆vWF瑞斯托霉素辅因子活性(vWF:RCo)以及血浆FVⅧ活性(FⅧ:C)测定。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSG</LocID>
+        <Text>多导睡眠监测(PSG)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSG_DESC</LocID>
+        <Text>多导睡眠监测（PSG）系统通过夜间连续监测呼吸、动脉血氧饱和度、脑电图、心电图、心率等指标，发现睡眠异常，诊断睡眠障碍，尤其是睡眠呼吸障碍。虽然PSG可以反应慢性失眠症患者的情况，但是慢性失眠症的诊断主要依赖患者的主观报告，而PSG仅仅作为排除其他睡眠障碍的手段，而不作为失眠的常规检查。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MSLT</LocID>
+        <Text>多次睡眠潜伏期试验（MSLT）</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MSLT_DESC</LocID>
+        <Text>多次睡眠潜伏期试验（MSLT）是临床工作中和科研领域里最常使用的客观评价日间思睡程度的标准方案，常用于发作性睡病或睡眠呼吸障碍。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_OREXIN_IN_CEREBROSPINAL_FLUID_TEST</LocID>
+        <Text>脑脊液促食欲素检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_OREXIN_IN_CEREBROSPINAL_FLUID_TEST_DESC</LocID>
+        <Text>通过脑脊液取样，判断脑脊液中促食欲素-1的含量是否≤100pg/ml或低于正常值1/3，用于诊断伴猝倒的典型发作性睡病，对难以承受MSLT的费用或者不能配合检查，应用精神药物且难以停药的患者尤为有益。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SPINAL_FLUID_ANALYSIS_TESTING</LocID>
+        <Text>脑脊液促食欲素分析</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SPINAL_FLUID_ANALYSIS_TESTING_DESC</LocID>
+        <Text>判断脑脊液中促食欲素-1的含量是否≤100pg/ml或低于正常值1/3，用于诊断伴猝倒的典型发作性睡病。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_BDI</LocID>
+        <Text>抑郁自评问卷</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_BDI_DESC</LocID>
+        <Text>抑郁自评问卷，即贝克抑郁自评量表，系自评量表，由美国著名心理学家Beck编制于20世纪60年代，分为BDI-13和BDI-21两个版本，由于考虑到严重的抑郁患者无法完成21项评定，Beck于1973年推出BDI-13，现在通行，一般认为具有较好的信度和效度。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SAS</LocID>
+        <Text>焦虑自评量表</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SAS_DESC</LocID>
+        <Text>焦虑自评量表由Zung于1971年编制，系自评量表，与SDS即抑郁自评量表十分类似，共20个项目，用于评定焦虑病人的主观感受，效度尚好。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MMSE</LocID>
+        <Text>简易精神状态检查表</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MMSE_DESC</LocID>
+        <Text>简易精神状态检查表又称简易智力状态检查，MMSE，由Folstein等于1975年编制，是目前世界上最有影响、最普及、最常用的认知筛查量表，简便易行，具有良好的信度和效度。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_AIS</LocID>
+        <Text>阿森斯失眠量表</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_AIS_DESC</LocID>
+        <Text>阿森斯失眠量表也称亚森失眠量表，为国际公认的睡眠质量自测量表，运用普遍。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_CONSCIOUSNESS</LocID>
+        <Text>精神检查 - 意识</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_CONSCIOUSNESS_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的意识情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_APPETITE</LocID>
+        <Text>精神检查 - 食欲</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_APPETITE_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的食欲情况。</Text>
+      </GameDBLocalizedString>
+
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_ATTENTION</LocID>
+        <Text>精神检查 - 注意</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_ATTENTION_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的注意情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_EMOTION</LocID>
+        <Text>精神检查 - 情绪</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_EMOTION_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的情绪情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_WILL</LocID>
+        <Text>精神检查 - 意志</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_WILL_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的意志情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MOVEMENT</LocID>
+        <Text>精神检查 - 动作行为</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MOVEMENT_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的动作行为情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_SUICIDE</LocID>
+        <Text>精神检查 - 自杀自伤行为</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_SUICIDE_DESC</LocID>
+        <Text>通过精神检查的方式了解患者是否有自杀自伤的情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERCEPTION</LocID>
+        <Text>精神检查 - 感知</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERCEPTION_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的感知觉情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT</LocID>
+        <Text>精神检查 - 思维言语</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的思维和言语情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MEMORY</LocID>
+        <Text>精神检查 - 记忆</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MEMORY_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的思维情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_INTERVIEW_SLEEP</LocID>
+        <Text>主观睡眠评估</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_INTERVIEW_SLEEP_DESC</LocID>
+        <Text>问诊睡眠症状。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERSONALITY</LocID>
+        <Text>精神检查 - 人格</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERSONALITY_DESC</LocID>
+        <Text>通过精神检查的方式了解患者的人格情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EDUCATION</LocID>
+        <Text>病史采集 - 个人史 - 教育</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EDUCATION_DESC</LocID>
+        <Text>采集患者学习教育的情况，尤其适用于儿童少年患者，包括学习成绩、师生同学关系、擅长的游戏活动、最高学历、所学专业、是否喜欢所学专业和有无休学等内容。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EMPLOYMENT_HISTORY</LocID>
+        <Text>病史采集 - 一般资料 - 职业</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EMPLOYMENT_HISTORY_DESC</LocID>
+        <Text>询问患者的工作。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_STRESS_EVENT</LocID>
+        <Text>病史采集 - 个人史 - 应激事件</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_STRESS_EVENT_DESC</LocID>
+        <Text>应激事件是指影响个体的重大生活时间，如丧亲、离异、升学、重大财产损失、患重病、被殴打、经历地震，等等，对目前的精神症状的形成和表现可能具有一定的意义。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_SUBSTANCE_USE</LocID>
+        <Text>病史采集 - 个人史 - 物质使用</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_SUBSTANCE_USE_DESC</LocID>
+        <Text>物质的使用，如烟草、酒精、毒品，甚至处方药的误用也应记录。对于这类问题，就诊者可能闪烁其词或有意误导，因此需要通过知情人或其他信息来源，如尿液检查或血液检查来何时有关情况。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_DIFFERENTIAL_DIAGNOSIS</LocID>
+        <Text>心理医学鉴别诊断</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_DIFFERENTIAL_DIAGNOSIS_DESC</LocID>
+        <Text>由少数经验多，资历老的精神病学专家进行的特殊鉴别诊断。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</LocID>
+        <Text>精神检查</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_DESC</LocID>
+        <Text>精神检查是心理医学医生对患者进行的系统的精神状态检查，主要包括意识、注意、思维、情感、意志、知觉、记忆等方面的检查。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING</LocID>
+        <Text>病史采集</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_DESC</LocID>
+        <Text>病史采集是心理医学医生对患者进行的系统的病史采集，主要包括个人史、家族史、社会史、既往史等方面的采集。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</LocID>
+        <Text>心理测量量表</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES_DESC</LocID>
+        <Text>心理测量量表是心理医学医生对患者进行的系统的心理测量，主要包括抑郁自评问卷、焦虑自评量表、简易精神状态检查表等方面的测量。</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</LocID>
+        <Text>血液微量因子检测采样</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING_DESC</LocID>
+        <Text>血液微量因子检测采样包括血清维生素B12叶酸铁蛋白、凝血因子活性测定和血管性血友病抗原测定等。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING</LocID>
+        <Text>血液微量因子检测</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING_DESC</LocID>
+        <Text>血液微量因子检测包括血清维生素B12叶酸铁蛋白、凝血因子活性测定和血管性血友病抗原测定等。</Text>
+      </GameDBLocalizedString>
+
+      </LocalizedStrings>
+
+  </GameDBStringTable>
+</Database>

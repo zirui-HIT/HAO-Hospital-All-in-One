@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_DIAG_BUILDING_MODE">
+<LanguageCode>en</LanguageCode>
+<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>Ollyver</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAG_OFFICE</LocID>                          	
+		<Text>Diagnostics Office</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAG_OFFICE_DESCRIPTION</LocID>              	
+		<Text>A doctor's office specialising in Diagnostics. Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_DIAG_OFFICE</LocID>                               
+		<Text>Diagnostic unit</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_DIAG_OFFICE_DESC</LocID>                   
+		<Text>Diagnostic unit at the department of diagnostics provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Doctor \n(Personnel based in On-call room)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_MOD_DIAG</LocID>       			
+		<Text>Department of Diagnostics A</Text>  
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>      
+		<LocID>OBJECT_DECAL_DIAG_DESC</LocID>       
+		<Text>Wall decal</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_DIAG</LocID>
+		<Text>Neuroexam unit</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_NEURODIAGNOSTIC_UNIT_DIAG_DESCRIPTION</LocID>
+		<Text>Neuroexam unit provides specific neurological examinations. \n\nMin. Staff requirements: \n1x Technologist - Neurologist</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_DIAG</LocID>
+		<Text>Cardiography Unit</Text>
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_DIAG_DESC</LocID>
+		<Text>Cardiography diagnostic unit provides various examination methods and tests related to human cardiovascular system. \n\nMin. Staff requirements: \n1x Technologist - Cardiologist</Text>
+	</GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

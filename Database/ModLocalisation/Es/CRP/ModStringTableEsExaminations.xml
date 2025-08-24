@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_CRP_EXAMINATIONS">
+
+        <LanguageCode>es</LanguageCode>
+        <LanguageNameLocalized>Spanish</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Parmeno75</Name>
+			<Name>Srmojon</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+	
+	
+				      			
+			
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN</LocID>								<Text>Exploración de las mamas </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN_DESCRIPTION</LocID>					<Text>Inspección visual y palpación de las mamas.</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV</LocID>						<Text>Sonografía pélvica</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV_DESCRIPTION</LocID>			<Text>Sonografía del área pélvica.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_SAMPLING</LocID>						<Text>Muestra de Papanicolaou</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_TESTING</LocID>						<Text>Análisis de Papanicolaou </Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_DESCRIPTION</LocID>					<Text>Un método para la detección temprana del cáncer, especialmente del cuello uterino, que implica la tinción de las células extraidas mediante una técnica especial que detecta el tejido enfermo.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_SAMPLING</LocID>					<Text>Prueba de torelancia a la glucosa (OGTT)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_TESTING</LocID>						<Text>Análisis de tolerancia a la glucosa (OGTT)</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_DESCRIPTION</LocID>					<Text>El test de tolerancia a la glucosa, también conocido como el test oral de tolerancia a la glucosa (OGTT), mide la respuesta de tu organismo al azúcar (glucosa).</Text>	</GameDBLocalizedString>
+
+	
+	
+				
+
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Gammagrafía</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>La Gammagrafía, también conocida como Gamma Scan, es una prueba de diagnóstico en medicina nuclear, en la que los radioisótopos adheridos a medicamentos (radiofármacos) viajan a un órgano o tejido específico, y emiten una radiación gamma que es capturada por detectores externos (cámaras gamma) para formar imágenes bidimensionales en un proceso similar a las imágenes que capturan los rayos X.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>	// outdated
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>Prueba de ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>El ensayo inmunoabsorbente ligado a enzimas (ELISA) es un ensayo bioquímico analítico de uso común. Se usa un inmunoensayo enzimático en fase sólida (EIA) para detectar la presencia de un ligando (comúnmente una proteína) en una muestra líquida usando anticuerpos dirigidos contra la proteína a medir. El ELISA se ha utilizado como herramienta de diagnóstico en medicina, fitopatología y biotecnología. En el estudio, los antígenos de la muestra se adhieren a la superficie y luego se aplica un anticuerpo coincidente sobre la superficie para que pueda unirse al antígeno. Este anticuerpo está ligado a una enzima y, en el paso final, se agrega una sustancia que contiene el sustrato de la enzima. La reacción subsiguiente produce una señal detectable, más comúnmente un cambio de color.</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

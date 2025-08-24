@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_CZ_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>cz</LanguageCode>
+		<LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>Gynekologická ordinace</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>Gynekologická ordinace je běžná diagnostická ambulance. \n\nMin. personální požadavky: \n1x Doktor</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>Gynekologická jednotka</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>Diagnostická jednotka na gynekologickém oddělení poskytuje vyšetřovací a léčebné postupy pro hospitalizované pacienty. \n\nMin. personální požadavky: \n1x Doktor \n(Personál sídlící na pohotovosti)</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>OBJECT_DECAL_GYNECO_DPT</LocID>								<Text>Gynekologie</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

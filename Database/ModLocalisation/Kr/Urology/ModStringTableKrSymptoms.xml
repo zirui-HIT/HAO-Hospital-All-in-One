@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_KR_ADDON_URKN_SYMPTOMS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+	<Name>LimeCake</Name>
+	</Contributors>
+	
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WP</LocID>                               
+		<Text>부은 고환 통증</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WP_DESC</LocID>                   
+		<Text>한쪽 고환이 부었으며 통증을 유발합니다.</Text>  
+	</GameDBLocalizedString>	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WPT</LocID>                               
+		<Text>부은 고환</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_WPT_DESC</LocID>                   
+		<Text>한쪽 고환이 부었으나 통증은 없습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTISBlOODFLOW</LocID>                               
+		<Text>고환 혈류 부족</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTISBlOODFLOW_DESC</LocID>                   
+		<Text>고환으로의 혈류가 부족합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS</LocID>                               
+		<Text>부은 고환</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENTESTIS_DESC</LocID>                   
+		<Text>고환이 부었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTICULARINFARCTION</LocID>                               
+		<Text>고환 경색증</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TESTICULARINFARCTION_DESC</LocID>                   
+		<Text>혈류 부족으로 인한 고환 경색증은 고환에 대한 산소 및 영양 공급 감소로 인한 조직 사망을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HIGHRIDINGTESTIS</LocID>                               
+		<Text>높게 매달린 고환</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HIGHRIDINGTESTIS_DESC</LocID>                   
+		<Text>고환이 정상보다 음낭에서 더 높게 위치해 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABNORMALLIETESTIS</LocID>                               
+		<Text>고환 위치 비정상</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABNORMALLIETESTIS_DESC</LocID>                   
+		<Text>고환이 비정상적인 위치에 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENSCROTUM</LocID>                               
+		<Text>부은 음낭</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENSCROTUM_DESC</LocID>                   
+		<Text>음낭이 부어있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SUDDENPAINSCROTUM</LocID>                               
+		<Text>갑작스러운 음낭 통증</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SUDDENPAINSCROTUM_DESC</LocID>                   
+		<Text>환자는 갑작스러운 음낭 통증을 겪었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABCREMASCTICREFLEX</LocID>                               
+		<Text>고환올림근반사 소실</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ABCREMASCTICREFLEX_DESC</LocID>                   
+		<Text>고환올림근반사는 L1-L2의 척추 손상, 고환 비틀림, 운동 뉴런 장애, 장구신경 절단 등의 증상이 있을 경우 발견되지 않습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CREMASCTICREFLEX</LocID>                               
+		<Text>고환올림근반사 존재</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CREMASCTICREFLEX_DESC</LocID>                   
+		<Text>허벅지의 윗부분과 안쪽 부분을 쓰다듬거나 찌르게 되면, 같은 측면의 고환이 수축하는 고환올림근반사가 존재합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_LUMPTS</LocID>                               
+		<Text>고환 내부의 덩어리</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_LUMPTS_DESC</LocID>                   
+		<Text>검사 결과 고환 내부에 혹 느낌의 덩어리가 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HARD_TESTIS</LocID>                               
+		<Text>단단한 고환</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HARD_TESTIS_DESC</LocID>                   
+		<Text>고환이 비정상적으로 단단합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ALFAPRO</LocID>                               
+		<Text>알파태아단백 검출</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ALFAPRO_DESC</LocID>                               
+		<Text>검사 결과 종양 표지자인 알파태아단백이 검출되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BETAHCG</LocID>                               
+		<Text>성선자극호르몬 검출</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BETAHCG_DESC</LocID>                               
+		<Text>검사 결과 종양 표지자인 성선자극호르몬이 검출되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HVSC</LocID>                               
+		<Text>음낭 무게감</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_HVSC_DESC</LocID>                               
+		<Text>음낭이 무거운 것처럼 느낍니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TSTM</LocID>                               
+		<Text>고환암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TSTM_DESC</LocID>                               
+		<Text>검사 결과 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_1</LocID>                               
+		<Text>정상피종 고환암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_1_DESC</LocID>                               
+		<Text>검사 결과 1기 단계의 정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_2</LocID>                               
+		<Text>정상피종 고환암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_2_DESC</LocID>                               
+		<Text>검사 결과 2기 단계의 정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_3</LocID>                               
+		<Text>정상피종 고환암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_3_DESC</LocID>                               
+		<Text>검사 결과 3기 단계의 정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_4</LocID>                               
+		<Text>정상피종 고환암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SM_TSTM_4_DESC</LocID>                               
+		<Text>검사 결과 4기 단계의 정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_1</LocID>                               
+		<Text>비정상피종 고환암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_1_DESC</LocID>                               
+		<Text>검사 결과 1기 단계의 비정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_2</LocID>                               
+		<Text>Non-seminoma testicular cancer</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_2_DESC</LocID>                               
+		<Text>검사 결과 2기 단계의 비정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_3</LocID>                               
+		<Text>Non-seminoma testicular cancer</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_3_DESC</LocID>                               
+		<Text>검사 결과 3기 단계의 비정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_4</LocID>                               
+		<Text>Non-seminoma testicular cancer</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NSM_TSTM_4_DESC</LocID>                               
+		<Text>검사 결과 4기 단계의 비정상피종 고환암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_1</LocID>                               
+		<Text>전립선 비대</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_1_DESC</LocID>                               
+		<Text>대칭적이고 말랑한 조직으로, 전립선이 비정상적으로 커졌습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BPH_DETC_1</LocID>                               
+		<Text>전립선 비대증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BPH_DETC_1_DESC</LocID>                               
+		<Text>검사 결과 전립선 비대증이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_DHT</LocID>                               
+		<Text>높은 혈중 디히드로테스토스테론 수치</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_DHT_DESC</LocID>                               
+		<Text>검사 결과 높은 디히드로테스토스테론 수치를 보입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_2</LocID>                               
+		<Text>전립선 비대</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ENLSM_PRO_2_DESC</LocID>                               
+		<Text>대칭적이고 말랑한 조직으로, 전립선이 비정상적으로 커졌습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BPH_DETC_2</LocID>                               
+		<Text>전립선 비대증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>       
+		<LocID>SYM_KN_BPH_DETC_2_DESC</LocID>                               
+		<Text>검사 결과 전립선 비대증이 발견되었습니다. 그러나 α1 수용체 차단제에 반응하지 않아 최소한의 침습적 수술이 필요합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RETRO_EJAC</LocID>                               
+		<Text>역행성 사정</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RETRO_EJAC_DESC</LocID>                               
+		<Text>역행성 사정은 요도를 통해 사정될 정액이 요로를 통해 방광으로 우회될 때 발생합니다. 이는 방광 조임근의 기능이 제대로 발휘되지 않았음을 의미할 수 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EREC_DYS</LocID>                               
+		<Text>발기부전</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EREC_DYS_DESC</LocID>                               
+		<Text>환자가 충분한 발기 상태를 유지할 수 없음을 의미합니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO</LocID>                               
+		<Text>요실금</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO_DESC</LocID>                               
+		<Text>요실금은 비자발적인 배뇨로서, 소변을 통제하지 못함을 의미합니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENEPIDIDYMIS</LocID>                               
+		<Text>부고환 부음</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_SWOLLENEPIDIDYMIS_DESC</LocID>                               
+		<Text>남성 생식계통에서 고환과 혈관 배변기를 연결하는 관인 부고환이 부었으며 말랑합니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_DETC</LocID>                               
+		<Text>부고환염 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_DETC_DESC</LocID>                               
+		<Text>검사 결과 부고환염이 발견되었습니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_INGUINAL_LYMPH_NODES</LocID>                               
+		<Text>서혜부 림프절군</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PENIS_DISCHARGE</LocID>                               
+		<Text>음경 분비물</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PENIS_DISCHARGE_DESC</LocID>                               
+		<Text>음경에서 분비물이 발견됩니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_ORCH_DETC</LocID>                               
+		<Text>부고환-고환염 발결</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EPI_ORCH_DETC_DESC</LocID>                               
+		<Text>검사 결과 부고환-고환염이 발견되었습니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KIDNEY_TISSUE_BADLY_DAMAGED</LocID>                               
+		<Text>심각한 신장 손상</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KIDNEY_TISSUE_BADLY_DAMAGED_DESC</LocID>                               
+		<Text>신장이 심각하게 손상되었습니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IMMUN_REACT</LocID>                               
+		<Text>새 장기 면역체계 반응</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IMMUN_REACT_DESC</LocID>                               
+		<Text>면역체계가 새로운 장기에 반응하고 있습니다.</Text>  
+	</GameDBLocalizedString> 	
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ACUTE_ORG_REJEC</LocID>                               
+		<Text>거부반응</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_ACUTE_ORG_REJEC_DESC</LocID>                               
+		<Text>면역체계가 새 장기를 거부하고 있습니다. 아무 조치가 없다면 매우 치명적입니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_WEEKLY_DIALYSIS</LocID>                               
+		<Text>매주 투석 일정</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_WEEKLY_DIALYSIS_DESC</LocID>                               
+		<Text>환자는 매주 투석 일정이 있습니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_STERILIZATION_WISH</LocID>                               
+		<Text>불임 희망</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_STERILIZATION_WISH_DESC</LocID>                               
+		<Text>불임을 희망합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NEEDS_UROLOGY</LocID>                               
+		<Text>비뇨의학 필요</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_NEEDS_UROLOGY_DESC</LocID>                               
+		<Text>비뇨기과 의사의 모니터링이 필요합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	
+
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URETHRAL_STONES_DETECTED</LocID>                       
+		<Text>요로결석 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_BLADDER_STONES_DETECTED</LocID>                         
+		<Text>방광결석 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLADDER_INFECTION</LocID>                              
+		<Text>방광염</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLADDER_LINING_DEFECTED</LocID>                        
+		<Text>방광 내막 손상</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_KIDNEY_TISSUE_INFLAMMED</LocID>                    
+		<Text>신장 조직 염증</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_TUBULUS_INFLAMMED</LocID>                               
+		<Text>세관염</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_KIDNEY_INTERSTITIUM_ABSCESS</LocID>                    
+		<Text>간질 농양</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_KIDNEY_TISSUE_DAMAGED</LocID>                        
+		<Text>신장 조작 손상</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_KIDNEY_PROGRESSIVE_DAMAGE</LocID>                      
+		<Text>신장 지속적 손상</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_KIDNEY_STONES_DISCOVERED</LocID>                        
+		<Text>신장결석 발견</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_E_COLI_TOXIN_DETECTED</LocID>                     
+		<Text>대장균 검출</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLUNT_KIDNEY_CONTUSION</LocID>                         
+		<Text>신장 타박상</Text> 
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_BACSCRO</LocID>                     
+		<Text>음낭 박테리아 검출</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BACSCRO_DESC</LocID>                         
+		<Text>검사 결과 음낭에서 박테리아가 검출되었습니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_UNPL_ODOR</LocID>                     
+		<Text>불쾌한 냄새</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_UNPL_ODOR_DESC</LocID>                         
+		<Text>환자에게 불쾌한 냄새가 납니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_7</LocID>                               
+		<Text>국소 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_7_DESC</LocID>                               
+		<Text>검사 결과 국소 단계의 신장 세포암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_8</LocID>                               
+		<Text>대형 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_8_DESC</LocID>                               
+		<Text>검사 결과 크기가 큰 신장 세포암이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_1</LocID>                     
+		<Text>투명세포형 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_1_DESC</LocID>                         
+		<Text>검사 결과 투명세포형 신세포암이 발견되었습니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_21</LocID>                     
+		<Text>투명세포형 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_2_DESC</LocID>                         
+		<Text>검사 결과 투명세포형 신세포암이 발견되었습니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_31</LocID>                     
+		<Text>투명세포형 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_32</LocID>                     
+		<Text>투명세포형 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_3_DESC</LocID>                         
+		<Text>검사 결과 투명세포형 신세포암이 발견되었습니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_CCRCC_4</LocID>                     
+		<Text>투명세포형 신세포암 발견</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_CCRCC_4_DESC</LocID>                         
+		<Text>검사 결과 투명세포형 신세포암이 발견되었습니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_FLANK_PAIN</LocID>                     
+		<Text>옆구리 통증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_FLANK_PAIN_DESC</LocID>                         
+		<Text>옆구리에 통증을 느낍니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_KN_DEPR_ERYTHR</LocID>                     
+		<Text>적혈구형성인자 감소</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_DEPR_ERYTHR_DESC</LocID>                         
+		<Text>골수에서 적혈구 생성과 관련있는 적혈구형성인자가 감소하여, 빈혈을 유발합니다.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_UR_HYPERCALCEMIA</LocID>                               
+		<Text>고칼슘혈증</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_UR_HYPERCALCEMIA_DESC</LocID>                   
+		<Text>고칼슘 혈증은 혈중 칼슘 수치가 정상 초과인 상태입니다. 이는 목에 있는 부갑상선과도 관련이 있으며, 암의 지표이기도 합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLUNT_BLCONT</LocID>                               
+		<Text>방광타박상</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLUNT_BLCONT_DESC</LocID>                   
+		<Text>검사 결과 방광타박상이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLOODY_URINE</LocID>                               
+		<Text>소변 혈액 덩어리</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_BLOODY_URINE_DESC</LocID>                   
+		<Text>혈뇨가 심하면 소변 내 혈액들이 응고되어 덩어리를 형성할 수 있습니다. 이는 소변의 흐름을 차단하여 극심한 통증을 유발하기도 ㅎ ㅏㅂ니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_INF_VENACAVA_DESC</LocID>                               
+		<Text>하대정맥 전이 종양</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_RCC_INF_VENACAVA</LocID>                   
+		<Text>검사 결과 하대정맥에서 전이된 종양이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IP_RUP</LocID>                               
+		<Text>복강내 방광파열</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_IP_RUP_DESC</LocID>                   
+		<Text>검사 결과 복강내 방광 파열이 발견되었습니다.</Text>  
+	</GameDBLocalizedString> 
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_1</LocID>                               
+		<Text>복강외 방광파열</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_1_DESC</LocID>                   
+		<Text>검사 결과 복강외 방광 파열이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_2</LocID>                               
+		<Text>복합적 복강외 방광파열</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_EX_RUP_2_DESC</LocID>                   
+		<Text>검사 결과 복합적 복강외 방광파열이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PEN_RUP_1</LocID>                               
+		<Text>관통성 방광파열</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_PEN_RUP_1_DESC</LocID>                   
+		<Text>검사 결과 관통성 방광파열이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO_VAG</LocID>                               
+		<Text>방광질누공</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_KN_URIN_INCO_VAG_DESC</LocID>                   
+		<Text>검사 결과 방광질누공이 발견되었습니다.</Text>  
+	</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>	
+</Database>

@@ -1,0 +1,2310 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_ONCOLOGYSL_SYMPTOMS">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ACTINIC_KERATOSIS</LocID>
+        <Text>Aktinik keratoz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ACTINIC_KERATOSIS_DESC</LocID>
+        <Text>Aktinik keratoz, güneşe uzun süreli maruziyet sonucu deride gelişen pullu ve pürüzlü lekelerdir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NODULE_SKIN</LocID>
+        <Text>Deride nodül</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NODULE_SKIN_DESC</LocID>
+        <Text>Deride küçük, parlak yumru veya nodül bulunmaktadır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_1_DETECTED</LocID>
+        <Text>Bazal hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmamış bazal hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_2_DETECTED</LocID>
+        <Text>Bazal hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmamış bazal hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PERINEURAL_INVASION</LocID>
+        <Text>Perinöral invazyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PERINEURAL_INVASION_DESC</LocID>
+        <Text>Perinöral invazyon, kanserin bir siniri çevreleyen alana invaze olmasını ifade eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_3_DETECTED</LocID>
+        <Text>Bazal hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_3_DETECTED_DESC</LocID>
+        <Text>Yapılan test, yakın yerleşimli dokulara ve lenf nodlarına yayılım göstermiş bazal hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_4_DETECTED</LocID>
+        <Text>Bazal hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC1_4_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmış bazal hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_METASTASIZED_CANCER</LocID>
+        <Text>Metastatik kanser</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_METASTASIZED_CANCER_DESC</LocID>
+        <Text>Metastatik kanser, oluştuğu bölgeden vücudun diğer kısımlarına yayılan kansere denir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CHRONIC_WOUND</LocID>
+        <Text>Kronik yara</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CHRONIC_WOUND_DESC</LocID>
+        <Text>Üç ay içerisinde iyileşmeyen yaralara kronik yara denir. Başta küçük olup tekrar tekrar kabuk bağlayabilir, ancak iyileşmez.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_1_DETECTED</LocID>
+        <Text>Skuamöz hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmamış skuamöz hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_2_DETECTED</LocID>
+        <Text>Skuamöz hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmamış skuamöz hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_3_DETECTED</LocID>
+        <Text>Skuamöz hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_3_DETECTED_DESC</LocID>
+        <Text>Yapılan test, yakın yerleşimli dokulara ve lenf nodlarına yayılım göstermiş skuamöz hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_4_DETECTED</LocID>
+        <Text>Skuamöz hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC2_4_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmış skuamöz hücreli karsinom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ABNORMAL_MOLE</LocID>
+        <Text>Anormal leke</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ABNORMAL_MOLE_DESC</LocID>
+        <Text>Düzgün olmayan kontürlü, anormal bir renge sahip veya büyüklüğü değişen lekedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_1_DETECTED</LocID>
+        <Text>Melanom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmamış melanom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_2_DETECTED</LocID>
+        <Text>Melanom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmamış melanom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_3_DETECTED</LocID>
+        <Text>Melanom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_3_DETECTED_DESC</LocID>
+        <Text>Yapılan test, yakın yerleşimli dokulara ve lenf nodlarına yayılım göstermiş melanom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_4_DETECTED</LocID>
+        <Text>Melanom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_4_DETECTED_DESC</LocID>
+        <Text>Yapılan test, metastaz yapmış melanom tespit etti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_EPLVL</LocID>
+        <Text>Yüksek epinefrin düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_EPLVL_DESC</LocID>
+        <Text>Hastanın kanında artmış seviyede epinefrin tespit edildi. Epinefrin normalde hem adrenal bezlerden hem de medulla oblongata'da bulunan az sayıdaki bazı nöronlardan üretilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_NEPLVL</LocID>
+        <Text>Yüksek norepinefrin düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_NEPLVL_DESC</LocID>
+        <Text>Hastanın kanında artmış seviyede norepinefrin tespit edildi. Norepinefrin, stres hormonu ve nörotransmitter olarak görev alan, vücutta doğal olarak bulunan bir kimyasaldır. Beyin bir olayı stres olarak algıladığı zaman kana salınır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC1_0_DETECTED</LocID>
+        <Text>Feokromositoma tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC1_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test lokalize feokromositoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC1_1_DETECTED</LocID>
+        <Text>Feokromositoma tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC1_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test bölgesel feokromositoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC1_2_DETECTED</LocID>
+        <Text>Feokromositoma tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC1_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik feokromositoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC_0_DETECTED</LocID>
+        <Text>Küçük hücreli dışı akciğer kanseri (KHDAK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test lokalize küçük hücreli dışı akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC_1_DETECTED</LocID>
+        <Text>Küçük hücreli dışı akciğer kanseri (KHDAK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test bölgesel küçük hücreli dışı akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_SEIZURES</LocID>
+        <Text>Nöbet geçirme</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_SEIZURES_DESC</LocID>
+        <Text>Aniden gelişen beyindeki kontrolsüz elektriksel bozukluğa nöbet denir. Kişinin davranışlarında, hareketlerinde, hislerinde ve bilinç seviyesinde değişikliğe neden olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC_2_DETECTED</LocID>
+        <Text>Küçük hücreli dışı akciğer kanseri (KHDAK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik küçük hücreli dışı akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_HEMOPTYSIS1</LocID>
+        <Text>Hafif hemoptizi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_HEMOPTYSIS1_DESC</LocID>
+        <Text>Hemoptizi; bronşlar, larinks, trakea veya akciğerler kaynaklı kan veya kanlı mukus öksürmeye denir. Bir diğer deyişle hava yolu kanamasıdır. Hemoptizi akciğer kanserinde; tüberküloz, bronşit veya pnömoni gibi enfeksiyonlarda ve bazı kardiyovasküler hastalıklarda görülebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC1_0_DETECTED</LocID>
+        <Text>Küçük hücreli akciğer kanseri (KHAK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC1_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test sınırlı evrede küçük hücreli akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC1_1_DETECTED</LocID>
+        <Text>Küçük hücreli akciğer kanseri (KHAK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC1_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test ileri evrede küçük hücreli akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NERVE_DAMAGE</LocID>
+        <Text>Postoperatif nöropatik ağrı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>
+        <Text>Postoperatif nöropatik ağrı, bir cerrahi sırasında sinirlerin harap olması sonucu gelişebilir. Hasarlı sinirler vücudun çeşitli kısımlarından gelen sinyalleri doğru bir şekilde beyne iletemez. Bunun yerine bu sinyaller üst üste binerek aylar hatta yıllar boyu sürebilen kronik ağrıya neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC1_0_DETECTED</LocID>
+        <Text>Kolorektal adenokarsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC1_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test lokalize kolorektal adenokarsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC1_1_DETECTED</LocID>
+        <Text>Kolorektal adenokarsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC1_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test bölgesel kolorektal adenokarsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC1_2_DETECTED</LocID>
+        <Text>Kolorektal adenokarsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC1_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik kolorektal adenokarsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_CEALVL</LocID>
+        <Text>Yüksek karsinoembriyonik antijen düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_CEALVL_DESC</LocID>
+        <Text>Hastanın kanında artmış seviyede karsinoembriyonik antijen (CEA) tespit edildi. Yüksek CEA seviyesi bazı kanser tiplerine ait bir bulgu olabilir. Bu kanserlere kolon, rektum, prostat, over, akciğer, tiroit ve karaciğer kanserleri dahildir. Yüksek CEA seviyesi aynı zamanda siroz, nonkanseröz meme hastalığı ve amfizem gibi nonkanseröz hastalıklarda da görülebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_POLYPS</LocID>
+        <Text>Kolorektal polip</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_POLYPS_DESC</LocID>
+        <Text>Bağırsak lümenine doğru çıkan, kolon ve rektumu döşeyen dokulardaki büyümeye polip denir. Genellikle asemptomatiktir. Pek çoğu zararsızdır, ancak bazı türleri kanseröz olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC2_0_DETECTED</LocID>
+        <Text>Adrenokortikal karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC2_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test lokalize adrenokortikal karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC2_1_DETECTED</LocID>
+        <Text>Adrenokortikal karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC2_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test bölgesel adrenokortikal karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC2_2_DETECTED</LocID>
+        <Text>Adrenokortikal karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_AGC2_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik adrenokortikal karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPONATREMIA</LocID>
+        <Text>Hiponatremi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPONATREMIA_DESC</LocID>
+        <Text>Hiponatremi, kandaki sodyum konsantrasyonunun normalin altında olmasıdır. Sodyum bir elektrolittir, hücre içerisindeki ve dışındaki su miktarının regüle edilmesinde rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERGLYCEMIA</LocID>
+        <Text>Hiperglisemi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERGLYCEMIA_DESC</LocID>
+        <Text>Hiperglisemi yüksek kan glukozu (kan şekeri) anlamına gelir. Yüksek kan şekeri, vücut az sayıda insülin'e sahip olduğunda veya insülin'i muntazam kullanamadığında gelişir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERCORTISOL</LocID>
+        <Text>Hiperkortizolizm</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERCORTISOL_DESC</LocID>
+        <Text>Cushing sendromu veya hiperkortizolizm, normalde adrenal bez tarafından üretilen bir hormon olan kortizol'e vücudun aşırı seviyelerde kronik maruziyeti sonucunda gelişen, nadir görülen bir endokrin bozukluktur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERALDOSTERONISM</LocID>
+        <Text>Hiperaldosteronizm</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERALDOSTERONISM_DESC</LocID>
+        <Text>Hiperaldosteronizm, adrenal bez aşırı sayıda aldosteron ürettiğinde gelişen ve buna bağlı olarak hipertansiyon (yüksek kan basıncı) ve düşük kan potasyum seviyesinin görüldüğü bir hastalıktır. Primer hiperaldosteronizm bir adrenal bezin (unilateral hastalık) veya ikisinin (bilateral hastalık) aşırı aktivitesi sonucu gelişebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_MC001_0_DETECTED</LocID>
+        <Text>Gastrointestinal NET tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_MC001_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test sınırlı evrede gastrointestinal NET varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_MC001_1_DETECTED</LocID>
+        <Text>Gastrointestinal NET tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_MC001_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test ileri evrede gastrointestinal NET varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LARGE_LYMPHNODE</LocID>
+        <Text>Lenfadenit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LARGE_LYMPHNODE_DESC</LocID>
+        <Text>Lenfadenit (büyümüş lenf nodları), lenf nodlarının hastalık, enfeksiyon veya strese yanıt olarak şişkinlik göstermesidir. Büyümüş lenf nodları, lenfatik sistemin hastalıktan sorumlu ajanları vücuttan atmak için uğraştığının bir bulgusudur. İmmün sistem glandları sıklıkla bakteriyal veya viral enfeksiyona cevaben büyür, bununla beraber aniden çok sayıda lenf nodunun büyümesi kansere işaret edebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ELAVATED_5HIAA</LocID>
+        <Text>Yüksek 5-HIAA düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ELAVATED_5HIAA_DESC</LocID>
+        <Text>Hastanın idrarında artmış seviyede 5-HIAA (5-hidroksiindolasetik asit) tespit edildi. Serotonin idrarda 5-hidroksiindolasetik asit (5-HIAA) olarak ölçülür. Artmış 5-HIAA seviyeleri karsinoid sendrom ve karsinoid kriz ile koreledir. Kalp kapakçıklarının yüksek serotonin düzeylerine uzun süreli maruziyeti hastalığa ait komplikasyonlarla irtibatlıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CGA_BL_DETECTED</LocID>
+        <Text>Yüksek kromogranin-A düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CGA_BL_DETECTED_DESC</LocID>
+        <Text>Hastanın kanında artmış seviyede kromogranin-A tespit edildi. Kromogranin-A tüm karsinoid tümörlerle irtibatlı olan genel bir marker'dır. Esasen tümör hücreleri tarafından üretilen ve salınan bir proteindir. Kromogranin-A diğer hormonlarla da irtibatlıdır ve onların regülasyonunda rol oynayabilir. Kanda normal kromogranin-A düzeyleri kabaca 39 ng/L'den küçüktür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CARCINOID_CRISIS</LocID>
+        <Text>Karsinoid kriz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CARCINOID_CRISIS_DESC</LocID>
+        <Text>Karsinoid kriz hayatı tehdit eden bir karsinoid sendrom formudur, tümörden aşırı miktarda biyolojik aktif bileşik salınımı sonucu gelişir. Aşırı stres, tümör manipülasyonu (biyopsi veya cerrahi) veya anestezi krizi tetikleyebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ANAPHYLACTIC_SHOCK</LocID>
+        <Text>Anaflaktik şok</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ANAPHYLACTIC_SHOCK_DESC</LocID>
+        <Text>Anaflaktik şok doğru bir şekilde tedavi edilmezse ölümcül olabilen nadir ama ciddi bir allerjik reaksiyondur. Genellikle bir yiyeceğe, böcek ısırığına veya alınan bazı ilaçlara karşı gelişen allerji nedeniyle olur. En kısa sürede hastaya epinefrin verilmesi gerekir.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_UNUSUAL_INFECT</LocID>
+        <Text>Olağan dışı enfeksiyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_UNUSUAL_INFECT_DESC</LocID>
+        <Text>Bilinmeyen bir sebebe sahip yahut olağan dışı özellikler sergileyen bir enfeksiyondur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_FREQUENT_INFECT</LocID>
+        <Text>Sık geçirilen enfeksiyonlar</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_FREQUENT_INFECT_DESC</LocID>
+        <Text>Sık geçirilen enfeksiyonlar sayıca fazla, çok ciddi veya çok uzun süreli olan enfeksiyonlardır. Sık veya rekürren enfeksiyonlar, vücut yeterince lökosit üretemeyerek immün sistemin doğru çalışmasını sağlayamadığı için görülebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LYMPHOCYTOSIS</LocID>
+        <Text>Lenfositoz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LYMPHOCYTOSIS_DESC</LocID>
+        <Text>Lenfositoz, bir lökosit alt tipi olan lenfositlerin normalden fazla sayıda olması anlamına gelir. Lenfositler immün sistemin bir parçasıdır ve enfeksiyonlarla savaşta rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PETECHIAE</LocID>
+        <Text>Peteşi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PETECHIAE_DESC</LocID>
+        <Text>Peteşi deride, müköz veya seröz membranda görülen küçük, sirküler, kabarık olmayan lekelerdir. Deri altındaki kanama sonucu ortaya çıkar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLEEDING_GUM</LocID>
+        <Text>Diş eti kanaması</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLEEDING_GUM_DESC</LocID>
+        <Text>Diş eti kanaması, diş eti hastalığının en sık görülen semptomudur. Bununla beraber başka sağlık problemlerine de işaret edebilir. Aşırı diş fırçalama veya tam oturmayan takma diş takma sonucu görülebilir. Sık görülen diş eti kanaması daha ciddi problemleri akla getirmelidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_TCOUNT</LocID>
+        <Text>Yüksek T hücresi düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HIGH_TCOUNT_DESC</LocID>
+        <Text>Yüksek T hücresi düzeyleri şunlara bağlı olabilir: Enfeksiyöz mononükleoz, "öpücük hastalığı" olarak da bilinir; akut lenfositik lösemi (ALL), lökositleri etkileyen bir kanser türüdür; multiple myelom, kemik iliğinde bulunan plazma hücrelerini etkileyen bir kanser türüdür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_RC_APLASIA</LocID>
+        <Text>Eritrosit aplazisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_RC_APLASIA_DESC</LocID>
+        <Text>Saf eritrosit aplazisi (SEA) veya eritroblastopeni, eritrosit prekürsörlerini etkileyip lökosit prekürsörlerini etkilemeyen bir anemi tipidir. SEA'da kemik iliği eritrosit üretemez. Etiyolojisinde pek çok neden mevcuttur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CHRONIC_NEUT</LocID>
+        <Text>Nötropeni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CHRONIC_NEUT_DESC</LocID>
+        <Text>Nötropeni normalden az sayıda nötrofil bulunmasıdır. Nötrofiller bir lökosit türüdür. Tüm lökositler vücudun enfeksiyonla savaşında rol oynar. Bunu zararlı bakteri ve mantarları yok ederek yaparlar. Nötrofiller kemik iliğinde üretilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SPLENOMEGALY</LocID>
+        <Text>Splenomegali</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>
+        <Text>Splenomegali dalağın büyümesi anlamına gelir. Büyümüş dalak veya dalak büyümesi olarak da adlandırılabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>
+        <Text>Rüptüre dalak</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>
+        <Text>Rüptüre dalak acil bir tıbbi durumdur, dalağı çevreleyen kapsüle benzer yapının yırtılması anlamına gelir, abdomene kan akar. Rüptürün boyutuna göre ciddi miktarda iç kanama görülebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEPATOMEGALY</LocID>
+        <Text>Hepatomegali</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEPATOMEGALY_DESC</LocID>
+        <Text>Hepatomegali karaciğerin büyümesi anlamına gelir. Genellikle ciddi bir sağlık probleminin bulgusudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_THROMBOCYTOPENIA</LocID>
+        <Text>Trombositopeni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_THROMBOCYTOPENIA_DESC</LocID>
+        <Text>Trombositopeni normalden az sayıda platelet bulunmasıdır. Plateletler kan pıhtısının oluşmasında rol oynayan renksiz kan hücreleridir. Kan damarı yaralanmalarında birikip tıkaç oluşturarak kanamayı durdururlar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_02</LocID>
+        <Text>PML-RARA defekti tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_02_DESC</LocID>
+        <Text>APL hücreleri "dengeli translokasyon" adı verilen çok spesifik bir anormalliğe sahiptir. 15 ve 17. kromozomların yer değiştirmesi sonucu oluşur. Bunun neticesinde “PML/RARα” anormal füzyon geni teşekkül eder. Mutasyona uğramış bu gen hastalığın pek çok özelliğinden sorumludur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_FISH_POSLESION</LocID>
+        <Text>FISH-pozitif lezyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_FISH_POSLESION_DESC</LocID>
+        <Text>Yapılan testler sonucu lezyonun malign olduğu doğrulandı.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_01</LocID>
+        <Text>Philadelphia defekti tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_01_DESC</LocID>
+        <Text>Philadelphia kromozomu veya Philadelphia translokasyonu (Ph), lösemi kanseri (özellikle KML) hücrelerinde görülen 22. kromozomdaki bir genetik anormalliktir. Philadelphia kromozomundaki defekt resiprokal translokasyondur, 9 ve 22. kromozomlar yer değiştirir. Bu translokasyonun varlığı KML için oldukça sensitiftir, zira pek çok KML vakasında Ph pozitif tespit edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_001</LocID>
+        <Text>Myeloperoksidaz (MPO) pozitif</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_001_DESC</LocID>
+        <Text>Myeloperoksidaz lizozomal bir enzimdir; nötrofil, nötrofil prekürsörleri, eozinofiller ve monositlerin azurofilik granüllerinde bulunur. Bu boyama yöntemi esasen akut myeloid lösemi ile akut lenfoblastik lösemi'yi ayırmak için kullanılır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_002</LocID>
+        <Text>Sudan Black B pozitif</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_002_DESC</LocID>
+        <Text>Solvent Black 3 bir azo boyasıdır. Nonfloresandır, nispeten termostabil, yağda çözünen diazo bir boyadır. Frozen kesitlerindeki nötr trigliserit ve lipitleri, parafin kesitlerindeki bazı lipoproteinleri boyar. Sudan boyaması için kullanılır. Hematolojik bozuklukları ayırt etmeye yarar, myeloblastları boyarken lenfoblastları boyamaz.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_03</LocID>
+        <Text>IDH1/IDH2 mutasyonu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_03_DESC</LocID>
+        <Text>İzositrat dehidrogenaz (IDH), trikarboksilik asit (TCA) döngüsünde izositrat'ın α-ketoglutarat'a (α-KG) dönüşümünde rol oynayan kilit bir enzimdir. IDH mutasyonu neomorfik bir enzim oluşturur, buna bağlı anormal R-2-HG akümülasyonu ve lökomogenez lehine değişim gerçekleşebilir. Akut myeloid lösemi (AML) hastalarının %20'sinde IDH mutasyonu mevcuttur, esasen IDH1 R132, IDH2 R140, ve IDH2 R172'yi içerir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_04</LocID>
+        <Text>BCR-ABL füzyon geni tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_04_DESC</LocID>
+        <Text>BCR-ABL mutasyonu, BCR ve ABL genlerinin kombinasyonu sonucu gelişir. Füzyon geni adı da verilir. BCR geni normalde 22. kromozomda, ABL geni ise 9. kromozomda bulunur. BCR-ABL mutasyonu, BCR ve ABL genleri olduğu yerden ayrılıp yer değiştirdiği zaman gerçekleşir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_05</LocID>
+        <Text>Trizomi 8 geni tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_05_DESC</LocID>
+        <Text>Warkany sendromu 2 olarak da bilinen trizomi 8, 8. kromozomun üç kopyasının bulunması (trizomi) sonucu gelişen bir kromozomal bozukluktur. Mozaiklik eşlik edebilir veya etmeyebilir. Mozaik tabiri bazı hücrelerin fazladan kromozoma sahip olup bazılarının sahip olmaması anlamına gelir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_06</LocID>
+        <Text>Trizomi 9 geni tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_06_DESC</LocID>
+        <Text>Mozaik trizomi 9, bazı hücrelerde 9. kromozomun iki yerine üç kopyasının bulunduğu nadir görülen bir kromozomal bozukluktur. Mozaik tabiri bazı hücrelerin fazladan 9. kromozom içerirken bazılarının tipik iki kromozom bulundurması anlamına gelir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_07</LocID>
+        <Text>Philadelphia kromozomu duplikasyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_07_DESC</LocID>
+        <Text>Defektif bir kromozom olan Philadelphia kromozomunun duplikasyonu tespit edildi. Bu durum kronik myeloid lösemi'nin daha ileri evrelerinde görülebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLA_HIGH1</LocID>
+        <Text>Orta yükseklikte blast hücresi düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLA_HIGH1_DESC</LocID>
+        <Text>Blastlar dolaşımda bulunan matür nötrofil, monosit, lenfosit ve eritrositlerin prekürsörleridir. Normalde blastlar kemik iliğinde az sayıda bulunurlar, kanda önemli düzeyde bulunmazlar. Yapılan test sonucu kanda %5-19 arasında blast hücresi tespit edildi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLA_HIGH2</LocID>
+        <Text>Yüksek blast hücresi düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLA_HIGH2_DESC</LocID>
+        <Text>Blastlar dolaşımda bulunan matür nötrofil, monosit, lenfosit ve eritrositlerin prekürsörleridir. Normalde blastlar kemik iliğinde az sayıda bulunurlar, kanda önemli düzeyde bulunmazlar. Yapılan test sonucu kanda %20'nin üzerinde blast hücresi tespit edildi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLA_HIGH3</LocID>
+        <Text>Çok yüksek blast hücresi düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BLA_HIGH3_DESC</LocID>
+        <Text>Blastlar dolaşımda bulunan matür nötrofil, monosit, lenfosit ve eritrositlerin prekürsörleridir. Normalde blastlar kemik iliğinde az sayıda bulunurlar, kanda önemli düzeyde bulunmazlar. Yapılan test sonucu kanda %30'un üzerinde blast hücresi tespit edildi. Bu düzeyde blast hücreleri, normal lökositleri baskılayarak onların etkisini zayıflatır.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_0_DETECTED</LocID>
+        <Text>Pre-B hücreli akut lenfositik lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test akut formda pre-B hücreli akut lenfositik lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_1_DETECTED</LocID>
+        <Text>B hücreli akut lenfositik lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test akut formda B hücreli lenfositik lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC02_A_DETECTED</LocID>
+        <Text>Kronik lenfositik lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC02_A_DETECTED_DESC</LocID>
+        <Text>Yapılan test kronik formda ancak stabil lenfositik lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC02_B_DETECTED</LocID>
+        <Text>Kronik lenfositik lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC02_B_DETECTED_DESC</LocID>
+        <Text>Yapılan test kronik formda ve ileri evrede lenfositik lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_2_DETECTED</LocID>
+        <Text>T hücreli akut lenfositik lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test akut formda T hücreli lenfositik lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_3_DETECTED</LocID>
+        <Text>T hücreli akut lenfositik lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_3_DETECTED_DESC</LocID>
+        <Text>Yapılan test akut formda T hücreli lenfositik lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_0_DETECTED</LocID>
+        <Text>T hücreli LGL lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test T hücreli "large granular" lenfositik (LGL) lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_1_DETECTED</LocID>
+        <Text>NK hücreli LGL lösemi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test NK hücreli "large granular" lenfositik (LGL) lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_2_DETECTED</LocID>
+        <Text>T hücreli prolenfositik lösemi (T-PLL) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test T hücreli prolenfositik lösemi (T-PLL) varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC04_0_DETECTED</LocID>
+        <Text>Akut myeloid lösemi (AML) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC04_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test akut formda myeloid lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_A_DETECTED</LocID>
+        <Text>Kronik myeloid lösemi (KML) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_A_DETECTED_DESC</LocID>
+        <Text>Yapılan test kronik fazda myeloid lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_B_DETECTED</LocID>
+        <Text>Kronik myeloid lösemi (KML) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_B_DETECTED_DESC</LocID>
+        <Text>Yapılan test akselere fazda myeloid lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_C_DETECTED</LocID>
+        <Text>Kronik myeloid lösemi (KML) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_C_DETECTED_DESC</LocID>
+        <Text>Yapılan test blast krizi fazında myeloid lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD10_BRIGHT</LocID>
+        <Text>Neprilisin (CD10) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD10_BRIGHT_DESC</LocID>
+        <Text>Membran metaloendopeptidazı, nötr endopeptidaz, diferansiyasyon 10 kümesi ve ortak akut lenfoblastik lösemi antijeni olarak da bilinen neprilisin, insanlarda MME geni tarafından kodlanan bir enzimdir. Akut lenfoblastik lösemide kanser spesifik antijen olarak tespit edilmiştir, farklı tipteki hücrelerde yüzey ektoenzimi olarak eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD10_NEG</LocID>
+        <Text>Neprilisin (CD10) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD10_NEG_DESC</LocID>
+        <Text>Membran metaloendopeptidazı, nötr endopeptidaz, diferansiyasyon 10 kümesi ve ortak akut lenfoblastik lösemi antijeni olarak da bilinen neprilisin, insanlarda MME geni tarafından kodlanan bir enzimdir. Akut lenfoblastik lösemide kanser spesifik antijen olarak tespit edilmiştir, farklı tipteki hücrelerde yüzey ektoenzimi olarak eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD19_BRIGHT</LocID>
+        <Text>CD19 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD19_BRIGHT_DESC</LocID>
+        <Text>CD19 molekülü, B lenfositi yüzey antijeni B4, T hücresi yüzey antijeni Leu-12 ve CVID3 olarak da bilinen B lenfositi antijeni CD19, insanlarda CD19 geni tarafından kodlanan bir transmembran proteindir. İnsanlarda CD19 tüm B dizisine ait hücrelerde eksprese edilir, plazma hücreleri ve foliküler dendritik hücreler istisnadır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD19_NEG</LocID>
+        <Text>CD19 antijeni negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD19_NEG_DESC</LocID>
+        <Text>CD19 molekülü, B lenfositi yüzey antijeni B4, T hücresi yüzey antijeni Leu-12 ve CVID3 olarak da bilinen B lenfositi antijeni CD19, insanlarda CD19 geni tarafından kodlanan bir transmembran proteindir. İnsanlarda CD19 tüm B dizisine ait hücrelerde eksprese edilir, plazma hücreleri ve foliküler dendritik hücreler istisnadır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD20_DIM</LocID>
+        <Text>CD20 antijeni sönük ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD20_DIM_DESC</LocID>
+        <Text>B lenfosit antijeni CD20 veya CD20, tüm B hücrelerinin yüzeyinde pro-B fazından başlayarak eksprese edilir, matüriteye kadar progresif olarak ekspresyonu artar. CD20 membrana gömülü bir yüzey molekülüdür, B hücrelerinin plazma hücrelerine farklılaşmasında rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD20_BRIGHT</LocID>
+        <Text>CD20 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD20_BRIGHT_DESC</LocID>
+        <Text>B lenfosit antijeni CD20 veya CD20, tüm B hücrelerinin yüzeyinde pro-B fazından başlayarak eksprese edilir, matüriteye kadar progresif olarak ekspresyonu artar. CD20 membrana gömülü bir yüzey molekülüdür, B hücrelerinin plazma hücrelerine farklılaşmasında rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_TDT_BRIGHT</LocID>
+        <Text>TdT antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_TDT_BRIGHT_DESC</LocID>
+        <Text>DNA nükleotidileksotransferaz (DNTT) ve terminal transferaz olarak da bilinen terminal deoksinükleotidil transferaz (TdT), immatür pre-B, pre-T lenfoid hücrelerinde ve akut lenfoblastik lösemi hücrelerinde eksprese edilen özelleşmiş bir DNA polimeraz'dır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_TDT_NEG</LocID>
+        <Text>TdT antijeni negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_TDT_NEG_DESC</LocID>
+        <Text>DNA nükleotidileksotransferaz (DNTT) ve terminal transferaz olarak da bilinen terminal deoksinükleotidil transferaz (TdT), immatür pre-B, pre-T lenfoid hücrelerinde ve akut lenfoblastik lösemi hücrelerinde eksprese edilen özelleşmiş bir DNA polimeraz'dır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD22_DIM</LocID>
+        <Text>CD22 antijeni sönük ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD22_DIM_DESC</LocID>
+        <Text>Diferansiyasyon kümesi 22 olarak da bilinen CD22, lektinlerin SIGLEC ailesine ait bir moleküldür. Matür B hücrelerinin ve daha az olarak bazı immatür B hücrelerinin yüzeyinde bulunur. CD22 şeker bağlayan transmembran bir proteindir, spesifik olarak siyalik asiti N terminalindeki Ig domainine bağlar. Ig domaininin varlığı CD22'yi immünoglobülin süperfamilyasının bir üyesi yapar. CD22, B hücre reseptörü sinyalizasyonunda inhibitör reseptör olarak işlev görür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD22_BRIGHT</LocID>
+        <Text>CD22 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD22_BRIGHT_DESC</LocID>
+        <Text>Diferansiyasyon kümesi 22 olarak da bilinen CD22, lektinlerin SIGLEC ailesine ait bir moleküldür. Matür B hücrelerinin ve daha az olarak bazı immatür B hücrelerinin yüzeyinde bulunur. CD22 şeker bağlayan transmembran bir proteindir, spesifik olarak siyalik asiti N terminalindeki Ig domainine bağlar. Ig domaininin varlığı CD22'yi immünoglobülin süperfamilyasının bir üyesi yapar. CD22, B hücre reseptörü sinyalizasyonunda inhibitör reseptör olarak işlev görür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD23_BRIGHT</LocID>
+        <Text>Fc epsilon RII (CD23) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD23_BRIGHT_DESC</LocID>
+        <Text>Fc epsilon RII veya FcεRII olarak da bilinen CD23, allerji ve parazitlere dirençte rol oynayan bir antikor izotopu olan IgE'nin düşük affiniteli bir reseptörüdür, IgE düzeylerinin regülasyonunda etkilidir. Diğer pek çok antikor reseptörünün aksine CD23, bir C-tip lektin'dir. CD23 antijeni, kronik lenfositik lösemi diferansiyasyonunda önemli olduğu düşünülen bir hücre yüzey proteinidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD34_BRIGHT</LocID>
+        <Text>CD34 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD34_BRIGHT_DESC</LocID>
+        <Text>CD34 proteini, erken hematopoietik dokuda ve vasküler-irtibatlı dokuda eksprese olan single-pass transmembran sialomüsin proteinleri ailesi mensubudur. CD34 ayrıca önemli bir adezyon molekülüdür ve T hücrelerinin lenf nodlarına girebilmeleri için gereklidir. Lenf nodu endotelinde eksprese edilir, kendisine bağlanan L-selektin ise T hücresi üzerindedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD79a_BRIGHT</LocID>
+        <Text>CD79a antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD79a_BRIGHT_DESC</LocID>
+        <Text>B hücresi antijen reseptör kompleksi-irtibatlı protein alfa zinciri ve MB-1 membran glikoproteini olarak da bilinen diferansiyasyon kümesi CD79A, insanlarda CD79A geni tarafından kodlanan bir proteindir. CD79a, B hücre gelişiminde ve fonksiyonunda çok sayıda ve farklı işlev gösterir. CD79a/b heterodimer'i, non-kovalent şekilde immünoglobulin ağır zincir ile transmembran bölgesi üzerinden irtibat kurar, böylelikle immünoglobulin hafif zincir ve BCR formasyonunu sağlar, gelişmekte olan B hücrelerindeki vekil hafif zincirlerle irtibat kurduğunda ise pre-BCR formasyonunu temin eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD79b_NEG</LocID>
+        <Text>CD79b antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD79b_NEG_DESC</LocID>
+        <Text>Diferansiyasyon kümesi 79B olarak da bilinen CD79b molekülü bir insan genidir. CD79a/b heterodimer'i, non-kovalent şekilde immünoglobulin ağır zincir ile transmembran bölgesi üzerinden irtibat kurar, böylelikle immünoglobulin hafif zincir ve BCR formasyonunu sağlar, gelişmekte olan B hücrelerindeki vekil hafif zincirlerle irtibat kurduğunda ise pre-BCR formasyonunu temin eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD11c_BRIGHT</LocID>
+        <Text>İntegrin alfa X (CD11c) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD11c_BRIGHT_DESC</LocID>
+        <Text>Integrin, alfa X (kompleman komponenti 3 reseptör 4 alt birimi) (ITGAX) olarak da bilinen CD11c, CD11c'yi kodlayan bir gendir. CD11c monositlerde, granülositlerde, B hücrelerinin bir alt tipinde, dendritik hücrelerde ve makrofajlarda eksprese olan bir tip I transmembran proteinidir; B hücreli kronik lenfositik lösemide, marjinal zon lenfomalarında ve "hairy cell" lösemide mevcut olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD25_BRIGHT</LocID>
+        <Text>IL2RA (CD25) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD25_BRIGHT_DESC</LocID>
+        <Text>İnterlökin-2 reseptör alfa zinciri (CD25) insanlarda IL2RA geni tarafından kodlanan bir proteindir. İnterlökin 2 reseptör alfa ve beta zincirleri, ortak gama zinciri ile birlikte yüksek affiniteli IL2 reseptörünü oluştururlar. IL2RA pek çok B hücre neoplazisinde, bazı akut nonlenfositik lösemilerde, nöroblastomlarda, mastositozlarda ve tümör infiltre edici lensositlerde eksprese edilir. HTLV-1 reseptörü olarak işlev görür, buna bağlı yetişkin T hücre lenfoma/lösemisi neoplastik hücrelerinde eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD25_NEG</LocID>
+        <Text>IL2RA (CD25) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD25_NEG_DESC</LocID>
+        <Text>İnterlökin-2 reseptör alfa zinciri (CD25) insanlarda IL2RA geni tarafından kodlanan bir proteindir. İnterlökin 2 reseptör alfa ve beta zincirleri, ortak gama zinciri ile birlikte yüksek affiniteli IL2 reseptörünü oluştururlar. IL2RA pek çok B hücre neoplazisinde, bazı akut nonlenfositik lösemilerde, nöroblastomlarda, mastositozlarda ve tümör infiltre edici lensositlerde eksprese edilir. HTLV-1 reseptörü olarak işlev görür, buna bağlı yetişkin T hücre lenfoma/lösemisi neoplastik hücrelerinde eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD103_BRIGHT</LocID>
+        <Text>ITGAE (CD103) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD103_BRIGHT_DESC</LocID>
+        <Text>C103 olarak da bilinen integrin, alfa E insanlarda ITGAE geni tarafından kodlanan bir integrin proteinidir. CD103 intraepitelyal lenfositlerde (IEL), T hücrelerinde (αβ T hücreleri ve γδ T hücrelerinde) ve bazı periferal regülatör T hücrelerinde (Treg) eksprese edilir. "Hairy cell" löseminin tespitinde kullanışlıdır, zira bahsi geçen hastalık diğer hematolojik malignitelerin aksine (enteropati-irtibatlı T hücre lenfoması hariç) CD103 pozitifliği gösterir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD123_DIM</LocID>
+        <Text>İnterlökin-3 reseptörü (CD123) sönük ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD123_DIM_DESC</LocID>
+        <Text>İnterlökin-3 reseptörü (CD123), immün sistemde önemli işlev gösteren bir çözünebilir sitokin olan interlökin-3'ün iletiminde rol oynayan, hücrelerde yerleşim gösteren bir moleküldür. Pluripotent progenitör hücrelerde bulunan reseptör, hücre içinde tirozin fosforilasyonunu indükler, proliferasyonu ve hematopoietik hücre dizilerindeki diferansiyasyonu arttırır. CD123, akut myeloid lösemi (AML) alt tiplerinde lösemik kök hücreler dahil olmak üzere eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD123_BRIGHT</LocID>
+        <Text>İnterlökin-3 reseptörü (CD123) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD123_BRIGHT_DESC</LocID>
+        <Text>İnterlökin-3 reseptörü (CD123), immün sistemde önemli işlev gösteren bir çözünebilir sitokin olan interlökin-3'ün iletiminde rol oynayan, hücrelerde yerleşim gösteren bir moleküldür. Pluripotent progenitör hücrelerde bulunan reseptör, hücre içinde tirozin fosforilasyonunu indükler, proliferasyonu ve hematopoietik hücre dizilerindeki diferansiyasyonu arttırır. CD123, akut myeloid lösemi (AML) alt tiplerinde lösemik kök hücreler dahil olmak üzere eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD123_NEG</LocID>
+        <Text>İnterlökin-3 reseptörü (CD123) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD123_NEG_DESC</LocID>
+        <Text>İnterlökin-3 reseptörü (CD123), immün sistemde önemli işlev gösteren bir çözünebilir sitokin olan interlökin-3'ün iletiminde rol oynayan, hücrelerde yerleşim gösteren bir moleküldür. Pluripotent progenitör hücrelerde bulunan reseptör, hücre içinde tirozin fosforilasyonunu indükler, proliferasyonu ve hematopoietik hücre dizilerindeki diferansiyasyonu arttırır. CD123, akut myeloid lösemi (AML) alt tiplerinde lösemik kök hücreler dahil olmak üzere eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD1a_BRIGHT</LocID>
+        <Text>CD1a antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD1a_BRIGHT_DESC</LocID>
+        <Text>CD1a (diferansiyasyon kümesi 1a) insanlarda CD1A geni tarafından kodlanan bir proteindir. Bu gen, yapısal olarak majör histokompatibilite kompleksi (MHC) proteinleri ile irtibatlı olan ve beta-2-mikroglobulinler ile birlikte heterodimerleri teşkil eden CD1 transmembran glikoprotein ailesinin bir üyesini kodlar. CD1 proteinleri, lipit ve glikolipit antijenlerin T hücrelerine sunulmasına aracılık eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD1a_NEG</LocID>
+        <Text>CD1a antijeni negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD1a_NEG_DESC</LocID>
+        <Text>CD1a (diferansiyasyon kümesi 1a) insanlarda CD1A geni tarafından kodlanan bir proteindir. Bu gen, yapısal olarak majör histokompatibilite kompleksi (MHC) proteinleri ile irtibatlı olan ve beta-2-mikroglobulinler ile birlikte heterodimerleri teşkil eden CD1 transmembran glikoprotein ailesinin bir üyesini kodlar. CD1 proteinleri, lipit ve glikolipit antijenlerin T hücrelerine sunulmasına aracılık eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD5_BRIGHT</LocID>
+        <Text>CD5 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD5_BRIGHT_DESC</LocID>
+        <Text>CD5, T hücrelerinin ve murin B hücrelerinin bir alt tipi olan B-1a'nın yüzeyinde eksprese olan bir diferansiyasyon kümesidir. Bu reseptörlerin insan B hücrelerinde ekspresyonu tartışmalı bir konudur, bir marker olarak kullanılmaları konusunda bir görüş birliği mevcut değildir. CD5, T hücreleri için iyi bir immünohistokimyasal marker'dır, bununla beraber CD3 kadar sensitif değildir. T hücre neoplazilerinin %76'sının CD5'i eksprese ettiği bildirilmiştir, CD3 eksprese etmeyen kronik lenfositik lösemi ve "mantle cell" lenfomalarda da (ikisi de B hücre malignitesidir) bulunması dikkate değerdir. Kutanöz T hücre lenfomasında eksprese edilmez, bu nedenle yokluğu malignite belirteci olarak kullanılabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD7_BRIGHT</LocID>
+        <Text>CD7 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD7_BRIGHT_DESC</LocID>
+        <Text>CD7 (diferansiyasyon kümesi 7) insanlarda CD7 geni tarafından kodlanan bir proteindir. Bu gen, immünoglobulin süperfamilyasının bir üyesi olan bir transmembran proteini kodlar. CD7, timosit ve matür T hücrelerinde bulunur. T hücre etkileşimlerinde ve erken lenfoid gelişimdeki T hücresi-B hücresi etkileşimlerinde önemli bir rol oynar. </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD13_BRIGHT</LocID>
+        <Text>Aminopeptidaz N (CD13) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD13_BRIGHT_DESC</LocID>
+        <Text>Alanil aminopeptidaz (AAP) veya aminopeptidaz N (AP-N) olarak da bilinen membran alanil aminopeptidaz (EC 3.4.11.2) insanlarda ANPEP geni tarafından kodlanan bir enzimdir. Aminopeptidaz N, ince bağırsak ve renal mikrovillus membranında bulunur, ayrıca diğer plazma membranlarında da bulunabilir. İnce bağırsakta bulunan aminopeptidaz N, gastrik ve pankreatik proteazların gerçekleştirdiği hidroliz sonucu oluşan peptitlerin sindiriminde rol oynar. Proksimal tübüler epitel hücrelerindeki ve diğer hücre tiplerindeki fonksiyonu belirsizdir. Bu gendeki defektler çeşitli lösemi ve lenfoma tiplerinin nedeni olarak görülmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD15_BRIGHT</LocID>
+        <Text>Sialyl-Lewis X (CD15) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD15_BRIGHT_DESC</LocID>
+        <Text>Diferansiyasyon kümesi 15s (CD15s) veya evre-spesifik embriyonik antijen 1 (SSEA-1) olarak da bilinen Sialyl LewisX (sLeX), hücre yüzeyinde O-glikanlara bağlı bulunan bir tetrasakkarit karbonhidrattır. Hücreler arası tanıma süreçlerinde önemli bir rol oynadığı bilinmektedir. Yumurtanın spermi çekiminde işlev gösterir. Sialyl-Lewisx fagositoz ve kemotaksiste görev alır, nötrofillerde bulunur; Hodgkin hastalığı, bazı B hücreli kronik lenfositik lösemi, akut lenfoblastik lösemi ve çoğu akut nonlenfositik lösemi hastalarında eksprese edilir. CD15 neredeyse tüm Reed-Sternberg hücrelerinde bulunur, biyopsilerde immünohistokimyasal marker olarak kullanılabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD33_BRIGHT</LocID>
+        <Text>Siglec-3 (CD33) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD33_BRIGHT_DESC</LocID>
+        <Text>CD33 veya Siglec-3 (siyalik asit bağlayıcı Ig-benzeri lektin 3, SIGLEC3, SIGLEC-3, gp67, p67) myeloid seri hücrelerinde eksprese edilen bir transmembran reseptördür. Genelde myeloid spesifik olarak kabul edilir, ancak bazı lenfoid hücrelerde de bulunabilir. CD33, glikoproteinler ve glikolipitler gibi herhangi bir siyalik asit rezidüsüne sahip molekül tarafından uyarılabilir. Bağlanmayla birlikte proteinin sitozolik porsiyonunda bulunan CD33 immünoreseptör tirozin-bazlı inhibisyon motifi (ITIM) fosforile olur ve SHP fosfatazları gibi Src homolog 2 (SH2) domain-içeren proteinler için bağlanma yeri işlevi görür. Neticede hücrenin fagositozunu engelleyen bir kaskad gelişir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD117_BRIGHT</LocID>
+        <Text>Proto-O c-KIT (CD117) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD117_BRIGHT_DESC</LocID>
+        <Text>Tirozin-protein kinaz KIT, CD117 veya mast/kök hücre büyüme faktörü reseptörü olarak da bilinen proto-onkogen c-KIT, insanlarda KIT geni tarafından kodlanan bir reseptör kinaz proteinidir. KIT, kemik iliğindeki bazı hematopoietik progenitörlerin tespitinde kullanılan önemli bir hücresel yüzey marker'ıdır. Hematopoietik kök hücreler (HSC), multipotent progenitörler (MPP) ve ortak myeloid progenitörler (CMP) yüksek düzeyde KIT eksprese ederler. Ortak lenfoid progenitörler (CLP) düşük düzeyde KIT eksprese eder. KIT antikorları immünohistokimyada doku kesitlerindeki farklı tümör tiplerini ayırmada kullanılır. Esasen KIT'e pozitiflik gösteren ama desmin ve S-100 gibi marker'lara negatiflik gösteren GİST'lerin tanısında kullanılır. Desmin ve S-100, benzer bir görünüme sahip düz kas ve nöral tümörlerde pozitiftir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD117_NEG</LocID>
+        <Text>Proto-O c-KIT (CD117) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD117_NEG_DESC</LocID>
+        <Text>Tirozin-protein kinaz KIT, CD117 veya mast/kök hücre büyüme faktörü reseptörü olarak da bilinen proto-onkogen c-KIT, insanlarda KIT geni tarafından kodlanan bir reseptör kinaz proteinidir. KIT, kemik iliğindeki bazı hematopoietik progenitörlerin tespitinde kullanılan önemli bir hücresel yüzey marker'ıdır. Hematopoietik kök hücreler (HSC), multipotent progenitörler (MPP) ve ortak myeloid progenitörler (CMP) yüksek düzeyde KIT eksprese ederler. Ortak lenfoid progenitörler (CLP) düşük düzeyde KIT eksprese eder. KIT antikorları immünohistokimyada doku kesitlerindeki farklı tümör tiplerini ayırmada kullanılır. Esasen KIT'e pozitiflik gösteren ama desmin ve S-100 gibi marker'lara negatiflik gösteren GİST'lerin tanısında kullanılır. Desmin ve S-100, benzer bir görünüme sahip düz kas ve nöral tümörlerde pozitiftir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD38_BRIGHT</LocID>
+        <Text>Siklik ADP RH (CD38) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD38_BRIGHT_DESC</LocID>
+        <Text>Siklik ADP riboz hidrolaz olarak da bilinen CD38; CD4+, CD8+, B lenfositleri ve NK hücreleri dahil pek çok immün hücrenin yüzeyinde bulunan bir glikoproteindir. CD38 hücre adezyonunda, sinyal iletiminde ve kalsiyum sinyal sisteminde rol oynar. CD38 işlev kaybı bozulmuş immün yanıtla, metabolik bozukluklarla ve sosyal amnezi gibi davranışsal modifikasyonlarla irtibatlıdır. CD38 proteini hücre aktivasyonunda marker olarak kullanılır. HIV enfeksiyonuyla, lösemilerle, myelomlarla, solit tümörlerle, tip II diyabetle, kemik metabolizmasıyla ve bazı genetik hastalıklarla irtibatlıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD38_DIM</LocID>
+        <Text>Siklik ADP RH (CD38) sönük ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD38_DIM_DESC</LocID>
+        <Text>Siklik ADP riboz hidrolaz olarak da bilinen CD38; CD4+, CD8+, B lenfositleri ve NK hücreleri dahil pek çok immün hücrenin yüzeyinde bulunan bir glikoproteindir. CD38 hücre adezyonunda, sinyal iletiminde ve kalsiyum sinyal sisteminde rol oynar. CD38 işlev kaybı bozulmuş immün yanıtla, metabolik bozukluklarla ve sosyal amnezi gibi davranışsal modifikasyonlarla irtibatlıdır. CD38 proteini hücre aktivasyonunda marker olarak kullanılır. HIV enfeksiyonuyla, lösemilerle, myelomlarla, solit tümörlerle, tip II diyabetle, kemik metabolizmasıyla ve bazı genetik hastalıklarla irtibatlıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD43_BRIGHT</LocID>
+        <Text>Lökosialin (CD43) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD43_BRIGHT_DESC</LocID>
+        <Text>Sialoforin veya CD43 (diferansiyasyon kümesi 43) olarak da bilinen lökosialin, insanlarda SPN (sialoforin) geni tarafından kodlanan bir transmembran hücre yüzey proteinidir. CD43 molekülündeki defektler Wiskott-Aldrich sendromu gelişimiyle irtibatlıdır. İmmünohistokimyasal yöntemlerle CD43, sağlıklı lenf nodları ve tonsillerdeki parakortikal T hücrelerinde gösterilebilir, ayrıca bazı lenfoid ve myeloid tümörlerde de pozitiftir. T hücre lenfomalarının %90'ından fazlasında bulunmasına rağmen CD3 antijenine kıyasla hastalığı göstermede daha az etkilidir. Ancak B hücreli lenfoblastik lenfomaları göstermede kullanışlı olabilir, zira bu kanserin hücreleri çoğunlukla CD43 pozitiftir ve diğer antikorlarla boyanmayabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD8_BRIGHT</LocID>
+        <Text>CD8 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD8_BRIGHT_DESC</LocID>
+        <Text>CD8 (diferansiyasyon kümesi 8) T hücre reseptörü (TCR) için bir ko-reseptör işlevi gören bir transmembran glikoproteindir. TCR gibi majör histokompatibilite kompleksi (MHC) molekülüne bağlanır, ancak MHC sınıf I proteinine spesifiktir. CD8 ko-reseptörü ekseriyetle sitotoksik T hücrelerinin yüzeyinde eksprese edilir, bununla beraber NK hücrelerinde, kortikal timositlerde ve dendritik hücrelerde de bulunabilr. CD8 molekülü sitotoksik T hücresi popülasyonu için marker olarak kullanılır. T hücreli lenfoblastik lenfoma ve hipo-pigmente mycosis fungoides'te eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD3_BRIGHT</LocID>
+        <Text>CD3 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD3_BRIGHT_DESC</LocID>
+        <Text>CD3 (diferansiyasyon kümesi 3) T hücre ko-reseptörleri, sitotoksik T hücrelerinin (CD8+ naif T hücreleri) ve T helper hücrelerin (CD4+ naif T hücreleri) aktivasyonunu sağlar. CD3 başlarda T hücrelerinin öncülü olan pro-timositlerin sitoplazmasında eksprese edilir. Pro-timosit ortak timositlere, daha sonra medüller timositlere dönüşür, bu evrede CD3 antijeni hücre membranına taşınır. Bu antijen tüm matür T hücrelerinde membranda bulunurken diğer hücrelerde bulunmaz, bununla beraber Purkinje hücrelerinde az miktarda da olsa mevcut oldukları tespit edilmiştir. Bu yüksek spesifisite, CD3'ü doku kesitlerinde T hücreleri için kullanışlı bir immünohistokimyasal marker yapar. CD3 neredeyse tüm T hücreli lenfoma ve lösemilerde mevcudiyetini sürdürür, bu özellik benzer B hücreli ve myeloid neoplazilerden ayırdında önem kazanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD3_NEG</LocID>
+        <Text>CD3 antijeni negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD3_NEG_DESC</LocID>
+        <Text>CD3 (diferansiyasyon kümesi 3) T hücre ko-reseptörleri, sitotoksik T hücrelerinin (CD8+ naif T hücreleri) ve T helper hücrelerin (CD4+ naif T hücreleri) aktivasyonunu sağlar. CD3 başlarda T hücrelerinin öncülü olan pro-timositlerin sitoplazmasında eksprese edilir. Pro-timosit ortak timositlere, daha sonra medüller timositlere dönüşür, bu evrede CD3 antijeni hücre membranına taşınır. Bu antijen tüm matür T hücrelerinde membranda bulunurken diğer hücrelerde bulunmaz, bununla beraber Purkinje hücrelerinde az miktarda da olsa mevcut oldukları tespit edilmiştir. Bu yüksek spesifisite, CD3'ü doku kesitlerinde T hücreleri için kullanışlı bir immünohistokimyasal marker yapar. CD3 neredeyse tüm T hücreli lenfoma ve lösemilerde mevcudiyetini sürdürür, bu özellik benzer B hücreli ve myeloid neoplazilerden ayırdında önem kazanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD16_BRIGHT</LocID>
+        <Text>FcγRIII (CD16) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD16_BRIGHT_DESC</LocID>
+        <Text>FcγRIII olarak da bilinen CD16; NK hücreleri, nötrofiller, monositler ve makrofajların yüzeyinde bulunan bir diferansiyasyon kümesi molekülüdür. CD16, FcγRIIIa ve FcγRIIIb Fc reseptörleri olarak gösterilmiştir, bunlar sinyal iletiminde görev alır. Bu reseptörler IgG antikorlarının Fc porsiyonuna bağlanır, böylelikle insan NK hücrelerindeki antikor bağımlı hücre-aracılıklı sitotoksisite (ADCC) aktive olur. CD16, insan monositlerinde gerçekleşen ADCC süreçleri için gereklidir. İnsanlarda CD16 eksprese eden monositler, spesifik antikor varlığında çeşitli ADCC kabiliyetlerine sahiptir; primer lösemik hücreleri, kanser hücre dizilerini ve hepatit B virüsü ile enfekte hücreleri öldürebilirler. Buna ilaveten CD16 antikor olmaksızın bazı viral enfekte hücreleri ve kanser hücrelerini doğrudan öldürebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD56_BRIGHT</LocID>
+        <Text>NC adezyon molekülü (CD56) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD56_BRIGHT_DESC</LocID>
+        <Text>CD56 olarak da bilinen nöral hücre adezyon molekülü (NCAM) nöronların, glial hücrelerin ve iskelet kası hücrelerinin yüzeyinde eksprese edilen homofilik binding glikoproteinidir. CD56, genellikle keşfedildiği yer dolayısıyla nöral dizi marker'ı olarak kabul edilse de aynı zamanda hematopoietik sistemde de eksprese edilir. Özellikle NK hücreleri ile irtibatlıdır. Anatomik patolojide patologlar CD56'yı bazı tümörleri tespit etmek için kullanır. CD56 pozitif olan tümörler myelom, myeloid lösemi, nöroendokrin tümörler, Wilms tümörü, nöroblastom, ekstranodal NK-T hücreli lenfoma nazal tip, pankreatik asiner hücreli karsinoma, feokromositoma, paraganglioma, küçük hücreli akciğer kanseri ve Ewing sarkoma tümörüdür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_HLADR_BRIGHT</LocID>
+        <Text>HLA-DR parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_HLADR_BRIGHT_DESC</LocID>
+        <Text>HLA-DR, 6. kromozomda 6p21.31 yerleşimli insan lökosit antijen kompleksi tarafından kodlanan bir MHC II sınıfı hücre yüzey reseptörüdür. Genellikle 9 ile 30 amino asit uzunluğunda olan HLA-DR ve peptit kompleksi, T hücre reseptörü için bir ligand teşkil eder.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PANCYTOPENIA</LocID>
+        <Text>Pansitopeni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PANCYTOPENIA_DESC</LocID>
+        <Text>Kan hücrelerinin üç türünde de sayıca azalmayla karakterizedir: eritrositler, lökositler ve plateletler. Pansitopeni genellikle kan hücrelerini üreten kemik iliğindeki bir problemden kaynaklanır. Bununla beraber farklı nedenler etken olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HAIRYCELL</LocID>
+        <Text>"Hairy cell"</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HAIRYCELL_DESC</LocID>
+        <Text>Sitoplazmasında tüye benzer çıkıntılara sahip anormal lökositlere "hairy cell" adı verilir. "Hairy cell" löseminin temel bulgularındandır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_003</LocID>
+        <Text>TRAP enzimi tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_003_DESC</LocID>
+        <Text>Asit fosfataz 5 olarak da bilinen tartrat dirençli asit fosfataz (TRAP veya TRAPaz), memelilerde eksprese olan glikozillenmiş monomerik metaloprotein bir enzimdir. 35 kDa civarında bir moleküler ağırlığa, bazik bir izoelektrik noktaya (7.6-9.5) ve asidik ortamda optimal aktiviteye sahiptir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_08</LocID>
+        <Text>BRAF V600E mutasyonu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_08_DESC</LocID>
+        <Text>B-Raf proto-onkogen (BRAF), mitojen-aktive protein kinaz sinyal iletim yolağında önemli role sahip bir sitoplazmik serin/treonin kinaz'ı kodlar. BRAF geninin kodon 600'ünde ekson 15'teki (V600E) aktive edici missense mutasyon melanom, kolorektal karsinom, papiller tiroid karsinoma, "hairy cell" lösemi ve Langerhans hücre histiositozu gibi neoplazilerde tespit edilmiştir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_09</LocID>
+        <Text>IGHV hipermutasyonu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_09_DESC</LocID>
+        <Text>Ig ağır zincir V-III bölge VH26, insanlarda IGHV@ geni tarafından kodlanan bir proteindir. IGHV, immünoglobulin ağır zincir variable bölge genleridir, kronik lenfositik lösemi gibi B hücre neoplazilerinde IGHV mutasyonları tedaviye daha iyi yanıt ve daha uzun sağkalım ile irtibatlıdır. HCL hastalarının %80-90'ında immünoglobulin ağır zincir variable geninde hipermutasyon bulunmaktadır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC06_0_DETECTED</LocID>
+        <Text>"Hairy cell" lösemi (HCL) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC06_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test "hairy cell" lösemi varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC06_1_DETECTED</LocID>
+        <Text>"Hairy cell" lösemi varyantı (HCL-V) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC06_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test "hairy cell" lösemi varyantı varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_10</LocID>
+        <Text>17p13 delesyonu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_10_DESC</LocID>
+        <Text>Hastanın hücrelerinde yapılan tetkikte 17p13 delesyonu tespit edildi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NECROSIS</LocID>
+        <Text>Nekroz</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NECROSIS_DESC</LocID>
+        <Text>Canlı dokudaki hücrelerin otoliz sonucu prematür ölümüyle sonuçlanan hücre hasarı çeşidine nekroz denir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LPT1</LocID>
+        <Text>Büyük primer tümör tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LPT1_DESC</LocID>
+        <Text>Yapılan testte hastada büyük bir primer tümör tespit edildi, bu kanserin ileri bir evrede olduğuna işaret edebilir.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_LUMP</LocID>
+        <Text>Memede şişlik</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_LUMP_DESC</LocID>
+        <Text>Çevresindeki meme dokusundan farklı hissedilen lokalize şişlik, yumru veya kitledir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_DISCH</LocID>
+        <Text>Meme başı akıntısı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_DISCH_DESC</LocID>
+        <Text>Meme başı akıntısı, meme başından sıvı boşalması anlamına gelir. Sık görülen bir meme semptomudur, çoğunlukla bir problem arz etmez, memenin normal işlevinin bir parçasıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SORE_NIPPLE</LocID>
+        <Text>Meme başı ağrısı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SORE_NIPPLE_DESC</LocID>
+        <Text>Meme başı ağrısı, meme başı ve etrafındaki meme dokusunda duyulan ağrıdır. Meme ağrısı, meme başı akıntısı, memede şişlik veya kitle, kaşıntı ve deride değişiklikler eşlik edebilir. Meme kanseri tipik olarak meme başı ve meme ağrısına neden olmaz.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_SCHANGE</LocID>
+        <Text>Memede şekil değişikliği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_SCHANGE_DESC</LocID>
+        <Text>Hasta memesinde şekil ve boyut değişikliği olduğunu söylüyor.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_DIMP</LocID>
+        <Text>Memede portakal kabuğu görünümü</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_DIMP_DESC</LocID>
+        <Text>Peau d'orange olarak da bilinir, memede oluşan çukurlar portakal kabuğuna benzer bir görünüme neden olur. Bazen deri kızarabilir, inflame olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_PAIN</LocID>
+        <Text>Meme ağrısı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BREAST_PAIN_DESC</LocID>
+        <Text>Memede tariflenen sertlik, hassasiyet veya keskin ağrı sık gözlenir ve genellikle ciddi bir soruna işaret etmez.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SUS_CALC</LocID>
+        <Text>Şüpheli kalsifikasyonlar</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SUS_CALC_DESC</LocID>
+        <Text>Meme kalsifikasyonları kadının meme dokusunda gelişen küçük kalsiyum birikintileridir. Sık görülürler ve genellikle benign mahiyettedirler. Kadında daha çok görülmekle beraber erkeklerde de görülebilir. Bazı meme kalsifikasyonu türleri erken evre meme kanserine işaret edebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IRR_BMASS</LocID>
+        <Text>Düzensiz meme dansitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IRR_BMASS_DESC</LocID>
+        <Text>Mamografide görülen potansiyel anormallik bir nodül, kitle, yumru, yoğunluk veya distorsiyon olabilir. Düzensiz sınırlı veya yıldıza benzer çıkıntılara sahip (spiküler) kitleler kanseröz olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CA153</LocID>
+        <Text>Yüksek CA15-3 düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CA153_DESC</LocID>
+        <Text>Kanser antijeni 15-3 (CA15-3) çeşitli hücrelerce üretilen, ancak özellikle meme kanseri hücrelerinin ürettiği bir proteindir. Bu protein kana geçer ve bu şekilde ölçülebilir. Vücudun diğer kısımlarına yayılmış (metastatik) meme kanseri hastası kadınlarda CA15-3 seviyeleri normalden yüksek tespit edilir. Tüm meme kanserlerinde CA15-3 seviyeleri yükselmez, zira bazı kanser hücresi türleri antijeni aşırı miktarda üretmez.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CA2729</LocID>
+        <Text>Yüksek CA27-29 düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CA2729_DESC</LocID>
+        <Text>Kanser antijeni 27-29 (CA27-29) meme kanseri için kullanılan tümör markerlarından bir tanesidir. Kanser varlığında bu markerlar artar. CA27-29 esasen metastatik meme kanserini takip etmede kullanılır, daha az sıklıkla önceden erken evre meme kanseri olup tedavi edilmiş hastalarda nüks olup olmadığını belirlemede kullanılır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_0_DETECTED</LocID>
+        <Text>Duktal karsinoma in situ tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test in situ mahiyette (köken aldığı yerde ve yayılmamış) duktal karsinoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_11</LocID>
+        <Text>Hatalı BRCA1 geni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_11_DESC</LocID>
+        <Text>BRCA1/2, insan tümör süpresör genidir, DNA tamirinden sorumludur. BRCA1 ve BRCA2 genleri alakasız proteinler olmalarına karşın ikisi de normalde memede ve diğer dokularda eksprese edilirler, hasarlı DNA tamirinde rol oynarlar. BRCA1 veya BRCA2 geni hatalı olan kadınlar yaşam boyu %30-60 oranında meme kanseri, yaklaşık %20 oranında over kanseri olma riski taşırlar. Bununla beraber erken evrede kanser tanısı alabilirler. BRCA1 veya BRCA2 geni hatalı olan erkekler ise artmış prostat kanseri ve meme kanseri olma riskine sahiptir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HRM_01</LocID>
+        <Text>Östrojen reseptör pozitifliği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HRM_01_DESC</LocID>
+        <Text>Bir kanser östrojene özgü reseptör içeriyorsa östrojen reseptör pozitifliğine sahiptir. Bu özellik, kanser hücrelerinin tıpkı sağlıklı meme hücrelerinde olduğu gibi östrojen sinyali aldığında büyümelerinde artış gözleneceği anlamına gelir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HRM_02</LocID>
+        <Text>Progesteron reseptör pozitifliği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HRM_02_DESC</LocID>
+        <Text>Bir kanser progesterona özgü reseptör içeriyorsa progesteron reseptör pozitifliğine sahiptir. Bu özellik, kanser hücrelerinin progesteron sinyali aldığında büyümelerinde artış gözleneceği anlamına gelir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD340_NEG</LocID>
+        <Text>HER2/neu (CD340) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD340_NEG_DESC</LocID>
+        <Text>CD340, proto-onkogen Neu, Erbb2 olarak da bilinen reseptör tirozin-protein kinaz erbB-2, insanlarda ERBB2 geni tarafından kodlanan bir proteindir. ERBB, eritroblastik onkogen B'nin kısaltmasıdır, kuş genomundan izole edilmiştir. HER2 veya HER2/neu da denir. İnsan epidermal büyüme faktörü reseptörü (HER/EGFR/ERBB) familyasının bir mensubudur. Bu onkogenin aşırı ekspresyonu veya amplifikasyonu, bazı agresif meme kanseri türlerinin gelişmesinde ve ilerlemesinde önemli rol oynamaktadır. Yakın zamanda meme kanseri hastalarının yaklaşık %30'unda kullanılan önemli bir biyomarker ve terapi hedefi olmuştur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD340_POS</LocID>
+        <Text>HER2/neu (CD340) mutasyonu pozitif</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD340_POS_DESC</LocID>
+        <Text>CD340, proto-onkogen Neu, Erbb2 olarak da bilinen reseptör tirozin-protein kinaz erbB-2, insanlarda ERBB2 geni tarafından kodlanan bir proteindir. ERBB, eritroblastik onkogen B'nin kısaltmasıdır, kuş genomundan izole edilmiştir. HER2 veya HER2/neu da denir. İnsan epidermal büyüme faktörü reseptörü (HER/EGFR/ERBB) familyasının bir mensubudur. Bu onkogenin aşırı ekspresyonu veya amplifikasyonu, bazı agresif meme kanseri türlerinin gelişmesinde ve ilerlemesinde önemli rol oynamaktadır. Yakın zamanda meme kanseri hastalarının yaklaşık %30'unda kullanılan önemli bir biyomarker ve terapi hedefi olmuştur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SPEC_MARG</LocID>
+        <Text>Spiküllü lezyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SPEC_MARG_DESC</LocID>
+        <Text>Spiküle kenarlar gerçek malignite bulgusudur. Kitleden dışarıya doğru uzanan doku demetleri yıldız görünümüne neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_1_DETECTED</LocID>
+        <Text>İnvaziv duktal karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test invaziv duktal karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD44v6_BRIGHT</LocID>
+        <Text>CD44v6 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD44v6_BRIGHT_DESC</LocID>
+        <Text>CD44v6, CD44 transmembran glikoprotein ailesinin bir izoformudur. Epitelyal kanserdeki yüksek CD44v6 ekspresyonu tümör büyümesi, invazyon, metastaz ve nüks ile koreledir. CD44v6, reseptör tirozin kinazları c-Met, RON ve VEGFR-2'nin ko-reseptörüdür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_12</LocID>
+        <Text>GATA3 mutasyon bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_12_DESC</LocID>
+        <Text>GATA3, insanlarda GATA3 geni tarafından kodlanan bir transkripsiyon faktörüdür. Pek çok dokunun embriyonel gelişiminde kritik rol oynadığı gibi kan damarlarının endotelinin muntazam fonksiyonu, inflamatuar ve humoral immün yanıt için de önem arz eder. Meme hücrelerindeki GATA3 proteininin immünositokimyasal analizi, primer meme kanserinin teşhisinde değerli bir markerdır, vakaların %94'üne yakınında pozitiftir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_2_DETECTED</LocID>
+        <Text>Metastatik meme kanseri tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik meme kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_HEMOPTYSIS2</LocID>
+        <Text>Ciddi hemoptizi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_HEMOPTYSIS2_DESC</LocID>
+        <Text>Hemoptizi; bronşlar, larinks, trakea veya akciğerler kaynaklı kan veya kanlı mukus öksürmeye denir. Bir diğer deyişle hava yolu kanamasıdır. Hemoptizi akciğer kanserinde; tüberküloz, bronşit veya pnömoni gibi enfeksiyonlarda ve bazı kardiyovasküler hastalıklarda görülebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_INC_INTRAPRE</LocID>
+        <Text>Artmış intrakranial basınç</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_INC_INTRAPRE_DESC</LocID>
+        <Text>Artmış intrakranial basınç (AİP) beyin çevresinde basıncın artması anlamına gelir. Beyni çevreleyen sıvı miktarındaki artışa bağlı olabilir. Normalde beyni bir yastık gibi saran serebrospinal sıvı miktarındaki artış yahut bir hasara veya tümör rüptürüne bağlı beyinde kan miktarının artmasından kaynaklanabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BRAIN_ABW</LocID>
+        <Text>Anormal beyin dalgası paterni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BRAIN_ABW_DESC</LocID>
+        <Text>EEG, anormal beyin dalgası paterni tespit etti. Belirli bir yerde lokalize ani sıçrama, keskin dalga veya sıçrama-dalga kompleksleri beyin tümörünün erken evrelerinde bazen gözlemlenebilir. Nöbetlerin eşlik ettiği yavaş büyüyen neoplazilerde ve fokal yavaşlamadan sonra daha sık görülür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LPT2</LocID>
+        <Text>Anormal kitle tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LPT2_DESC</LocID>
+        <Text>Yapılan test hastada anormal bir kitle tespit etti. Malignite olup olmadığını, malignite ise tipi ve progresyonunu tespit etmek için ileri tetkik gerekmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_0_DETECTED</LocID>
+        <Text>Pilositik astrositom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test pilositik astrositom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_13</LocID>
+        <Text>Nörofibromatozis tip I (NF-1) bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_13_DESC</LocID>
+        <Text>Nörofibromatozis tip I (NF-1) pek çok hücrenin normal fonksiyonunu sağlaması için gerekli nörofibromin proteininin üretiminden sorumlu 17. kromozom üzerindeki bir genin mutasyonu sonucu gelişen kompleks bir multisistem hastalıktır. Hastaların yaklaşık %10'unda merkezi sinir sistemi (MSS) tümörleri bulunur. Bunlardan en sık görülenleri hipotalamik-optik glioma, beyin sapı ve serebellar pilositik astrositomlardır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_EGB</LocID>
+        <Text>Eozinofilik granüler cisimler</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_EGB_DESC</LocID>
+        <Text>Eozinofilik granüler cisimlerin sık görülmesi, yüksek dereceli bir neoplazinin düşük dereceli bir neoplaziye dönüşmeyeceğini gösteren kullanışlı bir ipucudur, pleomorfik ksantoastrositom ve pilositik astrositom'da görülür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SL_ABSCESS</LocID>
+        <Text>Abse</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_FND</LocID>
+        <Text>Fokal nörolojik defisit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_FND_DESC</LocID>
+        <Text>Fokal nörolojik defisit sinir, spinal kord veya beyin fonksiyonu ile alakalı bir problemi ifade eder. Yüzün sol tarafı, sağ kol veya dilin küçük bir bölgesi gibi spesifik lokasyonları etkiler. Konuşma, görme ve duyma problemleri de fokal nörolojik defisit kabul edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMD</LocID>
+        <Text>Kalsifiye mineral birikintileri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMD_DESC</LocID>
+        <Text>Beyin taşları veya serebral taşlar büyük solit intrakranial kalsifikasyonlar olarak ifade edilir. Pek çoğu benign kabul edilse de bu kalsiyum fosfat birikintileri büyüyerek nöbetten parkinsonian semptomlara kadar değişen farklı nörolojik belirtilere neden olabilir. Distrofik kalsifikasyonlar genellikle travma, ameliyat, inme veya radyasyon terapisi gibi beyin tahribatının olduğu yerlerde görülür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DYSPHASIA</LocID>
+        <Text>Disfazi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_14</LocID>
+        <Text>Li-Fraumeni sendromu (LFS)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_14_DESC</LocID>
+        <Text>Li-Fraumeni sendromu (LFS) bazı kanserlere olan kalıtsal familyal yatkınlığı belirtir. TP53 tümör süpresör genindeki mutasyondan kaynaklanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DYSPHASIA_DESC</LocID>
+        <Text>Disfazi, beyin hastalığı veya hasarına bağlı olarak konuşmadaki, bazen ayrıca konuşmanın anlaşılmasındaki bozukluğu ifade eder.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_MCRO_CYSTS</LocID>
+        <Text>Mikrokist</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_MCRO_CYSTS_DESC</LocID>
+        <Text>Mikrokist, oldukça küçük bir kisti ifade eder. Kistler anormal, sıvı veya yarı katı bir madde ile dolu sıklıkla nonkanseröz büyümeyi belirtir, bazen ağrıya neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_1_DETECTED</LocID>
+        <Text>Diffüz astrositom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test diffüz astrositom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_KI67_LLI</LocID>
+        <Text>Düşük Ki-67 işaretleme indeksi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_KI67_LLI_DESC</LocID>
+        <Text>Antijen KI-67, MKI67 olarak da bilinen Ki-67, insanlarda MKI67 geni tarafından kodlanan bir proteindir. Ki-67, hücre popülasyonundaki büyüme fraksiyonunu belirleme açısından mükemmel bir marker'dır. Ki-67 pozitif tümör hücreleri fraksiyonu (Ki-67 işaretleme indeksi) genellikle kanserin klinik seyri ile koreledir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_KI67_BLI</LocID>
+        <Text>Yüksek Ki-67 işaretleme indeksi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_2_DETECTED</LocID>
+        <Text>Anaplastik astrositom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test anaplastik astrositom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_15</LocID>
+        <Text>Heterozigosite kaybı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_15_DESC</LocID>
+        <Text>10q kromozom kolundaki heterozigosite kaybı primer ve sekonder glioblastomlarda en sık görülen gen alterasyonudur, vakaların %60-90'ında gelişir. Bu mutasyon glioblastoma multiforme'ye spesifiktir ve diğer tümör derecelerinde nadir görülür. Kötü sağkalım ile irtibatlıdır. 10q kolundaki heterozigosite kaybına ek olarak bir veya iki gen mutasyonu sık gözlenir ve glioblastom gelişiminde büyük rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_16</LocID>
+        <Text>PDGFR aşırı ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_16_DESC</LocID>
+        <Text>Platelet kaynaklı büyüme faktörü (PDGF) hücre büyüme ve bölünmesini düzenleyen çok sayıda büyüme faktöründen biridir. PDGF özellikle kan damarı oluşumunda, önceden bulunan kan damarı dokusundan yeni damarların teşekkülünde, mitogenezde ve mezenkimal hücrelerin proliferasyonunda önemli rol oynar. Onkoloji'de PDGF geni, PDGF reseptörlerine (PDGFR) bağlanarak glial hücreler için majör mitojen vasfı taşır. PDGFR'nin aşırı ekspresyonu veya amplifikasyonu sekonder glioblastom yolağı için tipiktir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_017</LocID>
+        <Text>IDH1/IDH2 negatif mutasyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DYSPAREUNIA</LocID>
+        <Text>Disparöni (kadında)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DYSPAREUNIA_DESC</LocID>
+        <Text>Ağrılı cinsel ilişki, yapısal problemlerden kaynaklanabileceği gibi psikolojik nedenlere bağlı da olabilir. Pek çok kadın hayatlarının belli bir noktasında disparöni yaşar. Birleşmeden önce, sonra veya birleşme sırasında duyulan persistan veya rekürren ağrı olarak tanımlanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CA125</LocID>
+        <Text>Yüksek CA-125 düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CA125_DESC</LocID>
+        <Text>CA-125 insanlarda MUC16 geni tarafından kodlanan bir proteindir. MUC16, müsin glikoprotein ailesinin bir üyesidir. CA-125 testi kandaki CA-125 (kanser antijeni 125) proteini düzeylerini ölçer. Bazı kanserlerin tedavi öncesi ve sonrasında takip için kullanılabilir. Over kanseri için yüksek risk taşıyan kadınlarda erken bulguları tespit etmek için kullanılır. Over kanserinde düzeyleri artar. Premenopozal kadınlarda kanser dışındaki pek çok hastalık CA-125 düzeylerini arttırabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_OVAC1_0F_DETECTED</LocID>
+        <Text>Yüksek dereceli seröz karsinom (YDSK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_OVAC1_0F_DETECTED_DESC</LocID>
+        <Text>Yapılan test yüksek dereceli seröz karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_EARLY_SAT</LocID>
+        <Text>Erken doygunluk</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_EARLY_SAT_DESC</LocID>
+        <Text>Erken doygunluk, yemeğin tamamını yiyememe veya biraz yedikten sonra tok hissetme halidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PMPB</LocID>
+        <Text>Postmenopozal kanama</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PMPB_DESC</LocID>
+        <Text>Postmenopozal kanama, hormon terapisi almayan kadında 1 yıllık amenore halinden sonra meydana gelen kanamadır. Düzenli progesteron ve östrojen alan kadınlarda normal olarak ilk altı ayda düzensiz vajinal kanama görülebilir. Postmenopozal kanamanın pek çok nedeni vardır. En sık görülenleri vajinayı çevreleyen hücrelerin (atrofik vajinit) veya rahmi çevreleyen hücrelerin inflamasyonu ve incelmesidir (endometrial atrofi), düşük östrojen düzeylerinden kaynaklanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IRR_MNS</LocID>
+        <Text>Düzensiz menstrüasyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IRR_MNS_DESC</LocID>
+        <Text>Geçmiş, gecikmiş, düzensiz veya anormal paternlerde kanamaya denir. Herhangi bir hastalıktan kaynaklanmıyor olabilir. Düzensiz kanamaya dair aile öyküsü, menopoz veya menarş, fiziksel stres, psikolojik stres, sigara içme ve bazı ilaçların yan etkileri buna örnektir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_APM</LocID>
+        <Text>Anormal pelvik kitle tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_APM_DESC</LocID>
+        <Text>Pelvik bölgede şişkinliği ifade eder. Pelvik kitlelerin çoğunluğu rutin jinekolojik veya fizik muayenede tespit edilir. Serviks, uterus, adneks gibi jinekolojik organlardan kaynaklanabileceği gibi bağırsaklar, mesane, üreter, böbrekler gibi pelvik organlara bağlı da olabilir. Pelvik kitle ile sonuçlanabilecek pek çok jinekolojik problem mevcuttur. Çoğunluğu ovaryen kist gibi benigndir, bununla beraber jinekolojik bir kanserle irtibatlı olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_OVAR_CYST</LocID>
+        <Text>Anormal pelvik kitle tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_OVAR_CYST_DESC</LocID>
+        <Text>Ovaryen kistler, overin içinde veya yüzeyinde bulunan içi sıvı dolu keselerdir. Çoğunluğu belirti vermez. Bazı vakalarda menstrüal düzensizlikler, disparöni veya düzensiz bağırsak hareketleri eşlik edebilir. Çoğu over kisti zararsızdır ve tedavi verilmeksizin kendiliğinden düzelir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_OVAC1_1F_DETECTED</LocID>
+        <Text>Düşük dereceli seröz karsinom (DDSK) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_OVAC1_1F_DETECTED_DESC</LocID>
+        <Text>Yapılan test düşük dereceli seröz karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_004</LocID>
+        <Text>Mikropapiller invazyon paterni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_004_DESC</LocID>
+        <Text>Mikropapiller patern, fibrovasküler kor olmaksızın mikropapiller yapıların görünmesi olarak tanımlanır. Over, meme ve mesane kanserinde körü prognoz ile irtibatlı olduğu bilinmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_005</LocID>
+        <Text>Psammom cismi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_005_DESC</LocID>
+        <Text>Psammom cismi yuvarlak, mikroskopik kalsifikasyon birikintileridir. İyi diferansiye seröz karsinomda sık görülür, servikovajinal sitolojide malign glandüler hücrelerle irtibatlı olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_18</LocID>
+        <Text>BRAF V599E mutasyonu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_18_DESC</LocID>
+        <Text>B-Raf proto-onkogeni (BRAF) mitojen-aktive protein kinaz sinyal iletim yolağında kilit rol oynayan bir sitoplazmik serin/treonin kinaz'ı kodlar. BRAF geni mutasyonları benign ve malign melanositik lezyonlarda bulunur, %90'ından fazlası V599E mutasyonudur. Bu mutasyon aktif kinaz faaliyetine ve in vitro artmış koloni oluşumuna neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ASCITES</LocID>
+        <Text>Asit</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ASCITES_DESC</LocID>
+        <Text>Sıklıkla karaciğer hastalığına bağlı olarak gelişen abdomende sıvı birikmesidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PLEURAL_EFFUSION</LocID>
+        <Text>Plevral efüzyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PLEURAL_EFFUSION_DESC</LocID>
+        <Text>Plevral efüzyon, akciğerleri çevreleyen plevra zarları arasında aşırı sıvı birikmesi demektir. Plevra, lübrikasyonda ve nefes alıp vermede rol oynar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD146_BRIGHT</LocID>
+        <Text>MCAM (CD146) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD146_BRIGHT_DESC</LocID>
+        <Text>Melanom hücresi adezyon molekülü (MCAM) çeşitli tümörlerde anormal olarak eksprese olan ve metastaz ile yakından irtibatlı bir hücre adezyon molekülüdür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK7_BRIGHT</LocID>
+        <Text>Keratin 7 (CK7) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK7_BRIGHT_DESC</LocID>
+        <Text>Keratin insanlarda KRT7 geni tarafından kodlanan bir proteindir. Keratin-7 basit glandüler epitelde ve tranzisyonel epitelde bulunur. Akciğerin ve memenin epitel hücreleri keratin-7 içerir, ancak kolon ve prostat gibi bazı organların glandüler epitel hücreleri keratin-7 içermez. Bu antijen hem sağlıklı hem de neoplastik hücrelerde bulunduğu için CK7 antikorları ovaryen ve tranzisyonel hücre karsinomlarını kolon ve prostat kanserlerinden ayırmak için immünohistokimyasal olarak kullanılır. Bu amaçla kullanılırken genelde CK20 de teste dahil edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK7_NEG</LocID>
+        <Text>Keratin 7 (CK7) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK7_NEG_DESC</LocID>
+        <Text>Keratin 7 insanlarda KRT7 geni tarafından kodlanan bir proteindir. Keratin-7 basit glandüler epitelde ve tranzisyonel epitelde bulunur. Akciğerin ve memenin epitel hücreleri keratin-7 içerir, ancak kolon ve prostat gibi bazı organların glandüler epitel hücreleri keratin-7 içermez. Bu antijen hem sağlıklı hem de neoplastik hücrelerde bulunduğu için CK7 antikorları ovaryen ve tranzisyonel hücre karsinomlarını kolon ve prostat kanserlerinden ayırmak için immünohistokimyasal olarak kullanılır. Bu amaçla kullanılırken genelde CK20 de teste dahil edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK20_BRIGHT</LocID>
+        <Text>Keratin 20 (CK20) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK20_BRIGHT_DESC</LocID>
+        <Text>Keratin 20 insanlarda KRT20 geni tarafından kodlanan bir proteindir. İmmünohistokimyasal olarak CK20 antikorları, CK20 proteinini içeren epitelden köken alan adenokarsinomları tespit etmede ve ayırt etmede kullanılır. Bu protein kolorektal kanser, tranzisyonel hücreli karsinom ve Merkel hücreli karsinom'da bulunurken akciğer kanserinde, prostat kanserinde ve non-müsinöz over kanserinde bulunmaz. Bu kanserleri ayırt etmek için kullanılırken genellikle CK7 teste dahil edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK20_NEG</LocID>
+        <Text>Keratin 20 (CK20) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CK20_NEG_DESC</LocID>
+        <Text>Keratin 20 insanlarda KRT20 geni tarafından kodlanan bir proteindir. İmmünohistokimyasal olarak CK20 antikorları, CK20 proteinini içeren epitelden köken alan adenokarsinomları tespit etmede ve ayırt etmede kullanılır. Bu protein kolorektal kanser, tranzisyonel hücreli karsinom ve Merkel hücreli karsinom'da bulunurken akciğer kanserinde, prostat kanserinde ve non-müsinöz over kanserinde bulunmaz. Bu kanserleri ayırt etmek için kullanılırken genellikle CK7 teste dahil edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_17</LocID>
+        <Text>IDH1/IDH2 negatif bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_17_DESC</LocID>
+        <Text>İzositrat dehidrogenaz (IDH), trikarboksilik asit (TCA) döngüsünde izositrat'ın α-ketoglutarat'a (α-KG) dönüşümünde rol oynayan kilit bir enzimdir. IDH mutasyonu neomorfik bir enzim oluşturur, buna bağlı anormal R-2-HG akümülasyonu ve lökomogenez lehine değişim gerçekleşebilir. Akut myeloid lösemi (AML) hastalarının %20'sinde IDH mutasyonu mevcuttur, esasen IDH1 R132, IDH2 R140, ve IDH2 R172'yi içerir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_3_DETECTED</LocID>
+        <Text>Glioblastom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BRAC01_3_DETECTED_DESC</LocID>
+        <Text>Yapılan test glioblastom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PSA_BL_DETECTED</LocID>
+        <Text>Yüksek PSA düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_PSA_BL_DETECTED_DESC</LocID>
+        <Text>Prostat spesifik antijen (PSA) sadece prostat tarafından üretilen bir glikoproteindir. Semeni akışkanlaştırır. Az miktarda kan dolaşımına geçer, bu şekilde ölçülebilir. PSA doku spesifik olmakla beraber kansere spesifik değildir. Benign prostat hiperplazisi (BPH), prostatit, üriner yol enfeksiyonu ve prostatik infarkt gibi hastalıklarda da düzeyleri artar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DYSORGASMIA</LocID>
+        <Text>Disorgazmi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DYSORGASMIA_DESC</LocID>
+        <Text>Disorgazmi, cinsel birleşme sırasında duyulmayıp orgazm sırasında duyulan ağrı olarak tanımlanır. Sıklıkla pelviste, kalçada yahut abdomende kramp şeklinde bir his olarak tariflenir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_APM1</LocID>
+        <Text>Anormal prostat bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_APM1_DESC</LocID>
+        <Text>Yapılan test hastanın prostatında anormallik saptadı.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_0M_DETECTED</LocID>
+        <Text>Prostat kanseri (Evre I) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_0M_DETECTED_DESC</LocID>
+        <Text>Yapılan test evre I prostat kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_1M_DETECTED</LocID>
+        <Text>Prostat kanseri (Evre II) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_1M_DETECTED_DESC</LocID>
+        <Text>Yapılan test evre II prostat kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_2M_DETECTED</LocID>
+        <Text>Prostat kanseri (Evre III) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_2M_DETECTED_DESC</LocID>
+        <Text>Yapılan test evre III prostat kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_3M_DETECTED</LocID>
+        <Text>Prostat kanseri (Evre IV) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_PROC1_3M_DETECTED_DESC</LocID>
+        <Text>Yapılan test evre IV prostat kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DIFF_URINE</LocID>
+        <Text>Üriner retansiyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_DIFF_URINE_DESC</LocID>
+        <Text>İdrar yapmada ve mesaneyi tamamen boşaltmada zorluk yaşamak olarak tanımlanır. Altta yatan hastalığa bağlı olmayabilir, bilinçli bir şekilde idrarını tutma veya bazı ilaçların yan etkileri retansiyona neden olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NIGHT_URGE</LocID>
+        <Text>Gece sık idrara çıkma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NIGHT_URGE_DESC</LocID>
+        <Text>Geceleri sık idrara kalkmaya noktüri denir. Enürezisten farklıdır, enüreziste kişi uykusundan uyanamaz ve yatağını ıslatır. Noktürü özellikle ileri yaşta erişkinlerde sık görülen bir uykusuzluk nedenidir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_UAS_PCA3</LocID>
+        <Text>Yüksek PCA3 düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_UAS_PCA3_DESC</LocID>
+        <Text>Prostat kanser antijeni 3 (PCA3) prostatik tümörlerde yüksek oranda eksprese edilir. Yapılan testte idrarda yüksek düzeyde PCA3 tespit edildi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_UAS_PCA3</LocID>
+        <Text>Yüksek PCA3 düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_UAS_PCA3_DESC</LocID>
+        <Text>Prostat kanser antijeni 3 (PCA3) prostatik tümörlerde yüksek oranda eksprese edilir. Yapılan testte idrarda yüksek düzeyde PCA3 tespit edildi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ED</LocID>
+        <Text>Erektil disfonksiyon</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ED_DESC</LocID>
+        <Text>Erektil disfonksiyon (ED) cinsel birleşmeye imkan verebilecek sertlikte ereksiyon sağlayamamaya denir. Empotans olarak da bilinir ancak bu terim artık sık kullanılmamaktadır. ED az görülen bir durum değildir, pek çok erkek stres varlığında deneyimleyebilir. Lokalize prostat kanseri tedavi için yapılan radikal prostatektomi sonrası görülen erektil disfonksiyon cerrahinin bilinen potansiyel bir komplikasyonudur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEMATOSPERMIA</LocID>
+        <Text>Hematospermi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEMATOSPERMIA_DESC</LocID>
+        <Text>Hematospermi, semende kan bulunmasıdır. Önemli bir sorun teşkil etmese de deneyimleyen kişide tedirginlik yaratabilir. Sık görülür, pek çoğu gözden kaçabilir, bu nedenle prevalansı tam olarak bilinmemektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERCALCEMIA</LocID>
+        <Text>Hiperkalsemi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>
+        <Text>Hiperkalsemi, kanda bulunan kalsiyum düzeylerinin normalin üstünde olmasıdır. Sıklıkla paratiroit bezlerinin aşırı aktivitesi veya kanserinden kaynaklanır. Hiperkalsemi vücuttaki pek çok sistemi etkileyebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>
+        <Text>Ciddi hiperkalsemi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>
+        <Text>Ciddi hiperkalsemi, ivedi tedavi gerektiren tıbbi bir acildir. Hiperkalsemi, kanda bulunan kalsiyum düzeylerinin normalin üstünde olmasıdır. Nadiren ciddi hiperkalsemi kalbin işlevini bozarak palpitasyon ve bayılmaya, kardiyak aritmiye ve diğer kalp sorunlarına neden olabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_OVAC1_2F_DETECTED</LocID>
+        <Text>Metastatik over kanseri tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_OVAC1_2F_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik over kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD13_NEG</LocID>
+        <Text>Aminopeptidaz N (CD13) negatif ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD30_BRIGHT</LocID>
+        <Text>CD30 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD30_BRIGHT_DESC</LocID>
+        <Text>CD30, tümör nekrozis faktör reseptör ailesi üyesi bir hücre membran proteini ve tümör marker'ıdır. Aktive olmuş T ve B hücrelerinde eksprese edilir. TRAF2 ve TRAF5 bu reseptör ile etkileşime girebilir ve NF-kappaB aktivasyonuna neden olan sinyal iletimine aracılık edebilir. CD30, anaplastik büyük hücreli lenfoma ile irtibatlıdır. Seminomda eksprese edilmez, embriyonel karsinomda eksprese edilir, bu nedenle bu iki germ hücreli tümörün ayırt edilmesinde kullanışlı bir marker'dır. CD30 ve CD15 ayrıca Hodgkin lenfoma için tipik olan Reed-Sternberg hücrelerinde eksprese edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC07_0_DETECTED</LocID>
+        <Text>Diffüz büyük B hücreli lenfoma tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC07_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test diffüz büyük B hücreli lenfoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD45_BRIGHT</LocID>
+        <Text>PTPRC (CD45) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD45_BRIGHT_DESC</LocID>
+        <Text>Protein tirozin fosfataz, reseptör tip C, insanlarda PTRC geni tarafından kodlanan bir enzimdir. CD45 antijeni olarak da bilinir. Hematopoiez sinyal iletimi regülasyonunda etkili tirozin fosfataz aktivitesine sahiptir. Değişime uğramamış hematopoietik hücrelerin üzerinde bulunan lipit yığınları ile normalde kolokalize olmazlar, ancak bu durum akut myeloid lösemiye onkogenik transformasyonda değişir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_19</LocID>
+        <Text>IGH-BCL2 translokasyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_19_DESC</LocID>
+        <Text>Foliküler lenfomanın alametifarikasıdır. t(14; 18)(q32; q21) şeklinde 14. kromozomdaki IgH lokusu ile 18. kromozomdaki BCL2 geni transloke olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_20</LocID>
+        <Text>BCL6 (3q27) hipermutasyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_20_DESC</LocID>
+        <Text>B hücreli lenfoma 6 proteini, insanlarda BCL6 geni tarafından kodlanan bir proteindir. BCL2, BCL3, BCL5, BCL7A, BCL9 ve BCL10 gibi BCL6 da lenfomada klinik öneme sahiptir. N-terminal POZ/BTB domain'i taşır, evrimsel olarak korunmuş bir "zinc finger" transkripsiyon faktörüdür. Transkripsiyonun sekans-spesifik bir baskılayıcısıdır, B hücrelerinin STAT-bağımlı interlökin 4 (IL-4) yanıtını düzenlediği gösterilmiştir. Transkripsiyonu inhibe etmek üzere çeşitli korepresör kompleksler ile etkileşime girebilir. Diffüz büyük B hücreli lenfoma'da sıklıkla transloke ve hipermutasyona tabi olmuş şekilde tespit edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC08_0_DETECTED</LocID>
+        <Text>Foliküler lenfoma tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC08_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test foliküler lenfoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_BLC2_BRIGHT</LocID>
+        <Text>BCL2 parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_BLC2_BRIGHT_DESC</LocID>
+        <Text>Bcl-2, insanlarda BCL2 geni tarafından kodlanan, apoptozu düzenleyen Bcl-2 regülatör protein ailesinin esas üyesidir. Bcl-2 antikorları immünohistokimyasal olarak antijeni içeren hücreleri tespit etmek için kullanılabilir. Sağlıklı dokuda bu antikorlar B hücreleri ve bazı T hücreleri ile manto zonunda reaksiyon verir. Bununla beraber foliküler lenfoma ve diğer bazı kanser türlerinde pozitif hücre sayısı önemli ölçüde artış gösterir. Bazı vakalarda Bcl-2 boyamasının varlığı veya yokluğu hastalığın prognozu ve nüks ihtimali için önem teşkil edebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_DGP</LocID>
+        <Text>Diffüz büyüme paterni</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_DGP_DESC</LocID>
+        <Text>Nodüler ve/veya diffüz hücresel büyüme paterni görülüyor.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC4_0_DETECTED</LocID>
+        <Text>Merkel hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC4_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test lokal Merkel hücreli karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ABNORMAL_NODULE</LocID>
+        <Text>Anormal renkli nodül</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ABNORMAL_NODULE_DESC</LocID>
+        <Text>Hastanın derisinde anormal kırmızı-mor renkte bir nodül (yumru) bulunuyor.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_MCP_VIR</LocID>
+        <Text>Merkel hücreli polyomavirus bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_MCP_VIR_DESC</LocID>
+        <Text>Merkel hücreli polyomavirus (MCV veya MCPyV) ilk olarak Ocak 2008'de Pennsylvania, Pittsburgh'de tanımlandı. Dijital transkriptom substraksiyon adı verilen bir teknikle tespit edilen ilk viral patojendir. MCV, halihazırda bilinen 7 insan onkovirüsünden biridir. Virüsün klinik tespiti halen araştırma safhasındadır ve klinik test olarak kullanıma sunulmamıştır. Viral DNA'nın tespiti PCR veya FISH yöntemleri ile sağlanır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_MCP_VIR_EL</LocID>
+        <Text>Elektron mikroskobu MCV bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_MCP_VIR_EL_DESC</LocID>
+        <Text>MCV VLP'nin 50.000 kez büyütülerek oluşturulmuş transmisyon elektron mikroskopisi, karakteristik polyomaviral ikozahedral kapsit yapılarını ortaya koydu. Bu bulgu Merkel hücreli polyomavirus'e işaret etmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC4_1_DETECTED</LocID>
+        <Text>Merkel hücreli karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC4_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik Merkel hücreli karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC09_0_DETECTED</LocID>
+        <Text>Mantle hücreli lenfoma tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC09_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test mantle hücreli lenfoma varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_006</LocID>
+        <Text>Siklin D1 aşırı üretimi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_006_DESC</LocID>
+        <Text>Siklin D1 hücre siklusunu düzenleyen bir proteindir. G0 ve G1 fazları arasındaki geçişi sağlar. Normal dokularda bulunan epitelyal hücreler, endotelyal hücreler ve stromal hücreler siklin D1 pozitif niteliktedir, buna bağlı olarak da hücre siklusuna dahillerdir. Siklin D1 geninin ve IgH'nin dahil olduğu t(11;14) translokasyonu sonucu mantle hücreli lenfomaların ekseriyeti siklin D1'i aşırı miktarlarda üretir. Bu özellik düşük dereceli B hücreli lenfomaların sınıflandırılmasında kullanılır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_21</LocID>
+        <Text>IGH/CCND1 translokasyon bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_21_DESC</LocID>
+        <Text>IGH gen yeniden düzenlemeleri çok sayıda kanserle irtibatlı klasik sitogenetik gen değişimlerinden biridir. t(11;14)(q13;q32) translokasyonu tipik olarak mantle hücreli lenfoma'nın (MCL) alametifarikası kabul edilir.</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_SPC</LocID>
+        <Text>Tuz-biber kromatini</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_SPC_DESC</LocID>
+        <Text>Patolojide tuz-biber kromatini ışık mikroskobunda görülen granüler kromatini ifade eder. Tipik olarak medüller tiroit karsinomu, nöroendokrin tümörler ve feokromositoma gibi endokrin tümörlerde görülür.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_LSAC</LocID>
+        <Text>Büyük anaplastik hücreler</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_LSAC_DESC</LocID>
+        <Text>Anaplastik hücreler belirgin pleomorfizm (şekilde çeşitlilik) gösteren hücrelerdir. Nükleusları aşırı derecede hiperkromatik (koyu boyanmış) ve büyüktür. Nükleus-sitoplazma oranı normal değerler olan 1:4 veya 1:6 yerine 1:1'e yaklaşmıştır. Anaplastik nükleuslar boyut ve şekilde oldukça çeşitlilik gösterir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC2_0_DETECTED</LocID>
+        <Text>Büyük hücreli akciğer kanseri tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC2_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test büyük hücreli akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_007</LocID>
+        <Text>Tiroit transkripsiyon faktörü 1 pozitif</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_007_DESC</LocID>
+        <Text>Tiroit transkripsiyon faktörü 1 (TTF-1) insanlarda NFX2-1 geni tarafından kodlanan bir proteindir. TTF-1 pozitif hücreler akciğerde bulunan tip II pnömositler ve club hücreleridir. Akciğer kanserlerinde adenokarsinomlar genellikle TTF-1 pozitiftir, skuamöz hücreli karsinomlar ve büyük hücreli karsinomlar ise nadiren pozitiflik gösterir. Küçük hücreli kanserler sıklıkla pozitiftir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IS_001</LocID>
+        <Text>Tümör proteini p63 parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IS_001_DESC</LocID>
+        <Text>Tümör proteini p63 insanlarda TP63 geni tarafından kodlanan bir proteindir. p63 immün boyaması baş ve boyun skuamöz hücreli karsinomlarda, prostatik adenokarsinom ile benign prostat dokusunun ayrımında kullanılır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC3_0_DETECTED</LocID>
+        <Text>Erken evre akciğer adenokarsinomu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC3_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test erken evre akciğer adenokarsinomu varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC3_1_DETECTED</LocID>
+        <Text>İleri evre akciğer adenokarsinomu tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC3_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test ileri evre akciğer adenokarsinomu varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERTROPHIC_PO</LocID>
+        <Text>Hipertrofik pulmoner osteoartropati</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERTROPHIC_PO_DESC</LocID>
+        <Text>Hipertrofik pulmoner osteoartropati akciğer kanseri ile irtibatlı nadir görülen bir paraneoplastik sendromdur. Hipertrofik osteoartropati parmaklarda çomaklaşma, ekstremitelerde uzama, ağrılı ve şiş eklemlerle karakterize klinik bir sendromdur. Esasen radius ve fibula kemiklerini, daha az sıklıkla da femur, humerus, metakarpal ve metatarsal kemikleri tutan simetrik periostit gözlenir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD44_BRIGHT</LocID>
+        <Text>CD44 antijeni parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD44_BRIGHT_DESC</LocID>
+        <Text>CD44 antijeni hücreler arası etkileşimlerde, hücre adezyon ve migrasyonunda görevli bir yüzey glikoproteinidir. Pek çok kanserde yüksek derecede eksprese edilir, metastazda etkili olduğu bilinmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_22</LocID>
+        <Text>EGFR mutasyonu aşırı ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_22_DESC</LocID>
+        <Text>Epidermal büyüme faktörü reseptörü (EGFR) bir transmembran proteindir. EGFR'nin aşırı ekspresyonuna neden olan mutasyonlar özellikle akciğer adenokarsinomu olmak üzere anal kanserler, glioblastom, baş ve boyun epitelyal tümörleri ile irtibatlıdır. EGFR'nin uzun süreli aktivasyonu kontrolsüz hücre bölünmesine neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC4_0_DETECTED</LocID>
+        <Text>Skuamöz hücreli akciğer kanseri tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LC4_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test skuamöz hücreli akciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD274_BRIGHT</LocID>
+        <Text>PD-L1 (CD274) parlak ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CM_CD274_BRIGHT_DESC</LocID>
+        <Text>Programlı ölüm-ligandı 1 (PD-L1) insanlarda CD274 geni tarafından kodlanan bir proteindir. Gebelik, otoimmün hastalıklar, doku allograftları gibi hadiselerde immün sistemi baskılamada önemli rol oynadığı öne sürülmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IS_002</LocID>
+        <Text>Tümör proteini p53 anormal ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IS_002_DESC</LocID>
+        <Text>Tümör proteini p53 pek çok organizmada kodlanan bir proteindir. Kanser oluşumunu önleyerek tümör baskılayıcı işlev gösterir. Mutajenler tarafından modifiye edildiğinde kontrolsüz hücre bölünmesi ihtimali artar.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_HISRC</LocID>
+        <Text>Taşlı yüzük hücresi morfolojisi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_HISRC_DESC</LocID>
+        <Text>Histolojide taşlı yüzük hücresi, daha çok kanserlerde gözlenen büyük bir vakuole sahip malign hücre çeşididir. Tanıma göre bir kolorektal kanserin taşlı yüzük hücreli kolorektal karsinom sayılabilmesi için mevzubahis hücrenin tüm hücrelere oranla %50'den fazla olması beklenir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_23</LocID>
+        <Text>Yüksek dereceli mikrosatellit instabilitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_23_DESC</LocID>
+        <Text>Mikrosatellit instabilitesi yanlış DNA mismatch tamirinden kaynaklanan mutasyona yatkınlık durumudur. İnstabilite varlığı mismatch tamirinin doğru işlev göstermediğini ortaya koyar. Anormal işlev gösteren mismatch tamirine sahip hücreler DNA replikasyonu sırasında ortaya çıkan hataları düzeltemez. Mikrosatellit instabilitesi özellikle kolon kanserleri ile irtibatlıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_008</LocID>
+        <Text>Müsin 4 yüksek dereceli ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_008_DESC</LocID>
+        <Text>Müsin 4 insanlarda MUC4 geni tarafından kodlanan bir müsin proteinidir. Müsin proteinleri trakea, kolon, serviks gibi epitelyal yapıların yüzeyini örten bir visköz sekresyon olan mukusun yapısına katılır. Bu glikoproteinlerin epitelyal hücrelerin korunmasında önemli rol oynadığı, epitelyal yenilenme ve diferansiyasyonda etkili olduğu bilinmektedir. Müsin 4'ün kanser ilerlemesinde çeşitli roller oynadığı tespit edilmiştir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_24</LocID>
+        <Text>CDH1 (CD324) mutasyon bulguları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CDF_T_24_DESC</LocID>
+        <Text>Kaderin-1 insanlarda CDH1 geni tarafından kodlanan bir proteindir, tümör baskılayıcı gen vasıflıdır. Kaderin-1 işlev kaybının kanser ilerlemesi ve metastazı ile irtibatlı olduğu bilinmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC2_0_DETECTED</LocID>
+        <Text>Taşlı yüzük hücreli kolorektal karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC2_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test taşlı yüzük hücreli kolorektal karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_COLONOFIND</LocID>
+        <Text>Kolonoskopik bulgular</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_COLONOFIND_DESC</LocID>
+        <Text>Yapılan test anormal bulgular ortaya koydu. İleri tetkik ve biyopsi sonuçları bu bulguların tehlike arz edip etmediğini gösterecek.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_010</LocID>
+        <Text>Müsin 2 yüksek dereceli ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_010_DESC</LocID>
+        <Text>Müsin 2 insanlarda MUC2 geni tarafından kodlanan bir proteindir. Özellikle kalın bağırsakta goblet hücreleri tarafından salınır. Aşırı ekspresyonunun tümör gelişimine neden olduğu düşünülmektedir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_011</LocID>
+        <Text>Müsin 5AC yüksek dereceli ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_011_DESC</LocID>
+        <Text>MUC5AC epitelyal hücreler için bariyer işlevi gösteren, konak-patojen etkileşiminde ve malign lezyonlara immün hücrelerin çekiminde etkili versatil bir moleküldür. Ekspresyonunda farklılıkların pek çok benign ve malign patoloji ile irtibatlı olduğu gösterilmiştir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_012</LocID>
+        <Text>Müsin 1 yüksek dereceli ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_012_DESC</LocID>
+        <Text>Müsin 1 insanlarda MUC1 geni tarafından kodlanan bir müsin proteinidir. Müsin proteinleri, patojenleri oligosakkaritlere bağlayarak vücudu enfeksiyonlardan korur. MUC1'in aşırı ekspresyonu kolon, meme, over, akciğer ve pankreas kanserleri ile irtibatlıdır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_009</LocID>
+        <Text>Müsin 6 yüksek dereceli ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_009_DESC</LocID>
+        <Text>Müsin 6, MUC6 olarak da bilinen bir insan genidir. Ekstrahepatik safra kanalı lezyonlarında MUC2 ekspresyonu kolumnar hücre değişimi ve intestinal diferansiyasyon derecesi ile paralellik gösterir. Safra kesesinin pilorik bez adenomları MUC6 pozitifliği gösterir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_PMCC</LocID>
+        <Text>Saf müsinöz hücreler</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_PMCC_DESC</LocID>
+        <Text>Müsinöz karsinom diğer kanser türlerindeki hücrelerle beraber yer alabilir, yer almadığı takdirde "saf tip" olarak kabul edilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_MMCC</LocID>
+        <Text>Mikst müsinöz hücreler</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_BL_MMCC_DESC</LocID>
+        <Text>Müsinöz karsinom diğer kanser türlerindeki hücrelerle beraber yer alabilir, buna mikst tip müsinöz karsinom denir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC3_0_DETECTED</LocID>
+        <Text>Müsinöz kolorektal adenokarsinom (Mikst tip) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC3_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test mikst tip müsinöz kolorektal adenokarsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC3_1_DETECTED</LocID>
+        <Text>Müsinöz kolorektal adenokarsinom (Saf tip) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BC3_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test saf tip müsinöz kolorektal adenokarsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_013</LocID>
+        <Text>Napsin A yüksek dereceli ekspresyonu</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SM_P_013_DESC</LocID>
+        <Text>Napsin A fonksiyonel bir aspartik proteinazdır, sağlıklı akciğer parenkiminin sitoplazmasında eksprese edilir. TAO2 polipeptidi ile homologdur, biyolojik olarak aktif sürfaktan protein B matürasyonunda görev alır. Primer akciğer kanseri için alternatif bir marker olabilir.</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_0M_DETECTED</LocID>
+        <Text>Duktal karsinoma in situ tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_1M_DETECTED</LocID>
+        <Text>İnvaziv duktal karsinom tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_2M_DETECTED</LocID>
+        <Text>Metastatik meme kanseri tespit edildi</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_WHITE_STOOLS</LocID>
+        <Text>Beyaz gayta</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_WHITE_STOOLS_DESC</LocID>
+        <Text>Beyaz renkte veya kil renginde gayta, safra eksikliğine bağlı ortaya çıkar, bu da altta yatan ciddi bir probleme işaret eder. Safra, karaciğer tarafından üretilen ve safra kesesinde depolanan sindirime yardımcı bir sıvıdır. Gayta normal kahverengimsi rengini safradan alır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LIV_PRECONDITION</LocID>
+        <Text>Önceden var olan karaciğer hastalığı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LIV_PRECONDITION_DESC</LocID>
+        <Text>Bu hastanın tıbbi dökümanları yahut hastanın kendisi, önceden var olan bir karaciğer hastalığı mevcudiyeti hakkında doktoru bilgilendirdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEPATIC_ENCE</LocID>
+        <Text>Hepatik ensefalopati</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEPATIC_ENCE_DESC</LocID>
+        <Text>Hepatik ensefalopati ciddi karaciğer hastalığı sonucu beyin fonksiyonlarında azalmayı tarifler. Karaciğer toksin maddeleri yeterli düzeyde ortadan kaldıramaz. Buna bağlı olarak toksinler kanda birikir ve beyin hasarına neden olur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERAMMONEMIA</LocID>
+        <Text>Hiperamonyemi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERAMMONEMIA_DESC</LocID>
+        <Text>Hiperamonyemi kanda aşırı miktarda amonyak bulunması durumudur. Beyin hasarına ve ölüme neden olabilen tehlikeli bir durumdur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IS_003</LocID>
+        <Text>Yüksek alfa-fetoprotein düzeyleri</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_IS_003_DESC</LocID>
+        <Text>Alfa-fetoprotein insanlarda AFP geni tarafından kodlanan bir proteindir. Fetal gelişimde vitellus kesesinde ve fetal karaciğerde üretilir. Esasen karaciğer kanserinde ve nonseminomatöz germ hücreli tümörlerde yüksek düzeyde görülür. Bazı siroz hastalarında ve aktif hepatitli hastalarda da yüksek düzeyde tespit edilebilir. Diğer tümör markerları gibi AFP de tek başına tanı koymaz, yönlendirici vasıftadır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CAHP1</LocID>
+        <Text>Hepatosit parafin 1 antijeni tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CMA_CAHP1_DESC</LocID>
+        <Text>Hepatosit parafin 1, rutin formalin ile fikse ve parafine gömülü hepatosit patoloji spesmenleri ile reaksiyon vermek üzere geliştirilmiş monoklonal bir antikordur. Hepatositleri granüler sitoplazmik boyarken safra kanalları ve nonparenkimal karaciğer hücrelerini boyamaz. Hepatosellüler karsinomların ekseriyetini ortaya çıkarır.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_0_DETECTED</LocID>
+        <Text>Hepatosellüler karsinom (Lokalize) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_0_DETECTED_DESC</LocID>
+        <Text>Yapılan test lokalize evrede hepatosellüler karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_1_DETECTED</LocID>
+        <Text>Hepatosellüler karsinom (Bölgesel) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_1_DETECTED_DESC</LocID>
+        <Text>Yapılan test bölgesel evrede hepatosellüler karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_2_DETECTED</LocID>
+        <Text>Hepatosellüler karsinom (Kritik) tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_2_DETECTED_DESC</LocID>
+        <Text>Yapılan test kritik durumda hepatosellüler karsinom varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_3_DETECTED</LocID>
+        <Text>Metastatik karaciğer kanseri tespit edildi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_LIV0_3_DETECTED_DESC</LocID>
+        <Text>Yapılan test metastatik karaciğer kanseri varlığını gösterdi.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_AB_LFT</LocID>
+        <Text>Anormal KFT sonuçları</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_AB_LFT_DESC</LocID>
+        <Text>Hastanın karaciğer fonksiyon testleri anormal sonuç verdi, muhtemel nedeni araştırmak için ileri tetkike ihtiyaç bulunmaktadır. Anormal KFT sonuçları her zaman karaciğer hastalığına işaret etmez, başka durumlardan kaynaklanabilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>
+        <Text>Akut karaciğer yetmezliği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>
+        <Text>Akut karaciğer yetmezliği hepatik fonksiyonların ani düşüşü ile karakterize nadir görülen bir durumdur.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CELL_REJECTION</LocID>
+        <Text>Hücresel ret</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_CELL_REJECTION_DESC</LocID>
+        <Text>Hücresel ret, vücudun kan hücrelerinin transplante bir organı yabancı cisim olarak niteleyip ona saldırması durumudur. Organ reddi hastanın nakledilmiş organı kaybedeceği anlamına gelmez, ancak bu durumun ivedilikle tespit edilip tedaviye başlanması elzemdir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_INTERNAL_BLEEDING</LocID>
+        <Text>İç kanama</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_INTERNAL_BLEEDING_DESC</LocID>
+        <Text>Vücudun içerinde, özellikle de göğüs boşluğunda, mide boşluğunda veya kaslarda kanamaya iç kanama denir. Ağır travma, cerrahi veya bilinmeyen bir komplikasyon sonucu gelişebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEMO_INSTA</LocID>
+        <Text>Hemodinamik instabilite</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEMO_INSTA_DESC</LocID>
+        <Text>Hemodinamik instabilite yetersiz kan akımına sebebiyet veren anormal veya anstabil kan basıncı olması ile meydana gelir. Bu durum hayatı tehdit edebilir, yoğun bakım servisine yatış gerektirebilir.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LES_RUPTURE</LocID>
+        <Text>Lezyon rüptürü</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>
+        <Text>Hastanın vücudundaki tümör rüptüre oldu. Bu durum hayatı tehdit eden bir iç kanamaya neden olabilir.</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_0_DETECTED_V2</LocID>
+        <Text>Pre-B Cell Acute Lymphocytic Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_1_DETECTED_V2</LocID>
+        <Text>B Cell Acute Lymphocytic Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC01_2_DETECTED_V2</LocID>
+        <Text>T Cell Acute Lymphocytic Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC02_A_DETECTED_V2</LocID>
+        <Text>Chronic Lymphocytic Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC02_B_DETECTED_V2</LocID>
+        <Text>Chronic Lymphocytic Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_0_DETECTED_V2</LocID>
+        <Text>T-cell Large Granular Lymphocyte (LGL) Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_1_DETECTED_V2</LocID>
+        <Text>NK-cell Large Granular Lymphocyte (LGL) Leukaemia Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC03_2_DETECTED_V2</LocID>
+        <Text>T-cell Prolymphocytic Leukaemia (T-PLL) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC04_0_DETECTED_V2</LocID>
+        <Text>Acute Myeloid Leukaemia (AML) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_A_DETECTED_V2</LocID>
+        <Text>Chronic Myeloid Leukaemia (CML) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_B_DETECTED_V2</LocID>
+        <Text>Chronic Myeloid Leukaemia (CML) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC05_C_DETECTED_V2</LocID>
+        <Text>Chronic Myeloid Leukaemia (CML) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC08_0_DETECTED_V2</LocID>
+        <Text>Follicular Lymphoma Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BLC07_0_DETECTED_V2</LocID>
+        <Text>Diffuse Large B-Cell (NOS) Lymphoma Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_1_DETECTED_V2</LocID>
+        <Text>Invasive Ductal Carcinoma (IDC) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_BREC01_1M_DETECTED_V2</LocID>
+        <Text>Invasive Ductal Carcinoma (IDC) Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_MC001_1_DETECTED_V2</LocID>
+        <Text>Gastrointestinal NET Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC3_4_DETECTED_V2</LocID>
+        <Text>Melanoma Detected</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_SC4_1_DETECTED_V2</LocID>
+        <Text>Merkel Cell Carcinoma Detected</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

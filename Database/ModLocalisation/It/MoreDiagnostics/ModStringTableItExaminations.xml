@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_MORE_DG_EXAMINATIONS">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Rimat</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Examen normal ================================================== -->
+<!-- v0.02 -->			      			
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>					<Text>Test di soppressione del desametasone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_TESTING</LocID>						<Text>Test di soppressione del desametasone - In corso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>					<Text>Il test di soppressione del desametasone (DST) viene usato per valutare la funzione delle ghiandole surrenali, misurando come i livelli di cortisolo cambino in risposta ad un'iniezione di desametasone. Si utilizza solitamente per la diagnosi della sindrome di Cushing.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>				<Text>Test di stimolazione ACTH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>				<Text>Test di stimolazione ACTH - In corso</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>			<Text>The Il test dell'ACTH (chiamato anche test della cosintropina, tetracosactide o Synacthen) è un test medico solitamente prescritto ed interpretato da endocrinologi per determinare il funzionamento della risposta allo stress delle ghiandole surrenali, misurando la loro risposta all'ormone adrenocorticotropico (ACTH; corticotropina) od altro agente corticotropico come il tetracosactide (cosintropin, tetracosactrina; Synacthen) o alsactide (Synchrodyn). Lo ACTH è un ormone prodotto nella ghiandola pituitaria anteriore che stimola le ghiandole surrenali al rilascio di cortisolo, deidroepiandrosterone (DHEA), solfato di deidroepiandrosterone (DHEA-S) ed aldosterone. Durante il test, una piccola quantità di ACTH sintetico viene iniettata, mentre viene misurata la quantità di cortisolo (e talvolta aldosterone) che le ghiandole surrenali producono come risposta. Questo test può causare lievi effetti collaterali in alcuni individui.</Text>	</GameDBLocalizedString>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Scintigrafia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>La scintigrafia (da scintilla), nota anche come scansione gamma, è un test diagnostico di medicina nucleare, nel quale vengono assunti radioisotopi combinati a farmaci che viaggiano verso uno specifico organo o tessuto (radiofarmaci) e la loro radiazione gamma viene catturata da rilevatori esterni (camere gamma) per formare immagini bidimensionali, in maniera analoga all'acquisizione di radiografie.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>La saggiatura immunoassorbente enzimo-correlata (ELISA) è una comune saggiatura in biochimica analitica. La saggiatura utilizza un saggio immunitario enzimico a fase solida (EIA) per rivelare la presenza di un legante (solitamente una proteina) in un campione liquido, usanto anticorpi diretti contro la proteina da misurare. ELISA è stata utilizzata come strumento diagnostico in medicina, fitopatologia e nelle biotecnologie, così come strumento di controllo della qualità in diversi settori industriali. Nella versione più semplice di ELISA, gli antigeni del campione sono esposti su di una superficie. Di seguito, sulla stessa superficie viene applicato un anticorpo corrispondente, così che possa legarsi all'antigene. Questo anticorpo è legato ad un enzima, e nella fase finale viene aggiunta una sostanza contenente il substrato dell'enzima stesso. La reazione conseguente produce un segnale tangibile, il più delle volte un cambiamento cromatico.</Text>	</GameDBLocalizedString>
+-->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

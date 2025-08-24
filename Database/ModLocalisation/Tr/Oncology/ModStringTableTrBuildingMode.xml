@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_TR_ADDON_ONCO_BUILDING_MODE">
+    <LanguageCode>tr</LanguageCode>
+    <LanguageNameLocalized>Türkçe</LanguageNameLocalized>
+    <Contributors>
+      <Name>gokustan</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_OFFICE</LocID>
+        <Text>Onkoloji polikliniği</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>
+        <Text>Onkoloji uzmanı hekimin görev aldığı poliklinik. Min. gerekli personel:\n1x Doktor</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO</LocID>
+        <Text>Onkoloji A</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_ONCO_DESC</LocID>
+        <Text>Duvar çıkartması.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO1</LocID>
+        <Text>Onkoloji B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO2</LocID>
+        <Text>Onkoloji C</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO3</LocID>
+        <Text>Onkoloji D</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>
+        <Text>Teşhis ünitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>
+        <Text>Onkoloji teşhiş ünitesi, hastanede yatan hastalar için muayene ve gerekli tedavinin yapılmasını sağlar. \n\nMin. gerekli personel: \n1x Doktor \n(Çağrı odasında bulunan)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>
+        
+        <Text>Onkoloji nörolojik muayene ünitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>
+        
+        <Text>Onkoloji nörolojik muayene ünitesi, onkoloji hastalarının özel nörolojik muayenelerini sağlar. \n\nMin. gerekli personel: \n1x Tekniker - Nöroloji</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>
+        <Text>Ultrason ünitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>
+        <Text>Ultrason ünitesi, yüksek frekanslı sesler ile tanı ve tedavide kullanılır. \n\nMin. gerekli personel: \n1x Tekniker - USG</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT01</LocID>
+        <Text>Onkoloji Tablo A</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT01_DESC</LocID>
+        <Text>Hastalara asla umudunu kaybetmemeleri gerektiğini hatırlatan çerçeveli bir resim.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT02</LocID>
+        <Text>Onkoloji Tablo B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT02_DESC</LocID>
+        <Text>Hastalara asla umudunu kaybetmemeleri gerektiğini hatırlatan çerçeveli bir resim.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE1</LocID>
+        <Text>Dört gözlü kitaplık A-E</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE1_DESC</LocID>
+        <Text>Boş bir dört gözlü kitaplık.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE2</LocID>
+        <Text>Dört gözlü kitaplık B-E</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE2_DESC</LocID>
+        <Text>Boş bir dört gözlü kitaplık.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PLANT01</LocID>
+        <Text>Saksı</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PLANT01_DESC</LocID>
+        <Text>Saksıda hoş bir bitki.</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE3</LocID>
+        <Text>Dört gözlü kitaplık A-B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE3_DESC</LocID>
+        <Text>Kitap yerleştirilmiş bir dört gözlü kitaplık.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE4</LocID>
+        <Text>Dört gözlü kitaplık B-B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE4_DESC</LocID>
+        <Text>Kitap yerleştirilmiş bir dört gözlü kitaplık.</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+      <GameDBLocalizedString>
+        
+        <LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM</LocID>
+        <Text>Onkoloji gözlem odası</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        
+        <LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM_DESC</LocID>
+        <Text>Onkoloji bölümü bazen sonuç vermesi uzun zaman alan çok sayıda testin uygulanmasını gerektirebilir. Gözlem odası hastaya daha çok konfor sağlayıp hastayı tıbbi gözetim altında tutarken testlerin tamamlanması için hastaneye zaman verir. Ayrıca zor vakalarda klinik doktorlarının yükünü hafifletebilir. \n\nMin. Gerekli personel: \n1x Doktor \n(Çağrı odasındaki doktorlar)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST01</LocID>
+        <Text>Poster - Onkoloji A</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST01_DESC</LocID>
+        <Text>Pankreas ile ilgili bir bilgi görseli.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST02</LocID>
+        <Text>Poster - Onkoloji B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST02_DESC</LocID>
+        <Text>Hastalara hastalıkla mücadelerinde yalnız olmadıklarını hatırlatan bir poster.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST03</LocID>
+        <Text>Poster - Onkoloji C</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST03_DESC</LocID>
+        <Text>Kan kanserleri ile ilgili bir bilgi görseli.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST04</LocID>
+        <Text>Poster - Onkoloji D</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST04_DESC</LocID>
+        <Text>Akciğer kanseri ile ilgili bir bilgi görseli.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST05</LocID>
+        <Text>Poster - Onkoloji E</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST05_DESC</LocID>
+        <Text>Hastalara asla umudunu kaybetmemeleri gerektiğini hatırlatan bir poster.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONCO</LocID>
+        <Text>Kardiyografi ünitesi</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONOC_DESC</LocID>
+        <Text>Kardiyografi, kardiyovasküler sistem ile ilgili çeşitli muayene yöntemleri ve testleri sağlar. \n\nMin. Gerekli personel:\n1x Tekniker - Kardiyoloji</Text>
+      </GameDBLocalizedString>
+      
+      
+      
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

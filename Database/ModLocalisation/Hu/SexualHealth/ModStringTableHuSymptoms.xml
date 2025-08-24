@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_SEXUAL_HEALTH_SYMPTOMS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_DISCHARGE</LocID>
+				<Text>A fertőzött nemi szervek váladékozása</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_DISCHARGE_DESCRIPTION</LocID>
+				<Text>A fertőzött nemi szervek váladékos folyásának ürítése.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PUBIC_LICE</LocID>
+				<Text>A Lapostetű fertőzés kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PUBIC_LICE_DESCRIPTION</LocID>
+				<Text>A Lapostetvek kimutathatóak a betegen.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_NEISSERIA_GONORRHOEAE</LocID>
+				<Text>A Neisseria Gonorrhoeae fertőzés kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_NEISSERIA_GONORRHOEAE_DESCRIPTION</LocID>
+				<Text>A tesztek kimutatták a Neisseria Gonorrhoeae baktériumokat.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CHLAMYDIA</LocID>
+				<Text>Chlamydia kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CHLAMYDIA_DESCRIPTION</LocID>
+				<Text>A tesztek kimutatták a Chlamydia baktériumokat.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_SORES</LocID>
+				<Text>Nemi betegséghez kapcsolódó elváltozások</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_GENITAL_SORES_DESCRIPTION</LocID>
+				<Text>Sebek, szemölcsök vagy fekélyek, amelyek jellemzően a nemi szervek környékén jelennek meg.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SYPHILIS</LocID>
+				<Text>Szifilisz kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SYPHILIS_DESCRIPTION</LocID>
+				<Text>A tesztek kimutatták a szifilisz baktériumokat.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HIV</LocID>
+				<Text>HIV kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HIV_DESCRIPTION</LocID>
+				<Text>A tesztek kimutatták az humán immundeficiencia-vírust.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HSV</LocID>
+				<Text>HSV (herpeszvírus) antitestek kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HSV_DESCRIPTION</LocID>
+				<Text>A tesztek kimutatták a Herpes Simplex (herpeszvírus) elleni antitestek jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SCABIES</LocID>
+				<Text>Rüh észlelve</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SCABIES_DESCRIPTION</LocID>
+				<Text>Atkák vagy peték jelezték a rüh jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HPV</LocID>
+				<Text>HPV kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HPV_DESCRIPTION</LocID>
+				<Text>A nemi szűrés kimutatta a HPV jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MCI</LocID>
+				<Text>Molluscum contagiosum (MC) kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MCI_DESCRIPTION</LocID>
+				<Text>A laboratóriumi vizsgálat kimutatta az MC jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TV</LocID>
+				<Text>A Trichomoniázis (TV) kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TV_DESCRIPTION</LocID>
+				<Text>A nemiszervekből vételezett minták elemzése kimutatta a Trichomoniázis vírus jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BV</LocID>
+				<Text>BV kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BV_DESCRIPTION</LocID>
+				<Text>A nemiszervekből vételezett minták elemzése kimutatta a Bakteriális vaginózis (BV) jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CERVICITIS</LocID>
+				<Text>Méhnyakgyulladás kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_CERVICITIS_DESCRIPTION</LocID>
+				<Text>A nemiszervekből vételezett minták elemzése kimutatta a Méhnyakgyulladás (Cervicitis) jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_VAGINAL_BLEEDING</LocID>
+				<Text>Rendellenes hüvelyi vérzés</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_VAGINAL_BLEEDING_DESCRIPTION</LocID>
+				<Text>A menstruációs cikluson kívül eső hüvelyi vérzés.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SEX_PAIN</LocID>
+				<Text>Szex közbeni fájdalom</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_SEX_PAIN_DESCRIPTION</LocID>
+				<Text>A beteg nemi közösülés során fájdalmat érez.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_FEMALE</LocID>
+				<Text>Mgen kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_FEMALE_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták a Mycoplasma genitalium (Mgen) jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_MALE</LocID>
+				<Text>Mgen kimutatva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_MGEN_MALE_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták a Mycoplasma genitalium (Mgen) jelenlétét.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TESTICULAR_PAIN</LocID>
+				<Text>Here fájdalom</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_TESTICULAR_PAIN_DESCRIPTION</LocID>
+				<Text>A páciens fájdalmat érez a heréiben.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PREP</LocID>
+				<Text>HIV Veszélyeztetettség</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PREP_DESCRIPTION</LocID>
+				<Text>A betegnek magas a HIV-kockázata. Ennek okai lehetnek a szexualitás, a kábítószer-használat vagy a szerodiszkordancia kapcsolatok, más néven vegyes státusz, vagyis az egyik fél HIV fertőzött, a másik pedig nem.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_UR</LocID>
+				<Text>Húgycsőgyulladás</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_UR_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták, hogy a páciensnek húgycsőgyulladása van.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_ED</LocID>
+				<Text>Erekciós diszfunkció</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_ED_DESCRIPTION</LocID>
+				<Text>A beteg küzd az erekció elérése vagy fenntartása érdekében.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EXCESS_SEMEN</LocID>
+				<Text>Magas spermamennyiség</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EXCESS_SEMEN_DESCRIPTION</LocID>
+				<Text>A beteg rendellenesen nagy ejakulátum (vagy sperma) mennyiségről számol be.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPERS</LocID>
+				<Text>Hiperspermia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPERS_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták, hogy a páciensnek hiperspermiája van.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_LOW_SEMEN</LocID>
+				<Text>Alacsony spermamennyiség</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_LOW_SEMEN_DESCRIPTION</LocID>
+				<Text>A beteg szokatlanul alacsony ejakulátum (vagy sperma) mennyiségről számol be.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPOS</LocID>
+				<Text>Hipospermia</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_HYPOS_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták, hogy a páciensnek hipospermiája van.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EPI</LocID>
+				<Text>Epididymitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_EPI_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták, hogy a páciensnek epididimitisze (mellékhere gyulladás) van.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PHIMOSIS</LocID>
+				<Text>Fitymaszűkület</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PHIMOSIS_DESCRIPTION</LocID>
+				<Text>Fitymaszűkület (phimosis) az az állapot, ha ennek a fedőbőrnek a nyílása olyan szűk, hogy a fityma egyáltalán nem, vagy csak részlegesen húzható hátra a makkról. Ez azért okoz gondot, mert nehezebbé válik a makk tisztántartása, ezáltal gyulladás alakulhat ki. Másrészt a szűk fityma zavaró lehet a nemi élet során is.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BAL</LocID>
+				<Text>Balanitis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_BAL_DESCRIPTION</LocID>
+				<Text>Az ágyéki vizsgálat kimutatta, hogy a beteg balanitiszben szenved.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PRO</LocID>
+				<Text>Prosztatagyulladás</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_PRO_DESCRIPTION</LocID>
+				<Text>A vizsgálatok kimutatták, hogy a páciensnek prosztatagyulladása van.</Text>
+			</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

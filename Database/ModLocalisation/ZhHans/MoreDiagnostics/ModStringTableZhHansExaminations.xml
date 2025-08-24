@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_ZHHANS_ADDON_MORE_DG_EXAMINATIONS">
+    <LanguageCode>zh-Hans</LanguageCode>
+    <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+    <Contributors>
+      <Name>Toobin</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <!-- ================================================== Examen normal ================================================== -->
+      <!-- v0.02 -->
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_FREIN_SAMPLING</LocID>
+        <Text>地塞米松抑制试验-采样</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_FREIN_TESTING</LocID>
+        <Text>地塞米松抑制试验-检测</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_FREIN_DESCRIPTION</LocID>
+        <Text>地塞米松抑制试验(DST)通过摄入地塞米松后测量皮质醇水平应激变化评估肾上腺功能，常用于诊断库欣氏综合症。</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_SYNACTHENE_SAMPLING</LocID>
+        <Text>ACTH兴奋试验-采样</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_SYNACTHENE_TESTING</LocID>
+        <Text>ACTH兴奋试验-检测</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_SYNACTHENE_DESCRIPTION</LocID>
+        <Text>促肾上腺皮质激素(ACTH)测试，也称二十四肽促皮质素测试，通过摄入促肾上腺皮质激素或其它药物来评估肾上腺的应激反应功能。</Text>
+      </GameDBLocalizedString>
+      <!-- v0.03 -->
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_TEST_COMBS_SAMPLING</LocID>
+        <Text>抗球蛋白实验-采样</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_TEST_COMBS_TESTING</LocID>
+        <Text>抗球蛋白实验-检测</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_TEST_COMBS_DESCRIPTION</LocID>
+        <Text>抗球蛋白测试(AGT)，又称Coombs测试，是常用的血液免疫学测试又分直接型和间接型两种。 直接型可检测粘附在红细胞表面的抗体。</Text>
+      </GameDBLocalizedString>
+      <!-- v0.03.2 -->
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_DEB_SAMPLING</LocID>
+        <Text>染色体断裂-采样</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_DEB_TESTING</LocID>
+        <Text>染色体断裂-检测</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>
+        <Text>染色体断裂分析是一种评估基因组不稳定性的测试。</Text>
+      </GameDBLocalizedString>
+      <!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>SPECT造影</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>又称伽马扫描，是放射医学中的诊断测试。体内吸收了放射性同位素药物的特定器官或组织所释放的X射线，通过伽马相机进行显影以类似X光造影的方式形成二维图像。</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>酶联法实验-采样</Text>	</GameDBLocalizedString>	// outdated
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>酶联法实验-检测</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>酶联免疫吸附试验(ELISA）实验是一种常用的分析生物化学测定。 利用抗原抗体之间专一性键结之特性，以检测特定抗原或抗体是否存在，并可利用呈色的深浅进行定量分析。</Text>	</GameDBLocalizedString>
+-->			
+
+      <!-- Fix -->
+
+      <GameDBLocalizedString> <LocID>EXM_CRP_WALK_EXAMINATION</LocID> <Text>步态检查</Text> </GameDBLocalizedString>
+      <GameDBLocalizedString> <LocID>EXM_CRP_WALK_EXAMINATION_DESCRIPTION</LocID> <Text>对站立和行走的姿态进行床边观察（基础宽度、Romberg／串行步行、转身）。宽基底、不稳步态提示小脑共济失调。</Text> </GameDBLocalizedString>
+
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

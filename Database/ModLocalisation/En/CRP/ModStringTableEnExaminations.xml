@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+    <GameDBStringTable ID="LOC_EN_ADDON_CRP_EXAMINATIONS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Sleepy068</Name>
+			<Name>MacNaab</Name>
+			<Name>James</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+	
+	
+				
+			
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN</LocID>								<Text>Breast examination</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SEIN_DESCRIPTION</LocID>					<Text>Visual inspection and palpation of breast.</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV</LocID>						<Text>Pelvic Sonography</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ECHO_PELV_DESCRIPTION</LocID>			<Text>Sonography of pelvic area.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_SAMPLING</LocID>						<Text>Pap smear sampling</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_TESTING</LocID>						<Text>Pap smear testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_FCU_DESCRIPTION</LocID>					<Text>A method for the early detection of cancer especially of the uterine cervix that involves the staining of exfoliated cells using a special technique which differentiates diseased tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_SAMPLING</LocID>					<Text>OGTT sampling</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_TESTING</LocID>						<Text>OGTT testing</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_DESCRIPTION</LocID>					<Text>The glucose tolerance test, also known as the oral glucose tolerance test (OGTT), measures your body's response to sugar (glucose).</Text>	</GameDBLocalizedString>
+			
+	
+	
+			
+
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>Scintigraphy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>Scintigraphy (from Latin scintilla, "spark"), also known as a gamma scan, is a diagnostic test in nuclear medicine, where radioisotopes attached to drugs that travel to a specific organ or tissue (radiopharmaceuticals) are taken internally and the emitted gamma radiation is captured by external detectors (gamma cameras) to form two-dimensional images in a similar process to the capture of x-ray images.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>The enzyme-linked immunosorbent assay (ELISA) is a commonly used analytical biochemistry assay. The assay uses a solid-phase enzyme immunoassay (EIA) to detect the presence of a ligand (commonly a protein) in a liquid sample using antibodies directed against the protein to be measured. ELISA has been used as a diagnostic tool in medicine, plant pathology, and biotechnology, as well as a quality control check in various industries. In the most simple form of an ELISA, antigens from the sample are attached to a surface. Then, a matching antibody is applied over the surface so it can bind to the antigen. This antibody is linked to an enzyme, and in the final step, a substance containing the enzyme's substrate is added. The subsequent reaction produces a detectable signal, most commonly a color change.</Text>	</GameDBLocalizedString>
+			
+			
+			
+			
+			
+
+    
+	
+	
+	
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_SAMPLING</LocID>                                     <Text>Bronchoalveolar Lavage</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_SAMPLING_DESCRIPTION</LocID>                         <Text>Bronchoalveolar lavage (BAL) is a medical procedure in which a bronchoscope is passed through the mouth or nose into the lungs and fluid is squirted into a small part of the lung and then collected for examination. It is typically performed to diagnose lung disease. \n\nRequired room: Diagnostic Unit at Internal Medicine dpt.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_TESTING</LocID>                                      <Text>Bronchoalveolar Lavage Lab Testing</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_TESTING_DESCRIPTION</LocID>                          <Text>The sample from BAL is sent to the lab for testing.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_SAMPLING</LocID>                                             <Text>Arthrocentesis</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_SAMPLING_DESCRIPTION</LocID>                                 <Text>Arthrocentesis is the clinical procedure of using a syringe to collect synovial fluid from a joint capsule.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_TESTING</LocID>                                              <Text>Arthrocentesis Lab Testing</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_TESTING_DESCRIPTION</LocID>                                  <Text>The sample from the aspirated joint is sent to the lab for testing.</Text>  </GameDBLocalizedString>
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

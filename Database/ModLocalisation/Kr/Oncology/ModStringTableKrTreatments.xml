@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<GameDBStringTable ID="LOC_KR_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+	<Contributors>
+		<Name>LimeCake</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>이미퀴모드 크림</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>[Imiquimod Cream]\n이미퀴모드는 피상적인 기저세포암종과 광선 각화증을 치료하는데 사용되는 면역 반응 조절제 역할을 하는 외용 크림입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>광역학치료</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>[Photodynamic Therapy]\n광역학 요법은 감광제라고 하는 특정 약물을 특수한 빛과 함께 사용하여 암세포를 죽이는 치료법입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>광범위국소절제술</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>[Wide Local Excision]\n광범위국소절제술은 건강한 주변 조직을 보존하면서 다양한 형태의 피부암을 정밀하게 제거하는 첨단 수술 기법입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE</LocID>                                    	
+	<Text>긍정적 마음가짐</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>[Oncology Doctors Advice]\n의사는 환자에게 그들의 상황에 대처하는 방법에 대한 조언을 해주고, 완화의료와 같은 그들의 선택을 더 잘 이해할 수 있게 하며, 이 기간동안 가능한 최고의 삶의 질을 가질 수 있게 도와줍니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY</LocID>                                    	
+	<Text>표적치료</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>[Targeted Therapy]\n표적치료란 암세포에만 많이 나타나는 특정 단백질이나 특정 유전자 변화를 표적으로 암의 성장과 발생에 기여하는 신호를 차단함으로써 암세포만 골라서 죽이는 표적항암제를 의미합니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY</LocID>                                    	
+	<Text>화학요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>[Chemotherapy]\n화학요법은 표준화된 화학적 치료의 일환으로 하나 이상의 항암제를 사용하는 암 치료의 일종입니다. 이는 치료의 목적으로 제공될 수 있고, 수명을 연장하거나 증상을 줄이는 것을 목표로 할 수도 있습니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>복강경 수술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>[Laparoscopic Surgery]\n복강경 수술은 환자의 생체에 미치는 상해나 영향을 줄인 최소 침습 수술 방법의 하나로서, 복부나 흉부를 절제하는 대신 작은 구멍을 뚫고 내시경의 일종인 복강경을 집어넣어 수술하는 방식입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>폐엽 절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>[Pulmonary Lobectomy]\n폐엽 절제술은 폐의 로브를 제거하는 수술입니다. 초기 페암과 같이 병든 폐의 일부를 제거하기 위해 수행됩니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>혈관 색전술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>[Endovascular Embolization]\n혈관 색전술은 침습적 수술입니다. 뇌에서 발견된 비정상적인 혈관은 물론 신체의 다른 부위도 치료할 때 쓰입니다. 혈관을 차단하여 환부로의 혈류를 차단하는, 절개 수술의 대안입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>면역항암요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>[Immunotherapy]\n면역항암요법은 면역학적 방법으로 환자 치료를 기획하는 것을 의미합니다. 인체의 면역체계를 활성화시켜 자가면역력을 높여서 면역세포가 암세포를 공격하도록 합니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>신경 재건술</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>[Nerve Reconstructive Surgery]\n외과적 신경 재건술은 손상된 신경 검출과 손상된 조직이나 흉터 제거를 포함합니다. 이후 신경은 높은 수준의 수술 결과와 충분한 길이가 있다면 직접적으로 다시 연결될 수 있습니다. \n\n필요한 방: 신경과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
+	<Text>에피네프린 자동주사기</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
+	<Text>[Epinephrine Autoinjector]\n에피네프린 자동주사기는 측정된 용량의 에피네프린을 주사하기 위한 의료기기입니다. 심각한 알레르기 반응인 아나팔락시스의 치료로서 자주 사용됩니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>용종 절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>[Polypectomy]\n용종 절제술은 대장이라고 하는 결장 내부에서 용종을 제거하기 위해 사용되는 수술입니다. 절차는 비교적 비 침습적입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>대장절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>[Colectomy]\n대장절제술은 대장의 분할 절제술이나, 외과적 제거를 의미합니다. 극단적인 경우 대장 전체가 제거되는 경우도 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>부신절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>[Adrenalectomy]\n부신절제술은 하나 또는 둘 다의 부신을 수술로서 제거하는 것입니다. 보통 부신 종양이 있는 환자에게 행해진다. 개방 절개술이나 복강경술로 시술이 가능합니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE</LocID>                                    	
+	<Text>미토탄</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE_DESC</LocID>                        	
+	<Text>[Mitotane]\nLysodren이라는 상표명으로 판매되는 미토탄은 부신피질 암 및 쿠싱 증후군의 치료에 사용되는 스테로이드 생성 억제제 및 세포 증식 항암 약물입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE</LocID>                                    	
+	<Text>스피로노락톤</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>[Spironolactone]\n스피로노락톤은 항알도스테론제, 칼륨 보존성 이뇨제, 스피로 화합물 중에 하나로, 체내 알도스테론과 그 수용체끼리의 결합을 억제하여 체내 칼륨 이온을 보존하는 이뇨 작용을 나타냅니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>옥트레오타이드 주사</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>[Octreotide Injection]\n옥트레오타이드는 성장 호르몬, 글루카곤 및 인슐린에 대하여 천연 호르몬보다 더 강한 억제제입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SL_ACTIVE_MONITOR</LocID>                                    	
+	<Text>주기적 모니터링</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>[Active Monitoring]\n이는 종양 전문의가 치료를 권장하지 않지만 정기적인 검진 및 혈액 검사로 환자의 건강을 꾸준히 모니터링하는 것입니다. \n\n필요한 방: 종양학과의 진료실과 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_HYPER_CVAD</LocID>                                    	
+	<Text>집중 Hyper-CVAD 요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>[Intensive Hyper-CVAD Therapy]\n부작용을 최소화하기 위해 소량으로, 더 자주 투여하는 화학 요법으로서, CVAD로 불리는 네 가지 약물을 단기적으로 집중 사용하여 치료합니다. \n\n필요한 방: 고위험병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>비장절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>[Splenectomy]\n비장절제술은 복부의 왼쪽 상단에 있는 기관인 비장을 제거하는 수술입니다. 비장은 감염 대항을 돕고 불필요한 요소를 걸러내주는 역할을 수행하는데, 이러한 비장을 절제하는 것은 비장 비대나 일부 혈액 장애, 특정 암을 치료하는 데 사용될 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF</LocID>                                    	
+	<Text>과립구집락자극인자 처방</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF_DESC</LocID>                        	
+	<Text>[G-CSF Drugs]\n과립구집락자극인자는 골수를 자극하여 호중구의 증식과 분화를 이용하여 혈중 호중구 수치를 높이고, 면역력 회복을 돕는 역할을 합니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE</LocID>                                    	
+	<Text>메토트렉세이트 IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE_DESC</LocID>                        	
+	<Text>[Methotrexate IV]\n메토트렉세이트는 화학작용제이자 면역계 억제제입니다. 암, 자가면역질환, 자궁외임신의 치료 뿐만 아니라 유방암, 백혈병, 폐암, 림프종 및 골육종에 사용되는 암의 종류입니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB</LocID>                                    	
+	<Text>알렘투주맵 IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>[Alemtuzumab IV]\n알렘투주맵은 만성림프구성 백혈병 및 다발성 경화증을 치료하는데 사용되는 약물입니다. 이는 정맥에 주사하는 방식으로 투여됩니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH</LocID>                                    	
+	<Text>BRAF 억제제</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
+	<Text>[BRAF Inhibitors]\nBRAF 억제제는 BRAF-V600E 유전자 돌연변이를 차단하는 데 도움이 됩니다. B-RAF는 전이성 흑색종 환자 생존 가능성을 증가시킬 수 있습니다. 단, 종양의 20%는 여전히 치료 내성을 증가시킵니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>타목시펜</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>[Tamoxifen]\n타목시펜은 여성의 유방암을 예방하고 여성과 남성의 유방암을 치료하기 위해 사용되는 약물입니다. 다른 종류의 암에 대해서도 연구되고 있으며, 알브라이트 증후군에도 사용되고 있습니다. 수술 후 재발될 위험성을 낮춥니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>부분 유방절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>[Partial Mastectomy]\n암 조직과 그 주변의 조직을 제거하는 수술로서, 암이 흉부에 가까이 있다면 흉벽 안의 일부 조직또한 제거될 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>고장성 식염수</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>[Hypertonic Saline]\n고장성 식염수나 만니톨을 사용한 삼투압 요법은 두개 내압을 빠르게 감소시켜 뇌세포와 생명을 살릴 수 있도록 합니다. 이는 혈액과 뇌 장벽을 가로지르지 않기 때문에 효과적이며, 뇌에서 뇌척수액을 빼내고 손상된 뇌에서 유출시켜 추가적인 부상과 압력을 줄입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>배농술</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>[Incision and drainage]\n배농술은 피부 아래에 쌓인 유체나 압력을 빼내기 위한 비교적 작은 수술 절차입니다. \n\n필요한 방: 종양학과의 진료실 / 종양학과의 치료실 / 집중치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>종양감축술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>[Surgical Debulking]\n종양감축술은 약물, 방사선 또는 다른 보조 수단으로 후속 치료를 보다 효과적으로 수행하고 생존율을 높이기 위해, 부분적으로 악성 종양을 제거하는 절차입니다. 암 치료를 위해서는 다른 후속 치료가 필수로 동반되어야 합니다. \n\n필요한 방: 신경과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>두개골절개술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>[Gross-Total Resection Craniotomy]\n이는 두개골 절개를 통해 자기공명영상을 통해 확인 가능한 모든 종양 조직을 제거하는 종합적 수술입니다. \n\n필요한 방: 신경과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>에스트라디올 크림</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>[Estradiol Cream]\n에스트라디올 크림은 여성호르몬인 에스트로겐으로서 질 부위의 건조, 화상, 가려움증, 건조증, 또는 자극 등에 국소 적용 가능한 약품입니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>난관난소절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>[Unilateral Salpingo-Oophorectomy]\n난관난소절제술은 하나의 난소와 나팔관을 외과적으로 제거하는 수술을 의미하는데, 이는 생식력을 보존하고자 하는 여성을 위한 첫번째 보존 치료법으로 간주되어야 합니다. 국소 재발의 위험은 높지만, 전반적인 생존율 감소와는 관련이 없습니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>근치전립선절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>[Radical Prostatectomy]\n근치적 전립선 절제술은 전립선, 양측 정낭, 정관 그리고 절제연 양성을 피하기 위하여 충분한 주변 조직을 함께 제거하는 기술로서, 목표는 전립선 내에 국한된 종양을 완전히 제거하고 요자제능을 보존하며 필요하다면 발기능까지 유지시키는것으로 합니다. 이는 암이 전립선으로 제한된 남성의 전립선 암을 치료할 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>호르몬 요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>[Hormone Therapy]\n호르몬 요법은 의학적 치료에 호르몬을 사용하는 것을 의미합니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>부갑상샘절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>[Parathyroidectomy]\n부갑상샘 절제술은 목의 갑상선 바로 뒤에 위치하며 신체가 혈액의 칼슘 수치를 조절하도록 도와주는 부갑상선 또는 이 종양을 제거하는 수술입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>R-CHOP 화학요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>[R-CHOP Chemotherapy]\nR-CHOP은 비 호지킨 림프종을 치료하는 데 사용되는 병용 치료입니다. R-CHOP에는 다섯 가지 화학 요법 약물이 포함됩니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>리툭시맙</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>[Rituximab]\nRituxan이라는 브랜드로 판매되는 리툭시맙은 특정 자가면역 질환과 암 유형을 치료하느느 데 사용되는 약물입니다. 이는 주로 면역계 B세포의 표면에서 발견되는 단백질에 대한 항체입니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
+	<Text>젬시타빈</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE_DESC</LocID>                        	
+	<Text>[Gemcitabine]\nGemzar라는 브랜드로 판매되는 젬시타빈은 여러 유형의 암을 치료하는 데 사용되는 화학 요법 약물입니다. 이러한 암에는 유방암, 난소암, 비소세포폐암, 췌장암 및 방광암이 포함된다. 정맥에 천천히 주입하여 사용됩니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT</LocID>                                    	
+	<Text>POC 복합화학요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT_DESC</LocID>                        	
+	<Text>[POC Combination Treatment]파미드론산과 옥트레오타이드를 조합하여 치료하는 요법입니다. 일부 경우 뼈 통증을 완화시키고 비대성 폐골관절 병증의 치료를 도울 수 있다고 알려져 있습니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>구역절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>[Segmentectomy]\n구역절제술은 절제술의 하위 유형으로 장기 또는 조직의 일부를 제거하는 수술 절차로서, 전체 부분을 제거하는 경우도 존재합니다. 또한 종양과 그 주변의 정상적인 조직을 제거하는 데 사용될 수 있습니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP</LocID>                                    	
+	<Text>FEP 복합화학요법</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
+	<Text>[FEP Combination Treatment]\n플루오로우라실과 시스플라틴, 에토포시드를 조합하여 치료하는 요법입니다. 이는 1차 항암화학요법에 반응하지 않거나 치료 후 재발한 위암 환자에게 구제요법으로 비교적 효과적입니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL</LocID>                                    	
+	<Text>암모뉼</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL_DESC</LocID>                        	
+	<Text>[Ammonul]\n암모뉼은 혈액에서 너무 많은 암모니아가 발견되는, 고 암모니아 혈증 상태를 치료하는 데 사용됩니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE</LocID>                                    	
+	<Text>락툴로오스</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE_DESC</LocID>                        	
+	<Text>[Lactulose]\n락툴로오스는 간 질환의 합병증을 치료 또는 예방하기 위해 경구 또는 직장에서 사용되는 처방약입니다. 문제를 직접적으로 치료하지는 않지만 혈액에서 암모니아의 양을 줄임으로서 도움이 될 수 있습니다. \n\n필요한 방: 아무 진료실 / 치료실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>간절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>[Hepatectomy]\n간 절제술은 간을 일부 또는 전체 제거하는 외과적 절제술입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>간이식 수술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>[Liver Transplant Surgery]\n간 이식은 더이상 제대로 기능하지 않는 간을 제거하고 사망한 공여자의 건강한 간, 또는 살아있는 공여자의 건강한 간 부분으로 대체하는 수술입니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>면역억제제</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>[Immunosuppressive Drugs]\n면역억제제는 신체 면역계의 강도를 억제하거나 감소시키는 약물의 한 종류입니다. 이러한 약물 중 일부는 간, 심장 또는 신장과 같이 이식된 장기를 거부할 가능성을 낮추기 위해 사용됩니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>이하선 절제술</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>[Parotidectomy]귀 아래에 존재하는, 침을 분비시키는 조직인 이하선을 절제하는 수술입니다. 볼거리라고도 불리는 이하선염이 오래 지나게 되면 악성 종양으로 바뀌게 됩니다. \n\n필요한 방: 종양학과의 수술실</Text>  
+	</GameDBLocalizedString>
+	
+	
+	
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

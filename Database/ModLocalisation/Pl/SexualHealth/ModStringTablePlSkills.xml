@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PL_ADDON_SEXUAL_HEALTH_SKILLS">
+
+		<LanguageCode>pl</LanguageCode>
+		<LanguageNameLocalized>Polski</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>Flipperowski</Name>
+		</Contributors>
+        
+        <LocalizedStrings>
+            
+		
+			
+        <GameDBLocalizedString>      <LocID>DPT_SH</LocID>                                          <Text>Zdrowie Seksualne</Text>  </GameDBLocalizedString>
+			
+		
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_SH</LocID>
+				<Text>Wenerolog</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_SH_DESCRIPTION</LocID>
+				<Text>Umiejętność Wenerolog daje dostęp do specjalistycznych procedur diagnozowania i leczenia krytycznych pacjentów w Poradni Zdrowia Seksualnego.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_SH_SURGERY</LocID>
+				<Text>Chirurg Wenerolog</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_SH_SURGERY_DESCRIPTION</LocID>
+				<Text>Chirurg wyspecjalizowany w chorobach układu rozrodczego</Text>
+			</GameDBLocalizedString>
+		
+		</LocalizedStrings>
+		
+	</GameDBStringTable>
+
+</Database>

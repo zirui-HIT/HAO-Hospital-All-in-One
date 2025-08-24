@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_PTBR_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>ptbr</LanguageCode>
+        <LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Galo Doido</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>         
+				<Text>Triagem genital</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>     
+				<Text>Avaliação da triagem genital</Text>
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>  
+				<Text>Esfregaço genital</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>    
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>   
+				<Text>Análise do esfregaço genital</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>
+				<Text>É utilizada uma pequena espátula e uma escovinha para suavemente retirar um pequeno números de células do colo do útero ou do ânus. As células são mandados ao laboratório para serem testadas. </Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>  
+				<Text>Análise de células do colo do útero ou do ânus</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+				<Text>Um esfregaço de células é retirado da vagina ou do pênis.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString> 
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID> 
+				<Text>A cultura do esfregaço é analisada para a checagem de sinais de infecção.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Semen collection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Semen collection refers to the process of obtaining semen from the patient, usually through masturbation, directing the sample into a clean cup.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Semen collection analysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>The semen collection is analysed.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Groin examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Examination of the patient's groin area.</Text>
+			</GameDBLocalizedString>
+
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_EN_ADDON_INSURADD_NAMES">
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>Sleepy068</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>IN_COM_MEDICARE</LocID>
+				<Text>Medicare</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>IN_COM_RGI</LocID>
+				<Text>Research Grant Institute.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>Anthem_Inc</LocID>
+				<Text>Anthem, Inc.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>Kaiser_Foundation</LocID>
+				<Text>Kaiser Foundation</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>United_Healthcare</LocID>
+				<Text>United Healthcare</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+
+</Database>

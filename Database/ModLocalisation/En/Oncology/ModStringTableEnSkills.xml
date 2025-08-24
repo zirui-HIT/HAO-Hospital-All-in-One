@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGY_SKILLS">
+	
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+		<Name>Sleepy068</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_ONCOLOGY</LocID>                                          	
+		<Text>Oncology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+		<Text>Oncology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+		<Text>Oncology gives access to specialized procedures for detecting, diagnosing and treating various forms of cancer.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+		<Text>Surgical Oncology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+		<Text>Surgical oncology allows the doctor to act as main surgeon at Oncology department and affects how often surgeries will end up with complications.</Text>  
+	</GameDBLocalizedString>
+
+	
+	
+	
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

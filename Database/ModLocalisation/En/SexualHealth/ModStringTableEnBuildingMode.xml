@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_SEXUAL_HEALTH_BUILDING_MODE">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_OFFICE</LocID>
+                <Text>Sexual Health office</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>
+                <Text>A doctor's office specialising in sexual health. Staff requirements:\n1xDoctor</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_LAB</LocID>
+                <Text>Sexual Health Lab</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>
+                <Text>The Sexual Health laboratory provides a wide variety of tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

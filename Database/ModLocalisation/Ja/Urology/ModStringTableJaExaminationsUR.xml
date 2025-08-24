@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_JA_ADDON_URKN_EXAMINATIONS">
+        <LanguageCode>ja</LanguageCode>
+        <LanguageNameLocalized>Japanese</LanguageNameLocalized>
+        <Contributors>
+        <Name>jackall4125678</Name>
+        </Contributors>
+
+        <LocalizedStrings>     
+
+            <GameDBLocalizedString> 
+				<LocID>EXM_KN_INORCHIECTOMY</LocID>                                      
+				<Text>鼠径部精巣摘除術</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_DESC</LocID>                                      
+				<Text>精巣と片方または両方の精巣と精索全体を下外側腹部の切開部から外科的に取り除く、精巣摘出術の特定の方法です。 </Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+				<LocID>EXM_KN_INORCHIECTOMY_TEST</LocID>                                      
+				<Text>睾丸を鼠径部精巣摘除術で検査する</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_INORCHIECTOMY_TEST_DESC</LocID>                                      
+				<Text>精巣を鼠径精巣摘出術で検査する。</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString> 
+				<LocID>EXM_KN_TESTIS_PALP</LocID>                                      
+				<Text>精巣の触診</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+				<LocID>EXM_KN_TESTIS_PALP_DESC</LocID>                                      
+				<Text>睾丸とその付属器の存在、サイズ、位置、および形状が明らかになります。 正常な睾丸は卵形で滑らかで硬く、軽く触診します。 睾丸は、精巣の後方でわずかに外側にある精巣上体から容易に分離されます。</Text>  
+			</GameDBLocalizedString>
+			
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

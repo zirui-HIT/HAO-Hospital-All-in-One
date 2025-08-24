@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DIAG_TREATMENTS">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>Ollyver</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_STANOZOLOL</LocID>
+				<Text>康力龙</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_STANOZOLOL_DESC</LocID>
+				<Text>康力龙可用于遗传性血管性水肿患者的长期治疗，但患者需在常规临床、生化和放射学评估下受到密切监督。\n\n所需房间：任何诊室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_MILTEFOSINE</LocID>
+				<Text>米替福新</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_MILTEFOSINE_DESC</LocID>
+				<Text>米替福新，商品名为Impavido等，是一种主要用于治疗利什曼病和自由生活阿米巴感染（如福氏耐格里阿米巴和巴拉姆阿米巴）的药物。\n\n所需房间：任何诊室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_ZAVESCA</LocID>
+				<Text>扎维斯卡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_ZAVESCA_DESC</LocID>
+				<Text>扎维斯卡是一种用于治疗成人轻度至中度1型戈谢病以及尼曼-皮克病C型的药物。\n\n所需房间：任何诊室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_BIOTIN</LocID>
+				<Text>生物素胶囊</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_BIOTIN_DESC</LocID>
+				<Text>生物素（维生素B7）是一种存在于鸡蛋、牛奶和香蕉等食物中的维生素。口服生物素作为非处方补充剂提供，用于治疗生物素缺乏症。\n\n所需房间：任何诊室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_INTRAVENOUS_BERINERT</LocID>
+				<Text>贝利纳特</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_INTRAVENOUS_BERINERT_DESC</LocID>
+				<Text>静脉（IV）输注贝利纳特（C1-INH浓缩物）。\n\n所需房间：任何病房/单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_INTRAVENOUS_PANHEMATIN</LocID>
+				<Text>潘赫马汀</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_INTRAVENOUS_PANHEMATIN_DESC</LocID>
+				<Text>潘赫马汀是一种用于注射的血红素处方药，用于缓解急性间歇性卟啉病的反复发作。\n\n所需房间：任何病房/单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_CLOT_PREVENTING_DRUGS</LocID>
+				<Text>抗凝剂</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_CLOT_PREVENTING_DRUGS_DESCRIPTION_V1</LocID>
+				<Text>防止血小板相互粘连形成血栓的药物。\n\n所需房间：ICU/心脏内科、普外科、诊断科的办公室/诊断单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DIALYSIS</LocID>
+				<Text>透析</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DIALYSIS_DESCRIPTION_V1</LocID>
+				<Text>当肾脏无法维持功能时，从血液中清除细胞代谢产生的废物的过程。\n\n所需房间：普外科/诊断科的诊断单元\n\n所需设备：透析机</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_INTRAVENOUS_IMMUNOGLOBULIN</LocID>
+				<Text>静脉注射免疫球蛋白</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_INTRAVENOUS_IMMUNOGLOBULIN_DESCRIPTION_V1</LocID>
+				<Text>一种通过静脉（IV）途径输送的、含有抗体的纯化血液制品。\n\n所需房间：ICU/骨科、神经内科、诊断科的办公室/诊断单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DIURETICS</LocID>
+				<Text>利尿剂</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DIURETICS_DESCRIPTION_V1</LocID>
+				<Text>降低体内钠和水分含量的药物。\n\n所需房间：ICU/普外科、内科、心脏内科、神经内科、诊断科的办公室/诊断单元</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEBRIDEMENT_DESCRIPTION</LocID>
+				<Text>医疗上清除坏死组织的操作。\n\n所需房间：创伤科的办公室/诊断单元/烧伤单元/ICU/急诊科的创伤中心/诊断科</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

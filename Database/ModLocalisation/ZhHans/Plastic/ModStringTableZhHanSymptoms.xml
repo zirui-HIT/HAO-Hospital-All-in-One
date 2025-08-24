@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_PLASTICS_SYMPTOMS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068 (原文) / Gemini (翻译)</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PLAS_NERVE_DAMAGE_V2</LocID>                               
+		<Text>术后神经病理性疼痛</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PLAS_NERVE_DAMAGE_DESC</LocID>                   
+		<Text>如果手术中神经受损，可能会发展成术后神经病理性疼痛（PONP）。受损的神经无法正确地将信号从身体各部位传输到大脑。相反，这些信号被夸大，导致可能持续数月甚至数年的慢性疼痛。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UNDESIRED_RESULTS_V2</LocID>                               
+		<Text>非预期结果</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UNDESIRED_RESULTS_DESC</LocID>                   
+		<Text>不良结果是进行任何类型手术都不可避免的一部分。治疗后出现非预期结果是指在手术或治疗完成后，结果与预期不同。这可能导致进一步的并发症和患者压力增加。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_S_SCAR_TISSUE_V2</LocID>                               
+		<Text>显著疤痕组织</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_S_SCAR_TISSUE_DESC</LocID>                   
+		<Text>疤痕是皮肤表面伤口或损伤愈合后留下的痕迹。疤痕或疤痕组织的形成是愈合过程的正常部分，发生在因损伤或手术导致皮肤被切开时。疤痕组织的生长受多种因素影响，包括：原始损伤的严重程度。伤口在身体上的大小、深度和位置。术后数月，深层的过多疤痕组织会显著降低功能和活动能力。这可能会产生负面影响并降低患者满意度。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_CAPSULAR_V2</LocID>                               
+		<Text>包膜挛缩</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_CAPSULAR_DESC</LocID>                   
+		<Text>包膜挛缩是隆胸手术的一种并发症，当内部疤痕组织在乳房植入物周围形成一个紧密或收缩的包膜，将其压缩直至变形变硬时发生。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BARSA_INFECTION_V2</LocID>                               
+		<Text>乳房植入物感染</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BARSA_INFECTION_DESC</LocID>                   
+		<Text>从表面上看，细菌感染是任何可植入医疗设备（包括乳房植入物）的问题。感染症状可能包括高烧、乳房疼痛、发红和/或肿胀。如果抗生素本身无法清除感染，那么外科医生可能需要清理受感染的组织，并更换或完全移除植入物。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FAILED_BA_V2</LocID>                               
+		<Text>隆胸失败</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FAILED_BA_DESC</LocID>                   
+		<Text>由于手术并发症，患者未能获得成功的美容手术效果。他们会对此感到不满意。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_IMPLANT_EXTRUSION_V2</LocID>                               
+		<Text>乳房植入物外露</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_B_IMPLANT_EXTRUSION_DESC</LocID>                   
+		<Text>在植入物重建手术后的相对罕见病例中，植入物或组织扩张器的表面会穿透皮肤并暴露出来。这被称为“外露”。如果患者有植入物外露或即将外露，可能会发生感染。如果乳房植入物已经外露或即将外露，整形外科医生将不得不通过矫正手术将其移除或更换。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_PLAS_ABSCESS</LocID>                   
+		<Text>脓肿</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NOSE_SEPTALPERF_V2</LocID>                                          	
+		<Text>鼻中隔穿孔</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NOSE_SEPTALPERF_DESC</LocID>                   
+		<Text>鼻中隔穿孔是一种医疗状况，其中分隔鼻腔的骨/软骨壁（鼻中隔）出现孔洞或裂隙。一些穿孔可能导致出血、疼痛和吸气时发出哨声。如果干血或结痂积聚，也可能导致鼻呼吸困难。许多穿孔不需要闭合，但严重或复杂的穿孔可能导致感染。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_GLOBE_PERFORATION_V2</LocID>                                          	
+		<Text>眼球穿孔</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_GLOBE_PERFORATION_DESC</LocID>                   
+		<Text>眼球破裂发生于眼睛外膜的完整性因钝性或穿透性创伤而被破坏时。任何对角膜、巩膜或两者的全层损伤都被视为开放性眼球损伤，在急性情况下处理方式相同。眼球破裂是一种眼科急症，迅速采取行动对于最大化功能结果至关重要。尽管眼球在眼眶内的位置在许多情况下可以保护其免受伤害，但眼后段的损伤与永久性视力丧失的极高频率相关。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_UNDESIRED_RESULTS_V2</LocID>                                          	
+		<Text>眼位对齐不理想</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_UNDESIRED_RESULTS_DESC</LocID>                   
+		<Text>手术后眼位对齐不理想是矫正斜视和其他眼位不正问题时最常见的并发症。尽管术前进行了仔细的测量并使用了常见的手术剂量表，仍有一定比例的患者在术后会出现矫正过度或矫正不足，需要进行矫正手术来缓解问题。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_CIC_V2</LocID>                               
+		<Text>结膜包涵性囊肿</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_CIC_DESC</LocID>                   
+		<Text>结膜包涵性囊肿发生在手术期间结膜上皮细胞被埋在结膜表面下时。这些细胞会随着时间的推移而增殖，在原始手术后数天至数年形成结膜下囊肿。结膜疤痕在再次手术后以及在手术切除后更常见，当肌肉腹的推进可能将较厚的后Tenon囊推向更靠近角巩膜缘的位置，使其更易见。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_SLIPPED_MUSCLE_V2</LocID>                               
+		<Text>眼肌滑脱</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EYE_SLIPPED_MUSCLE_DESC</LocID>                   
+		<Text>在斜视手术中，如果缝合肌肉包膜时未包含肌肉或肌腱，则会发生眼肌滑脱。当包膜重新附着到巩膜上时，肌腱和肌肉便可以从附着点向后滑动。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CSFRHINORRHEA</LocID>                         
+		<Text>脑脊液鼻漏</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CSFRHINORRHEA_DESC</LocID>                         
+		<Text>脑脊液鼻漏是一种包围大脑的液体泄漏到鼻子和鼻窦中的病症。头部创伤、手术甚至先天缺陷都可能在容纳这种液体的膜上造成孔洞。然后它会泄漏到鼻子或耳朵里，导致水样鼻涕。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> <LocID>SYM_CRP_NASAL_HEMATOMA</LocID>                         
+		<Text>鼻血肿</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> <LocID>SYM_CRP_NASAL_HEMATOMA_DESC</LocID>                         
+		<Text>鼻中隔血肿是鼻中隔内的积血。鼻中隔是鼻孔之间的部分。损伤会破坏血管，导致液体和血液可能积聚在黏膜下。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LOW_NOSEBRIDGE</LocID>                         
+		<Text>鼻梁过低</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LOW_NOSEBRIDGE_DESC</LocID>                         
+		<Text>患者的鼻梁异常低。这可能导致与鼻子功能有关的问题。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_DISPROPORT_APPEAR</LocID>                         
+		<Text>外观不成比例（鼻）</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_DISPROPORT_APPEAR_DESC</LocID>                         
+		<Text>患者鼻子的外观和尺寸与正常标准有明显差异。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_PINCHED_NOSTRILS</LocID>                         
+		<Text>鼻孔夹捏</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_PINCHED_NOSTRILS_DESC</LocID>                         
+		<Text>鼻尖夹捏指鼻尖区域过度狭窄的鼻子。这种鼻部异常可以是先天性问题，即患者出生时就有，也可以是先前不成功的鼻整形手术的结果。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_NOSETOOHIGH</LocID>                         
+		<Text>鼻尖过高</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_NOSETOOHIGH_DESC</LocID>                         
+		<Text>患者的鼻尖异常高翘。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_UNEVEN_NOSTRILS</LocID>                         
+		<Text>鼻孔不对称</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_UNEVEN_NOSTRILS_DESC</LocID>                         
+		<Text>患者的一个鼻孔与另一个相比，尺寸明显不同。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEPHAROPTOSIS</LocID> <Text>上睑下垂</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BLEPHAROPTOSIS_DESC</LocID> <Text>上睑下垂，也称为眼睑下垂，是上眼睑的下垂，可能影响一只或两只眼睛。眼睑可能只轻微下垂，也可能下垂到足以覆盖瞳孔并阻挡视线。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OCULAR_EXTRUDE</LocID>                         
+		<Text>眼内容物从眼球突出</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OCULAR_EXTRUDE_DESC</LocID>                         
+		<Text>患者眼睛的眼球内部内容物正在突出。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OCULAR_MOTILITY</LocID>                         
+		<Text>眼球运动丧失</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_OCULAR_MOTILITY_DESC</LocID>                         
+		<Text>眼球运动丧失，也称为动眼神经功能障碍，发生于有控制的、自主的、有目的的眼球运动缺失或缺陷时。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_TISSUE_SHRAPNEL</LocID>                         
+		<Text>组织弹片损伤</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_TISSUE_SHRAPNEL_DESC</LocID>                         
+		<Text>患者有弹片造成的浅表组织损伤。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_FACE_HEMATOMA</LocID>                         
+		<Text>面部血肿</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_FACE_HEMATOMA_DESC</LocID>                         
+		<Text>面部血肿是面部内的积血。损伤会破坏血管，导致液体和血液可能积聚在黏膜下。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IMPLANT_INFECTION01</LocID> <Text>颊部植入物感染</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IMPLANT_INFECTION01_DESC</LocID> <Text>患者在最近的颊部植入物周围发生了感染。这种感染很严重，需要移除植入物并清洁伤口。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FAILED_CA01</LocID>                               
+		<Text>颊部填充失败</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FAILED_CA01_DESC</LocID>                   
+		<Text>由于手术并发症，患者未能获得成功的美容手术效果。他们会对此感到不满意。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LOSS_OF_UMBILICUS</LocID>                               
+		<Text>脐部缺失</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_LOSS_OF_UMBILICUS_DESC</LocID>                   
+		<Text>脐部或肚脐的缺失导致一个人失去肚脐眼。虽然这不会引起健康问题，但可能会让人感到尴尬，尤其是在腹部手术并发症的情况下。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BURNING_SENSE</LocID>                         
+		<Text>烧灼感</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BURNING_SENSE_DESC</LocID>                         
+		<Text>患者正经历一种痛苦的烧灼感。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SKIN_DISCOLOURATION</LocID>                         
+		<Text>皮肤变色</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SKIN_DISCOLOURATION_DESC</LocID>                         
+		<Text>患者的皮肤出现斑块，与他们正常的肤色有明显不同。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_ULCERATION</LocID>                         
+		<Text>溃疡</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_ULCERATION_DESC</LocID>                         
+		<Text>溃疡是指身体某一部位发生溃疡的形成或发展。溃疡形成后，受影响区域可能会出血或产生难闻的分泌物。皮肤上的溃疡会导致疼痛的疮口，容易感染并形成脓液。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CVI</LocID>                         
+		<Text>慢性静脉功能不全</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CVI_DESC</LocID>                         
+		<Text>慢性静脉功能不全发生于腿部静脉不能让血液回流到心脏时。正常情况下，静脉中的瓣膜确保血液流向心脏。但当这些瓣膜工作不正常时，血液也可能倒流。这会导致血液在腿部积聚（淤积）。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_ECCHYMOSIS</LocID>                         
+		<Text>瘀斑</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_ECCHYMOSIS_DESC</LocID>                         
+		<Text>瘀斑是由于皮下出血导致的皮肤变色。与挫伤不同，瘀斑不是由打击或撞击导致血管破裂引起的。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SF_THROMBOPHLEBITIS</LocID>                         
+		<Text>浅表性血栓性静脉炎</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SF_THROMBOPHLEBITIS_DESC</LocID>                         
+		<Text>浅表性血栓性静脉炎（STP）指皮下浅表静脉的炎症和血栓形成。它通常发生在腿部的静脉曲张中，但也可能在任何浅表静脉受伤后发生。</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SKINBURN_MILD</LocID>                         
+		<Text>一度烧伤</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_SKINBURN_MILD_DESC</LocID>                         
+		<Text>一度烧伤也称为浅表烧伤或伤口。它是一种影响皮肤第一层的损伤。</Text>	
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

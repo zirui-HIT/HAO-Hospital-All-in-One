@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_FR_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+
+        <LanguageCode>fr</LanguageCode>
+        <LanguageNameLocalized>Français</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Mikeo</Name>
+			<Name>MacNaab</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			
+			      			
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>      
+				<Text>Dépistage génital</Text>
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID> 
+				<Text>Analyse du dépistage génital</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>   
+				<Text>Frottis</Text>  
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>    
+				<Text>Analyse du frottis</Text> 
+			</GameDBLocalizedString>	
+			<GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>    
+				<Text>Prélèvement de tissus génitaux.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>  
+				<Text>Les tissus prélevés sont analysés pour découvrir de possibles symptômes ou infection.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>   
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>      
+				<Text>Prélèvement de cellules intra-génitales.</Text> 
+			</GameDBLocalizedString>
+            <GameDBLocalizedString>  
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>  
+				<Text>Le frottis est analysé pour découvrir de possibles symptômes ou des infections.</Text> 
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING</LocID>
+				<Text>Spermogramme</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION</LocID>
+				<Text>Un spermogramme est un examen médical au cours duquel sont analysées les différentes caractéristiques du sperme.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LocID>
+				<Text>Spermogramme : analyse</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</LocID>
+				<Text>Le sperme est analysé.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION</LocID>
+				<Text>Examen de l'aine</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
+				<Text>Examen de la région de l'aine du patient.</Text>
+			</GameDBLocalizedString>
+
+			
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

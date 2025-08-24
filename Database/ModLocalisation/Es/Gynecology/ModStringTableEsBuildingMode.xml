@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ES_ADDON_GYNECOLOGIE_BUILDING_MODE">
+
+        <LanguageCode>es</LanguageCode>
+		<LanguageNameLocalized>Español</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Parmeno75</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE</LocID>							<Text>Consulta de Ginecología</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>				<Text>La consulta de Ginecología es un consultorio ambulatorio de diagnóstico común. \n\nMin. Staff requirements: \n1x Doctor</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE</LocID>				<Text>Sala de diagnóstico</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>ROOM_TYPE_INPATIENT_GYNECOLOGY_OFFICE_DESCRIPTION</LocID>	<Text>La sala de diagnóstico en el departamento de Ginecología dota a los pacientes hospitalizados de procedimientos de exploración y tratamiento. \n\nMin. Staff requirements: \n1x Doctor \n(Personal en la sala de guardia)</Text>	</GameDBLocalizedString>
+		<GameDBLocalizedString>	<LocID>OBJECT_DECAL_GYNECO_DPT</LocID>								<Text>Ginecología</Text>	</GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
