@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<!-- ==== Dermatology (lesions/signs) ==== -->
+
+	<!-- 开放/闭合粉刺（黑头/白头）-->
+	<GameDBSymptom ID="SYM_DER_COMEDONES">
+		<DescriptionLocID>SYM_DER_COMEDONES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_TOPICAL_RETINOID</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 持续性中央面部潮红并可见毛细血管扩张 -->
+	<GameDBSymptom ID="SYM_DER_CENTROFACIAL_TELANGIECTATIC_FLUSH">
+		<DescriptionLocID>SYM_DER_CENTROFACIAL_TELANGIECTATIC_FLUSH_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1119</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 屈侧湿疹样皮损伴显著瘙痒、苔藓样变 -->
+	<GameDBSymptom ID="SYM_DER_FLEXURAL_ECZEMA">
+		<DescriptionLocID>SYM_DER_FLEXURAL_ECZEMA_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_MOISTURIZER_CREAM</TreatmentRef>
+		</Treatments>
+		<ShameLevel>15</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1051</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 可压消、迁移性风团 -->
+	<GameDBSymptom ID="SYM_DER_TRANSIENT_WHEALS_24H">
+		<DescriptionLocID>SYM_DER_TRANSIENT_WHEALS_24H_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_SKIN_INJECTION_TEST</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1339</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 去鳞后点状出血 -->
+	<GameDBSymptom ID="SYM_DER_AUSPITZ_SIGN">
+		<DescriptionLocID>SYM_DER_AUSPITZ_SIGN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1627</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 伍德灯下乳白荧光的脱色斑 -->
+	<GameDBSymptom ID="SYM_DER_WOOD_LAMP_DEPIGMENT">
+		<DescriptionLocID>SYM_DER_WOOD_LAMP_DEPIGMENT_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>40</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 皮屑边缘10–20%KOH镜检见透明分隔性菌丝 -->
+	<GameDBSymptom ID="SYM_DER_KOH_DERMATOPHYTE_POS">
+		<DescriptionLocID>SYM_DER_KOH_DERMATOPHYTE_POS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1647</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 腹股沟皮屑KOH镜检阳性 -->
+	<GameDBSymptom ID="SYM_DER_KOH_DERMATOPHYTE_POS_GROIN">
+		<DescriptionLocID>SYM_DER_KOH_DERMATOPHYTE_POS_GROIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIFUNGAL_OINTMENT</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1647</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 黑点样脱发（断发）或KOH毛发检查阳性 -->
+	<GameDBSymptom ID="SYM_DER_BLACK_DOT_TCAP">
+		<DescriptionLocID>SYM_DER_BLACK_DOT_TCAP_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_SYSTEMIC_TERBINAFINE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1033</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 皮屑KOH示短丝+酵母团 -->
+	<GameDBSymptom ID="SYM_DER_SPAGHETTI_MEATBALLS_KOH">
+		<DescriptionLocID>SYM_DER_SPAGHETTI_MEATBALLS_KOH_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1647</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 刮削后见黑点/点状出血 -->
+	<GameDBSymptom ID="SYM_DER_THROMBOSED_CAPILLARIES">
+		<DescriptionLocID>SYM_DER_THROMBOSED_CAPILLARIES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_CRYOTHERAPY</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1159</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 面/手/腿多发细小扁平丘疹成群 -->
+	<GameDBSymptom ID="SYM_DER_FLAT_WARTS_CLUSTERS">
+		<DescriptionLocID>SYM_DER_FLAT_WARTS_CLUSTERS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_WART_CURETTAGE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1159</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 蜂蜜色痂 -->
+	<GameDBSymptom ID="SYM_DER_HONEY_COLORED_CRUSTS">
+		<DescriptionLocID>SYM_DER_HONEY_COLORED_CRUSTS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1629</IconIndex>
+	</GameDBSymptom>
+
+	<!-- ‘先驱斑’+随后圣诞树样分布 -->
+	<GameDBSymptom ID="SYM_DER_HERALD_PATCH">
+		<DescriptionLocID>SYM_DER_HERALD_PATCH_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 脱发边缘‘感叹号样毛’ -->
+	<GameDBSymptom ID="SYM_DER_EXCLAMATION_MARK_HAIR">
+		<DescriptionLocID>SYM_DER_EXCLAMATION_MARK_HAIR_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROID_INJECTIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 皮损表面Wickham网状白纹 -->
+	<GameDBSymptom ID="SYM_DER_WICKHAM_STRIAE">
+		<DescriptionLocID>SYM_DER_WICKHAM_STRIAE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 直接免疫荧光：乳头真皮颗粒状IgA沉积 -->
+	<GameDBSymptom ID="SYM_DER_DH_IGA_DIF_POS">
+		<DescriptionLocID>SYM_DER_DH_IGA_DIF_POS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIF_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_DAPSONE_ORAL</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1711</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 伍德灯提示表皮型色沉增强 -->
+	<GameDBSymptom ID="SYM_DER_MELASMA_WOODLAMP_ENHANCE">
+		<DescriptionLocID>SYM_DER_MELASMA_WOODLAMP_ENHANCE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1437</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 腋/腹股沟反复结节脓肿并窦道/瘘道形成 -->
+	<GameDBSymptom ID="SYM_DER_HS_SINUS_TRACTS">
+		<DescriptionLocID>SYM_DER_HS_SINUS_TRACTS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1595</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 脂溢区油腻性鳞屑性红斑 -->
+	<!-- 指缝/腕屈侧可见疥螨隧道 -->
+	</Database>

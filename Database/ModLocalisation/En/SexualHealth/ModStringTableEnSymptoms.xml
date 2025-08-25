@@ -254,7 +254,361 @@
 				<Text>Tests have shown the patient has prostatitis.</Text>
 			</GameDBLocalizedString>
 			
-		
+			<!-- new -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_NAIL_PITTING</LocID>
+				<Text>Nail pitting</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_NAIL_PITTING_DESCRIPTION</LocID>
+				<Text>Nail pitting is the presence of pinpoint depressions on the nail surface, commonly seen in nail conditions associated with psoriasis or alopecia areata.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PHOTOEXACERBATION</LocID>
+				<Text>Photoexacerbation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PHOTOEXACERBATION_DESCRIPTION</LocID>
+				<Text>Photoexacerbation is the worsening of skin lesions after sun exposure, suggesting a photosensitive/photoaggravated skin disease. Enhanced sun protection and avoidance of triggers help with control.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SYMMETRIC_MALAR_MACULES</LocID>
+				<Text>Symmetric malar macules</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SYMMETRIC_MALAR_MACULES_DESCRIPTION</LocID>
+				<Text>Symmetric malar macules are symmetrically distributed pigmented spots on the face, often associated with melasma; UV radiation and hormonal changes are common triggers.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_FOREHEAD_INVOLVEMENT</LocID>
+				<Text>Forehead involvement</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_FOREHEAD_INVOLVEMENT_DESCRIPTION</LocID>
+				<Text>Forehead involvement with symmetrically distributed pigmented spots, often associated with melasma; UV radiation and hormonal changes are common triggers.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_UPPERLIP_PATCH</LocID>
+				<Text>Upper lip patch</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_UPPERLIP_PATCH_DESCRIPTION</LocID>
+				<Text>Pigmented patch on the upper lip, often associated with melasma; UV radiation and hormonal changes are common triggers.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_KOEBNER</LocID>
+				<Text>Koebner phenomenon</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_KOEBNER_DESCRIPTION</LocID>
+				<Text>The Koebner phenomenon is the appearance of new skin lesions identical to the original disease at sites of trauma/scratching, seen in psoriasis, lichen planus, etc.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_COLLARETTE_SCALE</LocID>
+				<Text>Collarette scale</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_COLLARETTE_SCALE_DESCRIPTION</LocID>
+				<Text>A collarette scale is a scale with an inwardly folded collar-like shape, commonly seen in the 'herald patch' and secondary rashes of pityriasis rosea.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PIH</LocID>
+				<Text>Post-inflammatory hyperpigmentation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PIH_DESCRIPTION</LocID>
+				<Text>Post-inflammatory hyperpigmentation is a pigmentary change following inflammation, resulting from inflammation-mediated melanin metabolism disorder; controlling the primary disease and sun protection are key.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PIHYPO</LocID>
+				<Text>Post-inflammatory hypopigmentation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PIHYPO_DESCRIPTION</LocID>
+				<Text>Post-inflammatory hypopigmentation is a pigmentary change following inflammation, resulting from inflammation-mediated melanin metabolism disorder; controlling the primary disease and sun protection are key.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SEBUM_EXCESS</LocID>
+				<Text>Increased sebum secretion</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SEBUM_EXCESS_DESCRIPTION</LocID>
+				<Text>Increased sebum secretion is excessive sebum production, often associated with acne, androgen levels, and genetics.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SCALP_SCALE</LocID>
+				<Text>Scalp scaling</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SCALP_SCALE_DESCRIPTION</LocID>
+				<Text>Increased scaling on the scalp, seen in seborrheic dermatitis, tinea capitis, or psoriasis, requiring differentiation based on KOH test and clinical presentation.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_LICHENIFICATION</LocID>
+				<Text>Lichenification</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_LICHENIFICATION_DESCRIPTION</LocID>
+				<Text>Lichenification is a chronic change from scratching/rubbing, characterized by deepened skin lines and thickened skin, commonly seen in chronic eczema.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_EXCORIATIONS</LocID>
+				<Text>Excoriations/scratch marks</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_EXCORIATIONS_DESCRIPTION</LocID>
+				<Text>Excoriations/scratch marks are linear crusts/erosions formed by scratching due to itching, often indicating active pruritic dermatosis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SATELLITE_PUSTULES</LocID>
+				<Text>Satellite papules/pustules</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SATELLITE_PUSTULES_DESCRIPTION</LocID>
+				<Text>Satellite papules/pustules are scattered small papules/pustules around a main lesion, commonly seen in cutaneous/mucosal candidiasis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_ANNULAR_BORDER</LocID>
+				<Text>Annular raised border</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_ANNULAR_BORDER_DESCRIPTION</LocID>
+				<Text>An annular raised border is a sign of annular erythema with a raised periphery and relatively clear center, suggesting superficial fungal diseases like tinea corporis/cruris.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_CENTRAL_CLEARING</LocID>
+				<Text>Central clearing</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_CENTRAL_CLEARING_DESCRIPTION</LocID>
+				<Text>A pattern where the center of a skin lesion improves or clears up while the outer edge continues to expand, often seen in fungal infections like ringworm.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL</LocID>
+				<Text>Flushing induced by hot drinks/alcohol</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL_DESCRIPTION</LocID>
+				<Text>The patient reports episodes of facial redness and warmth that are triggered by consuming hot beverages, spicy foods, or alcoholic drinks, a common feature of rosacea.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PAPULOPUSTULES</LocID>
+				<Text>Papulopustules</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_PAPULOPUSTULES_DESCRIPTION</LocID>
+				<Text>The presence of small, red, inflamed bumps (papules) and pus-filled lesions (pustules) on the skin, characteristic of conditions like acne or papulopustular rosacea.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_GREASY_SCALE</LocID>
+				<Text>Greasy scale</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_GREASY_SCALE_DESCRIPTION</LocID>
+				<Text>Yellowish, oily scales or flakes on the skin, typically found in areas rich in oil glands such as the scalp, face, and chest. A key sign of seborrheic dermatitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_NAIL_ONYCHOLYSIS</LocID>
+				<Text>Onycholysis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_NAIL_ONYCHOLYSIS_DESCRIPTION</LocID>
+				<Text>The painless separation of the nail from the nail bed, starting at the tip and progressing towards the base. It can be associated with psoriasis, fungal infections, or trauma.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_LGV_NAAT_POS</LocID>
+				<Text>Positive NAAT for Chlamydia trachomatis L1–L3</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_LGV_NAAT_POS_DESCRIPTION</LocID>
+				<Text>Positive nucleic acid amplification test (NAAT) for Chlamydia trachomatis L1–L3 supports the diagnosis of LGV.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_DONOVAN_BODIES</LocID>
+				<Text>Donovan bodies on smear/biopsy</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_DONOVAN_BODIES_DESCRIPTION</LocID>
+				<Text>Presence of Donovan bodies on smear/biopsy suggests granuloma inguinale (donovanosis).</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_KOH_CANDIDA_POS</LocID>
+				<Text>Budding yeast/pseudohyphae on 10% KOH prep of vaginal discharge</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_SH_KOH_CANDIDA_POS_DESCRIPTION</LocID>
+				<Text>Presence of budding yeast/pseudohyphae on KOH microscopy of vaginal discharge is consistent with Candida infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_COMEDONES</LocID>
+				<Text>Open/closed comedones (blackheads/whiteheads)</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_COMEDONES_DESCRIPTION</LocID>
+				<Text>Comedones are the hallmark lesions of acne, consisting of hair follicles clogged with sebum and dead skin cells. Open comedones (blackheads) have a dark surface, while closed comedones (whiteheads) are skin-colored bumps.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_CENTROFACIAL_TELANGIECTATIC_FLUSH</LocID>
+				<Text>Persistent centrofacial flushing with visible telangiectasias</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_CENTROFACIAL_TELANGIECTATIC_FLUSH_DESCRIPTION</LocID>
+				<Text>Persistent redness in the central face, accompanied by fine, visible, dilated blood vessels (telangiectasias). This is a characteristic feature of erythematotelangiectatic rosacea.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_FLEXURAL_ECZEMA</LocID>
+				<Text>Flexural eczematous lesions with significant pruritus and lichenification</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_FLEXURAL_ECZEMA_DESCRIPTION</LocID>
+				<Text>Itchy, inflamed skin patches located in the body's folds (e.g., behind the knees, inside the elbows). Chronic scratching leads to thickened, leathery skin (lichenification), a common presentation of atopic dermatitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_TRANSIENT_WHEALS_24H</LocID>
+				<Text>Blanchable, migratory wheals</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_TRANSIENT_WHEALS_24H_DESCRIPTION</LocID>
+				<Text>Raised, itchy, and swollen skin welts (wheals) that turn white when pressed. Individual lesions are transient, typically resolving within 24 hours and appearing in new locations, characteristic of urticaria (hives).</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_AUSPITZ_SIGN</LocID>
+				<Text>Pinpoint bleeding after scale removal</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_AUSPITZ_SIGN_DESCRIPTION</LocID>
+				<Text>Well-demarcated erythematous scaly plaques with pinpoint bleeding after scale removal, consistent with psoriasis features.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_WOOD_LAMP_DEPIGMENT</LocID>
+				<Text>Depigmented patches with milky-white fluorescence under Wood's lamp</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_WOOD_LAMP_DEPIGMENT_DESCRIPTION</LocID>
+				<Text>Milky-white fluorescence under Wood's lamp suggests epidermal melanin loss (e.g., vitiligo).</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_KOH_DERMATOPHYTE_POS</LocID>
+				<Text>Hyaline septate hyphae on 10-20% KOH prep of skin scrapings</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_KOH_DERMATOPHYTE_POS_DESCRIPTION</LocID>
+				<Text>Presence of hyaline septate hyphae on KOH wet mount suggests dermatophyte infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_KOH_DERMATOPHYTE_POS_GROIN</LocID>
+				<Text>Positive KOH prep of groin skin scrapings</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_KOH_DERMATOPHYTE_POS_GROIN_DESCRIPTION</LocID>
+				<Text>Presence of hyaline septate hyphae on KOH wet mount suggests dermatophyte infection.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_BLACK_DOT_TCAP</LocID>
+				<Text>Black dot alopecia (broken hairs) or positive KOH hair exam</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_BLACK_DOT_TCAP_DESCRIPTION</LocID>
+				<Text>Black dot appearance left by broken hairs, common in endothrix tinea capitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SPAGHETTI_MEATBALLS_KOH</LocID>
+				<Text>Short hyphae + yeast clusters on KOH prep</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SPAGHETTI_MEATBALLS_KOH_DESCRIPTION</LocID>
+				<Text>Presence of short hyphae and clusters of yeast ('spaghetti and meatballs') on KOH prep, typical of tinea versicolor.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_THROMBOSED_CAPILLARIES</LocID>
+				<Text>Black dots/pinpoint bleeding after shaving</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_THROMBOSED_CAPILLARIES_DESCRIPTION</LocID>
+				<Text>Pinpoint black dots/bleeding after shaving off the stratum corneum, caused by thrombosed capillaries within the wart.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_FLAT_WARTS_CLUSTERS</LocID>
+				<Text>Multiple small, flat papules in clusters on face/hands/legs</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_FLAT_WARTS_CLUSTERS_DESCRIPTION</LocID>
+				<Text>Multiple small, flat papules in clusters, consistent with flat warts.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_HONEY_COLORED_CRUSTS</LocID>
+				<Text>Honey-colored crusts</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_HONEY_COLORED_CRUSTS_DESCRIPTION</LocID>
+				<Text>Golden honey-colored crusts, typical of impetigo.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_HERALD_PATCH</LocID>
+				<Text>'Herald patch' followed by Christmas tree distribution</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_HERALD_PATCH_DESCRIPTION</LocID>
+				<Text>A larger oval scaly patch appears first, followed by a 'Christmas tree' distribution of secondary rashes a few days later.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_EXCLAMATION_MARK_HAIR</LocID>
+				<Text>'Exclamation mark hairs' at the edge of hair loss</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_EXCLAMATION_MARK_HAIR_DESCRIPTION</LocID>
+				<Text>Short broken hairs that are thinner at the proximal end and thicker at the distal end, resembling an 'exclamation mark', suggesting active alopecia areata.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_WICKHAM_STRIAE</LocID>
+				<Text>Wickham's striae on lesion surface</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_WICKHAM_STRIAE_DESCRIPTION</LocID>
+				<Text>Fine, reticular white lines on the lesion surface, a characteristic sign of lichen planus.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_DH_IGA_DIF_POS</LocID>
+				<Text>Granular IgA deposits in dermal papillae on direct immunofluorescence</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_DH_IGA_DIF_POS_DESCRIPTION</LocID>
+				<Text>Direct immunofluorescence showing granular IgA deposits in the dermal papillae supports the diagnosis of dermatitis herpetiformis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_MELASMA_WOODLAMP_ENHANCE</LocID>
+				<Text>Epidermal pigmentation enhanced under Wood's lamp</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_MELASMA_WOODLAMP_ENHANCE_DESCRIPTION</LocID>
+				<Text>Enhanced border and color of pigmented spots under Wood's lamp, suggesting primarily epidermal pigmentation.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_HS_SINUS_TRACTS</LocID>
+				<Text>Sinus tracts and scarring in axilla/groin</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_HS_SINUS_TRACTS_DESCRIPTION</LocID>
+				<Text>Subcutaneous sinus tracts and scarring formed after recurrent nodules and abscesses, a chronic change of hidradenitis suppurativa.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SEBDERM_SEBORRHEIC_PLAQUES</LocID>
+				<Text>Greasy, scaly erythematous plaques in seborrheic areas</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SEBDERM_SEBORRHEIC_PLAQUES_DESCRIPTION</LocID>
+				<Text>Greasy, scaly erythematous plaques in seborrheic areas like the face/chest/back, suggesting seborrheic dermatitis.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SCABIES_BURROWS</LocID>
+				<Text>Scabies burrows visible in finger webs/wrist flexures</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DER_SCABIES_BURROWS_DESCRIPTION</LocID>
+				<Text>Fine, long, winding burrow-like lines visible in areas like finger webs and wrist flexures, often with intense itching, suggesting scabies.</Text>
+			</GameDBLocalizedString>
+
 		</LocalizedStrings>
     </GameDBStringTable>
 </Database>

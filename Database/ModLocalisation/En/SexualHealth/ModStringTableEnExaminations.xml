@@ -69,7 +69,61 @@
 				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
 				<Text>Examination of the patient's groin area.</Text>
 			</GameDBLocalizedString>
-							
+				
+			<!-- new -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_WOOD_LAMP_EXAM</LocID>
+				<Text>Wood's lamp examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_WOOD_LAMP_EXAM_DESCRIPTION</LocID>
+				<Text>A Wood's lamp examination is a non-invasive test that uses ultraviolet light (365nm) to observe skin pigment abnormalities and the fluorescence of specific pathogens. It is suitable for assessing hyper/hypopigmentation, vitiligo, and the extent of certain fungal infections.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DERMOSCOPY</LocID>
+				<Text>Dermoscopy</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DERMOSCOPY_DESCRIPTION</LocID>
+				<Text>Dermoscopy uses a dermatoscope for magnified and polarized light observation at the epidermal level, enhancing the identification of pigmented lesions, vascular patterns, and structures like scales and keratin plugs. It aids in the early detection of melanoma and the classification of inflammatory dermatoses.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_SAMPLING</LocID>
+				<Text>KOH wet mount sampling/preparation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_SAMPLING_DESCRIPTION</LocID>
+				<Text>KOH wet mount sampling/preparation involves scraping skin scales, hair, or nail clippings, treating them with 10-20% potassium hydroxide, and then examining them under a microscope to quickly detect dermatophyte hyphae or budding yeast.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_TESTING</LocID>
+				<Text>KOH wet mount examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_TESTING_DESCRIPTION</LocID>
+				<Text>The KOH wet mount is examined under a microscope to detect signs of fungal infection.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_SAMPLING</LocID>
+				<Text>Direct immunofluorescence sampling</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_SAMPLING_DESCRIPTION</LocID>
+				<Text>Direct immunofluorescence sampling involves taking a skin biopsy from the edge of a lesion or next to a fresh blister for direct immunofluorescence to detect deposits of IgA/IgG/complement, aiding in the differentiation of various autoimmune blistering/inflammatory diseases.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_TESTING</LocID>
+				<Text>Direct immunofluorescence examination</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_TESTING_DESCRIPTION</LocID>
+				<Text>The skin sample is examined under a microscope to detect deposits of IgA/IgG/complement.</Text>
+			</GameDBLocalizedString>
+
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

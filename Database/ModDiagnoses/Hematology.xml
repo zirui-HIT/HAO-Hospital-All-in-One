@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
 	<GameDBMedicalCondition ID="DIA_IDA">
@@ -62,18 +62,23 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_IRON_SUPPLEMENT</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_FOOT_CREAM</TreatmentRef>
+			<TreatmentRef>TRT_IRON_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -169,18 +174,26 @@
 
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
-
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_HYDROXYUREA</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ASPIRIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_HYDROXYUREA</TreatmentRef>
+			<TreatmentRef>TRT_HEM_INTERFERON_ALPHA</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
 		</Treatments>
 		<IconIndex>1</IconIndex>
 		<CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_PMF</CustomIconBigAssetRef>
@@ -321,26 +334,44 @@
 
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP</ExaminationRef>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP</ExaminationRef>
 			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
-
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_HYDROXYUREA</TreatmentRef>
+			<TreatmentRef>TRT_HEM_LENALIDOMIDE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RUXOLITNIB</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1</IconIndex>
 		<CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_PMF</CustomIconBigAssetRef>
@@ -492,27 +523,42 @@
 
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP</ExaminationRef>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
-
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ECULIZUMAB</TreatmentRef>
+			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -622,25 +668,36 @@
 
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
-
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-			<TreatmentRef>TRT_HEM_VINCRISTINE</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTITUSICS</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ADRIAMYCIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_BLEOMYCIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DACARBAZINE</TreatmentRef>
-
-			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_VINCRISTINE</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1</IconIndex>
 		<CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_MM</CustomIconBigAssetRef>
@@ -795,31 +852,48 @@
 
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_CRP</ExaminationRef>
-			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-			<TreatmentRef>TRT_HEM_BORTEZOMIB</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ADRIAMYCIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEXAMETHASONE_TABLETS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_MECOBALAMIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_FUROSEMIDE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DISODIUM_PAMIDRONATE</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DIALYSIS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ADRIAMYCIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ALLOPURINOL</TreatmentRef>
+			<TreatmentRef>TRT_HEM_BORTEZOMIB</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEXAMETHASONE_TABLETS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DISODIUM_PAMIDRONATE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_FUROSEMIDE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1</IconIndex>
 		<CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_MM</CustomIconBigAssetRef>
@@ -903,27 +977,29 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_CRP</ExaminationRef>
-			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-
-			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
-
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ATG_ALG</TreatmentRef>
+			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -992,19 +1068,33 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
-
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_DEXAMETHASONE_TABLETS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEXAMETHASONE_TABLETS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ROMIPLOSTIM</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_IMMUNOGLOBULIN</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_PLATELET_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>2798</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1043,15 +1133,16 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_DDAVP</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_AMINOMETHYLBENZOIC_ACID</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DDAVP</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 		</Treatments>
 		<IconIndex>1169</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1108,16 +1199,22 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_FIX</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_AMINOMETHYLBENZOIC_ACID</TreatmentRef>
+			<TreatmentRef>TRT_HEM_FIX</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 		</Treatments>
 		<IconIndex>1169</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1173,17 +1270,23 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_FVIII</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DDAVP</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_AMINOMETHYLBENZOIC_ACID</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DDAVP</TreatmentRef>
+			<TreatmentRef>TRT_HEM_FVIII</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 		</Treatments>
 		<IconIndex>1169</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1268,21 +1371,35 @@
 
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HEM_DECITABINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_LENALIDOMIDE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ATG_ALG</TreatmentRef>
 			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DECITABINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_FOLIC_ACID</TreatmentRef>
+			<TreatmentRef>TRT_HEM_G-CSF</TreatmentRef>
+			<TreatmentRef>TRT_HEM_LENALIDOMIDE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_MDS</CustomIconBigAssetRef>
@@ -1417,24 +1534,36 @@
 
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-
-			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
-			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1529,16 +1658,28 @@
 
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_TCM_SHENGXUEBAO_MIXTURE</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>2800</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1704,32 +1845,50 @@
 
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_CRP</ExaminationRef>
-			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_HYDROXYUREA</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ATRA</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ATO</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ALLOPURINOL</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ATO</TreatmentRef>
+			<TreatmentRef>TRT_HEM_ATRA</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_CYTARABINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_DEXAMETHASONE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_METHOTREXATE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1</IconIndex>
 		<CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_APL</CustomIconBigAssetRef>
@@ -1856,31 +2015,43 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_CRP</ExaminationRef>
-			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ATG_ALG</TreatmentRef>
 			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ETAMSYLATE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
+			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_TCM_ZAIZAOSHENGXUE</TreatmentRef>
-			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
-			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_TESTOSTERONE_PROPIONATE</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -1983,19 +2154,34 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIDEPRESSIVES</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_FOLIC_ACID</TreatmentRef>
 			<TreatmentRef>TRT_HEM_MECOBALAMIN</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_SLEEPING_DRUGS</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -2199,19 +2385,25 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_MOREDG_SPLENECTOMIE_MI</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1221</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG9</CustomIconBigAssetRef>
@@ -2282,22 +2474,26 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_MOREDG_ANTICORPS_MONOCLONAL</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 			<TreatmentRef>TRT_THROMBOLYTICS</TreatmentRef>
-			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1221</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG10</CustomIconBigAssetRef>
@@ -2373,19 +2569,24 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_MOREDG_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1221</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG11</CustomIconBigAssetRef>
@@ -2452,19 +2653,22 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_USG</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1221</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG12</CustomIconBigAssetRef>
@@ -2564,25 +2768,33 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<!--COMPLICATION-->
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_ECG</ExaminationRef> <!--COMPLICATION-->
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_ECG</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_MOREDG_TEST_COMBS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
 			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG13</CustomIconBigAssetRef>
@@ -2651,24 +2863,29 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
+			<!--COMPLICATION-->
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_ELISA_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_ECG</ExaminationRef> <!--COMPLICATION-->
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_ELISA_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1539</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
@@ -2766,28 +2983,31 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<!--COMPLICATION-->
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_ECG</ExaminationRef> <!--COMPLICATION-->
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-			<TreatmentRef>TRT_TPA</TreatmentRef>
-			<TreatmentRef>TRT_THROMBOLYTICS</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_THROMBOLYTICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG14</CustomIconBigAssetRef>
@@ -2888,30 +3108,33 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_ECG</ExaminationRef> <!--COMPLICATION-->
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<!--COMPLICATION-->
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HYDROXYUREA</TreatmentRef>
-			<TreatmentRef>TRT_TPA</TreatmentRef>
-			<TreatmentRef>TRT_THROMBOLYTICS</TreatmentRef>
-			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
-			<TreatmentRef>TRT_VASODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_DIALYSIS</TreatmentRef>
 			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
+			<TreatmentRef>TRT_HYDROXYUREA</TreatmentRef>
+			<TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_THROMBOLYTICS</TreatmentRef>
+			<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+			<TreatmentRef>TRT_VASODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG14</CustomIconBigAssetRef>
@@ -3055,22 +3278,28 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
-			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_MOREDG_IGP</TreatmentRef>	<!-- inhibiteur de synthèse des glycolipides -->
+			<!-- inhibiteur de synthèse des glycolipides -->
+			<TreatmentRef>TRT_ANTI_INFLAMMATORY_CREAM</TreatmentRef>
 			<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_MOREDG_IGP</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_STATINS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG16</CustomIconBigAssetRef>
@@ -3116,17 +3345,18 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG17</CustomIconBigAssetRef>
@@ -3183,22 +3413,23 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_MOREDG_DEB_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_CRP_ALLOGRAFT</TreatmentRef>
+			<TreatmentRef>TRT_CRP_AUTOGRAFT</TreatmentRef>
+			<TreatmentRef>TRT_FOOT_CREAM</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG18</CustomIconBigAssetRef>
@@ -3269,26 +3500,29 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-			<TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
-			<TreatmentRef>TRT_CRP_IPP_IV</TreatmentRef>
 			<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_CRP_RADIO_EMBOLISATION</TreatmentRef>
+			<TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG19</CustomIconBigAssetRef>
@@ -3354,26 +3588,28 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
-			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-			<TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
-			<TreatmentRef>TRT_CRP_IPP_IV</TreatmentRef>
-			<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_CRP_RADIO_EMBOLISATION</TreatmentRef>
+			<TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG20</CustomIconBigAssetRef>
@@ -3439,20 +3675,22 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG21</CustomIconBigAssetRef>
@@ -3549,25 +3787,34 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_ELISA_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_CT</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_ELISA_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIDEPRESSIVES</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+			<TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_MOREDG_TTT_ENZ_SUBSTITU</TreatmentRef>
-			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG23</CustomIconBigAssetRef>
@@ -3628,21 +3875,22 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
 			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
-			<ExaminationRef>EXM_ELISA_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_CRP_ALLOGRAFT</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG22</CustomIconBigAssetRef>
@@ -3730,24 +3978,29 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
 			<TreatmentRef>TRT_CRP_IPP_IV</TreatmentRef>
 			<TreatmentRef>TRT_CRP_RADIO_EMBOLISATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG22</CustomIconBigAssetRef>
@@ -3944,27 +4197,33 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
-			<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ECG</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+			<TreatmentRef>TRT_LAPAROSCOPIC_SURGERY</TreatmentRef>
 			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
@@ -4051,27 +4310,31 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
-			<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ECG</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
 			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
@@ -4124,18 +4387,20 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
@@ -4185,17 +4450,20 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG24</CustomIconBigAssetRef>
@@ -4260,21 +4528,25 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 			<ExaminationRef>EXM_BARRIUM_SWALLOV_X_RAY</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_FOOT_CREAM</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG26</CustomIconBigAssetRef>
@@ -4357,35 +4629,37 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
-			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
 			<ExaminationRef>EXM_ECG</ExaminationRef>
-			<ExaminationRef>EXM_USG</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_FAST</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
-			<TreatmentRef>TRT_TPA</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
-			<TreatmentRef>TRT_VASODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
 			<TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
 			<TreatmentRef>TRT_CRP_IPP_IV</TreatmentRef>
 			<TreatmentRef>TRT_CRP_RADIO_EMBOLISATION</TreatmentRef>
+			<TreatmentRef>TRT_CRP_SCLEROTHERAPIE</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_MOREDG_STÉRÉOTAXIE</TreatmentRef>
+			<TreatmentRef>TRT_THROMBOLYTICS</TreatmentRef>
+			<TreatmentRef>TRT_VASODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG27</CustomIconBigAssetRef>
@@ -4589,22 +4863,32 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_ANTICHOLINERGICS</TreatmentRef>
+			<TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
+			<TreatmentRef>TRT_CRP_CHELATEUR_FER</TreatmentRef>
+			<TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
+			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG25</CustomIconBigAssetRef>
@@ -4679,23 +4963,30 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
+			<TreatmentRef>TRT_CRP_CHELATEUR_FER</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG25</CustomIconBigAssetRef>
@@ -4785,22 +5076,32 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_ANTICHOLINERGICS</TreatmentRef>
+			<TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
+			<TreatmentRef>TRT_CRP_CHELATEUR_FER</TreatmentRef>
+			<TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
+			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG25</CustomIconBigAssetRef>
@@ -4855,21 +5156,23 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<!--ExaminationRef>EXM_OBSERVATION</ExaminationRef-->
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_ECHO</ExaminationRef>
-			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 			<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_ANTI_INFLAMMATORY_CREAM</TreatmentRef>
+			<TreatmentRef>TRT_CRP_CHELATEUR_FER</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_MOREDG_PHLÉBOTOMIES</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
 		</Treatments>
 		<IconIndex>1035</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG25</CustomIconBigAssetRef>
@@ -5032,30 +5335,30 @@
 			</GameDBSymptomRules>
 		</Symptoms>
 		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
-			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_HOSPITALIZATION_TRAUMA</TreatmentRef>
-			<TreatmentRef>TRT_EMERGENCY_CARE</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
-			<TreatmentRef>TRT_PRESSURE_BANDAGE</TreatmentRef>
+			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
+			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_CRP_IPP_IV</TreatmentRef>
-			<TreatmentRef>TRT_ARTIFICIAL_VENTILATION</TreatmentRef>
 			<TreatmentRef>TRT_CRP_RADIO_EMBOLISATION</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_TRAUMA</TreatmentRef>
+			<TreatmentRef>TRT_PRESSURE_BANDAGE</TreatmentRef>
+			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
 		<IconIndex>1539</IconIndex>
 		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>

@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
-    <GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_TREATMENTS">
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_TREATMENTS">
 
 		<LanguageCode>zh-Hans</LanguageCode>
 		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
 
-        <Contributors>
+		<Contributors>
 			<Name>iVincentDong</Name>
 			<Name>ChrYue</Name>
 			<Name>GreenTheRabbit</Name>
-        </Contributors>
+		</Contributors>
 
-        <LocalizedStrings>
-			
-			
+		<LocalizedStrings>
 
 			<GameDBLocalizedString>
 				<LocID>TRT_SH_INSECTICIDE_CREAM</LocID>
@@ -79,7 +77,98 @@
 				<LocID>TRT_SH_VIAGRA_DESCRIPTION</LocID>
 				<Text>伟哥（西地那非）是一种用于治疗勃起功能障碍的药物。\n\n所需房间 性病科门诊室</Text>
 			</GameDBLocalizedString>
-		
+
+			<!-- new -->
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_TOPICAL_RETINOID</LocID>
+				<Text>维A酸类</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_TOPICAL_RETINOID_DESCRIPTION</LocID>
+				<Text>维A酸类是维生素A衍生物的外用制剂（如阿达帕林、维A酸），一线用于粉刺型与混合型痤疮，也可改善炎症后色素沉着；常见刺激性反应需循序渐进使用并注意防晒。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_PERMETHRIN_5_CREAM</LocID>
+				<Text>氯菊酯</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_PERMETHRIN_5_CREAM_DESCRIPTION</LocID>
+				<Text>氯菊酯是用于疥疮的一线杀螨药，按医嘱全身（颈下）涂抹8–14小时后清洗，同时处理密切接触者与环境以防复染。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_PHOTOTHERAPY_NB_UVB</LocID>
+				<Text>窄谱UVB光</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_PHOTOTHERAPY_NB_UVB_DESCRIPTION</LocID>
+				<Text>窄谱UVB光是311–313nm的窄谱UVB光疗，适用于银屑病、特应性皮炎与白癜风等，具有良好安全性与复发间期延长的优势。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_WET_WRAP_THERAPY</LocID>
+				<Text>湿敷封包疗法</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_WET_WRAP_THERAPY_DESCRIPTION</LocID>
+				<Text>湿敷封包疗法是在润肤剂或外用药基础上以湿敷材料分层包扎，可快速缓解重度特应性皮炎的瘙痒与屏障受损，需在专科指导下进行。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_ANAPHYLAXIS_PROTOCOL</LocID>
+				<Text>过敏性休克综合处置</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_ANAPHYLAXIS_PROTOCOL_DESCRIPTION</LocID>
+				<Text>过敏性休克综合处置是标准急救流程强调即刻肌注肾上腺素、评估ABC、补液与观察复相反应，避免以抗组胺/糖皮质激素替代首选治疗。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_IV_METHYLPREDNISOLONE_PULSE</LocID>
+				<Text>甲泼尼龙静脉冲击</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_IV_METHYLPREDNISOLONE_PULSE_DESCRIPTION</LocID>
+				<Text>甲泼尼龙静脉冲击是短程大剂量静脉甲泼尼龙用于急重症炎症/免疫性皮病的诱导控制，需严密监测血压、血糖与感染风险。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_SYSTEMIC_TERBINAFINE</LocID>
+				<Text>特比萘芬</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_SYSTEMIC_TERBINAFINE_DESCRIPTION</LocID>
+				<Text>特比萘芬是口服丙烯胺类抗真菌药，常用于顽固体癣/股癣/甲癣及部分头癣；注意肝功能监测与药物相互作用。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_DAPSONE_ORAL</LocID>
+				<Text>氨苯砜</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_DAPSONE_ORAL_DESCRIPTION</LocID>
+				<Text>氨苯砜是抗炎/抗菌药物，经典用于疱疹样皮炎等中性粒细胞性皮病；用药前评估G6PD缺乏，警惕溶血性贫血与高铁血红蛋白血症。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_TOPICAL_HYDROQUINONE</LocID>
+				<Text>氢醌外用</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_TOPICAL_HYDROQUINONE_DESCRIPTION</LocID>
+				<Text>氢醌外用是酚类祛斑剂，通过抑制酪氨酸酶减少黑色素生成，主要用于黄褐斑与炎症后色沉的短程维持治疗，需配合高效防晒并防止外源性黑变病。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_WART_CURETTAGE</LocID>
+				<Text>疣体刮除术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_WART_CURETTAGE_DESCRIPTION</LocID>
+				<Text>疣体刮除术是对单发/顽固疣体行局麻下刮除，可联合电凝或冷冻减少复发；术后需创面护理并评估复发风险。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_HS_DEROOFING</LocID>
+				<Text>化脓性汗腺炎窦道开窗术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DER_HS_DEROOFING_DESCRIPTION</LocID>
+				<Text>化脓性汗腺炎窦道开窗术是针对化脓性汗腺炎窦道的选择性切开去顶术（开窗术），去除窦道“屋顶”与纤维组织，二期愈合以降低复发。</Text>
+			</GameDBLocalizedString>
+
 		</LocalizedStrings>
-    </GameDBStringTable>
+	</GameDBStringTable>
 </Database>

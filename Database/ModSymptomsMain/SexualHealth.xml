@@ -131,7 +131,7 @@
 			<ExaminationRef>EXM_SH_GENITAL_SCREENING_TESTING</ExaminationRef>
 		</Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_SH_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 		</Treatments>
 		<ShameLevel>30</ShameLevel>
 		<IsMainSymptom>true</IsMainSymptom>
@@ -357,6 +357,62 @@
 		<IsMainSymptom>true</IsMainSymptom>
 		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
 		<IconIndex>1425</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 沙眼衣原体L1–L3型核酸检测阳性 -->
+	<GameDBSymptom ID="SYM_SH_LGV_NAAT_POS">
+		<DescriptionLocID>SYM_SH_LGV_NAAT_POS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_SH_GENITAL_SWAB_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1143</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 涂片/活检见Donovan小体 -->
+	<GameDBSymptom ID="SYM_SH_DONOVAN_BODIES">
+		<DescriptionLocID>SYM_SH_DONOVAN_BODIES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>50</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1711</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 阴道分泌物10%KOH镜检见芽生酵母/假菌丝 -->
+	<GameDBSymptom ID="SYM_SH_KOH_CANDIDA_POS">
+		<DescriptionLocID>SYM_SH_KOH_CANDIDA_POS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>60</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1361</IconIndex>
 	</GameDBSymptom>
 
 </Database>

@@ -99,7 +99,6 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
             <ExaminationRef>EXM_CC_ECHO</ExaminationRef>
             <ExaminationRef>EXM_FAST</ExaminationRef>
-            <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
@@ -911,8 +910,7 @@
             <ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
             <ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-            <ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-        </Examinations>
+            </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
             <TreatmentRef>TRT_DRAINAGE</TreatmentRef>
@@ -1235,7 +1233,6 @@
             <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
             <ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
-            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
         </Examinations>
         <Treatments>
@@ -5447,8 +5444,7 @@
             <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
             <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
             <ExaminationRef>EXM_ECG</ExaminationRef>
-            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-        </Examinations>
+            </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HOSPITALIZATION_TRAUMA</TreatmentRef>
             <TreatmentRef>TRT_EMERGENCY_CARE</TreatmentRef>

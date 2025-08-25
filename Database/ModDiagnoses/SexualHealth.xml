@@ -321,7 +321,7 @@
             <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SH_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
         </Treatments>
         <IconIndex>1159</IconIndex>
         <DepartmentRef>DPT_SH</DepartmentRef>
@@ -786,7 +786,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_SH_BAL">
         <AbbreviationLocID>DIA_SH_BAL_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -838,5 +838,238 @@
         <MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
     </GameDBMedicalCondition>
 
+
+    <!-- 性病性淋巴肉芽肿 -->
+    <GameDBMedicalCondition ID="DIA_SH_LGV">
+        <AbbreviationLocID>DIA_SH_LGV_DESCRIPTION</AbbreviationLocID>
+        <Duration>1</Duration>
+        <OccurrenceRef>OCCURRENCE_RARE</OccurrenceRef>
+        <Symptoms>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_INGUINAL_LYMPH_NODES</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SWOLLEN_LYMPH_NODES</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_ULCERATION_GENITAL</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SH_GENITAL_DISCHARGE</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_DOULEUR_PELV</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_FEVER</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_TENDERNESS</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SH_LGV_NAAT_POS</GameDBSymptomRef>
+            </GameDBSymptomRules>
+        </Symptoms>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+            <!-- 与主症状映射的检测：Sampling/Testing 成对 -->
+            <ExaminationRef>EXM_SH_GENITAL_SWAB_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <IconIndex>2322</IconIndex>
+        <DepartmentRef>DPT_SH</DepartmentRef>
+        <InsurancePayment>400</InsurancePayment>
+        <Tags>
+            <Tag>disease</Tag>
+            <Tag>clinic</Tag>
+        </Tags>
+    </GameDBMedicalCondition>
+
+    <!-- 腹股沟肉芽肿 -->
+    <GameDBMedicalCondition ID="DIA_SH_INGUINAL">
+        <AbbreviationLocID>DIA_SH_INGUINAL_DESCRIPTION</AbbreviationLocID>
+        <Duration>1</Duration>
+        <OccurrenceRef>OCCURRENCE_RARE</OccurrenceRef>
+        <Symptoms>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_ULCERATION_GENITAL</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_BLEEDING2</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_TENDERNESS</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SWELLING</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_ODEUR_VAGINALE</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_LEUCORRHEE</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_SKIN_DISCOLOURATION</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SWOLLEN_LYMPH_NODES</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SH_DONOVAN_BODIES</GameDBSymptomRef>
+            </GameDBSymptomRules>
+        </Symptoms>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+            <!-- 主症状所需活检：Sampling/Testing 成对 -->
+            <ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <IconIndex>2322</IconIndex>
+        <DepartmentRef>DPT_SH</DepartmentRef>
+        <InsurancePayment>400</InsurancePayment>
+        <Tags>
+            <Tag>disease</Tag>
+            <Tag>clinic</Tag>
+        </Tags>
+    </GameDBMedicalCondition>
+
+    <!-- 念珠菌性外阴阴道炎 -->
+    <GameDBMedicalCondition ID="DIA_SH_CANDIDIASIS">
+        <AbbreviationLocID>DIA_SH_CANDIDIASIS_DESCRIPTION</AbbreviationLocID>
+        <Duration>1</Duration>
+        <OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
+        <Symptoms>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_ODEUR_VAGINALE</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_LEUCORRHEE</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_ITCHING</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_SECHERESSE_VAGIN</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_CRP_DOULEUR_PELV</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SWELLING</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_REDNESS_OF_SKIN</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_DER_SATELLITE_PUSTULES</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SH_KOH_CANDIDA_POS</GameDBSymptomRef>
+            </GameDBSymptomRules>
+        </Symptoms>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+        </Treatments>
+        <IconIndex>1361</IconIndex>
+        <DepartmentRef>DPT_SH</DepartmentRef>
+        <InsurancePayment>400</InsurancePayment>
+        <Tags>
+            <Tag>disease</Tag>
+            <Tag>clinic</Tag>
+        </Tags>
+        <MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+    </GameDBMedicalCondition>
 
 </Database>

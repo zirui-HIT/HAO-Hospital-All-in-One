@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
-    <GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_DIAGNOSES">
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_DIAGNOSES">
 
 		<LanguageCode>zh-Hans</LanguageCode>
 		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
 
-        <Contributors>
+		<Contributors>
 			<Name>iVincentDong</Name>
 			<Name>ChrYue</Name>
 			<Name>GreenTheRabbit</Name>
-        </Contributors>
+		</Contributors>
 
-        <LocalizedStrings>
+		<LocalizedStrings>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_SH_CHL</LocID>
@@ -189,7 +189,186 @@
 				<LocID>DIA_SH_PRO_DESCRIPTION</LocID>
 				<Text>前列腺炎是前列腺的炎症（肿胀）。</Text>
 			</GameDBLocalizedString>
-		
+
+			<!-- new -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_LGV</LocID>
+				<Text>性病性淋巴肉芽肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_LGV_DESCRIPTION</LocID>
+				<Text>性病性淋巴肉芽肿是一种由沙眼衣原体L1–L3型引起的性传播感染，常表现为无痛溃疡与继发性腹股沟淋巴结炎/直肠炎，需早期抗生素治疗并追踪性伴。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_INGUINAL</LocID>
+				<Text>腹股沟肉芽肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_INGUINAL_DESCRIPTION</LocID>
+				<Text>腹股沟肉芽肿（又称多诺万病/性病性腹股沟肉芽肿）为克雷白氏肉芽肿杆菌所致的慢性进行性外阴生殖器溃疡性疾病，特点是无痛、肉芽样溃疡，治以大环内酯或四环素类。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_CANDIDIASIS</LocID>
+				<Text>念珠菌性外阴阴道炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_SH_CANDIDIASIS_DESCRIPTION</LocID>
+				<Text>念珠菌性外阴阴道炎为念珠菌过度繁殖造成的外阴阴道炎，常见症状为外阴瘙痒、豆渣样白带，确诊依靠显微镜检查或培养，治疗以局部或口服唑类抗真菌药。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_ACNE</LocID>
+				<Text>痤疮</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_ACNE_DESCRIPTION</LocID>
+				<Text>痤疮是毛囊皮脂腺单位的慢性炎症性疾病，表现为粉刺、丘疹、脓疱与结节，可由雄激素、皮脂增多与毛囊角化异常等因素驱动。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_ROS</LocID>
+				<Text>玫瑰痤疮</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_ROS_DESCRIPTION</LocID>
+				<Text>玫瑰痤疮是一种慢性面部炎症性皮肤病，以持续性面红、潮红、毛细血管扩张与丘疹脓疱为特征，可受辛辣、酒精、热、日晒等诱发。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_ECZ</LocID>
+				<Text>湿疹</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_ECZ_DESCRIPTION</LocID>
+				<Text>湿疹（特应性皮炎等）为复发-缓解的炎症性皮肤病，主要表现为瘙痒、干燥与湿疹样皮损，皮肤屏障功能受损是关键机制。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_URT</LocID>
+				<Text>荨麻疹</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_URT_DESCRIPTION</LocID>
+				<Text>荨麻疹是一组以风团/血管性水肿为表现的皮肤黏膜过敏反应，可由免疫或非免疫因素诱发，单个风团通常&lt;24小时消退。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_PSO</LocID>
+				<Text>银屑病</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_PSO_DESCRIPTION</LocID>
+				<Text>银屑病是免疫介导的慢性角化性皮肤病，典型为境界清楚的红斑鳞屑斑块，可累及甲和关节（银屑病关节炎）。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_VIT</LocID>
+				<Text>白癜风</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_VIT_DESCRIPTION</LocID>
+				<Text>白癜风为获得性自身免疫性色素脱失性疾病，表现为界清的乳白色斑/斑片，可合并其他自身免疫疾病。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_TINEA_COR</LocID>
+				<Text>体癣</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_TINEA_COR_DESCRIPTION</LocID>
+				<Text>体癣为皮肤癣菌感染的体部浅表真菌病，常见环形红斑伴活跃隆起边缘与中间相对清亮。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_TINEA_CRU</LocID>
+				<Text>股癣</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_TINEA_CRU_DESCRIPTION</LocID>
+				<Text>股癣是腹股沟股皱褶处的皮肤癣菌感染，瘙痒明显，边缘活跃，常由脚癣传染至腹股沟。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_TINEA_CAP</LocID>
+				<Text>头癣</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_TINEA_CAP_DESCRIPTION</LocID>
+				<Text>头癣为头皮和毛发的皮肤癣菌感染，多见于儿童，可见黑点样断发或脓性癣疮（Kerion），需系统抗真菌治疗。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_PITY</LocID>
+				<Text>花斑癣</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_PITY_DESCRIPTION</LocID>
+				<Text>花斑癣（花斑癣/汗斑）由马拉色菌增殖引起，出现色素减退或加深伴细糠样鳞屑，KOH可见“意大利面+肉丸”样。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_WART_VERR</LocID>
+				<Text>寻常疣</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_WART_VERR_DESCRIPTION</LocID>
+				<Text>寻常疣为人乳头瘤病毒感染导致的角化性赘生物，常见于手足， paring后可见血栓形成的毛细血管黑点。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_WART_FLAT</LocID>
+				<Text>扁平疣</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_WART_FLAT_DESCRIPTION</LocID>
+				<Text>扁平疣是HPV引起的细小扁平丘疹，好发面部与四肢伸侧，常成群分布。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_IMP</LocID>
+				<Text>脓疱疮</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_IMP_DESCRIPTION</LocID>
+				<Text>脓疱疮为传染性表浅皮肤细菌感染，常见蜂蜜色痂，多由金黄色葡萄球菌或甲类链球菌引起。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_PR</LocID>
+				<Text>玫瑰糠疹</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_PR_DESCRIPTION</LocID>
+				<Text>玫瑰糠疹是一种自限性玫瑰色斑鳞屑性皮肤病，常先出现“先驱斑”，随后沿肋骨呈‘圣诞树’样分布。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_AA</LocID>
+				<Text>斑秃</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_AA_DESCRIPTION</LocID>
+				<Text>斑秃为非瘢痕性斑片状脱发的自身免疫性疾病，可见边缘“感叹号样毛”，病程多呈复发缓解。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_LP</LocID>
+				<Text>扁平苔藓</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_LP_DESCRIPTION</LocID>
+				<Text>扁平苔藓是累及皮肤/黏膜/甲的炎症性皮肤病，典型紫红色多角形扁平丘疹，表面可见Wickham网状白纹。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_DH</LocID>
+				<Text>疱疹样皮炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_DH_DESCRIPTION</LocID>
+				<Text>疱疹样皮炎与乳糜泻相关的剧痒性疱疹样皮疹，直接免疫荧光显示乳头真皮颗粒状IgA沉积，对无麸质饮食和氨苯砜反应良好。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_MEL</LocID>
+				<Text>黄褐斑</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_MEL_DESCRIPTION</LocID>
+				<Text>黄褐斑为面部获得性对称性褐色斑，多与紫外线、妊娠/激素、遗传体质有关，伍德灯可帮助判断表皮/真皮型。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_HS</LocID>
+				<Text>化脓性汗腺炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DER_HS_DESCRIPTION</LocID>
+				<Text>化脓性汗腺炎为腋窝、腹股沟等顶泌汗腺区的慢性复发性炎症性疾病，特征为痛性结节/脓肿与窦道瘢痕形成。</Text>
+			</GameDBLocalizedString>
+
 		</LocalizedStrings>
-    </GameDBStringTable>
+	</GameDBStringTable>
 </Database>

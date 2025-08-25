@@ -17,9 +17,9 @@
 * [耳鼻喉科](https://steamcommunity.com/sharedfiles/filedetails/?id=1998013270)
 * [肾脏与泌尿科](https://steamcommunity.com/sharedfiles/filedetails/?id=2137734594)
 * [诊断科](https://steamcommunity.com/sharedfiles/filedetails/?id=3158427011)
-* [性病科](https://steamcommunity.com/sharedfiles/filedetails/?id=1872963449)
 * [心理科](https://steamcommunity.com/sharedfiles/filedetails/?id=3024817031)
 * [血液内科](https://steamcommunity.com/sharedfiles/filedetails/?id=3163091222)
+* **皮肤性病科**: 基于[性病科](https://steamcommunity.com/sharedfiles/filedetails/?id=1872963449)，我补充了20+皮肤科相关的疾病、症状、检测和治疗方式，来让性病科的住院部忙起来！
 * **眼科**：我自己创建的科室，专注于治疗眼科相关疾病，包含50+的眼科疾病及相关的症状、检测和治疗方式！
 
 ## 其他整合的内容
@@ -46,10 +46,11 @@
 * 调整了各个科室的疾病，让每个疾病在最合适的科室中
 * 整合了一些功能上相同的检测，来减少医生开具的检测数量，并删除了所有没有被疾病用到的症状、检测和治疗方式
 * 调整了各个科室生成患者的权重，以更贴合现实
+* 调整了各个科室的logo，现在它们的风格与原版科室的logo更加一致了！
 
 ## 语言支持
 除了我本人翻译了所有中文内容外，其他MOD的翻译均使用MOD中自带的翻译，具体的翻译情况如下：
-| 语言 | 肿瘤科 | 妇产科 | 整型外科 | 耳鼻喉科 | 肾脏与泌尿科 | 诊断科 | 性病科 | 心理科 | 血液内科 | 更多疾病 |
+| 语言 | 肿瘤科 | 妇产科 | 整型外科 | 耳鼻喉科 | 肾脏与泌尿科 | 诊断科 | 皮肤性病科 | 心理科 | 血液内科 | 更多疾病 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 英语 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 简体中文 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |

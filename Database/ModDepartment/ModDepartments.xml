@@ -326,14 +326,13 @@
 
         <MinDoctorLevel>2</MinDoctorLevel>
 
-        <PatientGenerationWeight>22</PatientGenerationWeight>
+        <PatientGenerationWeight>26</PatientGenerationWeight> 
 
         <FirstDoctorSpecialization>SKILL_DOC_SPEC_SH</FirstDoctorSpecialization>
 
         <SecondDoctorSpecializations>
             <SkillRef>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS</SkillRef>
             <SkillRef>SKILL_DOC_SPEC_ANESTHESIOLOGY</SkillRef>
-            <SkillRef>SKILL_DOC_SPEC_SH_SURGERY</SkillRef>
         </SecondDoctorSpecializations>
 
         <SurgerySpecialization>SKILL_DOC_SPEC_SH_SURGERY</SurgerySpecialization>
@@ -403,8 +402,23 @@
                 <MaxCount>2</MaxCount>
             </GameDBDepartmentRoomRequirement>
             <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_INPATIENT_SH_OFFICE</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_INPATIENT_WARD</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+            <GameDBDepartmentRoomRequirement>
                 <RoomDatabaseEntryRef>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD</RoomDatabaseEntryRef>
                 <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>DLC_ROOM_TYPE_LOUNGE</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
                 <MaxCount>1</MaxCount>
             </GameDBDepartmentRoomRequirement>
         </RequiredRoomsHospitalization>

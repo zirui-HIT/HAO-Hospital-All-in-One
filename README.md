@@ -17,9 +17,9 @@ I hope you have a great time playing :D
 * [Otolaryngology (ENT)](https://steamcommunity.com/sharedfiles/filedetails/?id=1998013270)
 * [Nephrology and Urology](https://steamcommunity.com/sharedfiles/filedetails/?id=2137734594)
 * [Diagnostics Department](https://steamcommunity.com/sharedfiles/filedetails/?id=3158427011)
-* [Sexual Health](https://steamcommunity.com/sharedfiles/filedetails/?id=1872963449)
 * [Psychology](https://steamcommunity.com/sharedfiles/filedetails/?id=3024817031)
 * [Hematology](https://steamcommunity.com/sharedfiles/filedetails/?id=3163091222)
+* **Dermatology and Venereology**: Based on [Sexual Health Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1872963449), adding 20+ dermatology-related diagnostics, symptoms, examinations, and treatments to keep the inpatient department busy!
 * **Ophthalmology**: A department I created myself, focusing on treating eye-related diseases, including 50+ ophthalmological conditions and their related symptoms, examinations, and treatments!
 
 ## Additional Content All in One
@@ -46,10 +46,11 @@ I hope you have a great time playing :D
 * Adjusted the diseases for each department to ensure every condition is handled by the most appropriate department.
 * Consolidated some functionally identical examinations to reduce the number of tests ordered by doctors, and removed all symptoms, examinations, and treatments that were not used by any disease.
 * Adjusted the patient generation weights for each department to better reflect reality.
+* Adjusted the logos of various departments, now their styles are more consistent with the base-game department logos!
 
 ## Language Support
 Besides translating all the Chinese content myself, the translations for other MODs use the translations provided within those MODs. The specific translation status is as follows:
-| Language | Oncology | OB/GYN | Plastic Surgery | ENT | Nephrology & Urology | Diagnostics | Sexual Health | Psychology | Hematology | Ophthalmology | More Diseases |
+| Language | Oncology | OB/GYN | Plastic Surgery | ENT | Nephrology & Urology | Diagnostics | Dermatology & Venereology | Psychology | Hematology | Ophthalmology | More Diseases |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | English | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Simplified Chinese | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |

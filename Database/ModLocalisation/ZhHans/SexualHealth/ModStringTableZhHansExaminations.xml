@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
-    <GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_EXAMINATIONS">
 
 		<LanguageCode>zh-Hans</LanguageCode>
 		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
 
-        <Contributors>
+		<Contributors>
 			<Name>iVincentDong</Name>
 			<Name>ChrYue</Name>
 			<Name>GreenTheRabbit</Name>
-        </Contributors>
+		</Contributors>
 
-        <LocalizedStrings>
-			      			
-			<GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>             
-				<Text>生殖器检查</Text> 
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING</LocID>
+				<Text>生殖器检查</Text>
 			</GameDBLocalizedString>
-            <GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>   
-				<Text>生殖器细胞检查分析</Text> 
-			</GameDBLocalizedString>	
-			<GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>    
-				<Text>生殖器拭子</Text> 
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING</LocID>
+				<Text>生殖器细胞检查分析</Text>
 			</GameDBLocalizedString>
-            <GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>  
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING</LocID>
+				<Text>生殖器拭子</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING</LocID>
 				<Text>生殖器拭子分析</Text>
-			</GameDBLocalizedString>	
-			<GameDBLocalizedString>     
-				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID> 
-				<Text>从子宫颈或肛.门中轻轻取出少量细胞。装入小型试管并将试管发送到实验室进行测试。</Text> 
 			</GameDBLocalizedString>
-            <GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>      
-				<Text>宫颈或肛门细胞分析</Text> 
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</LocID>
+				<Text>从子宫颈或肛.门中轻轻取出少量细胞。装入小型试管并将试管发送到实验室进行测试。</Text>
 			</GameDBLocalizedString>
-			<GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>         
-				<Text>从阴道或阴茎上取拭子。</Text> 
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</LocID>
+				<Text>宫颈或肛门细胞分析</Text>
 			</GameDBLocalizedString>
-            <GameDBLocalizedString>   
-				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>   
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>从阴道或阴茎上取拭子。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</LocID>
 				<Text>分析拭子培养物以检查是否有感染迹象。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
@@ -69,7 +69,61 @@
 				<LocID>EXM_SH_GROIN_EXAMINATION_DESCRIPTION</LocID>
 				<Text>检查患者的腹股沟区域。</Text>
 			</GameDBLocalizedString>
-							
-        </LocalizedStrings>
-    </GameDBStringTable>
+
+			<!-- new -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_WOOD_LAMP_EXAM</LocID>
+				<Text>伍德灯检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_WOOD_LAMP_EXAM_DESCRIPTION</LocID>
+				<Text>伍德灯检查是使用紫外线（365nm）观察皮肤色素异常与特定病原荧光的无创检查，适用于评估色素增/减退、白癜风与某些真菌感染范围。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DERMOSCOPY</LocID>
+				<Text>皮肤镜检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DERMOSCOPY_DESCRIPTION</LocID>
+				<Text>皮肤镜检查是借助皮肤镜在表皮层级进行放大与偏振光观察，提升对色素性病变、血管模式与鳞屑角栓等结构的识别，有助于早期发现黑色素瘤与炎症皮病分型。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_SAMPLING</LocID>
+				<Text>KOH湿片取样</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_SAMPLING_DESCRIPTION</LocID>
+				<Text>KOH湿片取样是刮取皮屑/毛发/甲屑，经10–20%氢氧化钾处理后镜检，可快速发现皮肤癣菌菌丝或芽生酵母。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_TESTING</LocID>
+				<Text>KOH湿片检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_KOH_WET_MOUNT_TESTING_DESCRIPTION</LocID>
+				<Text>在显微镜下检查KOH湿片以检测真菌感染的迹象。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_SAMPLING</LocID>
+				<Text>直接免疫荧光取材</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_SAMPLING_DESCRIPTION</LocID>
+				<Text>直接免疫荧光取材是取皮损边缘或新鲜水疱旁的皮肤作活检，行直接免疫荧光以检测IgA/IgG/补体等沉积，辅助鉴别多种自身免疫性水疱/炎症性疾病。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_TESTING</LocID>
+				<Text>直接免疫荧光检查</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DIF_TESTING_DESCRIPTION</LocID>
+				<Text>在显微镜下检查皮肤样本以检测IgA/IgG/补体等沉积。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
 </Database>

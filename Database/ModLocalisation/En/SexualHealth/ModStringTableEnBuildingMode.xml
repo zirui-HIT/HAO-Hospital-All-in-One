@@ -13,19 +13,27 @@
 
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_OFFICE</LocID>
-                <Text>Sexual Health office</Text>
+                <Text>Dermatology and Venereology office</Text>
             </GameDBLocalizedString>
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>
-                <Text>A doctor's office specialising in sexual health. Staff requirements:\n1xDoctor</Text>
+                <Text>A doctor's office specialising in dermatology and venereology. Staff requirements:\n1xDoctor</Text>
             </GameDBLocalizedString>
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_LAB</LocID>
-                <Text>Sexual Health Lab</Text>
+                <Text>Dermatology and Venereology Lab</Text>
             </GameDBLocalizedString>
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>
-                <Text>The Sexual Health laboratory provides a wide variety of tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist</Text>
+                <Text>The Dermatology and Venereology laboratory provides a wide variety of tests to confirm different diagnoses.\nMin. Staff requirements:\n1x Technologist</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_INPATIENT_SH_OFFICE</LocID>
+                <Text>Diagnostic unit</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_INPATIENT_SH_OFFICE_DESCRIPTION</LocID>
+                <Text>The diagnostic unit in the Sexual Health department provides examination and treatment for inpatients.\n\nRequired staff:\n1 x Doctor</Text>
             </GameDBLocalizedString>
 
         </LocalizedStrings>

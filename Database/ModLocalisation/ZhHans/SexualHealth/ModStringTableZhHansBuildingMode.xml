@@ -14,7 +14,7 @@
 
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_OFFICE</LocID>
-                <Text>性病科门诊室</Text>
+                <Text>皮肤性病科门诊室</Text>
             </GameDBLocalizedString>
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_OFFICE_DESCRIPTION</LocID>
@@ -22,11 +22,19 @@
             </GameDBLocalizedString>
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_LAB</LocID>
-                <Text>性病科实验室</Text>
+                <Text>皮肤性病科实验室</Text>
             </GameDBLocalizedString>
             <GameDBLocalizedString>
                 <LocID>ROOM_TYPE_SH_LAB_DESCRIPTION</LocID>
-                <Text>急诊科化验室提供了各种各样的测试手段来帮助确认多种不同的诊断。\n最低员工需求：\n1 x 技术专家</Text>
+                <Text>皮肤性病科实验室提供了各种各样的测试手段来帮助确认多种不同的诊断。\n最低员工需求：\n1 x 技术专家</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_INPATIENT_SH_OFFICE</LocID>
+                <Text>诊断室</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ROOM_TYPE_INPATIENT_SH_OFFICE_DESCRIPTION</LocID>
+                <Text>皮肤性病科的诊断室为住院患者提供检查和治疗。\n\n必需员工：\n1 x 医生</Text>
             </GameDBLocalizedString>
 
         </LocalizedStrings>

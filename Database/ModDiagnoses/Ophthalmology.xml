@@ -134,7 +134,19 @@
         <Examinations>
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_GONIOSCOPY</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_EYE_SURGERY</TreatmentRef><TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef><TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef><TreatmentRef>TRT_NMC_METOCLOPRAMIDE</TreatmentRef><TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef><TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef><TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef><TreatmentRef>TRT_OPH_LASER_PI</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef><TreatmentRef>TRT_STOMACHICS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef>
+            <TreatmentRef>TRT_NMC_METOCLOPRAMIDE</TreatmentRef>
+            <TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef>
+            <TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef>
+            <TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LASER_PI</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_STOMACHICS</TreatmentRef></Treatments>
         <IconIndex>1773</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>3100</InsurancePayment>

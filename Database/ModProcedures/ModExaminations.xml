@@ -2519,7 +2519,7 @@
         <DurationHours>2</DurationHours>
     </GameDBExamination>
 
-    <!-- Sexual Health -->
+    <!-- Sexual Health & Dermatology -->
 
     <GameDBExamination ID="EXM_SH_GENITAL_SCREENING_SAMPLING">
         <AbbreviationLocID>EXM_SH_GENITAL_SCREENING_SAMPLING_DESCRIPTION</AbbreviationLocID>
@@ -2567,7 +2567,6 @@
         <DurationHours>0</DurationHours>
         <LabTestingExaminationRef>EXM_SH_GENITAL_SCREENING_TESTING</LabTestingExaminationRef>
     </GameDBExamination>
-
     <GameDBExamination ID="EXM_SH_GENITAL_SCREENING_TESTING">
         <AbbreviationLocID>EXM_SH_GENITAL_SCREENING_TESTING_DESCRIPTION</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -2678,7 +2677,6 @@
         <DurationHours>0</DurationHours>
         <LabTestingExaminationRef>EXM_SH_GENITAL_SWAB_TESTING</LabTestingExaminationRef>
     </GameDBExamination>
-
     <GameDBExamination ID="EXM_SH_GENITAL_SWAB_TESTING">
         <AbbreviationLocID>EXM_SH_GENITAL_SWAB_TESTING_DESCRIPTION</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -2787,7 +2785,6 @@
         <DurationHours>0</DurationHours>
         <LabTestingExaminationRef>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING</LabTestingExaminationRef>
     </GameDBExamination>
-
     <GameDBExamination ID="EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING">
         <AbbreviationLocID>EXM_SH_SEMEN_SAMPLE_ANALYSIS_TESTING_DESCRIPTION</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -2828,6 +2825,7 @@
             <Priority>49</Priority>
             <FallbackLabDepartmentRef>DPT_LAB</FallbackLabDepartmentRef>
         </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
         <Cost>50</Cost>
         <CustomIconBigAssetRef>ASSET_MOD_SH_ICON_SC</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_SC_SMALL</CustomIconSmallAssetRef>
@@ -2871,6 +2869,267 @@
         <CustomIconBigAssetRef>ASSET_MOD_SH_ICON_GE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_GE_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <!-- 伍德灯检查 -->
+    <GameDBExamination ID="EXM_WOOD_LAMP_EXAM">
+        <AbbreviationLocID>EXM_WOOD_LAMP_EXAM_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>examinations_basic_equipment</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_look_in</AnimationNameIn>
+                <AnimationNameIdle>stand_look_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_look_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>HALF</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>100</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1639</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <!-- 皮肤镜检查-->
+    <GameDBExamination ID="EXM_DERMOSCOPY">
+        <AbbreviationLocID>EXM_DERMOSCOPY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>examinations_basic_equipment</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_look_in</AnimationNameIn>
+                <AnimationNameIdle>stand_look_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_look_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>HALF</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>101</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1639</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_KOH_WET_MOUNT_SAMPLING">
+        <AbbreviationLocID>EXM_KOH_WET_MOUNT_SAMPLING_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>examinations_basic_equipment</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_examination_in</AnimationNameIn>
+                <AnimationNameIdle>stand_examination_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_examination_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>HALF</DressLevel>
+            <Biohazard>true</Biohazard>
+            <Priority>49</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1647</IconIndex>
+        <DurationHours>0</DurationHours>
+        <LabTestingExaminationRef>EXM_KOH_WET_MOUNT_TESTING</LabTestingExaminationRef>
+    </GameDBExamination>
+    <GameDBExamination ID="EXM_KOH_WET_MOUNT_TESTING">
+        <AbbreviationLocID>EXM_KOH_WET_MOUNT_TESTING_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredSkillsToPrescribe>
+            <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</RequiredStatLabQualificationRef>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>stat_lab_exam</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>true</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>microscope</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>false</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>lab_eq</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>false</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>biohazard_trash</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>true</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>true</BlocksSpecialist>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>deprecated_lab</Tag>
+                <Tag>microbiology_lab</Tag>
+            </RequiredRoomTags>
+
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>true</Biohazard>
+            <Priority>50</Priority>
+            <FallbackLabDepartmentRef>DPT_LAB</FallbackLabDepartmentRef>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1647</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DIF_SAMPLING">
+        <AbbreviationLocID>EXM_DIF_SAMPLING_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>examinations_basic_equipment</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_examination_in</AnimationNameIn>
+                <AnimationNameIdle>stand_examination_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_examination_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>HALF</DressLevel>
+            <Biohazard>true</Biohazard>
+            <Priority>55</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1711</IconIndex>
+        <DurationHours>0</DurationHours>
+        <LabTestingExaminationRef>EXM_DIF_TESTING</LabTestingExaminationRef>
+    </GameDBExamination>
+    <GameDBExamination ID="EXM_DIF_TESTING">
+        <AbbreviationLocID>EXM_DIF_TESTING_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredSkillsToPrescribe>
+            <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</RequiredStatLabQualificationRef>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>stat_lab_exam</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>true</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>lab_eq</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>false</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>microscope</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>false</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>biohazard_trash</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>true</BlocksSpecialist>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                    <DurationHours>0.1</DurationHours>
+                    <BlocksSpecialist>true</BlocksSpecialist>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+
+            <RequiredRoomTags>
+                <Tag>deprecated_lab</Tag>
+                <Tag>histology_lab</Tag>
+            </RequiredRoomTags>
+
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>true</Biohazard>
+            <Priority>50</Priority>
+            <FallbackLabDepartmentRef>DPT_LAB</FallbackLabDepartmentRef>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1711</IconIndex>
+        <DurationHours>2</DurationHours>
     </GameDBExamination>
 
     <!-- Gynecology -->
@@ -8287,12 +8546,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_SPEC_CARDIOLOGY</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_ACUTE_MEDICINE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -8789,6 +9043,7 @@
             <RequiredDoctorQualificationList>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>

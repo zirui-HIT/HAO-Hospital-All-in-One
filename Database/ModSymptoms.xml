@@ -3,6 +3,23 @@
 
     <!-- Base -->
 
+    <GameDBSymptom ID="SYM_INCREASED_ICP">
+        <DescriptionLocID>SYM_INCREASED_ICP_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1841</IconIndex>
+    </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_ABSCESS">
         <DescriptionLocID>SYM_ABSCESS_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -568,7 +585,357 @@
         <IconIndex>2166</IconIndex>
     </GameDBSymptom>
 
-    <!-- Sexual Health -->
+	<!-- Dermatology & Venereology -->
+
+	<!-- 甲板点状凹陷 -->
+	<GameDBSymptom ID="SYM_DER_NAIL_PITTING">
+		<DescriptionLocID>SYM_DER_NAIL_PITTING_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1031</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 日晒加重 -->
+	<GameDBSymptom ID="SYM_DER_PHOTOEXACERBATION">
+		<DescriptionLocID>SYM_DER_PHOTOEXACERBATION_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 对称性颧部色斑 -->
+	<GameDBSymptom ID="SYM_DER_SYMMETRIC_MALAR_MACULES">
+		<DescriptionLocID>SYM_DER_SYMMETRIC_MALAR_MACULES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>30</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1437</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 额部受累 -->
+	<GameDBSymptom ID="SYM_DER_FOREHEAD_INVOLVEMENT">
+		<DescriptionLocID>SYM_DER_FOREHEAD_INVOLVEMENT_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_CHEMPEEL_L</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1437</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 上唇部色斑 -->
+	<GameDBSymptom ID="SYM_DER_UPPERLIP_PATCH">
+		<DescriptionLocID>SYM_DER_UPPERLIP_PATCH_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1437</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 同形反应 -->
+	<GameDBSymptom ID="SYM_DER_KOEBNER">
+		<DescriptionLocID>SYM_DER_KOEBNER_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 领圈样鳞屑 -->
+	<GameDBSymptom ID="SYM_DER_COLLARETTE_SCALE">
+		<DescriptionLocID>SYM_DER_COLLARETTE_SCALE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+		</Treatments>
+		<ShameLevel>5</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>2232</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 炎症后色素沉着 -->
+	<GameDBSymptom ID="SYM_DER_PIH">
+		<DescriptionLocID>SYM_DER_PIH_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1437</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 炎症后色素减退 -->
+	<GameDBSymptom ID="SYM_DER_PIHYPO">
+		<DescriptionLocID>SYM_DER_PIHYPO_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 皮脂分泌增多 -->
+	<GameDBSymptom ID="SYM_DER_SEBUM_EXCESS">
+		<DescriptionLocID>SYM_DER_SEBUM_EXCESS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_TOPICAL_RETINOID</TreatmentRef>
+		</Treatments>
+		<ShameLevel>15</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1353</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 头皮鳞屑 -->
+	<GameDBSymptom ID="SYM_DER_SCALP_SCALE">
+		<DescriptionLocID>SYM_DER_SCALP_SCALE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>2232</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 苔藓样变 -->
+	<GameDBSymptom ID="SYM_DER_LICHENIFICATION">
+		<DescriptionLocID>SYM_DER_LICHENIFICATION_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 抓痕/抓痕线 -->
+	<GameDBSymptom ID="SYM_DER_EXCORIATIONS">
+		<DescriptionLocID>SYM_DER_EXCORIATIONS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_MOISTURIZER_CREAM</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 卫星样丘疹/脓疱 -->
+	<GameDBSymptom ID="SYM_DER_SATELLITE_PUSTULES">
+		<DescriptionLocID>SYM_DER_SATELLITE_PUSTULES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1361</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 环状隆起边缘 -->
+	<GameDBSymptom ID="SYM_DER_ANNULAR_BORDER">
+		<DescriptionLocID>SYM_DER_ANNULAR_BORDER_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIFUNGAL_OINTMENT</TreatmentRef>
+		</Treatments>
+		<ShameLevel>5</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1033</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 中央清亮 -->
+	<GameDBSymptom ID="SYM_DER_CENTRAL_CLEARING">
+		<DescriptionLocID>SYM_DER_CENTRAL_CLEARING_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>5</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1033</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 热饮/酒精诱发潮红 -->
+	<GameDBSymptom ID="SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL">
+		<DescriptionLocID>SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1421</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 丘疹脓疱 -->
+	<GameDBSymptom ID="SYM_DER_PAPULOPUSTULES">
+		<DescriptionLocID>SYM_DER_PAPULOPUSTULES_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CRP_ANTI_ACNEE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>20</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1029</IconIndex>
+	</GameDBSymptom>
+
+	<!-- 甲分离 -->
+	<GameDBSymptom ID="SYM_DER_NAIL_ONYCHOLYSIS">
+		<DescriptionLocID>SYM_DER_NAIL_ONYCHOLYSIS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DER_SYSTEMIC_TERBINAFINE</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<IconIndex>1031</IconIndex>
+	</GameDBSymptom>
 
     <GameDBSymptom ID="SYM_SH_GENITAL_DISCHARGE">
         <DescriptionLocID>SYM_SH_GENITAL_DISCHARGE_DESCRIPTION</DescriptionLocID>
@@ -10309,8 +10676,7 @@
         <Examinations>
             <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_CT</ExaminationRef>
-            <ExaminationRef>EXM_USG</ExaminationRef>
-        </Examinations>
+            </Examinations>
         <Treatments>
             <TreatmentRef>SUR_OL_SPLENECTOMY</TreatmentRef>
         </Treatments>
@@ -10610,7 +10976,6 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
-            <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>

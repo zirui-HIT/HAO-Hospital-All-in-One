@@ -1,30 +1,43 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
     <GameDBStringTable ID="LOC_ZHHANS_ADDON_SEXUAL_HEALTH_SKILLS">
-        
+
         <LanguageCode>zh-Hans</LanguageCode>
-		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
 
         <Contributors>
             <Name>iVincentDong</Name>
-			<Name>ChrYue</Name>
+            <Name>ChrYue</Name>
         </Contributors>
-        
+
         <LocalizedStrings>
-            
-		
-			
-        <GameDBLocalizedString>      <LocID>DPT_SH</LocID>                                          <Text>性病科</Text>  </GameDBLocalizedString>
-			
-		
-			
-		<GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_SH</LocID>                               <Text>性病科学</Text>  </GameDBLocalizedString>
-        <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_SH_DESCRIPTION</LocID>                   <Text>通过性病科学，可以诊断和治疗危重患者。</Text>  </GameDBLocalizedString>
-		<GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_SH_SURGERY</LocID>                       <Text>性病外科学</Text>  </GameDBLocalizedString>
-        <GameDBLocalizedString>      <LocID>SKILL_DOC_SPEC_SH_SURGERY_DESCRIPTION</LocID>           <Text/>  </GameDBLocalizedString>
-		
-		</LocalizedStrings>
-		
-		</GameDBStringTable>
+
+
+            <GameDBLocalizedString>
+                <LocID>DPT_SH</LocID>
+                <Text>皮肤性病科</Text>
+            </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH</LocID>
+                <Text>皮肤性病学</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH_DESCRIPTION</LocID>
+                <Text>通过皮肤性病学，可以诊断和治疗危重患者。</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH_SURGERY</LocID>
+                <Text>皮肤性病外科学</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>SKILL_DOC_SPEC_SH_SURGERY_DESCRIPTION</LocID>
+                <Text>通过皮肤性病外科学，可以进行皮肤病或性病相关的手术治疗。</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+
+    </GameDBStringTable>
 
 </Database>
