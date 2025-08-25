@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Jerry76</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Ipocondriaci ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>Passaggio naturale</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>Il medico consiglia al paziente di consentire al corpo estraneo di uscire in maniera naturale.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>Doposole</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>Il doposole è un idratante che contiene anche ingredienti lenitivi come l'aloe vera.</Text>  </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_HYPO_COMPRESS</LocID>
+            <Text>Warm compress</Text>
+          </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>
+            <Text>A warm compress is a method of applying heat to the body. Heating sources can include warm water, microwaveable pads, wheat packs and electrical or chemical pads.</Text>
+          </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

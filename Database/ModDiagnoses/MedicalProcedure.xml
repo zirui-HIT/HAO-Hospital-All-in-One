@@ -1,0 +1,2563 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<!-- TEMPLATE DIAGNOSE
+
+CHECKUP
+
+<GameDBMedicalCondition ID="DIA_JM_***_CU">
+	<AbbreviationLocID>DIA_JM_***_CU_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***_CHECKUP_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>40</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+		<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+		<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>330</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON001_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON001_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+VACCINE
+    
+	<GameDBMedicalCondition ID="DIA_JM_***_VAC">
+	<AbbreviationLocID>DIA_JM_***_VAC_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***_VACCINE_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_***_VACCINATION</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>300</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON024_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON024_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+Screening
+
+    <GameDBMedicalCondition ID="DIA_JM_***_SCRE">
+	<AbbreviationLocID>DIA_JM_***_SCRE_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***_SCREEN_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_***</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>230</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON014_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON014_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+
+-->
+
+	<!-- ######################### CHECKUPS ######################### -->
+
+	<!-- Normal Checkups -->
+
+	<!-- Annual Health Checkup V2 -->
+	<GameDBMedicalCondition ID="DIA_JM_ANNUAL_CU">
+		<AbbreviationLocID>DIA_JM_ANNUAL_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT2</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_REFLEX</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_HEART_RHYTHM</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BREATHING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_EYESIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_PRESSURE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_CELL_COUNT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_HEARING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ASTHMA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DIABETES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_GERD</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SMOKING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MENTAL_HEALTH_ISSUES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HYPERTENSION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HIGH_CHOLESTEROL</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_ECG</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_SPIROMETRY</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_AUDIOMETRY</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_JM_INSULIN_THERAPY</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+			<TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>320</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON001_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON001_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Cardiovascular Checkup V2 -->
+	<GameDBMedicalCondition ID="DIA_JM_CARDIO_CU">
+		<AbbreviationLocID>DIA_JM_CARDIO_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_VERYUNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT2</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_HEART_RHYTHM</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_PRESSURE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_HEART</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_CELL_COUNT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_CONTENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DIABETES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SMOKING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HYPERTENSION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HIGH_CHOLESTEROL</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>10</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_ANEMIA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- SEVERE COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>18</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ARRHYTHMIA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>16</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CARDITIS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>16</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_VALVE_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>8</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEVERE_HEART_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>10</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CARDIAC_INFECTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_ECG</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_SPIROMETRY</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_NITRATES</TreatmentRef>
+			<TreatmentRef>TRT_CARDIAC_SURGERY</TreatmentRef>
+			<TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+			<TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+			<TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_JM_INSULIN_THERAPY</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_CARDIOLOGY</DepartmentRef>
+		<InsurancePayment>330</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON003_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Neurological Checkup V2 -->
+	<GameDBMedicalCondition ID="DIA_JM_NEURO_CU">
+		<AbbreviationLocID>DIA_JM_NEURO_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT2</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_REFLEX</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_EYESIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_NERVES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_SMELL</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_HEARING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DRUG_ABUSE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MENTAL_HEALTH_ISSUES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SMOKING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>28</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_BLURRED_VISION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_LOSS_OF_VISION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- SEVERE COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>18</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_PARKINSONS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ALZHEIMERS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>16</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DEMENTIA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>8</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEVERE_NEURO_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+			<ExaminationRef>EXM_AUDIOMETRY</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+			<TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
+		<InsurancePayment>330</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON010_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON010_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Gastroenterologic Checkup V2 -->
+	<GameDBMedicalCondition ID="DIA_JM_GASTRO_CU">
+		<AbbreviationLocID>DIA_JM_GASTRO_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_VERYUNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT2</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_DIGESTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_STOOLS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_CONTENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>63</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_PANCREAS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>60</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_GERD</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MALNUTRITION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DIABETES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- SEVERE COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>23</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DIVERTICULITIS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>18</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CROHNS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>13</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ULC</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>23</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEMORRHOIDS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>18</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEMORRHOIDS1</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>25</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CELIAC_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_LACTOSE_INTOLERANCE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_SEROLOGY_TESTING_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_BAND_LIGATION</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>330</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON007_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON007_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Nephrologic Checkup V2 -->
+	<GameDBMedicalCondition ID="DIA_JM_NEPHRO_CU">
+		<AbbreviationLocID>DIA_JM_NEPHRO_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT2</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_URINE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_CONTENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_KIDNEYS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>23</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DIABETES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- SEVERE COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>13</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CKD</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>10</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_END_CKD</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>23</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_KIDNEY_STONES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>23</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_GLUMEROLUNEPHRITIS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>18</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_POLYCYSTIC_KD</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>28</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_UTI</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>7</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEVERE_UT_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_USG</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_BACK</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_JM_INSULIN_THERAPY</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_SHOCK_WAVE_LITHOTRIPSY</TreatmentRef>
+			<TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+			<TreatmentRef>TRT_DIALYSIS</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>330</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON013_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON013_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Pulmonologic Checkup V2 -->
+	<GameDBMedicalCondition ID="DIA_JM_PNEUMO_CU">
+		<AbbreviationLocID>DIA_JM_PNEUMO_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT2</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BREATHING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>85</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_SMELL</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LUNGS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- COMPLICATIONS -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ASTHMA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- SEVERE COMPLICATIONS -->
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_PNEUMONITIS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_LUNG_INFECTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>8</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEVERE_LUNG_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_SPIROMETRY</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_INTERNAL_MEDICINE_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>330</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON012_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON012_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Psychiatric Checkup -->
+
+	<!-- Dermatologic Checkup -->
+
+	<!-- Nutrition Checkup -->
+	<GameDBMedicalCondition ID="DIA_JM_NUTRI_CU">
+		<AbbreviationLocID>DIA_JM_NUTRI_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_VERYUNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_NUTRI_CHECKUP_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_DIGESTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_STOOLS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_BLOOD_CONTENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_VITAMIN_LEVELS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_DIET</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<!-- Complications -->
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MALNUTRITION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_LACTOSE_INTOLERANCE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CELIAC_DISEASE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>16</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_TAPEWORM_INFECTION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_VITAMIN_DEFICIENCY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>12</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_B12_DEFICIENCY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>18</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MAGNESIUM_DEFICIENCY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>23</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_IRON_DEFICIENCY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>8</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_IODINE_DEFICIENCY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_OVERWEIGHT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SEDITARY_LIFESTYLE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+			<ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPARASITIC_DRUGS</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>330</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON022_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON022_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Opthalmologic Checkup -->
+
+	<!-- ENT Checkup -->
+
+	<!-- Trauma Checkup -->
+
+	<!-- Orthopaedic Checkup -->
+
+
+	<!-- Diagnoses Checkups -->
+
+	<!-- Hypertension Checkup -->
+	<!--GameDBMedicalCondition
+	ID="DIA_JM_HYPERTENS_CU">
+	<AbbreviationLocID>DIA_JM_HYPERTENS_CU_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HYPERTENS_CHECKUP_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_DIET</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+		<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+		<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>250</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON008_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON008_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition-->
+
+	<!-- Cystic Fibrosis Checkup -->
+	<!--GameDBMedicalCondition
+	ID="DIA_JM_CYSFIB_CU">
+	<AbbreviationLocID>DIA_JM_CYSFIB_CU_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_CYSFIB_CHECKUP_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+		<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+		<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>250</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON004_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON004_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition-->
+
+	<!-- Diabetes Checkup -->
+	<!--GameDBMedicalCondition
+	ID="DIA_JM_DIAB_CU">
+	<AbbreviationLocID>DIA_JM_DIAB_CU_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_DIAB_CHECKUP_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_HEALTHY_LIFESTYLE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_***</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+		<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+		<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>250</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON005_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON005_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition-->
+
+	<!-- Post-COVID Checkup --> <!-- ### UNIQUE ### -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_COVID_CU">
+		<AbbreviationLocID>DIA_JM_COVID_CU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_COVID_CHECKUP_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_ANXIETY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_DEPRESSION</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>75</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_DIZZINESS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_CHEST_PAIN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_MUSCLES_AND_JOINTS_PAIN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_HEADACHE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>75</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_BREATHING_DIFFICULTIES</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_DRY_COUGH</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_PULMONARY_FIBROSIS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CARDIOMYOPATHY</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_WEAKNESS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DELTA_VARIANT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_GAMMA_VARIANT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ALPHA_VARIANT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_BETA_VARIANT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_ECG</ExaminationRef>
+			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
+			<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_ANTITUSICS</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_JM_SPECIALIST_BOOKING</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIDEPRESSIVES</TreatmentRef>
+			<TreatmentRef>TRT_ANXIOLYTICS</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_INTERNAL_MEDICINE_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>350</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON023_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON023_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- COVID-19 Vaccination Follow Up -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_VACCINE_FU">
+		<AbbreviationLocID>DIA_JM_VACCINE_FU_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_VACCINE_FOLLOWUP</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_SWELLING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>85</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>90</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_TENDERNESS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_REDNESS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>70</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_FEVER</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_NAUSEA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>40</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_VOMITING</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>80</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>20</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_HYPERPYREXIA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>5</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_TACHYCARDIA</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>30</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_CHILLS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>5</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_WEAKNESS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>5</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+			<ExaminationRef>EXM_ECG</ExaminationRef>
+			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+			<TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+			<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
+			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
+			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+			<TreatmentRef>TRT_REST</TreatmentRef>
+			<TreatmentRef>TRT_CRP_EPIPEN</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_INTERNAL_MEDICINE_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON017_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON017_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- GERD Checkup -->
+
+	<!-- COPD Checkup -->
+
+	<!-- HIV/AIDS Checkup -->
+
+	<!-- ######################### VACCINATIONS ######################### -->
+
+	<!-- Influenza Vaccination (A and B) -->
+	<GameDBMedicalCondition ID="DIA_JM_INFLU_VAC">
+		<AbbreviationLocID>DIA_JM_INFLU_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_INFLU_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_INFLU_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON017_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON017_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Adenovirus Vaccination -->
+
+	<!-- Anthrax Vaccination -->
+	<GameDBMedicalCondition ID="DIA_JM_ANTHRAX_VAC">
+		<AbbreviationLocID>DIA_JM_ANTHRAX_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_ANTHRAX_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON015_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON015_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Cholera Vaccination -->
+
+	<!-- Dengue Fever Vaccination -->
+	<GameDBMedicalCondition ID="DIA_JM_DENGUE_VAC">
+		<AbbreviationLocID>DIA_JM_DENGUE_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DENGUE_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_DENGUE_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON021_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON021_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Diphtheria Vaccination -->
+
+	<!-- DTaP Vaccination (Diptheria, Tetanus and Pertusis)-->
+	<GameDBMedicalCondition ID="DIA_JM_DTAP_VAC">
+		<AbbreviationLocID>DIA_JM_DTAP_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_DTAP_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_DTAP_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON014_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON014_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Ebola Vaccination -->
+	<GameDBMedicalCondition ID="DIA_JM_EBOLA_VAC">
+		<AbbreviationLocID>DIA_JM_EBOLA_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_VERYUNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_EBOLA_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_EBOLA_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON020_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON020_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- HepA-HepB Vaccination (Hepatitis A&B)-->
+
+	<!-- Hepatitis A Vaccination -->
+
+	<!-- Hepatitis B Vaccination -->
+
+	<!-- Hepatitis E Vaccination -->
+
+	<!-- Hib Vaccination (Haemophilus Influenzae Type B)-->
+
+	<!-- HPV Vaccination -->
+
+	<!-- Japanese Encephalitis Vaccination -->
+
+	<!-- Meningoccocal Vaccination -->
+
+	<!-- Malaria Vaccination -->
+	<GameDBMedicalCondition ID="DIA_JM_MALARIA_VAC">
+		<AbbreviationLocID>DIA_JM_MALARIA_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MALARIA_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_MALARIA_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON021_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON021_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Measles Vaccination -->
+
+	<!-- Mumps Vaccination -->
+
+	<!-- MMR Vaccination (Mumps, Measles and Rubella) -->
+	<GameDBMedicalCondition ID="DIA_JM_MMR_VAC">
+		<AbbreviationLocID>DIA_JM_MMR_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MMR_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_MMR_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON017_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON017_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Rubella Vaccination -->
+
+	<!-- Pneumoccocal Vaccination -->
+	<!--GameDBMedicalCondition
+	ID="DIA_JM_PNEUMOCC_VAC">
+	<AbbreviationLocID>DIA_JM_PNEUMOCC_VAC_DESCRIPTION</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+		<TreatmentRef>TRT_JM_PNEUMOCC_VACCINATION</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+    <InsurancePayment>250</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_MD_DIA_ICON015_LARGE</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_MD_DIA_ICON015_SMALL</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+		<Tag>clinic</Tag>
+    </Tags>
+    </GameDBMedicalCondition-->
+
+	<!-- Polio Vaccination -->
+
+	<!-- Rabies Vaccination -->
+
+	<!-- Rubella Vaccination -->
+
+	<!-- Smallpox Vaccination -->
+
+	<!-- Tetanus Vaccination -->
+
+	<!-- Tick-Borne Encephalitis Vaccination -->
+
+	<!-- Tuberculosis Vaccination -->
+	<GameDBMedicalCondition ID="DIA_JM_TB_VAC">
+		<AbbreviationLocID>DIA_JM_TB_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_TB_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_TB_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON015_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON015_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Typhoid Fever Vaccination -->
+
+	<!-- Varicella Vaccination -->
+	<GameDBMedicalCondition ID="DIA_JM_VARICL_VAC">
+		<AbbreviationLocID>DIA_JM_VARICL_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_VERYUNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_VARICL_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_VARICL_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON016_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON016_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition>
+
+	<!-- Yellow Fever Vaccination -->
+
+	<!-- ==== COVID-19 VACCINES ==== -->
+
+	<!-- AstraZeneca COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_AZCOV_VAC">
+		<AbbreviationLocID>DIA_JM_AZCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_AZCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_AZCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON030_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON030_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Sinovac COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_SINOCOV_VAC">
+		<AbbreviationLocID>DIA_JM_SINOCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SINOCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_SINOCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON027_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON027_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Sinopharm COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_SINOPCOV_VAC">
+		<AbbreviationLocID>DIA_JM_SINOPCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SINOPCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_SINOPCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON028_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON028_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Cansino COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_CANCOV_VAC">
+		<AbbreviationLocID>DIA_JM_CANCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_CANCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_CANCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON031_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON031_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Pfizer COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_PFICOV_VAC">
+		<AbbreviationLocID>DIA_JM_PFICOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_PFICOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_PFICOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON026_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON026_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Moderna COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_MODCOV_VAC">
+		<AbbreviationLocID>DIA_JM_MODCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_MODCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_MODCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON025_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON025_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Johnson & Johnson COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_JNJCOV_VAC">
+		<AbbreviationLocID>DIA_JM_JNJCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_UNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_JNJCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_JNJCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON024_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON024_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Sputnik V COVID Vaccine -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_SPUTCOV_VAC">
+		<AbbreviationLocID>DIA_JM_SPUTCOV_VAC_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_VERYUNCOMMON</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SPUTCOV_VACCINE_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_SPUTCOV_VACCINATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_EMERGENCY</DepartmentRef>
+		<InsurancePayment>250</InsurancePayment>
+
+		<IconIndex>1</IconIndex>
+
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON029_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON029_SMALL</CustomIconSmallAssetRef>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Sputnik Light COVID Vaccine -->
+
+	<!-- EpiVacCorona COVID Vaccine -->
+
+	<!-- ######################### SCREENINGS ######################### -->
+
+	<!-- COVID-19 Testing - Negative -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_COVID_SCRE">
+		<AbbreviationLocID>DIA_JM_COVID_SCRE_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_NEGATIVE_COVID_SCREEN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_COVID_SCREEN_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>60</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SYMPTOMS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_RT_PCR_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_HOME</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_INTERNAL_MEDICINE_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>230</InsurancePayment>
+
+		<IconIndex>2702</IconIndex>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- COVID-19 Testing - Positive -->
+	<!-- <GameDBMedicalCondition ID="DIA_JM_COVID_P_SCRE">
+		<AbbreviationLocID>DIA_JM_COVID_P_SCRE_DESCRIPTION</AbbreviationLocID>
+		<Duration>0</Duration>
+		<OccurrenceRef>OCCURRENCE_OR_AVERAGE</OccurrenceRef>
+		<Symptoms>
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_POSITIVE_COVID_SCREEN</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>100</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_COVID_SCREEN_APPOINTMENT</GameDBSymptomRef>
+			</GameDBSymptomRules>
+
+			<GameDBSymptomRules>
+				<ProbabilityPercent>60</ProbabilityPercent>
+				<GameDBSymptomRef>SYM_JM_SYMPTOMS</GameDBSymptomRef>
+			</GameDBSymptomRules>
+		</Symptoms>
+
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_RT_PCR_SAMPLING</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+		</Examinations>
+
+		<Treatments>
+			<TreatmentRef>TRT_HOME_TREATMENT</TreatmentRef>
+			<TreatmentRef>TRT_JM_ISOLATION</TreatmentRef>
+		</Treatments>
+
+		<DepartmentRef>DPT_INTERNAL_MEDICINE_DEPARTMENT</DepartmentRef>
+		<InsurancePayment>230</InsurancePayment>
+
+		<IconIndex>2702</IconIndex>
+
+		<Tags>
+			<Tag>disease</Tag>
+			<Tag>clinic</Tag>
+		</Tags>
+	</GameDBMedicalCondition> -->
+
+	<!-- Strep Test -->
+
+</Database>

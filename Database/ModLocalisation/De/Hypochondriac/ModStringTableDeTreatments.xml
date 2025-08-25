@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_DE_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>de</LanguageCode>
+        <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Bowelas</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>Natürliches Ausscheiden</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>Der Arzt rät dem Patienten, den Fremdkörper auf natürliche Weise aus dem Körper austreten zu lassen.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>After Sun</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>After Sun ist eine Feuchtigkeitscreme, die auch beruhigende Inhaltsstoffe wie Aloe Vera enthält.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS</LocID>                                  <Text>Wärmeverband</Text> </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>                      <Text>Eine warme Kompresse ist eine Methode, um dem Körper Wärme zuzuführen. Heizquellen können warmes Wasser, mikrowellengeeignete Pads, Weizenpackungen und elektrische oder chemische Pads sein.</Text>  </GameDBLocalizedString>
+      
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

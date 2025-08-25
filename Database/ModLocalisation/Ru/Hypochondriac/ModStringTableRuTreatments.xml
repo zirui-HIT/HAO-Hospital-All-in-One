@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>Естественный путь</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>Врач советует пациенту позволить инородному телу выйти из организма естественным путем.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>После загара</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>После загара — это увлажняющий крем, который содержит успокаивающие ингредиенты, такие как алоэ вера. </Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS</LocID>                                  <Text>Тёплый компресс</Text> </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>                      <Text>Теплый компресс — это метод приложения тепла к телу. Источники тепла могут включать теплую воду, микроволновые прокладки, пакеты с пшеницей и электрические или химические прокладки.</Text>  </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

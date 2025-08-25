@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>아린</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>자연적인 경과</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>의사는 환자에게 이물질이 자연스럽게 몸에서 빠져나갈 수 있도록 하라고 충고한다.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>애프터선크림</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>햇볕에 탄 피부에 바르는 크림으로 알로에 베라와 같은 진정 성분도 함유하고 있는 보습제다.</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS</LocID>                                  <Text>따뜻한 압박 붕대</Text> </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>                      <Text>몸에 열을 가하는 방법이다. 가열 소스는 온수, 전자레인지용 패드, 밀 팩 및 전기 또는 화학 패드를 포함할 수 있다.</Text>  </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

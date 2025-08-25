@@ -585,357 +585,357 @@
         <IconIndex>2166</IconIndex>
     </GameDBSymptom>
 
-	<!-- Dermatology & Venereology -->
+    <!-- Dermatology & Venereology -->
 
-	<!-- 甲板点状凹陷 -->
-	<GameDBSymptom ID="SYM_DER_NAIL_PITTING">
-		<DescriptionLocID>SYM_DER_NAIL_PITTING_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>0</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1031</IconIndex>
-	</GameDBSymptom>
+    <!-- 甲板点状凹陷 -->
+    <GameDBSymptom ID="SYM_DER_NAIL_PITTING">
+        <DescriptionLocID>SYM_DER_NAIL_PITTING_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1031</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 日晒加重 -->
-	<GameDBSymptom ID="SYM_DER_PHOTOEXACERBATION">
-		<DescriptionLocID>SYM_DER_PHOTOEXACERBATION_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1029</IconIndex>
-	</GameDBSymptom>
+    <!-- 日晒加重 -->
+    <GameDBSymptom ID="SYM_DER_PHOTOEXACERBATION">
+        <DescriptionLocID>SYM_DER_PHOTOEXACERBATION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1029</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 对称性颧部色斑 -->
-	<GameDBSymptom ID="SYM_DER_SYMMETRIC_MALAR_MACULES">
-		<DescriptionLocID>SYM_DER_SYMMETRIC_MALAR_MACULES_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
-		</Treatments>
-		<ShameLevel>30</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1437</IconIndex>
-	</GameDBSymptom>
+    <!-- 对称性颧部色斑 -->
+    <GameDBSymptom ID="SYM_DER_SYMMETRIC_MALAR_MACULES">
+        <DescriptionLocID>SYM_DER_SYMMETRIC_MALAR_MACULES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1437</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 额部受累 -->
-	<GameDBSymptom ID="SYM_DER_FOREHEAD_INVOLVEMENT">
-		<DescriptionLocID>SYM_DER_FOREHEAD_INVOLVEMENT_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_CRP_CHEMPEEL_L</TreatmentRef>
-		</Treatments>
-		<ShameLevel>20</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1437</IconIndex>
-	</GameDBSymptom>
+    <!-- 额部受累 -->
+    <GameDBSymptom ID="SYM_DER_FOREHEAD_INVOLVEMENT">
+        <DescriptionLocID>SYM_DER_FOREHEAD_INVOLVEMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_CHEMPEEL_L</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1437</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 上唇部色斑 -->
-	<GameDBSymptom ID="SYM_DER_UPPERLIP_PATCH">
-		<DescriptionLocID>SYM_DER_UPPERLIP_PATCH_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
-		</Treatments>
-		<ShameLevel>20</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1437</IconIndex>
-	</GameDBSymptom>
+    <!-- 上唇部色斑 -->
+    <GameDBSymptom ID="SYM_DER_UPPERLIP_PATCH">
+        <DescriptionLocID>SYM_DER_UPPERLIP_PATCH_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1437</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 同形反应 -->
-	<GameDBSymptom ID="SYM_DER_KOEBNER">
-		<DescriptionLocID>SYM_DER_KOEBNER_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
-		</Treatments>
-		<ShameLevel>0</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1029</IconIndex>
-	</GameDBSymptom>
+    <!-- 同形反应 -->
+    <GameDBSymptom ID="SYM_DER_KOEBNER">
+        <DescriptionLocID>SYM_DER_KOEBNER_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1029</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 领圈样鳞屑 -->
-	<GameDBSymptom ID="SYM_DER_COLLARETTE_SCALE">
-		<DescriptionLocID>SYM_DER_COLLARETTE_SCALE_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
-		</Treatments>
-		<ShameLevel>5</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>2232</IconIndex>
-	</GameDBSymptom>
+    <!-- 领圈样鳞屑 -->
+    <GameDBSymptom ID="SYM_DER_COLLARETTE_SCALE">
+        <DescriptionLocID>SYM_DER_COLLARETTE_SCALE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>5</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>2232</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 炎症后色素沉着 -->
-	<GameDBSymptom ID="SYM_DER_PIH">
-		<DescriptionLocID>SYM_DER_PIH_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1437</IconIndex>
-	</GameDBSymptom>
+    <!-- 炎症后色素沉着 -->
+    <GameDBSymptom ID="SYM_DER_PIH">
+        <DescriptionLocID>SYM_DER_PIH_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1437</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 炎症后色素减退 -->
-	<GameDBSymptom ID="SYM_DER_PIHYPO">
-		<DescriptionLocID>SYM_DER_PIHYPO_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1029</IconIndex>
-	</GameDBSymptom>
+    <!-- 炎症后色素减退 -->
+    <GameDBSymptom ID="SYM_DER_PIHYPO">
+        <DescriptionLocID>SYM_DER_PIHYPO_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1029</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 皮脂分泌增多 -->
-	<GameDBSymptom ID="SYM_DER_SEBUM_EXCESS">
-		<DescriptionLocID>SYM_DER_SEBUM_EXCESS_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DER_TOPICAL_RETINOID</TreatmentRef>
-		</Treatments>
-		<ShameLevel>15</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1353</IconIndex>
-	</GameDBSymptom>
+    <!-- 皮脂分泌增多 -->
+    <GameDBSymptom ID="SYM_DER_SEBUM_EXCESS">
+        <DescriptionLocID>SYM_DER_SEBUM_EXCESS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DER_TOPICAL_RETINOID</TreatmentRef>
+        </Treatments>
+        <ShameLevel>15</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1353</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 头皮鳞屑 -->
-	<GameDBSymptom ID="SYM_DER_SCALP_SCALE">
-		<DescriptionLocID>SYM_DER_SCALP_SCALE_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>2232</IconIndex>
-	</GameDBSymptom>
+    <!-- 头皮鳞屑 -->
+    <GameDBSymptom ID="SYM_DER_SCALP_SCALE">
+        <DescriptionLocID>SYM_DER_SCALP_SCALE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>2232</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 苔藓样变 -->
-	<GameDBSymptom ID="SYM_DER_LICHENIFICATION">
-		<DescriptionLocID>SYM_DER_LICHENIFICATION_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Medium</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1029</IconIndex>
-	</GameDBSymptom>
+    <!-- 苔藓样变 -->
+    <GameDBSymptom ID="SYM_DER_LICHENIFICATION">
+        <DescriptionLocID>SYM_DER_LICHENIFICATION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1029</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 抓痕/抓痕线 -->
-	<GameDBSymptom ID="SYM_DER_EXCORIATIONS">
-		<DescriptionLocID>SYM_DER_EXCORIATIONS_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Medium</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_CRP_MOISTURIZER_CREAM</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1029</IconIndex>
-	</GameDBSymptom>
+    <!-- 抓痕/抓痕线 -->
+    <GameDBSymptom ID="SYM_DER_EXCORIATIONS">
+        <DescriptionLocID>SYM_DER_EXCORIATIONS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_MOISTURIZER_CREAM</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1029</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 卫星样丘疹/脓疱 -->
-	<GameDBSymptom ID="SYM_DER_SATELLITE_PUSTULES">
-		<DescriptionLocID>SYM_DER_SATELLITE_PUSTULES_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
-			<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>10</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1361</IconIndex>
-	</GameDBSymptom>
+    <!-- 卫星样丘疹/脓疱 -->
+    <GameDBSymptom ID="SYM_DER_SATELLITE_PUSTULES">
+        <DescriptionLocID>SYM_DER_SATELLITE_PUSTULES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1361</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 环状隆起边缘 -->
-	<GameDBSymptom ID="SYM_DER_ANNULAR_BORDER">
-		<DescriptionLocID>SYM_DER_ANNULAR_BORDER_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_ANTIFUNGAL_OINTMENT</TreatmentRef>
-		</Treatments>
-		<ShameLevel>5</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1033</IconIndex>
-	</GameDBSymptom>
+    <!-- 环状隆起边缘 -->
+    <GameDBSymptom ID="SYM_DER_ANNULAR_BORDER">
+        <DescriptionLocID>SYM_DER_ANNULAR_BORDER_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIFUNGAL_OINTMENT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>5</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1033</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 中央清亮 -->
-	<GameDBSymptom ID="SYM_DER_CENTRAL_CLEARING">
-		<DescriptionLocID>SYM_DER_CENTRAL_CLEARING_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>5</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1033</IconIndex>
-	</GameDBSymptom>
+    <!-- 中央清亮 -->
+    <GameDBSymptom ID="SYM_DER_CENTRAL_CLEARING">
+        <DescriptionLocID>SYM_DER_CENTRAL_CLEARING_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>5</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1033</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 热饮/酒精诱发潮红 -->
-	<GameDBSymptom ID="SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL">
-		<DescriptionLocID>SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Low</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-		</Treatments>
-		<ShameLevel>20</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1421</IconIndex>
-	</GameDBSymptom>
+    <!-- 热饮/酒精诱发潮红 -->
+    <GameDBSymptom ID="SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL">
+        <DescriptionLocID>SYM_DER_ROSACEA_TRIGGERS_HOT_ALCOHOL_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1421</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 丘疹脓疱 -->
-	<GameDBSymptom ID="SYM_DER_PAPULOPUSTULES">
-		<DescriptionLocID>SYM_DER_PAPULOPUSTULES_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>Medium</DiscomfortLevel>
-		<PatientComplains>true</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_CRP_ANTI_ACNEE</TreatmentRef>
-		</Treatments>
-		<ShameLevel>20</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1029</IconIndex>
-	</GameDBSymptom>
+    <!-- 丘疹脓疱 -->
+    <GameDBSymptom ID="SYM_DER_PAPULOPUSTULES">
+        <DescriptionLocID>SYM_DER_PAPULOPUSTULES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ANTI_ACNEE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1029</IconIndex>
+    </GameDBSymptom>
 
-	<!-- 甲分离 -->
-	<GameDBSymptom ID="SYM_DER_NAIL_ONYCHOLYSIS">
-		<DescriptionLocID>SYM_DER_NAIL_ONYCHOLYSIS_DESCRIPTION</DescriptionLocID>
-		<DiscomfortLevel>None</DiscomfortLevel>
-		<PatientComplains>false</PatientComplains>
-		<Hazard>Low</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-		<Examinations>
-			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
-		</Examinations>
-		<Treatments>
-			<TreatmentRef>TRT_DER_SYSTEMIC_TERBINAFINE</TreatmentRef>
-		</Treatments>
-		<ShameLevel>0</ShameLevel>
-		<IsMainSymptom>false</IsMainSymptom>
-		<IconIndex>1031</IconIndex>
-	</GameDBSymptom>
+    <!-- 甲分离 -->
+    <GameDBSymptom ID="SYM_DER_NAIL_ONYCHOLYSIS">
+        <DescriptionLocID>SYM_DER_NAIL_ONYCHOLYSIS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DER_SYSTEMIC_TERBINAFINE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1031</IconIndex>
+    </GameDBSymptom>
 
     <GameDBSymptom ID="SYM_SH_GENITAL_DISCHARGE">
         <DescriptionLocID>SYM_SH_GENITAL_DISCHARGE_DESCRIPTION</DescriptionLocID>
@@ -10676,7 +10676,7 @@
         <Examinations>
             <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_CT</ExaminationRef>
-            </Examinations>
+        </Examinations>
         <Treatments>
             <TreatmentRef>SUR_OL_SPLENECTOMY</TreatmentRef>
         </Treatments>
@@ -12244,4 +12244,1585 @@
         <CustomIconSmallAssetRef>ASSET_MOREDG_ICON_S7_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
 
-</Database>
+    <!-- Hypochondriac -->
+
+    <GameDBSymptom ID="SYM_HYPO_SWALLOW">
+        <DescriptionLocID>SYM_HYPO_SWALLOW_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_SWALLOW</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_SWALLOW_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_HYPO_DEHYDRATION">
+        <DescriptionLocID>SYM_HYPO_DEHYDRATION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1557</IconIndex>
+    </GameDBSymptom>
+
+    <!-- Medical Procedure -->
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_HEART">
+        <DescriptionLocID>SYM_JM_HEALTHY_HEART_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON010_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON010_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_LUNGS">
+        <DescriptionLocID>SYM_JM_HEALTHY_LUNGS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON012_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON012_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT">
+        <DescriptionLocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON008_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON008_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_KIDNEYS">
+        <DescriptionLocID>SYM_JM_HEALTHY_KIDNEYS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON028_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON028_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_NERVES">
+        <DescriptionLocID>SYM_JM_HEALTHY_NERVES_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON029_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON029_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_PANCREAS">
+        <DescriptionLocID>SYM_JM_HEALTHY_PANCREAS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON030_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON030_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_REFLEX">
+        <DescriptionLocID>SYM_JM_HEALTHY_REFLEX_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON027_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON027_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_HEART_RHYTHM">
+        <DescriptionLocID>SYM_JM_HEALTHY_HEART_RHYTHM_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON011_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON011_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_BREATHING">
+        <DescriptionLocID>SYM_JM_HEALTHY_BREATHING_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+            <ExaminationRef>EXM_SPIROMETRY</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON006_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON006_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_BLOOD_PRESSURE">
+        <DescriptionLocID>SYM_JM_HEALTHY_BLOOD_PRESSURE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON003_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON003_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION">
+        <DescriptionLocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON005_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON005_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_EYESIGHT">
+        <DescriptionLocID>SYM_JM_HEALTHY_EYESIGHT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON007_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON007_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_BLOOD_CELL_COUNT">
+        <DescriptionLocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CBC_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON002_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON002_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_BLOOD_CONTENT">
+        <DescriptionLocID>SYM_JM_HEALTHY_BLOOD_CONTENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CBC_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON002_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON002_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_VITAMIN_LEVELS">
+        <DescriptionLocID>SYM_JM_HEALTHY_VITAMIN_LEVELS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CBC_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON002_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON002_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_SMELL">
+        <DescriptionLocID>SYM_JM_HEALTHY_SMELL_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON033_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON033_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_HEARING">
+        <DescriptionLocID>SYM_JM_HEALTHY_HEARING_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_AUDIOMETRY</ExaminationRef>
+            <ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON034_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON034_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_DIGESTION">
+        <DescriptionLocID>SYM_JM_HEALTHY_DIGESTION_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON048_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON048_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_STOOLS">
+        <DescriptionLocID>SYM_JM_HEALTHY_STOOLS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_STOOL_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON049_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON049_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_URINE">
+        <DescriptionLocID>SYM_JM_HEALTHY_URINE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON049_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON049_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_LIFESTYLE">
+        <DescriptionLocID>SYM_JM_HEALTHY_LIFESTYLE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1897</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON009_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON009_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_DIET">
+        <DescriptionLocID>SYM_JM_HEALTHY_DIET_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1897</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON050_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON050_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT">
+        <DescriptionLocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON004_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON004_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_ASTHMA">
+        <DescriptionLocID>SYM_JM_ASTHMA_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_SPIROMETRY</ExaminationRef>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+            <TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
+            <TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON014_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON014_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_DIABETES">
+        <DescriptionLocID>SYM_JM_DIABETES_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+            <TreatmentRef>TRT_JM_INSULIN_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON016_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON016_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_DRUG_ABUSE">
+        <DescriptionLocID>SYM_JM_DRUG_ABUSE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>50</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON017_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON017_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_GERD">
+        <DescriptionLocID>SYM_JM_GERD_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_GASTROSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON018_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON018_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_OVERWEIGHT">
+        <DescriptionLocID>SYM_JM_OVERWEIGHT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+            <TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON036_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON036_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SMOKING">
+        <DescriptionLocID>SYM_JM_SMOKING_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>
+            <TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1</IconIndex>
+
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON021_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON021_SMALL</CustomIconSmallAssetRef>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_MALNUTRITION">
+        <DescriptionLocID>SYM_JM_MALNUTRITION_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_MENTAL_HEALTH_ISSUES">
+        <DescriptionLocID>SYM_JM_MENTAL_HEALTH_ISSUES_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1487</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SEDITARY_LIFESTYLE">
+        <DescriptionLocID>SYM_JM_SEDITARY_LIFESTYLE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_LIFESTYLE_CHANGES</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HIGH_CHOLESTEROL">
+        <DescriptionLocID>SYM_JM_HIGH_CHOLESTEROL_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON025_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON025_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HYPERTENSION">
+        <DescriptionLocID>SYM_JM_HYPERTENSION_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1699</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_ARRHYTHMIA">
+        <DescriptionLocID>SYM_JM_ARRHYTHMIA_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>20</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_PALPITATIONS</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON022_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON022_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_CARDITIS">
+        <DescriptionLocID>SYM_JM_CARDITIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>10</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>20</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_PALPITATIONS</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON023_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON023_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_VALVE_DISEASE">
+        <DescriptionLocID>SYM_JM_VALVE_DISEASE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>5</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>20</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CARDIAC_SURGERY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON024_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON024_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SEVERE_HEART_DISEASE">
+        <DescriptionLocID>SYM_JM_SEVERE_HEART_DISEASE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>20</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>30</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CARDIAC_SURGERY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON026_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON026_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_CARDIAC_INFECTION">
+        <DescriptionLocID>SYM_JM_CARDIAC_INFECTION_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>1</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_PALPITATIONS</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_NITRATES</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON037_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON037_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SEVERE_LUNG_DISEASE">
+        <DescriptionLocID>SYM_JM_SEVERE_LUNG_DISEASE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>4</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON027_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON027_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_PNEUMONITIS">
+        <DescriptionLocID>SYM_JM_PNEUMONITIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON028_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON028_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_LUNG_INFECTION">
+        <DescriptionLocID>SYM_JM_LUNG_INFECTION_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON038_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON038_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_DIVERTICULITIS">
+        <DescriptionLocID>SYM_JM_DIVERTICULITIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON047_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON047_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_CROHNS">
+        <DescriptionLocID>SYM_JM_CROHNS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON047_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON047_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_ULC">
+        <DescriptionLocID>SYM_JM_ULC_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON047_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON047_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEMORRHOIDS">
+        <DescriptionLocID>SYM_JM_HEMORRHOIDS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_REST</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON047_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON047_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_HEMORRHOIDS1">
+        <DescriptionLocID>SYM_JM_HEMORRHOIDS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_BAND_LIGATION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1333</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON047_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON047_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_CELIAC_DISEASE">
+        <DescriptionLocID>SYM_JM_CELIAC_DISEASE_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOSPY_TEST</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_SEROLOGY_TESTING_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1103</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_CKD">
+        <DescriptionLocID>SYM_JM_CKD_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_END_CKD">
+        <DescriptionLocID>SYM_JM_CKD_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_DIALYSIS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_KIDNEY_STONES">
+        <DescriptionLocID>SYM_JM_KIDNEY_STONES_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_SHOCK_WAVE_LITHOTRIPSY</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1109</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_GLUMEROLUNEPHRITIS">
+        <DescriptionLocID>SYM_JM_GLUMEROLUNEPHRITIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_BACK</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON043_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON043_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_POLYCYSTIC_KD">
+        <DescriptionLocID>SYM_JM_POLYCYSTIC_KD_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON045_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON045_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_UTI">
+        <DescriptionLocID>SYM_JM_UTI_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SEVERE_UT_DISEASE">
+        <DescriptionLocID>SYM_JM_SEVERE_UT_DISEASE_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON046_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON046_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_PARKINSONS">
+        <DescriptionLocID>SYM_JM_PARKINSONS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON039_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON039_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_ALZHEIMERS">
+        <DescriptionLocID>SYM_JM_ALZHEIMERS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON039_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON039_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_DEMENTIA">
+        <DescriptionLocID>SYM_JM_DEMENTIA_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON040_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON040_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SEVERE_NEURO_DISEASE">
+        <DescriptionLocID>SYM_JM_SEVERE_NEURO_DISEASE_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_JM_SEIZURES</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1105</IconIndex>
+        <CustomIconBigAssetRef>ASSET_MD_SYM_ICON042_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_SYM_ICON042_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_LACTOSE_INTOLERANCE">
+        <DescriptionLocID>SYM_JM_LACTOSE_INTOLERANCE_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1037</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_TAPEWORM_INFECTION">
+        <DescriptionLocID>SYM_JM_TAPEWORM_INFECTION_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_STOOL_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_ANTIPARASITIC_DRUGS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1027</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_B12_DEFICIENCY">
+        <DescriptionLocID>SYM_JM_B12_DEFICIENCY_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>5</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_JM_SEIZURES</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1323</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_MAGNESIUM_DEFICIENCY">
+        <DescriptionLocID>SYM_JM_MAGNESIUM_DEFICIENCY_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>5</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_JM_SEIZURES</CollapseSymptomRef>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1035</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_IRON_DEFICIENCY">
+        <DescriptionLocID>SYM_JM_IRON_DEFICIENCY_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1035</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_IODINE_DEFICIENCY">
+        <DescriptionLocID>SYM_JM_IODINE_DEFICIENCY_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+        <Examinations>
+            <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+
+        <Treatments>
+            <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1035</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_JM_SEIZURES">
+        <DescriptionLocID>SYM_SEIZURES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+
+        <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+
+        <PatientMobility>IMOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
+        <CanNotTalk>true</CanNotTalk>
+        <IconIndex>2168</IconIndex>
+    </GameDBSymptom>
+
+    </Database>

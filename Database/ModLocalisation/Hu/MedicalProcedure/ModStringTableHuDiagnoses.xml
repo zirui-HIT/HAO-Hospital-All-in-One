@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_HU_ADDON_MEDCHECKUPS_DIAGNOSES">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+	<LocalizedStrings>
+	  <!-- Diagnoses -->
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANNUAL_CU</LocID>                         
+		 <Text>Éves ellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANNUAL_CU_DESCRIPTION</LocID>             
+		 <Text>Az éves ellenőrzés, az egy éves testellenőrzés, amelynek során kiderül, hogy vannak-e problémák az egészségükkel vagy a testükkel. Általában háziorvosok vagy belgyógyászok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CARDIO_CU</LocID>                         
+		 <Text>Kardiovaszkuláris szűrés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CARDIO_CU_DESCRIPTION</LocID>             
+		 <Text>A szív- és érrendszeri ellenőrzés egy ellenőrzés, amelynek célja annak ellenőrzése, hogy vannak-e problémák a keringési rendszeren belül. Általában kardiológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEURO_CU</LocID>                         
+		 <Text>Neurológiai szűrés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEURO_CU_DESCRIPTION</LocID>             
+		 <Text>A neurológiai szűrővizsgálat egy ellenőrzés, amelynek célja annak vizsgálata, hogy vannak-e problémák az idegrendszeren belül. Általában neurológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GASTRO_CU</LocID>                         
+		 <Text>Emésztőrendszeri ellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GASTRO_CU_DESCRIPTION</LocID>             
+		 <Text>A gyomor-bélrendszeri ellenőrzés egy ellenőrzés, amelynek célja annak vizsgálata, hogy vannak-e problémák az emésztőrendszeren belül. Általában gasztroenterológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEPHRO_CU</LocID>                         
+		 <Text>Nefrológiai szűrés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEPHRO_CU_DESCRIPTION</LocID>             
+		 <Text>A nephrológiai vizsgálat egy olyan ellenőrzés, amelynek célja annak megállapítása, hogy vannak-e problémák a veserendszeren belül. Általában nefrológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMO_CU</LocID>                         
+		 <Text>Légzésellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMO_CU_DESCRIPTION</LocID>             
+		 <Text>A légzőszervi ellenőrzés olyan ellenőrzés, amelynek célja annak ellenőrzése, hogy vannak-e problémák a légzőrendszeren belül. Általában pulmonológusok vagy belgyógyászok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NUTRI_CU</LocID>                         
+		 <Text>Étrend-ellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NUTRI_CU_DESCRIPTION</LocID>             
+		 <Text>Az étrend-ellenőrzés egy ellenőrzés, amelynek során kiderül, hogy vannak-e problémák az étrendjükkel és a vitaminszintjükkel. Általában táplálkozási szakemberek végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_COVID_CU</LocID>                         
+		 <Text>COVID-19 fertőzés utáni ellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_COVID_CU_DESCRIPTION</LocID>             
+		 <Text>A beteg megbeszélt időpontot háziorvosával, miután megfertőződött COVID-19-vel. Lehet, hogy hosszú COVID / poszt-COVID szindróma / poszt-vírusos fáradtságuk van.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_VACCINE_FU</LocID>                         
+		 <Text>Az oltás utáni nyomon követés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_VACCINE_FU_DESCRIPTION</LocID>             
+		 <Text>A beteg COVID vakcina beadását követően megbeszélt időpontot háziorvosával. Káros hatásokkal és / vagy kisebb tünetekkel járnak.</Text>  
+		</GameDBLocalizedString>
+		
+	    
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MMR_VAC</LocID>                         
+		 <Text>MMR eleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MMR_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben mumpsz, kanyaró és rubeola (MMR) vakcinát alkalmaznak a mumpsz, kanyaró és rubeola megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_INFLU_VAC</LocID>                         
+		 <Text>Influenza elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_INFLU_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben egy influenza oltást adunk be a H1N1, H3N1 és 2 különböző típusú influenza B fertőzés megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_VARICL_VAC</LocID>                         
+		 <Text>Bárányhímlő elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_VARICL_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben a bárányhimlő és az övsömör megelőzésére varicella-vakcinát adnak be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_DTAP_VAC</LocID>                         
+		 <Text>DTaP elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_DTAP_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben Diptheria, Tetanus és Pertusis (DTaP) vakcinát adnak be a Diftéria, Tetanusz és Pertussis (Szamárköhögés) megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMOCC_VAC</LocID>                         
+		 <Text>Pneumokokkusz elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMOCC_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben Pneumoccocal vakcinát adnak be a Pneumoccocal Meningitis, Bacteremia és Pneumonia megelőzésére.</Text>  
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANTHRAX_VAC</LocID>                         
+		 <Text>Lépfene elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANTHRAX_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben lépfene oltást adnak be a lépfene megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_EBOLA_VAC</LocID>                         
+		 <Text>rVSV-ZEBOV elleni védőltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_EBOLA_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben az rVSV-ZEBOV vakcinát adják be az Ebola megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_DENGUE_VAC</LocID>                         
+		 <Text>Dengue-láz elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_DENGUE_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben Dengue-láz vakcinát adnak be a Dengue-láz megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MALARIA_VAC</LocID>                         
+		 <Text>Malária elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MALARIA_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben egy malária vakcinát adnak be a malária megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_TB_VAC</LocID>                         
+		 <Text>Tuberkulózis elleni védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_TB_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben tuberkulózis vakcinát adnak be a tuberkulózis megelőzésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- OBSOLETE -->
+		 <LocID>DIA_JM_COVID_VAC</LocID>                         
+		 <Text>COVID-19 Próba védőoltás</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      <!-- OBSOLETE -->
+		 <LocID>DIA_JM_COVID_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben a COVID-19 megelőzésére kipróbált COVID vakcinát adunk be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_AZCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - AstraZeneca</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_AZCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt az oltóanyag márkát (Oxford-AstraZeneca) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - SinoVac</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt a vakcinamárkát (SinoVac-CoVac) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOPCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - Sinopharm</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOPCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt a vakcinamárkát (Sinopharm) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_CANCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - CanSino</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_CANCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt a vakcinamárkát (CanSino) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_PFICOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - Pfizer</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_PFICOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt az oltóanyag-márkát (Pfizer-BioNTech) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_MODCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - Moderna</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_MODCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt a vakcinamárkát (Moderna) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_JNJCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - Johnson n Johnson</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_JNJCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt a vakcinamárkát (Johnson n Johnson) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SPUTCOV_VAC</LocID>                         
+		 <Text>COVID-19 elleni védőoltás - Sputnik V</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_SPUTCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vakcina olyan biológiai készítmény, amely aktív szerzett immunitást biztosít egy adott fertőző betegség ellen. Az oltóanyag általában olyan szert tartalmaz, amely hasonlít egy betegséget okozó mikroorganizmushoz, és gyakran a mikroba, annak toxinjai vagy egyik felszíni fehérje legyengült vagy elölt formáiból készül. Ebben az esetben ezt a vakcinamárkát (Sputnik V) a COVID-19 megelőzésére adják be.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_SCRE</LocID>                         
+		 <Text>COVID-19 szűrés (negatív)</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_SCRE_DESCRIPTION</LocID>             
+		 <Text>A beteg COVID-19 teszt / szűrés elvégzését kéri, mivel vagy szoros kapcsolatban állt egy fertőzött személlyel és / vagy a COVID-19 tünetei vannak.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_P_SCRE</LocID>                         
+		 <Text>COVID-19 szűrés (pozitív)</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_P_SCRE_DESCRIPTION</LocID>             
+		 <Text>A beteg COVID-19 teszt / szűrés elvégzését kéri, mivel vagy szoros kapcsolatban állt egy fertőzött személlyel és / vagy a COVID-19 tünetei vannak.</Text>  
+		</GameDBLocalizedString>
+	   
+	   <!-- Obsolete --> 
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU</LocID>                         
+		 <Text>Éves ellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU_DESCRIPTION</LocID>             
+		 <Text>Az éves ellenőrzés, vagyis az éves testellenőrzés, amelynek során kiderül, hogy vannak-e problémák az egészségükkel vagy a testükkel. Általában háziorvosok vagy belgyógyászok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU</LocID>                         
+		 <Text>Kardiovaszkuláris szűrés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU_DESCRIPTION</LocID>             
+		 <Text>A szív- és érrendszeri ellenőrzés egy ellenőrzés, amelynek célja annak ellenőrzése, hogy vannak-e problémák a keringési rendszeren belül. Általában kardiológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU</LocID>                         
+		 <Text>Neurológiai szűrés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU_DESCRIPTION</LocID>             
+		 <Text>A neurológiai szűrővizsgálat egy ellenőrzés, amelynek célja annak vizsgálata, hogy vannak-e problémák az idegrendszeren belül. Általában neurológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU</LocID>                         
+		 <Text>Emésztőrendszeri ellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU_DESCRIPTION</LocID>             
+		 <Text>A gyomor-bélrendszeri ellenőrzés egy ellenőrzés, amelynek célja annak vizsgálata, hogy vannak-e problémák az emésztőrendszeren belül. Általában gasztroenterológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU</LocID>                         
+		 <Text>Nefrológiai szűrés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU_DESCRIPTION</LocID>             
+		 <Text>A nephrológiai vizsgálat egy olyan ellenőrzés, amelynek célja annak megállapítása, hogy vannak-e problémák a veserendszeren belül. Általában nefrológusok végzik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU</LocID>                         
+		 <Text>Légzésellenőrzés</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU_DESCRIPTION</LocID>             
+		 <Text>A légzőszervi ellenőrzés olyan ellenőrzés, amelynek célja annak ellenőrzése, hogy vannak-e problémák a légzőrendszeren belül. Általában pulmonológusok vagy belgyógyászok végzik.</Text>  
+		</GameDBLocalizedString>
+		 
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

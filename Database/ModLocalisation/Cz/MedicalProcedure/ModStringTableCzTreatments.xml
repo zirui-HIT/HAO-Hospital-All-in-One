@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_CZ_ADDON_MEDCHECKUPS_TREATMENTS">
+	<LanguageCode>cz</LanguageCode>
+	<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+	<Name>XiZyno</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+
+        <GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP</LocID>                 
+		 <Text>Vyšetření celého těla</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP_DESC</LocID>     
+		 <Text>Lékař pacientovi podrobí vyšetření celého těla. </Text>  
+		</GameDBLocalizedString>
+
+	    <GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES</LocID>                 
+		 <Text>Změny životního stylu</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES_DESC</LocID>     
+		 <Text>Lékař doporučuje, aby pacient změnil svůj životní styl, aby byl zdravější. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS</LocID>                 
+		 <Text>Předepsání léků/doplňků léčby</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</LocID>     
+		 <Text>Lékař poskytne pacientovi léky nebo doplňky k léčbě stávajících nemocí, menších problémů nebo poruch. </Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

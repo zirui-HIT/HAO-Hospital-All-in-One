@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_FR_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>fr</LanguageCode>
+        <LanguageNameLocalized>Français</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Mac Hareng</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>Passage naturel</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>Le médecin conseille au patient de laisser le corps étranger sortir naturellement du corps.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>Soin après-soleil</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>L'après-soleil est une crème hydratante qui contient également des ingrédients apaisants comme l'aloe vera.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS</LocID>           					   <Text>Compresse chaude</Text>          </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>                      <Text>Une compresse chaude est une méthode d'application de chaleur au corps. Les sources de chaleur peuvent comprendre de l'eau chaude, des serviettes chaudes (micro-onde), des paquets de blé et des serviettes électriques ou chimiques.</Text>          </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

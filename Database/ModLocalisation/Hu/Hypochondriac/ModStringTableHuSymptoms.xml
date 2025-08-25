@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_HYPOCHONDRIACS_SYMPTOMS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Hypochondriacs ================================================== -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW</LocID>
+				<Text>Idegen tárgy lenyelése</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW_DESCRIPTION</LocID>
+				<Text>A páciens lenyelt egy ismeretlen eredetű idegen tárgyat.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID</LocID>
+				<Text>Tollkupak megtalálva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID_DESCRIPTION</LocID>
+				<Text>A röntgengép felvétele láthatóvá tette, hogy a tollkupak le van nyelve.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH</LocID>
+				<Text>Hal-szálka megtalálva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH_DESCRIPTION</LocID>
+				<Text>A röntgengép felvétele láthatóvá tette, hogy a hal-szálka le van nyelve.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN</LocID>
+				<Text>Pénzérme megtalálva</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN_DESCRIPTION</LocID>
+				<Text>A röntgengép felvétele láthatóvá tette, hogy a pénzérme le van nyelve.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS</LocID>
+				<Text>Vérző orr</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS_DESCRIPTION</LocID>
+				<Text>A páciensnek vér folyik az orrából.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE</LocID>
+				<Text>Beütött lábujj</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE_DESCRIPTION</LocID>
+				<Text>A röntgen képalkotás nem mutatja az ujj sérülését.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN</LocID>
+				<Text>Lábfej fájdalom</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN_DESCRIPTION</LocID>
+				<Text>A beteg fájdalmat érez a lábujjában.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL</LocID>
+				<Text>Alkohol fogyasztás</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL_DESCRIPTION</LocID>
+				<Text>A beteg korábban nagy mennyiségű alkoholt fogyasztott.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN</LocID>
+				<Text>Leégés</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN_DESCRIPTION</LocID>
+				<Text>A napégés vörös, forró és fájó bőr tüneteit mutatja, amelyet túl sok napon töltött ídő okoz.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT</LocID>
+				<Text>Torokfájás</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT_DESCRIPTION</LocID>
+				<Text>A páciensnek fáj a torka.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE</LocID>
+				<Text>Fülfájás</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE_DESCRIPTION</LocID>
+				<Text>A fülfájás éles, tompa vagy égő fülfájás lehet, amelyet kisebb fertőzés okozhat. Sérülhet az egyik vagy mindkét fül.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING</LocID>
+				<Text>Túlevés</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING_DESCRIPTION</LocID>
+				<Text>A túlzott étkezés az energiafogyasztás felesleges része, amely súlygyarapodáshoz és gyakran elhízáshoz vezet.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE</LocID>
+				<Text>Reflex reakció</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE_DESCRIPTION</LocID>
+				<Text>A páciensnek rövid időn belül csökkent a reflex érzékelése, neurológiai okok miatt.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY</LocID>
+				<Text>Hickey (Kiszívott nyak)</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY_DESCRIPTION</LocID>
+				<Text>A Kiszívott nyak, hickey vagy szerelmes harapás a brit angol szerint, egy zúzódásnak vagy horzsolásnak tűnő folt. Erőteljes csóktól vagy szívástól jönlétre a bőr felületén, általában a nyakon vagy a karon. Noha a harapás részét képezi a hickey-nek, a szívás elegendő a felszínen lévő kis felületes erek felrobbantásához, amelytől létrejön a folt. </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION</LocID>
+				<Text>Dehidratáltság</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION_DESCRIPTION</LocID>
+				<Text>A betegnek nincs elé víz a szervezetében.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ECCHYMOSIS</LocID>
+				<Text>Véraláfutások</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ECCHYMOSIS_DESCRIPTION</LocID>
+				<Text>A bőr elszíneződése, az alatti vérzés miatt, amelyet általában véraláfutás okoz.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING</LocID>
+				<Text>Ételmérgezés</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING_DESCRIPTION</LocID>
+				<Text>Az ételmérgezés szennyezett, romlott vagy mérgező ételek fogyasztásának eredménye.</Text>
+			</GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

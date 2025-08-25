@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>chryue</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>自然排出</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>医生建议患者让异物自然离开身体。</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>晒后舒缓喷</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>晒后舒缓喷是一种保湿剂，还含有芦荟等舒缓疼痛的成分。</Text>  </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_HYPO_COMPRESS</LocID>
+            <Text>Warm compress</Text>
+          </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>
+            <Text>A warm compress is a method of applying heat to the body. Heating sources can include warm water, microwaveable pads, wheat packs and electrical or chemical pads.</Text>
+          </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

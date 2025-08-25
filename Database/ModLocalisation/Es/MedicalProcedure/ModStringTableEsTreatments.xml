@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ES_ADDON_MEDCHECKUPS_TREATMENTS">
+	<LanguageCode>es</LanguageCode>
+	<LanguageNameLocalized>Español</LanguageNameLocalized>
+	<Contributors>
+	<Name>Srmojon</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+   
+        <GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP</LocID>                 
+		 <Text>Examen de cuerpo entero</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP_DESC</LocID>     
+		 <Text>El Doctor le realiza al paciente un examen de cuerpo entero o también conocido como Chequeo medico general.</Text>  
+		</GameDBLocalizedString>
+
+	    <GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES</LocID>                 
+		 <Text>Cambios en el estilo de vida</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES_DESC</LocID>     
+		 <Text>El Doctor recomienda que el paciente cambie su estilo de vida para estar más saludable.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS</LocID>                 
+		 <Text>Medicamentos / suplementos</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</LocID>     
+		 <Text>El Doctor le da al paciente medicamentos o suplementos para tratar enfermedades existentes, problemas menores o trastornos.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING</LocID>                 
+		 <Text>Turno con especialista</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING_DESC</LocID>     
+		 <Text>El médico deriva al paciente a un especialista para tratar su enfermedad/trastorno.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING</LocID>                 
+		 <Text>Orientación clínica</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING_DESC</LocID>     
+		 <Text>La consejería es una terapia de conversación que involucra a un terapeuta capacitado que lo escucha y lo ayuda a encontrar formas de lidiar con los problemas emocionales. A veces, el término "asesoramiento" se utiliza para referirse a las terapias de conversación en general, pero el asesoramiento también es un tipo de terapia por derecho propio.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT</LocID>                 
+		 <Text>Admitir en la sala</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT_DESC</LocID>     
+		 <Text>El médico ingresa al paciente en la sala debido a la gravedad de una enfermedad o para el seguimiento del paciente.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MMR_VACCINATION</LocID>                 
+		 <Text>Vacuna MMR</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_INFLU_VACCINATION</LocID>                 
+		 <Text>Vacunación contra la influenza</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_VARICL_VACCINATION</LocID>                 
+		 <Text>Vacunación contra la varicela</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DTAP_VACCINATION</LocID>                 
+		 <Text>Vacuna DTaP</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_PNEUMOCC_VACCINATION</LocID>                 
+		 <Text>Vacunación contra el neumococo</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ANTHRAX_VACCINATION</LocID>                 
+		 <Text>Vacunación contra el ántrax</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_EBOLA_VACCINATION</LocID>                 
+		 <Text>Vacunación contra el ébola</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DENGUE_VACCINATION</LocID>                 
+		 <Text>Vacunación contra el dengue</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_TB_VACCINATION</LocID>                 
+		 <Text>Vacunación contra la tuberculosis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MALARIA_VACCINATION</LocID>                 
+		 <Text>Vacunación contra la malaria</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COVID_VACCINATION</LocID>                 
+		 <Text>Vacunación COVID-19 - Prueba</Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

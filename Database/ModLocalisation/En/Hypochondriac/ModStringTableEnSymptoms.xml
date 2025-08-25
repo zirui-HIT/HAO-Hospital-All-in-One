@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_HYPOCHONDRIACS_SYMPTOMS">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Hypochondriacs ================================================== -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW</LocID>
+				<Text>Foreign object swallowed</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW_DESCRIPTION</LocID>
+				<Text>The patient has swallowed an unknown foreign object.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID</LocID>
+				<Text>Pen lid found</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID_DESCRIPTION</LocID>
+				<Text>X-ray imaging shows the patient has swallowed a pen lid.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH</LocID>
+				<Text>Fish bone found</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH_DESCRIPTION</LocID>
+				<Text>X-ray imaging shows the patient has swallowed a fish bone.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN</LocID>
+				<Text>Coin found</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN_DESCRIPTION</LocID>
+				<Text>X-ray imaging shows the patient has swallowed a coin.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS</LocID>
+				<Text>Nose bleed</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS_DESCRIPTION</LocID>
+				<Text>The patient is bleeding from the nose.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE</LocID>
+				<Text>Stubbed toe</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE_DESCRIPTION</LocID>
+				<Text>X-ray imaging shows no damage to the toe.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN</LocID>
+				<Text>Toe pain</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN_DESCRIPTION</LocID>
+				<Text>The patient experiences pain in their toe.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL</LocID>
+				<Text>Alcohol consumption</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL_DESCRIPTION</LocID>
+				<Text>The patient has previously consumed a large amount of alcohol.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN</LocID>
+				<Text>Sunburn</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN_DESCRIPTION</LocID>
+				<Text>Sunburn is red, hot and sore skin caused by too much sun.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT</LocID>
+				<Text>Sore throat</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT_DESCRIPTION</LocID>
+				<Text>The patient has a sore throat.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE</LocID>
+				<Text>Earache</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE_DESCRIPTION</LocID>
+				<Text>Earache can be a sharp, dull or burning ear pain caused by a minor infection. One or both ears may be affected.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING</LocID>
+				<Text>Overeating</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING_DESCRIPTION</LocID>
+				<Text>Overeating is the excess food consumed in relation to the energy that an organism expends (or expels via excretion), leading to weight gaining and often obesity.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE</LocID>
+				<Text>Reflex syncope</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE_DESCRIPTION</LocID>
+				<Text>The patient sufferes from brief losses of consciousness due to a neurologically induced drop in blood pressure.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY</LocID>
+				<Text>Hickey</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY_DESCRIPTION</LocID>
+				<Text>A hickey, hickie or love bite in British English, is a bruise or bruise-like mark caused by the kissing or sucking of the skin, usually on the neck or arm.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION</LocID>
+				<Text>Dehydration</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION_DESCRIPTION</LocID>
+				<Text>The patient has insufficient water in their body.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ECCHYMOSIS</LocID>
+				<Text>Ecchymosis</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ECCHYMOSIS_DESCRIPTION</LocID>
+				<Text>A discoloration of the skin resulting from bleeding underneath, typically caused by bruising.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING</LocID>
+				<Text>Food poisoning</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING_DESCRIPTION</LocID>
+				<Text>Food poisoning is the result of eating contaminated, spoiled, or toxic food.</Text>
+			</GameDBLocalizedString>
+			
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

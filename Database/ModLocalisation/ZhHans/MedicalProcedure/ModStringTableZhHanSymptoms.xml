@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MEDCHECKUPS_SYMPTOMS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>Tianyi</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+		<!-- ================================================= Health ================================================== -->
+		
+		<!-- Organs -->
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART</LocID>                 
+		 <Text>健康的心脏</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_DESC</LocID>     
+		 <Text>病人的心脏形态和功能都很健康。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS</LocID>                 
+		 <Text>健康的肺</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS_DESC</LocID>     
+		 <Text>病人有一对健康的肺。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT</LocID>                 
+		 <Text>健康的胃肠道</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT_DESC</LocID>     
+		 <Text>病人的胃肠道很健康。</Text>  
+		</GameDBLocalizedString>
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS</LocID>                 
+		 <Text>健康的肾脏系统</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS_DESC</LocID>     
+		 <Text>病人的肾脏系统很健康。</Text>  
+		</GameDBLocalizedString>
+			
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN</LocID>                 
+		 <Text>健康的脾脏功能</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN_DESC</LocID>     
+		 <Text>病人的脾脏很健康。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS</LocID>                 
+		 <Text>健康的胰腺</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS_DESC</LocID>     
+		 <Text>病人胰腺健康，胰岛素水平正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH</LocID>                 
+		 <Text>健康的牙齿</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH_DESC</LocID>     
+		 <Text>病人牙齿健康。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES</LocID>                 
+		 <Text>健康的神经</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES_DESC</LocID>     
+		 <Text>病人有健康的神经和健康的感觉功能。</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Functions -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX</LocID>                 
+		 <Text>健康的反射神经</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX_DESC</LocID>     
+		 <Text>当医生进行体检时，病人的反射神经很健康。</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM</LocID>                 
+		 <Text>心律正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM_DESC</LocID>     
+		 <Text>使用心电图或通过听诊器发现患者的心律正常。</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING</LocID>                 
+		 <Text>呼吸模式正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING_DESC</LocID>     
+		 <Text>病人的呼吸模式正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT</LocID>                 
+		 <Text>视力正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT_DESC</LocID>     
+		 <Text>病人的视力正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT</LocID>                 
+		 <Text>血细胞数量正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT_DESC</LocID>     
+		 <Text>病人的血细胞数量正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT</LocID>                 
+		 <Text>蛋白质和葡萄糖的含量健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT_DESC</LocID>     
+		 <Text>病人血液中的蛋白质和葡萄糖含量正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS</LocID>                 
+		 <Text>维生素水平健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS_DESC</LocID>     
+		 <Text>病人血液中维生素含量正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE</LocID>                 
+		 <Text>血压正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE_DESC</LocID>     
+		 <Text>患者血压正常，介于90/60mmHg和120/80mmHg之间。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</LocID>                 
+		 <Text>神经功能健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION_DESC</LocID>     
+		 <Text>病人的神经功能正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL</LocID>                 
+		 <Text>嗅觉和味觉正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL_DESC</LocID>     
+		 <Text>病人有健康的嗅觉和味觉。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING</LocID>                 
+		 <Text>听力正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING_DESC</LocID>     
+		 <Text>病人的听力正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION</LocID>                 
+		 <Text>消化系统健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION_DESC</LocID>     
+		 <Text>病人消化良好。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS</LocID>                 
+		 <Text>排便健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS_DESC</LocID>     
+		 <Text>病人的大便形状和颜色都很健康。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE</LocID>                 
+		 <Text>排尿健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE_DESC</LocID>     
+		 <Text>病人的尿色和尿量正常。</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Misc -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET</LocID>                 
+		 <Text>饮食健康</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET_DESC</LocID>     
+		 <Text>病人的饮食健康均衡。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE</LocID>                 
+		 <Text>健康的生活方式</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE_DESC</LocID>     
+		 <Text>病人正在锻炼，并且有一个均衡的时间表。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</LocID>                 
+		 <Text>身体质量指数正常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT_DESC</LocID>     
+		 <Text>病人的体重指数很健康。体重指数（BMI）是一个人的体重（以千克为单位）除以身高（以米为单位）的平方。高BMI可能是身体肥胖的一个指标。BMI可以用来筛选可能导致健康问题的体重类别，但它不能诊断一个人的身体肥胖或健康状况。</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Complications ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AIDS</LocID>                 
+		 <Text>艾滋病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>患者感染艾滋病毒后患有艾滋病（获得性免疫缺陷综合征），需要抗逆转录病毒治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA</LocID>                 
+		 <Text>哮喘</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA_DESC</LocID>     
+		 <Text>患者有哮喘病史或目前患有哮喘，需要吸入器。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE</LocID>                 
+		 <Text>自身免疫性疾病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE_DESC</LocID>     
+		 <Text>患者有自身免疫性疾病，如狼疮或血管炎，需要药物治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES</LocID>                 
+		 <Text>糖尿病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES_DESC</LocID>     
+		 <Text>患者有糖尿病病史或目前患有糖尿病，需要注射胰岛素并改变饮食。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE</LocID>                 
+		 <Text>药物滥用</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE_DESC</LocID>     
+		 <Text>患者有吸毒史或目前有毒瘾，他们需要咨询并改变生活方式。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD</LocID>                 
+		 <Text>胃食管反流病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD_DESC</LocID>     
+		 <Text>患者有胃食管反流病史或目前有胃食管反流病，他们需要抗酸剂并改变饮食。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS</LocID>                 
+		 <Text>牙龈炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS_DESC</LocID>     
+		 <Text>患者目前患有牙龈炎。它通常是因为牙菌斑或细菌的薄膜在牙齿上积聚而发生的。牙龈炎是一种非破坏性的牙周病，但未经治疗的牙龈炎可发展为牙周炎。这种情况更严重，最终会导致牙齿脱落，患者需要特殊的牙膏和药物。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV</LocID>                 
+		 <Text>艾滋病病毒</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV_DESC</LocID>     
+		 <Text>患者目前感染了可能导致艾滋病的HIV（人类免疫缺陷病毒），需要抗逆转录病毒治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT</LocID>                 
+		 <Text>超重/过度肥胖过度肥胖</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT_DESC</LocID>     
+		 <Text>患者有病史或目前超重/肥胖，需要改变饮食并生活方式。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING</LocID>                 
+		 <Text>吸烟</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING_DESC</LocID>     
+		 <Text>患者有吸烟史或目前有吸烟成瘾史，他们需要咨询和改变生活方式。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION</LocID>                 
+		 <Text>营养不良</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION_DESC</LocID>     
+		 <Text>患者目前营养不良，需要立即用食物泵进行护理。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES</LocID>                 
+		 <Text>心理健康问题</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES_DESC</LocID>     
+		 <Text>患者有抑郁或焦虑病史或目前正处于抑郁或焦虑状态，需要咨询。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE</LocID>                 
+		 <Text>久坐的生活习惯</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE_DESC</LocID>     
+		 <Text>患者有久坐的生活方式，这会导致健康问题，他们需要改变生活方式。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL</LocID>                 
+		 <Text>高胆固醇</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL_DESC</LocID>     
+		 <Text>病人胆固醇过高，增加了中风和心脏病发作的风险。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION</LocID>                 
+		 <Text>高血压</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION_DESC</LocID>     
+		 <Text>患者的血压高于120/80mmHg，这会增加中风和高血压发作的风险，他们需要高血压药物治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Major and Specialised Complications -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA</LocID>                 
+		 <Text>心律失常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA_DESC</LocID>     
+		 <Text>心律失常是心跳频率或节奏的问题。在心律失常期间，心脏跳动过快、过慢或心律不规则。当心跳过快时，这种情况称为心动过速。当心跳过慢时，这种情况称为心动过缓。病人需要抗心律失常药。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS</LocID>                 
+		 <Text>心肌炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS_DESC</LocID>     
+		 <Text>心肌炎，又称炎性心肌病，是心肌的炎症。症状包括呼吸急促、胸痛、运动能力下降和心跳不规则。问题的持续时间从几个小时到几个月不等。并发症可能包括扩张型心肌病或心脏骤停引起的心力衰竭。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE</LocID>                 
+		 <Text>瓣膜性心脏病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE_DESC</LocID>     
+		 <Text>瓣膜性心脏病是指心脏中的任何瓣膜有损伤或病变。瓣膜疾病有几种原因。正常心脏有四个心室（右心房和左心房，右心室和左心室）和四个瓣膜。疾病包括狭窄和反流。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE</LocID>                 
+		 <Text>严重心脏病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE_DESC</LocID>     
+		 <Text>病人患了一种非常严重的心脏病，你必须尽快治疗。患者目前可能患有心脏病发作、心力衰竭、严重冠心病、严重心绞痛等。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION</LocID>                 
+		 <Text>心内膜炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION_DESC</LocID>     
+		 <Text>心内膜炎是一种影响分隔心腔和瓣膜（心内膜）的内膜的感染。心脏感染症状包括：发烧、呼吸急促、虚弱或疲劳、腿部或腹部肿胀、心律改变、干咳或持续咳嗽、皮疹或异常斑点。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE</LocID>                 
+		 <Text>重症肺病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE_DESC</LocID>     
+		 <Text>病人患了非常严重的肺病，你必须尽快治疗。患者目前可能患有ARDS、肺栓塞、晚期肺癌、重症肺炎等。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS</LocID>                 
+		 <Text>局限性肺炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS_DESC</LocID>     
+		 <Text>肺炎是肺组织炎症的总称。从技术上讲，局限性肺炎依然是一种肺炎。然而，局限性肺炎通常被医生用来指非感染性原因导致的肺部炎症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION</LocID>                 
+		 <Text>肺炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION_DESC</LocID>     
+		 <Text>肺炎是肺部气囊感染导致的发炎。气囊内可能充满液体或脓液（化脓性物质），引起痰或脓咳嗽、发热、寒战和呼吸困难。多种生物，包括细菌、病毒和真菌，都能引起肺炎。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS</LocID>                 
+		 <Text>憩室炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS_DESC</LocID>     
+		 <Text>憩室是形成在消化系统衬里的一种小囊肿。它们最常见于大肠的下部（结肠）。憩室在四十岁以后很常见，但很少引起问题。憩室的存在被称为憩室病。当一个或多个憩室发炎，并在某些情况下感染，这种情况被称为憩室炎。憩室炎可以引起严重的腹痛，发烧，恶心并导致你的排便习惯的明显改变。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC</LocID>                 
+		 <Text>溃疡性结肠炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC_DESC</LocID>     
+		 <Text>溃疡性结肠炎（UC）是一种炎症性肠病（IBD）。它会在在您大肠的衬里（也称为您的结肠）引起刺激，炎症和溃疡。没有治愈的方法，人们通常一辈子都会有断断续续的症状。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS</LocID>                 
+		 <Text>克罗恩病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS_DESC</LocID>     
+		 <Text>克罗恩病是一种炎症性肠病（IBD），可能影响从口腔到肛门的胃肠道的任何部分。症状通常包括腹痛、腹泻（如果炎症严重，可能带血）、发烧、腹胀和体重减轻。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS</LocID>                 
+		 <Text>小痔疮</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS1</LocID>                 
+		 <Text>痔疮</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS_DESC</LocID>     
+		 <Text>痔疮是肛门和直肠下部肿胀的静脉，类似于静脉曲张。痔疮可发生在直肠内（内痔）或肛门周围皮肤下（外痔）。几乎四分之三的成年人会得痔疮。痔疮有许多原因，但往往原因不明。幸运的是，痔疮是可以治疗的。许多人通过家庭治疗和生活方式的改变得到缓解。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE</LocID>                 
+		 <Text>乳糜泻</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE_DESC</LocID>     
+		 <Text>乳糜泻，有时被称麸质敏感肠病，是一种对食用麸质的免疫反应，麸质是小麦、大麦和黑麦中的一种蛋白质。如果你有腹腔疾病，吃谷蛋白会引发小肠的免疫反应。久而久之，这种反应会损害你的小肠内壁，阻止它吸收一些营养物质（吸收不良）。肠道损伤常引起腹泻、乏力、体重减轻、腹胀和贫血，并可导致严重并发症。对于儿童，吸收不良除了引起成人的症状外，还会影响生长发育。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD</LocID>                 
+		 <Text>慢性肾病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_END_CKD</LocID>                 
+		 <Text>慢性肾病-晚期</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD_DESC</LocID>     
+		 <Text>慢性肾病，也称为慢性肾功能衰竭，描述的是肾功能逐渐丧失。你的肾脏过滤血液中的废物和多余液体，然后通过尿液排出。当慢性肾脏疾病发展到晚期时，体内会积聚危险的液体、电解质和废物。在慢性肾病的早期阶段，你可能没有什么症状或体征。慢性肾脏疾病可能不会变得明显，直到你的肾功能明显受损。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES</LocID>                 
+		 <Text>肾结石</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES_DESC</LocID>     
+		 <Text>肾结石（也称为尿路结石）是由矿物质和盐在肾脏内形成的坚硬沉积物。饮食、超重、某些医疗原因、某些补充剂和药物是导致肾结石的众多原因之一。肾结石会影响从肾脏到膀胱的泌尿系统的任何部分。通常，尿液浓缩时会形成结石，使矿物质结晶并粘在一起。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS</LocID>                 
+		 <Text>肾小球肾炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS_DESC</LocID>     
+		 <Text>肾小球肾炎是肾小球发生的炎症。肾小球可以清除血液中多余的液体、电解质和废物，并将它们输送到尿液中。肾小球肾炎可以突然（急性）或逐渐（慢性）发生。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD</LocID>                 
+		 <Text>多囊肾病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD_DESC</LocID>     
+		 <Text>多囊肾病（PKD）是一种遗传性疾病，主要在肾脏内形成一簇囊肿，随着时间的推移，导致肾脏增大和功能丧失。囊肿是含液体的非癌性圆形囊。囊肿大小不一，可以长得很大。囊肿过大或者过多会损害你的肾脏。多囊肾病也会导致肝脏和身体其他部位出现囊肿。这种疾病会导致严重的并发症，包括高血压和肾衰竭。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI</LocID>                 
+		 <Text>尿路感染</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI_DESC</LocID>     
+		 <Text>尿路感染（UTI）是指泌尿系统任何部位的感染，包括肾脏、输尿管、膀胱和尿道。大多数感染涉及下尿路、膀胱和尿道。女性患尿路感染的风险高于男性。局限于膀胱的感染可能是痛苦和烦人的。然而，如果尿路感染扩散到你的肾脏，可能会发生严重的后果。医生通常用抗生素治疗尿路感染。但你可以采取措施，提前减少尿路感染的可能。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE</LocID>                 
+		 <Text>严重肾病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE_DESC</LocID>     
+		 <Text>病人患了非常严重的肾病，你必须尽快治疗。患者目前可能患有肾功能衰竭、慢性肾脏病-晚期等。 </Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA</LocID>                 
+		 <Text>痴呆</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA_DESC</LocID>     
+		 <Text>痴呆描述的是一组严重影响记忆、思维和社交能力的症状，足以干扰你的日常生活。它不是一种特殊的疾病，但有几种不同的疾病可能导致痴呆症。虽然痴呆症通常包括失忆，失忆有不同的原因。失忆并不意味着你有痴呆症。老年痴呆症是导致老年人进行性痴呆的最常见原因，但也有许多导致痴呆的原因。根据病因，一些痴呆症状可能是可逆的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS</LocID>                 
+		 <Text>阿兹海默症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS_DESC</LocID>     
+		 <Text>阿尔茨海默病是一种进行性的疾病，它会导致脑细胞的损耗（退化）和死亡。阿尔茨海默病是痴呆症最常见的病因。患者会出现思维、行为和社交技能的持续下降，破坏了一个人独立运作的能力。这种疾病的早期症状可能是忘记最近的事件或谈话。随着病情的发展，阿尔茨海默病患者会出现严重的记忆障碍，丧失执行日常任务的能力。目前的阿尔茨海默病药物可能会暂时改善症状或减缓下降速度。这些疗法有时可以帮助老年痴呆症患者最大限度地发挥功能，并在一段时间内保持独立性。</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS</LocID>                 
+		 <Text>帕金森病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS_DESC</LocID>     
+		 <Text>帕金森病是一种影响运动的进行性神经系统疾病。症状是缓慢变化的，有时开始时只有一只手几乎不明显的震颤。震颤是常见的，但这种紊乱也通常导致僵硬或运动减慢。在帕金森病的早期阶段，你的脸可能很少或没有表情。你走路时手臂可能无法摆动。你的讲话可能变得含糊不清。帕金森氏症的症状会随着你病情的发展而恶化.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE</LocID>                 
+		 <Text>严重神经系统疾病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE_DESC</LocID>     
+		 <Text>病人患了非常严重的神经系统疾病，你必须尽快治疗。患者目前可能患有脑炎、脑膜炎、瘫痪、颅内压等。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE</LocID>                 
+		 <Text>乳糖不耐症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE_DESC</LocID>     
+		 <Text>患者有乳糖不耐症，导致腹胀、腹泻和肠胃胀气，需要改变饮食。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION</LocID>                 
+		 <Text>绦虫感染</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION_DESC</LocID>     
+		 <Text>病人肠子里有绦虫，需要抗寄生虫药。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY</LocID>                 
+		 <Text>坏血病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY_DESC</LocID>     
+		 <Text>病人患有由维生素C缺乏引起的坏血病，这在富裕国家非常罕见，需要立即静脉输液。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY</LocID>                 
+		 <Text>维生素B12缺乏</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY_DESC</LocID>     
+		 <Text>患者缺乏维生素B12，如果不治疗会导致神经退化和认知能力下降。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY</LocID>                 
+		 <Text>缺镁</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY_DESC</LocID>     
+		 <Text>患者缺乏镁元素，需要补充镁。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY</LocID>                 
+		 <Text>缺铁</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY_DESC</LocID>     
+		 <Text>病人缺铁，这会导致贫血，他们需要补充铁。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY</LocID>                 
+		 <Text>缺碘</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY_DESC</LocID>     
+		 <Text>患者缺碘会导致认知能力下降，需要补充碘。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEIZURES</LocID>                 
+		 <Text>癫痫</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Obsolete -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES</LocID>                 
+		 <Text>健康异常</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>患者有营养不良、高血压或疾病等健康问题。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES</LocID>                 
+		 <Text>潜在问题</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES_DESC</LocID>     
+		 <Text>患者有焦虑或糖尿病等疾病或紊乱的病史。</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Main Symptoms ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>每年体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>心血管体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>神经系统体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>胃肠体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>肾脏体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>呼吸系统体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>饮食检查预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与他/她的营养师预约进行饮食检查。</Text>  
+		</GameDBLocalizedString>
+		
+	<!-- VACCINE MAIN SYMPTOMS -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>风疹疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种腮腺炎、麻疹和风疹疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>流感疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种流感疫苗，以保护患者免受H1N1、H3N1和2种不同类型的B型流感感染。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>水痘疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种水痘疫苗，以保护患者免受带状疱疹和水痘的侵害。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>百日咳疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种白喉、破伤风和百日咳疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>肺炎疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与他/她的家庭医生预约进行肺炎球菌疫苗接种。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>炭疽疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种炭疽疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>埃博拉疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种埃博拉疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>登革热疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种登革热疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>疟疾疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种疟疾疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>结核病疫苗接种预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与家庭医生预约接种结核病疫苗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19疫苗接种预约-试验/紧急使用</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与他/她的家庭医生预约接种COVID-19疫苗，以供试验或政府授权的紧急使用。</Text>  
+		</GameDBLocalizedString>
+		
+	<!-- OBSOLETE -->
+	
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>每年体检预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与他/她的全科医生预约进行年度体检。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>心血管检查预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与他/她的心脏病专家预约进行心血管检查。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>神经系统检查预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与他/她的神经科医生预约进行神经系统检查。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>胃肠检查预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与胃肠科医生预约进行胃食管检查。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>肾脏检查预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与肾脏科医生预约进行肾脏检查。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>呼吸系统检查预约</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>患者与肺科医生预约进行呼吸检查。</Text>  
+		</GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -27,6 +27,8 @@
 * [真实的病倒和疾病发生率](https://steamcommunity.com/sharedfiles/filedetails/?id=2704509476)
 * 更多的保险公司：[Anthem, Inc. Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311624989)、[United Healthcare](https://steamcommunity.com/sharedfiles/filedetails/?id=2312636767)、[Kaiser Foundation Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311625277)
 * [更多疾病](https://steamcommunity.com/sharedfiles/filedetails/?id=2015448513)
+* [疑病症患者](https://steamcommunity.com/sharedfiles/filedetails/?id=1995976999)
+* [医疗程序](https://steamcommunity.com/sharedfiles/filedetails/?id=2167731584)
 
 ## 数值调整
 * 最大保险数设置为36
@@ -47,6 +49,7 @@
 * 整合了一些功能上相同的检测，来减少医生开具的检测数量，并删除了所有没有被疾病用到的症状、检测和治疗方式
 * 调整了各个科室生成患者的权重，以更贴合现实
 * 调整了各个科室的logo，现在它们的风格与原版科室的logo更加一致了！
+* 删除了所有医疗程序中的COVID-19疫苗接种，因为他们有些重复，而且在大流行之后看有些过时了:D
 
 ## 语言支持
 除了我本人翻译了所有中文内容外，其他MOD的翻译均使用MOD中自带的翻译，具体的翻译情况如下：

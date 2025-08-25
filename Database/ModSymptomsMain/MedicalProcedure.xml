@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	
+	<!-- ##################### CHECKUP DIAGNOSES ##################### -->
+	
+	<GameDBSymptom ID="SYM_JM_ANNUAL_CHECKUP_APPOINTMENT2">
+        <DescriptionLocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_SYM_ICON001_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_SYM_ICON001_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT2">
+        <DescriptionLocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON003_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT2">
+        <DescriptionLocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON009_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON009_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT2">
+        <DescriptionLocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON007_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON007_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_KIDNEY_CHECKUP_APPOINTMENT2">
+        <DescriptionLocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON013_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON013_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT2">
+        <DescriptionLocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON003_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_NUTRI_CHECKUP_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHECKUP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON022_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON022_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<!-- CHECKUPS - DISEASE -->
+		
+	<!-- ##################### VACCINE DIAGNOSES ##################### -->
+	
+	<GameDBSymptom ID="SYM_JM_MMR_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_MMR_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_MMR_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+    <GameDBSymptom ID="SYM_JM_INFLU_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_INFLU_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_INFLU_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_VARICL_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_VARICL_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_VARICL_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_DTAP_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_DTAP_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_DTAP_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_ANTHRAX_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_ANTHRAX_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_EBOLA_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_EBOLA_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_DENGUE_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_DENGUE_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_MALARIA_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_MALARIA_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_TB_VACCINE_APPOINTMENT">
+        <DescriptionLocID>SYM_JM_TB_VACCINE_APPOINTMENT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_TB_VACCINATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_MD_DIA_ICON018_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MD_DIA_ICON018_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<!-- ##################### SCREEN DIAGNOSES ##################### -->
+	
+	<!-- OBSOLETE -->
+	
+	</Database>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ES_ADDON_MEDCHECKUPS_EXAMINATIONS">
+	<LanguageCode>es</LanguageCode>
+	<LanguageNameLocalized>Español</LanguageNameLocalized>
+	<Contributors>
+	<Name>Srmojon</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Examinations -->
+
+        <GameDBLocalizedString>      
+		 <LocID>EXM_JM_MEDICAL_HISTORY</LocID>                 
+		 <Text>Historial médico y familiar</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>EXM_JM_MEDICAL_HISTORY_DESC</LocID>     
+		 <Text>En medicina clínica, el historial médico puede contener información relevante sobre la salud pasada, presente y futura del paciente. Al ser un relato de todos los eventos y problemas médicos que ha experimentado una persona, es una herramienta importante en el manejo del paciente.</Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>hu</LanguageCode>
+        <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>kmd94</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>Természetes áthaladás</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>Az orvos azt javasolja a betegnek, hogy hagyja az idegen tárgyat természetesen távozni a testéből.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>Leégést kezelő krém</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>A Leégést kezelő krém, egy  hidratáló krém, amely nyugtató összetevőket is tartalmaz, például aloe verát.</Text>  </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS</LocID>                                  <Text>Melegborogatás</Text> </GameDBLocalizedString>
+      <GameDBLocalizedString>      <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>                      <Text>A melegborogatás a hőszigetelésére szolgáló módszer. Meleg vizet, mikrohullámos párnákat, elektromos vagy vegyi párnákat tartalmazhatnak.</Text>  </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

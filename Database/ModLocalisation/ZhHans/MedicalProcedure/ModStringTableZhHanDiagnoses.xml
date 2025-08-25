@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MEDCHECKUPS_DIAGNOSES">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>Tianyi</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Diagnoses -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANNUAL_CU</LocID>
+				<Text>年度体检</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANNUAL_CU_DESCRIPTION</LocID>
+				<Text>年度体检是每年一次的身体检查，看看他们的健康或身体是否有问题。通常由全科医生或内科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CARDIO_CU</LocID>
+				<Text>心血管检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CARDIO_CU_DESCRIPTION</LocID>
+				<Text>心血管检查主要是检查循环系统是否有问题。通常由心脏病专家进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEURO_CU</LocID>
+				<Text>神经系统检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEURO_CU_DESCRIPTION</LocID>
+				<Text>神经系统检查主要是检查神经系统是否有问题。通常由神经科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GASTRO_CU</LocID>
+				<Text>胃肠检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GASTRO_CU_DESCRIPTION</LocID>
+				<Text>胃肠检查主要是检查消化系统是否有问题。通常由胃肠科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEPHRO_CU</LocID>
+				<Text>肾脏检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEPHRO_CU_DESCRIPTION</LocID>
+				<Text>肾脏检查主要是检查肾脏系统是否有问题。通常由肾脏科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMO_CU</LocID>
+				<Text>呼吸系统检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMO_CU_DESCRIPTION</LocID>
+				<Text>呼吸检查是检查呼吸系统是否有问题。通常由肺科医生或内科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NUTRI_CU</LocID>
+				<Text>饮食检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NUTRI_CU_DESCRIPTION</LocID>
+				<Text>饮食检查主要是查看对象是否有任何饮食问题，以及体内是否有任何问题。通常由营养学家和医生进行。</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MMR_VAC</LocID>
+				<Text>风疹疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MMR_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，腮腺炎、麻疹和风疹（MMR）疫苗可预防腮腺炎、麻疹和风疹。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_INFLU_VAC</LocID>
+				<Text>流感疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_INFLU_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，流感疫苗可预防H1N1、H3N1和2种不同类型的流感B感染。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VARICL_VAC</LocID>
+				<Text>水痘疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VARICL_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，水痘疫苗可以预防水痘和带状疱疹。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DTAP_VAC</LocID>
+				<Text>百日咳疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DTAP_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，白喉、破伤风和百日咳（DTaP）疫苗可预防白喉、破伤风和百日咳（百日咳）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMOCC_VAC</LocID>
+				<Text>肺炎球菌疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMOCC_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，肺炎球菌疫苗可预防肺炎球菌性脑膜炎、菌血症和肺炎。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANTHRAX_VAC</LocID>
+				<Text>炭疽疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANTHRAX_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，炭疽疫苗可以预防炭疽病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_EBOLA_VAC</LocID>
+				<Text>rVSV-ZEBOV疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_EBOLA_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，rVSV-ZEBOV疫苗可以预防埃博拉病毒。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DENGUE_VAC</LocID>
+				<Text>登革热疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DENGUE_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，登革热疫苗可以预防登革热。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MALARIA_VAC</LocID>
+				<Text>疟疾疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MALARIA_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，疟疾疫苗可以预防疟疾。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_TB_VAC</LocID>
+				<Text>结核病疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_TB_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。在这种情况下，结核病疫苗可以预防结核病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_VAC</LocID>
+				<Text>COVID-19试验疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_VAC_DESCRIPTION</LocID>
+				<Text>疫苗是一种生物制剂，对某种特定的传染病提供积极的获得性免疫。疫苗通常含有一种类似于致病微生物的制剂，通常是由削弱或杀死的微生物、其毒素或其表面的一种蛋白质制成的。尽管COVID-19仍在试验中，但预计情况下，COVID-19疫苗可以预防COVID-19。</Text>
+			</GameDBLocalizedString>
+
+			<!-- Obsolete -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_HCU</LocID>
+				<Text>年度体检</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_HCU_DESCRIPTION</LocID>
+				<Text>年检是每年一次的身体检查，看看他们的健康或身体是否有问题。通常由全科医生或内科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CCU</LocID>
+				<Text>心血管检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CCU_DESCRIPTION</LocID>
+				<Text>心血管检查是检查循环系统是否有问题。通常由心脏病专家进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NCU</LocID>
+				<Text>神经系统检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NCU_DESCRIPTION</LocID>
+				<Text>神经系统检查是检查神经系统是否有问题。通常由神经科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GCU</LocID>
+				<Text>胃肠检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GCU_DESCRIPTION</LocID>
+				<Text>胃肠检查是检查消化系统是否有问题。通常由胃肠科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NECU</LocID>
+				<Text>肾脏检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NECU_DESCRIPTION</LocID>
+				<Text>肾脏检查是检查肾脏系统是否有问题。通常由肾脏科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PCU</LocID>
+				<Text>呼吸系统检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PCU_DESCRIPTION</LocID>
+				<Text>呼吸检查是检查呼吸系统是否有问题。通常由肺科医生或内科医生进行。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_AZCOV_VAC</LocID>
+				<Text>阿斯利康COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_AZCOV_VAC_DESCRIPTION</LocID>
+				<Text>Vaxzevria，即阿斯利康COVID-19疫苗，是一种用于预防COVID-19的病毒载体疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CANCOV_VAC</LocID>
+				<Text>克威莎COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CANCOV_VAC_DESCRIPTION</LocID>
+				<Text>克威莎（Convidecia），即康希诺生物的COVID-19疫苗，是一种用于预防COVID-19的单剂病毒载体疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_CU</LocID>
+				<Text>COVID-19检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_CU_DESCRIPTION</LocID>
+				<Text>对可能患有COVID-19的患者进行全面检查，以评估其整体健康状况并确定病毒是否存在。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_P_SCRE</LocID>
+				<Text>COVID-19后遗症筛查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_P_SCRE_DESCRIPTION</LocID>
+				<Text>对从COVID-19康复的患者进行筛查，以识别和管理任何长期影响或并发症，通常称为“长新冠”。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_SCRE</LocID>
+				<Text>COVID-19筛查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_SCRE_DESCRIPTION</LocID>
+				<Text>对个体进行检测，以确定他们当前是否感染了导致COVID-19的病毒SARS-CoV-2。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_JNJCOV_VAC</LocID>
+				<Text>强生COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_JNJCOV_VAC_DESCRIPTION</LocID>
+				<Text>强生（Janssen）COVID-19疫苗是一种用于预防COVID-19的病毒载体疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MODCOV_VAC</LocID>
+				<Text>莫德纳COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MODCOV_VAC_DESCRIPTION</LocID>
+				<Text>Spikevax，即莫德纳COVID-19疫苗，是一种用于预防COVID-19的mRNA疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PFICOV_VAC</LocID>
+				<Text>辉瑞-BioNTech COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PFICOV_VAC_DESCRIPTION</LocID>
+				<Text>Comirnaty，即辉瑞-BioNTech COVID-19疫苗，是一种用于预防COVID-19的mRNA疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOCOV_VAC</LocID>
+				<Text>科兴COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOCOV_VAC_DESCRIPTION</LocID>
+				<Text>克尔来福（CoronaVac），即科兴（Sinovac）COVID-19疫苗，是一种用于预防COVID-19的灭活病毒疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOPCOV_VAC</LocID>
+				<Text>国药COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOPCOV_VAC_DESCRIPTION</LocID>
+				<Text>众爱可维（Covilo），即国药（Sinopharm）COVID-19疫苗，是一种用于预防COVID-19的灭活病毒疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SPUTCOV_VAC</LocID>
+				<Text>卫星V COVID-19疫苗接种</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SPUTCOV_VAC_DESCRIPTION</LocID>
+				<Text>卫星V（Sputnik V），即加马列亚COVID-19疫苗，是一种用于预防COVID-19的病毒载体疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VACCINE_FU</LocID>
+				<Text>疫苗接种后随访</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VACCINE_FU_DESCRIPTION</LocID>
+				<Text>在患者接种疫苗后安排的预约，以监测任何副作用，评估疫苗的有效性，并解决患者可能有的任何疑虑。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

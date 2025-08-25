@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MEDCHECKUPS_TREATMENTS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+   
+        <GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP</LocID>                 
+		 <Text>Whole Body Examination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP_DESC</LocID>     
+		 <Text>The doctor gives the patient a whole body examination or also known as a Checkup. </Text>  
+		</GameDBLocalizedString>
+
+	    <GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES</LocID>                 
+		 <Text>Lifestyle Changes</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES_DESC</LocID>     
+		 <Text>The doctor recommends that the patient changes their lifetyle to be more active and healthy. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS</LocID>                 
+		 <Text>A Course of Medication/Supplements</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</LocID>     
+		 <Text>The doctor gives the patient a course of medication or supplements to treat existing diseases, minor problems or disorders. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING</LocID>                 
+		 <Text>Specialist Booking</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING_DESC</LocID>     
+		 <Text>The doctor refers the patient to a specialist to treat their disease/disorder or investigate their case.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING</LocID>                 
+		 <Text>Counseling</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING_DESC</LocID>     
+		 <Text>Counselling is a talking therapy that involves a trained therapist listening to you and helping you find ways to deal with emotional issues. Sometimes the term "counselling" is used to refer to talking therapies in general, but counselling is also a type of therapy in its own right. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_HOME</LocID>                 
+		 <Text>Send Home</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_HOME_DESC</LocID>     
+		 <Text>The patient has no issues, so the doctor has sent them home. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ISOLATION</LocID>                 
+		 <Text>Isolation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ISOLATION_DESC</LocID>     
+		 <Text>The patient is in need of isolation at a hospital or home, since they have tested positive for a infectious disease such as COVID-19. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_INSULIN_THERAPY</LocID>                 
+		 <Text>Insulin Therapy</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		<LocID>TRT_JM_SUPPORTIVE_CARE</LocID>                         
+		<Text>Supportive therapy</Text>
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>TRT_JM_SUPPORTIVE_CARE_DESCRIPTION</LocID>           
+		<Text>Supportive therapy consists of numerous symptomatic treatments, mainly for viral diseases where no specific treatment exists. </Text>	
+		</GameDBLocalizedString>
+		
+		<!--<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT</LocID>                 
+		 <Text>Admit to Ward</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT_DESC</LocID>     
+		 <Text>The doctor admits the patient to the ward due to the severity of a disease or for monitoring the patient. </Text>  
+		</GameDBLocalizedString>-->
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MMR_VACCINATION</LocID>                 
+		 <Text>MMR Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_INFLU_VACCINATION</LocID>                 
+		 <Text>Influenza Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_VARICL_VACCINATION</LocID>                 
+		 <Text>Varicella Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DTAP_VACCINATION</LocID>                 
+		 <Text>DTAP Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_PNEUMOCC_VACCINATION</LocID>                 
+		 <Text>Pneumoccocal Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ANTHRAX_VACCINATION</LocID>                 
+		 <Text>Anthrax Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_EBOLA_VACCINATION</LocID>                 
+		 <Text>Ebola Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DENGUE_VACCINATION</LocID>                 
+		 <Text>Dengue Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_TB_VACCINATION</LocID>                 
+		 <Text>Tuberculosis Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MALARIA_VACCINATION</LocID>                 
+		 <Text>Malaria Vaccination</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- OBSOLETE -->
+		 <LocID>TRT_JM_COVID_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - Trial</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_AZCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - AstraZeneca</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SINOCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - SinoVac</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SINOPCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - Sinopharm</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_PFICOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - Pfizer</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MODCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - Moderna</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_JNJCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - Johnson n Johnson</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CANCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - CanSino</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPUTCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 Vaccination - Sputnik V</Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

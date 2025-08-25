@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_CZ_ADDON_MEDCHECKUPS_DIAGNOSES">
+	<LanguageCode>cz</LanguageCode>
+	<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+	<Name>XiZyno</Name>
+	</Contributors>
+	<LocalizedStrings>
+	  <!-- Diagnoses -->
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU</LocID>                         
+		 <Text>Roční prohlídka</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU_DESCRIPTION</LocID>             
+		 <Text>Roční prohlídka je roční prohlídka těla, aby se zjistilo, zda nenastaly nějaké problémy.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU</LocID>                         
+		 <Text>Kardiovaskulární prohlídka</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU_DESCRIPTION</LocID>             
+		 <Text>Kardiovaskulární prohlídka je prohlídka, zda jsou v oběhovém systému nějaké problémy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU</LocID>                         
+		 <Text>Neurologická prohlídka</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU_DESCRIPTION</LocID>             
+		 <Text>Neurologická prohlídka je prohlídka, jejímž cílem je zjistit, zda v nervovém systému nedochází k problémům.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU</LocID>                         
+		 <Text>Gastrointestinální prohlídka</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU_DESCRIPTION</LocID>             
+		 <Text>Gastrointestinální prohlídka je prohlídka, zda nejsou nějaké problémy v zažívacím systému.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU</LocID>                         
+		 <Text>Hodnocení ledvin</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU_DESCRIPTION</LocID>             
+		 <Text>Vyhodnocení ledviny je prohlídka, aby se zjistilo, zda v ledvinném systému nejsou nějaké problémy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU</LocID>                         
+		 <Text>Plicní prohlídka</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU_DESCRIPTION</LocID>             
+		 <Text>Plicní prohlídka je prohlídka, jejímž cílem je zjistit, zda nedochází k problémům v dýchacím systému.</Text>  
+		</GameDBLocalizedString>
+		 
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

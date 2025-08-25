@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_KR_ADDON_HYPOCHONDRIACS_SYMPTOMS">
+
+        <LanguageCode>kr</LanguageCode>
+        <LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>아린</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Hypochondriacs ================================================== -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW</LocID>
+				<Text>이물질을 삼킴</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW_DESCRIPTION</LocID>
+				<Text>환자는 알 수 없는 이물질을 삼켰다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID</LocID>
+				<Text>펜 뚜껑 발견</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID_DESCRIPTION</LocID>
+				<Text>엑스레이 영상을 보면 환자가 펜 뚜껑을 삼킨 것을 알 수 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH</LocID>
+				<Text>생선 가시 발견</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH_DESCRIPTION</LocID>
+				<Text>엑스레이 영상을 보면 환자가 생선 가시를 삼킨 것을 알 수 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN</LocID>
+				<Text>동전 발견</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN_DESCRIPTION</LocID>
+				<Text>엑스레이 영상을 보면 환자가 동전을 삼킨 것을 알 수 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS</LocID>
+				<Text>코피</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS_DESCRIPTION</LocID>
+				<Text>환자가 코피를 흘리고 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE</LocID>
+				<Text>발가락 삠</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE_DESCRIPTION</LocID>
+				<Text>엑스레이 영상을 보면 환자가 발가락을 삐었다는 것을 알 수 있다 .</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN</LocID>
+				<Text>발가락 통증</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN_DESCRIPTION</LocID>
+				<Text>환자는 발가락에 통증을 느낀다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL</LocID>
+				<Text>술 중독</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL_DESCRIPTION</LocID>
+				<Text>환자는 이전에 많은 양의 술을 마신 적이 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN</LocID>
+				<Text>화상</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN_DESCRIPTION</LocID>
+				<Text>너무 많은 햇빛에 의해 빨갛고 뜨겁고 아픈 피부다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT</LocID>
+				<Text>인후염</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT_DESCRIPTION</LocID>
+				<Text>환자는 인후염이 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE</LocID>
+				<Text>귓병</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE_DESCRIPTION</LocID>
+				<Text>경미한 감염으로 인한 날카롭거나 칙칙하거나 타는 듯한 귀 통증이 될 수 있다. 한쪽 귀나 양쪽 귀는 영향을 받을 수 있다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING</LocID>
+				<Text>과식</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING_DESCRIPTION</LocID>
+				<Text>유기체가 소비하는 에너지(또는 배설물을 통해 배출되는 에너지)와 관련하여 소비되는 것보다 많은 섭취로 체중 증가와 비만으로 이어지는 경우가 많다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE</LocID>
+				<Text>신경성 실신</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE_DESCRIPTION</LocID>
+				<Text>환자는 신경학적으로 유발된 혈압 강하로 인한 잠깐의 의식 상실이 왔다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY</LocID>
+				<Text>흠집</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY_DESCRIPTION</LocID>
+				<Text>흠이나 키스마크로 영국식 영어로는 주로 목이나 팔에 있는 피부를 키스나 빨아서 생긴 멍이나 멍 같은 자국을 말한다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION</LocID>
+				<Text>탈수</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION_DESCRIPTION</LocID>
+				<Text>신체에 수분이 부족합니다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING</LocID>
+				<Text>Food poisoning</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING_DESCRIPTION</LocID>
+				<Text>Food poisoning is the result of eating contaminated, spoiled, or toxic food.</Text>
+			</GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

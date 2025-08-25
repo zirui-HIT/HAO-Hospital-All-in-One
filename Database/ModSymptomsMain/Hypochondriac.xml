@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBSymptom ID="SYM_HYPO_PEN_LID">
+		<DescriptionLocID>SYM_HYPO_PEN_LID_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYPO_NATURAL</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_PEN_LID</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_PEN_LID_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_FISH">
+		<DescriptionLocID>SYM_HYPO_FISH_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYPO_NATURAL</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_FISH</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_FISH_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_COIN">
+		<DescriptionLocID>SYM_HYPO_COIN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYPO_NATURAL</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_COIN</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_COIN_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_NOSEBLEEDS">
+		<DescriptionLocID>SYM_HYPO_NOSEBLEEDS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+		</Treatments>
+		<ShameLevel>5</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<BleedingLevel>1</BleedingLevel>
+		<IconIndex>2102</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_STUBBED_TOE">
+		<DescriptionLocID>SYM_HYPO_STUBBED_TOE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_X_RAY_LOWER_LIMB</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_STUBBED_TOE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_STUBBED_TOE_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_ALCOHOL">
+		<DescriptionLocID>SYM_HYPO_ALCOHOL_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_HANGOVER</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_HANGOVER_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_SUNBURN">
+		<DescriptionLocID>SYM_HYPO_SUNBURN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>High</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYPO_AFTER_SUN</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>2160</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_SORE_THROAT">
+		<DescriptionLocID>SYM_HYPO_SORE_THROAT_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1387</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_EARACHE">
+		<DescriptionLocID>SYM_HYPO_EARACHE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1409</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_OVEREATING">
+		<DescriptionLocID>SYM_HYPO_OVEREATING_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<CustomIconBigAssetRef>ASSET_MOD_HYPO_ICON_OVEREATING</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_HYPO_ICON_OVEREATING_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_SYNCOPE">
+		<DescriptionLocID>SYM_HYPO_SYNCOPE_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Medium</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_FAINTING</CollapseSymptomRef>
+		<Examinations>
+			<ExaminationRef>EXM_ECHO</ExaminationRef>
+			<ExaminationRef>EXM_CC_ECHO</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1623</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_HICKEY">
+		<DescriptionLocID>SYM_HYPO_HICKEY_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYPO_COMPRESS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1621</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_ECCHYMOSIS">
+		<DescriptionLocID>SYM_HYPO_ECCHYMOSIS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Low</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_HYPO_COMPRESS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1621</IconIndex>
+	</GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_HYPO_F_POISONING">
+		<DescriptionLocID>SYM_HYPO_F_POISONING_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>false</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+		</Treatments>
+		<ShameLevel>0</ShameLevel>
+		<IsMainSymptom>true</IsMainSymptom>
+		<IconIndex>1331</IconIndex>
+	</GameDBSymptom>
+
+</Database>

@@ -1,0 +1,1191 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_HU_ADDON_MEDCHECKUPS_SYMPTOMS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+		<!-- ================================================= Health ================================================== -->
+		
+		<!-- Organs -->
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART</LocID>                 
+		 <Text>Egészséges szív</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_DESC</LocID>     
+		 <Text>A pácines szíve egészséges és jól működik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS</LocID>                 
+		 <Text>Egészséges tüdő</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS_DESC</LocID>     
+		 <Text>A betegnek egészséges tüdeje van. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT</LocID>                 
+		 <Text>Egészséges gyomor-bél traktus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT_DESC</LocID>     
+		 <Text>A beteg egészséges GY-B traktusú.</Text>  
+		</GameDBLocalizedString>
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS</LocID>                 
+		 <Text>Egészséges vese rendszer</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS_DESC</LocID>     
+		 <Text>A beteg egészséges veserendszerrel rendelkezik. </Text>  
+		</GameDBLocalizedString>
+			
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN</LocID>                 
+		 <Text>Egészséges lépfunkció</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN_DESC</LocID>     
+		 <Text>A betegnek egészséges a lépe. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS</LocID>                 
+		 <Text>Egészséges hasnyálmirigy</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS_DESC</LocID>     
+		 <Text>A betegnek egészséges hasnyálmirigye van, egészséges inzulinszinttel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH</LocID>                 
+		 <Text>Egészséges fogászati egészség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH_DESC</LocID>     
+		 <Text>A pácines fogászati szempontból egészséges. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES</LocID>                 
+		 <Text>Egészséges idegek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES_DESC</LocID>     
+		 <Text>A beteg egészséges idegekkel rendelkezik, egészséges érzésekkel. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Functions -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX</LocID>                 
+		 <Text>Egészséges reflex</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX_DESC</LocID>     
+		 <Text>A betegnek egészséges reflexe van, amikor az orvos fizikai vizsgálatot végez. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM</LocID>                 
+		 <Text>Normális szívritmus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM_DESC</LocID>     
+		 <Text>A páciensnek normális a szívritmusa, amikor a páciens szíve EKG-hez kapcsolódik, vagy ha sztetoszkóp segítségével hallják. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING</LocID>                 
+		 <Text>Normál légzési minták</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING_DESC</LocID>     
+		 <Text>A beteg légzési szokása normális. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT</LocID>                 
+		 <Text>Normális látás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT_DESC</LocID>     
+		 <Text>A beteg normális látással rendelkezik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT</LocID>                 
+		 <Text>Egészséges vérsejtszám</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT_DESC</LocID>     
+		 <Text>A páciensnek egészséges a vérsejtje. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT</LocID>                 
+		 <Text>A fehérjék és a glükóz egészséges mennyisége</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT_DESC</LocID>     
+		 <Text>A beteg vérében egészséges mennyiségű fehérje és glükóz van. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS</LocID>                 
+		 <Text>Egészséges vitamintartalom</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS_DESC</LocID>     
+		 <Text>A beteg vérében egészséges mennyiségű vitamin található. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE</LocID>                 
+		 <Text>Normális vérnyomás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE_DESC</LocID>     
+		 <Text>A beteg normális vérnyomása 90/60 mmHg és 120/80 mmHg között van. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</LocID>                 
+		 <Text>Egészséges neurológiai funkció</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION_DESC</LocID>     
+		 <Text>A beteg egészséges neurológiai funkcióval rendelkezik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL</LocID>                 
+		 <Text>Egészséges izlelés és szaglás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL_DESC</LocID>     
+		 <Text>A beteg egészséges szag- és ízérzékkel rendelkezik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING</LocID>                 
+		 <Text>Egészséges hallás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING_DESC</LocID>     
+		 <Text>A beteg egészséges hallással rendelkezik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION</LocID>                 
+		 <Text>Egészséges emésztés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION_DESC</LocID>     
+		 <Text>A beteg egészséges emésztéssel rendelkezik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS</LocID>                 
+		 <Text>Egészséges széklet</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS_DESC</LocID>     
+		 <Text>A beteg székletének alakja és színe egészséges. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE</LocID>                 
+		 <Text>Egészséges vizelet</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE_DESC</LocID>     
+		 <Text>A beteg vizeletszíne és vizelettartalma egészséges. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Misc -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET</LocID>                 
+		 <Text>Egészséges diéta</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET_DESC</LocID>     
+		 <Text>A beteg egészséges és kiegyensúlyozott étrend segítségével táplálkozik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE</LocID>                 
+		 <Text>Egészséges életmód</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE_DESC</LocID>     
+		 <Text>A beteg egészséges testmozgást végez és kiegyensúlyozott ütemtervvel rendelkezik. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</LocID>                 
+		 <Text>Normál testtömeg-index (BMI)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT_DESC</LocID>     
+		 <Text>A beteg egészséges testtömeg-indexgel rendelkezik. A testtömeg-index (BMI) az ember súlya kilogrammban osztva a magasság négyzetméterével. A magas BMI jelezheti a test magas zsírtartalmát. A BMI használható olyan súlykategóriák szűrésére, amelyek egészségügyi problémákhoz vezethetnek, de ez nem diagnosztizálja az egyén testzsírját vagy egészségét.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_SCREEN_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 szűrési időpont egyeztetés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_SCREEN_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell kérnie háziorvosához, hogy COVID PCR-tesztet végezzenek el rajta.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Complications ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SYMPTOMS</LocID>                 
+		 <Text>Covid19 tünetek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SYMPTOMS_DESC</LocID>     
+		 <Text>A beteg a COVID-19 tüneteit tapasztalja, a betegség diagnosztizálásához azonnali PCR vagy RT-PCR tesztet kell végrehajtani. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AIDS</LocID>                 
+		 <Text>AIDS</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>A beteg HIV-fertőzés után AIDS-ben (szerzett immunhiányos tünetegyüttes) szenved, és antiretrovirális terápiát igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA</LocID>                 
+		 <Text>Asztma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA_DESC</LocID>     
+		 <Text>A betegnek jelenleg asztmája van, és légzést elősegítő inhalátorra van szüksége. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE</LocID>                 
+		 <Text>Autoimmun betegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE_DESC</LocID>     
+		 <Text>A beteg autoimmun betegségben szenved, mint a lupus vagy a vasculitis, és gyógyszereket igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES</LocID>                 
+		 <Text>Cukorbetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES_DESC</LocID>     
+		 <Text>A betegnek kórtörténetében cukorbetegség szerepel, vagy jelenleg cukorbetegsége van, ezért inzulininjekciókat és étrend-változtatásokat igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE</LocID>                 
+		 <Text>Kábítószerrel való visszaélés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE_DESC</LocID>     
+		 <Text>A beteg kórtörténetében kábítószerrel való visszaélés szerepel, vagy jelenleg kábítószer-függőségben szenved, tanácsadást és életmód-változtatást igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD</LocID>                 
+		 <Text>Gastrooesophagealis reflux betegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD_DESC</LocID>     
+		 <Text>A betegnek kórtörténete van, vagy jelenleg gasztro-ophophealis reflux betegségben szenved, és savkötőkre és étrend-változtatásokra szorulnak. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS</LocID>                 
+		 <Text>Fogínygyulladás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS_DESC</LocID>     
+		 <Text>A páciensnek jelenleg ínygyulladása van, amely az íny vagy az íny gyulladása. Általában azért fordul elő, mert a fogakon plakk vagy baktérium film halmozódik fel. Az ínygyulladás a parodontális megbetegedések roncsolásmentes típusa, de a kezeletlen ínygyulladás a parodontitiszé válhat. Ez súlyosabb, és végül a fogak elvesztéséhez vezethet, és a betegnek speciális fogkrémre és gyógyszerekre van szüksége. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV</LocID>                 
+		 <Text>HIV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV_DESC</LocID>     
+		 <Text>A beteg jelenleg HIV (humán immunhiányos vírus) fertőzésben szenved, amely, ha nem kezelik, akkor AIDS-hez vezethet, és antiretrovirális terápiát igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT</LocID>                 
+		 <Text>Túlsúlyos / elhízott</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT_DESC</LocID>     
+		 <Text>A beteg kórtörténetében van, vagy jelenleg túlsúlyos / elhízott, és étrendet és életmódot igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING</LocID>                 
+		 <Text>Dohányzó</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING_DESC</LocID>     
+		 <Text>A beteg kórtörténetében vagy dohányzási függősége van, tanácsadást és életmód-változtatást igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION</LocID>                 
+		 <Text>Alultápláltság</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION_DESC</LocID>     
+		 <Text>A páciens jelenleg alultáplált és azonnali ellátást igényel élelmiszer-szivattyúval. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES</LocID>                 
+		 <Text>Mentális egészségi kérdések</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES_DESC</LocID>     
+		 <Text>A beteg kórtörténetében van, vagy jelenleg depresszióban vagy szorongásban szenved, és tanácsadást igényelt. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE</LocID>                 
+		 <Text>Mozgásszegény életmód</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE_DESC</LocID>     
+		 <Text>A beteg mozgásszegény életmódot folytat, amely egészségügyi problémákat okozhat, és életmódváltásra van szükség. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL</LocID>                 
+		 <Text>Magas koleszterin</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL_DESC</LocID>     
+		 <Text>A betegnek magas a koleszterinszintje, ami növeli a beteg stroke és szívroham kockázatát. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION</LocID>                 
+		 <Text>Magas vérnyomás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION_DESC</LocID>     
+		 <Text>A beteg vérnyomása meghaladja a 120/80 Hgmm-t, ami növeli a stroke és a szívroham kockázatát, és magas vérnyomás elleni gyógyszereket igényelnek. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- COVID-19 Variants -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALPHA_VARIANT</LocID>                 
+		 <Text>Az alfa változat korábbi fertőzése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALPHA_VARIANT_DESC</LocID>     
+		 <Text>A beteg korábban megfertőződött a COVID-19 alfa (B.1.1.7) variánsával, amelyet először az Egyesült Királyságban fedeztek fel. Ez egy aggodalomra okot adó variáns (Variant of Concern - VOC).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BETA_VARIANT</LocID>                 
+		 <Text>A béta változat korábbi fertőzése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BETA_VARIANT_DESC</LocID>     
+		 <Text>A beteg korábban megfertőződött a COVID-19 béta (B.1.351) variánsával, amely Dél-Afrikából származik. Ez egy aggodalomra okot adó variáns (Variant of Concern - VOC).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GAMMA_VARIANT</LocID>                 
+		 <Text>A gamma variáns korábbi fertőzése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GAMMA_VARIANT_DESC</LocID>     
+		 <Text>A beteg korábban megfertőződött a COVID-19 Gamma (P.1) variánsával, amelyet először Brazíliában fedeztek fel. Ez egy aggodalomra okot adó variáns (Variant of Concern - VOC).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DELTA_VARIANT</LocID>                 
+		 <Text>A delta variáns korábbi fertőzése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DELTA_VARIANT_DESC</LocID>     
+		 <Text>A beteg korábban megfertőződött a COVID-19 Delta (B.1.617.2) variánsával, amelyet először Indiában fedeztek fel. Ez egy aggodalomra okot adó variáns (VOC) és kettős mutáns is (vagyis ennek a variánsnak 2 fő mutációja van).</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Major and Specialised Complications -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA</LocID>                 
+		 <Text>Aritmia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA_DESC</LocID>     
+		 <Text>Az aritmia a szívverés sebességével vagy ritmusával kapcsolatos probléma. Aritmia esetén a szív túl gyorsan, túl lassan vagy szabálytalan ritmussal verhet. Ha egy szív túl gyorsan ver, akkor ezt az állapotot tachycardiának nevezzük. Ha egy szív túl lassan dobog, az állapotot bradycardiának nevezzük. A betegnek antiaritmiás szerekre van szüksége. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS</LocID>                 
+		 <Text>Szívizomgyulladás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS_DESC</LocID>     
+		 <Text>A szívizomgyulladás, más néven gyulladásos kardiomiopátia a szívizom gyulladása. Tünetei lehetnek légszomj, mellkasi fájdalom, csökkent testmozgási képesség és szabálytalan szívverés. A problémák időtartama órákonként változhat. A szövődmények között szerepelhet dilatált kardiomiopátia vagy szívelégtelenség miatti szívelégtelenség. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE</LocID>                 
+		 <Text>Valvuláris szívbetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE_DESC</LocID>     
+		 <Text>A valvularis szívbetegség az, amikor a szív bármely szelepének sérülése van vagy beteg. A szelepbetegségnek számos oka van. A normál szív négy kamrával rendelkezik (jobb és bal pitvar, valamint jobb és bal kamra) és négy szeleppel. A betegségek közé tartozik a szűkület és a regurgitáció.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE</LocID>                 
+		 <Text>Súlyos szívbetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE_DESC</LocID>     
+		 <Text>A betegnek nagyon súlyos szívbetegsége van, és hamarosan kezelnie kell. A beteg jelenleg szívrohamban, szívelégtelenségben, súlyos szívkoszorúér-betegségben, súlyos anginában stb. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOMYOPATHY</LocID>                 
+		 <Text>Kardiomiopátia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOMYOPATHY_DESC</LocID>     
+		 <Text>A kardiomiopátia (kahr-dee-o-my-OP-uh-thee) a szívizom olyan betegsége, amely megnehezíti a szívének a vért pumpálni a test többi részébe. A kardiomiopátia szívelégtelenséghez vezethet. A kardiomiopátia fő típusai közé tartozik a dilatált, hipertrófiás és restriktív kardiomiopátia. A kezelés - amely tartalmazhat gyógyszereket, műtéti úton beültetett eszközöket, szívműtétet vagy súlyos esetben szívátültetést - attól függ, hogy milyen típusú kardiomiopátia van, és mennyire súlyos. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION</LocID>                 
+		 <Text>Endokarditisz</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION_DESC</LocID>     
+		 <Text>Az endocarditis olyan fertőzés, amely befolyásolja a belső membránt, amely elválasztja a szív kamráit és szelepeit (endocardium). A szívfertőzés tünetei lehetnek: Láz, Légszomj, Gyengeség vagy fáradtság, Láb- vagy hasduzzanat, Változások a szívritmusban, Száraz vagy tartós köhögés, Bőrkiütések vagy szokatlan foltok. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE</LocID>                 
+		 <Text>Súlyos tüdőbetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE_DESC</LocID>     
+		 <Text>A betegnek nagyon súlyos tüdőbetegsége van, és hamarosan kezelnie kell. A beteg jelenleg ARDS-ben, tüdőembóliában, végstádiumú tüdőrákban, súlyos tüdőgyulladásban stb.  </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS</LocID>                 
+		 <Text>Tüdőgyulladás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS_DESC</LocID>     
+		 <Text>A pneumonitis (noo-moe-NIE-tis) egy általános kifejezés, amely a tüdőszövet gyulladására utal. Technikailag a tüdőgyulladás egyfajta tüdőgyulladás, mert a fertőzés gyulladást okoz. A tüdőgyulladást azonban az orvosok általában a tüdőgyulladás nem fertőző okainak hivatkozására használják.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONARY_FIBROSIS</LocID>                 
+		 <Text>Tüdő-fibrózis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONARY_FIBROSIS_DESC</LocID>     
+		 <Text>A tüdőfibrózis egy tüdőbetegség, amely akkor fordul elő, amikor a tüdőszövet károsodik és hegesedik. Ez a megvastagodott, merev szövet megnehezíti a tüdeje megfelelő működését. A tüdőfibrózis súlyosbodásával fokozatosan légszomja lesz. A tüdőfibrózishoz kapcsolódó hegesedést számos tényező okozhatja.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION</LocID>                 
+		 <Text>Tüdőgyulladás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION_DESC</LocID>     
+		 <Text>A tüdőgyulladás olyan fertőzés, amely az egyik vagy mindkét tüdő légzsákjait gyulladja meg. A légzsákok megtelhetnek folyadékkal vagy gennygel (gennyes anyag), flegmával vagy gennyes köhögést, lázat, hidegrázást és légzési nehézségeket okozva. Számos organizmus, beleértve a baktériumokat, vírusokat és gombákat, tüdőgyulladást okozhat.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS</LocID>                 
+		 <Text>Diverticulitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS_DESC</LocID>     
+		 <Text>A diverticula kicsi, kidudorodott tasak, amely az emésztőrendszer bélésében kialakulhat. Leggyakrabban a vastagbél (vastagbél) alsó részén találhatók. A divertikulák gyakoriak, különösen 40 éves kor után, és ritkán okoznak problémákat. A divertikulák jelenléte divertikulózis (die-vur-tik-yoo-LOE-sis) néven ismert. Amikor egy vagy több tasak meggyullad, és egyes esetekben megfertőződik, ezt az állapotot divertikulitisznek (die-vur-tik-yoo-LIE-tis) nevezik. A diverticulitis súlyos hasi fájdalmat, lázat, émelygést és a bélrendszerének jelentős változását okozhatja.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC</LocID>                 
+		 <Text>Colitis ulcerosa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC_DESC</LocID>     
+		 <Text>A fekélyes vastagbélgyulladás (UC) egy gyulladásos bélbetegség (IBD). Irritációt, gyulladást és fekélyeket okoz a vastagbél (más néven a vastagbél) nyálkahártyájában. Nincs gyógymód, és az embereknek általában egész életen át vannak tüneteik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS</LocID>                 
+		 <Text>Crohn-betegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS_DESC</LocID>     
+		 <Text>A Crohn-kór egyfajta gyulladásos bélbetegség (IBD), amely a gyomor-bél traktus bármely szegmensét érintheti a szájtól a végbélnyílásig. A tünetek közé tartozik a hasi fájdalom, a hasmenés (amely véres lehet, ha a gyulladás súlyos), a láz, a hasi feszülés és a fogyás.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS</LocID>                 
+		 <Text>Kis aranyér</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS1</LocID>                 
+		 <Text>Aranyér</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS_DESC</LocID>     
+		 <Text>Az aranyér (HEM-uh-roid), más néven cölöp, a végbél és a végbél alsó részének duzzadt vénája, hasonlóan a visszerekhez. Aranyér kialakulhat a végbél belsejében (belső aranyér) vagy a végbél körüli bőr alatt (külső aranyér). Négy felnőttből csaknem háromnak lesz időről időre aranyere. Az aranyérnak számos oka van, de az ok gyakran ismeretlen. Szerencsére hatékony lehetőségek állnak rendelkezésre az aranyér kezelésére. Sokan megkönnyebbülnek az otthoni kezelések és az életmódváltások miatt.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE</LocID>                 
+		 <Text>Lisztérzékenység</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE_DESC</LocID>     
+		 <Text>A lisztérzékenység, amelyet néha lisztérzékenységnek vagy gluténérzékeny enteropátiának hívnak, immunreakció a glutén, a búza, az árpa és a rozsban található fehérje fogyasztására. Ha celiakia van, a glutén fogyasztása immunválaszt vált ki a vékonybélben. Idővel ez a reakció károsítja a vékonybél bélését, és megakadályozza bizonyos tápanyagok felszívódását (felszívódási zavar). A bélkárosodás gyakran hasmenést, fáradtságot, fogyást, puffadást és vérszegénységet okoz, és súlyos szövődményekhez vezethet. Gyermekeknél a felszívódási zavar a felnőtteknél tapasztalt tünetek kiváltása mellett befolyásolhatja a növekedést és a fejlődést.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD</LocID>                 
+		 <Text>Krónikus vesebetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_END_CKD</LocID>                 
+		 <Text>Krónikus vesebetegség - végstádium</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD_DESC</LocID>     
+		 <Text>A krónikus vesebetegség, más néven krónikus veseelégtelenség, a veseműködés fokozatos elvesztését írja le. A veséje kiszűri a véréből a hulladékokat és a felesleges folyadékokat, amelyek aztán a vizelettel ürülnek. Amikor a krónikus vesebetegség előrehaladott stádiumba kerül, veszélyes folyadék-, elektrolit- és hulladékszintek gyűlhetnek fel a szervezetben. A krónikus vesebetegség korai szakaszában kevés jele vagy tünete lehet. A krónikus vesebetegség csak akkor nyilvánulhat meg, ha a veseműködése jelentősen károsodik.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES</LocID>                 
+		 <Text>Vesekövek</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES_DESC</LocID>     
+		 <Text>A vesekövek (más néven vesekövek, nephrolithiasis vagy urolithiasis) kemény lerakódások ásványi anyagokból és sókból, amelyek a vesében képződnek. Az étrend, a testfelesleg, bizonyos egészségügyi állapotok, valamint bizonyos kiegészítők és gyógyszerek a vesekő számos oka között vannak. A vesekövek a húgyutak bármely részét érinthetik - a vesétől a hólyagig. Gyakran kövek képződnek, amikor a vizelet koncentrálódik, lehetővé téve az ásványi anyagok kikristályosodását és összetapadását.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS</LocID>                 
+		 <Text>Glomerulonephritis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS_DESC</LocID>     
+		 <Text>A glomerulonephritis (gloe-mer-u-low-nuh-FRY-tis) a vesében található apró szűrők (glomerulusok) gyulladása. A glomerulusok eltávolítják a felesleges folyadékot, elektrolitokat és hulladékokat a véráramból, és a vizeletbe juttatják azokat. A glomerulonephritis hirtelen (akut) vagy fokozatosan (krónikus) jelentkezhet.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD</LocID>                 
+		 <Text>Policisztás vesebetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD_DESC</LocID>     
+		 <Text>A policisztás vesebetegség (PKD) egy örökletes rendellenesség, amelyben a cisztacsomók elsősorban a veséjében fejlődnek ki, ami miatt veséi idővel megnagyobbodnak és elveszítik működésüket. A ciszták nem rákos kerek tasakok, amelyek folyadékot tartalmaznak. A ciszták mérete változó, és nagyon nagyra nőhetnek. Ha sok cisztája vagy nagy cisztája van, károsíthatja a veséjét. A policisztás vesebetegség a májban és a test más részein is ciszták kialakulását okozhatja. A betegség súlyos szövődményeket okozhat, beleértve a magas vérnyomást és a veseelégtelenséget.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI</LocID>                 
+		 <Text>Húgyúti fertőzés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI_DESC</LocID>     
+		 <Text>A húgyúti fertőzés (UTI) a húgyúti rendszer bármely részének fertőzése - a veséiben, az ureterekben, a hólyagban és a húgycsőben. A legtöbb fertőzés az alsó húgyutakat - a hólyagot és a húgycsövet - érinti. A nőknél nagyobb a kockázata a UTI kialakulásának, mint a férfiaknak. A húgyhólyagra korlátozott fertőzés fájdalmas és idegesítő lehet. Azonban súlyos következmények léphetnek fel, ha az UTI átterjed a vesére. Az orvosok általában antibiotikumokkal kezelik a húgyúti fertőzéseket. De lépéseket tehet az UTI megszerzésének esélyeinek csökkentésére.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE</LocID>                 
+		 <Text>Súlyos vesebetegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE_DESC</LocID>     
+		 <Text>A betegnek nagyon súlyos vesebetegsége van, és hamarosan kezelnie kell. A beteg jelenleg veseelégtelenségben, krónikus vesebetegségben szenved - végstádium stb. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA</LocID>                 
+		 <Text>Demencia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA_DESC</LocID>     
+		 <Text>A demencia a memóriát, a gondolkodást és a szociális képességeket elég súlyosan befolyásoló tünetek egy csoportját írja le, amely eléggé súlyosan befolyásolja mindennapi életét. Ez nem egy meghatározott betegség, de több különböző betegség okozhat demenciát. Bár a demencia általában memóriavesztéssel jár, a memóriavesztésnek különböző okai vannak. A memóriavesztés önmagában nem jelenti azt, hogy demenciában szenved. Az idősebb felnőtteknél az Alzheimer-kór a progresszív demencia leggyakoribb oka, de a demenciának számos oka van. Az októl függően egyes demencia tünetek visszafordíthatók.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS</LocID>                 
+		 <Text>Alzheimer kór</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS_DESC</LocID>     
+		 <Text>Az Alzheimer-kór progresszív rendellenesség, amelynek hatására az agysejtek elpusztulnak (elfajulnak) és elpusztulnak. Az Alzheimer-kór a demencia leggyakoribb oka - a gondolkodás, a viselkedési és a szociális készségek folyamatos csökkenése, amely megzavarja az ember önálló működésének képességét. A betegség korai jelei lehetnek a legutóbbi események vagy beszélgetések elfelejtése. A betegség előrehaladtával az Alzheimer-kórban szenvedő személy súlyos memóriazavarokat szenved, és elveszíti a mindennapi feladatok elvégzésének képességét. Az Alzheimer-kór jelenlegi gyógyszerei átmenetileg javíthatják a tüneteket, vagy lassíthatják a csökkenés mértékét. Ezek a kezelések néha elősegíthetik az Alzheimer-kórban szenvedő emberek működésének maximalizálását és egy ideig a függetlenség fenntartását. </Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS</LocID>                 
+		 <Text>Parkinson kór</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS_DESC</LocID>     
+		 <Text>A Parkinson-kór progresszív idegrendszeri rendellenesség, amely befolyásolja a mozgást. A tünetek fokozatosan kezdődnek, néha alig észrevehető remegéssel kezdődnek, csak egy kézben. A remegés gyakori, de a rendellenesség gyakran merevséget vagy lassulást is okoz. A Parkinson-kór korai szakaszában az arcod alig vagy egyáltalán nem mutat kifejezést. Lehet, hogy karja nem leng, ha sétál. Beszéde lágy lehet vagy elmosódott. A Parkinson-kór tünetei súlyosbodnak, ahogy állapota idővel előrehalad.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE</LocID>                 
+		 <Text>Súlyos neurológiai betegség</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE_DESC</LocID>     
+		 <Text>A betegnek nagyon súlyos neurológiai betegsége van, és hamarosan kezelnie kell. A páciens jelenleg encephalitisben, agyhártyagyulladásban, bénulásban, koponyaűri nyomásban stb. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE</LocID>                 
+		 <Text>Laktóz intolerancia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE_DESC</LocID>     
+		 <Text>A betegnek laktóz-intoleranciája van, amely puffadást, hasmenést és puffadást okoz, a betegnek étrend-változtatásokat kell tennie. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION</LocID>                 
+		 <Text>Szalagféreg fertőzések</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION_DESC</LocID>     
+		 <Text>A beteg belében galandféreg van, és parazitaellenes szereket igényel. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY</LocID>                 
+		 <Text>Skorbut</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY_DESC</LocID>     
+		 <Text>A betegnek skorbutja van, amelyet C-vitamin-hiány okoz, ami a gazdag országokban nagyon ritka. A páciensnek azonnal intravénás infúzióra van szüksége. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY</LocID>                 
+		 <Text>B12-vitamin hiány</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY_DESC</LocID>     
+		 <Text>A páciensnek B12-vitamin-hiánya van, amely kezeletlenül neurodegenerációt és kognitív hanyatlást okozhat. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY</LocID>                 
+		 <Text>Magnéziumhiány</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY_DESC</LocID>     
+		 <Text>A betegnek magnéziumhiánya van, és magnézium-kiegészítőkre van szükségük. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY</LocID>                 
+		 <Text>Vashiány</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY_DESC</LocID>     
+		 <Text>A betegnek vashiánya van, ami vérszegénységet okozhat, és vaskészítményekre van szükségük. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY</LocID>                 
+		 <Text>Jódhiány</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY_DESC</LocID>     
+		 <Text>A betegnek jódhiánya van, amely kognitív hanyatlást okozhat, és jód-kiegészítőkre van szükségük. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEIZURES</LocID>                 
+		 <Text>Rohamok</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Obsolete -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES</LocID>                 
+		 <Text>Egészségügyi problémák sorozata</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>A betegnek olyan problémája van az egészségével, mint az alultápláltság, a magas vérnyomás vagy más betegség. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES</LocID>                 
+		 <Text>Alapvető kérdések</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES_DESC</LocID>     
+		 <Text>A betegnek kórtörténete van, például szorongás vagy cukorbetegség. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Main Symptoms ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Éves ellenőrzési időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Kardiovaszkuláris szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Neurológiai szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Gyomor-bélrendszeri szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Vese-ellenőrzési szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Légzésellenőrzés szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Étrend-ellenőrzési szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat táplálkozási szakorvosával az étrend-ellenőrzés érdekében. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 fertőzés utáni ellenőrzése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat háziorvosával, hogy teljes testvizsgálatot végezzen, miután a COVID-19 érintett. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VACCINE_FOLLOWUP</LocID>                 
+		 <Text>COVID-19 vakcina nyomon követése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VACCINE_FOLLOWUP_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat háziorvosával, hogy teljes oltás után teljes fizikai vizsgálatot végezzen, mert enyhe tünetei vagy mellékhatásai vannak. </Text>  
+		</GameDBLocalizedString>
+		
+	<!-- VACCINE MAIN SYMPTOMS -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>MMR oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A beteg megbeszélést folytat háziorvosával, hogy mumpsz, kanyaró és rubeola oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Influenza oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A beteg megbeszélést folytat a háziorvosával egy influenza oltás megszerzésére, amely megvédi a beteget a H1N1, H3N1 és 2 különböző típusú influenza B fertőzés ellen. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Bárányhímlő oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A beteg megbeszélést folytat háziorvosával egy varicella oltás megszerzésére, amely megvédi a beteget a zsindelyektől és a bárányhimlőtől. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>DTaP oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy diftéria, tetanusz és köhögés elleni oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Pneumokokkus oltás időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat a házi orvosával, hogy pneumokokkus oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Lépfene oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat háziorvosával, hogy lépfene oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Ebola oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A beteg megbeszélést folytat háziorvosával, hogy Ebola oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Dengue-láz oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy dengue-oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Malária oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A beteg megbeszélést folytat háziorvosával, hogy malária oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Tuberkulózis oltási időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy tuberkulózis oltást kapjon. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AZCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - AstraZeneca</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AZCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy kapjon egy AstraZeneca COVID-19 vakcinát az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - SinoVac</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy szerezzen egy SinoVac COVID-19 vakcinát az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOPCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - Sinopharm</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOPCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy Sinopharm COVID-19 vakcinát kapjon az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PFICOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - Pfizer</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PFICOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy Pfizer COVID-19 vakcinát kapjon az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MODCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - Moderna</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MODCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy Moderna COVID-19 vakcinát kapjon az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CANCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - CanSino</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CANCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy CanSino COVID-19 vakcinát kapjon az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_JNJCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - Johnson n Johnson</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_JNJCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy kapjon egy Johnson n Johnson COVID-19 oltást az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SPUTCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - Sputnik V</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SPUTCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy kapjon Sputnik V COVID-19 oltást az új koronavírus elleni védelem érdekében; Koronavírus betegség - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+	<!-- SCREEN MAIN SYMPTOMS -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEGATIVE_COVID_SCREEN</LocID>                 
+		 <Text>COVID-19 - Nem észlelhető</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEGATIVE_COVID_SCREEN_DESC</LocID>     
+		 <Text>RT-PCR vagy PCR elvégzése után a beteg nem tesztelt pozitív eredményt a SARS-COV-2 (COVID-19) szempontjából. Valószínűleg valamilyen más betegségről van szó, mint például az influenza vagy a bronchitis, a beteget haza kell küldeni. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POSITIVE_COVID_SCREEN</LocID>                 
+		 <Text>COVID-19 - pozitív</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POSITIVE_COVID_SCREEN_DESC</LocID>     
+		 <Text>A páciens RT-PCR vagy PCR elvégzése után pozitív eredményt mutatott a SARS-COV-2 (COVID-19) szempontjából. A páciens megfertőződhet az Alpha, Beta, Gamma vagy Delta variánsokkal, ezért azonnal elkülönítve kell elhelyezni. </Text>  
+		</GameDBLocalizedString>
+		
+	<!-- OBSOLETE -->
+	
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 oltási időpont - próba / sürgősségi alkalmazás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy COVID-19 oltást kapjon a kormány által engedélyezett vizsgálatokhoz vagy sürgősségi felhasználáshoz. </Text>  
+		</GameDBLocalizedString>
+	
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Éves ellenőrzési szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A betegnek időpontot kell rendelnie háziorvosához, hogy éves ellenőrzést végezzen. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Kardiovaszkuláris szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat kardiológusával a szív- és érrendszeri ellenőrzés érdekében. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Neurológiai szűrés időpontja</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat neurológusával, hogy neurológiai vizsgálatot végezzen. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Gyomor-bélrendszeri ellenőrzés megbeszélése</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat gasztroenterológusával gasztro-nyelőcső-ellenőrzés céljából. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Vese-ellenőrzési időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést tart a nefrológusával a vesekontroll érdekében. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Légzésellenőrzési időpont</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>A páciens megbeszélést folytat pulmonológusával a légzésellenőrzés érdekében. </Text>  
+		</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

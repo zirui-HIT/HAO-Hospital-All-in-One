@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MEDCHECKUPS_SYMPTOMS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+		<!-- ================================================= Health ================================================== -->
+		
+		<!-- Organs -->
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART</LocID>                 
+		 <Text>Healthy Heart</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_DESC</LocID>     
+		 <Text>The patient has a healthy heart shape and function. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS</LocID>                 
+		 <Text>Healthy Lungs</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS_DESC</LocID>     
+		 <Text>The patient has a pair of healthy lungs. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT</LocID>                 
+		 <Text>Healthy Gastrointestinal Tract</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT_DESC</LocID>     
+		 <Text>The patient has a healthy GI tract. </Text>  
+		</GameDBLocalizedString>
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS</LocID>                 
+		 <Text>Healthy Renal System</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS_DESC</LocID>     
+		 <Text>The patient has a healthy renal system. </Text>  
+		</GameDBLocalizedString>
+			
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN</LocID>                 
+		 <Text>Healthy Spleen Function</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN_DESC</LocID>     
+		 <Text>The patient has a healthy spleen. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS</LocID>                 
+		 <Text>Healthy Pancreas</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS_DESC</LocID>     
+		 <Text>The patient has a healthy pancreas with healthy insulin levels. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH</LocID>                 
+		 <Text>Healthy Dental Health</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH_DESC</LocID>     
+		 <Text>The patient has healthy dental health. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES</LocID>                 
+		 <Text>Healthy Nerves</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES_DESC</LocID>     
+		 <Text>The patient has healthy nerves with healthy sensations. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Functions -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX</LocID>                 
+		 <Text>Healthy Reflex</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX_DESC</LocID>     
+		 <Text>The patient has a healthy reflex when the doctor performs a physical exam. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM</LocID>                 
+		 <Text>Normal Heart Rhythm</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM_DESC</LocID>     
+		 <Text>The patient has a normal heart rhythm when the patient's heart is attached to a ECG or being heard by using a stethescope. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING</LocID>                 
+		 <Text>Normal Breathing Patterns</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING_DESC</LocID>     
+		 <Text>The patient has a normal breathing pattern. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT</LocID>                 
+		 <Text>Normal Eyesight</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT_DESC</LocID>     
+		 <Text>The patient has a normal eyesight. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT</LocID>                 
+		 <Text>Healthy Blood Cell Count</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT_DESC</LocID>     
+		 <Text>The patient has a healthy blood cell count. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT</LocID>                 
+		 <Text>Healthy Amount of Proteins and Glucose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT_DESC</LocID>     
+		 <Text>The patient has a healthy amount of Proteins and Glucose in their blood. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS</LocID>                 
+		 <Text>Healthy Vitamin Levels</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS_DESC</LocID>     
+		 <Text>The patient has a healthy amount of vitamins in his/her blood. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE</LocID>                 
+		 <Text>Normal Blood Pressure</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE_DESC</LocID>     
+		 <Text>The patient has a normal blood pressure which is between 90/60mmHg and 120/80mmHg. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</LocID>                 
+		 <Text>Healthy Neurological Function</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION_DESC</LocID>     
+		 <Text>The patient has a healthy neurological function. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL</LocID>                 
+		 <Text>Healthy Smell and Taste</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL_DESC</LocID>     
+		 <Text>The patient has a healthy sense of smell and taste. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING</LocID>                 
+		 <Text>Healthy Hearing</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING_DESC</LocID>     
+		 <Text>The patient has healthy hearing. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION</LocID>                 
+		 <Text>Healthy Digestion</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION_DESC</LocID>     
+		 <Text>The patient has healthy digestion. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS</LocID>                 
+		 <Text>Healthy Stools</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS_DESC</LocID>     
+		 <Text>The patient has healthy stool shape and colour. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE</LocID>                 
+		 <Text>Healthy Urine</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE_DESC</LocID>     
+		 <Text>The patient has healthy urine colour and urine content. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Misc -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET</LocID>                 
+		 <Text>Healthy Diet</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET_DESC</LocID>     
+		 <Text>The patient is having healthy and balanced meals. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE</LocID>                 
+		 <Text>Healthy Lifestyle</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE_DESC</LocID>     
+		 <Text>The patient is exercising and having a balanced schedule. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</LocID>                 
+		 <Text>Normal Body Mass Index</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT_DESC</LocID>     
+		 <Text>The patient has a healthy Body Mass Index. Body Mass Index (BMI) is a person’s weight in kilograms divided by the square of height in meters. A high BMI can be an indicator of high body fatness. BMI can be used to screen for weight categories that may lead to health problems but it is not diagnostic of the body fatness or health of an individual.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_SCREEN_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Screening Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_SCREEN_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with their GP to get a COVID PCR Swab Test.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Complications ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SYMPTOMS</LocID>                 
+		 <Text>COVID-19 Symptoms</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SYMPTOMS_DESC</LocID>     
+		 <Text>The patient is experiencing symptoms of COVID-19, a immediate PCR or RT-PCR test must be performed to diagnose the disease. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AIDS</LocID>                 
+		 <Text>AIDS</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>The patient has AIDS (Acquired Immunodeficiency Syndrome) after contracting HIV and require antiretroviral therapy. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA</LocID>                 
+		 <Text>Asthma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA_DESC</LocID>     
+		 <Text>The patient has a history or currently has Asthma and they require a inhaler. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE</LocID>                 
+		 <Text>Autoimmune Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE_DESC</LocID>     
+		 <Text>The patient has Autoimmune Disease like Lupus or Vasculitis and require medications. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES</LocID>                 
+		 <Text>Diabetes</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES_DESC</LocID>     
+		 <Text>The patient has a history of Diabetes or currently has Diabetes and they require insulin injections and diet changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE</LocID>                 
+		 <Text>Drug Abuse</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE_DESC</LocID>     
+		 <Text>The patient has a history of drug abuse or currently has a drug addiction and they require counseling and lifestyle changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD</LocID>                 
+		 <Text>Gastroesophageal Reflux Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD_DESC</LocID>     
+		 <Text>The patient has a history or currently has Gastroesophageal Reflux Disease and they require Antacids and Diet Changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS</LocID>                 
+		 <Text>Gingivitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS_DESC</LocID>     
+		 <Text>The patient has currently has Gingivitis which is the inflammation of the gums, or gingiva. It commonly occurs because a film of plaque, or bacteria, accumulates on the teeth. Gingivitis is a non-destructive type of periodontal disease, but untreated gingivitis can progress to periodontitis. This is more serious and can eventually lead to loss of teethand the patient needs special toothpaste and medications. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV</LocID>                 
+		 <Text>HIV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV_DESC</LocID>     
+		 <Text>The patient has currently has HIV (Human Immunodeficiency Virus) which may lead to AIDS and they require antiretroviral therapy. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT</LocID>                 
+		 <Text>Overweight/Obese</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT_DESC</LocID>     
+		 <Text>The patient has a history or currently is overweight/has obesity and they require diet and lifetyle changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING</LocID>                 
+		 <Text>Smoking</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING_DESC</LocID>     
+		 <Text>The patient has a history or currently has a smoking addiction and they require counseling and lifestyle changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION</LocID>                 
+		 <Text>Malnutrition</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION_DESC</LocID>     
+		 <Text>The patient is currently malnourished and requires immediate care with a food pump. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES</LocID>                 
+		 <Text>Mental Health Issues</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES_DESC</LocID>     
+		 <Text>The patient has a history or currently is suffering from Depression or Anxiety and required counseling. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE</LocID>                 
+		 <Text>Sedentary lifestyle</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE_DESC</LocID>     
+		 <Text>The patient has a sedentary lifestyle which can cause health problems and they need lifestyle changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL</LocID>                 
+		 <Text>High Cholesterol</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL_DESC</LocID>     
+		 <Text>The patient has high cholesterol which increases the patients risk of stroke and heart attack. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION</LocID>                 
+		 <Text>Hypertension</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION_DESC</LocID>     
+		 <Text>The patient has a blood pressure higher than 120/80mmHg, which increases the risk of stroke and hert attack and they require hypertensive medications. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- COVID-19 Variants -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALPHA_VARIANT</LocID>                 
+		 <Text>Previous Infection of Alpha Variant</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALPHA_VARIANT_DESC</LocID>     
+		 <Text>The patient has previously been infected with the Alpha (B.1.1.7) Variant of COVID-19, which was first detected in the UK. This is a Variant of Concern (VOC).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BETA_VARIANT</LocID>                 
+		 <Text>Previous Infection of Beta Variant</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BETA_VARIANT_DESC</LocID>     
+		 <Text>The patient has previously been infected with the Beta (B.1.351) Variant of COVID-19, which is from South Africa. This is a Variant of Concern (VOC)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GAMMA_VARIANT</LocID>                 
+		 <Text>Previous Infection of Gamma Variant</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GAMMA_VARIANT_DESC</LocID>     
+		 <Text>The patient has previously been infected with the Gamma (P.1) Variant of COVID-19, which was first detected in Brazil. This is a Variant of Concern (VOC).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DELTA_VARIANT</LocID>                 
+		 <Text>Previous Infection of Delta Variant</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DELTA_VARIANT_DESC</LocID>     
+		 <Text>The patient has previously been infected with the Delta (B.1.617.2) Variant of COVID-19, which was first detected in the India. This is a Variant of Concern (VOC) and also a double mutant (meaning this variant has 2 main mutations).</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Major and Specialised Complications -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA</LocID>                 
+		 <Text>Arrhythmia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA_DESC</LocID>     
+		 <Text>An arrhythmia is a problem with the rate or rhythm of the heartbeat. During an arrhythmia, the heart can beat too fast, too slowly, or with an irregular rhythm. When a heart beats too fast, the condition is called tachycardia. When a heart beats too slowly, the condition is called bradycardia. The patient requires antiarrhythmics. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS</LocID>                 
+		 <Text>Myocarditis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS_DESC</LocID>     
+		 <Text>Myocarditis, also known as inflammatory cardiomyopathy, is inflammation of the heart muscle. Symptoms can include shortness of breath, chest pain, decreased ability to exercise, and an irregular heartbeat. The duration of problems can vary from hours to months. Complications may include heart failure due to dilated cardiomyopathy or cardiac arrest. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE</LocID>                 
+		 <Text>Valvular Heart Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE_DESC</LocID>     
+		 <Text>Valvular heart disease is when any valve in the heart has damage or is diseased. There are several causes of valve disease. The normal heart has four chambers (right and left atria, and right and left ventricles) and four valves (Figure 1). Diseases include Stenosis and Regurgitation.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE</LocID>                 
+		 <Text>Severe Heart Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE_DESC</LocID>     
+		 <Text>The patient has a very serious case of heart disease and you must treat it soon. The patient might be currently suffering from a heart attack, heart failure, severe coronary heart disease, severe angina and etc. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOMYOPATHY</LocID>                 
+		 <Text>Cardiomyopathy</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOMYOPATHY_DESC</LocID>     
+		 <Text>Cardiomyopathy (kahr-dee-o-my-OP-uh-thee) is a disease of the heart muscle that makes it harder for your heart to pump blood to the rest of your body. Cardiomyopathy can lead to heart failure. The main types of cardiomyopathy include dilated, hypertrophic and restrictive cardiomyopathy. Treatment — which might include medications, surgically implanted devices, heart surgery or, in severe cases, a heart transplant — depends on which type of cardiomyopathy you have and how serious it is. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION</LocID>                 
+		 <Text>Endocarditis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION_DESC</LocID>     
+		 <Text>Endocarditis is an infection that affects the inner membrane that separates the chambers and valves of the heart (endocardium). Heart infection symptoms can include: Fever, Shortness of breath, Weakness or fatigue, Swelling in your legs or abdomen, Changes in your heart rhythm, Dry or persistent cough, Skin rashes or unusual spots. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE</LocID>                 
+		 <Text>Severe Lung Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE_DESC</LocID>     
+		 <Text>The patient has a very serious case of lung disease and you must treat it soon. The patient might be currently suffering from ARDS, Pulmonary Embolism, End-stage Lung Cancer, Severe Pneumonia and etc.  </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS</LocID>                 
+		 <Text>Pneumonitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS_DESC</LocID>     
+		 <Text>Pneumonitis (noo-moe-NIE-tis) is a general term that refers to inflammation of lung tissue. Technically, pneumonia is a type of pneumonitis because the infection causes inflammation. Pneumonitis, however, is usually used by doctors to refer to noninfectious causes of lung inflammation.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONARY_FIBROSIS</LocID>                 
+		 <Text>Pulmonary Fibrosis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONARY_FIBROSIS_DESC</LocID>     
+		 <Text>Pulmonary fibrosis is a lung disease that occurs when lung tissue becomes damaged and scarred. This thickened, stiff tissue makes it more difficult for your lungs to work properly. As pulmonary fibrosis worsens, you become progressively more short of breath. The scarring associated with pulmonary fibrosis can be caused by a multitude of factors.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION</LocID>                 
+		 <Text>Pneumonia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION_DESC</LocID>     
+		 <Text>Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS</LocID>                 
+		 <Text>Diverticulitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS_DESC</LocID>     
+		 <Text>Diverticula are small, bulging pouches that can form in the lining of your digestive system. They are found most often in the lower part of the large intestine (colon). Diverticula are common, especially after age 40, and seldom cause problems. The presence of diverticula is known as diverticulosis (die-vur-tik-yoo-LOE-sis). When one or more of the pouches become inflamed, and in some cases infected, that condition is known as diverticulitis (die-vur-tik-yoo-LIE-tis). Diverticulitis can cause severe abdominal pain, fever, nausea and a marked change in your bowel habits.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC</LocID>                 
+		 <Text>Ulcerative Colitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC_DESC</LocID>     
+		 <Text>Ulcerative colitis (UC) is an inflammatory bowel disease (IBD). It causes irritation, inflammation, and ulcers in the lining of your large intestine (also called your colon). There's no cure, and people usually have symptoms off and on for life.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS</LocID>                 
+		 <Text>Crohn's Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS_DESC</LocID>     
+		 <Text>Crohn's disease is a type of inflammatory bowel disease (IBD) that may affect any segment of the gastrointestinal tract from the mouth to the anus. Symptoms often include abdominal pain, diarrhea (which may be bloody if inflammation is severe), fever, abdominal distension, and weight loss.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS</LocID>                 
+		 <Text>Small Hemorrhoids</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS1</LocID>                 
+		 <Text>Hemorrhoids</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS_DESC</LocID>     
+		 <Text>Hemorrhoids (HEM-uh-roids), also called piles, are swollen veins in your anus and lower rectum, similar to varicose veins. Hemorrhoids can develop inside the rectum (internal hemorrhoids) or under the skin around the anus (external hemorrhoids). Nearly three out of four adults will have hemorrhoids from time to time. Hemorrhoids have a number of causes, but often the cause is unknown. Fortunately, effective options are available to treat hemorrhoids. Many people get relief with home treatments and lifestyle changes.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE</LocID>                 
+		 <Text>Coeliac Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE_DESC</LocID>     
+		 <Text>Celiac disease, sometimes called celiac sprue or gluten-sensitive enteropathy, is an immune reaction to eating gluten, a protein found in wheat, barley and rye. If you have celiac disease, eating gluten triggers an immune response in your small intestine. Over time, this reaction damages your small intestine's lining and prevents it from absorbing some nutrients (malabsorption). The intestinal damage often causes diarrhea, fatigue, weight loss, bloating and anemia, and can lead to serious complications. In children, malabsorption can affect growth and development, besides causing the symptoms seen in adults.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD</LocID>                 
+		 <Text>Chronic Kidney Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_END_CKD</LocID>                 
+		 <Text>Chronic Kidney Disease - End Stage </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD_DESC</LocID>     
+		 <Text>Chronic kidney disease, also called chronic kidney failure, describes the gradual loss of kidney function. Your kidneys filter wastes and excess fluids from your blood, which are then excreted in your urine. When chronic kidney disease reaches an advanced stage, dangerous levels of fluid, electrolytes and wastes can build up in your body. In the early stages of chronic kidney disease, you may have few signs or symptoms. Chronic kidney disease may not become apparent until your kidney function is significantly impaired.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES</LocID>                 
+		 <Text>Kidney Stones</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES_DESC</LocID>     
+		 <Text>Kidney stones (also called renal calculi, nephrolithiasis or urolithiasis) are hard deposits made of minerals and salts that form inside your kidneys. Diet, excess body weight, some medical conditions, and certain supplements and medications are among the many causes of kidney stones. Kidney stones can affect any part of your urinary tract — from your kidneys to your bladder. Often, stones form when the urine becomes concentrated, allowing minerals to crystallize and stick together.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS</LocID>                 
+		 <Text>Glumerolunephritis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS_DESC</LocID>     
+		 <Text>Glomerulonephritis (gloe-mer-u-low-nuh-FRY-tis) is inflammation of the tiny filters in your kidneys (glomeruli). Glomeruli remove excess fluid, electrolytes and waste from your bloodstream and pass them into your urine. Glomerulonephritis can come on suddenly (acute) or gradually (chronic).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD</LocID>                 
+		 <Text>Polycystic Kidney Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD_DESC</LocID>     
+		 <Text>Polycystic kidney disease (PKD) is an inherited disorder in which clusters of cysts develop primarily within your kidneys, causing your kidneys to enlarge and lose function over time. Cysts are noncancerous round sacs containing fluid. The cysts vary in size, and they can grow very large. Having many cysts or large cysts can damage your kidneys. Polycystic kidney disease can also cause cysts to develop in your liver and elsewhere in your body. The disease can cause serious complications, including high blood pressure and kidney failure.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI</LocID>                 
+		 <Text>Urinary Tract Infection</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI_DESC</LocID>     
+		 <Text>A urinary tract infection (UTI) is an infection in any part of your urinary system — your kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract — the bladder and the urethra. Women are at greater risk of developing a UTI than are men. Infection limited to your bladder can be painful and annoying. However, serious consequences can occur if a UTI spreads to your kidneys. Doctors typically treat urinary tract infections with antibiotics. But you can take steps to reduce your chances of getting a UTI in the first place.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE</LocID>                 
+		 <Text>Severe Renal Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE_DESC</LocID>     
+		 <Text>The patient has a very serious case of renal disease and you must treat it soon. The patient might be currently suffering from Renal Failure, Chronic Kidney Disease - End Stage and etc. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA</LocID>                 
+		 <Text>Dementia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA_DESC</LocID>     
+		 <Text>Dementia describes a group of symptoms affecting memory, thinking and social abilities severely enough to interfere with your daily life. It isn't a specific disease, but several different diseases may cause dementia. Though dementia generally involves memory loss, memory loss has different causes. Having memory loss alone doesn't mean you have dementia. Alzheimer's disease is the most common cause of a progressive dementia in older adults, but there are a number of causes of dementia. Depending on the cause, some dementia symptoms may be reversible.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS</LocID>                 
+		 <Text>Alzheimer's Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS_DESC</LocID>     
+		 <Text>Alzheimer's disease is a progressive disorder that causes brain cells to waste away (degenerate) and die. Alzheimer's disease is the most common cause of dementia — a continuous decline in thinking, behavioral and social skills that disrupts a person's ability to function independently. The early signs of the disease may be forgetting recent events or conversations. As the disease progresses, a person with Alzheimer's disease will develop severe memory impairment and lose the ability to carry out everyday tasks. Current Alzheimer's disease medications may temporarily improve symptoms or slow the rate of decline. These treatments can sometimes help people with Alzheimer's disease maximize function and maintain independence for a time. </Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS</LocID>                 
+		 <Text>Parkinson's Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS_DESC</LocID>     
+		 <Text>Parkinson's disease is a progressive nervous system disorder that affects movement. Symptoms start gradually, sometimes starting with a barely noticeable tremor in just one hand. Tremors are common, but the disorder also commonly causes stiffness or slowing of movement. In the early stages of Parkinson's disease, your face may show little or no expression. Your arms may not swing when you walk. Your speech may become soft or slurred. Parkinson's disease symptoms worsen as your condition progresses over time.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE</LocID>                 
+		 <Text>Severe Neurological Disease</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE_DESC</LocID>     
+		 <Text>The patient has a very serious case of neurological disease and you must treat it soon. The patient might be currently suffering from Encephalitis, Meningitis, Paralysis, Intercranial Pressure and etc. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE</LocID>                 
+		 <Text>Lactose Intolerance</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE_DESC</LocID>     
+		 <Text>The patient has lactose intolerance which causes bloating, diarrhea and flatulance, the patient requires diet changes. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION</LocID>                 
+		 <Text>Tapeworm Infections</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION_DESC</LocID>     
+		 <Text>The patient has a tapeworm in their intestines and requires anti-parasitics. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY</LocID>                 
+		 <Text>Scurvy</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY_DESC</LocID>     
+		 <Text>The patient has scurvy which is caused by vitamin C deficiency, which is very rare in wealthy countries. The patient requires immediate intravenous infusions. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY</LocID>                 
+		 <Text>Vitamin B12 Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY_DESC</LocID>     
+		 <Text>The patient has a Vitamin B12 Deficiency which can cause neuro degeneration and cognitive decline if untreated. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY</LocID>                 
+		 <Text>Magnesium Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY_DESC</LocID>     
+		 <Text>The patient has a magnesium deficiency and they require magnesium supplements. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY</LocID>                 
+		 <Text>Iron Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY_DESC</LocID>     
+		 <Text>The patient has a iron deficiency, which can cause anemia and they require iron supplements. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY</LocID>                 
+		 <Text>Iodine Deficiency</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY_DESC</LocID>     
+		 <Text>The patient has a iodine deficiency which can cause cognitive decline and they require supplements of iodine. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEIZURES</LocID>                 
+		 <Text>Seizures</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Obsolete -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES</LocID>                 
+		 <Text>Health Anomaly</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>The patient has a issue with their health like malnutrition, high blood pressure or disease. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES</LocID>                 
+		 <Text>Underlying Issues</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES_DESC</LocID>     
+		 <Text>The patient has a history of a illness/disorder like Anxiety or Diabetes. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Main Symptoms ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Annual Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cardiovascular Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Neurological Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Gastrointestinal Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Renal Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Respiratory Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Dietary Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her Nutritionist to get an dietary checkup. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Post-COVID infection Checkup</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with their General Practitioner to get a whole body examination after being affected by COVID-19. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VACCINE_FOLLOWUP</LocID>                 
+		 <Text>COVID Vaccine followup</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VACCINE_FOLLOWUP_DESC</LocID>     
+		 <Text>The patient has an appointment with their General Practitioner to get a full physical exam after taking a vaccine, because they are having slight symptoms or a adverse reaction. </Text>  
+		</GameDBLocalizedString>
+		
+	<!-- VACCINE MAIN SYMPTOMS -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>MMR Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Mumps, Measles and Rubella Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Influenza Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Influenza Vaccination which protects the patient from H1N1, H3N1 and 2 different types of Influenza B infections. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Varicella Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Varicella Vaccination which protects the patient from Shingles and Chickenpox. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>DTaP Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Diptheria, Tetanus and Pertusis (Whooping Cough) Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Pneumoccocal Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Pneumoccocal Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Anthrax Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Anthrax Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Ebola Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Ebola Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Dengue Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Dengue Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Malaria Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Malaria Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Tuberculosis Vaccination Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Tuberculosis Vaccination. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AZCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - AstraZeneca</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AZCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a AstraZeneca COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - SinoVac</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a SinoVac COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOPCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - Sinopharm</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINOPCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Sinopharm COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PFICOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - Pfizer</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PFICOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Pfizer COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MODCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - Moderna</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MODCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Moderna COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CANCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - CanSino</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CANCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a CanSino COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_JNJCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - Johnson n Johnson</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_JNJCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Johnson n Johnson COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SPUTCOV_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - Sputnik V</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SPUTCOV_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a Sputnik V COVID-19 Vaccine for protection from the new coronavirus; Coronavirus Disease - 2019 (COVID-19). </Text>  
+		</GameDBLocalizedString>
+		
+	<!-- SCREEN MAIN SYMPTOMS -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEGATIVE_COVID_SCREEN</LocID>                 
+		 <Text>COVID-19 - Not Detected</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEGATIVE_COVID_SCREEN_DESC</LocID>     
+		 <Text>The patient has not tested positive for SARS-COV-2 (COVID-19) after a RT-PCR or PCR was performed. It is likely to be some other disease like the Flu or Bronchitis, patient should be sent home. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POSITIVE_COVID_SCREEN</LocID>                 
+		 <Text>COVID-19 - Positive</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POSITIVE_COVID_SCREEN_DESC</LocID>     
+		 <Text>The patient has tested positive for SARS-COV-2 (COVID-19) after a RT-PCR or PCR was performed. The patient could be infected with the Alpha, Beta, Gamma or Delta variants and should be placed in isolation immediately. </Text>  
+		</GameDBLocalizedString>
+		
+	<!-- OBSOLETE -->
+	
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>COVID-19 Vaccination Appointment - Trial/Emergency Use</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her GP to get a COVID-19 Vaccination for trials or for emergency use authorised by the government. </Text>  
+		</GameDBLocalizedString>
+	
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Annual Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her General Practitioner to get an annual checkup. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cardiovascular Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her Cardiologist to get an cardiovascular checkup. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Neurological Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her Neurologist to get an neurological checkup. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Gastrointestinal Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her Gastroenterologist to get an gastroesophageal checkup. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Renal Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her Nephrologist to get an renal checkup. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Respiratory Checkup Appointment</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>The patient has an appointment with his/her Pulmonologist to get an respiratory checkup. </Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>
+			<LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESCRIPTION</LocID>
+			<Text>The patient has an appointment with his/her Pulmonologist to get an respiratory checkup.</Text>
+		</GameDBLocalizedString>
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

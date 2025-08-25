@@ -27,6 +27,8 @@ I hope you have a great time playing :D
 * [Realistic Collapse and Disease Incidence](https://steamcommunity.com/sharedfiles/filedetails/?id=2704509476)
 * More Insurance Companies: [Anthem, Inc. Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311624989), [United Healthcare](https://steamcommunity.com/sharedfiles/filedetails/?id=2312636767), [Kaiser Foundation Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311625277)
 * [More Diseases](https://steamcommunity.com/sharedfiles/filedetails/?id=2015448513)
+* [Hypochondriac](https://steamcommunity.com/sharedfiles/filedetails/?id=1995976999)
+* [Medical Procedure](https://steamcommunity.com/sharedfiles/filedetails/?id=2167731584)
 
 ## Gameplay Adjustments
 * Maximum number of insurance companies set to 36.
@@ -47,6 +49,7 @@ I hope you have a great time playing :D
 * Consolidated some functionally identical examinations to reduce the number of tests ordered by doctors, and removed all symptoms, examinations, and treatments that were not used by any disease.
 * Adjusted the patient generation weights for each department to better reflect reality.
 * Adjusted the logos of various departments, now their styles are more consistent with the base-game department logos!
+* Removed COVID-19 vaccinations from Medical Procedures as they were somewhat repetitive and seemed a bit outdated after the pandemic :D
 
 ## Language Support
 Besides translating all the Chinese content myself, the translations for other MODs use the translations provided within those MODs. The specific translation status is as follows:

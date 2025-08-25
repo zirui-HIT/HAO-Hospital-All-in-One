@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MEDCHECKUPS_EXAMINATIONS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Examinations -->
+
+        <GameDBLocalizedString>      
+		 <LocID>EXM_JM_MEDICAL_HISTORY</LocID>                 
+		 <Text>Family and Medical History</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>EXM_JM_MEDICAL_HISTORY_DESC</LocID>     
+		 <Text>Medical history: In clinical medicine, the patient's past and present which may contain relevant information bearing on their health past, present, and future. The medical history, being an account of all medical events and problems a person has experienced is an important tool in the management of the patient.. </Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

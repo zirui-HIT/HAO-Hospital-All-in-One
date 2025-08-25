@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_RU_ADDON_HYPOCHONDRIACS_SYMPTOMS">
+
+        <LanguageCode>ru</LanguageCode>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+			<!-- ================================================== Hypochondriacs ================================================== -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW</LocID>
+				<Text>Проглочено инородное тело</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SWALLOW_DESCRIPTION</LocID>
+				<Text>Пациент проглотил неизвестное инородное тело.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID</LocID>
+				<Text>Обнаружен колпачок ручки</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_PEN_LID_DESCRIPTION</LocID>
+				<Text>Рентген показывает, что пациент проглотил колпачок от ручки.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH</LocID>
+				<Text>Обнаружена рыбная кость</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_FISH_DESCRIPTION</LocID>
+				<Text>Рентген показывает, что пациент проглотил рыбную кость.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN</LocID>
+				<Text>Обнаружена монета</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_COIN_DESCRIPTION</LocID>
+				<Text>Рентген показывает, что пациент проглотил монету.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS</LocID>
+				<Text>Кровь из носа</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_NOSEBLEEDS_DESCRIPTION</LocID>
+				<Text>У пациента идёт кровь из носа.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE</LocID>
+				<Text>Ушиб пальца ноги</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_STUBBED_TOE_DESCRIPTION</LocID>
+				<Text>Рентген не выявил повреждений пальца ноги.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN</LocID>
+				<Text>Боль в пальце ноги</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_TOE_PAIN_DESCRIPTION</LocID>
+				<Text>Пациент испытывает боль в пальце ноги.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL</LocID>
+				<Text>Употребление алкоголя</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ALCOHOL_DESCRIPTION</LocID>
+				<Text>Пациент ранее употребил большое количество алкоголя.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN</LocID>
+				<Text>Солнечный ожог</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SUNBURN_DESCRIPTION</LocID>
+				<Text>Солнечный ожог — это красная, горячая и больная кожа, вызванная слишком долгим пребыванием на солнце.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT</LocID>
+				<Text>Больное горло</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SORE_THROAT_DESCRIPTION</LocID>
+				<Text>У пациента болит горло</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE</LocID>
+				<Text>Боль в ухе</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_EARACHE_DESCRIPTION</LocID>
+				<Text>Боль в ухе может быть острой, тупой или жгучей, вызванная незначительной инфекцией. Может быть поражено одно или оба уха.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING</LocID>
+				<Text>Переедание</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_OVEREATING_DESCRIPTION</LocID>
+				<Text>Переедание - это избыточное потребление пищи по отношению к энергии, которую организм расходует (или выводит через экскрецию), что приводит к увеличению веса и часто к ожирению.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE</LocID>
+				<Text>Рефлекторный обморок </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_SYNCOPE_DESCRIPTION</LocID>
+				<Text>Пациент страдает от кратковременной потери сознания из-за неврологически вызванного падения кровяного давления.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY</LocID>
+				<Text>Засос</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_HICKEY_DESCRIPTION</LocID>
+				<Text>Засос, хики или любовный укус в британском английском - это синяк или след похожий синяк, вызванный поцелуем или сосанием кожи, обычно на шее или руке.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION</LocID>
+				<Text>Обезвоживание</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_DEHYDRATION_DESCRIPTION</LocID>
+				<Text>У пациента недостаточно воды в организме. </Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ECCHYMOSIS</LocID>
+				<Text>Экхимоз</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_ECCHYMOSIS_DESCRIPTION</LocID>
+				<Text>Изменение цвета кожи в результате кровотечения под ней, обычно вызванное ушибом.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING</LocID>
+				<Text>Пищевое отравление</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_HYPO_F_POISONING_DESCRIPTION</LocID>
+				<Text>Пищевое отравление является результатом употребления грязной, испорченной или токсичной пищи.</Text>
+			</GameDBLocalizedString>
+			
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

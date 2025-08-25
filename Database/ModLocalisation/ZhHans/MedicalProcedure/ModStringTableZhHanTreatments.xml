@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_MEDCHECKUPS_TREATMENTS">
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>Tianyi</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Treatments -->
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CHECKUP</LocID>
+				<Text>全身检查</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CHECKUP_DESC</LocID>
+				<Text>医生给病人做全身检查，也称为体检。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_LIFESTYLE_CHANGES</LocID>
+				<Text>生活方式改变</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_LIFESTYLE_CHANGES_DESC</LocID>
+				<Text>医生建议病人改变他们的生活方式，使之更加活跃和健康。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_COURSE_OF_MEDICATIONS</LocID>
+				<Text>一个疗程的药物/补充剂</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</LocID>
+				<Text>医生给病人一个疗程的药物治疗或补充治疗现有的疾病，小问题或紊乱。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SPECIALIST_BOOKING</LocID>
+				<Text>专家预约</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SPECIALIST_BOOKING_DESC</LocID>
+				<Text>医生把病人介绍给专家治疗他们的疾病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_COUNSELING</LocID>
+				<Text>咨询</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_COUNSELING_DESC</LocID>
+				<Text>咨询是一种谈话疗法，包括一位训练有素的治疗师倾听你的心声，帮助你找到处理情绪问题的方法。有时“咨询”一词通常指谈话疗法，但咨询本身也是一种疗法。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_WARD_ADMIT</LocID>
+				<Text>住进病房</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_WARD_ADMIT_DESC</LocID>
+				<Text>由于疾病的严重性或为了观察病人，医生把病人送进病房。</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_MMR_VACCINATION</LocID>
+				<Text>风疹疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_INFLU_VACCINATION</LocID>
+				<Text>流感疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_VARICL_VACCINATION</LocID>
+				<Text>水痘疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_DTAP_VACCINATION</LocID>
+				<Text>百日咳疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_PNEUMOCC_VACCINATION</LocID>
+				<Text>肺炎疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_ANTHRAX_VACCINATION</LocID>
+				<Text>炭疽疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_EBOLA_VACCINATION</LocID>
+				<Text>埃博拉疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_DENGUE_VACCINATION</LocID>
+				<Text>登革热疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_TB_VACCINATION</LocID>
+				<Text>结核病疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_MALARIA_VACCINATION</LocID>
+				<Text>疟疾疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_COVID_VACCINATION</LocID>
+				<Text>COVID-19疫苗-实验结核病疫苗</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_AZCOV_VACCINATION</LocID>
+				<Text>阿斯利康COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_AZCOV_VACCINATION_DESC</LocID>
+				<Text>为预防COVID-19而接种的疫苗，由牛津大学和阿斯利康公司开发。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CANCOV_VACCINATION</LocID>
+				<Text>康希诺COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CANCOV_VACCINATION_DESC</LocID>
+				<Text>由康希诺生物公司开发的用于预防COVID-19的单剂病毒载体疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_HOME</LocID>
+				<Text>回家休养</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_HOME_DESC</LocID>
+				<Text>患者的病情不需要住院治疗，医生建议其回家进行自我护理和康复。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_ISOLATION</LocID>
+				<Text>隔离治疗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_ISOLATION_DESC</LocID>
+				<Text>为防止传染病扩散，将患者与其他人分开，并在专门的隔离区域进行治疗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_JNJCOV_VACCINATION</LocID>
+				<Text>强生COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_JNJCOV_VACCINATION_DESC</LocID>
+				<Text>由强生公司旗下的杨森制药公司开发的用于预防COVID-19的单剂疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_MODCOV_VACCINATION</LocID>
+				<Text>莫德纳COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_MODCOV_VACCINATION_DESC</LocID>
+				<Text>由莫德纳公司开发的用于预防COVID-19的mRNA疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_PFICOV_VACCINATION</LocID>
+				<Text>辉瑞-BioNTech COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_PFICOV_VACCINATION_DESC</LocID>
+				<Text>由辉瑞公司和BioNTech公司合作开发的用于预防COVID-19的mRNA疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SINOCOV_VACCINATION</LocID>
+				<Text>科兴COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SINOCOV_VACCINATION_DESC</LocID>
+				<Text>由北京科兴中维生物技术有限公司开发的用于预防COVID-19的灭活疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SINOPCOV_VACCINATION</LocID>
+				<Text>国药COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SINOPCOV_VACCINATION_DESC</LocID>
+				<Text>由中国国药集团开发的用于预防COVID-19的灭活疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SPUTCOV_VACCINATION</LocID>
+				<Text>卫星V COVID-19疫苗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SPUTCOV_VACCINATION_DESC</LocID>
+				<Text>由俄罗斯加马列亚流行病学和微生物学国家研究中心开发的用于预防COVID-19的病毒载体疫苗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SUPPORTIVE_CARE</LocID>
+				<Text>支持性护理</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_SUPPORTIVE_CARE_DESC</LocID>
+				<Text>为缓解患者因严重疾病或治疗而产生的症状和副作用所提供的护理。支持性护理旨在提高患者在治疗期间的生活质量。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
-    
+
     <GameDBMedicalCondition ID="DIA_KRT">
         <AbbreviationLocID>DIA_KRT_DESCRIPTION</AbbreviationLocID>
         <Duration>2</Duration>
@@ -72,7 +72,6 @@
     </GameDBMedicalCondition>
 
 
-    
     <GameDBMedicalCondition ID="DIA_ACG">
         <AbbreviationLocID>DIA_ACG_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -132,7 +131,16 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_GONIOSCOPY</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_GONIOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -146,7 +154,8 @@
             <TreatmentRef>TRT_OPH_LASER_PI</TreatmentRef>
             <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
             <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
-            <TreatmentRef>TRT_STOMACHICS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+        </Treatments>
         <IconIndex>1773</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>3100</InsurancePayment>
@@ -155,7 +164,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_GLC">
         <AbbreviationLocID>DIA_GLC_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -211,9 +220,25 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_MRI</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef><TreatmentRef>TRT_NMC_METOCLOPRAMIDE</TreatmentRef><TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef><TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef><TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_STOMACHICS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef>
+            <TreatmentRef>TRT_NMC_METOCLOPRAMIDE</TreatmentRef>
+            <TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef>
+            <TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef>
+            <TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+        </Treatments>
         <IconIndex>1773</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>1300</InsurancePayment>
@@ -223,7 +248,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CAB">
         <AbbreviationLocID>DIA_CAB_DESCRIPTION</AbbreviationLocID>
         <Duration>2</Duration>
@@ -271,9 +296,24 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_GONIOSCOPY</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_GONIOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef><TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef><TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef><TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef>
+            <TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef>
+            <TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef>
+            <TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1771</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>200</InsurancePayment>
@@ -283,7 +323,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CAN">
         <AbbreviationLocID>DIA_CAN_DESCRIPTION</AbbreviationLocID>
         <Duration>2</Duration>
@@ -323,9 +363,20 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SKIN_INJECTION_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SKIN_INJECTION_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1769</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>200</InsurancePayment>
@@ -335,7 +386,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CJN">
         <AbbreviationLocID>DIA_CJN_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -387,9 +438,23 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_ANTIBIOTIC_OINTMENT</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIBIOTIC_OINTMENT</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>600</InsurancePayment>
@@ -399,7 +464,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_CRV">
         <AbbreviationLocID>DIA_CRV_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -451,9 +516,28 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef><ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef><ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef><TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef><TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef><TreatmentRef>TRT_STATINS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_STATINS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>1500</InsurancePayment>
@@ -463,7 +547,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_HRP">
         <AbbreviationLocID>DIA_HRP_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -515,9 +599,33 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef><ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef><ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef><ExaminationRef>EXM_ECG</ExaminationRef><ExaminationRef>EXM_HEART_MONITORING</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_PRESSURE_AND_PULSE_MEASUREMENT</ExaminationRef>
+            <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
+            <ExaminationRef>EXM_ECG</ExaminationRef>
+            <ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef><TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef><TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef><TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef><TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef><TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef><TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef><TreatmentRef>TRT_STATINS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
+            <TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
+            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_MANNITOL_DOSES</TreatmentRef>
+            <TreatmentRef>TRT_NMC_NSAIDS_IBUPROFEN</TreatmentRef>
+            <TreatmentRef>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</TreatmentRef>
+            <TreatmentRef>TRT_NMC_SUMATRIPTAN</TreatmentRef>
+            <TreatmentRef>TRT_STATINS</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>900</InsurancePayment>
@@ -527,7 +635,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_BLP">
         <AbbreviationLocID>DIA_BLP_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -587,9 +695,26 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_ANTIBIOTIC_OINTMENT</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_EYE_DROPS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef><TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_ANTIBIOTIC_OINTMENT</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef>
+            <TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>600</InsurancePayment>
@@ -599,7 +724,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_049">
         <AbbreviationLocID>DIA_049_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -685,7 +810,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_SCL">
         <AbbreviationLocID>DIA_SCL_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -745,7 +870,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_UVE">
         <AbbreviationLocID>DIA_UVE_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -800,9 +925,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
 
-    
     <GameDBMedicalCondition ID="DIA_OPH_DRYEYE">
         <AbbreviationLocID>DIA_OPH_DRYEYE_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -846,9 +969,19 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef>
+        </Treatments>
         <IconIndex>1175</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>300</InsurancePayment>
@@ -858,7 +991,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_RRD">
         <AbbreviationLocID>DIA_OPH_RRD_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -899,9 +1032,19 @@
         </Symptoms>
 
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef><TreatmentRef>TRT_OPH_RETINAL_REATTACHMENT</TreatmentRef><TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
+            <TreatmentRef>TRT_OPH_RETINAL_REATTACHMENT</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>1200</InsurancePayment>
@@ -911,7 +1054,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_IRITIS">
         <AbbreviationLocID>DIA_OPH_IRITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -947,9 +1090,20 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_CRP_ATROPINE_EYEDROP</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_CRP_ATROPINE_EYEDROP</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>400</InsurancePayment>
@@ -959,7 +1113,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_CATARACT">
         <AbbreviationLocID>DIA_OPH_CATARACT_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -995,9 +1149,16 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_PHACOEMULSIFICATION_SURGERY</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_PHACOEMULSIFICATION_SURGERY</TreatmentRef>
+        </Treatments>
         <IconIndex>1477</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>600</InsurancePayment>
@@ -1007,7 +1168,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_AMD">
         <AbbreviationLocID>DIA_OPH_AMD_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -1039,9 +1200,16 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>800</InsurancePayment>
@@ -1051,7 +1219,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_HORDEOLUM">
         <AbbreviationLocID>DIA_OPH_HORDEOLUM_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -1075,9 +1243,14 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef><TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef>
+        </Treatments>
 
         <IconIndex>1767</IconIndex>
         <CustomIconBigAssetRef>ASSET_OPH_EYECID_A</CustomIconBigAssetRef>
@@ -1091,7 +1264,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_DR">
         <AbbreviationLocID>DIA_OPH_DR_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -1132,9 +1305,21 @@
         </Symptoms>
 
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef><TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef><TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef><TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>700</InsurancePayment>
@@ -1144,7 +1329,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_HSV_KERATITIS">
         <AbbreviationLocID>DIA_OPH_HSV_KERATITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -1180,9 +1365,19 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef>
+        </Treatments>
         <IconIndex>1771</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>400</InsurancePayment>
@@ -1192,9 +1387,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
 
-    
     <GameDBMedicalCondition ID="DIA_OPH_MGD">
         <AbbreviationLocID>DIA_OPH_MGD_DESCRIPTION</AbbreviationLocID>
         <Duration>2</Duration>
@@ -1230,9 +1423,16 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
 
         <IconIndex>1767</IconIndex>
         <CustomIconBigAssetRef>ASSET_OPH_EYECID_A</CustomIconBigAssetRef>
@@ -1246,7 +1446,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_CSCR">
         <AbbreviationLocID>DIA_OPH_CSCR_DESCRIPTION</AbbreviationLocID>
         <Duration>2</Duration>
@@ -1278,9 +1478,15 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>900</InsurancePayment>
@@ -1290,7 +1496,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_PTERYGIUM">
         <AbbreviationLocID>DIA_OPH_PTERYGIUM_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1326,9 +1532,17 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>400</InsurancePayment>
@@ -1338,7 +1552,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_DACRYOCYSTITIS">
         <AbbreviationLocID>DIA_OPH_DACRYOCYSTITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>2</Duration>
@@ -1366,9 +1580,17 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef><TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef><TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_CRP_INCISION_AND_DRAINAGE</TreatmentRef>
+            <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef>
+        </Treatments>
         <IconIndex>1175</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>500</InsurancePayment>
@@ -1378,7 +1600,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_PTOSIS">
         <AbbreviationLocID>DIA_OPH_PTOSIS_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1410,9 +1632,14 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_PTOSIS_REPAIR</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_PTOSIS_REPAIR</TreatmentRef>
+        </Treatments>
 
         <IconIndex>1175</IconIndex>
         <CustomIconBigAssetRef>ASSET_OPH_EYECID_A</CustomIconBigAssetRef>
@@ -1426,7 +1653,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_ENTROPION">
         <AbbreviationLocID>DIA_OPH_ENTROPION_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1462,9 +1689,18 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef>
+        </Treatments>
 
         <IconIndex>1767</IconIndex>
         <CustomIconBigAssetRef>ASSET_OPH_EYECID_A</CustomIconBigAssetRef>
@@ -1478,7 +1714,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_ECTROPION">
         <AbbreviationLocID>DIA_OPH_ECTROPION_DESCRIPTION</AbbreviationLocID>
         <Duration>3</Duration>
@@ -1518,9 +1754,18 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_TOPICAL_ANTIVIRAL</TreatmentRef>
+        </Treatments>
 
         <IconIndex>1767</IconIndex>
         <CustomIconBigAssetRef>ASSET_OPH_EYECID_A</CustomIconBigAssetRef>
@@ -1534,7 +1779,7 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_ORBITAL_CELLULITIS">
         <AbbreviationLocID>DIA_OPH_ORBITAL_CELLULITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
@@ -1566,9 +1811,23 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_CRP_EYE_PATCH</TreatmentRef><TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef><TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef><TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_CRP_EYE_PATCH</TreatmentRef>
+            <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef>
+        </Treatments>
         <IconIndex>1175</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>1800</InsurancePayment>
@@ -1577,20 +1836,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
 
-    
     <GameDBMedicalCondition ID="DIA_OPH_MYOPIA">
         <AbbreviationLocID>DIA_OPH_MYOPIA_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_MYOPIA_DEFINING</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>70</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_BLURRED_VISION</GameDBSymptomRef>
@@ -1613,9 +1870,14 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1689</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>150</InsurancePayment>
@@ -1625,18 +1887,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_AMBLYOPIA">
         <AbbreviationLocID>DIA_OPH_AMBLYOPIA_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_UNCOMMON</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_REDUCED_BCVA_WITH_NORMAL_EXAM</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>60</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_POOR_STEREOPSIS</GameDBSymptomRef>
@@ -1659,9 +1921,17 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_VISION_THERAPY</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VISION_THERAPY</TreatmentRef>
+        </Treatments>
         <IconIndex>1689</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>250</InsurancePayment>
@@ -1671,18 +1941,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_KERATOCONUS">
         <AbbreviationLocID>DIA_OPH_KERATOCONUS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_UNCOMMON</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_SCISSORING_REFLEX</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>70</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_BLURRED_VISION</GameDBSymptomRef>
@@ -1705,9 +1975,14 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>400</InsurancePayment>
@@ -1717,18 +1992,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_PVD">
         <AbbreviationLocID>DIA_OPH_PVD_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_WEISS_RING_SEEN</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>75</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_SUDDEN_FLOATERS</GameDBSymptomRef>
@@ -1747,9 +2022,17 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef><TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>300</InsurancePayment>
@@ -1759,18 +2042,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_CHALAZION">
         <AbbreviationLocID>DIA_OPH_CHALAZION_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_COMMON</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_LOCALIZED_LID_NODULE</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>70</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_EYELID_PAIN_TENDERNESS</GameDBSymptomRef>
@@ -1793,9 +2076,16 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_WARM_COMPRESS</TreatmentRef>
+        </Treatments>
         <IconIndex>1767</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>200</InsurancePayment>
@@ -1805,18 +2095,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_DR_SEVERE">
         <AbbreviationLocID>DIA_OPH_DR_SEVERE_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_UNCOMMON</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_DR_FINDINGS_CONFIRMED</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>65</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_BLURRED_VISION</GameDBSymptomRef>
@@ -1839,9 +2129,19 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef><TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>900</InsurancePayment>
@@ -1851,18 +2151,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_CHOROIDITIS">
         <AbbreviationLocID>DIA_OPH_CHOROIDITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_RARE</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_CHOROIDAL_LESIONS_ACTIVE</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>70</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_PHOTOPHOBIA</GameDBSymptomRef>
@@ -1881,9 +2181,21 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef><ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef><ExaminationRef>EXM_TONOMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+            <ExaminationRef>EXM_TONOMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_ANALGESICS</TreatmentRef><TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1765</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>600</InsurancePayment>
@@ -1893,18 +2205,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_VITRITIS">
         <AbbreviationLocID>DIA_OPH_VITRITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_RARE</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_VITRITIS_ACTIVE_CELLS</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>70</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_SUDDEN_FLOATERS</GameDBSymptomRef>
@@ -1923,9 +2235,21 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_FA</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_FA</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef><TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef><TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef><TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
+            <TreatmentRef>TRT_OPH_STEROID_EYEDROPS</TreatmentRef>
+            <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
+        </Treatments>
         <IconIndex>1477</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>700</InsurancePayment>
@@ -1935,18 +2259,18 @@
         </Tags>
     </GameDBMedicalCondition>
 
-    
+
     <GameDBMedicalCondition ID="DIA_OPH_OPTIC_NEURITIS">
         <AbbreviationLocID>DIA_OPH_OPTIC_NEURITIS_DESCRIPTION</AbbreviationLocID>
         <Duration>1</Duration>
         <OccurrenceRef>OCCURRENCE_RARE</OccurrenceRef>
         <Symptoms>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>100</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_RAPD_POSITIVE</GameDBSymptomRef>
             </GameDBSymptomRules>
-            
+
             <GameDBSymptomRules>
                 <ProbabilityPercent>75</ProbabilityPercent>
                 <GameDBSymptomRef>SYM_OPH_PAIN_WITH_EYE_MOVEMENT</GameDBSymptomRef>
@@ -1969,9 +2293,19 @@
             </GameDBSymptomRules>
         </Symptoms>
         <Examinations>
-            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef><ExaminationRef>EXM_INTERVIEW</ExaminationRef><ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef><ExaminationRef>EXM_OCT</ExaminationRef><ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef><ExaminationRef>EXM_PERIMETRY</ExaminationRef></Examinations>
+            <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_OCT</ExaminationRef>
+            <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+            <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
+        </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef><TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef><TreatmentRef>TRT_OPH_CORTICOSTEROID_SHOCK_THERAPY</TreatmentRef><TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef></Treatments>
+            <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
+            <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+            <TreatmentRef>TRT_OPH_CORTICOSTEROID_SHOCK_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
+        </Treatments>
         <IconIndex>1477</IconIndex>
         <DepartmentRef>DPT_OPHTHALMOLOGY</DepartmentRef>
         <InsurancePayment>800</InsurancePayment>

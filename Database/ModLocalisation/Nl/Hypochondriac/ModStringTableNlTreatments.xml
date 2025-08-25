@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_NL_ADDON_HYPOCHONDRIACS_TREATMENTS">
+
+        <LanguageCode>nl</LanguageCode>
+        <LanguageNameLocalized>Nederlands</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Spookiieej</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+			
+			<!-- ================================================== Hypochondriacs ================================================== -->
+			
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL</LocID>                                   <Text>Natuurlijk voorbijgaan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_NATURAL_DESCRIPTION</LocID>                       <Text>De dokter adviseert de patiënt het vreemde voorwerp op natuurlijke wijze het lichaam te laten verlaten.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN</LocID>                                 <Text>Aftersun</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HYPO_AFTER_SUN_DESCRIPTION</LocID>                     <Text>Aftersun is een moisturizer die ook kalmerende ingrediënten zoals aloë vera bevat.</Text>  </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_HYPO_COMPRESS</LocID>
+            <Text>Warm compress</Text>
+          </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_HYPO_COMPRESS_DESCRIPTION</LocID>
+            <Text>A warm compress is a method of applying heat to the body. Heating sources can include warm water, microwaveable pads, wheat packs and electrical or chemical pads.</Text>
+          </GameDBLocalizedString>
+          
+		</LocalizedStrings>
+    </GameDBStringTable>
+</Database>

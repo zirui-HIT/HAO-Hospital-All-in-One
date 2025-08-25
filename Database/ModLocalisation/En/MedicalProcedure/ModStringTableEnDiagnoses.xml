@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MEDCHECKUPS_DIAGNOSES">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+	  <!-- Diagnoses -->
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANNUAL_CU</LocID>                         
+		 <Text>Annual Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANNUAL_CU_DESCRIPTION</LocID>             
+		 <Text>An Annual Checkup is a yearly body checkup to see if there is any problems with their health or body. They are usually done by General Practitioners or Internal Medicine doctors.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CARDIO_CU</LocID>                         
+		 <Text>Cardiovascular Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CARDIO_CU_DESCRIPTION</LocID>             
+		 <Text>An Cardiovascular Checkup is a checkup to see if there is any problems within the circulatory system. They are usually performed by Cardiologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEURO_CU</LocID>                         
+		 <Text>Neurologic Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEURO_CU_DESCRIPTION</LocID>             
+		 <Text>A Neurologic Checkup is a checkup to see if there is any problems within the nervous system. They are usually performed by Neurologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GASTRO_CU</LocID>                         
+		 <Text>Gastrointestinal Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GASTRO_CU_DESCRIPTION</LocID>             
+		 <Text>A Gastrointestinal Checkup is a checkup to see if there is any problems within the digestive system. They are usually performed by Gastroenterologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEPHRO_CU</LocID>                         
+		 <Text>Nephrologic Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NEPHRO_CU_DESCRIPTION</LocID>             
+		 <Text>A Nephrologic checkup is a checkup to see if there is any problems within the renal system. It is usually performed by Nephrologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMO_CU</LocID>                         
+		 <Text>Respiratory Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMO_CU_DESCRIPTION</LocID>             
+		 <Text>A Respiratory Checkup is a checkup to see if there is any problems within the repiratory system. They are usually performed by Pulmonologists or Internal Medicine Doctors.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NUTRI_CU</LocID>                         
+		 <Text>Dietary Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NUTRI_CU_DESCRIPTION</LocID>             
+		 <Text>A Dietary Checkup is a checkup to see if there is any problems with their diet and vitamin levels. They are usually performed by Nutritionists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_COVID_CU</LocID>                         
+		 <Text>Post-COVID Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_COVID_CU_DESCRIPTION</LocID>             
+		 <Text>The patient has made a appointment with their General Practitioner after being infected with COVID-19. They may have Long COVID/Post-COVID Syndrome/Post-Viral Fatigue.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_VACCINE_FU</LocID>                         
+		 <Text>Post-Vaccine Followup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_VACCINE_FU_DESCRIPTION</LocID>             
+		 <Text>The patient has made a appointment with their General Practitioner after taking a COVID vaccine. They are having adverse effects and/or some minor symptoms.</Text>  
+		</GameDBLocalizedString>
+		
+	    
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MMR_VAC</LocID>                         
+		 <Text>MMR Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MMR_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Mumps, Measles and Rubella (MMR) vaccine will be administered prevent Mumps, Measles and Rubella.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_INFLU_VAC</LocID>                         
+		 <Text>Influenza Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_INFLU_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Influenza vaccine will be adinistered prevent H1N1, H3N1 and 2 different types of Influenza B infections.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_VARICL_VAC</LocID>                         
+		 <Text>Varicella Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_VARICL_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Varicella vaccine will be administered to prevent Chickenpox and Shingles.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_DTAP_VAC</LocID>                         
+		 <Text>DTaP Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_DTAP_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Diptheria, Tetanus and Pertusis (DTaP) vaccine will be administered to prevent Diptheria, Tetanus and Pertusis (Whooping Cough).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMOCC_VAC</LocID>                         
+		 <Text>Pneumoccocal Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PNEUMOCC_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Pneumoccocal vaccine will be administered to prevent Pneumoccocal Meningitis, Bacteremia and Pneumonia.</Text>  
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANTHRAX_VAC</LocID>                         
+		 <Text>Anthrax Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ANTHRAX_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Anthrax vaccine will be administered to prevent Anthrax.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_EBOLA_VAC</LocID>                         
+		 <Text>rVSV-ZEBOV Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_EBOLA_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, the rVSV-ZEBOV vaccine will be administered to prevent Ebola.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_DENGUE_VAC</LocID>                         
+		 <Text>Dengue Fever Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_DENGUE_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Dengue Fever vaccine will be administered to prevent Dengue Fever.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MALARIA_VAC</LocID>                         
+		 <Text>Malaria Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MALARIA_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Malaria vaccine will be administered to prevent Malaria.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_TB_VAC</LocID>                         
+		 <Text>Tuberculosis Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_TB_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a Tuberculosis vaccine will be administered to prevent Tuberculosis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- OBSOLETE -->
+		 <LocID>DIA_JM_COVID_VAC</LocID>                         
+		 <Text>COVID-19 Trial Vaccination</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      <!-- OBSOLETE -->
+		 <LocID>DIA_JM_COVID_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case, a COVID Vaccine in trial will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_AZCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - AstraZeneca</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_AZCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (Oxford-AstraZeneca), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - SinoVac</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (SinoVac-CoVac), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOPCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - Sinopharm</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_SINOPCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (Sinopharm), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_CANCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - CanSino</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_CANCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (CanSino), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_PFICOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - Pfizer</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_PFICOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (Pfizer-BioNTech), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_MODCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - Moderna</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_MODCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (Moderna), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_JNJCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - Johnson n Johnson</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_JNJCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (Johnson n Johnson), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_SPUTCOV_VAC</LocID>                         
+		 <Text>COVID-19 Vaccination - Sputnik V</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_SPUTCOV_VAC_DESCRIPTION</LocID>             
+		 <Text>A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. In this case this vaccine brand (Sputnik V), will be administered to prevent COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_SCRE</LocID>                         
+		 <Text>COVID-19 Screening (Negative)</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_SCRE_DESCRIPTION</LocID>             
+		 <Text>The patient requests to have a COVID-19 test/screening since they either have been in close contact with an infected person and/or having symptoms of COVID-19.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_P_SCRE</LocID>                         
+		 <Text>COVID-19 Screening (Positive)</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>     
+		 <LocID>DIA_JM_COVID_P_SCRE_DESCRIPTION</LocID>             
+		 <Text>The patient requests to have a COVID-19 test/screening since they either have been in close contact with an infected person and/or having symptoms of COVID-19.</Text>  
+		</GameDBLocalizedString>
+	   
+	   <!-- Obsolete --> 
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU</LocID>                         
+		 <Text>Annual Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HCU_DESCRIPTION</LocID>             
+		 <Text>An Annual Checkup is a yearly body checkup to see if there is any problems with their health or body. They are usually done by General Practitioners or Internal Medicine doctors.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU</LocID>                         
+		 <Text>Cardiovascular Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CCU_DESCRIPTION</LocID>             
+		 <Text>An Cardiovascular Checkup is a checkup to see if there is any problems within the circulatory system. They are usually performed by Cardiologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU</LocID>                         
+		 <Text>Neurologic Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NCU_DESCRIPTION</LocID>             
+		 <Text>A Neurologic Checkup is a checkup to see if there is any problems within the nervous system. They are usually performed by Neurologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU</LocID>                         
+		 <Text>Gastrointestinal Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GCU_DESCRIPTION</LocID>             
+		 <Text>A Gastrointestinal Checkup is a checkup to see if there is any problems within the digestive system. They are usually performed by Gastroenterologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU</LocID>                         
+		 <Text>Nephrologic Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NECU_DESCRIPTION</LocID>             
+		 <Text>A Nephrologic checkup is a checkup to see if there is any problems within the renal system. It is usually performed by Nephrologists.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU</LocID>                         
+		 <Text>Respiratory Checkup</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_PCU_DESCRIPTION</LocID>             
+		 <Text>A Respiratory Checkup is a checkup to see if there is any problems within the repiratory system. They are usually performed by Pulmonologists or Internal Medicine Doctors.</Text>  
+		</GameDBLocalizedString>
+		 
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ES_ADDON_MEDCHECKUPS_SYMPTOMS">
+	<LanguageCode>es</LanguageCode>
+	<LanguageNameLocalized>Español</LanguageNameLocalized>
+	<Contributors>
+	<Name>Srmojon</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+		<!-- ================================================= Health ================================================== -->
+		
+		<!-- Organs -->
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART</LocID>                 
+		 <Text>Corazón saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_DESC</LocID>     
+		 <Text>La forma y función cardíaca del paciente se encuentra saludable.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS</LocID>                 
+		 <Text>Pulmones sanos</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS_DESC</LocID>     
+		 <Text>El paciente tiene un par de pulmones sanos.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT</LocID>                 
+		 <Text>Tracto gastrointestinal sano</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT_DESC</LocID>     
+		 <Text>El paciente tiene un tracto gastrointestinal sano.</Text>  
+		</GameDBLocalizedString>
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS</LocID>                 
+		 <Text>Sistema renal sano</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS_DESC</LocID>     
+		 <Text>El paciente tiene un sistema renal sano.</Text>  
+		</GameDBLocalizedString>
+			
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN</LocID>                 
+		 <Text>Función saludable del bazo</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SPLEEN_DESC</LocID>     
+		 <Text>El paciente tiene un bazo sano.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS</LocID>                 
+		 <Text>Páncreas sano</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_PANCREAS_DESC</LocID>     
+		 <Text>El paciente tiene un páncreas con niveles saludables de insulina.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH</LocID>                 
+		 <Text>Salud dental perfecta</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_TEETH_DESC</LocID>     
+		 <Text>El paciente tiene salud dental perfecta.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES</LocID>                 
+		 <Text>Nervios sanos</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NERVES_DESC</LocID>     
+		 <Text>El paciente tiene nervios con sensaciones saludables.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Functions -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX</LocID>                 
+		 <Text>Reflejo saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX_DESC</LocID>     
+		 <Text>El paciente tiene un reflejo correcto cuando el médico realiza el examen físico.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM</LocID>                 
+		 <Text>Ritmo cardíaco normal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM_DESC</LocID>     
+		 <Text>El paciente tiene un ritmo cardíaco normal cuando el corazón del paciente está conectado a un ECG o se le escucha con un estetoscopio.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING</LocID>                 
+		 <Text>Patrones respiratorios normales</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING_DESC</LocID>     
+		 <Text>El paciente tiene un patrón de respiración normal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT</LocID>                 
+		 <Text>Vista normal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT_DESC</LocID>     
+		 <Text>El paciente tiene una vista normal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT</LocID>                 
+		 <Text>Recuento de células sanguíneas saludables</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CELL_COUNT_DESC</LocID>     
+		 <Text>El paciente tiene un recuento sanguíneo saludable.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT</LocID>                 
+		 <Text>Cantidad saludable de proteínas y glucosa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_CONTENT_DESC</LocID>     
+		 <Text>El paciente tiene una cantidad saludable de proteínas y glucosa en la sangre.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS</LocID>                 
+		 <Text>Niveles saludables de vitaminas</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_VITAMIN_LEVELS_DESC</LocID>     
+		 <Text>El paciente tiene una cantidad saludable de vitaminas en su sangre.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE</LocID>                 
+		 <Text>Presión arterial normal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE_DESC</LocID>     
+		 <Text>El paciente tiene una presión arterial normal que está entre 90/60 mmHg y 120/80 mmHg.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</LocID>                 
+		 <Text>Función neurológica saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION_DESC</LocID>     
+		 <Text>El paciente tiene una función neurológica saludable.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL</LocID>                 
+		 <Text>Olfato y gusto saludables</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_SMELL_DESC</LocID>     
+		 <Text>El paciente tiene un sano sentido del olfato y el gusto.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING</LocID>                 
+		 <Text>Audición saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEARING_DESC</LocID>     
+		 <Text>El paciente tiene una audición sana.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION</LocID>                 
+		 <Text>Digestión saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIGESTION_DESC</LocID>     
+		 <Text>El paciente tiene una digestión saludable.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS</LocID>                 
+		 <Text>Heces saludables</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_STOOLS_DESC</LocID>     
+		 <Text>El paciente tiene heces con forma y color saludables.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE</LocID>                 
+		 <Text>Orina sana</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_URINE_DESC</LocID>     
+		 <Text>El paciente tiene una orina con un color y un contenido saludables.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Misc -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET</LocID>                 
+		 <Text>Dieta saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_DIET_DESC</LocID>     
+		 <Text>El paciente está teniendo comidas saludables y equilibradas.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE</LocID>                 
+		 <Text>Estilo de vida saludable</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE_DESC</LocID>     
+		 <Text>El paciente está haciendo ejercicio y teniendo un horario equilibrado.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</LocID>                 
+		 <Text>Índice de masa corporal normal </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT_DESC</LocID>     
+		 <Text>El paciente tiene un índice de masa corporal saludable. El índice de masa corporal (IMC) es el peso de una persona en kilogramos dividido por el cuadrado de la altura en metros. Un IMC alto puede ser un indicador de grasa corporal alta. El IMC se puede utilizar para detectar categorías de peso que pueden provocar problemas de salud, pero no es un diagnóstico de la grasa corporal o de la salud de un individuo.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Complications ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AIDS</LocID>                 
+		 <Text>SIDA</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>El paciente tiene SIDA (síndrome de inmunodeficiencia adquirida) después de contraer el VIH y requiere terapia antirretroviral.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA</LocID>                 
+		 <Text>Asma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASTHMA_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes o actualmente tiene asma y requiere un inhalador.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE</LocID>                 
+		 <Text>Enfermedad autoinmune</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AUTOIMMUNE_DISEASE_DESC</LocID>     
+		 <Text>El paciente tiene una enfermedad autoinmune como lupus o vasculitis y requiere medicamentos.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES</LocID>                 
+		 <Text>Diabetes</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIABETES_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes o actualmente tiene diabetes y requiere inyecciones de insulina y cambios en la dieta.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE</LocID>                 
+		 <Text>Abuso de drogas</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRUG_ABUSE_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes de abuso de drogas o actualmente tiene adicción a las drogas y requiere asesoramiento y cambios de estilo de vida.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD</LocID>                 
+		 <Text>Enfermedad por reflujo gastroesofágico</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes o actualmente tiene alguna enfermedad por reflujo gastroesofágico y requiere antiácidos y cambios en la dieta.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS</LocID>                 
+		 <Text>Gingivitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GINGIVITIS_DESC</LocID>     
+		 <Text>El paciente tiene actualmente Gingivitis, que es la inflamación de las encías. Ocurre comúnmente porque las bacterias se acumulan en los dientes. La gingivitis es un tipo no destructivo de enfermedad periodontal, pero de no ser tratada puede progresar a una periodontitis. Esto es más grave y eventualmente puede provocar la pérdida de los dientes. El paciente necesita una pasta de dientes y medicamentos especiales.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV</LocID>                 
+		 <Text>HIV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIV_DESC</LocID>     
+		 <Text>El paciente tiene actualmente HIV (Virus de Inmunodeficiencia Humana) que puede conducir a SIDA y requiere terapia antirretroviral.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT</LocID>                 
+		 <Text>Obesidad</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_OVERWEIGHT_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes o actualmente tiene sobrepeso y requiere cambios en la dieta y el estilo de vida.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING</LocID>                 
+		 <Text>Fumador</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SMOKING_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes o actualmente tiene una adicción al tabaquismo y requiere asesoramiento y cambios de estilo de vida.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION</LocID>                 
+		 <Text>Desnutrición</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALNUTRITION_DESC</LocID>     
+		 <Text>Actualmente, el paciente está desnutrido y requiere atención inmediata con sonda de alimentos.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES</LocID>                 
+		 <Text>Problemas de salud mental</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MENTAL_HEALTH_ISSUES_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes o actualmente padece depresión o ansiedad y requirió asesoramiento.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE</LocID>                 
+		 <Text>Estilo de vida sedentario</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEDITARY_LIFESTYLE_DESC</LocID>     
+		 <Text>El paciente tiene un estilo de vida sedentario que puede causarle problemas de salud, por ende, necesita cambios en el estilo de vida.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL</LocID>                 
+		 <Text>Colesterol alto</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIGH_CHOLESTEROL_DESC</LocID>     
+		 <Text>El paciente tiene el colesterol alto, lo que aumenta el riesgo de accidente cerebrovascular y ataque cardíaco.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION</LocID>                 
+		 <Text>Hipertensión</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERTENSION_DESC</LocID>     
+		 <Text>El paciente tiene una presión arterial superior a 120/80 mmHg, lo que aumenta el riesgo de accidente cerebrovascular y ataque cardíaco, por lo que requiere medicamentos hipertensivos.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Major and Specialised Complications -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA</LocID>                 
+		 <Text>Arritmia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARRHYTHMIA_DESC</LocID>     
+		 <Text>Una arritmia es un problema con la frecuencia o el ritmo de los latidos del corazón. Durante una arritmia, el corazón puede latir demasiado rápido, demasiado lento o con un ritmo irregular. Cuando un corazón late demasiado rápido, la condición se llama taquicardia. Cuando un corazón late demasiado lento, la condición se llama bradicardia. El paciente requiere antiarrítmicos.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS</LocID>                 
+		 <Text>Miocarditis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDITIS_DESC</LocID>     
+		 <Text>La miocarditis, también conocida como miocardiopatía inflamatoria, es una inflamación del músculo cardíaco. Los síntomas pueden incluir dificultad para respirar, dolor en el pecho, disminución de la capacidad para hacer ejercicio y latidos cardíacos irregulares. La duración de los problemas puede variar de horas a meses. Las complicaciones pueden incluir insuficiencia cardíaca debido a miocardiopatía dilatada o paro cardíaco.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE</LocID>                 
+		 <Text>Enfermedad cardíaca valvular</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VALVE_DISEASE_DESC</LocID>     
+		 <Text>La enfermedad cardíaca valvular es cuando una válvula del corazón está dañada o enferma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE</LocID>                 
+		 <Text>Enfermedad cardíaca severa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_HEART_DISEASE_DESC</LocID>     
+		 <Text>El paciente tiene un caso muy grave de enfermedad cardíaca y debe tratarlo pronto. El paciente podría estar sufriendo actualmente un ataque cardíaco, insuficiencia cardíaca o una enfermedad coronaria grave.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION</LocID>                 
+		 <Text>Endocarditis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIAC_INFECTION_DESC</LocID>     
+		 <Text>La endocarditis es una infección que afecta la membrana interna que separa las cámaras y las válvulas del corazón (endocardio). Los síntomas de una infección cardíaca pueden incluir: fiebre, dificultad para respirar, debilidad o fatiga, hinchazón de las piernas o del abdomen, cambios en el ritmo cardíaco, tos seca o persistente, erupciones cutáneas o manchas inusuales.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE</LocID>                 
+		 <Text>Enfermedad pulmonar severa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_LUNG_DISEASE_DESC</LocID>     
+		 <Text>El paciente tiene un caso muy grave de enfermedad pulmonar y debe tratarlo pronto. El paciente podría estar sufriendo actualmente de SDRA, embolia pulmonar, cáncer de pulmón en etapa terminal o neumonía grave.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS</LocID>                 
+		 <Text>Neumonitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONITIS_DESC</LocID>     
+		 <Text>La neumonitis es un término general que se refiere a la inflamación del tejido pulmonar. Técnicamente, la neumonía es un tipo de neumonitis porque la infección causa inflamación. Sin embargo, los médicos suelen utilizar la neumonitis para referirse a causas no infecciosas de inflamación pulmonar.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION</LocID>                 
+		 <Text>Neumonía</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LUNG_INFECTION_DESC</LocID>     
+		 <Text>La neumonía es una infección que inflama los sacos de aire en uno o ambos pulmones. Los sacos de aire pueden llenarse de líquido o material purulento, provocando tos con flema o pus, fiebre, escalofríos y dificultad para respirar. Una variedad de organismos, incluidas bacterias, virus y hongos, pueden causar neumonía.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS</LocID>                 
+		 <Text>Diverticulitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIVERTICULITIS_DESC</LocID>     
+		 <Text>Los divertículos son pequeñas bolsas abultadas que se pueden formar en el revestimiento del sistema digestivo. Se encuentran con mayor frecuencia en la parte inferior del intestino grueso (colon). Los divertículos son comunes, especialmente después de los 40 años, y rara vez causan problemas. La presencia de divertículos se conoce como diverticulosis. Cuando una o más de las bolsas se inflaman y, en algunos casos, se infectan, esa afección se conoce como diverticulitis. La diverticulitis puede causar dolor abdominal intenso, fiebre, náuseas y un cambio marcado en los hábitos intestinales.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC</LocID>                 
+		 <Text>Colitis ulcerosa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ULC_DESC</LocID>     
+		 <Text>La colitis ulcerosa (CU) es una enfermedad inflamatoria intestinal (EII). Causa irritación, inflamación y úlceras en el revestimiento del intestino grueso (colon). No existe cura y las personas suelen presentar síntomas de forma intermitente de por vida.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS</LocID>                 
+		 <Text>Enfermedad de Crohn</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CROHNS_DESC</LocID>     
+		 <Text>La enfermedad de Crohn es un tipo de enfermedad inflamatoria intestinal (EII) que puede afectar cualquier segmento del tracto gastrointestinal desde la boca hasta el ano. Los síntomas a menudo incluyen dolor abdominal, diarrea (que puede ser sanguinolenta si la inflamación es severa), fiebre, distensión abdominal y pérdida de peso.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS</LocID>                 
+		 <Text>Pequeñas hemorroides</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS1</LocID>                 
+		 <Text>Hemorroides</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEMORRHOIDS_DESC</LocID>     
+		 <Text>Las hemorroides, también llamadas almorranas, son venas hinchadas en el ano y la parte inferior del recto, similares a las venas varicosas. Las hemorroides pueden desarrollarse dentro del recto (hemorroides internas) o debajo de la piel alrededor del ano (hemorroides externas). Existen opciones eficaces para tratar las hemorroides, desde tratamientos caseros hasta cambios en el estilo de vida.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE</LocID>                 
+		 <Text>Enfermedad celíaca</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CELIAC_DISEASE_DESC</LocID>     
+		 <Text>La enfermedad celíaca o enteropatía sensible al gluten, es una reacción inmune al consumo de gluten, una proteína que se encuentra en el trigo, la cebada y el centeno. Si tiene la enfermedad celíaca, comer gluten desencadena una respuesta inmunitaria en el intestino delgado. Con el tiempo, esta reacción daña el revestimiento del intestino delgado y evita que absorba algunos nutrientes. El daño intestinal a menudo causa diarrea, fatiga, pérdida de peso, hinchazón y anemia, y puede provocar complicaciones graves. En los niños, la malabsorción puede afectar el crecimiento y el desarrollo, además de causar los síntomas observados en los adultos.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD</LocID>                 
+		 <Text>Enfermedad renal crónica</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_END_CKD</LocID>                 
+		 <Text>Enfermedad renal crónica (etapa terminal)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CKD_DESC</LocID>     
+		 <Text>La enfermedad renal crónica, también llamada insuficiencia renal crónica, describe la pérdida gradual de la función renal. Los riñones filtran los desechos y el exceso de líquidos de la sangre, que luego se excretan en la orina. Cuando la enfermedad renal crónica alcanza una etapa avanzada, se pueden acumular niveles peligrosos de líquidos, electrolitos y desechos en su cuerpo. En las primeras etapas de la enfermedad renal crónica, es posible que tenga pocos signos o síntomas. Es posible que la enfermedad renal crónica no se manifieste hasta que su función renal se vea afectada significativamente.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES</LocID>                 
+		 <Text>Cálculos renales</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_STONES_DESC</LocID>     
+		 <Text>Los cálculos renales, también llamados nefrolitiasis o urolitiasis, son depósitos duros hechos de minerales y sales que se forman dentro de los riñones. La dieta, el exceso de peso corporal, algunas afecciones médicas y ciertos suplementos y medicamentos se encuentran entre las muchas causas de los cálculos renales. Los cálculos renales pueden afectar cualquier parte de su tracto urinario, desde los riñones hasta la vejiga. A menudo, los cálculos se forman cuando la orina se concentra, lo que permite que los minerales se cristalicen y se peguen.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS</LocID>                 
+		 <Text>Glomerulonefritis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GLUMEROLUNEPHRITIS_DESC</LocID>     
+		 <Text>La glomerulonefritis es una inflamación de los pequeños filtros de los riñones (glomérulos). Los glomérulos eliminan el exceso de líquido, electrolitos y desechos del torrente sanguíneo y los pasan a la orina. La glomerulonefritis puede aparecer repentinamente (aguda) o gradualmente (crónica).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD</LocID>                 
+		 <Text>Poliquistosis renal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_POLYCYSTIC_KD_DESC</LocID>     
+		 <Text>La enfermedad renal poliquística (PQD) es un trastorno hereditario en el que grupos de quistes se desarrollan principalmente dentro de los riñones, lo que hace que los riñones se agranden y pierdan su función con el tiempo. Los quistes son sacos redondos no cancerosos que contienen líquido y pueden variar en tamaño. Tener muchos quistes o quistes grandes puede dañar los riñones. La enfermedad renal poliquística también puede hacer que se desarrollen quistes en el hígado y en otras partes del cuerpo. Además, puede causar complicaciones graves, como presión arterial alta e insuficiencia renal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI</LocID>                 
+		 <Text>Infección del tracto urinario</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UTI_DESC</LocID>     
+		 <Text>Una infección del tracto urinario (UTI) es una infección en cualquier parte del sistema urinario: riñones, uréteres, vejiga y uretra. La mayoría de las infecciones afectan al tracto urinario inferior: la vejiga y la uretra. Las mujeres tienen mayor riesgo de desarrollar una infección urinaria que los hombres. La infección limitada a la vejiga puede ser dolorosa y molesta. Sin embargo, pueden ocurrir consecuencias graves si una UTI se propaga a los riñones. Los médicos suelen tratar las infecciones del tracto urinario con antibióticos.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE</LocID>                 
+		 <Text>Enfermedad renal severa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_UT_DISEASE_DESC</LocID>     
+		 <Text>El paciente tiene un caso muy grave de enfermedad renal y debe tratarlo pronto. El paciente puede estar sufriendo actualmente de insuficiencia renal, enfermedad renal crónica o en etapa terminal.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA</LocID>                 
+		 <Text>Demencia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DEMENTIA_DESC</LocID>     
+		 <Text>La demencia describe un grupo de síntomas que afectan la memoria, el pensamiento y las habilidades sociales de manera suficientemente severa como para interferir con la vida diaria. No es una enfermedad específica, pero varias enfermedades diferentes pueden causar demencia. Aunque la demencia generalmente implica pérdida de memoria, la pérdida de memoria tiene diferentes causas. Tener pérdida de memoria por sí sola no significa que tenga demencia. La enfermedad de Alzheimer es la causa más común de demencia progresiva en los adultos mayores, pero existen varias causas de demencia. Según la causa, algunos síntomas de demencia pueden ser reversibles.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS</LocID>                 
+		 <Text>Enfermedad de Alzheimer</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALZHEIMERS_DESC</LocID>     
+		 <Text>La enfermedad de Alzheimer es un trastorno progresivo que hace que las células del cerebro se degeneren y mueran. La enfermedad de Alzheimer es la causa más común de demencia: una disminución continua en las habilidades sociales, de comportamiento y de pensamiento que altera la capacidad de una persona para funcionar de forma independiente. Los primeros signos de la enfermedad pueden ser el olvido de conversaciones o eventos recientes. A medida que avanza la enfermedad, una persona con la enfermedad de Alzheimer desarrollará un deterioro severo de la memoria y perderá la capacidad para realizar las tareas diarias. Los medicamentos actuales para la enfermedad de Alzheimer pueden mejorar temporalmente los síntomas. A veces, estos tratamientos pueden ayudar a las personas con la enfermedad a maximizar la función y mantener la independencia durante un tiempo.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS</LocID>                 
+		 <Text>Enfermedad de Parkinson</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PARKINSONS_DESC</LocID>     
+		 <Text>La enfermedad de Parkinson es un trastorno progresivo del sistema nervioso que afecta el movimiento. Los síntomas comienzan gradualmente, a veces con un temblor apenas perceptible en una sola mano. Los temblores son comunes, pero el trastorno también suele causar rigidez o lentitud de movimientos. En las primeras etapas de la enfermedad, el rostro puede mostrar poca o ninguna expresión, es posible que los brazos no se balanceen al caminar, el habla puede volverse suave o arrastrada. Los síntomas de la enfermedad de Parkinson empeoran a medida que avanza su afección con el tiempo.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE</LocID>                 
+		 <Text>Enfermedad neurológica severa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_NEURO_DISEASE_DESC</LocID>     
+		 <Text>El paciente tiene un caso muy grave de enfermedad neurológica y debe tratarlo pronto. El paciente puede estar sufriendo actualmente de encefalitis, meningitis, parálisis o presión intercraneal.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE</LocID>                 
+		 <Text>Intolerancia a la lactosa</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LACTOSE_INTOLERANCE_DESC</LocID>     
+		 <Text>El paciente tiene intolerancia a la lactosa que le causa hinchazón, diarrea y flatulencia y requiere cambios en la dieta.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION</LocID>                 
+		 <Text>Infecciones por tenia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TAPEWORM_INFECTION_DESC</LocID>     
+		 <Text>El paciente tiene una tenia en el intestino y requiere antiparasitarios.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY</LocID>                 
+		 <Text>Escorbuto</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SCURVY_DESC</LocID>     
+		 <Text>El paciente tiene escorbuto causado por una deficiencia de vitamina C y requiere infusiones intravenosas inmediatas.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY</LocID>                 
+		 <Text>Deficiencia de vitamina B12</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_B12_DEFICIENCY_DESC</LocID>     
+		 <Text>El paciente tiene una deficiencia de la vitamina B12 que puede causar neurodegeneración y deterioro cognitivo si no se trata.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY</LocID>                 
+		 <Text>Deficiencia de magnesio</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MAGNESIUM_DEFICIENCY_DESC</LocID>     
+		 <Text>El paciente tiene una deficiencia de magnesio y requiere suplementos de magnesio.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY</LocID>                 
+		 <Text>Deficiencia de hierro</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IRON_DEFICIENCY_DESC</LocID>     
+		 <Text>El paciente tiene una deficiencia de hierro, que puede causar anemia y requiere suplementos de hierro.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY</LocID>                 
+		 <Text>Deficiencia de yodo</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_IODINE_DEFICIENCY_DESC</LocID>     
+		 <Text>El paciente tiene una deficiencia de yodo que puede provocar un deterioro cognitivo y requiere suplementos de yodo.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEIZURES</LocID>                 
+		 <Text>Convulsiones</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Obsolete -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES</LocID>                 
+		 <Text>Anomalía de salud</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MINOR_ISSUES_DESC</LocID>     
+		 <Text>El paciente tiene un problema de salud como desnutrición, presión arterial alta o una enfermedad.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES</LocID>                 
+		 <Text>Problemas subyacentes</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_UNDERLYING_ISSUES_DESC</LocID>     
+		 <Text>El paciente tiene antecedentes de una enfermedad/trastorno como ansiedad o diabetes.</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- ================================================= Main Symptoms ================================================== -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cita de chequeo anual</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cita de chequeo cardiovascular</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cita de chequeo neurológico</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cita de chequeo gastrointestinal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cita para chequeo renal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT2</LocID>                 
+		 <Text>Cita de chequeo respiratorio</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita de chequeo dietético</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NUTRI_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su nutricionista para hacerse un chequeo alimentario.</Text>  
+		</GameDBLocalizedString>
+		
+	<!-- VACCINE MAIN SYMPTOMS -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación para la MMR</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MMR_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para vacunarse contra las paperas, el sarampión y la rubéola.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra la influenza</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLU_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para recibir una vacuna contra la influenza que protege al paciente de la influenza H1N1, H3N1 y 2 tipos diferentes de influenza B.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra la varicela</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VARICL_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para recibir una vacuna contra la varicela que protege al paciente de la culebrilla y la varicela.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación para la DTaP</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DTAP_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para recibir la vacuna contra la difteria, el tétanos y la tos ferina.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación para la antineumocócica</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMOCC_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para recibir una vacuna antineumocócica.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra el ántrax</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANTHRAX_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para vacunarse contra el ántrax.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra el ébola</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EBOLA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para vacunarse contra el ébola.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra el dengue</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DENGUE_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para recibir una vacuna contra el dengue.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra la malaria</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MALARIA_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para vacunarse contra la malaria.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación contra la tuberculosis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TB_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para recibir una vacuna contra la tuberculosis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT</LocID>                 
+		 <Text>Cita de vacunación COVID-19</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COVID_VACCINE_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para obtener una vacuna COVID-19 para ensayos o para uso de emergencia autorizado por el gobierno.</Text>  
+		</GameDBLocalizedString>
+		
+	<!-- OBSOLETE -->
+	
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita de chequeo anual</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su médico de cabecera para hacerse un chequeo anual.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita de chequeo cardiovascular</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su cardiólogo para hacerse un chequeo cardiovascular.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita de chequeo neurológico</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su neurólogo para hacerse un chequeo neurológico.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita de chequeo gastrointestinal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene cita con su gastroenterólogo para hacerse un chequeo gastroesofágico.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita para chequeo renal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su nefrólogo para hacerse un chequeo renal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Cita de chequeo respiratorio</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>El paciente tiene una cita con su neumólogo para hacerse un chequeo respiratorio.</Text>  
+		</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

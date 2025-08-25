@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_HU_ADDON_MEDCHECKUPS_TREATMENTS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+   
+        <GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP</LocID>                 
+		 <Text>Az egész test vizsgálata</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CHECKUP_DESC</LocID>     
+		 <Text>Az orvos teljes testvizsgálatot végez a betegen, vagy más néven Ellenőrzést. </Text>  
+		</GameDBLocalizedString>
+
+	    <GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES</LocID>                 
+		 <Text>Életmódváltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_LIFESTYLE_CHANGES_DESC</LocID>     
+		 <Text>Az orvos azt javasolja, hogy a beteg változtassa meg életmódját, hogy aktívabb és egészségesebb legyen. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS</LocID>                 
+		 <Text>Gyógyszeres kúra / kiegészítők</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COURSE_OF_MEDICATIONS_DESC</LocID>     
+		 <Text>Az orvos gyógyszereket vagy kiegészítéseket ad a betegnek a meglévő betegségek, kisebb problémák vagy rendellenességek kezelésére. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING</LocID>                 
+		 <Text>Más szakemberhez történő átirányítás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPECIALIST_BOOKING_DESC</LocID>     
+		 <Text>Az orvos szakorvoshoz irányítja a beteget betegségének / rendellenességének kezelésére vagy esetének kivizsgálására.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING</LocID>                 
+		 <Text>Tanácsadás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_COUNSELING_DESC</LocID>     
+		 <Text>A tanácsadás egy szóban történő terápia, amelynek során képzett terapeuta hallgatja meg Önt, és segít megtalálni az érzelmi problémák kezelésének módjait. Néha a "tanácsadás" kifejezést általában a beszélgetési terápiákra használják, de a tanácsadás önmagában is egyfajta terápia. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_HOME</LocID>                 
+		 <Text>Hazaküldés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_HOME_DESC</LocID>     
+		 <Text>A betegnek nincsenek problémái, ezért az orvos hazaküldte. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ISOLATION</LocID>                 
+		 <Text>Elkülönítés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ISOLATION_DESC</LocID>     
+		 <Text>A beteg elszigetelésre szorul egy kórházban vagy egy otthonában, mivel pozitív fertőző betegsége van, mint például a COVID-19. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_INSULIN_THERAPY</LocID>                 
+		 <Text>Inzulinkezelés</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		<LocID>TRT_JM_SUPPORTIVE_CARE</LocID>                         
+		<Text>Támogató terápia</Text>
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>TRT_JM_SUPPORTIVE_CARE_DESCRIPTION</LocID>           
+		<Text>A támogató terápia számos tüneti kezelésből áll, főleg vírusos betegségek esetén, ahol nincs specifikus kezelés. </Text>	
+		</GameDBLocalizedString>
+		
+		<!--<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT</LocID>                 
+		 <Text>Felvétel kórterembe</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_WARD_ADMIT_DESC</LocID>     
+		 <Text>Az orvos a betegség súlyossága miatt vagy a beteg megfigyelésére felveszi a kórterembe. </Text>  
+		</GameDBLocalizedString>-->
+		
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MMR_VACCINATION</LocID>                 
+		 <Text>MMR elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_INFLU_VACCINATION</LocID>                 
+		 <Text>Influenza elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_VARICL_VACCINATION</LocID>                 
+		 <Text>Varicella elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DTAP_VACCINATION</LocID>                 
+		 <Text>DTAP elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_PNEUMOCC_VACCINATION</LocID>                 
+		 <Text>Pneumokokkusz elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_ANTHRAX_VACCINATION</LocID>                 
+		 <Text>Lépfene elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_EBOLA_VACCINATION</LocID>                 
+		 <Text>Ebola elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_DENGUE_VACCINATION</LocID>                 
+		 <Text>Dengue-láz elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_TB_VACCINATION</LocID>                 
+		 <Text>Tuberkulózis elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MALARIA_VACCINATION</LocID>                 
+		 <Text>Malária elleni védőoltás</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- OBSOLETE -->
+		 <LocID>TRT_JM_COVID_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - Próba</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_AZCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - AstraZeneca</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SINOCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - SinoVac</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SINOPCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - Sinopharm</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_PFICOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - Pfizer</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_MODCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - Moderna</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_JNJCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltáselleni védőoltás - Johnson n Johnson</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_CANCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - CanSino</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRT_JM_SPUTCOV_VACCINATION</LocID>                 
+		 <Text>COVID-19 elleni védőoltás - Sputnik V</Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_HU_ADDON_MEDCHECKUPS_EXAMINATIONS">
+	<LanguageCode>hu</LanguageCode>
+	<LanguageNameLocalized>Magyar</LanguageNameLocalized>
+	<Contributors>
+	<Name>kmd94</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Examinations -->
+
+        <GameDBLocalizedString>      
+		 <LocID>EXM_JM_MEDICAL_HISTORY</LocID>                 
+		 <Text>Család- és kórtörténet</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>EXM_JM_MEDICAL_HISTORY_DESC</LocID>     
+		 <Text>Kórtörténet: A klinikai orvostudományban a páciens múltja és jelene, amely releváns információkat tartalmazhat egészségügyi múltjára, jelenére és jövőjére vonatkozóan. A kórtörténet, amely az ember által tapasztalt összes orvosi esemény és probléma beszámolója, fontos eszköz a beteg kezelésében. </Text>  
+		</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

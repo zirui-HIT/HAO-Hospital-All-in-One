@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_CZ_ADDON_MEDCHECKUPS_SYMPTOMS">
+	<LanguageCode>cz</LanguageCode>
+	<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+	<Name>XiZyno</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX</LocID>                 
+		 <Text>Zdravý reflex</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_REFLEX_DESC</LocID>     
+		 <Text>Pacient má zdravý reflex. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM</LocID>                 
+		 <Text>Normální srdeční rytmus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_RHYTHM_DESC</LocID>     
+		 <Text>Pacient má normální srdeční rytmus. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING</LocID>                 
+		 <Text>Normální dýchací obrazec.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BREATHING_DESC</LocID>     
+		 <Text>Pacient má normální dýchací obrazec. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE</LocID>                 
+		 <Text>Zdravý životní styl</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LIFESTYLE_DESC</LocID>     
+		 <Text>Pacient má zdravý životní styl cvičením a zdravou stravou. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE</LocID>                 
+		 <Text>Normální krevní tlak</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_BLOOD_PRESSURE_DESC</LocID>     
+		 <Text>Pacient má normální krevní tlak. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART</LocID>                 
+		 <Text>Zdravé srdce</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_HEART_DESC</LocID>     
+		 <Text>Pacient má zdravé srdce.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS</LocID>                 
+		 <Text>Zdravé plíce</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_LUNGS_DESC</LocID>     
+		 <Text>Pacient má zdravé plíce. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT</LocID>                 
+		 <Text>Zdravý gastrointestinální trakt</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_GASTROINTESTINAL_TRACT_DESC</LocID>     
+		 <Text>Pacient má zdravý gastrointestinální trakt. </Text>  
+		</GameDBLocalizedString>
+	    
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS</LocID>                 
+		 <Text>Zdravý renální systém</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_KIDNEYS_DESC</LocID>     
+		 <Text>Pacient má zdravý renální systém. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION</LocID>                 
+		 <Text>Zdravá neurologická funkce</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_NEUROLOGICAL_FUNCTION_DESC</LocID>     
+		 <Text>Pacient má zdravé neurologické funkce a zdravou mysl. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT</LocID>                 
+		 <Text>Normální BMI (normální hmotnost a výška)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_WEIGHT_AND_HEIGHT_DESC</LocID>     
+		 <Text>Pacient má zdravý index tělesné hmotnosti. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT</LocID>                 
+		 <Text>Normální zrak</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HEALTHY_EYESIGHT_DESC</LocID>     
+		 <Text>Pacient má normální zrak. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Main Symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Roční kontrolní prohlídka</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANNUAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>Pacient má schůzku s praktickým lékařem, aby podstoupil kontrolní prohlídku. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Kardiovaskulární kontrolní prohlídka</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CARDIOVASCULAR_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>Pacient má schůzku s kardiologem, aby podstoupil kardiovaskulární kontrolní prohlídku. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Neurologická kontrolní prohlídka</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NEUROLOGICAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>Pacient má schůzku s neurologem, aby podstoupil neurologickou kontrolní prohlídku.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Gastrointestinální kontrolní prohlídka</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GASTROINTESTINAL_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>Pacient má schůzku s gastroenterologem, aby podstoupil gastrointestinální kontrolní prohlídku.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Renální kontrolní prohlídka</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_KIDNEY_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>Pacient má schůzku s nefrologem, aby podstoupil  renální kontrolní prohlídku.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT</LocID>                 
+		 <Text>Dýchací kontrolní prohlídka</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PULMONOLOGIST_CHECKUP_APPOINTMENT_DESC</LocID>     
+		 <Text>Pacient má schůzku s pulmonologem nebo interním doktorem, aby podstoupil dýchací prohlídku. </Text>  
+		</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
