@@ -188,9 +188,7 @@
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ASPIRIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_HYDROXYUREA</TreatmentRef>
-			<TreatmentRef>TRT_HEM_INTERFERON_ALPHA</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
 			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
@@ -347,24 +345,16 @@
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
 			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_HYDROXYUREA</TreatmentRef>
-			<TreatmentRef>TRT_HEM_LENALIDOMIDE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RUXOLITNIB</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
@@ -537,7 +527,6 @@
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -549,9 +538,7 @@
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ECULIZUMAB</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
@@ -689,11 +676,7 @@
 			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ADRIAMYCIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_BLEOMYCIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DACARBAZINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_VINCRISTINE</TreatmentRef>
 			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
@@ -864,7 +847,6 @@
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ACE_INHIBITOR</TreatmentRef>
@@ -872,7 +854,6 @@
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIPYRETICS</TreatmentRef>
 			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_BONE_STRENGTH_PILLS</TreatmentRef>
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
@@ -880,13 +861,9 @@
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DIURETICS</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ADRIAMYCIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ALLOPURINOL</TreatmentRef>
 			<TreatmentRef>TRT_HEM_BORTEZOMIB</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEXAMETHASONE_TABLETS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DISODIUM_PAMIDRONATE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_FUROSEMIDE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
@@ -988,14 +965,10 @@
 		<Treatments>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ATG_ALG</TreatmentRef>
 			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
 			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
@@ -1075,24 +1048,16 @@
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
 			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
-			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DEXAMETHASONE_TABLETS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ROMIPLOSTIM</TreatmentRef>
-			<TreatmentRef>TRT_INTRAVENOUS_IMMUNOGLOBULIN</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
-			<TreatmentRef>TRT_PLATELET_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
 			<TreatmentRef>TRT_VITAMIN_SUPPLEMENTATION</TreatmentRef>
 		</Treatments>
@@ -1140,7 +1105,6 @@
 		<Treatments>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
-			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DDAVP</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 		</Treatments>
@@ -1204,14 +1168,12 @@
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_AMINOMETHYLBENZOIC_ACID</TreatmentRef>
 			<TreatmentRef>TRT_HEM_FIX</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
@@ -1275,15 +1237,12 @@
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_AMINOMETHYLBENZOIC_ACID</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DDAVP</TreatmentRef>
 			<TreatmentRef>TRT_HEM_FVIII</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
@@ -1387,15 +1346,7 @@
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ATG_ALG</TreatmentRef>
-			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
 			<TreatmentRef>TRT_HEM_DECITABINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_FOLIC_ACID</TreatmentRef>
-			<TreatmentRef>TRT_HEM_G-CSF</TreatmentRef>
-			<TreatmentRef>TRT_HEM_LENALIDOMIDE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
 			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
@@ -1555,7 +1506,6 @@
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_METACORTANDRACIN</TreatmentRef>
 			<TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
@@ -1674,8 +1624,6 @@
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_TCM_SHENGXUEBAO_MIXTURE</TreatmentRef>
 			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
 			<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
@@ -1863,7 +1811,6 @@
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -1876,11 +1823,7 @@
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_ATO</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ATRA</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_CYTARABINE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_DEXAMETHASONE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_METHOTREXATE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
 			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
@@ -2028,7 +1971,6 @@
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -2040,12 +1982,7 @@
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 			<TreatmentRef>TRT_HEM_ATG_ALG</TreatmentRef>
-			<TreatmentRef>TRT_HEM_CYCLOSPORIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DANAZOL</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
-			<TreatmentRef>TRT_HEM_TCM_ZAIZAOSHENGXUE</TreatmentRef>
-			<TreatmentRef>TRT_HEM_TESTOSTERONE_PROPIONATE</TreatmentRef>
 			<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 			<TreatmentRef>TRT_INTRAVENOUS_ANTIBIOTICS</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
@@ -2168,13 +2105,10 @@
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 			<TreatmentRef>TRT_ANTIDEPRESSIVES</TreatmentRef>
 			<TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
-			<TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
 			<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
 			<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-			<TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
 			<TreatmentRef>TRT_HEM_FOLIC_ACID</TreatmentRef>
-			<TreatmentRef>TRT_HEM_MECOBALAMIN</TreatmentRef>
 			<TreatmentRef>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12</TreatmentRef>
 			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 			<TreatmentRef>TRT_REST</TreatmentRef>
@@ -2779,7 +2713,6 @@
 			<ExaminationRef>EXM_MOREDG_TEST_COMBS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
@@ -3509,7 +3442,6 @@
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
@@ -3596,7 +3528,6 @@
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>
@@ -3800,7 +3731,6 @@
 			<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
 		<Treatments>
@@ -3989,7 +3919,6 @@
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_USG</ExaminationRef>
 		</Examinations>
@@ -5344,7 +5273,6 @@
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_STOOL_ANALYSIS_SAMPLING</ExaminationRef>
-			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 			<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
 		</Examinations>
 		<Treatments>

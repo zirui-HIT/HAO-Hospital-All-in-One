@@ -3,6 +3,38 @@
 
     <!-- Base -->
 
+    <GameDBTreatment ID="TRT_COLD_TILING">
+        <AbbreviationLocID>TRT_COLD_TILING_DESCRIPTION_V3</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+            </RequiredDoctorQualificationList>
+
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>receipt</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+
+            <RequiredRoomTags>
+                <Tag>any_office</Tag>
+                <Tag>observation</Tag>
+                <Tag>trauma_center</Tag>
+                <Tag>icu</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+        <IconIndex>1893</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
     <GameDBTreatment ID="TRT_ANTICHOLINERGICS">
         <AbbreviationLocID>TRT_ANTICHOLINERGICS_DESCRIPTION_V2</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -8285,6 +8317,7 @@
             <RequiredDoctorQualificationList>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredRoomTags>
                 <Tag>neurology_office</Tag>

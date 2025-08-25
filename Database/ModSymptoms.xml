@@ -10827,13 +10827,12 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-            <TreatmentRef>TRT_HEM_TCM_SHENGXUEBAO_MIXTURE</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1369</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_SEVERE_BONE_PAIN">
         <DescriptionLocID>SYM_HEM_SEVERE_BONE_PAIN_DESC</DescriptionLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
@@ -10851,6 +10850,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1337</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_INCREASED_RETICULOCYTE_COUNT">
         <DescriptionLocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10865,6 +10865,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1035</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_HEMOLYTIC_CRISIS">
         <DescriptionLocID>SYM_HEM_HEMOLYTIC_CRISIS_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10886,6 +10887,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1035</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_RBC_HIGH">
         <DescriptionLocID>SYM_HEM_RBC_HIGH_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10900,6 +10902,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1499</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_HYPERURICEMIA">
         <DescriptionLocID>SYM_HEM_HYPERURICEMIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10919,6 +10922,7 @@
         <CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_HIGH</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_ICON_SYM_HEM_HIGH_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_MACROCYTIC_ANEMIA">
         <DescriptionLocID>SYM_HEM_MACROCYTIC_ANEMIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10930,17 +10934,13 @@
             <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
-            <TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
-            <TreatmentRef>TRT_B-COMPLEX_SUPPLEMENT</TreatmentRef>
             <TreatmentRef>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12</TreatmentRef>
-            <TreatmentRef>TRT_HEM_FOLIC_ACID</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1369</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_MA">
         <DescriptionLocID>SYM_HEM_MA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10956,6 +10956,7 @@
         <CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_B12_DEFICIENCY</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_ICON_SYM_HEM_B12_DEFICIENCY_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_RETICULOCYTOPENIA">
         <DescriptionLocID>SYM_HEM_RETICULOCYTOPENIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10969,6 +10970,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1035</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_HEMOLYTIC_ANEMIA">
         <DescriptionLocID>SYM_HEM_HEMOLYTIC_ANEMIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -10985,6 +10987,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1035</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_HYPERCALCEMIA">
         <DescriptionLocID>SYM_HEM_HYPERCALCEMIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -11000,7 +11003,6 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HEM_DISODIUM_PAMIDRONATE</TreatmentRef>
-            <TreatmentRef>TRT_HEM_FUROSEMIDE</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -11008,6 +11010,7 @@
         <CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_HIGH</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_ICON_SYM_HEM_HIGH_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_CNSL">
         <DescriptionLocID>SYM_HEM_CNSL_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -11022,14 +11025,13 @@
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_DEXAMETHASONE</TreatmentRef>
             <TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_METHOTREXATE</TreatmentRef>
-            <TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_CYTARABINE</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1753</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_NORMOCYTIC_ANEMIA">
         <DescriptionLocID>SYM_HEM_NORMOCYTIC_ANEMIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -11041,15 +11043,13 @@
             <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
-            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
             <TreatmentRef>TRT_HEM_RECOMBINANT_HUMAN_ERYTHROPOIETIN</TreatmentRef>
-            <TreatmentRef>TRT_HEM_DEFEROXAMINE</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1369</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_SPLENOMEGALY">
         <DescriptionLocID>SYM_HEM_SPLENOMEGALY_DESC</DescriptionLocID>
         <DiscomfortLevel>Low</DiscomfortLevel>
@@ -11066,6 +11066,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>1351</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEM_FOLATE_DEFICIENCY">
         <DescriptionLocID>SYM_HEM_FOLATE_DEFICIENCY_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -11084,6 +11085,7 @@
         <CustomIconBigAssetRef>ASSET_ICON_SYM_HEM_FOLATE_DEFICIENCY</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_ICON_SYM_HEM_FOLATE_DEFICIENCY_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_THROMBOCYTOPENIA">
         <DescriptionLocID>SYM_THROMBOCYTOPENIA_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -11100,6 +11102,7 @@
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>2798</IconIndex>
     </GameDBSymptom>
+
     <GameDBSymptom ID="SYM_HEMOGLOBIN_HIGH">
         <DescriptionLocID>SYM_HEMOGLOBIN_HIGH_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
