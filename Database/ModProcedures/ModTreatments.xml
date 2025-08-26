@@ -731,6 +731,49 @@
 
     <!-- Base -->
 
+    <GameDBTreatment ID="TRT_ANTI_INFLAMMATORY_CREAM">
+        <AbbreviationLocID>TRT_ANTI_INFLAMMATORY_CREAM_DESCRIPTION_V2</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+            </RequiredDoctorQualificationList>
+
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>receipt</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+
+            <!--RequiredRoomTypeList>
+                <RequiredRoomTypeRef>ROOM_TYPE_GENERAL_SURGERY_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_INPATIENT_GS_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_INTERNAL_MEDICINE_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_INPATIENT_IM_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_ORTHOPAEDICS_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_INPATIENT_OT_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_CARDIOLOGY_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_INPATIENT_CARDIOLOGY_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_DOCTORS_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_ER_OBSERVATION_ROOM</RequiredRoomTypeRef>
+            </RequiredRoomTypeList-->
+            <RequiredRoomTags>
+                <Tag>any_office</Tag>
+                <Tag>observation</Tag>
+                <Tag>icu</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+        <PharmacyPickup>true</PharmacyPickup>
+        <Cost>20</Cost>
+        <IconIndex>2021</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
     <GameDBTreatment ID="TRT_COLD_TILING">
         <AbbreviationLocID>TRT_COLD_TILING_DESCRIPTION_V3</AbbreviationLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -2118,12 +2161,10 @@
             </RequiredEquipmentList>
 
             <RequiredRoomTags>
-                <Tag>emergency_doctors_office</Tag>
+                <Tag>any_office</Tag>
                 <Tag>any_inpatient_office</Tag>
                 <Tag>observation</Tag>
                 <Tag>icu</Tag>
-                <Tag>gyneco_office</Tag>
-                <Tag>gyneco_inpatient_office</Tag>
             </RequiredRoomTags>
 
             <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
@@ -6484,10 +6525,7 @@
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
 
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_ACUTE_MEDICINE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
             </RequiredDoctorQualificationList>
 
             <RequiredRoomTags>
@@ -8219,8 +8257,10 @@
         <IconIndex>1903</IconIndex>
         <DurationHours>0</DurationHours>
     </GameDBTreatment>
-    <GameDBTreatment ID="TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS">
-        <AbbreviationLocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS_DESC</AbbreviationLocID>
+    <GameDBTreatment
+        ID="TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS">
+        <AbbreviationLocID>
+            TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS_DESC</AbbreviationLocID>
         <DiscomfortLevel>Positive</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
@@ -10151,5 +10191,441 @@
         <AllowedWithAnyHospitalization>true</AllowedWithAnyHospitalization>
     </GameDBTreatment>
 
+    <!-- Dentistry -->
+
+    <GameDBTreatment ID="TRT_DEN_RESTORATIVE_FILLING">
+        <AbbreviationLocID>TRT_DEN_RESTORATIVE_FILLING_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>150</Cost>
+        <IconIndex>2290</IconIndex>
+        <DurationHours>1</DurationHours>
+    </GameDBTreatment>
+
+    <!-- 阻生智齿拔除术 -->
+    <GameDBTreatment ID="TRT_DEN_IMPACTED_TOOTH_EXTRACTION">
+        <AbbreviationLocID>TRT_DEN_IMPACTED_TOOTH_EXTRACTION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredSkillsToPrescribe>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>400</Cost>
+
+        <IconIndex>1945</IconIndex>
+        <CustomIconBigAssetRef>ASSET_DEN_DIA_TOOTH_TREATMENT</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_DEN_DIA_TOOTH_TREATMENT_SMALL</CustomIconSmallAssetRef>
+
+        <DurationHours>1</DurationHours>
+    </GameDBTreatment>
+
+    <GameDBTreatment ID="TRT_DEN_PERICORONAL_IRRIGATION">
+        <AbbreviationLocID>TRT_DEN_PERICORONAL_IRRIGATION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>80</Cost>
+        <IconIndex>2290</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+    <!-- 唾液腺结石切除术 -->
+    <GameDBTreatment ID="TRT_DEN_SIALOLITHOTOMY">
+        <AbbreviationLocID>TRT_DEN_SIALOLITHOTOMY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredSkillsToPrescribe>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>350</Cost>
+        <IconIndex>2298</IconIndex>
+        <DurationHours>1</DurationHours>
+        <HospitalizationTreatmentRef>TRT_HOSPITALIZATION_NORMAL</HospitalizationTreatmentRef>
+        <AllowedWithAnyHospitalization>true</AllowedWithAnyHospitalization>
+    </GameDBTreatment>
+
+    <!-- 咬合垫处方 -->
+    <GameDBTreatment ID="TRT_DEN_OCCLUSAL_SPLINT_THERAPY">
+        <AbbreviationLocID>TRT_DEN_OCCLUSAL_SPLINT_THERAPY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>receipt</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptTreatmentPrescription</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>sit_doc_recommendation_in</AnimationNameIn>
+                <AnimationNameIdle>sit_doc_recommendation_idle</AnimationNameIdle>
+                <AnimationNameOut>sit_doc_recommendation_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PRESCRIPTION</TreatmentType>
+        <Cost>250</Cost>
+
+        <IconIndex>2029</IconIndex>
+        <CustomIconBigAssetRef>ASSET_DEN_DIA_TOOTH_TREATMENT</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_DEN_DIA_TOOTH_TREATMENT_SMALL</CustomIconSmallAssetRef>
+
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+    <GameDBTreatment ID="TRT_DEN_TMJ_MANUAL_REDUCTION">
+        <AbbreviationLocID>TRT_DEN_TMJ_MANUAL_REDUCTION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>120</Cost>
+        <IconIndex>1659</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+    <GameDBTreatment ID="TRT_DEN_GUIDED_TISSUE_REGENERATION">
+        <AbbreviationLocID>TRT_DEN_GUIDED_TISSUE_REGENERATION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredSkillsToPrescribe>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>800</Cost>
+        <IconIndex>1945</IconIndex>
+        <DurationHours>2</DurationHours>
+    </GameDBTreatment>
+
+    <!-- 口腔润滑剂处方 -->
+    <GameDBTreatment ID="TRT_DEN_SALIVA_SUBSTITUTE_THERAPY">
+        <AbbreviationLocID>TRT_DEN_SALIVA_SUBSTITUTE_THERAPY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>receipt</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>RECEIPT</TreatmentType>
+        <PharmacyPickup>true</PharmacyPickup>
+        <Cost>50</Cost>
+        <IconIndex>1867</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+    <!-- 综合正畸治疗 -->
+    <GameDBTreatment ID="TRT_DEN_COMPREHENSIVE_ORTHODONTIC_TREATMENT">
+        <AbbreviationLocID>TRT_DEN_COMPREHENSIVE_ORTHODONTIC_TREATMENT_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>2000</Cost>
+
+        <IconIndex>2029</IconIndex>
+        <CustomIconBigAssetRef>ASSET_DEN_DIA_TOOTH_TREATMENT</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_DEN_DIA_TOOTH_TREATMENT_SMALL</CustomIconSmallAssetRef>
+
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+    <!-- 微创切除术 -->
+    <GameDBTreatment ID="TRT_DEN_MINIMALLY_INVASIVE_SURGERY">
+        <AbbreviationLocID>TRT_DEN_MINIMALLY_INVASIVE_SURGERY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>any_office</Tag>
+                <Tag>any_inpatient_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>2000</Cost>
+        <IconIndex>1945</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
+
+    <!-- 系带切开术 -->
+    <GameDBTreatment ID="TRT_DEN_FRENULOTOMY">
+        <AbbreviationLocID>TRT_DEN_FRENULOTOMY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+
+            <RequiredRoomTags>
+                <Tag>any_office</Tag>
+                <Tag>any_inpatient_office</Tag>
+                <Tag>ward</Tag>
+                <Tag>icu</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <DressLevelAfter>FULL</DressLevelAfter>
+            <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
+        </Procedure>
+        <TreatmentType>PROCEDURE</TreatmentType>
+        <Cost>2000</Cost>
+        <IconIndex>1945</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBTreatment>
 
 </Database>

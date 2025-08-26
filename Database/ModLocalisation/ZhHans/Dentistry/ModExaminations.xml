@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DENTISTRY_EXAMINATIONS">
+
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_LASER_FLUORESCENCE_DETECTION</LocID>
+				<Text>龋病荧光检测</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_LASER_FLUORESCENCE_DETECTION_DESCRIPTION</LocID>
+				<Text>使用特定波长的激光照射牙齿表面，通过检测牙体组织（特别是龋损区域）产生的荧光反应，来定量分析牙齿的矿物质含量，辅助诊断早期龋病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PULP_VITALITY_TEST</LocID>
+				<Text>牙髓活力测试</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PULP_VITALITY_TEST_DESCRIPTION</LocID>
+				<Text>通过对牙齿施加冷、热或电刺激，评估牙髓神经对外界刺激的反应能力，从而判断牙髓的生理状态是健康、发炎还是坏死。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PERIODONTAL_PROBING</LocID>
+				<Text>牙周探诊</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PERIODONTAL_PROBING_DESCRIPTION</LocID>
+				<Text>使用带有刻度的牙周探针，测量牙齿与牙龈之间龈沟或牙周袋的深度，并检查探诊后是否出血，以评估牙周组织的健康状况和附着丧失的程度。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_SIALOGRAPHY</LocID>
+				<Text>唾液腺造影</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_SIALOGRAPHY_DESCRIPTION</LocID>
+				<Text>将造影剂注入唾液腺导管系统后，进行X光拍摄。该检查能够清晰显示唾液腺导管的形态、结构和有无阻塞，用于诊断唾液腺结石、导管狭窄或肿瘤等病变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_TMJ_PALPATION</LocID>
+				<Text>颞下颌关节触诊</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_TMJ_PALPATION_DESCRIPTION</LocID>
+				<Text>医生将手指放置于患者耳前区的颞下颌关节处，通过触诊感知并评估患者在张闭口运动过程中，关节区有无压痛、弹响、摩擦音或异常运动。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT</LocID>
+				<Text>最大开口度测量</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT_DESCRIPTION</LocID>
+				<Text>使用尺子或专用量具，测量患者在尽力张口时上下门牙切缘之间的垂直距离。该测量用于客观评估下颌的活动范围，判断是否存在张口受限。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MASTICATORY_MUSCLE_PALPATION</LocID>
+				<Text>咀嚼肌触诊</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MASTICATORY_MUSCLE_PALPATION_DESCRIPTION</LocID>
+				<Text>医生对患者的咀嚼肌群（如咬肌、颞肌）进行系统性的按压检查，以定位肌肉的压痛点、激痛点或异常紧张的条索，用于诊断肌筋膜疼痛等疾病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_FACIAL_SENSORY_TEST</LocID>
+				<Text>面部感觉测试</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_FACIAL_SENSORY_TEST_DESCRIPTION</LocID>
+				<Text>通过使用棉絮、针尖等工具，对三叉神经支配的面部皮肤区域进行轻触觉、痛觉等多种感觉测试，以评估神经功能是否完整，或是否存在感觉迟钝、麻木等异常。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

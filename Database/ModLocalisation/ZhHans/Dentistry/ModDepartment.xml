@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DENTISTRY_DEPARTMENT">
+
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>DPT_DENTISTRY</LocID>
+				<Text>口腔颌面科</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DENTISTRY_OFFICE</LocID>
+				<Text>口腔颌面科诊室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DENTISTRY_OFFICE_DESCRIPTION</LocID>
+				<Text>口腔颌面科医生在这里诊断和治疗门诊病人。这个房间需要诊断设备以及治疗所需的基础设施。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE</LocID>
+				<Text>诊断室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE_DESCRIPTION</LocID>
+				<Text>口腔颌面科医生在这里处理住院病人的病例，为住院治疗的患者提供检查和治疗。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY</LocID>
+				<Text>口腔颌面学</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY_DESCRIPTION</LocID>
+				<Text>拥有此项技能的医生能够诊断和治疗常见的口腔疾病，如龋齿、牙周病和口腔黏膜疾病。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY_SURGERY</LocID>
+				<Text>口腔颌面外科学</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY_SURGERY_DESCRIPTION</LocID>
+				<Text>拥有此项技能的医生能够执行复杂的口腔手术，如拔牙、种植牙和颌面部手术。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

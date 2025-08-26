@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MOD_DENTISTRY_DEPARTMENT">
+
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>DPT_DENTISTRY</LocID>
+				<Text>Oral and Maxillofacial Department</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DENTISTRY_OFFICE</LocID>
+				<Text>Oral and Maxillofacial Clinic</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DENTISTRY_OFFICE_DESCRIPTION</LocID>
+				<Text>Oral and maxillofacial doctors diagnose and treat outpatients here. This room requires diagnostic equipment and basic infrastructure for treatment.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE</LocID>
+				<Text>Inpatient Consultation Room</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE_DESCRIPTION</LocID>
+				<Text>Oral and maxillofacial doctors manage inpatient cases here, providing examinations and treatments for hospitalized patients.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY</LocID>
+				<Text>Oral and Maxillofacial Medicine</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY_DESCRIPTION</LocID>
+				<Text>Doctors with this skill can diagnose and treat common oral diseases, such as dental caries, periodontal disease, and oral mucosal diseases.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY_SURGERY</LocID>
+				<Text>Oral and Maxillofacial Surgery</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_DENTISTRY_SURGERY_DESCRIPTION</LocID>
+				<Text>Doctors with this skill can perform complex oral surgeries, such as tooth extractions, dental implants, and maxillofacial procedures.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

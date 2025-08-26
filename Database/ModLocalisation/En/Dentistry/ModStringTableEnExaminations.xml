@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MOD_DENTISTRY_EXAMINATIONS">
+
+		<LanguageCode>en</LanguageCode>
+		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_LASER_FLUORESCENCE_DETECTION</LocID>
+				<Text>Caries Fluorescence Detection</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_LASER_FLUORESCENCE_DETECTION_DESCRIPTION</LocID>
+				<Text>Using a specific wavelength of laser to illuminate the tooth surface to quantitatively analyze the mineral content of the tooth by detecting the fluorescence reaction, aiding in the diagnosis of early caries.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PULP_VITALITY_TEST</LocID>
+				<Text>Pulp Vitality Test</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PULP_VITALITY_TEST_DESCRIPTION</LocID>
+				<Text>Assessing the responsiveness of the pulp nerve to external stimuli by applying cold, hot, or electrical stimulation to the tooth to determine if the pulp is healthy, inflamed, or necrotic.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PERIODONTAL_PROBING</LocID>
+				<Text>Periodontal Probing</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_PERIODONTAL_PROBING_DESCRIPTION</LocID>
+				<Text>Using a calibrated periodontal probe to measure the depth of the gingival sulcus or periodontal pocket and check for bleeding on probing to assess periodontal health and attachment loss.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_SIALOGRAPHY</LocID>
+				<Text>Sialography</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_SIALOGRAPHY_DESCRIPTION</LocID>
+				<Text>Injecting contrast medium into the salivary duct system followed by X-ray imaging. This examination clearly shows the morphology and structure of the ducts and any obstructions, used to diagnose sialoliths, strictures, or tumors.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_TMJ_PALPATION</LocID>
+				<Text>TMJ Palpation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_TMJ_PALPATION_DESCRIPTION</LocID>
+				<Text>The doctor places fingers over the patient's TMJ area to feel and assess for tenderness, clicking, crepitus, or abnormal movements during jaw opening and closing.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT</LocID>
+				<Text>Maximum Mouth Opening Measurement</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT_DESCRIPTION</LocID>
+				<Text>Using a ruler or caliper to measure the vertical distance between the incisal edges of the upper and lower incisors when the patient opens their mouth as wide as possible, to objectively assess the range of mandibular motion.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MASTICATORY_MUSCLE_PALPATION</LocID>
+				<Text>Masticatory Muscle Palpation</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_MASTICATORY_MUSCLE_PALPATION_DESCRIPTION</LocID>
+				<Text>The doctor systematically palpates the patient's masticatory muscles (e.g., masseter, temporalis) to locate tender points, trigger points, or taut bands, to diagnose conditions like myofascial pain.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_FACIAL_SENSORY_TEST</LocID>
+				<Text>Facial Sensory Test</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_DEN_FACIAL_SENSORY_TEST_DESCRIPTION</LocID>
+				<Text>Using tools like cotton wisps and pinpricks to test light touch, pain, and other sensations on the facial skin areas supplied by the trigeminal nerve to assess nerve function integrity.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

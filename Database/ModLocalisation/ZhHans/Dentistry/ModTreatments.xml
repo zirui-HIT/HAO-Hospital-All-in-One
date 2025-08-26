@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DENTISTRY_TREATMENTS">
+
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_MINIMALLY_INVASIVE_SURGERY</LocID>
+				<Text>微创切除手术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_MINIMALLY_INVASIVE_SURGERY_DESCRIPTION</LocID>
+				<Text>一种通过小切口或自然腔道进行的手术，旨在减少对周围组织的损伤和术后恢复时间。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_RESTORATIVE_FILLING</LocID>
+				<Text>龋齿充填术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_RESTORATIVE_FILLING_DESCRIPTION</LocID>
+				<Text>清除牙齿的龋坏组织，然后用人造材料（如树脂、合金等）填补缺损，以恢复牙齿的外形和功能。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_IMPACTED_TOOTH_EXTRACTION</LocID>
+				<Text>阻生智齿拔除术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_IMPACTED_TOOTH_EXTRACTION_DESCRIPTION</LocID>
+				<Text>通过外科手术方式，拔除未能正常萌出、对邻牙或周围组织造成或可能造成损害的第三磨牙。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_PERICORONAL_IRRIGATION</LocID>
+				<Text>冠周炎盲袋冲洗上药</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_PERICORONAL_IRRIGATION_DESCRIPTION</LocID>
+				<Text>使用生理盐水或消毒液冲洗智齿周围形成的牙龈盲袋，清除食物残渣和细菌，并在局部放置消炎药物以控制炎症。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_SIALOLITHOTOMY</LocID>
+				<Text>唾液腺导管结石取出术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_SIALOLITHOTOMY_DESCRIPTION</LocID>
+				<Text>手术切开唾液腺导管，取出造成导管堵塞、引发炎症和疼痛的结石。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_OCCLUSAL_SPLINT_THERAPY</LocID>
+				<Text>咬合板治疗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_OCCLUSAL_SPLINT_THERAPY_DESCRIPTION</LocID>
+				<Text>为患者制作一种可摘戴的牙科矫治器（咬合板），通过优化咬合关系、放松紧张的咀嚼肌来缓解颞下颌关节紊乱病的症状。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_TMJ_MANUAL_REDUCTION</LocID>
+				<Text>颞下颌关节脱位手法复位</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_TMJ_MANUAL_REDUCTION_DESCRIPTION</LocID>
+				<Text>医生通过特定的、无创的手法操作，将脱位的下颌骨髁状突引导回关节凹内，恢复正常的开闭口功能。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_MVD_FOR_TRIGEMINAL_NEURALGIA</LocID>
+				<Text>三叉神经微血管减压术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_MVD_FOR_TRIGEMINAL_NEURALGIA_DESCRIPTION</LocID>
+				<Text>一种精密的神经外科手术，通过开颅在显微镜下将压迫三叉神经根的血管分离开，从而根除电击样的面部剧痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_GUIDED_TISSUE_REGENERATION</LocID>
+				<Text>牙周引导组织再生术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_GUIDED_TISSUE_REGENERATION_DESCRIPTION</LocID>
+				<Text>一种牙周手术，通过在牙根表面放置生物屏障膜，引导牙周韧带和牙槽骨细胞优先再附着和生长，以修复因牙周炎造成的骨缺损。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_SALIVA_SUBSTITUTE_THERAPY</LocID>
+				<Text>人工唾液替代疗法</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_SALIVA_SUBSTITUTE_THERAPY_DESCRIPTION</LocID>
+				<Text>为口干症患者提供含有保湿和润滑成分的凝胶、喷雾剂或漱口水，以模拟天然唾液的功能，缓解口腔干燥不适。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_SISTRUNK_PROCEDURE</LocID>
+				<Text>甲状舌管囊肿Sistrunk手术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_SISTRUNK_PROCEDURE_DESCRIPTION</LocID>
+				<Text>一种专门用于切除甲状舌管囊肿的手术，其关键在于同时切除囊肿、甲状舌管的完整通道以及一小部分舌骨体，以最大程度降低复发率。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_TMJ_ANKYLOSIS_RELEASE_SURGERY</LocID>
+				<Text>关节强直松解术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_TMJ_ANKYLOSIS_RELEASE_SURGERY_DESCRIPTION</LocID>
+				<Text>通过外科手术切除或分离导致关节粘连或融合的纤维或骨组织，重建关节间隙，以恢复下颌的活动能力。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_COMPREHENSIVE_ORTHODONTIC_TREATMENT</LocID>
+				<Text>综合正畸治疗</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_COMPREHENSIVE_ORTHODONTIC_TREATMENT_DESCRIPTION</LocID>
+				<Text>利用固定矫治器（如托槽和弓丝）或隐形矫治器，对全口牙齿进行全面的重新排列，以纠正错颌畸形，达到美观、功能、健康的咬合关系。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_ORTHOGNATHIC_SURGERY</LocID>
+				<Text>正颌手术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_ORTHOGNATHIC_SURGERY_DESCRIPTION</LocID>
+				<Text>通过外科手术矫正下颌骨和上颌骨的关系，以改善咬合和面部外观。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_FRENULOTOMY</LocID>
+				<Text>系带成形术</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_DEN_FRENULOTOMY_DESCRIPTION</LocID>
+				<Text>通过手术切除或松解舌系带、唇系带等组织，以改善口腔功能或美观。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

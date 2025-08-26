@@ -326,7 +326,7 @@
 
         <MinDoctorLevel>2</MinDoctorLevel>
 
-        <PatientGenerationWeight>26</PatientGenerationWeight> 
+        <PatientGenerationWeight>26</PatientGenerationWeight>
 
         <FirstDoctorSpecialization>SKILL_DOC_SPEC_SH</FirstDoctorSpecialization>
 
@@ -2037,6 +2037,172 @@
 
         <DisplayIndex>86</DisplayIndex>
         <DiagnosisRoleIcon>431</DiagnosisRoleIcon>
+
+    </GameDBDepartment>
+
+    <!-- Dentistry -->
+
+    <GameDBDepartment ID="DPT_DENTISTRY">
+        <LockedByDefault>false</LockedByDefault>
+        <HospitalizationLockedByDefault>false</HospitalizationLockedByDefault>
+
+        <MinDoctorLevel>2</MinDoctorLevel>
+
+        <PatientGenerationWeight>28</PatientGenerationWeight>
+
+        <FirstDoctorSpecialization>SKILL_DOC_SPEC_DENTISTRY</FirstDoctorSpecialization>
+
+        <SecondDoctorSpecializations>
+            <SkillRef>SKILL_DOC_SPEC_ADVANCED_DIAGNOSIS</SkillRef>
+            <SkillRef>SKILL_DOC_SPEC_ANESTHESIOLOGY</SkillRef>
+            <SkillRef>SKILL_DOC_SPEC_DENTISTRY_SURGERY</SkillRef>
+        </SecondDoctorSpecializations>
+
+        <SurgerySpecialization>SKILL_DOC_SPEC_DENTISTRY_SURGERY</SurgerySpecialization>
+
+        <RequiredRoomsClinic>
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_DENTISTRY_OFFICE</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_WAITING</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_CLEANING_CLOSET</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_RECEPTION</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+        </RequiredRoomsClinic>
+
+        <SharedRoomsClinic>
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_WC</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_COMMON_ROOM</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_CORRIDOR</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_ELEVATOR_MARKER</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>2</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+        </SharedRoomsClinic>
+
+
+        <RequiredRoomsHospitalization>
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_ON_CALL_ROOM</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_NURSES_STATION</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_INPATIENT_WARD</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_HIGH_PRIORITY_INPATIENT_WARD</RoomDatabaseEntryRef>
+                <MinCount>1</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>DLC_ROOM_TYPE_LOUNGE</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+
+        </RequiredRoomsHospitalization>
+
+        <SharedRoomsHospitalization>
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>ROOM_TYPE_OPERATING_ROOM</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
+        </SharedRoomsHospitalization>
+
+
+        <MinClinicnDoctorsDay>1</MinClinicnDoctorsDay>
+        <MinStretchers>1</MinStretchers>
+
+        <MinHospitalizationDoctorsDay>3</MinHospitalizationDoctorsDay>
+        <MinHospitalizationDoctorNight>1</MinHospitalizationDoctorNight>
+        <MinHospitalizationNursesDay>3</MinHospitalizationNursesDay>
+        <MinHospitalizationNursesNight>1</MinHospitalizationNursesNight>
+
+        <MinSurgeonsDay>1</MinSurgeonsDay>
+        <MinAnestezilogistDay>1</MinAnestezilogistDay>
+        <MinSurgeryNurseDay>2</MinSurgeryNurseDay>
+
+        <IconID>1902</IconID>
+
+
+        <CustomIconAssetRef>ASSET_MOD_ICON_DEN</CustomIconAssetRef>
+        <CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_DEN_DARK</CustomIconLightBackgroundAssetRef>
+        <CustomIcon_0_BigAssetRef>ASSET_DEN_DPT_ICON_0</CustomIcon_0_BigAssetRef>
+        <CustomIcon_1_DarkBackgroundAssetRef>ASSET_DEN_DPT_ICON_1</CustomIcon_1_DarkBackgroundAssetRef>
+        <CustomIcon_2_LightBackgroundAssetRef>ASSET_DEN_DPT_ICON_2</CustomIcon_2_LightBackgroundAssetRef>
+        <CustomIcon_3_GrayedOutAssetRef>ASSET_DEN_DPT_ICON_3</CustomIcon_3_GrayedOutAssetRef>
+        <CustomIcon_4_SmallDarkBackgroundAssetRef>ASSET_DEN_DPT_ICON_4</CustomIcon_4_SmallDarkBackgroundAssetRef>
+        <CustomIcon_5_SmallGrayedOutAssetRef>ASSET_DEN_DPT_ICON_5</CustomIcon_5_SmallGrayedOutAssetRef>
+        <CustomIcon_6_SmallLightBackgroundAssetRef>ASSET_DEN_DPT_ICON_6</CustomIcon_6_SmallLightBackgroundAssetRef>
+
+
+        <PatientRounds>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </PatientRounds>
+
+        <PrefabTag>ui_prefab_emergency</PrefabTag>
+        <PrefabButtonIndex>1</PrefabButtonIndex>
+
+        <PrestigeModifierStaff>1.0</PrestigeModifierStaff>
+        <PrestigeModifierPatients>1.0</PrestigeModifierPatients>
+        <PrestigeModifierTreated>1.0</PrestigeModifierTreated>
+        <PrestigeModifierDead>1.0</PrestigeModifierDead>
+
+        <DisplayIndex>90</DisplayIndex>
+        <DiagnosisRoleIcon>389</DiagnosisRoleIcon>
 
     </GameDBDepartment>
 

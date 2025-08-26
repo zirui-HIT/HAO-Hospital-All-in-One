@@ -1298,16 +1298,9 @@
             </RequiredEquipmentList>
 
             <RequiredRoomTags>
-                <Tag>emergency_doctors_office</Tag>
-                <Tag>trauma_center</Tag>
+                <Tag>any_office</Tag>
                 <Tag>observation</Tag>
                 <Tag>icu</Tag>
-                <Tag>general_surgery_office</Tag>
-                <Tag>internal_medicine_office</Tag>
-                <Tag>cardiology_office</Tag>
-                <Tag>infectious_diseases_office</Tag>
-                <Tag>traumatology_office</Tag>
-                <Tag>otorhinolaryngology_office</Tag>
             </RequiredRoomTags>
 
             <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
@@ -7961,18 +7954,10 @@
                 </RequiredEquipment>
             </RequiredEquipmentList>
             <RequiredRoomTags>
-                <Tag>emergency_doctors_office</Tag>
+                <Tag>any_office</Tag>
                 <Tag>observation</Tag>
                 <Tag>icu</Tag>
-                <Tag>general_surgery_office</Tag>
-                <Tag>internal_medicine_office</Tag>
-                <Tag>orthopaedy_office</Tag>
-                <Tag>cardiology_office</Tag>
-                <Tag>neurology_office</Tag>
                 <Tag>trauma_center</Tag>
-                <Tag>infectious_diseases_office</Tag>
-                <Tag>traumatology_office</Tag>
-                <Tag>hem_office</Tag>
             </RequiredRoomTags>
             <ProcedureScript>ProcedureScriptExaminationSpecialEquipment</ProcedureScript>
             <AnimationSetupSitting>
@@ -8711,7 +8696,6 @@
             <DressLevel>HALF_TOP</DressLevel>
             <Biohazard>false</Biohazard>
             <Priority>95</Priority>
-            <DetachedDepartmentRef>DPT_OPHTHALMOLOGY</DetachedDepartmentRef>
         </Procedure>
         <ExaminationType>EXAMINATION</ExaminationType>
         <Cost>55</Cost>
@@ -9288,12 +9272,7 @@
                 <Tag>receipt</Tag>
             </RequiredRoomTags>
 
-            <ProcedureScript>ProcedureScriptExaminationGeneral</ProcedureScript>
-            <AnimationSetupSitting>
-                <AnimationNameIn>stand_look_in</AnimationNameIn>        <!-- TODO make new animation-->
-                <AnimationNameIdle>stand_look_idle</AnimationNameIdle>
-                <AnimationNameOut>stand_look_out</AnimationNameOut>
-            </AnimationSetupSitting>
+            <ProcedureScript>ProcedureScriptExaminationDoctorsInterview</ProcedureScript>
             <DressLevel>FULL</DressLevel>
             <Biohazard>false</Biohazard>
             <Priority>22</Priority>
@@ -9304,6 +9283,273 @@
 
         <CustomIconBigAssetRef>ASSET_MD_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_MD_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <!-- Dentistry -->
+
+    <GameDBExamination ID="EXM_DEN_LASER_FLUORESCENCE_DETECTION">
+        <AbbreviationLocID>EXM_DEN_LASER_FLUORESCENCE_DETECTION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_look_in</AnimationNameIn>
+                <AnimationNameIdle>stand_look_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_look_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>100</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1655</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DEN_PULP_VITALITY_TEST">
+        <AbbreviationLocID>EXM_DEN_PULP_VITALITY_TEST_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_oral_cavity_inspection_in</AnimationNameIn>
+                <AnimationNameIdle>stand_oral_cavity_inspection_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_oral_cavity_inspection_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>100</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1655</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DEN_PERIODONTAL_PROBING">
+        <AbbreviationLocID>EXM_DEN_PERIODONTAL_PROBING_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_oral_cavity_inspection_in</AnimationNameIn>
+                <AnimationNameIdle>stand_oral_cavity_inspection_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_oral_cavity_inspection_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <AnimationSetupLying>
+                <AnimationNameIn>stand_examination_in</AnimationNameIn>
+                <AnimationNameIdle>stand_examination_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_examination_out</AnimationNameOut>
+            </AnimationSetupLying>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>true</Biohazard>
+            <Priority>105</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1655</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DEN_SIALOGRAPHY">
+        <AbbreviationLocID>EXM_DEN_SIALOGRAPHY_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
+            <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredSkillsToPrescribe>
+            <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY</RequiredStatLabQualificationRef>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>x_ray_bed</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>x_ray_panel</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>x_ray_board</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>xray_viewer</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>x_ray_machine_anim</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+
+            <RequiredRoomTags>
+                <Tag>room_x_ray</Tag>
+            </RequiredRoomTags>
+
+            <ProcedureScript>ProcedureScriptExaminationXray</ProcedureScript>
+            <ProcedureAnimationState>LYING</ProcedureAnimationState>
+            <AnimationSetupLying>
+                <AnimationNameIn>move_start_upper_limb</AnimationNameIn>
+                <AnimationNameOut>move_end_upper_limb</AnimationNameOut>
+            </AnimationSetupLying>
+            <AnimationSetupSitting>
+                <AnimationNameIn>move_start_upper_limb</AnimationNameIn>
+                <AnimationNameOut>move_end_upper_limb</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>28</Priority>
+            <AnimationFrame>3</AnimationFrame>
+            <DetachedDepartmentRef>DPT_RADIOLOGY</DetachedDepartmentRef>
+        </Procedure>
+        <Cost>50</Cost>
+        <IconIndex>1681</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DEN_TMJ_PALPATION">
+        <AbbreviationLocID>EXM_DEN_TMJ_PALPATION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneral</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_physical_visual_exam_in</AnimationNameIn>
+                <AnimationNameIdle>stand_physical_visual_exam_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_physical_visual_exam_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>119</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1659</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT">
+        <AbbreviationLocID>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_oral_cavity_inspection_in</AnimationNameIn>
+                <AnimationNameIdle>stand_oral_cavity_inspection_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_oral_cavity_inspection_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>105</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1655</IconIndex>
+        <DurationHours>0</DurationHours>
+    </GameDBExamination>
+
+    <GameDBExamination ID="EXM_DEN_MASTICATORY_MUSCLE_PALPATION">
+        <AbbreviationLocID>EXM_DEN_MASTICATORY_MUSCLE_PALPATION_DESCRIPTION</AbbreviationLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            <RequiredRoomTags>
+                <Tag>dentistry_office</Tag>
+            </RequiredRoomTags>
+            <ProcedureScript>ProcedureScriptExaminationGeneral</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_physical_visual_exam_in</AnimationNameIn>
+                <AnimationNameIdle>stand_physical_visual_exam_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_physical_visual_exam_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>FULL</DressLevel>
+            <Biohazard>false</Biohazard>
+            <Priority>119</Priority>
+        </Procedure>
+        <ExaminationType>EXAMINATION</ExaminationType>
+        <Cost>50</Cost>
+        <IconIndex>1659</IconIndex>
         <DurationHours>0</DurationHours>
     </GameDBExamination>
 

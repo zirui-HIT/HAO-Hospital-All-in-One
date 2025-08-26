@@ -21,6 +21,7 @@ I hope you have a great time playing :D
 * [Hematology](https://steamcommunity.com/sharedfiles/filedetails/?id=3163091222)
 * **Dermatology and Venereology**: Based on [Sexual Health Department](https://steamcommunity.com/sharedfiles/filedetails/?id=1872963449), adding 20+ dermatology-related diagnostics, symptoms, examinations, and treatments to keep the inpatient department busy!
 * **Ophthalmology**: A department I created myself, focusing on treating eye-related diseases, including 50+ ophthalmological conditions and their related symptoms, examinations, and treatments!
+* **Oral and Maxillofacial Surgery**: Original department by me, with 40+ oral and maxillofacial diseases, symptoms, examinations, and treatments! (NEW+++)
 
 ## Additional Content All in One
 * [More Professions](https://steamcommunity.com/sharedfiles/filedetails/?id=1804176680)
@@ -72,3 +73,8 @@ Besides translating all the Chinese content myself, the translations for other M
 | Russian | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
 | Turkish | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | Traditional Chinese| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+## How to Install
+Before installing this MOD, you need to unsubscribe from the individual MODs that have been integrated into this pack.
+
+If you have a save that relies on integrated department MODs, first close that department and the emergency department. After all patients from that department have left, you can unsubscribe from the previous department MOD and then subscribe to this one!

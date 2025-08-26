@@ -13602,7 +13602,6 @@
         </Examinations>
 
         <Treatments>
-            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
             <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
         </Treatments>
 
@@ -13825,4 +13824,223 @@
         <IconIndex>2168</IconIndex>
     </GameDBSymptom>
 
-    </Database>
+    <!-- Dentistry -->
+
+    <GameDBSymptom ID="SYM_DEN_OROFACIAL_PAIN">
+        <DescriptionLocID>SYM_DEN_OROFACIAL_PAIN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1459</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_OROFACIAL_SWELLING">
+        <DescriptionLocID>SYM_DEN_OROFACIAL_SWELLING_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>2142</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_ORAL_FUNCTION_DIFFICULTY">
+        <DescriptionLocID>SYM_DEN_ORAL_FUNCTION_DIFFICULTY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>30</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1565</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_ABNORMAL_TOOTH_CONDITION">
+        <DescriptionLocID>SYM_DEN_ABNORMAL_TOOTH_CONDITION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+            <ExaminationRef>EXM_X_RAY_HEAD</ExaminationRef>
+            <ExaminationRef>EXM_DEN_PULP_VITALITY_TEST</ExaminationRef>
+        </Examinations>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+
+        <IconIndex>1595</IconIndex>
+        <CustomIconBigAssetRef>ASSET_DEN_DIA_TOOTH_DISEASE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_DEN_DIA_TOOTH_DISEASE_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_RADIOGRAPHIC_ABNORMALITY">
+        <DescriptionLocID>SYM_DEN_RADIOGRAPHIC_ABNORMALITY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_X_RAY_HEAD</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1595</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_ABNORMAL_ORAL_SECRETION">
+        <DescriptionLocID>SYM_DEN_ABNORMAL_ORAL_SECRETION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <RiskOfCollapseStartHours>48</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>96</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>35</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1393</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_MALOCCLUSION_OR_ASYMMETRY">
+        <DescriptionLocID>SYM_DEN_MALOCCLUSION_OR_ASYMMETRY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DEN_COMPREHENSIVE_ORTHODONTIC_TREATMENT</TreatmentRef>
+        </Treatments>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1391</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_TMJ_SYMPTOMS">
+        <DescriptionLocID>SYM_DEN_TMJ_SYMPTOMS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DEN_OCCLUSAL_SPLINT_THERAPY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>15</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1459</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_MUCOSAL_LESION">
+        <DescriptionLocID>SYM_DEN_MUCOSAL_LESION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DEN_MINIMALLY_INVASIVE_SURGERY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1353</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_GINGIVAL_ABNORMALITY">
+        <DescriptionLocID>SYM_DEN_GINGIVAL_ABNORMALITY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
+            <ExaminationRef>EXM_DEN_PERIODONTAL_PROBING</ExaminationRef>
+        </Examinations>
+        <ShameLevel>20</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+
+        <IconIndex>1627</IconIndex>
+        <CustomIconBigAssetRef>ASSET_DEN_DIA_GUMS_DISEASE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_DEN_DIA_GUMS_DISEASE_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_NEUROLOGICAL_SYMPTOM">
+        <DescriptionLocID>SYM_DEN_NEUROLOGICAL_SYMPTOM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_COURSE_OF_MEDICATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>10</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1393</IconIndex>
+    </GameDBSymptom>
+
+    <GameDBSymptom ID="SYM_DEN_RELEVANT_HISTORY">
+        <DescriptionLocID>SYM_DEN_RELEVANT_HISTORY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+
+        <CustomIconBigAssetRef>ASSET_MD_EXM_ICON001_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MD_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
+        <IconIndex>1901</IconIndex>
+    </GameDBSymptom>
+
+</Database>

@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DENTISTRY_SYMPTOMS">
+
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TOOTH_CAVITY_DETECTED</LocID>
+				<Text>探及牙体缺损</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TOOTH_CAVITY_DETECTED_DESCRIPTION</LocID>
+				<Text>通过器械探查或影像学检查，发现牙齿硬组织存在脱矿或已形成实质性的龋洞。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RADIOGRAPHIC_IMPACTION</LocID>
+				<Text>影像学示智齿阻生</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RADIOGRAPHIC_IMPACTION_DESCRIPTION</LocID>
+				<Text>X光片或CT影像显示第三磨牙未能正常萌出，存在位置、角度异常或被骨、软组织阻挡。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_OPERCULUM_INFLAMMATION</LocID>
+				<Text>冠周龈瓣红肿溢脓</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_OPERCULUM_INFLAMMATION_DESCRIPTION</LocID>
+				<Text>覆盖在部分萌出牙齿上的牙龈瓣出现明显的红、肿、热、痛，挤压时可见脓液流出。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_DIFFUSE_FACENECK_SWELLING</LocID>
+				<Text>面颈部弥漫性坚硬肿胀</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_DIFFUSE_FACENECK_SWELLING_DESCRIPTION</LocID>
+				<Text>面部或颈部出现边界不清、迅速扩大的肿胀，触感坚硬如木板，伴有剧痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_JAW_BONE_DESTRUCTION</LocID>
+				<Text>影像学示颌骨破坏</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_JAW_BONE_DESTRUCTION_DESCRIPTION</LocID>
+				<Text>X光片或CT影像显示颌骨骨质出现不规则的低密度区、虫蚀样改变或有死骨形成。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PAINFUL_GLAND_SWELLING_WHILE_EATING</LocID>
+				<Text>进食时唾液腺肿痛</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PAINFUL_GLAND_SWELLING_WHILE_EATING_DESCRIPTION</LocID>
+				<Text>患者在进食或看到食物时，颌下或耳前区域的唾液腺出现反复的、疼痛性的肿胀。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TRANSLUCENT_LOWER_LIP_CYST</LocID>
+				<Text>下唇蓝色囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TRANSLUCENT_LOWER_LIP_CYST_DESCRIPTION</LocID>
+				<Text>下唇黏膜出现一个表面光滑、有波动感、呈淡蓝色的半透明囊性肿物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_BLUISH_CYST_FLOOR_OF_MOUTH</LocID>
+				<Text>口底蓝色囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_BLUISH_CYST_FLOOR_OF_MOUTH_DESCRIPTION</LocID>
+				<Text>口底舌系带一侧出现一个较大的、有波动感、呈淡蓝色的囊性肿物，状如蛤蟆气囊。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_AT_NONVITAL_TOOTH_APEX</LocID>
+				<Text>无髓牙根尖透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_AT_NONVITAL_TOOTH_APEX_DESCRIPTION</LocID>
+				<Text>影像学检查显示，在一个牙髓已坏死的牙齿根尖区域，存在一个边界清晰的圆形或卵圆形骨质低密度区。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_AROUND_UNERUPTED_TOOTH_CROWN</LocID>
+				<Text>未萌牙冠周透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_AROUND_UNERUPTED_TOOTH_CROWN_DESCRIPTION</LocID>
+				<Text>影像学检查显示，一个未萌出牙齿的牙冠完全被一个边界清晰的囊性低密度区所包绕。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ANTERIOR_CROSSBITE_AND_CONCAVE_PROFILE</LocID>
+				<Text>下颌前突伴反合凹面</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ANTERIOR_CROSSBITE_AND_CONCAVE_PROFILE_DESCRIPTION</LocID>
+				<Text>患者下颌明显前伸，导致下前牙咬在上前牙的前方（前牙反合），侧面观呈“月亮脸”或凹面型。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PROTRUDING_UPPER_TEETH_AND_CONVEX_PROFILE</LocID>
+				<Text>上颌前突伴凸面型</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PROTRUDING_UPPER_TEETH_AND_CONVEX_PROFILE_DESCRIPTION</LocID>
+				<Text>患者上颌明显前突，导致上前牙外凸（龅牙），侧面观呈凸面型。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RECEDING_CHIN_AND_SMALL_JAW</LocID>
+				<Text>小下颌伴下巴后缩</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RECEDING_CHIN_AND_SMALL_JAW_DESCRIPTION</LocID>
+				<Text>患者下颌骨发育不足，外观上表现为下巴短小且明显后缩。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_FACIAL_ASYMMETRY_AND_CHIN_DEVIATION</LocID>
+				<Text>面部不对称下巴偏斜</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_FACIAL_ASYMMETRY_AND_CHIN_DEVIATION_DESCRIPTION</LocID>
+				<Text>患者正面观察时，两侧面部轮廓不对称，且下巴中点明显偏向一侧。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TMJ_TRIAD</LocID>
+				<Text>关节区痛伴弹响开口异常</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TMJ_TRIAD_DESCRIPTION</LocID>
+				<Text>患者同时出现颞下颌关节区域疼痛、下颌运动时有关节声响（如弹响、摩擦音），以及张口或闭口活动异常。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_INABILITY_TO_CLOSE_MOUTH_AFTER_WIDE_OPENING</LocID>
+				<Text>张口后无法闭合</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_INABILITY_TO_CLOSE_MOUTH_AFTER_WIDE_OPENING_DESCRIPTION</LocID>
+				<Text>患者在大张口（如打哈欠）后，下巴卡在张开的位置，无法自行闭上嘴巴。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PAROXYSMAL_ELECTRIC_SHOCK_FACE_PAIN</LocID>
+				<Text>面部电击样剧痛</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PAROXYSMAL_ELECTRIC_SHOCK_FACE_PAIN_DESCRIPTION</LocID>
+				<Text>面部单侧出现短暂、反复、如闪电或刀割般的剧烈疼痛，可由轻触等动作诱发。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_LIP_INFLAMMATION_WITH_SCALING_AND_FISSURING</LocID>
+				<Text>唇炎伴干燥脱屑</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_LIP_INFLAMMATION_WITH_SCALING_AND_FISSURING_DESCRIPTION</LocID>
+				<Text>唇部红肿，同时伴有明显的干燥、脱皮、裂口和结痂。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TONGUE_INFLAMMATION_PAPILLAE_ATROPHY</LocID>
+				<Text>舌炎伴光滑舌</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TONGUE_INFLAMMATION_PAPILLAE_ATROPHY_DESCRIPTION</LocID>
+				<Text>舌部出现炎症，舌背的舌乳头萎缩消失，导致舌面异常光滑，可能呈红色或苍白色。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ATTACHMENT_LOSS_AND_BONE_LOSS</LocID>
+				<Text>牙周附着丧失骨吸收</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ATTACHMENT_LOSS_AND_BONE_LOSS_DESCRIPTION</LocID>
+				<Text>临床或影像学检查证实，连接牙齿和牙槽骨的牙周组织已被破坏，并伴随牙槽骨的吸收。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_REVERSIBLE_GINGIVAL_INFLAMMATION_NO_ATTACHMENT_LOSS</LocID>
+				<Text>无附着丧失的牙龈炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_REVERSIBLE_GINGIVAL_INFLAMMATION_NO_ATTACHMENT_LOSS_DESCRIPTION</LocID>
+				<Text>牙龈存在红肿、易出血的炎症表现，但深层的牙周支持组织（如牙槽骨）尚未被破坏。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RECURRENT_PAINFUL_OVAL_ORAL_ULCERS</LocID>
+				<Text>复发性口腔疼痛性溃疡</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RECURRENT_PAINFUL_OVAL_ORAL_ULCERS_DESCRIPTION</LocID>
+				<Text>口腔黏膜反复出现边界清晰、中心凹陷的疼痛性溃疡，具有周期性复发的特点。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_SICCA_SYNDROME_WITH_AUTOANTIBODIES</LocID>
+				<Text>口眼干伴抗体阳性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_SICCA_SYNDROME_WITH_AUTOANTIBODIES_DESCRIPTION</LocID>
+				<Text>患者持续感到口干和眼干，同时血液检查发现与干燥综合征相关的自身抗体（如SSA/SSB）。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ENLARGED_TONGUE_IMPRINTS</LocID>
+				<Text>巨舌伴齿痕</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ENLARGED_TONGUE_IMPRINTS_DESCRIPTION</LocID>
+				<Text>舌体异常肿大，以至于舌头边缘被牙齿压迫，形成明显的波浪状齿痕。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_SHORT_LINGUAL_FRENUM_RESTRICTING_MOVEMENT</LocID>
+				<Text>舌系带短致活动受限</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_SHORT_LINGUAL_FRENUM_RESTRICTING_MOVEMENT_DESCRIPTION</LocID>
+				<Text>连接舌底和口底的舌系带过短或过紧，导致舌头无法正常前伸或上抬。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PROGRESSIVE_UNILATERAL_FACIAL_TISSUE_LOSS</LocID>
+				<Text>进行性半侧面部萎缩</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PROGRESSIVE_UNILATERAL_FACIAL_TISSUE_LOSS_DESCRIPTION</LocID>
+				<Text>单侧面部的软硬组织随着时间推移逐渐萎缩、变薄，导致严重的面部不对称。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RADIOLUCENT_LESION_WITH_KERATINIZED_LINING</LocID>
+				<Text>囊壁病理示角化</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RADIOLUCENT_LESION_WITH_KERATINIZED_LINING_DESCRIPTION</LocID>
+				<Text>对颌骨内的囊性病变进行组织病理学检查，发现其囊壁内衬为特征性的角化上皮。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_WITH_GHOST_CELLS_AND_CALCIFICATION</LocID>
+				<Text>囊肿病理示影细胞</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_WITH_GHOST_CELLS_AND_CALCIFICATION_DESCRIPTION</LocID>
+				<Text>对颌骨内的囊性病变进行组织病理学检查，发现其中含有特征性的“影细胞”和钙化物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_WITH_GLANDULAR_STRUCTURES</LocID>
+				<Text>囊肿病理示腺样结构</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_WITH_GLANDULAR_STRUCTURES_DESCRIPTION</LocID>
+				<Text>对颌骨内的囊性病变进行组织病理学检查，发现其上皮内含有黏液细胞和腺管样结构。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_IN_PLACE_OF_MISSING_TOOTH</LocID>
+				<Text>缺失牙位囊性透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_IN_PLACE_OF_MISSING_TOOTH_DESCRIPTION</LocID>
+				<Text>影像学检查显示，在一个先天缺失牙齿的位置上，出现了一个囊性的骨质低密度区。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_LATERAL_TO_VITAL_TOOTH_ROOT</LocID>
+				<Text>活力牙根侧方囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_CYST_LATERAL_TO_VITAL_TOOTH_ROOT_DESCRIPTION</LocID>
+				<Text>影像学检查显示，在一个牙髓有活力的正常牙齿的牙根侧方，出现了一个囊性病变。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_HEART_SHAPED_RADIOLUCENCY_ANTERIOR_MAXILLA</LocID>
+				<Text>上颌中线心形透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_HEART_SHAPED_RADIOLUCENCY_ANTERIOR_MAXILLA_DESCRIPTION</LocID>
+				<Text>影像学检查显示，在上颌前牙中线部位存在一个心形的、边界清晰的骨质低密度区。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_INVERTED_BETWEEN_MAXILLARY_INCISOR_CANINE</LocID>
+				<Text>上颌牙间倒梨形透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_INVERTED_BETWEEN_MAXILLARY_INCISOR_CANINE_DESCRIPTION</LocID>
+				<Text>影像学检查显示，在上颌侧切牙和尖牙之间存在一个倒梨形的、边界清晰的骨质低密度区。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MIDLINE_PALATAL_SWELLING_AND_RADIOLUCENCY</LocID>
+				<Text>硬腭中线肿胀伴透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MIDLINE_PALATAL_SWELLING_AND_RADIOLUCENCY_DESCRIPTION</LocID>
+				<Text>患者硬腭中线出现肿块，同时影像学检查显示该处存在骨内低密度区。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MIDLINE_MANDIBULAR_RADIOLUCENCY</LocID>
+				<Text>下颌中线根尖下透射区</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MIDLINE_MANDIBULAR_RADIOLUCENCY_DESCRIPTION</LocID>
+				<Text>影像学检查显示，在下颌中切牙根尖下方的中线位置，存在一个骨质低密度区。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_DOUGHY_MIDLINE_CYST_IN_FLOOR_OF_MOUTH</LocID>
+				<Text>口底中线面团样囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_DOUGHY_MIDLINE_CYST_IN_FLOOR_OF_MOUTH_DESCRIPTION</LocID>
+				<Text>口底中线区域出现一个生长缓慢的囊性肿物，触感柔韧，类似面团。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PASTEY_CYST_IN_FLOOR_OF_MOUTH</LocID>
+				<Text>口底或面颈部糊状囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PASTEY_CYST_IN_FLOOR_OF_MOUTH_DESCRIPTION</LocID>
+				<Text>口底或面颈部出现囊性肿物，其内容物为角蛋白，呈白色糊状或干酪样。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_LATERAL_NECK_SWELLING_ANTERIOR_TO_SCM</LocID>
+				<Text>胸锁乳突肌前缘囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_LATERAL_NECK_SWELLING_ANTERIOR_TO_SCM_DESCRIPTION</LocID>
+				<Text>颈部侧方，在胸锁乳突肌的前缘位置，出现一个边界清晰的囊性肿物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MIDLINE_NECK_CYST_MOVES_WITH_SWALLOWING</LocID>
+				<Text>颈中线囊肿随吞咽移动</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MIDLINE_NECK_CYST_MOVES_WITH_SWALLOWING_DESCRIPTION</LocID>
+				<Text>颈部正中线上出现一个囊性肿物，该肿物在患者做吞咽动作或伸舌时会随之上下移动。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TMJ_CLICKING_AND_LOCKING</LocID>
+				<Text>关节弹响或绞锁</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TMJ_CLICKING_AND_LOCKING_DESCRIPTION</LocID>
+				<Text>颞下颌关节在张口或闭口过程中，出现清脆的弹响声或发生卡顿，无法顺利完成动作。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PROGRESSIVE_INABILITY_TO_OPEN_MOUTH</LocID>
+				<Text>进行性张口受限</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_PROGRESSIVE_INABILITY_TO_OPEN_MOUTH_DESCRIPTION</LocID>
+				<Text>患者张开嘴巴的能力随着时间推移越来越差，最终可能导致完全无法张口。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MASTICATORY_MUSCLE_PAIN_WITH_TRIGGER_POINTS</LocID>
+				<Text>咀嚼肌疼痛伴激痛点</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MASTICATORY_MUSCLE_PAIN_WITH_TRIGGER_POINTS_DESCRIPTION</LocID>
+				<Text>面部咀嚼肌区域出现酸痛或钝痛，按压肌肉可找到一个或多个剧痛点，并能引发他处疼痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_OROFACIAL_PAIN</LocID>
+				<Text>口腔颌面部疼痛</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_OROFACIAL_PAIN_DESCRIPTION</LocID>
+				<Text>患者感到牙齿、牙龈、颌骨、面部肌肉、关节等部位出现疼痛不适。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_OROFACIAL_SWELLING</LocID>
+				<Text>口腔颌面部肿胀或肿块</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_OROFACIAL_SWELLING_DESCRIPTION</LocID>
+				<Text>患者口腔内或面部、颈部出现肉眼可见的肿胀，或可触及异常的肿块。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ORAL_FUNCTION_DIFFICULTY</LocID>
+				<Text>口腔功能障碍</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ORAL_FUNCTION_DIFFICULTY_DESCRIPTION</LocID>
+				<Text>患者在执行张口、闭口、咀嚼、吞咽或说话等基本口腔功能时感到困难或受限。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ABNORMAL_TOOTH_CONDITION</LocID>
+				<Text>牙齿异常</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ABNORMAL_TOOTH_CONDITION_DESCRIPTION</LocID>
+				<Text>一颗或多颗牙齿出现对冷热酸甜刺激敏感、松动、颜色改变或牙髓失去活力等情况。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RADIOGRAPHIC_ABNORMALITY</LocID>
+				<Text>颌骨影像学异常</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RADIOGRAPHIC_ABNORMALITY_DESCRIPTION</LocID>
+				<Text>X光片或CT等影像学检查显示颌骨区域存在异常的低密度、高密度或混合密度影。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ABNORMAL_ORAL_SECRETION</LocID>
+				<Text>口腔异常分泌物或溢脓</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_ABNORMAL_ORAL_SECRETION_DESCRIPTION</LocID>
+				<Text>口腔内出现异常分泌物，如牙龈或黏膜溢脓、流涎过多或有异常味道的液体流出。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MALOCCLUSION_OR_ASYMMETRY</LocID>
+				<Text>咬合错乱或面部不对称</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MALOCCLUSION_OR_ASYMMETRY_DESCRIPTION</LocID>
+				<Text>患者的上下牙齿咬合关系异常，或面部外观出现不对称。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TMJ_SYMPTOMS</LocID>
+				<Text>颞下颌关节症状(弹响/疼痛/绞锁)</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_TMJ_SYMPTOMS_DESCRIPTION</LocID>
+				<Text>耳前关节区域出现疼痛、弹响、摩擦音，或在运动中发生卡顿（绞锁）。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MUCOSAL_LESION</LocID>
+				<Text>口腔黏膜病损</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_MUCOSAL_LESION_DESCRIPTION</LocID>
+				<Text>口腔内的黏膜（如唇、颊、舌、腭）出现溃疡、糜烂、白色或红色斑块、水疱或颜色异常。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_GINGIVAL_ABNORMALITY</LocID>
+				<Text>牙龈异常</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_GINGIVAL_ABNORMALITY_DESCRIPTION</LocID>
+				<Text>牙龈组织出现刷牙或自发性出血、颜色变红、肿胀或向牙根方向退缩。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_NEUROLOGICAL_SYMPTOM</LocID>
+				<Text>面部神经症状</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_NEUROLOGICAL_SYMPTOM_DESCRIPTION</LocID>
+				<Text>患者感到面部皮肤、唇部或舌部出现麻木、感觉减退、针刺感或发作性剧痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RELEVANT_HISTORY</LocID>
+				<Text>口腔颌面相关病史</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_DEN_RELEVANT_HISTORY_DESCRIPTION</LocID>
+				<Text>患者有口腔颌面部外伤史、病损反复发作史或存在咬唇、偏侧咀嚼等不良习惯。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_DENTISTRY_DIAGNOSES">
+
+		<LanguageCode>zh-Hans</LanguageCode>
+		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+		<Contributors>
+			<Name>WDZRMPCBIT</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_CARIES</LocID>
+				<Text>龋齿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_CARIES_DESCRIPTION</LocID>
+				<Text>一种由细菌引起的牙齿硬组织进行性破坏的疾病，俗称“蛀牙”。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_IMPACTED_WISDOM_TOOTH</LocID>
+				<Text>阻生智齿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_IMPACTED_WISDOM_TOOTH_DESCRIPTION</LocID>
+				<Text>第三磨牙（智齿）由于萌出空间不足、位置异常或其他障碍，未能正常、完整地长出到牙列中。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_PERICORONITIS</LocID>
+				<Text>智齿冠周炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_PERICORONITIS_DESCRIPTION</LocID>
+				<Text>部分萌出的智齿牙冠周围的软组织（龈瓣）发生的炎症和感染。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MAXILLOFACIAL_SPACE_INFECTION</LocID>
+				<Text>口腔颌面部间隙感染</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MAXILLOFACIAL_SPACE_INFECTION_DESCRIPTION</LocID>
+				<Text>源于口腔的感染扩散到面部、颈部潜在的筋膜间隙中，形成弥漫性炎症或脓肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_OSTEOMYELITIS_OF_JAW</LocID>
+				<Text>颌骨骨髓炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_OSTEOMYELITIS_OF_JAW_DESCRIPTION</LocID>
+				<Text>颌骨的骨质、骨髓和骨膜发生的炎症性反应，可导致骨组织坏死和破坏。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_SIALOLITHIASIS</LocID>
+				<Text>涎石病</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_SIALOLITHIASIS_DESCRIPTION</LocID>
+				<Text>唾液腺导管或腺体内形成钙化的结石，阻塞唾液排出，常在进食时引发腺体肿痛。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MUCOCELE</LocID>
+				<Text>粘液囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MUCOCELE_DESCRIPTION</LocID>
+				<Text>小唾液腺导管因损伤破裂，导致黏液外漏至周围组织中形成的囊性肿物，常见于下唇。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_RANULA</LocID>
+				<Text>舌下腺囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_RANULA_DESCRIPTION</LocID>
+				<Text>舌下腺发生的粘液囊肿，表现为口底一侧的蓝色囊性肿物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_RADICULAR_CYST</LocID>
+				<Text>根端囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_RADICULAR_CYST_DESCRIPTION</LocID>
+				<Text>由于牙髓坏死，根尖周组织发生慢性炎症，刺激上皮增生而形成的囊肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_DENTIGEROUS_CYST</LocID>
+				<Text>含牙囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_DENTIGEROUS_CYST_DESCRIPTION</LocID>
+				<Text>包裹在未萌出牙齿牙冠周围的牙源性囊肿，由成釉器缩余上皮发展而来。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MANDIBULAR_PROGNATHISM</LocID>
+				<Text>下颌前突畸形</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MANDIBULAR_PROGNATHISM_DESCRIPTION</LocID>
+				<Text>一种颌骨发育畸形，表现为下颌骨相对于上颌骨或颅底过度发育，形成“地包天”面容。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MAXILLARY_PROGNATHISM</LocID>
+				<Text>上颌前突畸形</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MAXILLARY_PROGNATHISM_DESCRIPTION</LocID>
+				<Text>一种颌骨发育畸形，表现为上颌骨相对于下颌骨或颅底过度发育，形成“龅牙”面容。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MICROGNATHIA</LocID>
+				<Text>小下颌畸形</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MICROGNATHIA_DESCRIPTION</LocID>
+				<Text>下颌骨发育不全，导致下颌短小后缩，影响面部轮廓和功能。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MANDIBULAR_DEVIATION</LocID>
+				<Text>偏颌畸形</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MANDIBULAR_DEVIATION_DESCRIPTION</LocID>
+				<Text>下颌骨两侧发育不对称，导致颏部中线偏斜，造成面部不对称。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_TEMPOROMANDIBULAR_DISORDER</LocID>
+				<Text>颞下颌关节紊乱病</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_TEMPOROMANDIBULAR_DISORDER_DESCRIPTION</LocID>
+				<Text>影响颞下颌关节、咀嚼肌及相关结构的系列功能性或病理性问题的总称。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_TEMPOROMANDIBULAR_DISLOCATION</LocID>
+				<Text>颞下颌关节脱位</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_TEMPOROMANDIBULAR_DISLOCATION_DESCRIPTION</LocID>
+				<Text>下颌骨的髁状突滑出关节凹之外且不能自行复位，导致患者无法闭口。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_TRIGEMINAL_NEURALGIA</LocID>
+				<Text>三叉神经痛</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_TRIGEMINAL_NEURALGIA_DESCRIPTION</LocID>
+				<Text>三叉神经分布区域内反复发作的、短暂的、电击样的剧烈疼痛，常有触发点。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_CHEILITIS</LocID>
+				<Text>唇炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_CHEILITIS_DESCRIPTION</LocID>
+				<Text>发生在唇部的各类炎症性疾病的总称，表现为红肿、干燥、脱屑、皲裂等。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GLOSSITIS</LocID>
+				<Text>舌炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GLOSSITIS_DESCRIPTION</LocID>
+				<Text>舌部的炎症性病变，可表现为舌痛、肿胀、颜色改变及舌乳头萎缩。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_PERIODONTITIS</LocID>
+				<Text>牙周炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_PERIODONTITIS_DESCRIPTION</LocID>
+				<Text>由牙菌斑引起的牙周支持组织（牙龈、牙周膜、牙槽骨）的慢性感染性疾病，可导致牙齿松动和脱落。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GINGIVITIS</LocID>
+				<Text>牙龈炎</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GINGIVITIS_DESCRIPTION</LocID>
+				<Text>局限于牙龈组织的炎症，表现为牙龈红肿、易出血，但尚未侵犯深层牙周组织。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_APHTHOUS_ULCER</LocID>
+				<Text>复发性阿弗他溃疡</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_APHTHOUS_ULCER_DESCRIPTION</LocID>
+				<Text>口腔黏膜上反复出现的圆形或椭圆形疼痛性溃疡，具有自愈性和周期性复发的特点。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_SJOGRENS_SYNDROME</LocID>
+				<Text>干燥综合征</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_SJOGRENS_SYNDROME_DESCRIPTION</LocID>
+				<Text>一种主要累及外分泌腺体的慢性自身免疫性疾病，典型表现为口干、眼干。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MACROGLOSSIA</LocID>
+				<Text>巨舌症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MACROGLOSSIA_DESCRIPTION</LocID>
+				<Text>舌体体积异常增大，可影响语言、吞咽和呼吸功能。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_ANKYLOGLOSSIA</LocID>
+				<Text>舌系带过短</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_ANKYLOGLOSSIA_DESCRIPTION</LocID>
+				<Text>舌系带先天性发育异常，导致其过短、过厚，从而限制舌头的正常活动。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_HEMIFACIAL_ATROPHY</LocID>
+				<Text>面半侧萎缩</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_HEMIFACIAL_ATROPHY_DESCRIPTION</LocID>
+				<Text>一种罕见的进行性疾病，导致单侧面部皮肤、皮下组织、肌肉乃至骨骼的萎缩。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_ODONTOGENIC_KERATOCYST</LocID>
+				<Text>牙源性角化囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_ODONTOGENIC_KERATOCYST_DESCRIPTION</LocID>
+				<Text>一种具有特定组织学特征（囊壁有角化）的牙源性囊肿，生长具有侵袭性且复发率高。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_CALCIFYING_ODONTOGENIC_CYST</LocID>
+				<Text>钙化性牙源性囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_CALCIFYING_ODONTOGENIC_CYST_DESCRIPTION</LocID>
+				<Text>一种罕见的牙源性病变，组织学特征为存在“影细胞”和不同程度的钙化物。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GLANDULAR_ODONTOGENIC_CYST</LocID>
+				<Text>腺源性牙源性囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GLANDULAR_ODONTOGENIC_CYST_DESCRIPTION</LocID>
+				<Text>一种罕见的、具有局部侵袭性的牙源性囊肿，组织学上表现出腺样分化特征。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_PRIMORDIAL_CYST</LocID>
+				<Text>始基囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_PRIMORDIAL_CYST_DESCRIPTION</LocID>
+				<Text>由牙胚的星网状层液化变性而在牙齿发育前形成，通常占据了一个本应有牙齿的位置。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_LATERAL_PERIODONTAL_CYST</LocID>
+				<Text>侧方牙周囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_LATERAL_PERIODONTAL_CYST_DESCRIPTION</LocID>
+				<Text>位于有活力的牙齿根部侧方的非炎症性牙源性囊肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_NASOPALATINE_DUCT_CYST</LocID>
+				<Text>鼻腭管囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_NASOPALATINE_DUCT_CYST_DESCRIPTION</LocID>
+				<Text>发生于上颌骨切牙管内的最常见的非牙源性囊肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GLOBULOMAXILLARY_CYST</LocID>
+				<Text>球上颌囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_GLOBULOMAXILLARY_CYST_DESCRIPTION</LocID>
+				<Text>位于上颌侧切牙与尖牙之间的裂隙囊肿，影像学上常呈倒梨形。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MEDIAN_PALATAL_CYST</LocID>
+				<Text>正中腭囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MEDIAN_PALATAL_CYST_DESCRIPTION</LocID>
+				<Text>发生于硬腭中线部位的罕见非牙源性囊肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MEDIAN_MANDIBULAR_CYST</LocID>
+				<Text>正中下颌囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MEDIAN_MANDIBULAR_CYST_DESCRIPTION</LocID>
+				<Text>发生于下颌骨联合部中线的罕见非牙源性囊肿。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_DERMOID_CYST</LocID>
+				<Text>皮样囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_DERMOID_CYST_DESCRIPTION</LocID>
+				<Text>一种含有皮肤附件（如毛囊、皮脂腺）的囊肿，在口腔颌面部常发生于口底。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_EPIDERMOID_CYST</LocID>
+				<Text>表皮样囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_EPIDERMOID_CYST_DESCRIPTION</LocID>
+				<Text>囊壁由表皮构成、不含皮肤附件的囊肿，内容物为角蛋白。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_BRANCHIAL_CLEFT_CYST</LocID>
+				<Text>鳃裂囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_BRANCHIAL_CLEFT_CYST_DESCRIPTION</LocID>
+				<Text>源于胚胎期鳃弓结构未完全退化而形成的先天性囊肿，常位于颈部侧方。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_THYROGLOSSAL_DUCT_CYST</LocID>
+				<Text>甲状舌管囊肿</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_THYROGLOSSAL_DUCT_CYST_DESCRIPTION</LocID>
+				<Text>源于胚胎期甲状舌管未完全退化而形成的先天性囊肿，常位于颈部中线。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_DISC_DISPLACEMENT</LocID>
+				<Text>关节盘移位</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_DISC_DISPLACEMENT_DESCRIPTION</LocID>
+				<Text>颞下颌关节内的关节盘位置异常，可导致关节弹响、疼痛或张口受限。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_ANKYLOSIS_OF_TMJ</LocID>
+				<Text>颞下颌关节强直</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_ANKYLOSIS_OF_TMJ_DESCRIPTION</LocID>
+				<Text>由于关节内发生纤维性或骨性粘连，导致下颌运动严重受限，甚至完全不能张口。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MYOFASCIAL_PAIN_SYNDROME</LocID>
+				<Text>肌筋膜疼痛综合征</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>DIA_DEN_MYOFASCIAL_PAIN_SYNDROME_DESCRIPTION</LocID>
+				<Text>咀嚼肌的肌肉和筋膜出现局部疼痛，并存在可引发牵涉痛的“激痛点”。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
