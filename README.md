@@ -50,6 +50,7 @@ I hope you have a great time playing :D
 * Adjusted the patient generation weights for each department to better reflect reality.
 * Adjusted the logos of various departments, now their styles are more consistent with the base-game department logos!
 * Removed COVID-19 vaccinations from Medical Procedures as they were somewhat repetitive and seemed a bit outdated after the pandemic :D
+* Updated the mod icon sizes to be more consistent with the base game's icon sizes.
 
 ## Language Support
 Besides translating all the Chinese content myself, the translations for other MODs use the translations provided within those MODs. The specific translation status is as follows:
