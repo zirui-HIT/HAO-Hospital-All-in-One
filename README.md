@@ -2,7 +2,7 @@
 
 This MOD is designed to **integrate all current department-type MODs**, eliminate incompatibilities between them as much as possible, and reduce dependency on extra packages. Just by subscribing to this mod, you can experience the content of ten new departments beyond the base game, and it's fully compatible!
 
-This mod has been tested for over **100 in-game days** and is compatible with all current DLCs.
+This mod has been tested for over **100 in-game days** and is compatible with all current DLCs, and **have 10+ languages translated**!
 
 If you encounter any bugs, have content you'd like to see integrated, or want to provide a translation, please leave a comment, and I will update it in a timely manner.
 
@@ -54,27 +54,23 @@ I hope you have a great time playing :D
 * Updated the mod icon sizes to be more consistent with the base game's icon sizes.
 
 ## Language Support
-Besides translating all the Chinese content myself, the translations for other MODs use the translations provided within those MODs. The specific translation status is as follows:
-| Language | Oncology | OB/GYN | Plastic Surgery | ENT | Nephrology & Urology | Diagnostics | Dermatology & Venereology | Psychology | Hematology | Ophthalmology | More Diseases |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| English | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Simplified Chinese | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Czech | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
-| German | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Spanish | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| French | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Hungarian | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Italian | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Japanese | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Korean | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Dutch | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Polish | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Portuguese | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Russian | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Turkish | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Traditional Chinese| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+* Fine Translation: English🇬🇧🇺🇸, Simplified Chinese🇨🇳
+* Translated with LLMs: Czech🇨🇿, German🇩🇪, Spanish🇪🇸, French🇫🇷, Hungarian🇭🇺, Italian🇮🇹, Japanese🇯🇵, Korean🇰🇷, Dutch🇳🇱, Polish🇵🇱, Portuguese🇵🇹🇧🇷, Russian🇷🇺, Turkish
+🇹🇷, Traditional Chinese
 
 ## How to Install
 Before installing this MOD, you need to unsubscribe from the individual MODs that have been integrated into this pack.
 
 If you have a save that relies on integrated department MODs, first close that department and the emergency department. After all patients from that department have left, you can unsubscribe from the previous department MOD and then subscribe to this one!
+
+If you downloaded from Github, download all the files, place them in a `ModHAO` folder, and then [move it to the `Addons` path](https://www.reddit.com/r/ProjectHospital/comments/twcobr/any_way_to_manualy_add_mods/).
+
+The final path should look something like this:
+```
+Addons
+└──ModHAO
+   ├── Assests
+   ├── Database
+   ├── Prefab
+   └── ...
+```
