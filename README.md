@@ -1,6 +1,10 @@
 # HAO: Hospital All in One!
 
+<<<<<<< HEAD
 <img src="preview.png" alt="HAO Preview" width="50%">
+=======
+![HAO Preview](preview.png)
+>>>>>>> 31e311deb5099cb729fa4e0f5886f960f5edc621
 
 This MOD is designed to **integrate all current department-type MODs**, eliminate incompatibilities between them as much as possible, and reduce dependency on extra packages. Just by subscribing to this mod, you can experience the content of ten new departments beyond the base game, and it's fully compatible!
 
