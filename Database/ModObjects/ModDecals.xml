@@ -8,13 +8,13 @@
         <SpriteShape>SHAPE_1_X_1</SpriteShape>
         <TextureIDNW>0</TextureIDNW>
         <TextureIDNE>1</TextureIDNE>
-        <TextureIDSE>3</TextureIDSE>
-        <TextureIDSW>2</TextureIDSW>
-        <CustomIconAssetRef>ASSET_TEX_DECAL_SEX_HEALTH_CUSTOM_ICON</CustomIconAssetRef>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_MOD_SH_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <NonBlocking>true</NonBlocking>
@@ -40,11 +40,11 @@
         <TextureIDNE>1</TextureIDNE>
         <TextureIDSE>2</TextureIDSE>
         <TextureIDSW>3</TextureIDSW>
-        <CustomIconAssetRef>ASSET_GYNECO_DPT_ICON_5</CustomIconAssetRef>
+        <CustomIconAssetRef>ASSET_GYNECO_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <NonBlocking>true</NonBlocking>
@@ -69,7 +69,7 @@
         <TextureIDNE>1</TextureIDNE>
         <TextureIDSE>2</TextureIDSE>
         <TextureIDSW>3</TextureIDSW>
-        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON001</CustomIconAssetRef>
+        <CustomIconAssetRef>ASSET_ONC_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
@@ -101,7 +101,7 @@
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <AllowedInCorners>true</AllowedInCorners>
@@ -129,7 +129,7 @@
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <AllowedInCorners>true</AllowedInCorners>
@@ -157,7 +157,7 @@
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <AllowedInCorners>true</AllowedInCorners>
@@ -183,11 +183,11 @@
         <TextureIDNE>1</TextureIDNE>
         <TextureIDSE>2</TextureIDSE>
         <TextureIDSW>3</TextureIDSW>
-        <CustomIconAssetRef>ASSET_OR_DECAL_ENT</CustomIconAssetRef>
+        <CustomIconAssetRef>ASSET_OR_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <NonBlocking>true</NonBlocking>
@@ -213,11 +213,11 @@
         <TextureIDNE>1</TextureIDNE>
         <TextureIDSE>2</TextureIDSE>
         <TextureIDSW>3</TextureIDSW>
-        <CustomIconAssetRef>ASSET_TEX_PLAS_CUSTOM_ICON001</CustomIconAssetRef>
+        <CustomIconAssetRef>ASSET_PLAS_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <AllowedInCorners>true</AllowedInCorners>
@@ -243,11 +243,11 @@
         <TextureIDNE>1</TextureIDNE>
         <TextureIDSE>2</TextureIDSE>
         <TextureIDSW>3</TextureIDSW>
-        <CustomIconAssetRef>ASSET_MOD_DECAL_PROP_UR</CustomIconAssetRef>
+        <CustomIconAssetRef>ASSET_UR_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <AllowedInCorners>true</AllowedInCorners>
@@ -264,7 +264,7 @@
     </GameDBObject>
 
     <!-- Diagnostics -->
-   <GameDBObject ID="OBJECT_DECAL_MOD_DIAG">
+    <GameDBObject ID="OBJECT_DECAL_MOD_DIAG">
         <AbbreviationLocID>OBJECT_DECAL_DIAG_DESC</AbbreviationLocID>
         <TextureRef>ASSET_TEX_DIAG_DECALS</TextureRef>
         <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
@@ -273,11 +273,11 @@
         <TextureIDNE>1</TextureIDNE>
         <TextureIDSE>2</TextureIDSE>
         <TextureIDSW>3</TextureIDSW>
-        <CustomIconAssetRef>ASSET_TEX_DIAG_CUSTOM_ICON001</CustomIconAssetRef>
+        <CustomIconAssetRef>ASSET_DIAG_DPT_ICON_3</CustomIconAssetRef>
 
         <Placement>UNLIMITED</Placement>
 
-        <AccessPositions/>
+        <AccessPositions />
         <PlacedToEdge>true</PlacedToEdge>
         <AttachedToWall>true</AttachedToWall>
         <AllowedInCorners>true</AllowedInCorners>
@@ -291,6 +291,121 @@
 
         <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
         <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Ophthalmology -->
+    <GameDBObject ID="OBJECT_DECAL_MOD_OPH">
+        <AbbreviationLocID>OBJECT_DECALS_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_OPH_DPT_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_OPH_DPT_ICON_3</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions />
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Dentistry-->
+    <GameDBObject ID="OBJECT_DECAL_MOD_DENT">
+        <AbbreviationLocID>OBJECT_DECALS_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_DEN_DPT_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_DEN_DPT_ICON_3</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions />
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- Hematology -->
+    <GameDBObject ID="OBJECT_DECAL_MOD_HEM">
+        <AbbreviationLocID>OBJECT_DECALS_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_HEM_DPT_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_HEM_DPT_ICON_3_HEM</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions />
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+    <!-- psychiatry -->
+    <GameDBObject ID="OBJECT_NEW_PSY_SIGN_KSBZ">
+        <AbbreviationLocID>OBJECT_NPSY_SIGN_Z_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_NEW_PSY_DPT_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_NEW_PSY_DPT_ICON_3</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions />
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+        <Cost>20</Cost>
+        <ColorSetRef>COLOR_NPSY_Y</ColorSetRef>
     </GameDBObject>
 
 </Database>
