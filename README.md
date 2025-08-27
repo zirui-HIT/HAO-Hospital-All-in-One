@@ -1,5 +1,7 @@
 # HAO: Hospital All in One!
 
+![HAO Preview](preview.png)
+
 This MOD is designed to **integrate all current department-type MODs**, eliminate incompatibilities between them as much as possible, and reduce dependency on extra packages. Just by subscribing to this mod, you can experience the content of ten new departments beyond the base game, and it's fully compatible!
 
 This mod has been tested for over **100 in-game days** and is compatible with all current DLCs, and **have 10+ languages translated**!
