@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
 	<GameDBSymptom ID="SYM_HEM_PMF">
@@ -102,6 +102,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_HEM_ECULIZUMAB</TreatmentRef>

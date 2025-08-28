@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
 	<!-- ==== Dermatology (lesions/signs) ==== -->
@@ -13,6 +13,7 @@
 		<Examinations>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_DER_TOPICAL_RETINOID</TreatmentRef>
@@ -32,6 +33,7 @@
 		<Examinations>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_CRP_SKIN_LT</TreatmentRef>
@@ -88,6 +90,7 @@
 		<Examinations>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
@@ -182,6 +185,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
@@ -200,6 +204,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_SH_CRYOTHERAPY</TreatmentRef>
@@ -218,6 +223,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_DER_WART_CURETTAGE</TreatmentRef>
@@ -273,6 +279,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_CORTICOSTEROID_INJECTIONS</TreatmentRef>
@@ -292,6 +299,7 @@
 		<Examinations>
 			<ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
@@ -310,6 +318,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_DIF_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_IV_STAINING_TEST</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_DER_DAPSONE_ORAL</TreatmentRef>

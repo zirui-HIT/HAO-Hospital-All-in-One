@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
     <!-- Base -->
@@ -416,6 +416,7 @@
         <RiskOfCollapseStartHours>18</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
 
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
@@ -465,6 +466,7 @@
         <RiskOfCollapseStartHours>24</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>36</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
+        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
 
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
@@ -596,6 +598,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
@@ -723,6 +726,7 @@
         <Examinations>
             <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DER_TOPICAL_HYDROQUINONE</TreatmentRef>
@@ -742,6 +746,7 @@
         <Examinations>
             <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DER_PHOTOTHERAPY_NB_UVB</TreatmentRef>
@@ -761,6 +766,7 @@
         <Examinations>
             <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DER_TOPICAL_RETINOID</TreatmentRef>
@@ -780,6 +786,7 @@
         <Examinations>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
@@ -854,6 +861,7 @@
         <Examinations>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIFUNGAL_OINTMENT</TreatmentRef>
@@ -873,6 +881,7 @@
         <Examinations>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_KOH_WET_MOUNT_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
@@ -910,6 +919,7 @@
         <Examinations>
             <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_ANTI_ACNEE</TreatmentRef>
@@ -928,6 +938,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_DERMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_WOOD_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DER_SYSTEMIC_TERBINAFINE</TreatmentRef>
@@ -1311,6 +1322,7 @@
         <Examinations>
             <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -1354,6 +1366,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -1833,6 +1846,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -1975,6 +1989,7 @@
         <Examinations>
             <ExaminationRef>EXM_CBC_TESTING</ExaminationRef>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -2129,6 +2144,7 @@
             <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
             <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
@@ -3202,6 +3218,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+        <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -3225,6 +3242,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+        <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
         </Examinations>
 
         <ShameLevel>20</ShameLevel>
@@ -3248,6 +3266,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+        <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -3275,6 +3294,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+        <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
         </Examinations>
 
         <ShameLevel>25</ShameLevel>
@@ -3298,6 +3318,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+        <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
         </Examinations>
 
         <ShameLevel>20</ShameLevel>
@@ -3319,6 +3340,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
+        <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -3341,6 +3363,7 @@
         <Examinations>
             <ExaminationRef>EXM_USG</ExaminationRef>
             <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
+        <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -3627,6 +3650,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
@@ -3705,6 +3729,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_OESTROGENOTHERAPIE</TreatmentRef>
@@ -3722,6 +3747,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NSAIDS</TreatmentRef>
@@ -3739,6 +3765,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIHEMORRHAGICS</TreatmentRef>
@@ -3758,6 +3785,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <ShameLevel>25</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -3776,6 +3804,7 @@
         <WalkSpeedModifier>0.5</WalkSpeedModifier>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -3793,6 +3822,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -3810,6 +3840,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NSAIDS</TreatmentRef>
@@ -3870,6 +3901,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -3888,6 +3920,7 @@
         <WalkSpeedModifier>0.5</WalkSpeedModifier>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -5334,6 +5367,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5356,6 +5390,7 @@
         <Examinations>
             <ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5377,6 +5412,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5824,6 +5860,7 @@
         <Examinations>
             <ExaminationRef>EXM_CRP_IV_STAINING_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5846,6 +5883,7 @@
         <Examinations>
             <ExaminationRef>EXM_CRP_IV_STAINING_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5953,6 +5991,7 @@
             <ExaminationRef>EXM_ELISA_TESTING</ExaminationRef>
             <ExaminationRef>EXM_CRP_IV_STAINING_TEST</ExaminationRef>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5974,6 +6013,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -5995,6 +6035,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6016,6 +6057,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6037,6 +6079,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6058,6 +6101,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6079,6 +6123,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6100,6 +6145,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6121,6 +6167,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6142,6 +6189,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6163,6 +6211,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6184,6 +6233,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6205,6 +6255,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6226,6 +6277,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6247,6 +6299,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6310,6 +6363,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_UAS_TEST</ExaminationRef>
+        <ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6394,6 +6448,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_UAS_TEST</ExaminationRef>
+        <ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -6414,6 +6469,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_FCU_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIVIROTICS</TreatmentRef>
@@ -6640,6 +6696,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+        <ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NSAIDS</TreatmentRef>
@@ -6657,6 +6714,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NSAIDS</TreatmentRef>
@@ -6942,6 +7000,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -7012,6 +7071,7 @@
         <Examinations>
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -7054,6 +7114,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -7075,6 +7136,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        <ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
 
         <ShameLevel>0</ShameLevel>
@@ -8118,6 +8180,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -8143,6 +8206,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -8169,6 +8233,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -8194,6 +8259,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <ShameLevel>95</ShameLevel>
@@ -8214,6 +8280,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <ShameLevel>95</ShameLevel>
@@ -8234,6 +8301,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -8321,6 +8389,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <ShameLevel>90</ShameLevel>
@@ -8342,6 +8411,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <ShameLevel>95</ShameLevel>
@@ -8512,6 +8582,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        <ExaminationRef>EXM_USG</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -8573,6 +8644,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
 
         <ShameLevel>90</ShameLevel>
@@ -8823,6 +8895,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -8841,6 +8914,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8856,6 +8930,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8871,6 +8946,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8886,6 +8962,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8901,6 +8978,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8916,6 +8994,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8931,6 +9010,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8961,6 +9041,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8974,6 +9055,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8989,6 +9071,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9004,6 +9087,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE</TreatmentRef>
@@ -9022,6 +9106,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE</TreatmentRef>
@@ -9040,6 +9125,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE</TreatmentRef>
@@ -9058,6 +9144,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE</TreatmentRef>
@@ -9076,6 +9163,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE</TreatmentRef>
@@ -9096,6 +9184,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9111,6 +9200,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9126,6 +9216,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9156,6 +9247,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSG</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_MSLT</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_AWAKENING_PROMOTING_DRUGS_PITOLISANT</TreatmentRef>
@@ -9240,6 +9332,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9256,6 +9349,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9287,6 +9381,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9302,6 +9397,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9317,6 +9413,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9333,6 +9430,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9348,6 +9446,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_BETA_BLOCKERS_PROPRANOLOL</TreatmentRef>
@@ -9366,6 +9465,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -9384,6 +9484,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -9402,6 +9503,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -9420,6 +9522,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -9438,6 +9541,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -9456,6 +9560,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -9474,6 +9579,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSG</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_MSLT</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ESZOPICLONE</TreatmentRef>
@@ -9492,6 +9598,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9508,6 +9615,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9526,6 +9634,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9544,6 +9653,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9562,6 +9672,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9581,6 +9692,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9599,6 +9711,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9617,6 +9730,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9635,6 +9749,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9653,6 +9768,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9671,6 +9787,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9689,6 +9806,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9704,6 +9822,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9719,6 +9838,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9734,6 +9854,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9749,6 +9870,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9764,6 +9886,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9779,6 +9902,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9794,6 +9918,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9810,6 +9935,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9828,6 +9954,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9846,6 +9973,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -9864,6 +9992,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9880,6 +10009,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9895,6 +10025,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9910,6 +10041,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9925,6 +10057,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9940,6 +10073,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9955,6 +10089,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9970,6 +10105,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -9985,6 +10121,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10000,6 +10137,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -10019,6 +10157,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10034,6 +10173,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10049,6 +10189,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -10067,6 +10208,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10082,6 +10224,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10097,6 +10240,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -10115,6 +10259,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10130,6 +10275,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10145,6 +10291,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10160,6 +10307,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10175,6 +10323,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10191,6 +10340,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</TreatmentRef>
@@ -10282,6 +10432,7 @@
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10297,6 +10448,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10312,6 +10464,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -10420,6 +10573,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -10438,6 +10592,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10453,6 +10608,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10468,6 +10624,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10483,6 +10640,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_PSYCHOTHERAPY</TreatmentRef>
@@ -10501,6 +10659,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_SERTRALINE</TreatmentRef>
@@ -10519,6 +10678,7 @@
         <ShameLevel>0</ShameLevel>
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <PatientMobility>MOBILE</PatientMobility>
         <IsMainSymptom>false</IsMainSymptom>
@@ -10618,6 +10778,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -10879,6 +11040,7 @@
             <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
             <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HEM_METHYLPREDNISOLONE</TreatmentRef>
@@ -11023,6 +11185,7 @@
         <Examinations>
             <ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_TESTING</ExaminationRef>
             <ExaminationRef>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_HEM_INTRATHECAL_INJECTION_METHOTREXATE</TreatmentRef>
@@ -11131,6 +11294,7 @@
             <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
             <ExaminationRef>EXM_FLUORESCEIN_STAIN</ExaminationRef>
             <ExaminationRef>EXM_SCHIRMER_TEST</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_LUBRICANT_EYEDROPS</TreatmentRef>
@@ -11250,6 +11414,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
@@ -11270,6 +11435,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -11289,6 +11455,8 @@
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
             <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -11308,6 +11476,7 @@
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -11326,6 +11495,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_PERIMETRY</ExaminationRef>
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+        <ExaminationRef>EXM_AMSLER_GRID</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -11645,6 +11815,7 @@
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
@@ -11701,6 +11872,7 @@
         <Examinations>
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>
@@ -11758,6 +11930,7 @@
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -11780,6 +11953,7 @@
             <ExaminationRef>EXM_OCT</ExaminationRef>
             <ExaminationRef>EXM_FA</ExaminationRef>
             <ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_VITRECTOMY</TreatmentRef>
@@ -11800,6 +11974,7 @@
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
@@ -11880,6 +12055,7 @@
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_FA</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_ANTI_VEGF_INJECTION</TreatmentRef>
@@ -11996,6 +12172,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -12009,6 +12186,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -12022,6 +12200,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -12957,6 +13136,7 @@
             <ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
             <ExaminationRef>EXM_JM_MEDICAL_HISTORY</ExaminationRef>
             <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_JM_COUNSELING</TreatmentRef>

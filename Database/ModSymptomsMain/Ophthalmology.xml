@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
     
     <GameDBSymptom ID="SYM_CLOSED_ANGLE">
@@ -31,6 +31,7 @@
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_RETINAL_REATTACHMENT</TreatmentRef>
@@ -169,6 +170,7 @@
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
             <ExaminationRef>EXM_FA</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_OPH_RETINAL_LASER</TreatmentRef>
@@ -391,6 +393,7 @@
         <Examinations>
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -412,6 +415,7 @@
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_FA</ExaminationRef>
             <ExaminationRef>EXM_OCT</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CORTICOSTEROIDS</TreatmentRef>
@@ -475,6 +479,7 @@
             
             <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_FA</ExaminationRef>
+        <ExaminationRef>EXM_SLIT_LAMP_EXAM</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_INSULIN_THERAPY</TreatmentRef>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
     <GameDBSymptom ID="SYM_CRP_JM_M_RUPTURED_EAR_DRUM">
@@ -678,6 +678,7 @@
         <Examinations>
             <ExaminationRef>EXM_JM_SPUTUM_CULTURE_TESTING</ExaminationRef>
             <ExaminationRef>EXM_JM_NASAL_SWAB_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SURG_OTOR_FESS</TreatmentRef>
@@ -890,6 +891,7 @@
             <ExaminationRef>EXM_JM_RHINOSCOPY</ExaminationRef>
             <ExaminationRef>EXM_EVALUATION</ExaminationRef>
             <ExaminationRef>EXM_JM_NASAL_SWAB_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
@@ -1202,6 +1204,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSG</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_MSLT</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_CPAP</TreatmentRef>
@@ -1223,6 +1226,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_NEW_PSY_PSG</ExaminationRef>
+        <ExaminationRef>EXM_NEW_PSY_MSLT</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_CPAP</TreatmentRef>
@@ -1460,6 +1464,7 @@
 
         <Examinations>
             <ExaminationRef>EXM_JM_THROAT_SWAB_TESTING</ExaminationRef>
+        <ExaminationRef>EXM_JM_RAPID_STREP_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>

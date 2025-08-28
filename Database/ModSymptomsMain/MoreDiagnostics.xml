@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
 <!-- Cardiologie -->
@@ -965,6 +965,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		<ExaminationRef>EXM_CT</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_MOREDG_EXERESE_MI</TreatmentRef>
@@ -1080,6 +1081,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		<ExaminationRef>EXM_CT</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIVIROTICS</TreatmentRef>
@@ -1101,6 +1103,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		<ExaminationRef>EXM_CT</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_MOREDG_THYROIDECTOMIE</TreatmentRef>
@@ -1122,6 +1125,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_SCINTIGRAPHIE</ExaminationRef>
+		<ExaminationRef>EXM_CT</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_MOREDG_THYROIDECTOMIE</TreatmentRef>
@@ -1217,6 +1221,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_MOREDG_SPLENECTOMIE_MI</TreatmentRef>
@@ -1237,6 +1242,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_MOREDG_ANTICORPS_MONOCLONAL</TreatmentRef>
@@ -1257,6 +1263,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_MOREDG_DEFEROXAMINE</TreatmentRef>	<!-- déféroxamine  : chélateur des cations trivalents https://www.vidal.fr/substances/1184/deferoxamine/ -->
@@ -1277,6 +1284,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
@@ -1335,6 +1343,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
@@ -1353,6 +1362,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_HYDROXYUREA</TreatmentRef>
@@ -1431,6 +1441,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
@@ -1451,6 +1462,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_DESMOPRESSIN</TreatmentRef>
@@ -1551,6 +1563,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -1571,6 +1584,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -1591,6 +1605,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -1611,6 +1626,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+		<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
 		</Examinations>
         <Treatments>
             <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>

@@ -8257,10 +8257,8 @@
         <IconIndex>1903</IconIndex>
         <DurationHours>0</DurationHours>
     </GameDBTreatment>
-    <GameDBTreatment
-        ID="TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS">
-        <AbbreviationLocID>
-            TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS_DESC</AbbreviationLocID>
+    <GameDBTreatment ID="TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS">
+        <AbbreviationLocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS_DESC</AbbreviationLocID>
         <DiscomfortLevel>Positive</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
@@ -8987,17 +8985,10 @@
 
 
             <RequiredRoomTags>
-                <Tag>emergency_doctors_office</Tag>
+                <Tag>any_office</Tag>
                 <Tag>observation</Tag>
                 <Tag>icu</Tag>
                 <Tag>trauma_center</Tag>
-                <Tag>general_surgery_office</Tag>
-                <Tag>internal_medicine_office</Tag>
-                <Tag>neurology_office</Tag>
-                <Tag>cardiology_office</Tag>
-                <Tag>infectious_diseases_office</Tag>
-                <Tag>traumatology_office</Tag>
-                <Tag>ophthalmology_office</Tag>
             </RequiredRoomTags>
 
             <ProcedureScript>ProcedureScriptTreatmentReceipt</ProcedureScript>

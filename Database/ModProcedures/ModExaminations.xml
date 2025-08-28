@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
     <!-- Base -->
@@ -2938,6 +2938,7 @@
         <Cost>50</Cost>
         <IconIndex>1639</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_WOOD_LAMP_EXAM</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_KOH_WET_MOUNT_SAMPLING">
@@ -3030,6 +3031,7 @@
         <Cost>50</Cost>
         <IconIndex>1647</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_DIF_SAMPLING">
@@ -3123,6 +3125,7 @@
         <Cost>50</Cost>
         <IconIndex>1711</IconIndex>
         <DurationHours>2</DurationHours>
+    <AlternativeExaminationRef>EXM_CRP_IV_STAINING_TEST</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Gynecology -->
@@ -4298,6 +4301,7 @@
         <Cost>50</Cost>
         <IconIndex>1663</IconIndex>
         <DurationHours>3</DurationHours>
+    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_JM_THROAT_SWAB_SAMPLING">
@@ -4414,6 +4418,7 @@
         <CustomIconBigAssetRef>ASSET_OR_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_OR_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
         <DurationHours>3</DurationHours>
+    <AlternativeExaminationRef>EXM_JM_RAPID_STREP_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_JM_NASAL_SWAB_SAMPLING">
@@ -4529,6 +4534,7 @@
         <CustomIconBigAssetRef>ASSET_OR_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_OR_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
         <DurationHours>3</DurationHours>
+    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- CRP -->
@@ -4678,6 +4684,7 @@
         <Cost>50</Cost>
         <IconIndex>1675</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_CT</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5308,6 +5315,7 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_018</CustomIconSmallAssetRef>
 
         <DurationHours>2</DurationHours>
+    <AlternativeExaminationRef>EXM_CRP_BONEBIOPSY_TEST</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5530,6 +5538,7 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_032</CustomIconSmallAssetRef>
 
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_CRP_ECHO_PELV</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5631,6 +5640,7 @@
         <CustomIconBigAssetRef>ASSET_GYNECO_ICON_E2</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_GYNECO_ICON_E2_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5730,6 +5740,7 @@
         <Cost>50</Cost>
         <IconIndex>1691</IconIndex>
         <DurationHours>2</DurationHours>
+    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5787,6 +5798,7 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_026</CustomIconSmallAssetRef>
 
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_MRI</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5893,6 +5905,7 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_014</CustomIconSmallAssetRef>
 
         <DurationHours>2</DurationHours>
+    <AlternativeExaminationRef>EXM_CRP_FISH_TEST</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -6603,6 +6616,7 @@
         <CustomIconBigAssetRef>ASSET_GYNECO_ICON_E4</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_GYNECO_ICON_E4_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -6871,6 +6885,7 @@
         <CustomIconSmallAssetRef>ASSET_PLAS_EXM_ICON_004</CustomIconSmallAssetRef>
 
         <DurationHours>2</DurationHours>
+    <AlternativeExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Urology -->
@@ -7042,6 +7057,7 @@
         <Cost>50</Cost>
         <IconIndex>1637</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_USG</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Psychiatry -->
@@ -7169,6 +7185,7 @@
         <Cost>40</Cost>
         <IconIndex>1723</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_NEW_PSY_MSLT</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_NEW_PSY_INTERVIEW_SLEEP">
@@ -7238,6 +7255,7 @@
         <Cost>40</Cost>
         <IconIndex>1635</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</AlternativeExaminationRef>
     </GameDBExamination>
     <GameDBExamination ID="EXM_NEW_PSY_PSYCHOMETRIC_SCALES">
         <AbbreviationLocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES_DESC</AbbreviationLocID>
@@ -8257,6 +8275,7 @@
         <Cost>50</Cost>
         <IconIndex>1687</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_SLIT_LAMP_EXAM</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -8306,6 +8325,7 @@
         <Cost>50</Cost>
         <IconIndex>1729</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_AMSLER_GRID</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -8657,6 +8677,7 @@
         <Cost>60</Cost>
         <IconIndex>1687</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_SLIT_LAMP_EXAM</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -9284,6 +9305,7 @@
         <CustomIconBigAssetRef>ASSET_MD_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_MD_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_INTERVIEW</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Dentistry -->
@@ -9452,6 +9474,7 @@
         <Cost>50</Cost>
         <IconIndex>1681</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_USG</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_DEN_TMJ_PALPATION">
@@ -9484,6 +9507,7 @@
         <Cost>50</Cost>
         <IconIndex>1659</IconIndex>
         <DurationHours>0</DurationHours>
+    <AlternativeExaminationRef>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT">

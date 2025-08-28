@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Database>
 
 	<GameDBSymptom ID="SYM_SAC_EXTRA_UTERIN">
@@ -70,6 +70,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_THM</TreatmentRef>
@@ -270,6 +271,7 @@
 		<WalkSpeedModifier>0.5</WalkSpeedModifier>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_PESSAIRE</TreatmentRef>
@@ -700,6 +702,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
@@ -719,6 +722,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		<ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -739,6 +743,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		<ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
@@ -759,6 +764,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		<ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTI_INFLAMMATORY_CREAM</TreatmentRef>
@@ -778,6 +784,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_SEIN</ExaminationRef>
+		<ExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
@@ -999,6 +1006,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_OBGYN_REEDUCATION_PELV</TreatmentRef>
@@ -1017,6 +1025,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANTICHOLINERGICS</TreatmentRef>
@@ -1096,6 +1105,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_OBGYN_MISE_PLAT_ABCES</TreatmentRef>
@@ -1116,6 +1126,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_OBGYN_MISE_PLAT_ABCES</TreatmentRef>
@@ -1136,6 +1147,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
@@ -1156,6 +1168,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
@@ -1176,6 +1189,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
@@ -1196,6 +1210,7 @@
 		<PatientMobility>MOBILE</PatientMobility>
 		<Examinations>
 			<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_KYSTECTOMIE</TreatmentRef>
