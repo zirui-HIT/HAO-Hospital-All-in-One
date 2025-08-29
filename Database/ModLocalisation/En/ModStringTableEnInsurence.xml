@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
 
-	<GameDBStringTable ID="LOC_EN_ADDON_INSURADD_NAMES">
+	<GameDBStringTable ID="LOC_EN_ADDON_HAO_INSURADD_NAMES">
 		<LanguageCode>en</LanguageCode>
 		<LanguageNameLocalized>English</LanguageNameLocalized>
 		<Contributors>
@@ -33,6 +33,16 @@
 			<GameDBLocalizedString>
 				<LocID>United_Healthcare</LocID>
 				<Text>United Healthcare</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>Progressive_Insurance</LocID>
+				<Text>Progressive</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>IN_NIMBIM_CHAOSCARE</LocID>
+				<Text>Chaos Care</Text>
 			</GameDBLocalizedString>
 
 		</LocalizedStrings>

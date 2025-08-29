@@ -1924,13 +1924,12 @@
         </Procedure>
         <TreatmentType>RECEIPT</TreatmentType>
         <ReceiptType>IV_BAG</ReceiptType>
-        <AllowedWithAnyHospitalization>true</AllowedWithAnyHospitalization>
+
         <Cost>100</Cost>
         <IconIndex>1951</IconIndex>
         <DurationHours>0</DurationHours>
         <HospitalizationTreatmentRef>TRT_HOSPITALIZATION_NORMAL</HospitalizationTreatmentRef>
         <AllowedWithAnyHospitalization>true</AllowedWithAnyHospitalization>
-
     </GameDBTreatment>
 
     <GameDBTreatment ID="TRT_MYOLYSE">
@@ -10361,24 +10360,33 @@
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
-                    <Tag>receipt</Tag>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
                 </RequiredEquipment>
             </RequiredEquipmentList>
+
             <RequiredRoomTags>
-                <Tag>dentistry_office</Tag>
+                <Tag>any_office</Tag>
+                <Tag>ward</Tag>
+                <Tag>icu</Tag>
             </RequiredRoomTags>
 
-            <ProcedureScript>ProcedureScriptTreatmentPrescription</ProcedureScript>
+            <ProcedureScript>ProcedureScriptTreatmentProcedure</ProcedureScript>
             <AnimationSetupSitting>
-                <AnimationNameIn>sit_doc_recommendation_in</AnimationNameIn>
-                <AnimationNameIdle>sit_doc_recommendation_idle</AnimationNameIdle>
-                <AnimationNameOut>sit_doc_recommendation_out</AnimationNameOut>
+                <AnimationNameIn>stand_treatment_in</AnimationNameIn>
+                <AnimationNameIdle>stand_treatment_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_treatment_out</AnimationNameOut>
             </AnimationSetupSitting>
             <DressLevel>FULL</DressLevel>
             <DressLevelAfter>FULL</DressLevelAfter>
             <DetachedDepartmentRef>DPT_DENTISTRY</DetachedDepartmentRef>
         </Procedure>
-        <TreatmentType>PRESCRIPTION</TreatmentType>
+        <TreatmentType>PROCEDURE</TreatmentType>
         <Cost>250</Cost>
 
         <IconIndex>2029</IconIndex>

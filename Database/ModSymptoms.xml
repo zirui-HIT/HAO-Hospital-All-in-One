@@ -363,7 +363,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>IMOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
 
@@ -1169,7 +1169,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
 
@@ -1199,8 +1199,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>4</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_SLP_INTERNAL_BLEEDING</CollapseSymptomRef>
 
         <Examinations>
@@ -1230,7 +1230,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
 
@@ -1257,7 +1257,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>36</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_SLP_SEVERE_HYPERCALCEMIA</CollapseSymptomRef>
 
@@ -1289,7 +1289,7 @@
         <WalkAnimSuffix>_limp</WalkAnimSuffix>
         <WalkSpeedModifier>0.5</WalkSpeedModifier>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
         <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
@@ -1385,8 +1385,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>6</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
 
         <PatientMobility>MOBILE</PatientMobility>
@@ -1691,8 +1691,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>8</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_CRP_PNEUMONIA</CollapseSymptomRef>
 
         <Examinations>
@@ -1929,7 +1929,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
 
@@ -2037,7 +2037,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
 
@@ -2137,7 +2137,7 @@
         <PatientMobility>MOBILE</PatientMobility>
 
         <RiskOfCollapseStartHours>6</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>10</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
 
         <Examinations>
@@ -2323,8 +2323,8 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>IMOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
 
         <Examinations>
@@ -2451,8 +2451,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>8</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
 
         <PatientMobility>IMOBILE</PatientMobility>
@@ -2503,8 +2503,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 
-        <RiskOfCollapseStartHours>0.5</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>2</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
 
         <PatientMobility>IMOBILE</PatientMobility>
@@ -2679,7 +2679,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
 
@@ -2704,7 +2704,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
 
@@ -2938,8 +2938,8 @@
         <PatientComplains>true</PatientComplains>
         <Hazard>High</Hazard>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>4</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
         <PatientMobility>IMOBILE</PatientMobility>
 
@@ -4071,8 +4071,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>8</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_FAINTING</CollapseSymptomRef>
 
         <PatientMobility>MOBILE</PatientMobility>
@@ -4842,7 +4842,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
 
@@ -5056,8 +5056,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>6</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DEHYDRATION</CollapseSymptomRef>
 
         <Examinations>
@@ -5106,8 +5106,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
 
         <Examinations>
@@ -7466,7 +7466,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_CRP_WOUND_INFECTION2</CollapseSymptomRef>
 
@@ -7668,7 +7668,7 @@
         <CollapseSymptomRef>SYM_CRP_WOUND_INFECTION2</CollapseSymptomRef>
 
         <Examinations>
-            <ExaminationRef>EXM_CRP_ELECTROPHORESIS</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
         </Examinations>
 
         <Treatments>
@@ -8136,7 +8136,7 @@
             <TreatmentRef>TRT_KN_IMMUNO_SUPRES</TreatmentRef>
         </Treatments>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_KN_ACUTE_ORG_REJEC</CollapseSymptomRef>
 
@@ -8160,7 +8160,7 @@
         </Treatments>
 
         <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
 
@@ -10721,8 +10721,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>10</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_RESPIRATORY_FAILURE</CollapseSymptomRef>
 
         <Examinations>
@@ -10801,7 +10801,7 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>72</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_OL_RUP_SPLENOMEGALY</CollapseSymptomRef>
 
@@ -10831,8 +10831,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
         <PatientMobility>IMOBILE</PatientMobility>
-        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>10</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
         <Examinations>
             <ExaminationRef>EXM_USG</ExaminationRef>
@@ -13274,7 +13274,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>5</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>20</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
 
@@ -13331,7 +13331,7 @@
         <PatientMobility>MOBILE</PatientMobility>
 
         <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>1</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_PALPITATIONS</CollapseSymptomRef>
 
         <Examinations>
@@ -13358,8 +13358,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>4</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
         <Examinations>
@@ -13597,7 +13597,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
 
@@ -13718,7 +13718,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_EXHAUSTION</CollapseSymptomRef>
 
@@ -13825,7 +13825,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>28</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_JM_SEIZURES</CollapseSymptomRef>
 
@@ -13896,8 +13896,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>5</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_JM_SEIZURES</CollapseSymptomRef>
 
         <Examinations>
@@ -13921,8 +13921,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>5</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_JM_SEIZURES</CollapseSymptomRef>
 
         <Examinations>

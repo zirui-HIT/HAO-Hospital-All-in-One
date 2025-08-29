@@ -566,7 +566,7 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 
-        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
        
@@ -589,7 +589,7 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 
-        <RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
        
@@ -1169,7 +1169,7 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 		
-		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
        
@@ -1193,7 +1193,7 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
 		
-		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
        
@@ -1763,8 +1763,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
         <PatientMobility>IMOBILE</PatientMobility>
-        <RiskOfCollapseStartHours>0.5</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>5</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
         <Examinations>
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
@@ -1784,8 +1784,8 @@
         <PatientComplains>false</PatientComplains>
         <Hazard>High</Hazard>
         <PatientMobility>IMOBILE</PatientMobility>
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>10</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
         <Examinations>
             <ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>

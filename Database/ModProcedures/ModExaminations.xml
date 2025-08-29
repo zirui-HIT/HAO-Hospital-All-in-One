@@ -1,7 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
 
     <!-- Base -->
+
+    <GameDBExamination ID="EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING">
+        <AbbreviationLocID>EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</AbbreviationLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <Procedure>
+            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
+            <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+            </RequiredDoctorQualificationList>
+            <RequiredEquipmentList>
+                <RequiredEquipment>
+                    <Tag>sit_exam</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>doc_equipment</Tag>
+                </RequiredEquipment>
+                <RequiredEquipment>
+                    <Tag>clean_hands</Tag>
+                </RequiredEquipment>
+            </RequiredEquipmentList>
+            
+            <!--RequiredRoomTypeList>
+                <RequiredRoomTypeRef>ROOM_TYPE_INPATIENT_GS_OFFICE</RequiredRoomTypeRef>
+                <RequiredRoomTypeRef>ROOM_TYPE_GENERAL_SURGERY_OFFICE</RequiredRoomTypeRef>
+            </RequiredRoomTypeList-->
+            <RequiredRoomTags>
+                <Tag>general_surgery_office</Tag>
+                <Tag>icu</Tag>
+            </RequiredRoomTags>
+            
+            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
+            <AnimationSetupSitting>
+                <AnimationNameIn>stand_look_in</AnimationNameIn>        <!--todo make new animation-->
+                <AnimationNameIdle>stand_look_idle</AnimationNameIdle>
+                <AnimationNameOut>stand_look_out</AnimationNameOut>
+            </AnimationSetupSitting>
+            <DressLevel>HALF</DressLevel>
+            <Biohazard>true</Biohazard>
+            <Priority>20</Priority>
+        </Procedure>
+        <Cost>50</Cost>
+        <IconIndex>1711</IconIndex>
+        <DurationHours>0</DurationHours>
+        <LabTestingExaminationRef>EXM_PERITONEAL_FLUID_ANALYSIS_TESTING</LabTestingExaminationRef>
+    </GameDBExamination>
 
     <GameDBExamination ID="EXM_ABDOMINAL_PALPATION">
         <AbbreviationLocID>EXM_ABDOMINAL_PALPATION_DESCRIPTION</AbbreviationLocID>
@@ -692,6 +739,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
@@ -1417,6 +1465,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -1765,6 +1814,7 @@
                 <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -1856,7 +1906,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredDoctorQualificationList>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
@@ -1991,6 +2043,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredSkillsToPrescribe>
@@ -2520,6 +2573,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -2629,6 +2683,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -2740,6 +2795,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -2831,8 +2887,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -2871,6 +2928,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -2907,6 +2965,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -2938,7 +2997,6 @@
         <Cost>50</Cost>
         <IconIndex>1639</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_WOOD_LAMP_EXAM</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_KOH_WET_MOUNT_SAMPLING">
@@ -2947,6 +3005,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -2986,8 +3045,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -3031,7 +3089,6 @@
         <Cost>50</Cost>
         <IconIndex>1647</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_FUNGAL_CULTIVATION_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_DIF_SAMPLING">
@@ -3040,6 +3097,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -3079,8 +3137,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
+                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -3125,7 +3182,6 @@
         <Cost>50</Cost>
         <IconIndex>1711</IconIndex>
         <DurationHours>2</DurationHours>
-    <AlternativeExaminationRef>EXM_CRP_IV_STAINING_TEST</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Gynecology -->
@@ -3184,7 +3240,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -3301,7 +3360,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -3418,7 +3480,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -3537,6 +3602,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -3579,6 +3645,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_USG</RequiredStatLabQualificationRef>
@@ -3984,7 +4051,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -4083,7 +4152,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -4155,7 +4226,7 @@
                 <RequiredEquipment>
                     <Tag>microscope</Tag>
                     <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
+                    <BlocksSpecialist>true</BlocksSpecialist>
                 </RequiredEquipment>
                 <RequiredEquipment>
                     <Tag>biohazard_trash</Tag>
@@ -4197,7 +4268,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -4301,7 +4374,6 @@
         <Cost>50</Cost>
         <IconIndex>1663</IconIndex>
         <DurationHours>3</DurationHours>
-    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_JM_THROAT_SWAB_SAMPLING">
@@ -4310,7 +4382,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -4418,7 +4492,6 @@
         <CustomIconBigAssetRef>ASSET_OR_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_OR_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
         <DurationHours>3</DurationHours>
-    <AlternativeExaminationRef>EXM_JM_RAPID_STREP_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_JM_NASAL_SWAB_SAMPLING">
@@ -4427,6 +4500,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -4534,7 +4608,6 @@
         <CustomIconBigAssetRef>ASSET_OR_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_OR_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
         <DurationHours>3</DurationHours>
-    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- CRP -->
@@ -4546,7 +4619,8 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -4684,7 +4758,6 @@
         <Cost>50</Cost>
         <IconIndex>1675</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_CT</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -4799,7 +4872,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
 
             <RequiredEquipmentList>
@@ -4905,7 +4980,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5006,7 +5084,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5205,7 +5285,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5315,7 +5398,6 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_018</CustomIconSmallAssetRef>
 
         <DurationHours>2</DurationHours>
-    <AlternativeExaminationRef>EXM_CRP_BONEBIOPSY_TEST</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5325,7 +5407,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5445,7 +5529,11 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5495,7 +5583,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5538,7 +5628,6 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_032</CustomIconSmallAssetRef>
 
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_CRP_ECHO_PELV</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5548,7 +5637,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5640,7 +5732,6 @@
         <CustomIconBigAssetRef>ASSET_GYNECO_ICON_E2</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_GYNECO_ICON_E2_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_CRP_X_RAY_MAMMOGRAM</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5650,7 +5741,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -5740,7 +5833,6 @@
         <Cost>50</Cost>
         <IconIndex>1691</IconIndex>
         <DurationHours>2</DurationHours>
-    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5798,7 +5890,6 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_026</CustomIconSmallAssetRef>
 
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_MRI</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5905,7 +5996,6 @@
         <CustomIconSmallAssetRef>ASSET_CRP_EXM_ICON_014</CustomIconSmallAssetRef>
 
         <DurationHours>2</DurationHours>
-    <AlternativeExaminationRef>EXM_CRP_FISH_TEST</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -5915,7 +6005,11 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6034,7 +6128,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6153,7 +6249,8 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6272,7 +6369,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6391,7 +6490,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6511,7 +6612,10 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6616,7 +6720,6 @@
         <CustomIconBigAssetRef>ASSET_GYNECO_ICON_E4</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_GYNECO_ICON_E4_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_PCR_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -6626,7 +6729,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -6744,7 +6849,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_USG</RequiredStatLabQualificationRef>
@@ -6775,7 +6882,6 @@
         <Cost>50</Cost>
         <IconIndex>1693</IconIndex>
         <DurationHours>0</DurationHours>
-        <AlternativeExaminationRef>EXM_FAST</AlternativeExaminationRef>
         <CancelWhenTransportedToICUOrTrauma>true</CancelWhenTransportedToICUOrTrauma>
     </GameDBExamination>
 
@@ -6885,7 +6991,6 @@
         <CustomIconSmallAssetRef>ASSET_PLAS_EXM_ICON_004</CustomIconSmallAssetRef>
 
         <DurationHours>2</DurationHours>
-    <AlternativeExaminationRef>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Urology -->
@@ -6896,6 +7001,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -7015,7 +7121,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_SPEC_ACUTE_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
@@ -7057,7 +7163,6 @@
         <Cost>50</Cost>
         <IconIndex>1637</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_USG</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Psychiatry -->
@@ -7112,6 +7217,7 @@
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
                 <SkillRef>SKILL_DOC_SPEC_NEW_PSY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_USG</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -7185,7 +7291,6 @@
         <Cost>40</Cost>
         <IconIndex>1723</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_NEW_PSY_MSLT</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_NEW_PSY_INTERVIEW_SLEEP">
@@ -7194,6 +7299,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEW_PSY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
@@ -7230,6 +7336,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEW_PSY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -7255,7 +7362,6 @@
         <Cost>40</Cost>
         <IconIndex>1635</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</AlternativeExaminationRef>
     </GameDBExamination>
     <GameDBExamination ID="EXM_NEW_PSY_PSYCHOMETRIC_SCALES">
         <AbbreviationLocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES_DESC</AbbreviationLocID>
@@ -7263,6 +7369,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEW_PSY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
             </RequiredDoctorQualificationList>
@@ -7272,8 +7379,9 @@
                 </RequiredEquipment>
             </RequiredEquipmentList>
             <RequiredRoomTags>
-                <Tag>new_psy_office</Tag>
-                <Tag>neurology_office</Tag>
+                <Tag>any_office</Tag>
+                <Tag>any_inpatient_office</Tag>
+                <Tag>ward</Tag>
             </RequiredRoomTags>
             <ProcedureScript>ProcedureScriptExaminationGeneral</ProcedureScript>
             <AnimationSetupSitting>
@@ -7299,7 +7407,8 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
 
             <RequiredEquipmentList>
@@ -7403,7 +7512,8 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
 
             <RequiredEquipmentList>
@@ -7505,7 +7615,8 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
 
             <RequiredEquipmentList>
@@ -7708,16 +7819,11 @@
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
-            <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredSkillsToPrescribe>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CARDIOLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -7914,8 +8020,8 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -8148,6 +8254,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEW_PSY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
@@ -8233,6 +8340,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_ACUTE_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
@@ -8275,7 +8383,6 @@
         <Cost>50</Cost>
         <IconIndex>1687</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_SLIT_LAMP_EXAM</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -8288,6 +8395,7 @@
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -8325,7 +8433,6 @@
         <Cost>50</Cost>
         <IconIndex>1729</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_AMSLER_GRID</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -8337,6 +8444,7 @@
             <RequiredSkillsToPrescribe>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -8384,6 +8492,7 @@
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
                 <SkillRef>SKILL_DOC_SPEC_NEUROLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredSkillsToPrescribe>
@@ -8602,6 +8711,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</RequiredStatLabQualificationRef>
@@ -8626,6 +8736,7 @@
             <Biohazard>false</Biohazard>
             <Priority>41</Priority>
             <DetachedDepartmentRef>DPT_OPHTHALMOLOGY</DetachedDepartmentRef>
+            <FallbackLabDepartmentRef>DPT_OPHTHALMOLOGY</FallbackLabDepartmentRef>
         </Procedure>
         <ExaminationType>EXAMINATION</ExaminationType>
         <Cost>50</Cost>
@@ -8640,6 +8751,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -8677,7 +8789,6 @@
         <Cost>60</Cost>
         <IconIndex>1687</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_SLIT_LAMP_EXAM</AlternativeExaminationRef>
     </GameDBExamination>
 
 
@@ -8687,6 +8798,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -8731,6 +8843,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -8759,6 +8872,7 @@
             <Biohazard>false</Biohazard>
             <Priority>96</Priority>
             <DetachedDepartmentRef>DPT_OPHTHALMOLOGY</DetachedDepartmentRef>
+            <FallbackLabDepartmentRef>DPT_OPHTHALMOLOGY</FallbackLabDepartmentRef>
         </Procedure>
         <ExaminationType>EXAMINATION</ExaminationType>
         <Cost>30</Cost>
@@ -8773,6 +8887,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</RequiredStatLabQualificationRef>
@@ -8797,6 +8912,7 @@
             <Biohazard>false</Biohazard>
             <Priority>37</Priority>
             <DetachedDepartmentRef>DPT_OPHTHALMOLOGY</DetachedDepartmentRef>
+            <FallbackLabDepartmentRef>DPT_OPHTHALMOLOGY</FallbackLabDepartmentRef>
         </Procedure>
         <ExaminationType>EXAMINATION</ExaminationType>
         <Cost>50</Cost>
@@ -8811,6 +8927,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_OPH</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_NEUROLOGY</RequiredStatLabQualificationRef>
@@ -8840,6 +8957,7 @@
             <Biohazard>false</Biohazard>
             <Priority>29</Priority>
             <DetachedDepartmentRef>DPT_OPHTHALMOLOGY</DetachedDepartmentRef>
+            <FallbackLabDepartmentRef>DPT_OPHTHALMOLOGY</FallbackLabDepartmentRef>
         </Procedure>
         <ExaminationType>EXAMINATION</ExaminationType>
         <Cost>50</Cost>
@@ -8855,8 +8973,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -8951,6 +9070,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
@@ -9046,6 +9166,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
@@ -9140,7 +9261,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
                 <RequiredEquipment>
@@ -9305,7 +9428,6 @@
         <CustomIconBigAssetRef>ASSET_MD_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_MD_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_INTERVIEW</AlternativeExaminationRef>
     </GameDBExamination>
 
     <!-- Dentistry -->
@@ -9316,6 +9438,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -9351,6 +9474,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -9386,6 +9510,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -9399,8 +9524,10 @@
                     <Tag>clean_hands</Tag>
                 </RequiredEquipment>
             </RequiredEquipmentList>
+
             <RequiredRoomTags>
-                <Tag>dentistry_office</Tag>
+                <Tag>any_office</Tag>
+                <Tag>ward</Tag>
             </RequiredRoomTags>
 
             <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
@@ -9430,6 +9557,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_RADIOLOGY</RequiredStatLabQualificationRef>
@@ -9474,7 +9602,6 @@
         <Cost>50</Cost>
         <IconIndex>1681</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_USG</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_DEN_TMJ_PALPATION">
@@ -9483,6 +9610,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -9507,7 +9635,6 @@
         <Cost>50</Cost>
         <IconIndex>1659</IconIndex>
         <DurationHours>0</DurationHours>
-    <AlternativeExaminationRef>EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT</AlternativeExaminationRef>
     </GameDBExamination>
 
     <GameDBExamination ID="EXM_DEN_MAX_MOUTH_OPENING_MEASUREMENT">
@@ -9516,6 +9643,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -9551,6 +9679,7 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_DENTISTRY</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>

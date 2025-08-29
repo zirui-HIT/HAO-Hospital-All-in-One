@@ -28,7 +28,7 @@
         <Hazard>Medium</Hazard>
 
         <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>0.1</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
 
         <PatientMobility>MOBILE</PatientMobility>
@@ -1247,7 +1247,7 @@
         <PatientMobility>MOBILE</PatientMobility>
 
         <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>0.1</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
         <Examinations>
@@ -1280,7 +1280,7 @@
         <PatientMobility>IMOBILE</PatientMobility>
 
         <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>0.5</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
         <Examinations>
@@ -1313,7 +1313,7 @@
         <PatientMobility>MOBILE</PatientMobility>
 
         <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>0.1</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
         <Examinations>
@@ -1346,7 +1346,7 @@
         <PatientMobility>IMOBILE</PatientMobility>
 
         <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>0.5</RiskOfCollapseEndHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
         <Examinations>
@@ -1378,7 +1378,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>5</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>15</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
@@ -1457,14 +1457,14 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
 
 
         <Examinations>
             <ExaminationRef>EXM_JM_THROAT_SWAB_TESTING</ExaminationRef>
-        <ExaminationRef>EXM_JM_RAPID_STREP_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_RAPID_STREP_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
@@ -1773,8 +1773,8 @@
         <Hazard>High</Hazard>
         <PatientMobility>IMOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
 
         <Examinations>

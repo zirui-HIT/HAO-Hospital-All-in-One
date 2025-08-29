@@ -30,7 +30,7 @@ I hope you have a great time playing :D
 ## Additional Content All in One
 * [More Professions](https://steamcommunity.com/sharedfiles/filedetails/?id=1804176680)
 * [Realistic Collapse and Disease Incidence](https://steamcommunity.com/sharedfiles/filedetails/?id=2704509476)
-* More Insurance Companies: [Anthem, Inc. Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311624989), [United Healthcare](https://steamcommunity.com/sharedfiles/filedetails/?id=2312636767), [Kaiser Foundation Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311625277)
+* More Insurance Companies: [Anthem, Inc. Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311624989), [United Healthcare](https://steamcommunity.com/sharedfiles/filedetails/?id=2312636767), [Kaiser Foundation Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=2311625277), [Progressive Insurance Company](https://steamcommunity.com/sharedfiles/filedetails/?id=1776512699&searchtext=Insurence), [Chaos Care Insurance](https://steamcommunity.com/sharedfiles/filedetails/?id=3128718973&searchtext=Insurence)
 * [More Diseases](https://steamcommunity.com/sharedfiles/filedetails/?id=2015448513)
 * [Hypochondriac](https://steamcommunity.com/sharedfiles/filedetails/?id=1995976999)
 * [Medical Procedure](https://steamcommunity.com/sharedfiles/filedetails/?id=2167731584)

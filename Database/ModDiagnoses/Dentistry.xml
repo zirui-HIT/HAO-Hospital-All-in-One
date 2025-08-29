@@ -1332,7 +1332,11 @@
 			<TreatmentRef>TRT_INTRAVENOUS_BERINERT</TreatmentRef>
 			<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
 		</Treatments>
+
 		<IconIndex>1437</IconIndex>
+        <CustomIconBigAssetRef>ASSET_OR_SYM_ICON004_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON004_SMALL</CustomIconSmallAssetRef>
+
 		<DepartmentRef>DPT_DENTISTRY</DepartmentRef>
 		<InsurancePayment>200</InsurancePayment>
 		<Tags>

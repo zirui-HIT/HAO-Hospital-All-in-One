@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <Database>
-	<GameDBStringTable ID="LOC_ZHHANS_ADDON_INSURADD_NAMES">
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_HAO_INSURADD_NAMES">
 		<LanguageCode>zh-Hans</LanguageCode>
 		<LanguageNameLocalized>简体中文</LanguageNameLocalized>
 		<Contributors>
@@ -47,6 +47,16 @@
 			<GameDBLocalizedString>
 				<LocID>IN_COM_DC_MD_NAME</LocID>
 				<Text>奥普斯保险公司</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>Progressive_Insurance</LocID>
+				<Text>前进保险</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>IN_NIMBIM_CHAOSCARE</LocID>
+				<Text>纷程守护</Text>
 			</GameDBLocalizedString>
 
 		</LocalizedStrings>
