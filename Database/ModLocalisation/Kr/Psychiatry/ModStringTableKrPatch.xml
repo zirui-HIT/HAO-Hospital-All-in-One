@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_KR_ADDON_NEW_PSYCHIATRY_PATCH">
+    <LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+    <Contributors>
+      <Name>바굴</Name>
+    </Contributors>
+    <LocalizedStrings>
+    
+     <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SNRIS_VENLAFAXINE</LocID>
+        <Text>벤라팍신</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SNRIS_VENLAFAXINE_DESC</LocID>
+        <Text>주요우울장애, 범불안장애, 사회불안장애 및 공황발작 치료에 사용되는 세로토닌 노르에피네프린 재흡수 억제제(SNRI)입니다. 벤라팍신의 안전성과 내약성은 SSRI와 유사하지만, 흔하게 메스꺼움을 유발하고 잠재적으로 세로토닌 증후군을 유발할 수 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+		<LocID>TRT_NEW_PSY_ANTIDEMENTIA_MEDICINE_MEMANTINE</LocID>                                          	
+		<Text>메만틴</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_NEW_PSY_ANTIDEMENTIA_MEDICINE_MEMANTINE_DESC</LocID>                                          	
+		<Text>에빅사라는 브랜드명으로 판매되는 메만틴은 NMDA 수용체 길항제입니다. 중등도에서 중도의 알츠하이머병 관련 치매 치료에 사용되며, 증상 관리에 효과적일 수 있습니다.</Text>  
+	</GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+		<LocID>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ZOLPIDEM</LocID>                                          	
+		<Text>졸피뎀</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ZOLPIDEM_DESC</LocID>                                          	
+		<Text>이미다조피리딘 계열의 비-벤조디아제핀계 수면제입니다. 중추신경 억제 수용체인 GABA 수용체 중 수면과 관계 있는 수용체에 선택적 결합을 함으로써 불면증에 도움을 줍니다. 졸피뎀은 반감기가 매우 짧고, 혈중 농도가 1.6시간만에 최고치에 달하기 때문에 특히 잠이 들기 어려운 불면증에 효과가 좋습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ZALEPLON</LocID>                                          	
+		<Text>잘레플론</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ZALEPLON_DESC</LocID>                                          	
+		<Text>GABA의 억제 효과를 강화하는 비-벤조디아제핀계 수면제입니다. 이 약물은 작용이 빠르게 시작되며 경구 복용 시 빠르게 흡수되어 수면 시작 지연 시간을 효과적으로 줄여줍니다. 그러나 작용 기간이 짧기 때문에 수면 시간을 늘리거나 밤새 깨어나는 횟수를 줄이지 않습니다. 주로 잠들기 어려운 불면증의 단기 치료에 사용됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>
+        <LocID>TRT_NMC_CARBAMAZEPINE</LocID>
+        <Text>카르바마제핀</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NMC_CARBAMAZEPINE_DESC</LocID>
+        <Text>급속순환성 또는 불쾌성 조증 에피소드를 겪는 양극성장애 환자에게 주로 사용하는 기분조절제로, 리튬에 반응하지 않는 환자에게 효과적입니다. 또한 간질발작 예방에 사용되기도 합니다. </Text>
+      </GameDBLocalizedString>
+      
+		<GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_TCM_BAILEMIAN_CAPSULES</LocID>
+        <Text>산조인탕</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_TCM_BAILEMIAN_CAPSULES_DESC</LocID>
+        <Text>한의학에서 처방하는 한약으로, 대추, 인삼, 백복령 성분이 포함되어 있습니다. 음기가 부족하여 생기는 불면증에 효과가 있다고 알려져 있습니다. 달여서 차갑게 복용합니다. </Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+		<LocID>TRT_NMC_AMITRIPTYLINE</LocID>                                          	
+		<Text>아미트리프틸린</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>TRT_NMC_AMITRIPTYLINE_DESC</LocID>                                          	
+		<Text>삼환계 항우울제로, 주요우울장애 및 야뇨증 치료에 사용됩니다.</Text>  
+	</GameDBLocalizedString>
+     
+      </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

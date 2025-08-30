@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_KR_ADDON_NEW_PSYCHIATRY_TREATMENTS">
+    <LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+    <Contributors>
+      <Name>바굴</Name>
+    </Contributors>
+    <LocalizedStrings>
+        <GameDBLocalizedString>
+            <LocID>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12</LocID>
+            <Text>비타민 B12(IM)</Text>
+        </GameDBLocalizedString>
+        <GameDBLocalizedString>
+            <LocID>TRT_INTRAMUSCULAR_INJECTION_OF_VITAMIN_B12_DESC</LocID>
+            <Text>신경학적 손상은 비타민 B12의 결핍과 관련이 있을 수 있습니다. 주로 내재적 인자 부족으로 인한 거대아세포 빈혈에 사용되며, 신경염과 같은 신경계 아급성 복합 변성의 보조 치료제로도 사용됩니다. \n\n필요한 부서: 혈액학과 / 신경의학과.</Text>
+        </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_HEM_INTRATHECAL_INJECTION_METHOTREXATE</LocID>                                          	
+        <Text>메토트렉세이트(inj)</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_HEM_INTRATHECAL_INJECTION_METHOTREXATE_DESC</LocID>                                          	
+        <Text>메토트렉세이트(MTX)를 요추 천자를 통해 척수강 내에 직접 주사합니다. \n\n필요한 부서: 혈액학과.</Text>  
+      </GameDBLocalizedString>
+      
+          <GameDBLocalizedString>
+            <LocID>TRT_NEW_PSY_TCM_JINGLING_ORAL_LIQUIDS</LocID>
+            <Text>Jingling Oral Liquid</Text>
+          </GameDBLocalizedString>
+          <GameDBLocalizedString>
+            <LocID>TRT_NEW_PSY_TCM_JINGLING_ORAL_LIQUIDS_DESC</LocID>
+            <Text>Jingling Oral Liquid, with ingredients including Radix Rehmanniae Praeparata, Rhizoma Dioscoreae, Poria, Cortex Moutan, Rhizoma Alismatis, Radix Polygalae, Os Draconis, Fructus Ligustri Lucidi, Cortex Phellodendri Chinensis, Rhizoma Anemarrhenae (salt-processed), Fructus Schisandrae Chinensis, and Rhizoma Acori Tatarinowii, can subdue yin to nourish yang, calm the mind and improve intelligence. It is used for attention deficit hyperactivity disorder (ADHD) in children, manifesting as inattention, hyperactivity, talkativeness, impulsivity, willfulness, learning difficulties, a red tongue, and a thready, rapid pulse, which are signs of kidney yin deficiency and ascendant liver yang.\n\nRequired Department: Psychiatry.</Text>
+          </GameDBLocalizedString>
+          
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_BETAHISTINE</LocID>                                          	
+        <Text>베타히스틴</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_BETAHISTINE_DESC</LocID>                                          	
+        <Text>현기증, 메니에르병, 기타 균형 장애 치료에 사용되는 약입니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_FLUNARIZINE</LocID>                                          	
+        <Text>플루나리진</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_FLUNARIZINE_DESC</LocID>                                          	
+        <Text>선택적 칼슘통로 차단제로 편두통, 전정계의 기능성 장애에 의한 어지러움, 근기능 실조 치료에 사용합니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_GINKGO_BILOBA_BEXTRACT</LocID>                                          	
+        <Text>은행잎 추출물</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_GINKGO_BILOBA_BEXTRACT_DESC</LocID>                                          	
+        <Text>말초동맥 순환장애 또는 이명, 두통, 기억력감퇴, 집중력장애, 우울감, 어지러움 등의 치매성 증상을 수반하는 기질성 뇌기능장애의 치료에 사용합니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+      
+        <GameDBLocalizedString>      
+        <LocID>TRT_NMC_METOCLOPRAMIDE</LocID>                                          	
+        <Text>메토클로프라미드(IM)</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_METOCLOPRAMIDE_DESC</LocID>                                          	
+        <Text>도파민을 차단하여 구토를 억제하고 위장관 운동을 촉진합니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+        
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_MIDAZOLAM</LocID>                                          	
+        <Text>미다졸람(IV)</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_MIDAZOLAM_DESC</LocID>                                          	
+        <Text>뇌에서 억제성 신경전달물질의 작용을 강화시켜 진정효과를 나타내는 벤조디아제핀계 약물입니다. 효과가 빠르게 나타나고 짧은 시간 동안 효과가 지속되므로 내시경검사나 수술 전에 진정 목적으로 사용됩니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+      
+        <GameDBLocalizedString>      
+        <LocID>TRT_NMC_NSAIDS_IBUPROFEN</LocID>                                          	
+        <Text>이부프로펜</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_NSAIDS_IBUPROFEN_DESC</LocID>                                          	
+        <Text>통증, 관절염, 발열, 특히 증상이 염증을 동반하는 경우에 사용되는 비스테로이드 항염증제입니다.</Text>  
+      </GameDBLocalizedString>
+        
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS</LocID>                                          	
+        <Text>아세트아미노펜(복합제제)</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_PARACETAMOL_AND_CAFFEINE_TABLETS_DESC</LocID>                                          	
+        <Text>아세트아미노펜과 카페인이 혼합된 경구 알약입니다. 두통과 해열 및 기타 통증 완화에 효과적이며, 위장장애에 대한 부담이 적습니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+      
+        <GameDBLocalizedString>      
+        <LocID>TRT_NMC_PHYSICAL_COOLING</LocID>                                          	
+        <Text>한냉치료</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_PHYSICAL_COOLING_DESC</LocID>                                          	
+        <Text>체온을 빠르게 낮추기 위해 얼음찜질이나 알코올을 사용합니다.</Text>  
+      </GameDBLocalizedString>
+        
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_PRIMIDONE</LocID>                                          	
+        <Text>프리미돈</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_PRIMIDONE_DESC</LocID>                                          	
+        <Text>두뇌와 중추신경에서 신경 자극을 조절하고, 과도하게 흥분한 신경막을 안정화하여 발작의 빈도를 낮춰줍니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_SUMATRIPTAN</LocID>                                          	
+        <Text>수마트립탄</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>      
+        <LocID>TRT_NMC_SUMATRIPTAN_DESC</LocID>                                          	
+        <Text>기저 동맥과 경막의 혈관에서 혈관 수축을 자극함으로써 편두통 및 군발두통을 완화하는 작용을 하여, 급성기 편두통 치료에 사용됩니다. \n\n필요한 부서: 신경의학과.</Text>  
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PSYCHOTHERAPY</LocID>
+        <Text>심리치료</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PSYCHOTHERAPY_DESC</LocID>
+        <Text>심리학적 원리에 따라 이루어지는 대화 치료에 기반한 치료적 접근 방식입니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_REPETITIVE_BREATHING_THERAPY</LocID>
+        <Text>종이봉투 호흡법</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_REPETITIVE_BREATHING_THERAPY_DESC</LocID>
+        <Text>과호흡을 완화하기 위헤 환자의 입과 코 위에 종이봉투를 대고 호흡하게 합니다. 혈중 이산화탄소 농도를 정상으로 되돌리는 데 도움이 됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PSYCHOSTIMUALNTS_MODAFINIL</LocID>
+        <Text>모다피닐</Text>
+      </GameDBLocalizedString> 
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PSYCHOSTIMUALNTS_MODAFINIL_DESC</LocID>
+        <Text>기면증, 교대근무 수면장애, 특발성 과다수면증 그리고 수면무호흡과 관련된 과도한 주간 졸음과 같은 수면장애의 치료를 위한 각성제로 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PSYCHOSTIMUALNTS_METHYLPHENIDATE</LocID>
+        <Text>메틸페니데이트</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PSYCHOSTIMUALNTS_METHYLPHENIDATE_DESC</LocID>
+        <Text>가장 흔히 처방되는 각성제로 중추신경계의 활동을 증가시키며, ADHD의 치료에 널리 쓰입니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_NRIS_TOMOXETINE</LocID>
+        <Text>아토목세틴</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_NRIS_TOMOXETINE_DESC</LocID>
+        <Text>선택적 노르에피네프린 재흡수 억제제(NRI)로서 ADHD 치료제로 사용됩니다. 효과는 대체로 더 흔하게 처방되는 각성제인 메틸페니데이트와 유사합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_ALPRAZOLAM</LocID>
+        <Text>알프라졸람</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_ALPRAZOLAM_DESC</LocID>
+        <Text>벤조디아제핀계 신경안정제로 불안장애, 공황장애 등에 일시적인 효과를 나타냅니다. 장기복용 또는 남용할 경우, 벤조디아제핀 중독에 의한 신체적 의존이 나타날 수 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_LORAZEPAM</LocID>
+        <Text>로라제팜</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_LORAZEPAM_DESC</LocID>
+        <Text>벤조디아제핀계 향정신성 의약품으로 뇌에서 신경흥분을 억제하여 불안 및 긴장을 감소시킵니다. 다른 벤조디아제핀계와 같이 잠재적인 높은 중독성을 보입니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_DIAZEPAM</LocID>
+        <Text>디아제팜(PO)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_DIAZEPAM_DESC</LocID>
+        <Text>벤조디아제핀계 신경안정제로 불안장애, 알코올 금단 증후군, 경련, 발작, 불면증, 하지불안 증후군을 포함한 다양한 질병 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+        <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIHYPERTENSIVE_PRAZOSIN</LocID>
+        <Text>프라조신</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIHYPERTENSIVE_PRAZOSIN_DESC</LocID>
+        <Text>전통적인 항고혈압제로 개발되었으나, 최근 외상 후 스트레스 장애(PTSD)와 관련된 악몽 치료에 상당한 효능이 있는 것으로 밝혀졌습니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MOOD_STABILIZER_LITHIUM</LocID>
+        <Text>리튬</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MOOD_STABILIZER_LITHIUM_DESC</LocID>
+        <Text>양극성장애의 조증삽화와 우울증삽화에 모두 치료효과와 예방효과가 있으며, 심한 순환형 장애에도 효과가 있습니다. 이 밖에도 분열정동장애, 반복성우울증, 항우울제 단독치료에 반응하지 않는 우울증에 치료효과가 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_HALOPERIDOL</LocID>
+        <Text>할로페리돌</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_HALOPERIDOL_DESC</LocID>
+        <Text>부티로페논계 조현병 치료제입니다. 1형 양극성장애와 관련된 조증삽화, 투렛증후군에도 효과가 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_OLANZAPINE</LocID>
+        <Text>올란자핀</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_OLANZAPINE_DESC</LocID>
+        <Text>비정형 항정신병 약물로 조현병 1형 양극성장애의 조증삽화, 우울증 및 혼재성 삽화에 효과적이며 양극성장애의 유지기 치료에도 효과적입니다.</Text>
+      </GameDBLocalizedString>
+      
+    <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_FLUVOXAMINE</LocID>
+        <Text>플루복사민</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_FLUVOXAMINE_DESC</LocID>
+        <Text>선택적 세로토닌 재흡수 억제제(SSRI) 계열의 항우울제로 주요우울장애와 강박장애(OCD) 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_PAROXETINE</LocID>
+        <Text>파록세틴</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_PAROXETINE_DESC</LocID>
+        <Text>선택적 세로토닌 재흡수 억제제(SSRI) 계열의 항우울제로 불안을 동반한 주요우울장애, 범불안장애, 공황장애, 강박장애 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+   
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_ESCITALOPRAM</LocID>
+        <Text>에스시탈로프람</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_ESCITALOPRAM_DESC</LocID>
+        <Text>렉사프로라는 이름으로 알려져 있는 선택적 세로토닌 재흡수 억제제(SSRI) 계열의 항우울제입니다. 우울증을 비롯한 다양한 질병의 치료에 광범위하게 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_FLUOXETINE</LocID>
+        <Text>플루옥세틴</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_FLUOXETINE_DESC</LocID>
+        <Text>프로작이라는 이름으로 알려져 있는 선택적 세로토닌 재흡수 억제제(SSRI) 계열의 항우울제입니다. 우울증을 비롯해 신경성 폭식증, 강박장애, 월경전 불쾌장애 등 다양한 질병의 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SNRIS_DULOXETINE</LocID>
+        <Text>둘록세틴</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SNRIS_DULOXETINE_DESC</LocID>
+        <Text>선택적 세로토닌-노르에피네프린 재흡수 억제제(SNRI) 계열의 항우울제로 우울증, 범불안장애, 만성 통증의 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MECT</LocID>
+        <Text>ECT</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MECT_DESC</LocID>
+        <Text>전기경련요법(ECT)은 환자의 안전을 위해 짧은 시간 동안 전신 마취를 하게 되고, 머리에 부착된 전극을 통해 전기를 흘려주어 약 1분 동안 인위적인 경련을 일으킵니다. 이 과정에서 다양한 신경전달물질의 변화가 일어나 정신과적 증상이 줄어들게 됩니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ESZOPICLONE</LocID>
+        <Text>에스조피클론</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_SLEEPING_DRUGS_ZS_ESZOPICLONE_DESC</LocID>
+        <Text>비-벤조디아제핀계 수면제로 불면증의 치료에 사용됩니다. 약물의존성이 나타났을 때 갑자기 복용을 중단하면 금단증상이 나타날 수 있으므로 주의해야 합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANXIOLYTIC_TANDOSPIRONE</LocID>
+        <Text>부스피론</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANXIOLYTIC_TANDOSPIRONE_DESC</LocID>
+        <Text>아자피론계 항불안제로 범불안장애를 비롯한 다양한 불안 증상 치료에 사용됩니다. 벤조디아제핀계 항불안제와 달리 습관성이 없으며 부작용도 비교적 경미합니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEMENTIA_MEDICINE_DONEPEZIL</LocID>
+        <Text>도네페질</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEMENTIA_MEDICINE_DONEPEZIL_DESC</LocID>
+        <Text>알츠하이머병과 같은 치매를 치료하는 데에 사용하는 약물로, 질병의 진행을 바꾸지는 못하지만 정신적 기능과 능력 개선에 약간의 이점이 있습니다.</Text>
+      </GameDBLocalizedString>
+  
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_TCM_SHUGAN_JIEYU_CAPSULES</LocID>
+        <Text>Shu Gan Jie Yu capsules</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_TCM_SHUGAN_JIEYU_CAPSULES_DESC</LocID>
+        <Text>Shu Gan Jie Yu capsules is an important compound preparation made from Hypericum perforatum and Eleutherococcus senticosus. It is used to soothe the liver, relieve depression, strengthen the spleen, and calm the mind. It is indicated for mild to moderate unipolar depression with symptoms of liver qi stagnation and spleen deficiency.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_TCM_WULING_CAPSULES</LocID>
+        <Text>Wu Ling capsules </Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_TCM_WULING_CAPSULES_DESC</LocID>
+        <Text>Wu Ling capsules are a pure traditional Chinese medicine formulation derived from the rare medicinal fungus Pachyma (Wu Ling Shen) using modern biotechnology. The capsules contain adenosine, polysaccharides, sterols, various amino acids, vitamins, and trace elements, and are effective in treating anxiety and depression. They have sedative and calming properties and are indicated for conditions such as insomnia, depressive and anxious states, migraines, and neuroses.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_INTRAVENOUS_INFUSION_OF_SULPIRIDE</LocID>
+        <Text>레보설피리드(IV)</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_INTRAVENOUS_INFUSION_OF_SULPIRIDE_DESC</LocID>
+        <Text>급성 정신병 증상을 완화하기 위해 정맥에 직접 주사합니다. 그러나 재발하기 쉬우며, 일반적으로 전기경련요법(ECT)에 비해 효과가 떨어집니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_CLONAZEPAM_IV</LocID>
+        <Text>디아제팜(IV)</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_CLONAZEPAM_IV_DESC</LocID>
+        <Text>벤조디아제핀계 신경안정제인 디아제팜의 정맥 주입은 공황발작과 불안을 빠르게 완화할 수 있습니다. 호흡부전을 방지하기 위해 천천히 투여해야 합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_CLONAZEPAM</LocID>
+        <Text>클로나제팜</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BZs_CLONAZEPAM_DESC</LocID>
+        <Text>벤조디아제핀계 향정신성 의약품으로 공황장애, 발작, 틱장애, 기타 운동장에 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MOOD_STABILIZER_lAMOTRIGINE</LocID>
+        <Text>라모트리진</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MOOD_STABILIZER_lAMOTRIGINE_DESC</LocID>
+        <Text>항경련제로 알려져 있지만 정신의학과에서는 기분안정제로 사용합니다. 양극성장애의 유지치료, 우울삽화, 이인증을 비롯한 경계선 인격장애 치료에 효과가 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BETA_BLOCKERS_PROPRANOLOL</LocID>
+        <Text>프로프라놀롤</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BETA_BLOCKERS_PROPRANOLOL_DESC</LocID>
+        <Text>인데놀이라는 이름으로 알려져 있는 비선택적 베타차단제입니다. 심혈관계 약물로 개발되었으나 주로 항불안제로 사용합니다. 특히 PTSD 치료에 효과가 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_QUETIAPINE</LocID>
+        <Text>쿠에티아핀</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_QUETIAPINE_DESC</LocID>
+        <Text>디벤조티아제핀계 항정신병제로 조현병, 양극성장애의 우울삽화, 불면증 치료에 사용합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_SERTRALINE</LocID>
+        <Text>설트랄린</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SSRIS_SERTRALINE_DESC</LocID>
+        <Text>선택적 세로토닌 재흡수 억제제(SSRI) 계열의 항우울제로 우울증과 강박장애를 비롯한 다양한 질환의 치료에 광범위하게 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BRAIN_FUNCTION_IMPROVEMENT_DRUGS_PIRACETAM</LocID>
+        <Text>옥시라세탐</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BRAIN_FUNCTION_IMPROVEMENT_DRUGS_PIRACETAM_DESC</LocID>
+        <Text>물리적 요인 또는 치매로 인한 뇌 기능 손상과 기억장애를 억제하는 데 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_AWAKENING_PROMOTING_DRUGS_PITOLISANT</LocID>
+        <Text>피톨리산트</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_AWAKENING_PROMOTING_DRUGS_PITOLISANT_DESC</LocID>
+        <Text>선택적 히스타민 H3 수용체 길항제로 주간졸림증과 기면증 개선에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE</LocID>
+        <Text>아리피프라졸</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_ARIPIPRAZOLE_DESC</LocID>
+        <Text>아빌리파이라는 이름으로 알려져 있는 페닐피페라진계 항정신병제입니다. 조현병, 투렛증후군 등의 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_SHAOMA_ZHIJING_GRANULES</LocID>
+        <Text>Shaoma Zhijing granules</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_SHAOMA_ZHIJING_GRANULES_DESC</LocID>
+        <Text>Shaoma Zhijing Granules are composed of Bai Shao (white peony root), Tianma (Gastrodia elata), Shizi (spiny jujube), Gou Teng (Uncaria), Lingzhi (Reishi mushroom), He Shou Wu (Polygonum multiflorum), Suan Zao Ren (Sour Jujube Seed), Cu Wu Wei Zi (vine tea), Zhi Zi (Gardenia), Dan Nan Xing (Fritillaria), and Huang Qin (Scutellaria). This formulation is used for treating Tourette's syndrome from the perspective of traditional Chinese medicine, where it is believed to address conditions of liver wind stirring and internal phlegm-heat disturbance.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIEPILEPTICS_TOPIRAMATE</LocID>
+        <Text>토피라메이트</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIEPILEPTICS_TOPIRAMATE_DESC</LocID>
+        <Text>뇌전증 및 편두통에 사용되는 항경련제이지만 정신의학과에서는 난치성 틱장애 치료에 사용합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_XIAOER_ZHILI_SYRUP</LocID>
+        <Text>Xiao'er Zhili syrup</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_XIAOER_ZHILI_SYRUP_DESC</LocID>
+        <Text>Xiao'er Zhili Syrup is a traditional Chinese medicine composed of ingredients such as tortoise shell (Gui Jia), dragon bone (Long Gu), Polygala (Yuan Zhi), Acorus (Shi Chang Pu), and rooster comb (Xiong Ji). This formulation is used to enhance cognitive function, nourish the heart and kidneys, and calm the mind. It is specifically indicated for children with attention deficit hyperactivity disorder (ADHD) associated with heart and kidney deficiency and phlegm-damp obstruction.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_NICOTINE_CHEWING_GUM</LocID>
+        <Text>니코틴 껌</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_NICOTINE_CHEWING_GUM_DESC</LocID>
+        <Text>니코틴 대체제로, 씹으면 점차적으로 니코틴을 방출하고 구강 점막을 통해 혈류로 흡수됩니다. 니코틴 금단증상을 완화하는 데 도움이 됩니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_VARENICLINE</LocID>
+        <Text>바레니클린</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_VARENICLINE_DESC</LocID>
+        <Text>금연치료에 사용되는 경구 의약품입니다. 니코틴 수용체에 부분적으로 결합하여 니코틴이 수용체에 결합되는 것을 방해함으로써 흡연으로 인한 즐거움을 느낄 수 없게 합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_NDRIS_BUPROPION</LocID>
+        <Text>부프로피온</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_NDRIS_BUPROPION_DESC</LocID>
+        <Text>노르에피네프린-도파민 재흡수 억제제(NDRI) 계열 비정형 항우울제로 주요우울장애, 니코틴 사용장애의 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_AGOMELATINE</LocID>
+        <Text>아고멜라틴</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_AGOMELATINE_DESC</LocID>
+        <Text>멜라토닌성 항우울제로 우울감과 불안감 완화, 일주기 리듬장애를 비롯한 수면장애 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BRAIN_FUNCTION_IMPROVEMENT_DRUGS_NIMODIPINE</LocID>
+        <Text>니모디핀</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_BRAIN_FUNCTION_IMPROVEMENT_DRUGS_NIMODIPINE_DESC</LocID>
+        <Text>칼슘통로 차단제로 뇌혈관에 기인한 뇌기능장애에 의한 여러 증상의 개선에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_TCM_TIANZHI_GRANULES</LocID>
+        <Text>Tianzhi granules</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_TCM_TIANZHI_GRANULES_DESC</LocID>
+        <Text>Tianzhi Granules consist of a combination of Gastrodia Elata, Uncaria Rhynchophylla, Fossilia Ossis Chinensis, Eucommia Ulmoides, Taxillus Chinensis, Poria Cocos, Fallopia Multiflora, Sophora Japonica, Gardenia Jasminoides, Scutellaria Baicalensis, Achyranthes Bidentata, and Leonurus Japonicus. This formulation is designed to calm the liver and subdue yang, nourish the liver and kidneys, and enhance cognitive function. It is used for treating cognitive decline, poor memory, slowed thinking, and disorientation resulting from liver yang rising, along with symptoms such as dizziness, headaches, irritability, insomnia, bitter mouth, dry throat, and lower back and knee weakness. This remedy is indicated for mild to moderate vascular dementia associated with liver yang rising syndrome.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MOOD_STABILIZER_SODIUM_VALPROATE</LocID>
+        <Text>발프로산나트륨</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_MOOD_STABILIZER_SODIUM_VALPROATE_DESC</LocID>
+        <Text>GABA 수용체에 작용하는 항경련제로 정신의학과에서는 기분조절제로서 사용합니다. 주로 양극성장애의 조증삽화 치료에 사용되며 특히 급속순환성, 혼재성삽화에 효과적입니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_DPD_ACETYLCYSTEINE</LocID>
+        <Text>아세틸시스테인(NAC)</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_DPD_ACETYLCYSTEINE_DESC</LocID>
+        <Text>주로 점액용해제로 사용되지만 정신의학과에서는 이인증, 아세트아미노펜 중독의 치료에 사용합니다</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_OTHER_NEW_ANTIDEPRESSSANT_DRUGS_MIRTAZAPINE</LocID>
+        <Text>미르타자핀</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_OTHER_NEW_ANTIDEPRESSSANT_DRUGS_MIRTAZAPINE_DESC</LocID>
+        <Text>노르아드레날린 특정 세로토닌(NaSSA) 계열의 광범위 항우울제로 수면 유지가 곤란한 불면증을 동반하는 주요우울장애 및 기타 기분장애의 치료 등에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SARIS_TRAZODONE</LocID>
+        <Text>트라조돈</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_SARIS_TRAZODONE_DESC</LocID>
+        <Text>세로토닌 길항제 및 재흡수 억제제(SARI) 계열의 항우울제로 주요우울장애 및 수면 유지가 곤란한 불면증 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE</LocID>
+        <Text>리스페리돈</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_RISPERIDONE_DESC</LocID>
+        <Text>비정형 항정신병제로 조현병, 양극성장애, 기타 파괴적 행동의 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+     <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ORAL_APPLIANCE</LocID>
+        <Text>구강 내 장치</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ORAL_APPLIANCE_DESC</LocID>
+        <Text>구강 내에 장치를 착용해 혀와 연구개 뒤쪽의 공간을 확보하는 비수술적 치료법입니다. 경증 수면무호흡증 및 호흡장애가 없는 코골이 환자에게 적합합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_CPAP</LocID>
+        <Text>CPAP</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_CPAP_DESC</LocID>
+        <Text>마스크를 통해 기도로 공기를 운반하는 기기입니다. 기기를 통해 생성된 공기가 기도를 충분히 개방하여 수면무호흡장애의 다양한 증상을 완화합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_FERROUS_SULFATE</LocID>
+        <Text>철분보충제</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_FERROUS_SULFATE_DESC</LocID>
+        <Text>철결핍빈혈을 치료하고 예방하는 데 사용되는 약물입니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_VITAMIN_C</LocID>
+        <Text>비타민 C</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_VITAMIN_C_DESC</LocID>
+        <Text>Vitamin C plays a crucial role in antibody and collagen formation, tissue repair (including certain redox reactions), metabolism of phenylalanine, tyrosine, and folate, utilization of iron and carbohydrates, synthesis of fats and proteins, and maintenance of immune function. It is also essential for the hydroxylation of serotonin, maintaining vascular integrity, and enhancing the absorption of non-heme iron. Vitamin C is commonly used for dietary supplementation, chronic dialysis, prevention and treatment of vitamin C deficiency, acidifying urine, and idiopathic erythrocytosis. Additionally, vitamin C can enhance iron absorption when used in conjunction with iron supplements.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_LEVODOPA_AND_BENSERAZIDE_HYDROCHLORIDE</LocID>
+        <Text>카버골린</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_LEVODOPA_AND_BENSERAZIDE_HYDROCHLORIDE_DESC</LocID>
+        <Text>Cabergoline is a combination formulation of levodopa and benserazide. Levodopa, a precursor in dopamine synthesis, can cross the blood-brain barrier and is used to increase dopamine levels in the brain, making it effective for treating Parkinson's disease, which is characterized by a deficiency of dopamine in the basal ganglia. Additionally, cabergoline can be used for treating restless legs syndrome, potentially due to its effect on normalizing dopaminergic abnormalities in the central nervous system. However, long-term use may exacerbate symptoms, so it should be administered only as needed. The levodopa component of the combination can cause gastrointestinal adverse effects, cardiovascular adverse effects, dyskinesias (involuntary movements), and psychiatric disorders.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PRAMIPEXOLE</LocID>
+        <Text>프라미펙솔</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_PRAMIPEXOLE_DESC</LocID>
+        <Text>Pramipexole is a non-ergot, selective dopamine receptor agonist that specifically stimulates dopamine D2 receptors, with minimal action on D1 receptors and low affinity for adrenergic α2 receptors. It is commonly used in the treatment of Parkinson's disease. Due to its long half-life, pramipexole does not require nighttime dosing and is well-tolerated with minimal complications during long-term use. It effectively alleviates over 90% of symptoms in restless legs syndrome (RLS), making it a first-line treatment option for RLS, with pramipexole being the only approved medication for this condition. Initial treatment may be associated with orthostatic hypotension and gastrointestinal adverse effects.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTICHOLINERGICS_TRIHEXYPHENIDYL</LocID>
+        <Text>벤즈트로핀</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTICHOLINERGICS_TRIHEXYPHENIDYL_DESC</LocID>
+        <Text>감소한 도파민 수준을 늘리기 위한 항무스카린제로 파킨슨병, 지연성 이상운동, 항정신병제 부작용으로 인한 불수의적 운동의 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_TCAs_CLOMIPRAMINE</LocID>
+        <Text>클로미프라민</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_TCAs_CLOMIPRAMINE_DESC</LocID>
+        <Text>삼환계 항우울제(TCA)로 강박장애, 주요우울장애, 공황장애, 만성 통증 치료에 사용됩니다. 특히 65세 이상 고령자의 자살 위험을 줄일 수 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_TIAPRIDE</LocID>
+        <Text>설피리드</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIPSYCHOTIC_DRUG_TIAPRIDE_DESC</LocID>
+        <Text>벤즈아마이드계 항정신병제로 투렛증후군, 무도병, 노인정신병 치료에 사용됩니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_CALCIUM_CHANNEL_REGULATOR_PREGABALIN</LocID>
+        <Text>프레가발린</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_CALCIUM_CHANNEL_REGULATOR_PREGABALIN_DESC</LocID>
+        <Text>Pregabalin is a calcium channel modulator and an anticonvulsant medication. It is commonly used to treat various types of neuropathic pain and chronic pain conditions. Additionally, it is considered a first-line treatment for generalized anxiety disorder (GAD).</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_REPLACEMENT_THERAPY_METHADONE</LocID>
+        <Text>Methadone</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_REPLACEMENT_THERAPY_METHADONE_DESC</LocID>
+        <Text>Methadone is a synthetic opioid and a typical μ-opioid receptor agonist, similar to morphine. It has effects such as analgesia, respiratory depression, miosis, and sedation, and long-term use can lead to dependence. Methadone is characterized by its convenience (oral administration, once daily), long half-life, high doses that can block the euphoric effects of heroin, and stable absorption and bioavailability. It is commonly used as a detoxification treatment for opioid dependence. Methadone is also classified as a narcotic drug.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_REPLACEMENT_THERAPY_BUPRENORPHINE</LocID>
+        <Text>Buprenorphine</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_REPLACEMENT_THERAPY_BUPRENORPHINE_DESC</LocID>
+        <Text>Buprenorphine is a semi-synthetic derivative of thebaine and is classified as a partial opioid receptor agonist. It primarily activates the μ-opioid receptor, which helps manage withdrawal symptoms, and also acts on the κ-opioid receptor while antagonizing the δ-opioid receptor. Buprenorphine is more potent than pethidine and morphine in terms of analgesic effect, but has a lower potential for dependence compared to morphine. However, long-term use can still lead to dependence. </Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_TCM_YIAN_HUISHENG_ORAL_LIQUIDS</LocID>
+        <Text>Yi'an Huisheng oral liquid</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_TCM_YIAN_HUISHENG_ORAL_LIQUIDS_DESC</LocID>
+        <Text>Yi'an Huisheng Oral Liquid, composed of Red Ginseng, Prepared Aconite, Cinnamon, Cardamom, Schisandra, Angelica Sinensis, White Peony Root, Cyperus Rotundus, Processed Corydalis, Scorpion, Salvia Miltiorrhiza, Fried Ziziphus Jujuba, and Licorice, is used for warming and tonifying the spleen and kidneys, calming the mind, and detoxifying. It is applied to alleviate withdrawal symptoms in individuals with opioid addiction, specifically those with a pattern of spleen and kidney yang deficiency.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS</LocID>
+        <Text>Fluphenazine-Melitracen tablets</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>TRT_NEW_PSY_ANTIDEPRESSSANT_DRUGS_COMPOUND_FLUPENTIXOL_AND_MELITRACEN_TABLETS_DESC</LocID>
+        <Text>Fluphenazine-Melitracen Tablets is a combination medication that includes a typical antipsychotic (fluphenazine) and a tricyclic antidepressant (melitracen). It is approved for the treatment of mild to moderate depression and anxiety symptoms, including traditional neurotic disorders or neuroticism, and is used for various functional somatic symptoms or psychosomatic disorders, such as irritable bowel syndrome, functional dyspepsia, chronic gastritis, and cardiac neurosis. The medication is known for its relatively rapid onset of action. However, it is considered to have limited long-term efficacy and may cause serious adverse effects, such as tardive dyskinesia, and significant withdrawal reactions. Therefore, it is not recommended as a routine medication for depression, anxiety disorders, or similar conditions in major clinical guidelines.</Text>
+      </GameDBLocalizedString>
+      
+      </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

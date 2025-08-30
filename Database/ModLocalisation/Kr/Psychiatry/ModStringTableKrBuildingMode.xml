@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_KR_ADDON_NEW_PSY_PSYCHIATRY_BUILDING_MODE">
+
+		<LanguageCode>kr</LanguageCode>
+		<LanguageNameLocalized>한국어</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>redbird0407</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_OFFICE</LocID>
+				<Text>정신건강의학과 진료실</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_OFFICE_DESCRIPTION</LocID>
+				<Text>외래 환자를 위한 진료실은 심리치료실 역할도 합니다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_NEW_PSY_OFFICE</LocID>
+				<Text>상담실</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_NEW_PSY_OFFICE_DESCRIPTION</LocID>
+				<Text>입원한 환자들에게 검사와 치료를 제공합니다.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>OBJECT_NEW_PSY_MECT</LocID>
+				<Text>ECT 기기</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>OBJECT_NEW_PSY_MECT_DESC</LocID>
+				<Text>전기경련요법(ECT) 기기는 약물치료가 어렵거나 효과적이지 않은 환자을 치료하기 위해 사용됩니다.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_UNIQUE_NEW_PSY_OFFICE</LocID>
+				<Text>뇌기능조절실</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_UNIQUE_NEW_PSY_OFFICE_DESC</LocID>
+				<Text>신경조절치료 및 신경 모니터링을 효과적으로 제공하기 위한 치료실입니다.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_SLEEPING_EXAMINATION_ROOM</LocID>
+				<Text>수면검사실</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_NEW_PSY_SLEEPING_EXAMINATION_ROOM_DESCRIPTION</LocID>
+				<Text>수면검사를 위한 검사실입니다.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

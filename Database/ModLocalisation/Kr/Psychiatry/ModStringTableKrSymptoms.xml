@@ -1,0 +1,1434 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_KR_ADDON_NEW_PSYCHIATRY_SYMPTOMS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+    <Contributors>
+      <Name>바굴</Name>
+    </Contributors>
+    <LocalizedStrings>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_RESTLESS_LEGS</LocID>
+        <Text>하지불안증후군</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_RESTLESS_LEGS_DESC</LocID>
+        <Text>Patients frequently describe this abnormal sensation as crawling, tingling, itching, or aching.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_PLMI</LocID>
+        <Text>수면중 주기성 사지운동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_PLMI_DESC</LocID>
+        <Text>The patient exhibits ≥5 periodic limb movements per hour during sleep, which supports the diagnosis of restless legs syndrome (RLS).</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HEBEPHRENIC_EXCITEMENT</LocID>
+        <Text>파괴성 흥분</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HEBEPHRENIC_EXCITEMENT_DESC</LocID>
+        <Text>환자가 목적이 없고 무질서한 언어 혹은 행동을 동반한 정신운동성 초조를 보입니다.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_EXCITEMENT</LocID>
+        <Text>긴장성 흥분</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_EXCITEMENT_DESC</LocID>
+        <Text>환자가 목적이나 동기가 없는 갑작스러운 폭력이나 파괴 행위 등 운동성 초조를 보입니다.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_EXCITEMENT</LocID>
+        <Text>심인성 흥분</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_EXCITEMENT_DESC</LocID>
+        <Text>Psychogenic excitement refers to a state of agitation and heightened arousal that occurs suddenly following intense psychological stimuli, characterized by extreme agitation, shouting, emotional outbursts, and even convulsive episodes. The episode may last for several hours or days before subsiding. </Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHT-EATING</LocID>
+        <Text>야식증후군</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHT-EATING_DESC</LocID>
+        <Text>Night eating involves excessive eating between dinner and bedtime or refers to eating large amounts of food after falling asleep, typically awakening during the night to consume foods high in carbohydrates. </Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SHIFT_WORK</LocID>
+        <Text>교대 근무</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SHIFT_WORK_DESC</LocID>
+        <Text>The patient’s work schedule is inconsistent with conventional social work hours, often involving work during times typically reserved for sleep (work hours outside the standard period of 8 AM to 6 PM), especially including night shifts.</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_AND_TRANSIENT_PSYCHOTIC_DISORDERS</LocID>
+        <Text>단기 정신병적 장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_AND_TRANSIENT_PSYCHOTIC_DISORDERS_DESC</LocID>
+        <Text>Acute Brief Psychotic Disorder is a psychiatric condition characterized by the sudden onset of psychotic symptoms that last for a relatively short duration, typically less than one month.</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POSSIBLE_MENTAL_DISORDERS</LocID>
+        <Text>정신질환 의심됨</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POSSIBLE_MENTAL_DISORDERS_DESC</LocID>
+        <Text>The patient exhibits signs suggestive of a psychiatric disorder or mental health condition. It is advisable to refer them for evaluation by a psychiatrist or request a psychiatric consultation.</Text>
+    </GameDBLocalizedString>
+  
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NON_SPECIFIC_ABNORMALITY_OF_ELECTROENCEPHALOGRAM</LocID>
+        <Text>비특이적인 뇌파 이상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NON_SPECIFIC_ABNORMALITY_OF_ELECTROENCEPHALOGRAM_DESC</LocID>
+        <Text>The patient's electroencephalogram (EEG) shows non-specific abnormalities, primarily characterized by irregular α-wave rhythms and increased slow-wave activity.</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TIC_DISORDERS</LocID>
+        <Text>틱장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TIC_DISORDERS_DESC</LocID>
+        <Text>Tic Disorder is a neuropsychiatric condition characterized by the presence of multiple motor and vocal tics over a period of time.</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ZOOPHOBIA</LocID>
+        <Text>동물공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ZOOPHOBIA_DESC</LocID>
+        <Text>Animal phobia is characterized by an intense and irrational fear of animals or insects, such as spiders, mice, cats, dogs, or pigs.</Text>
+    </GameDBLocalizedString>   
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_NATURAL_ENVIRONMENT</LocID>
+        <Text>자연환경공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_NATURAL_ENVIRONMENT_DESC</LocID>
+        <Text>Natural environment phobia is characterized by an intense and irrational fear of natural environments or phenomena, such as heights (acrophobia), darkness (nyctophobia), thunderstorms (astraphobia), strong winds, rain, or flowing water. </Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_BLOOD_INJECTIONS_AND_INJURIE</LocID>
+        <Text>혈액-주사-부상공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FEAR_OF_BLOOD_INJECTIONS_AND_INJURIE_DESC</LocID>
+        <Text>Blood-injection-injury phobia is characterized by an intense and irrational fear of situations involving blood, trauma, injections, tooth extraction, or surgery.</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CLAUSTROPHOBIA</LocID>
+        <Text>폐소공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CLAUSTROPHOBIA_DESC</LocID>
+        <Text>Claustrophobia is an intense and irrational fear of enclosed or confined spaces, such as airplanes, elevators, or other small or enclosed areas.</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SPECIFIC_PHOBIA</LocID>
+        <Text>특정공포증</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SPECIFIC_PHOBIA_DESC</LocID>
+        <Text>Specific phobia refers to an intense, irrational fear of a particular object, situation, or activity.</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGRO_PHOBIA</LocID>
+        <Text>광장공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGRO_PHOBIA_DESC</LocID>
+        <Text>Agoraphobia is characterized by a fear of being alone or leaving the house, as well as an intense fear of specific situations or places.</Text>
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_STEROTYPE_OF_SPEECH</LocID>
+        <Text>상동언어</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_STEROTYPE_OF_SPEECH_DESC</LocID>
+        <Text>Stereotyped speech refers to a condition where a patient exhibits repetitive and rigid verbal behavior, often due to difficulties in cognitive flexibility and limited conceptual thinking.</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COPROLALIA</LocID>
+        <Text>욕설증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COPROLALIA_DESC</LocID>
+        <Text>Coprolalia is defined as the involuntary and repetitive utterance of obscene, vulgar, or derogatory language, including offensive remarks about ethnicity, race, or religion.</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SENSORY_TICS</LocID>
+        <Text>감각 틱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SENSORY_TICS_DESC</LocID>
+        <Text>Sensory tics refer to a type of tic experienced by individuals with Tourette Syndrome or other tic disorders, where the individual has a heightened or unusual sensory perception that precedes or accompanies the tic</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_VOCAL_TICS</LocID>
+        <Text>복합 음성 틱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_VOCAL_TICS_DESC</LocID>
+        <Text>Complex vocal tics involve sudden, meaningful vocalizations</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_VOCAL_TICS</LocID>
+        <Text>단순 음성 틱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_VOCAL_TICS_DESC</LocID>
+        <Text>Simple vocal tics are characterized by sudden, meaningless vocalizations</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_MOTOR_TICS</LocID>
+        <Text>단순 운동 틱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SIMPLE_MOTOR_TICS_DESC</LocID>
+        <Text>Simple motor tics are characterized by sudden, involuntary, and purposeless movements involving one or a few muscle groups. These tics are typically non-rhythmic and may occur rapidly and repeatedly.</Text>
+    </GameDBLocalizedString>
+   
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_MOTOR_TICS</LocID>
+        <Text>복합 운동 틱</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPLEX_MOTOR_TICS_DESC</LocID>
+        <Text>Complex motor tics are characterized by movements that are more elaborate and prolonged than simple motor tics. These tics often involve multiple muscle groups and may appear more purposeful, though they are still involuntary. </Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INVOLUNTARY_MOVEMENT</LocID>
+        <Text>불수의운동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INVOLUNTARY_MOVEMENT_DESC</LocID>
+        <Text>Involuntary movements refer to abnormal motor activities that occur in patients who are fully conscious but cannot consciously control or direct these movements. </Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_HALLUCINATION</LocID>
+        <Text>강박적 환각</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_HALLUCINATION_DESC</LocID>
+        <Text>Obsessive hallucinations are defined by the persistent and repetitive experience of hallucinations with consistent content, which the individual cannot escape or dismiss. This type of hallucination leads to significant distress and is considered relatively rare.</Text>
+    </GameDBLocalizedString>
+   
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VERBAL_AUDITORY_HALLUCINATION</LocID>
+        <Text>언어형 환청</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VERBAL_AUDITORY_HALLUCINATION_DESC</LocID>
+        <Text>Auditory verbal hallucinations specifically involve hearing voices or sounds that resemble human speech. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMENT_HALLUCINATION</LocID>
+        <Text>평가형 환청</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMENT_HALLUCINATION_DESC</LocID>
+        <Text>Commentary auditory hallucinations specifically refer to auditory hallucinations where the content involves judgments or criticisms about the individual's moral character, behavior, or actions. These hallucinations often include reprimands, ridicule, or sarcasm.</Text>
+    </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ARGUMENT_HALLUCINATION</LocID>
+        <Text>논쟁형 환청</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ARGUMENT_HALLUCINATION_DESC</LocID>
+        <Text>Argumentative auditory hallucinations refer to a type of auditory hallucination where the individual hears voices engaged in arguments or debates. These voices may be perceived as arguing with each other or with the person experiencing the hallucinations.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMAND_HALLUCINATION</LocID>
+        <Text>지시형 환청</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMMAND_HALLUCINATION_DESC</LocID>
+        <Text>Command auditory hallucinations can indeed lead to severe outcomes, including self-harm and violence toward others.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VISUAL_HALLUCINATION</LocID>
+        <Text>환시</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_VISUAL_HALLUCINATION_DESC</LocID>
+        <Text>Visual hallucinations refer to the experience of seeing visual images or scenes that are not actually present in the external environment. These hallucinations can vary greatly in their content and detail.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OLFACTORY_HALLUCINATION</LocID>
+        <Text>환후</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OLFACTORY_HALLUCINATION_DESC</LocID>
+        <Text>Olfactory hallucinations refer to the experience of smelling odors that are not present in the environment. These hallucinations can involve a variety of smells, often leading to distressing emotional responses.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GUSTATORY_HALLUCINATION</LocID>
+        <Text>환미</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GUSTATORY_HALLUCINATION_DESC</LocID>
+        <Text>Gustatory hallucinations refer to the experience of tasting flavors or sensations that are not actually present in the food or environment. These hallucinations can lead to the perception of abnormal or unpleasant tastes, which can significantly impact an individual's eating behavior and overall quality of life.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TACTILE_HALLUCINATION</LocID>
+        <Text>환촉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TACTILE_HALLUCINATION_DESC</LocID>
+        <Text>Tactile hallucinations refer to the experience of feeling abnormal sensations on the skin or mucous membranes without any actual external stimulus. These hallucinations can involve a wide range of tactile experiences that are not grounded in reality.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FUNCTIONAL_HALLUCINATION</LocID>
+        <Text>기능환각</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FUNCTIONAL_HALLUCINATION_DESC</LocID>
+        <Text>Functional hallucinations refer to a phenomenon where, in the presence of objective stimuli, the individual experiences an additional, unrelated hallucination in the same sensory modality. This type of hallucination involves the simultaneous presence of both genuine perception and hallucination, with each experience occurring independently and without blending together.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_REFLEX_HALLUCINATION</LocID>
+        <Text>반사환각</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_REFLEX_HALLUCINATION_DESC</LocID>
+        <Text>Reflexive hallucinations refer to a phenomenon where an objective sensory stimulus triggers the simultaneous occurrence of a hallucination in a different sensory modality.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POVERTY_OF_THOUGHT</LocID>
+        <Text>사고빈곤</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_POVERTY_OF_THOUGHT_DESC</LocID>
+        <Text>Thought poverty refers to a type of thought disorder characterized by a decrease in the quantity and richness of thoughts, leading to reduced verbal output and limited cognitive processing.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT</LocID>
+        <Text>사고이완</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT_DESC</LocID>
+        <Text>Thought loosening refers to a type of thought disorder characterized by a lack of coherence and logical connection between thoughts. This symptom is often observed in various psychiatric conditions and impacts the clarity and organization of an individual's thinking.</Text>
+    </GameDBLocalizedString>
+   
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT</LocID>
+        <Text>사고이완</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOOSENESS_OF_THOUGHT_DESC</LocID>
+        <Text>Thought loosening refers to a type of thought disorder characterized by a lack of coherence and logical connection between thoughts. This symptom is often observed in various psychiatric conditions and impacts the clarity and organization of an individual's thinking.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLOCKING_OF_THOUGHT</LocID>
+        <Text>사고차단</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLOCKING_OF_THOUGHT_DESC</LocID>
+        <Text>Thought blocking is a cognitive symptom characterized by a sudden and involuntary interruption in the flow of thought. This interruption can cause the individual to experience a blank mind and disrupt their ability to continue or complete their line of reasoning. Thought blocking is not due to conscious distraction, forgetfulness, or attention deficit.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PRESSURE_OF_THOUGHT</LocID>
+        <Text>사고홍수</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PRESSURE_OF_THOUGHT_DESC</LocID>
+        <Text>Thought flooding is a type of thought disorder characterized by the overwhelming and involuntary emergence of a large number of thoughts or associations in the mind.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SYNBOLIC_OF_THINKING</LocID>
+        <Text>병리적인 상징적 사고</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SYNBOLIC_OF_THINKING_DESC</LocID>
+        <Text>Pathological symbolic thinking is a cognitive logic disorder characterized by a form of conceptual disorganization. It involves substituting abstract concepts with irrelevant, concrete concepts that are often difficult for others to understand without further explanation.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NEOLOGISM</LocID>
+        <Text>신어조작증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NEOLOGISM_DESC</LocID>
+        <Text>Neologisms are a type of cognitive logic disorder characterized by the fusion, condensation, and assembly of unrelated concepts. Patients create new symbols, words, graphics, or language to replace specific concepts, with meanings that are comprehensible only to themselves and appear absurd or bizarre to others.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARALOGIC_THINKING</LocID>
+        <Text>비합리적 사고</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARALOGIC_THINKING_DESC</LocID>
+        <Text>Paralogical Thinking is characterized by a lack of logical reasoning in thought processes. It manifests as conclusions that lack appropriate premises or involve inverted causal relationships.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOPHISTIC_THINKING</LocID>
+        <Text>궤변적 사고</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOPHISTIC_THINKING_DESC</LocID>
+        <Text>Sophistic thinking refers to a condition where patients engage in lengthy, verbose discourse on trivial or meaningless topics from everyday life, often lacking practical significance or concrete goals. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_THOUGHT_AMBIVALENCE</LocID>
+        <Text>양가적 사고</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_THOUGHT_AMBIVALENCE_DESC</LocID>
+        <Text>Thought ambivalence refers to a cognitive condition in which an individual simultaneously holds two opposing and contradictory concepts or beliefs. These conflicting ideas are in a state of balance or opposition, making it difficult for the individual to make a decision or choose between them.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_PERSEECUTION</LocID>
+        <Text>피해망상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_PERSEECUTION_DESC</LocID>
+        <Text>Paranoid Delusion is a type of thought disorder characterized by a fixed, unfounded belief that others are persecuting or conspiring against the individual or their loved ones. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_REFERECNE</LocID>
+        <Text>관계망상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_REFERECNE_DESC</LocID>
+        <Text>Delusion of Reference is a type of psychotic belief where individuals are convinced that events, conversations, or stimuli in their environment that are objectively unrelated to them have a special significance or are directly connected to them. This delusion involves interpreting external events or everyday occurrences as having personal relevance or as being specifically directed towards oneself.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_INFLUENCE</LocID>
+        <Text>영향망상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELUSION_OF_INFLUENCE_DESC</LocID>
+        <Text>Delusion of Influence is a type of delusion in which the patient firmly believes that their mental processes or bodily functions are being interfered with or controlled by some external entity, mysterious force, or device.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EXPERIENCE_OF_BEING_REVALED</LocID>
+        <Text>사고방송</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EXPERIENCE_OF_BEING_REVALED_DESC</LocID>
+        <Text>Experience of Being Revealed is a type of delusion where the patient firmly believes that their thoughts are known to others without being expressed through speech or other means, to the extent that they feel like a transparent person with no privacy. However, the patient may not be able to clearly describe how others come to know their thoughts. Thought diffusion emphasizes the patient's feeling that their thoughts are spreading to those around them, essentially belonging to the same concept as the experience of being revealed. For example, if a patient feels that their thoughts are being broadcasted and spreading to those around them, making them known to everyone, it is referred to as thought broadcasting. All three phenomena are disorders of thought autonomy.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APATHY</LocID>
+        <Text>무감동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APATHY_DESC</LocID>
+        <Text>Apathy refers to a reduction in emotional responsiveness to external stimuli, characterized by a diminished emotional reaction. This condition manifests as a notable decrease in emotional engagement and expression.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARATHYMIA</LocID>
+        <Text>부적절한 감정</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARATHYMIA_DESC</LocID>
+        <Text>Parathymia refers to an emotional reaction that is contrary to the nature of the external stimulus.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AMBIVALENT_FEELINGS</LocID>
+        <Text>양가감정</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AMBIVALENT_FEELINGS_DESC</LocID>
+        <Text>Ambivalent Feelings refer to the simultaneous experience of two entirely opposing and mutually contradictory emotional states. This phenomenon involves the presence of conflicting emotions at the same time, creating an internal emotional dissonance.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARABULIA</LocID>
+        <Text>부적절한 행동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PARABULIA_DESC</LocID>
+        <Text>Parabulia refers to a condition where intentional behaviors or actions are contrary to common sense or social norms, making them difficult to understand.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_STUPOR</LocID>
+        <Text>긴장성 혼미</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATATONIC_STUPOR_DESC</LocID>
+        <Text>Catatonic stupor is characterized by a state of severe motor inhibition with prominent skeletal muscle rigidity. Patients remain immobile, either sitting, standing, or lying in bed for extended periods, with fixed facial expressions and neglected autonomic functions. They exhibit no voluntary movement or verbal communication and show resistance to limb movement. Awareness of surroundings remains intact, and symptoms can persist from days to years.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_ACT</LocID>
+        <Text>강박행동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_ACT_DESC</LocID>
+        <Text>Compulsive behavior refers to actions or mental activities that a patient feels compelled to repeat, often to alleviate or counteract the discomfort and anxiety caused by obsessive thoughts. These repetitive behaviors are driven by the need to prevent or neutralize perceived threats or fears associated with obsessive ideas. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_AFFECT</LocID>
+        <Text>강박정동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_AFFECT_DESC</LocID>
+        <Text>Compulsive affect refers to an unnecessary and persistent concern or fear related to the loss of control over one’s own emotions. This type of affective experience involves excessive worry and anxiety about the possibility of uncontrollable emotional responses, such as the fear of going insane or acting in ways that are illegal or immoral.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_INTENTION</LocID>
+        <Text>강박충동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_INTENTION_DESC</LocID>
+        <Text>Compulsive intention refers to an intrusive and uncontrollable urge to act in a way that conflicts with the individual's own desires or values. Despite recognizing the irrationality of these impulses, the individual is unable to control or suppress them, leading to significant distress.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_THOUGHT</LocID>
+        <Text>강박사고</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_COMPULSIVE_THOUGHT_DESC</LocID>
+        <Text>Compulsive thought refers to the persistent, intrusive, and distressing thoughts, images, or impulses that repeatedly invade a person's mind. While individuals recognize these thoughts as irrational or irrelevant, they find themselves unable to stop or control them, leading to significant anxiety and distress. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHTMARE</LocID>
+        <Text>악몽</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NIGHTMARE_DESC</LocID>
+        <Text>Nightmare is a common parasomnia characterized by the repeated awakening from sleep, accompanied by agitation and distress. Upon awakening, individuals can quickly become alert and often recall vivid and highly realistic dreams, typically involving imminent physical danger to the individual.</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLASH_BACK</LocID>
+        <Text>트라우마 재경험</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLASH_BACK_DESC</LocID>
+        <Text>Re-experiencing traumatic events involves patients reliving the traumatic situation in various forms. This can include involuntarily recalling the distressing experience, vivid traumatic images, perceptions, and imaginations, or frequently experiencing nightmares related to the traumatic event. </Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AVOIDANCE</LocID>
+        <Text>회피</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AVOIDANCE_DESC</LocID>
+        <Text>Avoidance symptoms refer to the patient's persistent efforts to avoid situations, people, objects, thoughts, feelings, and conversations related to the traumatic event.</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DULLNESS</LocID>
+        <Text>둔감</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DULLNESS_DESC</LocID>
+        <Text>Dullness is generally considered milder than emotional apathy, with emotional apathy being milder than emotional deterioration. Patients with emotional blunting exhibit a delayed response to typical emotional stimuli, and even in the presence of intense emotional factors, their reactions remain subdued, with a lack of deep inner experience.</Text>
+    </GameDBLocalizedString>
+    
+      <GameDBLocalizedString>
+        <LocID>SYM_IRRITABILITY</LocID>
+        <Text>과민성</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_IRRITABILITY_DESCRIPTION</LocID>
+        <Text>Irritability is characterized by a heightened emotional response to general stimuli, leading to intense and unpleasant emotional experiences. Patients may become agitated, angry, or even enraged in response to minor frustrations or provocations.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_ANXIETY</LocID>
+        <Text>불안</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_ANXIETY_DESCRIPTION</LocID>
+        <Text>Anxiety is a normal response to perceived danger, but when its intensity or duration is disproportionate to the actual threat, it becomes abnormal. Pathological anxiety is characterized by persistent tension, worry, and fear without objective justification, often accompanied by various somatic and autonomic nervous system disturbances.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ELATION</LocID>
+        <Text>의기양양함</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ELATION_DESC</LocID>
+        <Text>Elation in clinical terms refers to a marked enhancement in emotional activity, characterized by persistent feelings of joy, cheerfulness, and an exaggerated sense of well-being. Patients exhibit an unusually high mood, with behaviors reflecting a state of being excessively pleased, optimistic, and confident. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELIRIUM</LocID>
+        <Text>섬망</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DELIRIUM_DESC</LocID>
+        <Text>Delirium, also known as acute brain syndrome or acute organic syndrome, is characterized by a fundamental disturbance in consciousness and overall mental activity. It manifests with a decreased clarity of consciousness and is accompanied by various cognitive impairments. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSION</LocID>
+        <Text>우울</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSION_DESC</LocID>
+        <Text>Depression refers to a sustained state of emotional distress characterized by feelings of sadness, melancholy, and dejection over a period of time. It is associated with an enhancement of negative emotions, in contrast to elevated mood.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOBULIA</LocID>
+        <Text>의욕감퇴</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOBULIA_DESC</LocID>
+        <Text>Hypobulia, also known as reduced volition, refers to a significant reduction in volitional activity, where the patient exhibits a pathological lack of initiative and ambition. They demonstrate diminished resolve and strength to overcome difficulties, showing a pervasive disinterest in surrounding activities and a lack of motivation.</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INHIBITION_OF_THOUGHT</LocID>
+        <Text>정신운동지연</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INHIBITION_OF_THOUGHT_DESC</LocID>
+        <Text>Psychomotor retardation refers to a significant slowing of associative thinking, a decrease in the quantity of thoughts, and difficulties in generating associations. Patients often perceive their thinking as dull, with slow reactions, difficulties in problem-solving, and impaired memory. In conversation, they may exhibit reduced speech, slow verbal response, a low tone of voice, and simple expressions. </Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLIGHT_OF_THOUGHT</LocID>
+        <Text>경주사고</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_FLIGHT_OF_THOUGHT_DESC</LocID>
+        <Text>Thought racing is a type of manic thought disorder characterized by accelerated associative processes. The individual experiences a torrent of ideas and concepts that come in rapid succession.</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GRANDIOSE_DELUSION</LocID>
+        <Text>과대망상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GRANDIOSE_DELUSION_DESC</LocID>
+        <Text>Delusions of grandeur refer to the patient's belief that they hold a high position of power or authority; claim extraordinary talents or numerous groundbreaking inventions; assert they possess immense wealth and spend it extravagantly; or believe they belong to a prestigious lineage or noble heritage.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERBULIA</LocID>
+        <Text>의욕과잉</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERBULIA_DESC</LocID>
+        <Text>Hyperbulia refers to an abnormal increase in volitional activity, characterized by excessive confidence and persistent behavior. </Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TRANSFERENCE_OF_ATTENTION</LocID>
+        <Text>주의력의 전환</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TRANSFERENCE_OF_ATTENTION_DESC</LocID>
+        <Text>Attention shifting primarily refers to the increased excitability and decreased stability of passive attention. Patients exhibit a heightened responsiveness to external stimuli, causing their focus to shift frequently and easily from one object or task to another. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUNTING_OF_ATTENTION</LocID>
+        <Text>주의력의 둔화</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUNTING_OF_ATTENTION_DESC</LocID>
+        <Text>Attention blunting refers to the slow concentration and difficulty in shifting attention.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_STUPOR</LocID>
+        <Text>우울성 혼미</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_STUPOR_DESC</LocID>
+        <Text>Depressive stupor is one of the most severe manifestations of a depressive episode. Along with profound mood depression, patients exhibit a marked reduction in speech and behavior, sometimes to the point of having no spontaneous actions or speech. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SUICIDE</LocID>
+        <Text>자살</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SUICIDE_DESC</LocID>
+        <Text>Suicide refers to the intentional and premeditated act of self-harm or self-destruction, often driven by severe feelings of hopelessness, hallucinations, delusions, or other pathological psychological conditions.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EARLY_AWAKENING</LocID>
+        <Text>일찍 깸</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EARLY_AWAKENING_DESC</LocID>
+        <Text>Early Awakening refers to the condition where a person wakes up earlier than desired or expected, often significantly earlier than their intended wake-up time, and is unable to return to sleep. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIFFICULTY_FALLING_ASLEEP</LocID>
+        <Text>잠들기 어려움</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIFFICULTY_FALLING_ASLEEP_DESC</LocID>
+        <Text>Difficulty Falling Asleep refers to the difficulty or prolonged effort required to initiate sleep. Individuals experiencing this symptom may struggle to fall asleep despite feeling tired or having an adequate sleep opportunity. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_MAINTENANCE_DISORDER</LocID>
+        <Text>수면유지장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_MAINTENANCE_DISORDER_DESC</LocID>
+        <Text>Patients have difficulty maintaining sleep and often have difficulty falling asleep again after awakening in the middle of the night.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DAYTIME_SLEEPINESS</LocID>
+        <Text>주간졸림증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DAYTIME_SLEEPINESS_DESC</LocID>
+        <Text>Daytime Sleepiness refers to a condition where patients struggle to maintain alertness and wakefulness during the daytime, despite needing to stay awake and attentive.</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_SYNDROME</LocID>
+        <Text>지속적 우울</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPRESSIVE_SYNDROME_DESC</LocID>
+        <Text>Patients with depressive syndrome experience a persistent state of low mood, characterized by a significant decrease in interest and energy, and a notable lack of pleasure. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANXIETY_TENSION_SYNDROME</LocID>
+        <Text>지속적 불안</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANXIETY_TENSION_SYNDROME_DESC</LocID>
+        <Text>Anxiety syndrome, also known as generalized anxiety disorder (GAD), is characterized by a predominant cluster of anxiety symptoms. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INSOMNIA</LocID>
+        <Text>불면증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INSOMNIA_DESC</LocID>
+        <Text>The patient had clinically significant insomnia as measured by the Athens Insomnia Scale.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_INSOMNIA</LocID>
+        <Text>불면증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_INSOMNIA_DESC</LocID>
+        <Text>Polysomnography (PSG) revealed that the patient had prolonged sleep latency, extended wake after sleep onset, reduced sleep efficiency, and shortened objective sleep time. These findings are consistent with a diagnosis of insomnia. No evidence of sleep-disordered breathing was observed.</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_IMPAIRED_COGNITIVE_FUNCTION</LocID>
+        <Text>인지 저하</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_IMPAIRED_COGNITIVE_FUNCTION_DESC</LocID>
+        <Text>Cognitive impairment refers to a decline in one or more cognitive domains, such as memory, attention, executive function, or problem-solving skills. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BIPOLAR_DISORDER</LocID>
+        <Text>양극성장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BIPOLAR_DISORDER_DESC</LocID>
+        <Text>Bipolar disorder is a mental health condition characterized by significant and severe mood swings, which include emotional highs (mania or hypomania) and lows (depression). </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PTSD</LocID>
+        <Text>PTSD</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PTSD_DESC</LocID>
+        <Text>Post-traumatic stress disorder (PTSD) is a mental health condition triggered by experiencing or witnessing a traumatic event. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OBSESSIVE-COMPULSIVE_DISORDER</LocID>
+        <Text>강박장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OBSESSIVE-COMPULSIVE_DISORDER_DESC</LocID>
+        <Text>Obsessive-compulsive disorder (OCD) is a chronic mental health condition characterized by the presence of obsessions (recurrent, intrusive thoughts, images, or urges) and/or compulsions (repetitive behaviors or mental acts performed to reduce the anxiety caused by obsessions).</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GENERALIZED_ANXIETY_DISORDER</LocID>
+        <Text>범불안장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_GENERALIZED_ANXIETY_DISORDER_DESC</LocID>
+        <Text>Generalized anxiety disorder is a chronic mental health condition characterized by excessive, uncontrollable, and often irrational worry about various aspects of life, including personal health, work, social interactions, and everyday routines.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOMATIC_SYMPTOM_DISORDER</LocID>
+        <Text>신체화장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOMATIC_SYMPTOM_DISORDER_DESC</LocID>
+        <Text> Somatic symptom disorder is a mental health condition characterized by a preoccupation with physical symptoms that cause significant distress or impairment. The symptoms are often distressing and may or may not be associated with a known medical condition, but the focus is on the excessive thoughts, feelings, or behaviors related to these symptoms.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MAJOR_DEPRESSIVE_DISORDER</LocID>
+        <Text>우울장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MAJOR_DEPRESSIVE_DISORDER_DESC</LocID>
+        <Text>Depressive disorder is a mental health condition characterized by persistent feelings of sadness, hopelessness, and a lack of interest or pleasure in daily activities. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SCHIZOPHRENIA</LocID>
+        <Text>조현병</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SCHIZOPHRENIA_DESC</LocID>
+        <Text>Schizophrenia is a chronic and severe mental disorder characterized by a profound disruption in thought processes, perceptions, emotional responsiveness, and social functioning. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CHRONIC_INSOMNIA</LocID>
+        <Text>만성 불면증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CHRONIC_INSOMNIA_DESC</LocID>
+        <Text>Chronic insomnia disorder is a sleep disorder characterized by persistent difficulties with sleep initiation, maintenance, or early morning awakening despite adequate opportunities for sleep, leading to daytime impairment or distress. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ALCOHOL_WITHDRAWAL</LocID>
+        <Text>알코올 금단증후군</Text>
+    </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ALCOHOL_WITHDRAWAL_DESC</LocID>
+        <Text>Alcohol withdrawal refers to a range of symptoms that occur when an individual who has been consuming alcohol regularly and in significant amounts suddenly reduces or stops alcohol intake. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION</LocID>
+        <Text>이인증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION_DESC</LocID>
+        <Text>Derealization, also known as derealization or reality detachment, refers to a condition where patients experience a diminished clarity in the perception of their surroundings. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PANIC_ATTACK</LocID>
+        <Text>공황발작</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PANIC_ATTACK_DESC</LocID>
+        <Text>A panic attack is a sudden and intense episode of overwhelming fear or discomfort that reaches its peak within minutes and is characterized by a variety of physical and cognitive symptoms.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_AMNESIA</LocID>
+        <Text>심인성 기억상실</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_AMNESIA_DESC</LocID>
+        <Text>Psychogenic amnesia refers to the inability to recall specific periods or events from the past, typically related to particularly distressing or traumatic experiences. This condition may last for days, months, or even longer.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPONESIA</LocID>
+        <Text>기억력 감퇴</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPONESIA_DESC</LocID>
+        <Text>Hyponesia refers to a generalized decline in the functioning of all basic memory processes, characterized by a reduction in recent memory. In more severe cases, remote memory is also affected.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERMNESIA</LocID>
+        <Text>기억과다증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERMNESIA_DESC</LocID>
+        <Text>Hypermnesia refers to an enhanced ability to recall past events and experiences that would typically have been forgotten under normal circumstances.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOCIAL_PHOBIA</LocID>
+        <Text>사회공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SOCIAL_PHOBIA_DESC</LocID>
+        <Text>In social situations, the fear of interacting with others is referred to as social phobia or social anxiety.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PERFORMANCE_ANXIETY</LocID>
+        <Text>수행불안</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PERFORMANCE_ANXIETY_DESC</LocID>
+        <Text>Performance anxiety refers to the excessive fear and anxiety experienced by an individual when speaking in public or performing in front of an audience.</Text>
+    </GameDBLocalizedString>
+    
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUSH_PHOBIA</LocID>
+        <Text>적면공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BLUSH_PHOBIA_DESC</LocID>
+        <Text>Erythrophobia refers to the fear of blushing in social situations or when interacting with others in public.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EYE_PHOBIA</LocID>
+        <Text>눈맞춤 공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EYE_PHOBIA_DESC</LocID>
+        <Text>Eye phobia refers to the fear of making eye contact with others.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APHASIA</LocID>
+        <Text>실어증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APHASIA_DESC</LocID>
+        <Text>Aphasia refers to the loss of the ability to understand or express language due to localized damage in certain areas of the brain. Patients with aphasia have clear consciousness and do not suffer from sensory deficits or paralysis of the speech muscles. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APRAXIA</LocID>
+        <Text>실행증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_APRAXIA_DESC</LocID>
+        <Text>Apraxia is a condition in which an individual, despite having normal sensory function, muscle strength, and coordination, is unable to perform purposeful movements.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGNOSIA</LocID>
+        <Text>실인증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AGNOSIA_DESC</LocID>
+        <Text>Agnosia is a neurological disorder characterized by the inability to recognize or identify objects, sounds, or other sensory stimuli despite having intact sensory function. This impairment occurs at the cortical level of the brain, and is not due to damage to peripheral sensory organs such as hearing loss. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ORGANIC_PERSONALITY_CHANGE</LocID>
+        <Text>기질성 인격장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ORGANIC_PERSONALITY_CHANGE_DESC</LocID>
+        <Text>Organic Personality Change specifically results from organic brain pathology and is considered part of the primary disease symptoms.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBRAL_ATROPHY</LocID>
+        <Text>뇌위축</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBRAL_ATROPHY_DESC</LocID>
+        <Text>Cerebral Atrophy refers to the imaging manifestation of abnormal reduction in brain cells and the shrinkage of brain tissue. It can be a sign of normal aging or result from various causes such as brain injury, neurological diseases, or infections.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HIPPOCAMPAL_ATROPHY</LocID>
+        <Text>해마위축</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HIPPOCAMPAL_ATROPHY_DESC</LocID>
+        <Text>Selective atrophy of the temporal lobe, particularly the hippocampal structures, is considered a hallmark pathological feature of Alzheimer's disease.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIVERGENCE_OF_ATTENTION</LocID>
+        <Text>주의산만</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DIVERGENCE_OF_ATTENTION_DESC</LocID>
+        <Text>Divergence of Attention refers to a marked reduction in the ability to focus and sustain attention on a specific object or task.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERACTIVITY</LocID>
+        <Text>과잉행동</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPERACTIVITY_DESC</LocID>
+        <Text>Hyperactivity is characterized by excessive activity, heightened excitement, and increased restlessness.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LEARNING_DIFFICULTY</LocID>
+        <Text>학습 어려움</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LEARNING_DIFFICULTY_DESC</LocID>
+        <Text>The patient may experience learning difficulties and poor academic performance due to intellectual disability, attention problems, or cognitive impairments.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ADHD</LocID>
+        <Text>ADHD</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ADHD_DESC</LocID>
+        <Text>Attention-Deficit/Hyperactivity Disorder (ADHD) is a common neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LIFE_EVENT</LocID>
+        <Text>큰 사건</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LIFE_EVENT_DESC</LocID>
+        <Text>Patients were experiencing significant life events prior to the onset of their condition, such as bereavement, divorce or career changes. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATAPLEXY</LocID>
+        <Text>탈력발작</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CATAPLEXY_DESC</LocID>
+        <Text>Cataplexy refers to a sudden and brief episode of muscle weakness or paralysis caused by a complete or partial loss of bilateral muscle tone, resulting in generalized or localized flaccid attacks. These episodes can manifest as falls, head droop, eyelid droop, mouth opening, or tongue protrusion. </Text>
+    </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_PARALYSIS</LocID>
+        <Text>수면마비</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_PARALYSIS_DESC</LocID>
+        <Text>Sleep paralysis is a transient condition that occurs during the transition between sleep and wakefulness. It is characterized by a temporary inability to move or speak, despite being fully conscious. Episodes typically last for a few seconds to a few minutes.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_RELATED_HALLUCINARION</LocID>
+        <Text>수면시 환각</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_SLEEP_RELATED_HALLUCINARION_DESC</LocID>
+        <Text>Sleep hallucinations encompass a range of phenomena, including hypnagogic (occurring while falling asleep) and hypnopompic (occurring upon waking) hallucinations. These experiences involve vivid sensory perceptions, which can be visual, auditory, or tactile.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_BARCOLEPSY</LocID>
+        <Text>기면증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_BARCOLEPSY_DESC</LocID>
+        <Text>Presence of REM sleep within a short period after sleep onset (typically within 15 minutes), which is unusual in healthy individuals.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MSLT_BARCOLEPSY</LocID>
+        <Text>기면증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_MSLT_BARCOLEPSY_DESC</LocID>
+        <Text>The Multiple Sleep Latency Test (MSLT) shows a shortened average sleep latency and the presence of two or more sleep-onset REM periods (SOREMPs).</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOW_LEVELS_OF_OREXIN_IN_CEREBROSPINAL_FLUID</LocID>
+        <Text>오렉신 농도 낮음</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_LOW_LEVELS_OF_OREXIN_IN_CEREBROSPINAL_FLUID_DESC</LocID>
+        <Text>The patient has low levels of orexin in cerebrospinal fluid (CSF).</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OVERPRICED_FEAR_OF_OBESITY</LocID>
+        <Text>비만공포증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_OVERPRICED_FEAR_OF_OBESITY_DESC</LocID>
+        <Text>Obesophobia refers to a persistent and uncontrollable fear of becoming overweight, which leads individuals to adopt extreme measures to prevent weight gain. Patients often engage in behaviors such as restricting food intake, excessive physical exercise, abusing laxatives or diet pills, and inducing vomiting.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BODY_IMAGE_DISORDER</LocID>
+        <Text>신체이형장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_BODY_IMAGE_DISORDER_DESC</LocID>
+        <Text>The patient exhibits distorted body perception. One manifestation involves the belief of being overweight despite being underweight, with such perceptions often focused on specific body parts like the thighs or abdomen. Additionally, some patients experience a sensation of their body expanding immediately after eating, or even feel their body becomes fat as soon as food is placed in their mouth.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANOREXIA_NERVOSA</LocID>
+        <Text>신경성 식욕부진증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ANOREXIA_NERVOSA_DESC</LocID>
+        <Text>Anorexia nervosa is an eating disorder characterized by an intense fear of gaining weight, a distorted body image, and a severe restriction of food intake leading to significant weight loss.</Text>
+    </GameDBLocalizedString>
+    
+   <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INCREASED_APPETITE</LocID>
+        <Text>이상식욕항진증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_INCREASED_APPETITE_DESC</LocID>
+        <Text>Increased appetite, also known as hyperphagia, refers to a heightened or excessive desire to eat.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TOBACCO_WITHDRAWAL</LocID>
+        <Text>니코틴 금단증상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TOBACCO_WITHDRAWAL_DESC</LocID>
+        <Text>Tobacco withdrawal refers to the physiological and psychological symptoms experienced when an individual who has been using tobacco products.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EMOTIONAL_FRAGILITY</LocID>
+        <Text>정서적 취약성</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EMOTIONAL_FRAGILITY_DESC</LocID>
+        <Text>Emotional vulnerability refers to an exaggerated emotional response to minor external stimuli. Individuals with this condition experience heightened sensitivity to emotional triggers, resulting in intense and sometimes uncontrollable emotional reactions.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EUPHORIA</LocID>
+        <Text>다행감</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_EUPHORIA_DESC</LocID>
+        <Text>Euphoria is characterized by a state of excessive self-satisfaction and pleasure that is disconnected from the surrounding environment. Individuals may feel inexplicably happy, often without a clear reason for their elevated mood. The content of this euphoria is typically repetitive and lacks depth. The facial expressions of those experiencing euphoria are often joyful but can appear foolish or silly, failing to resonate with others.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBROVASCULAR_DISEASE</LocID>
+        <Text>뇌졸중</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_CEREBROVASCULAR_DISEASE_DESC</LocID>
+        <Text>The patient has cerebrovascular disease, including but not limited to cerebral infarction, cerebral hemorrhage, leukoaraiosis, and chronic cerebral ischemia.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AFFECTIVE_PARALYSIS</LocID>
+        <Text>감정적 마비</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_AFFECTIVE_PARALYSIS_DESC</LocID>
+        <Text>Affective paralysis, also known as affective shock, refers to a temporary suppression of emotional responses caused by intense psychological stress. Patients in this state may experience extreme sorrow or terror but exhibit a lack of internal emotional experience and facial expression, appearing as if they are in a daze, sometimes even unresponsive to painful stimuli or showing signs of stupor. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOPROSEXIA</LocID>
+        <Text>집중력 저하</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOPROSEXIA_DESC</LocID>
+        <Text>Hypoprosexia refers to a decline in an individual's ability to focus on external stimuli. This condition involves a reduction in both voluntary and involuntary attention. It is characterized by difficulty in maintaining concentration, decreased stability of attention, and a narrowing of the attentional focus.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NARROWING_OF_ATTENTION</LocID>
+        <Text>제한된 주의력</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_NARROWING_OF_ATTENTION_DESC</LocID>
+        <Text>Narrowed attention refers to a significant constriction in the range of attention, with a marked reduction in active attention. The patient is able to perceive stimuli normally within this narrowed range, but stimuli outside of this limited focus are difficult to notice or respond to.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOESTHESIA</LocID>
+        <Text>감각저하</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_HYPOESTHESIA_DESC</LocID>
+        <Text>Hypoesthesia is defined as a reduction in sensory perception, characterized by an increased threshold for detecting external stimuli. Patients with hypoesthesia may experience a diminished sensitivity to strong stimuli or may be unable to perceive sensations altogether (sensory loss).</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_JAMAIS_VU</LocID>
+        <Text>기시감</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_JAMAIS_VU_DESC</LocID>
+        <Text>Déjà vu is characterized by the feeling that previously familiar situations, people, or places are being encountered as if they are new and unfamiliar.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION_DIA</LocID>
+        <Text>이인증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DEPERSONALIZATION_DIA_DESC</LocID>
+        <Text>Depersonalization refers to a dissociative symptom where individuals experience a sense of detachment or estrangement from their own thoughts, feelings, or sense of self. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYS_NEW_PSY_SNORE</LocID>
+        <Text>코골이</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYS_NEW_PSY_SNORE_DESC</LocID>
+        <Text>Snoring refers to the sound produced by the vibration of tissues in the upper airway due to narrowing or collapse of the airway. This occurs when airflow through the constricted or collapsed parts of the airway, such as the soft palate, uvula, tongue, or pharyngeal walls, accelerates or creates turbulence, leading to the repetitive sound of snoring.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_OBSTRUCTIVE_SLEEP_APNEA</LocID>
+        <Text>폐쇄성 수면무호흡증</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSG_OBSTRUCTIVE_SLEEP_APNEA_DESC</LocID>
+        <Text>Polysomnography (PSG) findings indicate an Apnea-Hypopnea Index (AHI) of ≥5 events per hour, with episodes primarily characterized by obstructive apnea and hypopnea.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TEILIGHT_STATE</LocID>
+        <Text>의식 혼탁</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_TEILIGHT_STATE_DESC</LocID>
+        <Text>Teilight State refers to a condition characterized by a narrowing of consciousness with a concomitant decrease in the clarity of awareness. Within this restricted field of consciousness, patients can perceive external stimuli and respond normally. However, they may have difficulty recognizing or understanding things beyond this limited range.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DISRIENTATION</LocID>
+        <Text>지남력 상실</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_DISRIENTATION_DESC</LocID>
+        <Text>Orientation disorder is characterized by a loss or error in the ability to accurately recognize and understand one's environment and personal status.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_STUPOR</LocID>
+        <Text>심인성 혼미</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOGENIC_STUPOR_DESC</LocID>
+        <Text>Psychogenic stupor is a condition characterized by a marked suppression of behavior and speech following acute, intense psychological trauma.</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_STRESS_DISORDER</LocID>
+        <Text>급성 스트레스 장애</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_ACUTE_STRESS_DISORDER_DESC</LocID>
+        <Text>Acute stress disorder is a mental health condition that can occur after an individual experiences a traumatic event. It is characterized by severe anxiety, dissociation, and other symptoms that occur within three days to one month following the trauma. </Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOTIC_SYMPTOMS</LocID>
+        <Text>정신병 증상</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>SYM_NEW_PSY_PSYCHOTIC_SYMPTOMS_DESC</LocID>
+        <Text>Patients exhibit significant and persistent abnormalities in cognition, emotional regulation, or behavior, with a disruption in the integrity and coherence of mental activities. Their reality testing and social functioning are severely impaired, leading to an inability to adapt to normal life, accompanied by a lack of insight.</Text>
+    </GameDBLocalizedString>
+    
+    
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

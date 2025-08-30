@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_KR_ADDON_NEW_PSYCHIATRY_EXAMINATIONS">
+  <LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+    <Contributors>
+      <Name>바굴</Name>
+    </Contributors>
+    <LocalizedStrings>
+    
+    <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSG</LocID>
+        <Text>수면다원검사(PSG)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSG_DESC</LocID>
+        <Text>수면장애를 진단하기 위한 검사로, 수면 중 뇌파, 안구운동, 근육의 움직임, 호흡, 심전도 등을 종합적으로 측정하고 동시에 수면 상태를 비디오를 통해 녹화합니다.</Text>
+      </GameDBLocalizedString>
+      
+       <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MSLT</LocID>
+        <Text>다중수면잠복기검사(MSLT)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MSLT_DESC</LocID>
+        <Text>아침부터 2시간 간격으로 4-5회에 걸쳐서 30분씩 낮잠에 드는 속도를 검사합니다. 기면증과 수면과다증 진단에 필수적입니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_OREXIN_IN_CEREBROSPINAL_FLUID_TEST</LocID>
+        <Text>요추 천자(오렉신)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_OREXIN_IN_CEREBROSPINAL_FLUID_TEST_DESC</LocID>
+        <Text>뇌척수액을 채취하여 뇌척수액 내 오렉신-A 농도가 100 pg/ml 이하 또는 정상치의 1/3 미만인지 여부를 판단하여 기면증을 진단하는 데 사용됩니다. MSLT를 받기 어렵고 향정신성 약물을 사용 중이며 중단하기 어려운 환자에게 특히 유용합니다.</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SPINAL_FLUID_ANALYSIS_TESTING</LocID>
+        <Text>Spinal Fluid Orexin Analysis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SPINAL_FLUID_ANALYSIS_TESTING_DESC</LocID>
+        <Text>뇌척수액 내 오렉신-A의 농도가 100 pg/ml 이하 또는 정상치의 1/3 미만인지 분석합니다. 이는 기면증을 진단하는 데 사용됩니다.</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_BDI</LocID>
+        <Text>벡우울척도(BDI)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_BDI_DESC</LocID>
+        <Text>어린이와 성인의 우울 정도를 측정하는 데 사용되는 21개의 객관식 질문으로 구성된 자가보고 설문지입니다.</Text>
+      </GameDBLocalizedString>
+    
+     <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SAS</LocID>
+        <Text>자가평가 불안척도(SAS)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_SAS_DESC</LocID>
+        <Text>심리적 성향, 생리적 성향, 전반적인 정동 영역을 평가하여 불안 수준을 측정하는 20문항의 자가보고 설문지입니다.</Text>
+      </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MMSE</LocID>
+        <Text>간이정신상태검사(MMSE)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_MMSE_DESC</LocID>
+        <Text>단시간 내에 간단하게 노인의 인지기능과 치매여부를 평가하기 위한 표준화된 검사도구입니다.</Text>
+      </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_AIS</LocID>
+        <Text>아테네 불면 척도(AIS)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_AIS_DESC</LocID>
+        <Text>불면증의 심각도를 평가하기 위한 8문항으로 이루어진 자가보고 설문지입니다.</Text>
+      </GameDBLocalizedString>
+    
+		<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_CONSCIOUSNESS</LocID>
+        <Text>정신과적 평가-의식</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_CONSCIOUSNESS_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 의식 수준을 파악합니다.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_APPETITE</LocID>
+        <Text>정신과적 평가-식욕</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_APPETITE_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 식욕을 파악합니다.</Text>
+      </GameDBLocalizedString>
+	
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_ATTENTION</LocID>
+        <Text>정신과적 평가-주의력</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_ATTENTION_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 주의력을 파악합니다.</Text>
+      </GameDBLocalizedString>
+    
+	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_EMOTION</LocID>
+        <Text>정신과적 평가-감정</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_EMOTION_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 감정을 파악합니다..</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_WILL</LocID>
+        <Text>정신과적 평가-의지</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_WILL_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 의지를 파악합니다.</Text>
+      </GameDBLocalizedString>
+    
+    	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MOVEMENT</LocID>
+        <Text>정신과적 평가-몸짓</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MOVEMENT_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 몸짓을 파악합니다.</Text>
+      </GameDBLocalizedString>
+      
+      	<GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_SUICIDE</LocID>
+        <Text>정신과적 평가-자살 및 자해행동</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_SUICIDE_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 자살 및 자해행동을 파악합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERCEPTION</LocID>
+        <Text>정신과적 평가-지각</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERCEPTION_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 지각능력을 파악합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT</LocID>
+        <Text>정신과적 평가-사고</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_THOUGHT_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 사고를 파악합니다.</Text>
+      </GameDBLocalizedString>
+    
+	 <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MEMORY</LocID>
+        <Text>정신과적 평가-기억력</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_MEMORY_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 기억력을 파악합니다.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_INTERVIEW_SLEEP</LocID>
+        <Text>정신과적 평가-수면</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_INTERVIEW_SLEEP_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 수면 관련 정보를 파악합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERSONALITY</LocID>
+        <Text>정신과적 평가-인격</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_PERSONALITY_DESC</LocID>
+        <Text>정신과적 평가를 통해 환자의 인격을 파악합니다.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EDUCATION</LocID>
+        <Text>교육적 배경 파악</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EDUCATION_DESC</LocID>
+        <Text>학업성취도, 교사-학생 관계, 선호하는 여가활동, 최종학력, 전공 분야, 선택한 전공 분야에 대한 만족도, 교육을 중단한 이력 등 환자의 교육적 배경에 대한 정보를 수집합니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EMPLOYMENT_HISTORY</LocID>
+        <Text>직업적 배경 파악</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_EMPLOYMENT_HISTORY_DESC</LocID>
+        <Text>환자의 직업에 대해 묻습니다.</Text>
+      </GameDBLocalizedString>
+      
+     <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_STRESS_EVENT</LocID>
+        <Text>스트레스 사건 파악</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_STRESS_EVENT_DESC</LocID>
+        <Text>스트레스 사건은 사랑하는 사람의 죽음, 이혼, 개학, 큰 재정적 손실, 심각한 질병, 신체적 폭행, 자연재해 등 개인에게 영향을 미치는 중요한 삶의 사건을 의미합니다. 이러한 사건은 현재 정신과적 증상의 형성과 발현에 일정한 의미를 가질 수 있습니다.</Text>
+      </GameDBLocalizedString>
+      
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_SUBSTANCE_USE</LocID>
+        <Text>물질 사용 이력 파악 </Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_HISTORY_TAKING_SUBSTANCE_USE_DESC</LocID>
+        <Text>담배, 술, 마약, 처방약의 오남용 등의 물질 사용 이력을 기록합니다. 환자는 이러한 문제에 대해 회피하거나 의도적으로 오해를 불러일으킬 수 있으므로 소변 또는 혈액 검사와 같은 기타 출처에서 정보를 수집해야 할 수 있습니다.</Text>
+      </GameDBLocalizedString>
+    
+	  <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_DIFFERENTIAL_DIAGNOSIS</LocID>
+        <Text>정신의학적 감별진단</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_DIFFERENTIAL_DIAGNOSIS_DESC</LocID>
+        <Text>경험이 많은 정신건강의가 실시하는 감별진단입니다.</Text>
+      </GameDBLocalizedString>
+    <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_SAMPLING</LocID>
+        <Text>골수 조직 샘플링</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_SAMPLING_DESC</LocID>
+        <Text>골수 생검은 병리학적 검사를 위해 특수 천자 바늘을 사용하여 약 0.5-1cm 길이의 작은 원통형 골수 조직 조각을 채취하는 것입니다. 조혈 조직의 증식 정도와 다양한 구성 요소의 비율을 종합적으로 평가하는 데 사용됩니다.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING</LocID>
+        <Text>혈액 성분 검사 샘플링</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_SAMPLING_DESC</LocID>
+        <Text>혈액 성분 검사에는 혈청 비타민 B12, 엽산, 페리틴, 응고 인자 활성도 및 폰 빌레브란트 인자 항원에 대한 검사가 포함됩니다.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING</LocID>
+        <Text>혈액 성분 분석</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_HEMOGLOBIN_ADVANCED_BLOOD_TESTING_DESC</LocID>
+        <Text>혈액 성분 검사에는 혈청 비타민 B12, 엽산, 페리틴, 응고 인자 활성도 및 폰 빌레브란트 인자 항원에 대한 검사가 포함됩니다.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_TESTING</LocID>
+        <Text>골수 조직 분석</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_HEM_BONE_MARROW_BIOPSY_TESTING_DESC</LocID>
+        <Text>골수 생검은 병리학적 검사를 위해 특수 천자 바늘을 사용하여 약 0.5-1cm 길이의 작은 원통형 골수 조직 조각을 채취하는 것입니다. 조혈 조직의 증식 정도와 다양한 구성 요소의 비율을 종합적으로 평가하는 데 사용됩니다.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION</LocID>
+        <Text>정신의학적 진찰</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHIATRIC_EXAMINATION_DESC</LocID>
+        <Text>환자의 정신상태를 체계적으로 평가하는 것입니다.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES</LocID>
+        <Text>심리검사</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_NEW_PSY_PSYCHOMETRIC_SCALES_DESC</LocID>
+        <Text>환자의 체계적인 심리 평가를 위해 사용하는 도구입니다.</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM</LocID>
+        <Text>신경학적 검사</Text>
+      </GameDBLocalizedString>
+
+      <GameDBLocalizedString>
+        <LocID>EXM_NMC_EXAMINATION_OF_THE_NERVOUS_SYSTEM_DESC</LocID>
+        <Text>신경학적 검사는 일반적인 신체 검사를 기반으로 의사가 수행하는 신경계의 전문적이고 객관적인 평가입니다. 여기에는 일반적인 평가, 두개골 신경 검사, 운동계 검사, 감각계 검사, 반사 검사, 자율 기능 검사 및 수막 자극 징후 평가가 포함됩니다.</Text>
+      </GameDBLocalizedString>
+
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>
