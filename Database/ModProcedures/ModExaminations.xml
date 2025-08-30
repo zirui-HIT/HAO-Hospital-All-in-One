@@ -7821,6 +7821,7 @@
             <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
             <RequiredDoctorQualificationList>
                 <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_HEM</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_INTERNAL_MEDICINE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
@@ -7838,12 +7839,8 @@
             </RequiredEquipmentList>
 
             <RequiredRoomTags>
-                <Tag>general_surgery_office</Tag>
-                <Tag>internal_medicine_office</Tag>
-                <Tag>hem_office</Tag>
-                <Tag>cardiology_office</Tag>
+                <Tag>any_office</Tag>
                 <Tag>icu</Tag>
-                <Tag>diag_office</Tag>
             </RequiredRoomTags>
 
             <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
