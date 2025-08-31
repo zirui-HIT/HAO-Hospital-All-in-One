@@ -64,8 +64,6 @@ I hope you have a great time playing :D
 
 ## How to Install
 
-### Install with Github
-
 If you downloaded from Github, download all the files, place them in a `ModHAO` folder, and then [move it to the `Addons` path](https://www.reddit.com/r/ProjectHospital/comments/twcobr/any_way_to_manualy_add_mods/).
 
 The final path should look something like this:
@@ -77,15 +75,3 @@ Addons
    ├── Prefab
    └── ...
 ```
-
-### Install on Windows
-
-Due to differences in path formats between operating systems, before running on Windows, you need to modify all paths in all `.xml` files within `(ModAssetLists)[./Database/ModAssetLists]` by replacing `/` with `\`.
-
-Alternatively, you can try a script I wrote, `(windows_transfer.psl)[targetDirectory]`. Change `targetDirectory` to the path of your `ModAssetLists` and run it. However, as I do not have a Windows device at the moment, I cannot confirm if it is bug-free.
-
-### Compatible with Other Mods
-
-Before installing this MOD, you need to unsubscribe from the individual MODs that have been integrated into this pack.
-
-If you have a save that relies on integrated department MODs, first close that department and the emergency department. After all patients from that department have left, you can unsubscribe from the previous department MOD and then subscribe to this one!
