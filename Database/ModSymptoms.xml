@@ -2938,7 +2938,7 @@
         <PatientComplains>true</PatientComplains>
         <Hazard>High</Hazard>
         
-        <RiskOfCollapseStartHours>0.5</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
         
@@ -17440,7 +17440,7 @@
         <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 
-        <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>16</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_PALPITATIONS</CollapseSymptomRef>
 
