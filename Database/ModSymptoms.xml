@@ -4385,7 +4385,6 @@
         <Treatments>
             <TreatmentRef>TRT_REHYDRATION</TreatmentRef>
         </Treatments>
-        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
 
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -4434,7 +4433,6 @@
         <Treatments>
             <TreatmentRef>TRT_OXYGENOTHERAPY</TreatmentRef>
         </Treatments>
-        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
 
         <ShameLevel>5</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -4526,7 +4524,6 @@
         <RiskOfCollapseStartHours>18</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
-        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
 
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
@@ -4576,7 +4573,6 @@
         <RiskOfCollapseStartHours>24</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>36</RiskOfCollapseEndHours>
         <CollapseSymptomRef>SYM_HEART_FAILURE</CollapseSymptomRef>
-        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
 
         <Examinations>
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
@@ -15077,7 +15073,6 @@
             <TreatmentRef>TRT_DEBRIDEMENT</TreatmentRef>
         </Treatments>
 
-        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
         <ShameLevel>90</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
 
