@@ -7,6 +7,7 @@
 
         <Contributors>
 			<Name>S2SKY</Name>
+			<Name>바굴</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -26,6 +27,35 @@
 			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_TESTING</LocID>						<Text>경구 포도당 부하 검사</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>EXM_CRP_HGPO_DESCRIPTION</LocID>					<Text>당 부하 검사로, 경구 포도당 부하 검사라고도 알려져 있으며, 당(포도당)에 대한 환자의 신체반응을 측정합니다.</Text>	</GameDBLocalizedString>
 			
+
+
+
+			
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE</LocID>						<Text>섬광조영술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_SCINTIGRAPHIE_DESCRIPTION</LocID>			<Text>체내에 방사성 의약품을 투여하여 방출하는 방사선을 촬영하는 검사로, 몸 안의 형광 물질에 감마선을 쬐어 그 섬광을 측정하며 혈류 또는 장기의 기능 상태나 병변의 유무 따위를 확인할 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_SAMPLING</LocID>						<Text>ELISA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_TESTING</LocID>						<Text>ELISA - Test</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>EXM_CRP_ELISA_DESCRIPTION</LocID>					<Text>The enzyme-linked immunosorbent assay (ELISA) is a commonly used analytical biochemistry assay. The assay uses a solid-phase enzyme immunoassay (EIA) to detect the presence of a ligand (commonly a protein) in a liquid sample using antibodies directed against the protein to be measured. ELISA has been used as a diagnostic tool in medicine, plant pathology, and biotechnology, as well as a quality control check in various industries. In the most simple form of an ELISA, antigens from the sample are attached to a surface. Then, a matching antibody is applied over the surface so it can bind to the antigen. This antibody is linked to an enzyme, and in the final step, a substance containing the enzyme's substrate is added. The subsequent reaction produces a detectable signal, most commonly a color change.</Text>	</GameDBLocalizedString>
+				
+			
+			
+			
+			
+
+    
+	
+	
+	
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_SAMPLING</LocID>                                     <Text>기관지폐포세척술</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_SAMPLING_DESCRIPTION</LocID>                         <Text>기관지폐포세척술(BAL)은 기관지경을 입이나 코를 통해 폐로 통과시킨 후 액체를 폐의 작은 부분에 분사하여 검사하는 의료 절차입니다. 일반적으로 폐 질환을 진단하기 위해 시행됩니다. \n\n필요한 방: 내과 진료실</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_TESTING</LocID>                                      <Text>기관지폐포세척액 분석</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_BRONCHOALVEOLAR_LAVAGE_TESTING_DESCRIPTION</LocID>                          <Text>BAL 검체가 분석을 위해 실험실로 보내졌습니다.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_SAMPLING</LocID>                                             <Text>관절 천자</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_SAMPLING_DESCRIPTION</LocID>                                 <Text>관절 천자는 관절강 속에 바늘을 삽입하여 활액을 채취하는 임상 절차입니다.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_TESTING</LocID>                                              <Text>관절액 검사</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>     <LocID>EXM_CRP_ARTHROCENTESIS_TESTING_DESCRIPTION</LocID>                                  <Text>관절액이 분석을 위해 실험실로 보내졌습니다.</Text>  </GameDBLocalizedString>
+
+
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

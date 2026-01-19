@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_KR_ADDON_HEMATOLOGY_DIAGNOSES">
+    <LanguageCode>kr</LanguageCode>
+    <LanguageNameLocalized>한국어</LanguageNameLocalized>
+    <Contributors>
+      <Name>바굴</Name>
+    </Contributors>
+    <LocalizedStrings>
+  
+	<GameDBLocalizedString>      
+		<LocID>DIA_063_DESCRIPTION</LocID>                                          	
+		<Text>원발성혈소판증가증은, 혈소판 수가 현저하고 지속적으로 증가하며 골수에서 거대핵세포가 과도하게 증식하는 것이 특징입니다. 임상적으로 다발성 혈소판 증가, 출혈, 혈전증을 동반하는 경우가 많습니다.</Text>  
+	</GameDBLocalizedString>
+  
+	<GameDBLocalizedString>      
+		<LocID>DIA_IDA_DESCRIPTION</LocID>                                          	
+		<Text>철결핍빈혈은 가장 흔한 형태의 빈혈로, 체내에 철분이 부족해 발생합니다. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MA</LocID>                                          	
+		<Text>거대적혈모구빈혈</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MA_DESC</LocID>                                          	
+		<Text>적혈구를 포함한 모든 골수구계 조혈세포의 거대화를 특징으로 하는 빈혈입니다. 비타민 B12와 엽산 중 한 가지 이상의 결핍으로 인해 세포 내 DNA 합성이 저해되어 발생합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MM</LocID>                                          	
+		<Text>다발골수종</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MM_DESC</LocID>                                          	
+		<Text>골수에서 면역체계를 담당하는 백혈구의 한 종류인 형질세포가 비정상적으로 분화, 증식하여 발생하는 혈액암입니다. 골절, 골다공증, 빈혈, 감염, 고칼슘혈증, 신장기능 이상 등 다양한 증상이 나타날 수 있습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_AA</LocID>                                          	
+		<Text>재생불량빈혈</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_AA_DESC</LocID>                                          	
+		<Text>조혈모세포의 손상으로 백혈구, 적혈구, 혈소판이 모두 감소하는 범혈구감소증을 보이는 조혈장애 질환입니다. 비교적 드문 질환이며, 사람마다 증상이 다르게 나타납니다.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PRCA</LocID>                                          	
+		<Text>순수적혈구무형성</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PRCA_DESC</LocID>                                          	
+		<Text>백혈구나 혈소판의 이상 없이 순수하게 적혈구 세포의 생산만 억제되어 골수세포의 부족이나 적혈구의 감소에 의해 나타나는 혈액 질환을 의미합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_CML</LocID>                                          	
+		<Text>만성골수성백혈병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_CML_DESC</LocID>                                          	
+		<Text>골수구계 세포가 백혈구를 만드는 과정에서 생긴 악성 혈액 질환을 의미합니다. 천천히 진행되지만, 치료하지 않으면 급성 백혈병으로 진행됩니다. 특징적으로 비장비대 증상을 보입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_AML</LocID>                                          	
+		<Text>급성골수성백혈병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_AML_DESC</LocID>                                          	
+		<Text>조혈모세포가 악성 세포로 변하여 전신에 퍼지면서 간, 비장, 림프선 등을 침범하는 질환입니다. 각 조직이 침범되고, 정상적인 골수기능의 마비로 심각한 면역기능 저하 및 출혈경향이 발생하여 치료받지 않을 경우 수개월 내에 사망합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_APL</LocID>                                          	
+		<Text>급성전골수성백혈병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_APL_DESC</LocID>                                          	
+		<Text>급성골수성백혈병의 아형으로, 백혈구 세포 내 유전자 돌연변이로 인해 발생합니다. 심한 출혈 합병증이 동반될 수 있어 주의해야 합니다. 다른 백혈병에 비해 완치율이 높습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_CLL</LocID>                                          	
+		<Text>만성림프구성백혈병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_CLL_DESC</LocID>                                          	
+		<Text>골수가 너무 많은 림프구를 만드는 혈액암의 한 유형입니다. 서양에서는 백혈병 중에서 가장 높은 유병률을 나타내고 있으나, 아시아에서는 흔하지 않습니다.</Text>  
+	</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+		<LocID>DIA_HEM_AAL</LocID>                                          	
+		<Text>급성림프구성백혈병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_AAL_DESC</LocID>                                          	
+		<Text>백혈구 중 림프구계 백혈구가 악성 세포로 변해 골수에서 증식하고 말초 혈액으로 퍼지는 질환입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_THL</LocID>                                          	
+		<Text>지중해빈혈</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_THL_DESCRIPTION</LocID>                                          	
+		<Text>지중해빈혈은 산소를 덜 효과적으로 결합시키고 적혈구의 모양을 변형시키는 비정삭적인 헤모글로빈의 형성을 가진 유전적인 혈액 질환입니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_HLA</LocID>                                          	
+		<Text>자가면역성 용혈빈혈</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HLA_DESCRIPTION</LocID>                                          	
+		<Text>적혈구 내부의 특수 항원에 대한 항체가 형성되어 적혈구가 일찍 파괴되어 나타나는 후천성 용혈빈혈으로, 희귀 질환입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MDS</LocID>                                          	
+		<Text>골수이형성증후군</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MDS_DESC</LocID>                                          	
+		<Text>골수 기능에 이상이 생겨 건강한 혈액세포를 충분히 만들지 못하는 여러 질환을 묶어서 이르는 말입니다. 적혈구, 백혈구, 혈소판 등이 감소하여 빈혈, 감염, 출혈 등의 증상이 나타나며, 10~40% 정도의 환자는 급성 백혈병으로 이행합니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_HPL</LocID>                                          	
+		<Text>혈우병 A</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HPL_DESCRIPTION</LocID>                                          	
+		<Text>혈우병은 선천적으로 혈액 응고 인자가 결핍되어 나타나는 선천성 출혈성 질환으로, 혈우병 A는 VIII 인자 결핍에 의해 발생합니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_HPL_B</LocID>                                          	
+		<Text>혈우병 B</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_HPL_B_DESC</LocID>                                          	
+		<Text>혈우병은 선천적으로 혈액 응고 인자가 결핍되어 나타나는 선천성 출혈성 질환으로, 혈우병 B는 XI 인자 결핍에 의해 발생합니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_TCP</LocID>                                          	
+		<Text>원발성 면역혈소판감소증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_TCP_DESCRIPTION</LocID>                                          	
+		<Text>말초혈액 내 혈소판 수가 감소하여 점막, 피부, 조직 내에 비정상적인 출혈을 일으키거나 자반증을 보이는 질환입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_HL</LocID>                                          	
+		<Text>호지킨림프종</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_HL_DESC</LocID>                                          	
+		<Text>특징적인 조직 양상과 올빼미 눈을 닮은 특이한 암세포를 보이는 질환입니다. 주로 림프계 내에 국한되어 발생하며, 하나의 림프절에서 시작해 인접한 림프절을 타고 신체 전체 림프절에 영향을 미치는 특징을 지닙니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_DLBCL</LocID>                                          	
+		<Text>미만성 거대B세포림프종</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_DLBCL_DESC</LocID>                                          	
+		<Text>비호지킨림프종의 40%~50% 정도를 차지하며 진행이 빠른 림프종에 속합니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PNH</LocID>                                          	
+		<Text>발작성야간혈색소뇨증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PNH_DESC</LocID>                                          	
+		<Text>생명에 위협을 줄 수 있는 희귀한 후천성 혈액질환으로, 용혈 현상으로 인해 주로 야간에 혈색 소변을 보는 것이 특징입니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PMF</LocID>                                          	
+		<Text>원발성 골수섬유증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PMF_DESC</LocID>                                          	
+		<Text>골수가 섬유화되어 혈액세포의 정상적인 생산기능에 장애를 일으키는 심각한 질환입니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PV</LocID>                                          	
+		<Text>진성적혈구증가증</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_PV_DESC</LocID>                                          	
+		<Text>골수에서 지나치게 많은 적혈구를 생성하는 질환을 의미합니다. 적혈구증가증이 심한 경우 어지럼증, 이명, 두통, 시력 감퇴 등의 신경학적 증상이 발생합니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_FL</LocID>                                          	
+		<Text>소포림프종</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_FL_DESC</LocID>                                          	
+		<Text>비호지킨림프종의 흔한 형태로 느리게 진행됩니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_vWD</LocID>                                          	
+		<Text>폰 빌레브란트병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_vWD_DESC</LocID>                                          	
+		<Text>유전성 혈액응고 질환으로, 출혈이 주요 증상입니다. 증상은 환자마다 다양하며 일부 개인은 증상을 나타내지 않거나 매우 경미한 증상을 나타낼 수 있습니다.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MCL</LocID>                                          	
+		<Text>외투세포림프종</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_MCL_DESC</LocID>                                          	
+		<Text>비호지킨림프종의 드물고 공격적인 형태로, 다른 림프종에 비해 예후가 좋지 않습니다.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_HCL</LocID>                                          	
+		<Text>털세포백혈병</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_HEM_HCL_DESC</LocID>                                          	
+		<Text>성숙B 림프구의 이상으로 발생하는 혈액암의 드문 종류입니다. 털세포라고 불리는 이상 세포가 골수에서 많이 생산되어 발생합니다.</Text>  
+	</GameDBLocalizedString>
+
+	</LocalizedStrings>
+  </GameDBStringTable>
+</Database>

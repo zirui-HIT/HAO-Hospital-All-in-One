@@ -25,12 +25,16 @@
         <Value>60</Value>
     </GameDBTweakableInt> -->
 
+    <GameDBTweakableInt ID="DLC_TRAINING_COST">
+        <Value>200</Value>
+    </GameDBTweakableInt>
+
     <GameDBTweakableFloat ID="DLC_TRAINING_HOURLY_IMPROVEMENT">
-        <Value>0.12</Value>
+        <Value>0.03</Value>
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="DLC_TRAINING_HOURLY_IMPROVEMENT_FAST_LEARNER">
-        <Value>0.2</Value>
+        <Value>0.05</Value>
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="TWEAKABLE_WALKING_ADDED_DIRT">
@@ -38,15 +42,15 @@
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_LEAVE_TIME_HOURS">
-        <Value>240</Value>
+        <Value>240.0</Value>
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_LEAVE_WARNING_HOURS">
-        <Value>236</Value>
+        <Value>4.0</Value>
     </GameDBTweakableFloat>
 
     <GameDBTweakableFloat ID="TWEAKABLE_PATIENT_MAX_WAIT_TIME_HOURS">
-        <Value>240</Value>
+        <Value>240.0</Value>
     </GameDBTweakableFloat>
 
 </Database>

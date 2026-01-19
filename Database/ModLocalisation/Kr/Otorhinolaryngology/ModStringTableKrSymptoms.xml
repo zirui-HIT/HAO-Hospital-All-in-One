@@ -4,257 +4,982 @@
 	<LanguageCode>kr</LanguageCode>
 	<LanguageNameLocalized>한국어</LanguageNameLocalized>
 	<Contributors>
-	<Name>아린</Name>
+	<Name>바굴</Name>
 	</Contributors>
 	<LocalizedStrings>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_NASAL_BLOCKAGES</LocID>                 
-		<Text>콧구멍 폐색</Text>  
+	 
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS</LocID>                 
+		 <Text>비용종</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_NASAL_BLOCKAGES_DESCRIPTION</LocID>     
-		<Text>콧구멍이 막혀 있는 것이다.</Text>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
+		 <Text>콧속에 발생하는 양성 종양이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION</LocID>                 
+		 <Text>코 염증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
+	   	 <Text>코에 염증을 발견하였으며, CT 촬영이나 비강 검사에서 비용종을 발견하지 못했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>       
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS</LocID>                               
+		 <Text>아스페르길루스 부비동 감염</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>                               
+		 <Text>객담 배양 결과, 아스페르길루스 곰팡이에 의한 부비동 감염을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS</LocID>                 
+		 <Text>빈 코 증후군 소견</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NASAL_POLYPS</LocID>                 
-		<Text>코딱지</Text>  
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>CT 촬영 결과, 빈 코 증후군을 암시하는 결과를 얻었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM</LocID>                 
+		 <Text>비중격 휘어짐</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>비강 검사를 통해 환자의 비중격이 휘어진 것을 발견했습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_FACE_LACERATION</LocID>                 
+		 <Text>얼굴 열상</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
-		<Text>부드럽고 통증이 없으며 비강이나 부비강 안쪽에 암이 없다. 그들은 맑은 콧물이나 포도처럼 늘어져 있다. 그것들은 만성 염증에서 비롯된다. 그것들은 식염수 스프레이나 수술로 치료될 수 있다.</Text>  
+		 <LocID>SYM_CRP_JM_FACE_LACERATION_DESCRIPTION</LocID>     
+		 <Text>환자가 얼굴에 열상을 입었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE</LocID>                 
+		 <Text>비갑개 비대</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_COXSACK</LocID>                 
-		<Text>쿡사키바이러스 A16 존재</Text>  
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>     
+		 <Text>환자의 비갑개가 부풀어 올랐습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED</LocID>                 
+		 <Text>이상후각</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>     
+		 <Text>환자가 이상후각을 앓고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE</LocID>                 
+		 <Text>비강 편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 비강 내 편평세포암 종양이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE</LocID>                 
+		 <Text>비강 선암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 비강 내 선조직의 악성 종양이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE</LocID>                 
+		 <Text>비강 흑색종 검출</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_COXSACK_DESCRIPTION</LocID>     
-		<Text>Picornaviridae 계열에 속하는 몇 개의 관련 장바이러스로서 비개발형, 선형형, 양성형 단점형 RNA 바이러스. 그것들은 보통 손, 발, 입 질환을 일으킨다. 이 바이러스에 대한 치료법이 없어서 감염이 끝날 때까지 기다리는 뿐이다.</Text>  
-		</GameDBLocalizedString>	
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 비강 내 악성 흑색종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
 		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_HEARTBURN</LocID>                 
-		<Text>속쓰림</Text>  
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE</LocID>                 
+		 <Text>코 이물질</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_HEARTBURN_DESCRIPTION</LocID>     
-		<Text>가슴이나 목구멍에서 고통스럽게 타는 느낌이다. 위산이 식도로 역류할 때 음식물을 입에서 위장으로 운반하는 관이 생긴다. 속쓰림을 치료하는 것은 제산제다. </Text>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>     
+		 <Text>환자의 코에 이물질이 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SNORE</LocID>                 
+		 <Text>코골이</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_STAPHY</LocID>                 
-		<Text>포도상구균 존재</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_STAPHY_DESCRIPTION</LocID>     
-		<Text>Staphylococcaceae과의 그램 양성 세균의 일종이며 연쇄상구균의 목, 피부염, 폐렴, 심내막염, 골수염을 일으킬 수 있다. 포도상구균 치료는 보통 항생제나 술파제 또는 반코마이신의 과정이다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_PNEUMONIA</LocID>                 
-		<Text>세균성 폐렴</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_PNEUMONIA_DESCRIPTION</LocID>     
-		<Text>한 폐나 양쪽 폐에 있는 공기 주머니를 팽창시키는 감염이다. 공기 주머니는 액체나 고름으로 가득 차서 가래나 고름으로 기침을 일으키고 열, 오한, 호흡곤란을 일으킬 수 있다. 세균, 바이러스, 곰팡이를 포함한 다양한 유기체는 폐렴을 일으킬 수 있다. 세균성 폐렴을 치료하지 않으면 호흡기 장애와 같은 합병증을 일으킬 수 있다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_WIDESPREAD_PAINFUL_RASH</LocID>                 
-		<Text>광범위한 고통스러운 발진</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_WIDESPREAD_PAINFUL_RASH_DESCRIPTION</LocID>     
-		<Text>환자를 육안으로 검사하였더니 온몸을 덮고 있는 광범위하고 고통스러운 발진이 발견되었다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NASAL_OBSTRUCTION</LocID>                 
-		<Text>코막힘</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
-		<Text>코 주변의 호흡 곤란과 부드러움을 유발하고 있다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_INFLAMMED_SINUSES</LocID>                 
-		<Text>염증이 생긴 부비강</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_INFLAMMED_SINUSES_DESCRIPTION</LocID>     
-		<Text>부비강(두개골 속의, 코 안쪽으로 이어지는 구멍)을 덮는 염증 점액질의 조직 내벽 </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_WHITE_PATCHES_ON_TONSILS</LocID>                 
-		<Text>편도선의 흰색 부분</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_WHITE_PATCHES_ON_TONSILS_DESCRIPTION</LocID>     
-		<Text>편도선에 하얀 부분이 보인다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_SNORE</LocID>                 
-		<Text>코골이</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_SNORE_DESCRIPTION</LocID>     
-		<Text>잠자는 동안 코를 골거나 끙끙거리는 소리를 내는 행동이나 사실. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_HYPERACIDITY</LocID>                 
-		<Text>위산 과다증</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_HYPERACIDITY_DESCRIPTION</LocID>     
-		<Text>위산이 과다하게 분비되는 질환이다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_M_RUPTURED_EAR_DRUM</LocID>                 
-		<Text>찢어진 고막</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
-		<Text>환자의 고막이 찢어져 있다 </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_S_RUPTURED_EAR_DRUM</LocID>                 
-		<Text>고막의 치유되지 않은 파열</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
-		<Text>환자의 파열 된 고막이 아직 낫지 않았다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NASAL_DRIP</LocID>                 
-		<Text>콧물이 뚝뚝 떨어짐</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NASAL_DRIP_DESCRIPTION</LocID>     
-		<Text>코에서 흘러나오는 점액으로 목 뒤쪽으로 무해하게 흘러내려서 삼킨다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_INFLAMMED_RH</LocID>                 
-		<Text>비강의 염증</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_INFLAMMED_RH_DESCRIPTION</LocID>     
-		<Text>환자의 코에 염증이 생겼다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NA_RH</LocID>                 
+		<LocID>SYM_CRP_JM_NA_RH</LocID>                 
 		<Text>비알레르기성 비염</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NA_RH_DESCRIPTION</LocID>     
-		<Text>비알레르기성 비염의 사례가 확인되었다. </Text>  
+		<LocID>SYM_CRP_JM_NA_RH_DESCRIPTION</LocID>     
+		<Text>환자가 비알레르기성 비염을 앓고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM</LocID>                 
+		 <Text>알레르기성 부비동염</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_EAR_INFECTED</LocID>                 
-		<Text>귀 감염 발견</Text>  
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM_DESCRIPTION</LocID>     
+		 <Text>환자가 알레르기성 부비동염을 앓고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_COLLAPSED_SINUS</LocID>                 
+		 <Text>부비동허탈</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_EAR_INFECTED_DESCRIPTION</LocID>     
-		<Text>환자의 귀에서 염증이 발견되었다. </Text>  
+		 <LocID>SYM_CRP_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>     
+		 <Text>환자가 얼굴 기형을 유발하는 부비동 허탈을 앓고 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS</LocID>                 
+		 <Text>비부비동 급성감염</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_SEVERE_PAIN</LocID>                 
-		<Text>심한 통증</Text>  
+		 <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>비강과 부비동의 급성 감염을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS</LocID>                 
+		 <Text>비부비동 만성염증</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_SEVERE_PAIN_DESCRIPTION</LocID>     
-		<Text>환자는 극심한 고통을 겪고 있다. </Text>  
+		 <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>비강과 부비동의 만성 염증을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_RHINOPHYMA</LocID>                 
+		 <Text>딸기코종</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
-		<Text>무딘 후두부 외상</Text>  
+		 <LocID>SYM_CRP_JM_RHINOPHYMA_DESCRIPTION</LocID>     
+		 <Text>코 생검 결과, 코에서 과도한 양의 결합조직과 박테리아 및 피지선을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE</LocID>                 
+		 <Text>갈라진 입천장</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
-		<Text>무딘 후두부 외상의 사례가 확인되었다. </Text>  
+		 <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>     
+		 <Text>환자의 윗입숭과 입천장이 갈라져 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>                 
+		 <Text>문제가 있는 혈관</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_BLUNT_LARYNX_LACERATION</LocID>                 
-		<Text>후두부 외상</Text>  
+		 <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>     
+		 <Text>내시경 검사 결과, 환자의 혈관에 문제가 있음을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N</LocID>                 
+		 <Text>비강 내 인유두종</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
-		<Text>후두부 외상의 사례가 확인되었다. </Text>  
+		 <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 코에서 인유두종 바이러스(HPV) 감염이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_S</LocID>                 
+		 <Text>상악동후비공 용종</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NECK_INJURY</LocID>                 
-		<Text>목 부상</Text>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>     
+		 <Text>상악동에서 기원하여 비강내로 발전하여 후비공 또는 비인두강까지 확장되는 비용종이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SADDLE_NOSE</LocID>                 
+		 <Text>코 외상</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_NECK_INJURY_DESCRIPTION</LocID>     
-		<Text>그 환자는 목에 부상을 입었다. </Text>  
+		 <LocID>SYM_CRP_JM_SADDLE_NOSE_DESCRIPTION</LocID>     
+		 <Text>환자가 코에 부상을 입었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PERFORATED_SEPTUM</LocID>                 
+		 <Text>구멍난 비중격</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_SWOLLEN_NECK</LocID>                 
-		<Text>부어오른 목</Text>  
+		 <LocID>SYM_CRP_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>환자의 비중격에 구멍이 났습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SEPTAL_CLOT</LocID>                 
+		 <Text>비중격 혈전</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_SWOLLEN_NECK_DESCRIPTION</LocID>     
-		<Text>그 환자는 목이 부어 있다. </Text>  
+		 <LocID>SYM_CRP_JM_SEPTAL_CLOT_DESCRIPTION</LocID>     
+		 <Text>환자가 코에 외상을 입은 뒤, 비중격에 피가 고였습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MENINGES_DEFORMITY</LocID>                 
+		 <Text>뇌수막 이상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>CT 또는 MRI 촬영 결과, 두개골 기형으로 인한 뇌수막 이상을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+	   
+		
+      
+	   
+
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_RINGING_IN_THE_EARS</LocID>                             
+		 <Text>이명</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_EAR_FLUID_DRAINAGE</LocID>                        
+		 <Text>이루</Text> 
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SWOLLEN_EAR_CANAL</LocID>                    
+		 <Text>부어오른 외이도</Text>
+		</GameDBLocalizedString>
+		
+	  
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES</LocID>                 
+		 <Text>중증 메니에르병</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES_DESCRIPTION</LocID>     
+		 <Text>환자가 중증 메니에르병을 앓고 있음이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>손상된 고막</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>환자의 고막이 손상되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>회복되지 않은 고막</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>환자의 손상된 고막이 자연적으로 낫지 않았습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED</LocID>                 
+		 <Text>귀 감염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED_DESCRIPTION</LocID>     
+		 <Text>환자의 귀가 감염되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
+		 <Text>중이 내 액체</Text>  
 		</GameDBLocalizedString>
 			
-		<GameDBLocalizedString>      
-		<LocID>SYM_OTOR_ABSCESS</LocID>                               
-		<Text>종기</Text>  
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                               
+		 <Text>환자의 중이에 액체가 고였습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_BAROTRAUMA</LocID>                 
+		 <Text>귀압력손상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_BAROTRAUMA_DESCRIPTION</LocID>     
+		 <Text>환자가 귀압력손상을 겪었음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_SEVERED_EAR</LocID>                 
+		 <Text>귀 잘림</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_HYPOTENSION</LocID>                               
-		<Text>안압 저하증</Text>  
+		 <LocID>SYM_CRP_JM_SEVERED_EAR_DESCRIPTION</LocID>     
+		 <Text>환자의 귀가 외상으로 인해 잘렸습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA</LocID>                 
+		 <Text>귀 혈전</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>SYM_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
-		<Text>유동적인 중이</Text>  
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>     
+		 <Text>환자의 귀에 혈전이 존재합니다.</Text>  
 		</GameDBLocalizedString>
-			
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR</LocID>                 
+		 <Text>귀 이물질</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>     
+		 <Text>환자의 귀에 이물질이 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS</LocID>                 
+		 <Text>전정신경 염증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>     
+		 <Text>환자의 전정신경에 염증을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR</LocID>                 
+		 <Text>전정신경 종양</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>     
+		 <Text>환자의 전정신경에 종양이 존재합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE</LocID>                 
+		 <Text>과도한 귀지</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>     
+		 <Text>귀지가 환자의 귀를 막았습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL</LocID>                 
+		 <Text>귀지 제거 요청</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>     
+		 <Text>환자가 귀지 제거를 요청했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_BPPV</LocID>                 
+		 <Text>이석증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_BPPV_DESCRIPTION</LocID>     
+		 <Text>모든 증상과 검사를 고려할 때 모두 이석증 진단을 나타냅니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M</LocID>                 
+		 <Text>경미한 청각반사 이상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>     
+		 <Text>이음향반사 검사 결과, 경미한 청각반사 이상을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S</LocID>                 
+		 <Text>심각한 청각반사 이상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>     
+		 <Text>이음향반사 검사 결과, 심각한 청각반사 이상을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_M</LocID>                 
+		 <Text>노화에 의한 경미한 청력저하</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>     
+		 <Text>청력 검사 결과, 환자가 노화에 의해 경미한 청력저하를 겪고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_S</LocID>                 
+		 <Text>노화에 의한 심각한 청력저하</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>     
+		 <Text>청력 검사 결과, 환자가 노화에 의해 심각한 청력저하를 겪고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_LABYRINTHITIS</LocID>                 
+		 <Text>속귀신경 염증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_LABYRINTHITIS_DESCRIPTION</LocID>     
+		 <Text>CT 또는 MRI 촬영 결과, 전정신경과 달팽이신경에 염증을 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_OTOPHYMA</LocID>                 
+		 <Text>부어오른 귀</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_OTOPHYMA_DESCRIPTION</LocID>     
+		 <Text>귀 검사 결과 환자의 귀가 부어올랐음을 확인했으며, 이는 희귀 질환인 오토피마를 암시하는 결과입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR</LocID>                 
+		 <Text>외이도 선암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 외이도 내 선조직의 악성 종양이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR</LocID>                 
+		 <Text>외이도 편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 외이도 내 편평세포암 종양이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MELANOMA_EAR</LocID>                 
+		 <Text>외이도 흑색종 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MELANOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 외이도 내 악성 흑색종이 검출되었습니다.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E</LocID>                 
+		 <Text>악성 외이도감염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>     
+		 <Text>녹농균에 의한 외이도의 악성 감염이 발견되었습니다.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M</LocID>                 
+		 <Text>악성 중이감염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>     
+		 <Text>녹농균에 의한 중이의 악성 감염이 발견되었습니다.</Text>
+		</GameDBLocalizedString>
+	 
+	  
+		
+	 
+	  
+
+		
+	  
+	  
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_HPV_FOUND</LocID>                 
+		 <Text>인후 인유두종</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_HPV_FOUND_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 목 내부에서 인유두종 바이러스(HPV) 감염이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
+		 <Text>후두 둔상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>환자가 후두에 둔상을 입었습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION</LocID>                 
+		 <Text>후두 관통상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>환자가 후두에 관통상을 입었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN</LocID>                 
+		 <Text>성대결절 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN_DESCRIPTION</LocID>     
+		 <Text>후두경 검사 결과, 성대의 결절을 암시하는 결과를 얻었습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA</LocID>                 
+		 <Text>급성침샘염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA_DESCRIPTION</LocID>     
+		 <Text>환자가 급성침샘염을 앓고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA</LocID>                 
+		 <Text>만성침샘염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA_DESCRIPTION</LocID>     
+		 <Text>환자가 만성침샘염을 앓고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT</LocID>                 
+		 <Text>인두 편평세포암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 인두 내 편평세포암 종양이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT</LocID>                 
+		 <Text>인두 선암 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 인두 내 선조직의 악성 종양이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT</LocID>                 
+		 <Text>인두 흑색종 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>생검 결과, 인두 내 악성 흑색종이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS</LocID>                 
+		 <Text>만성인두염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>환자가 만성인두염을 앓고 있음을 확인했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS</LocID>                 
+		 <Text>성대 마비</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>     
+		 <Text>성대 마비의 징후를 발견했습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS</LocID>                 
+		 <Text>폐쇄성 수면무호흡증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>수면다원검사 결과, 폐쇄성 수면무호흡증을 암시하는 결과를 얻었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION</LocID>                 
+		 <Text>인두 둔상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>환자가 인두에 둔상을 입었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION</LocID>                 
+		 <Text>인두 관통상</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>환자가 인두에 관통상을 입었습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA</LocID>                 
+		 <Text>기도허탈</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>     
+		 <Text>환자의 기도가 붕괴되었으며, 즉각적인 수술이 필요합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS</LocID>                 
+		 <Text>만성 후두염증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>환자의 후두 염증이 3개월 이상 지속되었습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CSA_FINDINGS</LocID>                 
+		 <Text>중추성 수면무호흡증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>수면다원검사 결과, 중추성 수면무호흡증을 암시하는 결과가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_EDEMA</LocID>                 
+		 <Text>부어오른 성대</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_EDEMA_DESCRIPTION</LocID>     
+		 <Text>성대상피 밑의 공간에 액체가 고여 성대가 부었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_OVERUSE</LocID>                 
+		 <Text>성대 남용</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VC_OVERUSE_DESCRIPTION</LocID>     
+		 <Text>환자의 성대가 지속적으로 과도하게 사용되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS</LocID>                 
+		 <Text>만성편도염</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>     
+		 <Text>환자가 지속적이고 반복적인 편도 감염을 겪었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+	  
+	  
+	 
+	 
+	 
+	 
+	    <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED</LocID>                    
+		<Text>대동맥 손상</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED_DESCRIPTION</LocID>        
+		<Text>대동맥 일부가 손상된 상태입니다.</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT</LocID>                    
+		<Text>이물질 존재</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT_DESCRIPTION</LocID>        
+		<Text>이물질 또는 그 일부가 상처 내에 여전히 남아있는 상태입니다.</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_LUNGS_PERFORATED</LocID>                          
+		<Text>기흉</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_LUNGS_PERFORATED_DESCRIPTION</LocID>              
+		<Text>폐막 조직 천공으로 폐가 제 기능을 하지 못하는 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS</LocID>                                  
+		<Text>물집</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS_DESCRIPTION</LocID>                      
+		<Text>표피와 그 아래 피부 공간에 작은 유체 주머니가 생긴 상태입니다.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION</LocID>  
+		<Text>박리</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION_DESCRIPTION</LocID> 
+		<Text>피부의 가장 바깥 층이 벗겨진 상태입니다.</Text>
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DARK_SKIN</LocID>           
+		<Text>흑색극세포종</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_DARK_SKIN_DESCRIPTION</LocID>           
+		<Text>피부가 비정상적으로 검게 변한 상태입니다.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_NECROSIS</LocID>                        
+		<Text>괴사</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_NECROSIS_DESCRIPTION</LocID>  
+		<Text>해당 조직에 너무 적은 혈액이 공급되어 비정상적으로 죽어가는 상태입니다.</Text> 
+		</GameDBLocalizedString>
+		
+        
+		<GameDBLocalizedString>
+		<LocID>SYM_JM_GUNSHOT_WOUND</LocID>                            
+		<Text>총상</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_GUNSHOT_WOUND_DESCRIPTION</LocID>
+		<Text>총 등 화기에서 발사된 발사체에 의한 진입 또는 진출입에 따른 외상입니다.</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND</LocID>  
+		<Text>탄도상</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND_DESCRIPTION</LocID> 
+		<Text>고속 발사체에 의한 진입 또는 진출입에 따른 외상입니다.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_STAB_WOUND</LocID>                         
+		<Text>자상</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_STAB_WOUND_DESCRIPTION</LocID>      
+		<Text>날카로운 물체에 찔린 외상입니다.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND</LocID>    
+		<Text>관통상</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND_DESCRIPTION</LocID>      
+		<Text>외부의 물질이 관통하여 발생한 외상입니다.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_BLAST_WOUND</LocID>  
+		<Text>폭발 화상</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BLAST_WOUND_DESCRIPTION</LocID> 
+		<Text>폭발에 직접 또는 간접적으로 노출되어 발생한 외상입니다.</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BURN_WOUND</LocID>     
+		<Text>화상</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_BURN_WOUND_DESCRIPTION</LocID>   
+		<Text>열, 냉기, 전기, 화학 물질, 마찰 또는 방사선에 노출되어 발생한 외상입니다.</Text>
+		</GameDBLocalizedString>
+
+		
+	 
+	 
+	 
+	   
+
+		
+	 
+	  
+		
+	 
+	  
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK</LocID>                 
+		 <Text>콕사키바이러스 A16 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK_DESCRIPTION</LocID>     
+		 <Text>수족구병을 유발하는 콕사키바이러스 A16이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_STAPHY</LocID>           
+		 <Text>화농성연쇄상구균 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>        
+		 <LocID>SYM_CRP_JM_STAPHY_DESCRIPTION</LocID>     
+		 <Text>패혈성 인두염을 유발하는 화농성연쇄상구균이 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE</LocID>                 
+		 <Text>코리네박테리움 디프테리아 검출</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>     
+		 <Text>디프테리아를 유발하는 코리네박테리움 디프테리아가 검출되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+	 
+	  
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_ACID_REFLUX</LocID>                 
+		 <Text>위산역류증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_ACID_REFLUX_DESCRIPTION</LocID>     
+		 <Text>위산이 식도로 역류하는 증상입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY</LocID>                 
+		 <Text>위산과다증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY_DESCRIPTION</LocID>     
+		 <Text>위산과다증은 위장에서 과도한 위산을 분비하는 상태를 말합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED</LocID>                 
+		 <Text>위식도 역류질환 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED_DESCRIPTION</LocID>     
+		 <Text>모든 증상과 검사를 고려할 때 모두 위식도 역류질환 진단을 나타냅니다.</Text>  
+		</GameDBLocalizedString>
+		
+     
+	  
+		
+		
 	
+	  
+		
 	
+     
+	 
+	    
+	    
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

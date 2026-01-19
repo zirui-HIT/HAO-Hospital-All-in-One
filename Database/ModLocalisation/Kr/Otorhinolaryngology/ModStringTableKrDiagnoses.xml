@@ -4,133 +4,719 @@
 	<LanguageCode>kr</LanguageCode>
 	<LanguageNameLocalized>한국어</LanguageNameLocalized>
 	<Contributors>
-	<Name>아린</Name>
+	<Name>바굴</Name>
 	</Contributors>
 	<LocalizedStrings>
-		
-		<GameDBLocalizedString>      
-		<LocID>DIA_JM_CSP</LocID>                         
-		<Text>만성 축농증(폴리프 포함)</Text>	
+	  
+	  
+	   
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSN</LocID>                         
+		 <Text>만성부비동염</Text>	
 		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_JM_CSP_DESCRIPTION</LocID>             
-		<Text>부비강(두개골 속의 코 안쪽으로 이어지는 구멍)이 3개월 이상 염증을 일으키는 질환이다. 알러지 등에 의해 발병 할 수 있다. 이를 위한 치료는 폴립과 염분 비강 스프레이를 제거하는 수술이다. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>DIA_JM_SPT</LocID>                         
-		<Text>패혈증 인두염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_JM_SPT_DESCRIPTION</LocID>             
-		<Text>일종의 박테리아(A군 연쇄상구균)에 의해 생기는 감염이다. 연쇄상구균 박테리아는 거의 모든 인후염의 3분의 1을 유발한다. 목구멍은 보통 항생제로 치료해야 한다. </Text>  
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_JM_HFM</LocID>                         
-		<Text>손, 발, 입 병(HFMD)</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_JM_HFM_DESCRIPTION</LocID>             
-		<Text>손, 발, 입 병(HFMD)은 바이러스 집단으로 인한 일반적인 감염이다. 그것은 일반적으로 열과 몸이 좋지 않은 느낌으로 시작한다. 이것은 하루나 이틀 후에 손, 발, 입에 물집이 생길 수 있는 평평한 변색된 반점이나 돌기가 뒤따른다. 이 병에 대한 치료는 없고 병이 끝날 때까지 증상만 치료하면 된다. </Text>  
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSN_DESCRIPTION</LocID>             
+		 <Text>부비동의 염증성 질환인 부비동염이 회복되지 않고 3개월 이상 지속되는 경우입니다. 축농증이라고도 불립니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_JM_CSN</LocID>                         
-		<Text>만성 축농증</Text>	
+		 <LocID>DIA_CRP_JM_CSP</LocID>                         
+		 <Text>비용종을 동반한 만성부비동염</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSP_DESCRIPTION</LocID>             
+		 <Text>부비동의 염증성 질환인 부비동염이 회복되지 않고 3개월 이상 지속되며, 동시에 비용종이 관찰되는 경우입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASN</LocID>                         
+	 	 <Text>알레르기성 부비동염</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		<LocID>DIA_JM_CSN_DESCRIPTION</LocID>             
-		<Text>부비강(두개골 속의 코 안쪽으로 이어지는 구멍)이 3개월 이상 염증을 일으키는 질환이다. 알러지 등에 의해 발병 할 수 있다. 이것에 대한 치료는 식염수 코 스프레이이다. </Text>  
+		 <LocID>DIA_CRP_JM_ASN_DESCRIPTION</LocID>             
+		 <Text>알레르기로 인한 부비동의 염증성 질환입니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_JM_GRD</LocID>                         
-		<Text>위산성 역류성 질환(GERD)</Text>	
+		 <LocID>DIA_CRP_JM_ENS</LocID>                         
+		 <Text>빈 코 증후군</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		<LocID>DIA_JM_GRD_DESCRIPTION</LocID>             
-		<Text>식도와 위 사이의 근육 고리인 식도 괄약근(LES)에 영향을 미치는 소화장애다. 임산부를 포함한 많은 사람들은 GERD로 인한 속쓰림이나 산 소화불량에 시달린다. 치료하지 않고 내버려두면 식도염, 바렛의 식도, 심지어 식도암을 일으킬 것이다.</Text>  
+		 <LocID>DIA_CRP_JM_ENS_DESCRIPTION</LocID>             
+		 <Text>빈 코 증후군(ENS)은 이차성 위축성 비염의 한 형태로, 비강이 막히지 않았음에도 코막힘과 관련한 증상들을 경험하는 증후군입니다. 주로 코막힘, 코가 건조하고 따가운 느낌, 그리고 숨을 쉴 수 없는 느낌 등이 있습니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_JM_OSA</LocID>                         
-		<Text>폐쇄되는 수면 무호흡(OSA)</Text>	
+		 <LocID>DIA_CRP_JM_NAR</LocID>                         
+		 <Text>비알레르기성 비염</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		<LocID>DIA_JM_OSA_DESCRIPTION</LocID>             
-		<Text>수면 무호흡의 가장 일반적인 유형으로 호흡 노력에도 불구하고 수면 중 상부 기도의 완전하거나 부분적인 장애의 반복적인 에피소드로 특징지어지며 대개는 혈액 산소 포화 감소에 관련된다.</Text>  
+		 <LocID>DIA_CRP_JM_NAR_DESCRIPTION</LocID>             
+		 <Text>알레르기 외의 다양한 원인으로 인해 발생하는 코의 염증입니다.</Text>  
 		</GameDBLocalizedString>
 		
+		<GameDBLocalizedString>
+		 <LocID>DIA_CRP_JM_AFS</LocID>                         
+		 <Text>알레르기성 진균성 부비동염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_AFS_DESCRIPTION</LocID>             
+		 <Text>알레르기 반응과 비용종을 동반하는 만성부비동염의 아형으로, 진균 감염에 의해 발생합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_DNS</LocID>                         
+		 <Text>비중격 만곡증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DNS_DESCRIPTION</LocID>             
+		 <Text>비중격 만곡증은 코의 중앙에 수직으로 위치하여 콧구멍을 둘로 나누는 벽인 비중격이 휘어져, 코와 관련된 증상을 일으키거나 코막힘과 부비동염 등의 기능적 장애를 유발하는 경우를 말합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_LOF</LocID>                         
+		 <Text>얼굴 열상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_LOF_DESCRIPTION</LocID>             
+		 <Text>환자가 얼굴에 열상을 입었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_THT</LocID>                         
+		 <Text>비갑개 비대증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_THT_DESCRIPTION</LocID>             
+		 <Text>비갑개가 너무 커져 공기의 흐름을 차단하는 질환입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DSA</LocID>                         
+		 <Text>이상후각</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DSA_DESCRIPTION</LocID>             
+		 <Text>후각의 질적 변화 또는 왜곡을 겪는 장애입니다. 자신이 기억하는 바와 다른 냄새를 맡거나, 없는 대상의 냄새를 맡는 증상으로 분류됩니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_NSC</LocID>                         
+		 <Text>비부비동 편평세포암</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_NAC</LocID>                         
+		 <Text>비부비동 선암</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_NMA</LocID>                         
+		 <Text>비부비동 흑색종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_NSC_DESCRIPTION</LocID>             
+		 <Text>비강 또는 부비동에 악성종양이 형성되는 질환으로, 두경부암의 일종입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_FON</LocID>                         
+		 <Text>비강 내 이물질</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_FON_DESCRIPTION</LocID>             
+		 <Text>환자의 코에 이물질이 들어갔습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_SSS</LocID>                         
+		 <Text>무증상 부비동 증후군</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_SSS_DESCRIPTION</LocID>             
+		 <Text>무증상 부비동 증후군은 상악동이 통증 없이 허탈되는 것을 특징으로 하며, 이는 부비동 배수 경로의 만성적인 폐쇄로 인해 발생합니다. 이러한 폐쇄는 부비동 용적의 점진적인 감소로 이어져 안와저의 후퇴와 시력 문제 또는 안면 기형과 같은 잠재적 합병증을 초래할 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_RST</LocID>                         
+		 <Text>급성비부비동염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_RST_DESCRIPTION</LocID>             
+		 <Text>비염을 동반하는 부비동의 염증이 4주 이내로 지속되는 경우입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_CRS</LocID>                         
+		 <Text>만성비부비동염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_CRS_DESCRIPTION</LocID>             
+		 <Text>비염을 동반하는 부비동의 염증이 12주 이상 지속되는 경우입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_RPM</LocID>                         
+		 <Text>딸기코종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_RPM_DESCRIPTION</LocID>             
+		 <Text>코의 혈관이 항상 늘어난 상태로 있거나 점차 심해지며 고름집, 부종 등이 생기는 만성 질환을 의미합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_CLP</LocID>                         
+		 <Text>구순구개열</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_CLP_DESCRIPTION</LocID>             
+		 <Text>구순구개열은 윗입술과 입천장이 갈라지는 대표적인 선천성 기형입니다. 구순구개열은 정확히 진단받고 적절한 시기에 치료를 시작하면 대부분 좋은 경과를 보입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_IVP</LocID>                         
+		 <Text>도립유두종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_IVP_DESCRIPTION</LocID>             
+		 <Text>도립유두종은 비강 뒤쪽에 형성되는 비암성 종양입니다. 성장하면서 부비동으로 확장될 수 있습니다. 때때로 편평세포암이라는 공격적인 형태의 암으로 악성 변형을 겪을 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_PBN</LocID>                         
+		 <Text>만성 혈관성 비출혈</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_PBN_DESCRIPTION</LocID>             
+		 <Text>만성 비출혈은 잠재적으로 문제가 될 수 있는 혈관, 외상 또는 기타 질병으로 인해 코피가 만성적으로 발생하는 상태입니다. 이 경우 문제가 있는 혈관에 의해 발생합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_SDN</LocID>                         
+		 <Text>안장코</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_SDN_DESCRIPTION</LocID>             
+		 <Text>코 중간이 주저앉은 것을 특징으로 하는 코의 형태로, 비강 외상 혹은 전두골의 골막염이나 선천 매독성 비염이 있는 경우 나타날 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_SPF</LocID>                         
+		 <Text>비중격 천공</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_SPF_DESCRIPTION</LocID>             
+		 <Text>비중격 천공은 코의 가운데 격막인 비중격에 어떠한 원인에 의해 구멍이 생기는 것을 의미합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_SPH</LocID>                         
+		 <Text>비중격 혈종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_SPH_DESCRIPTION</LocID>             
+		 <Text>비중격 혈종은 코의 가운데 격막인 비중격에 혈액이 모인 것을 말합니다. 혈종은 멍이나 혈전과 비슷하지만 치료하지 않고 방치하면 조직이 손상되어 감염으로 이어질 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_CSSP</LocID>                         
+		 <Text>경미한 비용종을 동반한 만성부비동염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_CSSP_DESCRIPTION</LocID>             
+		 <Text>부비동의 염증성 질환인 부비동염이 회복되지 않고 3개월 이상 지속되며, 동시에 경미한 비용종이 관찰되는 경우입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_MEC</LocID>                         
+		 <Text>수막뇌탈출증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_MEC_DESCRIPTION</LocID>             
+		 <Text>두개골의 결손된 부위를 통해 뇌와 수막이 탈출된 상태입니다. </Text>  
+		</GameDBLocalizedString>
+		
+	  
+		
 		<GameDBLocalizedString>      
-		<LocID>DIA_JM_MEDR</LocID>                         
-		<Text>고막 파열</Text>	
+		 <LocID>DIA_CRP_JM_SED</LocID>                         
+		 <Text>중증 메니에르병</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		<LocID>DIA_JM_MEDR_DESCRIPTION</LocID>             
-		<Text>귀와 중이(고막의 천공막)를 분리하는 얇은 조직의 구멍이나 찢어진 것이다. 고막이 파열되면 청력을 잃을 수 있다. 그것은 또한 여러분의 중이염을 감염에 취약하게 만들 수 있다. 파열된 고막이 보통 치료를 받지 않고 몇 주 안에 치유된다. 하지만 때때로 그것은 치료하기 위해 패치나 외과적 수술을 필요로 한다.</Text>  
+		 <LocID>DIA_CRP_JM_SED_DESCRIPTION</LocID>             
+		 <Text>메니에르병은 어지럼증, 청력 감소, 귀울림, 귀 먹먹함 등의 증상이 갑작스럽고 반복적으로 생기는 질병을 의미합니다. </Text>  
 		</GameDBLocalizedString>
 		
-		<GameDBLocalizedString>      
-		<LocID>DIA_JM_SEDR</LocID>                         
-		<Text>고막의 치유되지 않은 파열</Text>	
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_SVE</LocID>                         
+		 <Text>잘린 귀</Text>	
 		</GameDBLocalizedString>
 		
-        <GameDBLocalizedString>      
-		<LocID>DIA_JM_SEDR_DESCRIPTION</LocID>             
-		<Text>귀와 중이(고막의 천공막)를 분리하는 얇은 조직의 구멍이나 찢어진 것이다. 고막이 파열되면 청력을 잃을 수 있다. 그것은 또한 여러분의 중이염을 감염에 취약하게 만들 수 있다. 파열된 고막이 보통 치료를 받지 않고 몇 주 안에 치유된다. 하지만 때때로 그것은 치료하기 위해 패치나 외과적 수술을 필요로 한다.</Text>  
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_SVE_DESCRIPTION</LocID>             
+		 <Text>환자의 귀가 잘렸습니다. </Text>  
 		</GameDBLocalizedString>
 		
-		<GameDBLocalizedString>      
-		<LocID>DIA_JM_NAR</LocID>                         
-		<Text>비알레르기성 비염</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_JM_NAR_DESCRIPTION</LocID>             
-		<Text>만성 재채기나 뚜렷한 원인이 없는 충혈된 마른 코를 포함한다. 비알레르기성 비염의 증상은 건초열(알레르기성 비염)과 비슷하지만 알레르기 반응의 일반적인 증거는 하나도 없다. 비알레르기성 비염은 어린이와 성인에게 영향을 미칠 수 있지만 20세 이후에는 더 흔하다. 비알레르기성 비염 증상의 트리거는 다양하며 공기 중의 특정 냄새나 자극성, 날씨 변화, 일부 약물, 특정 음식, 만성 건강 상태를 포함할 수 있다. 비알레르기성 비염의 진단은 알레르기 원인이 배제된 후에 이루어진다. 이것은 피부의 알레르기 반응 검사나 혈액 검사를 필요로 할 수 있다.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>TRM_JM_LYC</LocID>                         
-		<Text>무딘 후두부 외상</Text>	
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BTE</LocID>                         
+		 <Text>귀압력손상</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		<LocID>TRM_JM_LYC_DESCRIPTION</LocID>             
-		<Text>성대가 위치한 기도의 상부인 음성 박스, 즉 후두부에 부상을 입힌다. 기도에 대한 발작적인 외상은 다소 흔하지만 어른들보다 아이들에게서 덜 자주 발생한다. 소아과 환자의 경우 트라우마는 보통 넘어지거나 목에 충격을 주거나 다른 목 부상 때문에 발생한다. 그 손상은 작은 성대 약함에서부터 후두나 기관지의 연골 구조물의 골절까지 다양할 수 있다. 이러한 골절은 공기가 목과 가슴으로 빠져나가게 할 수 있으며 빠르게 진단되고 치료되지 않으면 상당한 호흡기 손상과 심지어 사망에 이르게 할 수도 있다. 어린 시절 후두와 기관지는 연골 구조가 부드럽고 크기가 작다. 따라서 소아 골절은 덜 자주 발생한다. 심지어 가장 큰 병원들조차도 소수의 실제 후두 골절 환자만 볼 수 있다.</Text>  
+		 <LocID>DIA_CRP_JM_BTE_DESCRIPTION</LocID>             
+		 <Text>고막 내부와 외부의 압력 차이로 인해 귀에 불편함이 생기는 질환입니다. 귀 손상이 포함될 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_FOE</LocID>                         
+		 <Text>귀 이물질</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_FOE_DESCRIPTION</LocID>             
+		 <Text>환자의 귀에 이물질이 들어갔습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_ACN</LocID>                         
+		 <Text>청신경초종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_ACN_DESCRIPTION</LocID>             
+		 <Text>청신경초종은 전정와우신경을 감싸고 있는 껍질인 신경초에서 발생하는 양성 종양입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_VNI</LocID>                         
+		 <Text>전정신경염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_VNI_DESCRIPTION</LocID>             
+		 <Text>전정신경염은 어떤 원인에 의해 전정신경에 염증이 발생하여 심한 어지러움과 메스꺼움을 느끼고 균형잡기가 힘들어지는 질환을 의미합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CTN</LocID>                         
+		 <Text>귀지색전</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTN_DESCRIPTION</LocID>             
+		 <Text>귀지가 과도하게 축적되어 귀 관찰이 어려울 정도로 귀를 막은 상태를 의미합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BPPV</LocID>                         
+		 <Text>이석증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BPPV_DESCRIPTION</LocID>             
+		 <Text>이석증은 내이의 전정기관에 위치하는 이석이 원래의 위치에서 떨어져 나와 반고리관을 자극하면서 증상을 유발하는 질환으로, 머리를 움직일 때 갑자기 주변이 빙빙 도는 것 같은 급성 현기증이 특징적인 증상입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_PCHA</LocID>                         
+		 <Text>이개혈종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_PCHA_DESCRIPTION</LocID>             
+		 <Text>외상 등에 의해 이개에 피가 고이는 질환입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_EWR</LocID>                         
+		 <Text>귀지 제거 예약</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_EWR_DESCRIPTION</LocID>             
+		 <Text>환자가 귀지 제거를 위해 병원에 방문했습니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>TRM_JM_LYL</LocID>                         
-		<Text>후두부 외상</Text>	
+		 <LocID>DIA_CRP_JM_MEDR</LocID>                         
+		 <Text>고막 천공</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		<LocID>TRM_JM_LYL_DESCRIPTION</LocID>             
-		<Text>성대가 위치한 기도의 상부인 음성 박스, 즉 후두부에 부상을 입힌다. 기도에 대한 발작적인 외상은 다소 흔하지만 어른들보다 아이들에게서 덜 자주 발생한다. 소아과 환자의 경우 트라우마는 보통 넘어지거나 목에 충격을 주거나 다른 목 부상 때문에 발생한다. 그 손상은 작은 성대 약함에서부터 후두나 기관지의 연골 구조물의 골절까지 다양할 수 있다. 이러한 골절은 공기가 목과 가슴으로 빠져나가게 할 수 있으며 빠르게 진단되고 치료되지 않으면 상당한 호흡기 손상과 심지어 사망에 이르게 할 수도 있다. 어린 시절 후두와 기관지는 연골 구조가 부드럽고 크기가 작다. 따라서 소아 골절은 덜 자주 발생한다. 심지어 가장 큰 병원들조차도 소수의 실제 후두 골절 환자만 볼 수 있다.</Text>  
+		 <LocID>DIA_CRP_JM_MEDR_DESCRIPTION</LocID>             
+		 <Text>외이와 중이를 분리하는 연약한 조직에 구멍이나 찢어짐이 생기는 것을 고막 천공이라고 합니다. 청력 상실을 일으킬 수 있으며 중이가 감염되기 쉽게 만들 수도 있습니다. 고막은 꽤 크게 손상되었더라도 일반적으로 잘 재생됩니다. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_JM_SWE</LocID>                         
-		<Text>극성 외이염</Text>	
+		 <LocID>DIA_CRP_JM_SEDR</LocID>                         
+		 <Text>비회복성 고막 천공</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SEDR_DESCRIPTION</LocID>             
+		 <Text>외이와 중이를 분리하는 연약한 조직에 구멍이나 찢어짐이 생기는 것을 고막 천공이라고 합니다. 고막은 꽤 크게 손상되었더라도 일반적으로 잘 재생되지만, 고막이 너무 크게 손상되었거나 이차적으로 세균에 감염된 경우에는 몇 개월이 지나도 고막의 구멍이 막히지 않고 남아있을 수 있습니다. 이러한 경우에는 고막의 재생을 위한 수술을 시행합니다.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_JM_GEE</LocID>                         
-		<Text>극성 중이염</Text>	
+		 <LocID>DIA_CRP_JM_ANM</LocID>                         
+		 <Text>경증 청각신경병증</Text>	
 		</GameDBLocalizedString>
-		
 
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ANS</LocID>                         
+		 <Text>중증 청각신경병증</Text>	
+		</GameDBLocalizedString>
 		
-		 
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ANM_DESCRIPTION</LocID>             
+		 <Text>청각신경병증은 달팽이관의 외피 세포가 정상적으로 기능하지만 청각 신경에 의해 소리 정보가 뇌로 충분히 전달되지 않는 청력 장애입니다. 정상적인 청력 민감도부터 심각한 청력 손실까지 다양할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_PBCM</LocID>                         
+		 <Text>경증 노인성 난청</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_PBCS</LocID>                         
+		 <Text>중증 노인성 난청</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_PBCM_DESCRIPTION</LocID>             
+		 <Text>노인성 난청은 나이가 들면서 청력이 손실되어 잘 듣지 못하는 증상을 의미합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LBRT</LocID>                         
+		 <Text>미로염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LBRT_DESCRIPTION</LocID>             
+		 <Text>미로염은 말초성 현기증과 청력 장애를 일으키는 미로의 질환을 의미합니다. 이 질환은 중이염의 측두골 내 합병증 중 가장 흔하게 발생합니다. 내이의 미로는 평형 기능을 담당하는 전정 기관과 청력을 감지하는 와우로 구성됩니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OTP</LocID>                         
+		 <Text>오토피마</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OTP_DESCRIPTION</LocID>             
+		 <Text>오토피마는 귀의 피지선 비대와 증식을 지칭하는 용어입니다. 원인 불명의 흔한 만성 피부 질환인 주사피부염의 말기 단계로, 희귀하게 나타납니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ESC</LocID>                         
+		 <Text>외이도 편평세포암</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_EAC</LocID>                         
+		 <Text>외이도 선암</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_EMA</LocID>                         
+		 <Text>외이도 흑색종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ESC_DESCRIPTION</LocID>             
+		 <Text>외이도에 악성 종양이 발생하는 질환입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NOM</LocID>                         
+		 <Text>악성 중이염</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NOE</LocID>                         
+		 <Text>악성 외이도염</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NOM_DESCRIPTION</LocID>             
+		 <Text>악성 중이/외이도염은 외이도와 측두골에 영향을 미치는 감염입니다. 감염은 외이도염으로 시작하여 측두골의 골수염으로 진행됩니다. </Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SWE</LocID>                         
+		 <Text>중증 외이도염</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GEE</LocID>                         
+		 <Text>중증 삼출성 중이염</Text>	
+		</GameDBLocalizedString>
+		
+	  
+		
+        <GameDBLocalizedString> 
+		 <LocID>DIA_CRP_JM_CSA</LocID>                         
+		 <Text>만성침샘염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_CSA_DESCRIPTION</LocID>             
+		 <Text>여러 가지 이유로 인해 침샘에 염증이 생기는 질환입니다. 만성침샘염은 극심한 통증이 없으며, 증상의 악화와 호전을 반복하며 수일에서 수개월간 지속됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_ASS</LocID>                         
+		 <Text>급성침샘염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASS_DESCRIPTION</LocID>             
+		 <Text>급성침샘염은 주로 세균에 감염되면서 생기는데, 수술 직후 탈수가 심하거나 면역력이 저하된 사람에게 잘 생깁니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_CRP_JM_DTA</LocID>                         
+		 <Text>디프테리아</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_DTA_DESCRIPTION</LocID>             
+		 <Text>디프테리아는 인후, 코 등의 상피 조직에 국소 염증을 일으키거나 장기 조직에 장애를 일으키는 질환입니다. 체외 독소를 분비하여 혈류를 통해 신체 각 부위에 이를 운반하기도 합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_VCP</LocID>                         
+		 <Text>성대마비</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_VCP_DESCRIPTION</LocID>             
+		 <Text>성대를 움직이는 신경이 어떤 이유로 인해 손상되어 성대가 움직이지 않는 상태를 의미합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_TSC</LocID>                         
+		 <Text>인두 편평세포람</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_TAC</LocID>                         
+		 <Text>인두 선암</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_TML</LocID>                         
+		 <Text>인두 흑색종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_TSC_DESCRIPTION</LocID>             
+		 <Text>인두에 악성 종양이 발생하는 질환입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CPHG</LocID>                         
+		 <Text>만성인두염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CPHG_DESCRIPTION</LocID>             
+		 <Text>만성인두염은 입과 비강 뒤쪽에 위치한 인두의 지속적인 염증을 특징으로 합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SPT</LocID>                         
+		 <Text>패혈성 인두염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SPT_DESCRIPTION</LocID>             
+		 <Text>패혈성 인두염은 화농성연쇄상구균이라는 박테리아에 의해 발생하며, 침을 삼킬 때의 심한 통증이 특징입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_HFMV2</LocID>                         
+		 <Text>수족구병</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_HFM_DESCRIPTION</LocID>             
+		 <Text>수족구병은 주로 손, 발, 입 주변이나 구강 내에 물집과 발진이 생기는 급성 바이러스 감염질환입니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LGP</LocID>                         
+		 <Text>후두유두종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LGP_DESCRIPTION</LocID>             
+		 <Text>후두에 유두종(양성 종양)이 자라는 질환을 의미합니다. 이는 인간 유두종 바이러스(HPV) 감염으로 인해 발생하며, 목소리 변화나 호흡곤란과 같은 증상을 유발할 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_VCN</LocID>                         
+		 <Text>성대결절</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_VCN_DESCRIPTION</LocID>             
+		 <Text>성대결절은 지속적인 목소리 남용이나 무리한 발성에 의해 발생하는 성대의 양성점막 질환입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYC</LocID>                         
+		 <Text>후두 둔상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYC_DESCRIPTION</LocID>             
+		 <Text>후두 둔상은 후두가 경추와 외부 물체 사이에 위치하여 눌려 발생합니다. 골절을 동반할 경우 공기가 목과 가슴으로 빠져나가 호흡기 손상을 초래할 수 있으며, 빠르게 진단하고 치료하지 않으면 사망에 이를 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYL</LocID>                         
+		 <Text>후두 관통상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYL_DESCRIPTION</LocID>             
+		 <Text>후두 관통상은 칼이나 예리한 흉기에 의한 자상, 총상 등이 원인이 될 수 있습니다. 골절을 동반할 경우 공기가 목과 가슴으로 빠져나가 호흡기 손상을 초래할 수 있으며, 빠르게 진단하고 치료하지 않으면 사망에 이를 수 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRDV2</LocID>                         
+		 <Text>위식도 역류질환</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRD</LocID>                         
+		 <Text>Gastroesophageal reflux disease (Obselete)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRD_DESCRIPTION</LocID>             
+		 <Text>위의 음식물과 위산이 식도로 역류해 불편한 증상을 유발하는 질환입니다. 식도 점막의 손상 여부에 따라 비미란성 위식도 역류질환과 미란성 위식도 역류질환으로 구분할 수 있으며, 미란성 위식도 역류질환은 역류성 식도염에 해당합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_OSA2</LocID>                         
+		 <Text>폐쇄성 수면무호흡증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OSA_DESCRIPTION</LocID>             
+		 <Text>폐쇄성 수면무호흡증(OSA)은 입이나 목의 공간이 좁아져 수면 중 공기의 흐름이 일시적으로 막히는 결과로 발생합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_CRP_JM_PYC</LocID>                         
+		 <Text>인두 둔상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_PYC_DESCRIPTION</LocID>             
+		 <Text>인두에 입은 부상으로, 주로 이차성 부상입니다. 합병증을 초래할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_CRP_JM_PYL</LocID>                         
+		 <Text>인두 관통상</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_PYL_DESCRIPTION</LocID>             
+		 <Text>인두에 입은 천공성 열상으로, 주로 이차성 부상입니다. 합병증을 초래할 수 있습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CWP</LocID>                         
+		 <Text>기관연화증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CWP_DESCRIPTION</LocID>             
+		 <Text>기관연화증은 선천심장병에서 자주 동반되는 질환으로, 기관의 연골이 약해져 호흡하는 동안 기도를 지탱하는 능력이 감소하는 질환입니다. 이외에도 장기간의 기관삽관이나 만성 호흡기 감염 및 염증이 기관연화증의 원인이 됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CLRG</LocID>                         
+		 <Text>만성후두염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CLRG_DESCRIPTION</LocID>             
+		 <Text>만성후두염은 후두에 발생한 만성 염증으로 원인에 따라 감염성과 비감염성으로 나눌 수 있습니다. 감염성 만성후두염의 경우 후두 자체에 급성 염증의 반복으로 발생하거나, 후두 주변의 편도나 부비동, 기관지, 식도 등에 생긴 질병이 간접적으로 후두에 영향을 미쳐 발생하는 경우도 있습니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTSA</LocID>                         
+		 <Text>중추성 수면무호흡증</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CTSA_DESCRIPTION</LocID>             
+		 <Text>모든 호흡진행이 뇌와 중추장애로 중지되는 것으로, 호흡을 하려는 노력도 검사상 관찰되지 않는 경우입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_RKE</LocID>                         
+		 <Text>라인케 부종</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_RKE_DESCRIPTION</LocID>             
+		 <Text>성대상피의 바로 밑에 자리잡고 있는 막인 라인케 공간 내에 액체가 고여 성대가 부은 상태를 의미합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_OVC</LocID>                         
+		 <Text>음성피로</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OVC_DESCRIPTION</LocID>             
+		 <Text>과도하고 반복적인 성대 사용으로 근육이 피로해진 상태를 의미합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTS</LocID>                         
+		 <Text>만성편도염</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CTS_DESCRIPTION</LocID>             
+		 <Text>편도염은 여러 가지 원인으로 인해 전신의 저항력이 감소하였을 때 편도 내 세균으로 인해 급성 감염이 일어나는 질환을 말합니다. 만성편도염은 이러한 급성 감염이 치료되지 않고 지속되는 경우를 의미합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

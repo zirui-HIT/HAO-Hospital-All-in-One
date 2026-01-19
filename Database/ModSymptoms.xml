@@ -4090,29 +4090,6 @@
         <IconIndex>1789</IconIndex>
     </GameDBSymptom>
 
-    <GameDBSymptom ID="SYM_ORIFICE_BLEEDING">
-        <DescriptionLocID>SYM_ORIFICE_BLEEDING_DESCRIPTION</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>true</PatientComplains>
-        <Hazard>High</Hazard>
-
-        <RiskOfCollapseStartHours>8</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_HEMORRHAGIC_FEVER</CollapseSymptomRef>
-
-        <PatientMobility>MOBILE</PatientMobility>
-        <Examinations>
-            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-        </Examinations>
-        <Treatments>
-            <TreatmentRef>TRT_BLOOD_COMPONENT_THERAPY</TreatmentRef>
-        </Treatments>
-        <ShameLevel>90</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-        <IconIndex>2178</IconIndex>
-    </GameDBSymptom>
-
     <GameDBSymptom ID="SYM_INCREASED_ICP">
         <DescriptionLocID>SYM_INCREASED_ICP_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -4584,7 +4561,7 @@
             <TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
         </Treatments>
 
-
+        <CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
         <ShameLevel>5</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
         <IconIndex>2106</IconIndex>
@@ -7891,7 +7868,8 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
         </Examinations>
         <ShameLevel>25</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -7928,7 +7906,8 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8007,7 +7986,8 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
             <ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
-        <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
         </Examinations>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
@@ -8261,8 +8241,8 @@
         <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON006_SMALL</CustomIconSmallAssetRef>
     </GameDBSymptom>
 
-    <GameDBSymptom ID="SYM_CRP_SNORE">
-        <DescriptionLocID>SYM_CRP_SNORE_DESCRIPTION</DescriptionLocID>
+    <GameDBSymptom ID="SYM_CRP_SNORING">
+        <DescriptionLocID>SYM_CRP_SNORING_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>true</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -8291,7 +8271,7 @@
             <ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SALINE_NASAL_SPRAY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_SALINE_NASAL_SPRAY</TreatmentRef>
             <TreatmentRef>TRT_CRP_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
@@ -8311,7 +8291,7 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_NASAL_DROPS</TreatmentRef>
-            <TreatmentRef>TRT_SALINE_NASAL_SPRAY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_SALINE_NASAL_SPRAY</TreatmentRef>
         </Treatments>
 
         <ShameLevel>0</ShameLevel>
@@ -8335,7 +8315,7 @@
             <ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SALINE_NASAL_SPRAY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_SALINE_NASAL_SPRAY</TreatmentRef>
             <TreatmentRef>TRT_CRP_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
         </Treatments>
 
@@ -18310,7 +18290,7 @@
     <GameDBSymptom ID="SYM_DEN_RELEVANT_HISTORY">
         <DescriptionLocID>SYM_DEN_RELEVANT_HISTORY_DESCRIPTION</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
+        <PatientComplains>true</PatientComplains>
         <Hazard>Low</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
@@ -18323,9 +18303,9 @@
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>false</IsMainSymptom>
 
+        <IconIndex>1901</IconIndex>
         <CustomIconBigAssetRef>ASSET_MD_EXM_ICON001_LARGE</CustomIconBigAssetRef>
         <CustomIconSmallAssetRef>ASSET_MD_EXM_ICON001_SMALL</CustomIconSmallAssetRef>
-        <IconIndex>1901</IconIndex>
     </GameDBSymptom>
 
 </Database>

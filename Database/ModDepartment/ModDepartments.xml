@@ -1827,8 +1827,8 @@
 
             <GameDBDepartmentRoomRequirement>
                 <RoomDatabaseEntryRef>ROOM_TYPE_HEMATOLOGY_LAB</RoomDatabaseEntryRef>
-                <MinCount>1</MinCount>
-                <MaxCount>5</MaxCount>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
             </GameDBDepartmentRoomRequirement>
         </RequiredRoomsHospitalization>
 

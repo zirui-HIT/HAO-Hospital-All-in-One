@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+
+	<GameDBStringTable ID="LOC_KR_ADDON_MOD_HEMATOLOGY_BUILDING_MODE">
+		<LanguageCode>kr</LanguageCode>
+		<LanguageNameLocalized>한국어</LanguageNameLocalized>
+		<Contributors>
+			<Name>바굴</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_HEM_OFFICE_DESC</LocID>
+				<Text>An office for a hematologist.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_HEM_OFFICE</LocID>
+				<Text>진료실(혈액)</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_HEM_OFFICE_DESC</LocID>
+				<Text>An office for a hematologist.</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_HEM_OFFICE</LocID>
+				<Text>치료실(혈액)</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_HEM_OFFICE_DESC</LocID>
+				<Text>An office for examination of hematology inpatients.</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>
+				<LocID>OBJECT_DECAL_MOD_HEM</LocID>
+				<Text>Hematology Decal</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

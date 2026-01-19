@@ -3,53 +3,6 @@
 
     <!-- Base -->
 
-    <GameDBExamination ID="EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING">
-        <AbbreviationLocID>EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_1_1</AbbreviationLocID>
-        <DiscomfortLevel>Medium</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
-            <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_GENERAL_SURGERY</SkillRef>
-                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
-            </RequiredDoctorQualificationList>
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>sit_exam</Tag>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>doc_equipment</Tag>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>clean_hands</Tag>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-            
-            <!--RequiredRoomTypeList>
-                <RequiredRoomTypeRef>ROOM_TYPE_INPATIENT_GS_OFFICE</RequiredRoomTypeRef>
-                <RequiredRoomTypeRef>ROOM_TYPE_GENERAL_SURGERY_OFFICE</RequiredRoomTypeRef>
-            </RequiredRoomTypeList-->
-            <RequiredRoomTags>
-                <Tag>general_surgery_office</Tag>
-                <Tag>icu</Tag>
-            </RequiredRoomTags>
-            
-            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
-            <AnimationSetupSitting>
-                <AnimationNameIn>stand_look_in</AnimationNameIn>        <!--todo make new animation-->
-                <AnimationNameIdle>stand_look_idle</AnimationNameIdle>
-                <AnimationNameOut>stand_look_out</AnimationNameOut>
-            </AnimationSetupSitting>
-            <DressLevel>HALF</DressLevel>
-            <Biohazard>true</Biohazard>
-            <Priority>20</Priority>
-        </Procedure>
-        <Cost>50</Cost>
-        <IconIndex>1711</IconIndex>
-        <DurationHours>0</DurationHours>
-        <LabTestingExaminationRef>EXM_PERITONEAL_FLUID_ANALYSIS_TESTING</LabTestingExaminationRef>
-    </GameDBExamination>
-
     <GameDBExamination ID="EXM_ABDOMINAL_PALPATION">
         <AbbreviationLocID>EXM_ABDOMINAL_PALPATION_DESCRIPTION</AbbreviationLocID>
         <DiscomfortLevel>Low</DiscomfortLevel>
@@ -2890,6 +2843,8 @@
                 <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_SH</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_UR</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_ONCO</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_GENERAL_GYNECOLOGUE</SkillRef>
                 <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredDoctorQualificationList>
             <RequiredEquipmentList>
@@ -3738,7 +3693,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_USG</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -3895,7 +3852,9 @@
         <Procedure>
             <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
             <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_DIAG</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</SkillRef>
+                <SkillRef>SKILL_DOC_SPEC_CRITICAL_CARE</SkillRef>
             </RequiredSkillsToPrescribe>
             <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_SPEC_USG</RequiredStatLabQualificationRef>
             <RequiredEquipmentList>
@@ -4761,111 +4720,6 @@
     </GameDBExamination>
 
 
-    <GameDBExamination ID="EXM_CRP_ELISA_SAMPLING">
-        <AbbreviationLocID>EXM_CRP_ELISA_DESCRIPTION</AbbreviationLocID>
-        <DiscomfortLevel>Low</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
-            <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredDoctorQualificationList>
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>sit_exam</Tag>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>doc_equipment</Tag>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>clean_hands</Tag>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-
-            <RequiredRoomTags>
-                <Tag>any_office</Tag>
-                <Tag>observation</Tag>
-                <Tag>trauma_center</Tag>
-                <Tag>icu</Tag>
-                <Tag>examinations_basic_equipment</Tag>
-                <Tag>ward</Tag>
-            </RequiredRoomTags>
-
-            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
-            <AnimationSetupSitting>
-                <AnimationNameIn>stand_blood_sampling_in</AnimationNameIn>
-                <AnimationNameIdle>stand_blood_sampling_idle</AnimationNameIdle>
-                <AnimationNameOut>stand_blood_sampling_out</AnimationNameOut>
-            </AnimationSetupSitting>
-            <AnimationSetupLying>
-                <AnimationNameIn>stand_examination_in</AnimationNameIn>
-                <AnimationNameIdle>stand_examination_idle</AnimationNameIdle>
-                <AnimationNameOut>stand_examination_out</AnimationNameOut>
-            </AnimationSetupLying>
-            <DressLevel>FULL</DressLevel>
-            <Biohazard>true</Biohazard>
-            <Priority>49</Priority>
-        </Procedure>
-        <Cost>50</Cost>
-        <IconIndex>1727</IconIndex>
-        <DurationHours>0</DurationHours>
-        <LabTestingExaminationRef>EXM_CRP_ELISA_TESTING</LabTestingExaminationRef>
-    </GameDBExamination>
-
-    <GameDBExamination ID="EXM_CRP_ELISA_TESTING">
-        <AbbreviationLocID>EXM_CRP_ELISA_DESCRIPTION</AbbreviationLocID>
-        <DiscomfortLevel>None</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
-            <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredSkillsToPrescribe>
-            <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</RequiredStatLabQualificationRef>
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>stat_lab_exam</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>fume_hood</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>mic_incubator</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>microscope</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>biohazard_trash</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>clean_hands</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-
-            <RequiredRoomTags>
-                <Tag>deprecated_lab</Tag>
-                <Tag>microbiology_lab</Tag>
-            </RequiredRoomTags>
-
-            <Priority>49</Priority>
-            <FallbackLabDepartmentRef>DPT_LAB</FallbackLabDepartmentRef>
-        </Procedure>
-        <Cost>50</Cost>
-        <IconIndex>1727</IconIndex>
-        <DurationHours>2</DurationHours>
-    </GameDBExamination>
-
     <GameDBExamination ID="EXM_CRP_CCBT">
         <AbbreviationLocID>EXM_CRP_CCBT_DESC</AbbreviationLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
@@ -4933,11 +4787,6 @@
                     <Tag>stat_lab_exam</Tag>
                     <DurationHours>0.1</DurationHours>
                     <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>stat_lab_exam</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
                 </RequiredEquipment>
                 <RequiredEquipment>
                     <Tag>RIA</Tag>
@@ -6887,111 +6736,6 @@
 
 
     <!-- Plastic -->
-
-    <GameDBExamination ID="EXM_CRP_ELECTROPHORESIS">
-        <AbbreviationLocID>EXM_CRP_ELECTROPHORESIS_DESC</AbbreviationLocID>
-        <DiscomfortLevel>Medium</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_OR_DEFAULT_ROOM</StaffSelectionRules>
-            <RequiredDoctorQualificationList>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredDoctorQualificationList>
-
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>sit_exam</Tag>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>doc_equipment</Tag>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>clean_hands</Tag>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-
-            <RequiredRoomTags>
-                <Tag>examinations_basic_equipment</Tag>
-                <Tag>ward</Tag>
-            </RequiredRoomTags>
-
-            <ProcedureScript>ProcedureScriptExaminationGeneralEquipment</ProcedureScript>
-            <AnimationSetupSitting>
-                <AnimationNameIn>stand_blood_sampling_in</AnimationNameIn>
-                <AnimationNameIdle>stand_blood_sampling_idle</AnimationNameIdle>
-                <AnimationNameOut>stand_blood_sampling_out</AnimationNameOut>
-            </AnimationSetupSitting>
-            <AnimationSetupLying>
-                <AnimationNameIn>stand_examination_in</AnimationNameIn>
-                <AnimationNameIdle>stand_examination_idle</AnimationNameIdle>
-                <AnimationNameOut>stand_examination_out</AnimationNameOut>
-            </AnimationSetupLying>
-            <DressLevel>FULL</DressLevel>
-            <Biohazard>true</Biohazard>
-            <Priority>49</Priority>
-        </Procedure>
-        <Cost>50</Cost>
-        <IconIndex>1665</IconIndex>
-
-        <CustomIconBigAssetRef>ASSET_PLAS_EXM_ICON_001</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_PLAS_EXM_ICON_002</CustomIconSmallAssetRef>
-
-        <DurationHours>0</DurationHours>
-        <LabTestingExaminationRef>EXM_CRP_ELECTROPHORESIS_TEST</LabTestingExaminationRef>
-    </GameDBExamination>
-
-    <GameDBExamination ID="EXM_CRP_ELECTROPHORESIS_TEST">
-        <AbbreviationLocID>EXM_CRP_ELECTROPHORESIS_DESC</AbbreviationLocID>
-        <DiscomfortLevel>None</DiscomfortLevel>
-        <Procedure>
-            <StaffSelectionRules>REQUIRED_ROOM_IGNORE_DOCTOR</StaffSelectionRules>
-            <RequiredSkillsToPrescribe>
-                <SkillRef>SKILL_DOC_QUALIF_GENERAL_MEDICINE</SkillRef>
-            </RequiredSkillsToPrescribe>
-            <RequiredStatLabQualificationRef>SKILL_LAB_SPECIALIST_QUALIF_SCIENCE_EDUCATION</RequiredStatLabQualificationRef>
-            <RequiredEquipmentList>
-                <RequiredEquipment>
-                    <Tag>stat_lab_exam</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>lab_eq</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>microscope</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>false</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>biohazard_trash</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-                <RequiredEquipment>
-                    <Tag>clean_hands</Tag>
-                    <DurationHours>0.1</DurationHours>
-                    <BlocksSpecialist>true</BlocksSpecialist>
-                </RequiredEquipment>
-            </RequiredEquipmentList>
-
-            <RequiredRoomTags>
-                <Tag>deprecated_lab</Tag>
-                <Tag>histology_lab</Tag>
-            </RequiredRoomTags>
-
-            <Priority>49</Priority>
-            <FallbackLabDepartmentRef>DPT_LAB</FallbackLabDepartmentRef>
-        </Procedure>
-        <Cost>50</Cost>
-        <IconIndex>1665</IconIndex>
-
-        <CustomIconBigAssetRef>ASSET_PLAS_EXM_ICON_003</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_PLAS_EXM_ICON_004</CustomIconSmallAssetRef>
-
-        <DurationHours>2</DurationHours>
-    </GameDBExamination>
 
     <!-- Urology -->
 

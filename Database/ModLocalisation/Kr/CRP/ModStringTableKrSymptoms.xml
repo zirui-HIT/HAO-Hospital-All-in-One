@@ -7,6 +7,7 @@
 
         <Contributors>
 			<Name>S2SKY</Name>
+			<Name>바굴</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -24,7 +25,7 @@
 			<GameDBLocalizedString>	<LocID>SYM_CRP_GROSSESSE</LocID>						<Text>임신</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_GROSSESSE_DESCRIPTION</LocID>			<Text>임신 중인 상태입니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOPERITOINE</LocID>					<Text>복강내출혈</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOPERITOINE_DESCRIPTION</LocID>		<Text>복강내출혈 (때때로 혈액복막이라고 불리는)is the presence of blood in the peritoneal cavity.</Text>	</GameDBLocalizedString>			
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOPERITOINE_DESCRIPTION</LocID>		<Text>복막강 내에 혈액이 존재합니다.</Text>	</GameDBLocalizedString>			
 			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERANDROGEN</LocID>					<Text>생물학적 안드로겐과잉증</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERANDROGEN_DESCRIPTION</LocID>		<Text>여성에게서 발견되는 높은 안드로겐 수치.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_SEBORRHEE</LocID>						<Text>지루</Text>	</GameDBLocalizedString>
@@ -34,7 +35,7 @@
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ACNE</LocID>								<Text>여드름</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ACNE_DESCRIPTION</LocID>					<Text>피부샘 및 모낭의 염증으로 발생하는 피부 트러블. 사춘기 때 많이 발견되며 보통 얼굴에 뾰루지 형태로 발견되곤 한다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ACANTHOSIS_NIGRICANS</LocID>				<Text>흑색극세포종</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_CRP_ACANTHOSIS_NIGRICANS_DESCRIPTION</LocID>	<Text>몸의 접히는 부분 또는 주름이 (겨느랑이, 사타구니 또는 목 등) 어둡게 착색되거나 혹은 부드럽게 두꺼워지는 현상이 특징적인 피부 증상으로 비만, 인슐린 내성, 호르몬 불균형 또는 특정 약물 복용과 밀접되게 연관되어 있습니다. 흔치 않은 경우지만 암의 징후로 나타나기도 합니다(위암 또는 간암).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ACANTHOSIS_NIGRICANS_DESCRIPTION</LocID>	<Text>몸의 접히는 부분 또는 주름이 (겨드랑이, 사타구니 또는 목 등) 어둡게 착색되거나 혹은 부드럽게 두꺼워지는 현상이 특징적인 피부 증상으로 비만, 인슐린 내성, 호르몬 불균형 또는 특정 약물 복용과 밀접되게 연관되어 있습니다. 흔치 않은 경우지만 암의 징후로 나타나기도 합니다(위암 또는 간암).</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_AMENORRHEE</LocID>						<Text>무월경증 </Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_AMENORRHEE_DESCRIPTION</LocID>			<Text>비정상적인 월경의 멈춤 또는 줄어듦.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_BOUFFEE_VASOMOTRICE</LocID>				<Text>상기됨</Text>	</GameDBLocalizedString>
@@ -45,6 +46,8 @@
 			<GameDBLocalizedString>	<LocID>SYM_CRP_DYSMENORRHEE_DESCRIPTION</LocID>			<Text>월경이 고통스럽습니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_MENORRAGIE</LocID>						<Text>월경 과다증</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_MENORRAGIE_DESCRIPTION</LocID>			<Text>비정상적으로 월경혈이 과다 분출됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POLLAKIURIE</LocID>						<Text>빈뇨</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POLLAKIURIE_DESCRIPTION</LocID>			<Text>비정상적으로 자주 소변을 봅니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_LEUCORRHEE</LocID>						<Text>백대하</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_LEUCORRHEE_DESCRIPTION</LocID>			<Text>점막의 염증 또는 충혈로 인해 질로부터 분비되는 희고 끈적거리는 분비물.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ULCERATION_GENITAL</LocID>				<Text>음부궤양</Text>	</GameDBLocalizedString>
@@ -70,12 +73,76 @@
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ODEUR_VAGINALE</LocID>					<Text>질향</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ODEUR_VAGINALE_DESCRIPTION</LocID>		<Text>강렬한 "생선"같은 질의 냄새입니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_POST_PARTUM</LocID>						<Text>산욕기</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_CRP_POST_PARTUM_DESCRIPTION</LocID>			<Text> 출산 직후 또는 이후의 상태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POST_PARTUM_DESCRIPTION</LocID>			<Text>출산 직후 또는 이후의 상태입니다.</Text>	</GameDBLocalizedString>
 
-	
+			<GameDBLocalizedString>	<LocID>SYM_CRP_AXILLARY_LYMPH_NODES</LocID>								<Text>겨드랑이 림프절</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INGUINAL_LYMPH_NODES</LocID>								<Text>서혜부 림프절</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SUPRACLAVICULAR_LYMPH_NODES</LocID>						<Text>쇄골상 림프절</Text>	</GameDBLocalizedString>
 	
 		
 	
+
+
+
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE</LocID>										<Text>저칼륨혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE_DESCRIPTION</LocID>							<Text>혈청 칼륨 농도가 정상 이하로 떨어진 상태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE</LocID>									<Text>고칼륨혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE_DESCRIPTION</LocID>						<Text>혈청 칼륨 농도가 정상 이상으로 과도하게 상승했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP</LocID>												<Text>폐부종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP_DESCRIPTION</LocID>									<Text>폐에 체액이 과도하게 쌓여 호흡곤란을 야기하는 상태입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS</LocID>									<Text>맥박 없음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS_DESCRIPTION</LocID>						<Text>환자의 맥박이 없습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE</LocID>											<Text>망상청피반</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE_DESCRIPTION</LocID>								<Text>피부에 그물 모양의 청자색 반이 형성되는 질환으로, 다른 질환과 동반되어 나타나기도 합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE</LocID>									<Text>반동 맥박</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE_DESCRIPTION</LocID>						<Text>크고 강하게 뛰는 맥박입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE</LocID>							<Text>목정맥 팽창</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE_DESCRIPTION</LocID>				<Text>목정맥이 눈에 띄게 튀어나온 상태로, 우심실의 기능 이상을 의미합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ</LocID>										<Text>간목정맥 역류</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ_DESCRIPTION</LocID>							<Text>복부 중앙을 강하게 눌렀을 때 목정맥압(JVP)이 지속적으로 상승했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE</LocID>										<Text>간통증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE_DESCRIPTION</LocID>							<Text>환자가 간에 통증을 느낍니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL</LocID>								<Text>복부 잡음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL_DESCRIPTION</LocID>					<Text>복부 소음의 존재는 복부 대동맥류 존재 또는 신장 동맥의 협착을 반영할 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE</LocID>								<Text>혈관 잡음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE_DESCRIPTION</LocID>					<Text/>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA</LocID>											<Text>대설증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA_DESCRIPTION</LocID>								<Text>환자의 혀가 비정상적으로 커졌습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA</LocID>											<Text>저혈당증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA_DESCRIPTION</LocID>								<Text>혈당이 정상보다 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA</LocID>											<Text>여성형 유방</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA_DESCRIPTION</LocID>								<Text>남성의 유방이 여성의 유방처럼 발달했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE</LocID>									<Text>고환 위축</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE_DESCRIPTION</LocID>						<Text>고환의 크기가 감소했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN</LocID>												<Text>건조한 피부</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN_DESCRIPTION</LocID>									<Text>환자의 피부가 건조합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL</LocID>												<Text>고프로락틴혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL_DESCRIPTION</LocID>									<Text>혈중 프로락틴 수치가 비정상적으로 높습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE</LocID>								<Text>급성 부신기능저하증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE_DESCRIPTION</LocID>					<Text>갑작스러운 부신 스테로이드 생산 결함으로 인한 주요 부신 기능 부전.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA</LocID>											<Text>저칼슘혈증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA_DESCRIPTION</LocID>								<Text>혈중 칼슘 농도가 낮습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE</LocID>										<Text>혈소판증가증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE_DESCRIPTION</LocID>							<Text>혈중 혈소판 농도가 증가한 상태입니다.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA</LocID>										<Text>골수 무형성증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA_DESCRIPTION</LocID>							<Text>골수 무형성증은 줄기세포의 현저한 감소 및 결함, 또는 골수 미세 환경이 조혈을 지원하지 못함으로써 발생하는 혈액학적 상태를 말합니다.</Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS</LocID>									<Text>간염</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS_DESCRIPTION</LocID>						<Text>간세포 조직의 염증이 발견되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS</LocID>								<Text>모세혈관확장증</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS_DESCRIPTION</LocID>					<Text>모세혈관 확장증은 피부 표면이나 점막 근처에서 발생하는 모세혈관의 확장으로, 직경이 0.5에서 1밀리미터 사이입니다. 이러한 확장된 혈관은 신체 어디에서나 발생할 수 있지만 코, 뺨, 턱 주변의 얼굴에서 흔히 볼 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER</LocID>								<Text>철분 과다</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER_DESCRIPTION</LocID>					<Text>신체 내 철분의 비정상적이고 증가된 축적으로 장기 손상을 초래합니다. </Text>	</GameDBLocalizedString>
+
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE</LocID>									<Text>이식 거부반응</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE_DESCRIPTION</LocID>						<Text>환자의 면역 체계가 이식된 장기를 이물질로 인식하여 공격함으로써 나타납니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE</LocID>							<Text>상부위장관 출혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE_DESCRIPTION</LocID>				<Text>트라이츠 인대 위쪽(식도, 위, 십이지장)에서 발생하는 출혈입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE</LocID>							<Text>하부위장관 출혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE_DESCRIPTION</LocID>				<Text>트라이츠 인대 아래쪽(소장, 대장, 직장 및 항문)에서 발생하는 출혈입니다.</Text>	</GameDBLocalizedString>
+
 			<GameDBLocalizedString>	<LocID>SYM_CRP_PERITONITE</LocID>						<Text>복막염</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_ENDOCARDITIS</LocID>						<Text>심내막염</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_DIABETES_SECONDARY</LocID>				<Text>당뇨병</Text>	</GameDBLocalizedString>
@@ -84,7 +151,110 @@
 			<GameDBLocalizedString>	<LocID>SYM_CRP_STK</LocID>								<Text>뇌졸증</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_TAR</LocID>								<Text>대동맥파열</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOSIS</LocID>						<Text>혈전정맥염</Text>	</GameDBLocalizedString>
-	
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ARF_FONCTION</LocID>						<Text>급성신전성신부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ARF_ORGANIC</LocID>						<Text>급성신성신부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GALLSTONES</LocID>						<Text>담석</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HTAP</LocID>								<Text>폐동맥고혈압</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOLYSE</LocID>							<Text>용혈</Text>	</GameDBLocalizedString>
+
+
+
+
+
+
+
+
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ABDOMINAL_STRIAE</LocID>                               <Text>복부임신선</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ABDOMINAL_STRIAE_DESCRIPTION</LocID>                   <Text>환자의 복부에 넓은 보라색 신축성 자국이 있습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ACID_REFLUX</LocID>                                    <Text>위산역류증</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ACID_REFLUX_DESCRIPTION</LocID>                        <Text>환자의 위 내용물이 식도로 역류하여 속쓰림과 입안의 산미와 같은 불쾌한 증상을 유발합니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ADRENAL_HEMMORHAGE</LocID>                             <Text>부신출혈</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ADRENAL_HEMMORHAGE_DESCRIPTION</LocID>                 <Text>CT 촬영 결과, 부신에서 출혈이 발견되었습니다. 이는 생명을 위협하는 부신위기의 강력한 지표입니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_HYPERPIGMENTATION</LocID>                              <Text>과색소침착</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_HYPERPIGMENTATION_DESCRIPTION</LocID>                  <Text>과색소침착은 멜라닌 증가로 인해 피부나 손톱 부위가 어두워지는 현상입니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CARDIAC_VALVULAR_VEGETATIONS</LocID>                   <Text>심장 판막의 세균 덩어리</Text>  </GameDBLocalizedString>
+    <GameDBLocalizedString>      <LocID>SYM_CRP_CARDIAC_VALVULAR_VEGETATIONS_DESCRIPTION</LocID>       <Text>심초음파 결과, 심장 판막의 세균 덩어리가 발견되었습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CALCINOSIS</LocID>                                     <Text>석회증</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CALCINOSIS_DESCRIPTION</LocID>                         <Text>환자의 피부 조직에 칼슘염이 침착되어 있습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CLUBBING</LocID>                                       <Text>곤봉지</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CLUBBING_DESCRIPTION</LocID>                           <Text>손가락 끝이 곤봉처럼 뭉툭해지는 것으로, 손톱 표면과 손톱 바탕 부분이 이루는 각이 180도 이상 되는 현상입니다.</Text>  </GameDBLocalizedString>	
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CUSHINGOID_FACIES</LocID>                              <Text>월상안</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_CUSHINGOID_FACIES_DESCRIPTION</LocID>                  <Text>얼굴에 지방이 축적되어 보름달 같은 형태를 띱니다. 이는 쿠싱 증후군 또는 장기 코르티코스테로이드 치료와 관련이 있습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_DORSOCERVICAL_FAT_PAD</LocID>                          <Text>버팔로 혹</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_DORSOCERVICAL_FAT_PAD_DESCRIPTION</LocID>              <Text>어깨와 등, 목이 만나는 지점에 지방이 과도하게 축적되어 혹을 형성했습니다.</Text>  </GameDBLocalizedString>	
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ERYTHEMA_NODOSUM</LocID>                               <Text>결절홍반</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ERYTHEMA_NODOSUM_DESCRIPTION</LocID>                   <Text>피부 아래 지방 세포에 염증이 생겨 양쪽 정강이에 연한 붉은 결절이나 덩어리가 생기는 염증성 질환입니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_FRONTAL_BOSSING</LocID>                                <Text>이마뼈 돌출</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_FRONTAL_BOSSING_DESCRIPTION</LocID>                    <Text>비정상적으로 뚜렷한 이마의 발달로, 전두골의 비대로 인해 발생합니다. 종종 다른 얼굴 뼈, 두개골, 하악골 및 손과 발의 뼈의 비정상적인 비대와 함께 나타납니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_FUNGEMIA</LocID>                                       <Text>진균혈증</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_FUNGEMIA_DESCRIPTION</LocID>                           <Text>환자의 혈액 내에 곰팡이가 존재합니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_GALACTORRHEA</LocID>                                   <Text>유루증</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_GALACTORRHEA_DESCRIPTION</LocID>                       <Text>환자의 유방에서 출산이나 수유와 무관하게 자연적으로 모유가 흐릅니다. 이는 특정 호르몬의 조절 장애로 인해 발생할 수 있습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_GROUND_GLASS_OPACITIES</LocID>                         <Text>간유리음영</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_GROUND_GLASS_OPACITIES_DESCRIPTION</LocID>             <Text>CT 촬영 결과, 폐에 뿌옇게 보이는 부분이 존재합니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SECONDARY_RAYNAUDS</LocID>                             <Text>이차성 레이노현상</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SECONDARY_RAYNAUDS_DESCRIPTION</LocID>                 <Text>동맥 경련으로 인해 혈류가 감소하는 의학적 상태입니다. 이 증상으로 인해 영향을 받은 부분이 흰색으로 변했다가 파란색으로 변합니다. 이 환자의 경우 기저 질환 때문일 가능성이 높습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SKIN_TAGS</LocID>                                      <Text>연성섬유종</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SKIN_TAGS_DESCRIPTION</LocID>                          <Text>목, 겨드랑이, 서혜부와 같이 피부에 주름이 진 부위에 주로 형성되는 조그마한 양성 종양입니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_KOILONYCHIA</LocID>                                    <Text>스푼형 손톱</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_KOILONYCHIA_DESCRIPTION</LocID>                        <Text>빈혈, 특히 철결핍빈혈의 징후가 될 수 있는 손톱 질환입니다. 이는 볼록하지 않고 평평하거나 오목해지는 비정상적으로 얇은 손톱을 말합니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SCLERODACTYLY</LocID>                                  <Text>수족지경화증</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SCLERODACTYLY_DESCRIPTION</LocID>                      <Text>손가락이나 발가락의 피부가 국소적으로 두꺼워지고 조이는 증상입니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_DIGITAL_ULCERS</LocID>                                 <Text>수족지궤양</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_DIGITAL_ULCERS_DESCRIPTION</LocID>                     <Text>환자의 손가락과 발가락 피부가 손상되었고, 통증이 있습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_APTHOUS_ULCERS</LocID>                                 <Text>아프타궤양</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_APTHOUS_ULCERS_DESCRIPTION</LocID>                     <Text>구강 검사 결과. 무균성 궤양이 있는 것으로 밝혀졌습니다. 이는 입 안에 반복적으로 생기는 둥글거나 타원형의 상처입니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_DECREASED_DLCO</LocID>                                 <Text>폐확산능 감소</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_DECREASED_DLCO_DESCRIPTION</LocID>                     <Text>폐 질환으로 인해 폐포에서 혈류로 산소가 이동하는 능력이 감소했습니다.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_NONCASEATING_GRANULOMAS</LocID>                        <Text>비괴사성육아종</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_NONCASEATING_GRANULOMAS_DESCRIPTION</LocID>            <Text>A collection of immune cells known as macrophages have aggregated to form an area of inflammation (visualized under a microscope) known as a granuloma. Granulomas form when the immune system attempts to wall off substances it perceives as foreign but is unable to eliminate.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_NECROTIZING_GRANULOMAS</LocID>                         <Text>Necrotizing Granulomas</Text>  </GameDBLocalizedString>		   
+    <GameDBLocalizedString>      <LocID>SYM_CRP_NECROTIZING_GRANULOMAS_DESCRIPTION</LocID>             <Text>A collection of immune cells known as macrophages have aggregated to form an area of inflammation (visualized under a microscope) known as a granuloma. Granulomas form when the immune system attempts to wall off substances it perceives as foreign but is unable to eliminate.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PERICARDITIS</LocID>                                   <Text>Pericarditis</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PERICARDITIS_DESCRIPTION</LocID>                       <Text>CT scan has revealed a swollen and irritated pericardium (inflammation of the sac that the heart lies in).</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PITUITARY_ADENOMA</LocID>                              <Text>Pituitary Adenoma detected</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PITUITARY_ADENOMA_DESCRIPTION</LocID>                  <Text>A tumor of the Pituitary gland (in the brain) has been detected. Depending on the size of the tumor, it may present with visual field defects due to compression of the optic chiasm.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PODAGRA</LocID>                                        <Text>Podagra</Text>  </GameDBLocalizedString>   
+    <GameDBLocalizedString>      <LocID>SYM_CRP_PODAGRA_DESCRIPTION</LocID>                            <Text>The patient has a very tender, red, swollen 1st metatarsophalangeal joint (the joint between the foot and big toe). This is known as podagra and is a common manifestation of acute gout.</Text>  </GameDBLocalizedString> 
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PROGNATHISM</LocID>                                    <Text>Prognathism</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PROGNATHISM_DESCRIPTION</LocID>                        <Text>Prognathism is an extension or bulging out (protrusion) of the lower jaw.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PROPTOSIS</LocID>                                      <Text>Proptosis</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PROPTOSIS_DESCRIPTION</LocID>                          <Text>The patient has abnormal protrusion or displacement of the eyes.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PULMONARY_FIBROSIS</LocID>                             <Text>Pulomnary Fibrosis</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PULMONARY_FIBROSIS_DESCRIPTION</LocID>                 <Text>Excess fibrous connective has accumulated in the lungs leading to thickening of the walls.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PULMONARY_HEMORRHAGE</LocID>                           <Text>Pulomnary Hemorrhage</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_PULMONARY_HEMORRHAGE_DESCRIPTION</LocID>               <Text>Pulmonary hemorrhage is an acute bleeding from the lungs, upper respiratory tract, the trachea and the alveoli.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_RESTRICTIVE_PFT</LocID>                                <Text>Restrictive Ventilatory Defect</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_RESTRICTIVE_PFT_DESCRIPTION</LocID>                    <Text>Spirometry shows a restrictive lung disease pattern.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_TOPHACEOUS_DEPOSITS</LocID>                            <Text>Tophaceous Deposits</Text>  </GameDBLocalizedString>
+    <GameDBLocalizedString>      <LocID>SYM_CRP_TOPHACEOUS_DEPOSITS_DESCRIPTION</LocID>                <Text>The patient has deposits of crystalline uric acid and other substances in cartilage tissue, tendons, and soft tissues. </Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_LUNG_NODULE</LocID>                                    <Text>Lung Nodules</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_LUNG_NODULE</LocID>                                    <Text>Chest X-ray has revealed the presence of lung nodules; these are small 'spots' that can represent benign tumors such as granulomas or less commonly malignant cancer. </Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_TACHYPNEA</LocID>                                      <Text>Tachypnea</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_TACHYPNEA_DESCRIPTION</LocID>                          <Text>The patient has abnormally rapid breathing.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ATYPICAL_PNEUMONIA</LocID>                             <Text>Atypical Pneumonic findings</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ATYPICAL_PNEUMONIA_DESCRIPTION</LocID>                 <Text>The X-ray findings together with the physical examination and overall clinical picture of the patient suggests a diagnosis of an atypical pneumonia. </Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ELEVATED_TRANSFERRIN_SATURATION</LocID>                <Text>Elevated Transferrin Saturation</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ELEVATED_TRANSFERRIN_SATURATION_DESCRIPTION</LocID>    <Text>Blood tests show abnormalities of iron metabolism</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_UREMIA</LocID>                                         <Text>Uremia</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_UREMIA_DESCRIPTION</LocID>                             <Text>Uremia is the condition of having high levels of urea in the blood. Urea is one of the primary components of urine.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ANTINUCLEAR_ANTIBODIES</LocID>                         <Text>Antinuclear antibodies detected</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_ANTINUCLEAR_ANTIBODIES_DESCRIPTION</LocID>             <Text>Serology has detected the presence of Antinuclear antibodies.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_BRONCHOALVEOLAR_LAVAGE_LYMPHOCYTOSIS</LocID>                       <Text>Bronchoalveolar Lavage Lymphocytosis</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_BRONCHOALVEOLAR_LAVAGE_LYMPHOCYTOSIS_DESCRIPTION</LocID>           <Text>The fluid collected from BAL has revealed a significantly elevated amount of lymphocytes (white blood cells).</Text>  </GameDBLocalizedString>		
+	<GameDBLocalizedString>      <LocID>SYM_CRP_HYPERTRICHOSIS</LocID>                                 <Text>Hypertrichosis</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_HYPERTRICHOSIS_DESCRIPTION</LocID>                     <Text>Hypertrichosis is an abnormal amount of hair growth over the body.</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_HYPOALBUMINEMIA</LocID>                                <Text>Hypoalbuminemia</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_HYPOALBUMINEMIA_DESCRIPTION</LocID>                    <Text>Blood tests show low levels of Albumin in the blood. Albumin is a protein found in the blood that transports hormones, fatty acids, and other compounds, buffers pH, and maintains oncotic pressure, among other functions.</Text>  </GameDBLocalizedString>		
+	<GameDBLocalizedString>      <LocID>SYM_CRP_GANGRENE</LocID>                                       <Text>Gangrene</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_GANGRENE_DESCRIPTION</LocID>                           <Text>Physical examination reveals gangrene. Loss of blood supply to the affected areas has led to tissue death which has a dry, purple-blue blackish appearance.</Text>  </GameDBLocalizedString>		
+	<GameDBLocalizedString>      <LocID>SYM_CRP_VENOUS_THROMBOEMBOLISM</LocID>                         <Text>Venous Thromboembolism</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_VENOUS_THROMBOEMBOLISM_DESCRIPTION</LocID>             <Text>Venous thromboembolism is a condition in which a blood clot forms most often in the deep veins of the leg, groin or arm and travels in the circulation, lodging in the lungs</Text>  </GameDBLocalizedString>		
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SPLINTER_HEMORRHAGES</LocID>                           <Text>Splinter Hemorrhages</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>      <LocID>SYM_CRP_SPLINTER_HEMORRHAGES_DESCRIPTION</LocID>               <Text>The patient has tiny blood clots that run vertically under the nails.</Text>  </GameDBLocalizedString>
+    <GameDBLocalizedString>      <LocID>SYM_CRP_WIDELY_SPACED_TEETH</LocID>                            <Text>Wide Spacing of the Teeth</Text>  </GameDBLocalizedString>
+    <GameDBLocalizedString>      <LocID>SYM_CRP_WIDELY_SPACED_TEETH_DESCRIPTION</LocID>                <Text>The patient's teeth are widely spaced and separated by large gaps.</Text>  </GameDBLocalizedString>
+
 
 		</LocalizedStrings>
     </GameDBStringTable>

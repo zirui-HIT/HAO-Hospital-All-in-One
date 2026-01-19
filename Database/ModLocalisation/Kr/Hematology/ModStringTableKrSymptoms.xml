@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+  <GameDBStringTable ID="LOC_KR_ADDON_HEMATOLOGY_SYMPTOMS">
+	<LanguageCode>kr</LanguageCode>
+	<LanguageNameLocalized>한국어</LanguageNameLocalized>
+    <Contributors>
+      <Name>바굴</Name>
+    </Contributors>
+    <LocalizedStrings>
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RBC_HIGH</LocID>                                          	
+			<Text>적혈구증가증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RBC_HIGH_DESC</LocID>                                          	
+			<Text>환자의 혈중 적혈구 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEMOGLOBIN_HIGH</LocID>                                          	
+			<Text>혈색소 과다</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEMOGLOBIN_HIGH_DESC</LocID>                                          	
+			<Text>환자의 혈색소 수치가 높습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PV</LocID>                                          	
+			<Text>진성적혈구증가증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PV_DESC</LocID>                                          	
+			<Text>골수생검 결과, 심각한 섬유화, 모든 계통의 조혈세포의 현저한 증식, 지방 조직 감소, 비교적 명백한 거대핵세포 증식이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PMF</LocID>                                          	
+			<Text>원발성 골수섬유증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PMF_DESC</LocID>                                          	
+			<Text>골수생검 결과, 원발성 골수섬유증이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PNH</LocID>                                          	
+			<Text>발작성야간혈색소뇨증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PNH_DESC</LocID>                                          	
+			<Text>유세포 분석 결과, 적혈구에서 CD59 결핍이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CLL</LocID>                                          	
+			<Text>만성림프구성백혈병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CLL_DESC</LocID>                                          	
+			<Text>말초 혈액 클론 B-림프구 ≥ 5x10^9/L, 성숙한 작은 림프구와 유사한 세포 형태, 미성숙하거나 비정형인 소수의 림프구, 그리고 번짐 세포가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_BMA_RS_CELLS</LocID>                                          	
+			<Text>골수조직 내 리드-스텐버그 세포</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_BMA_RS_CELLS_DESC</LocID>                                          	
+			<Text>골수에서 전형적인 리드-스텐버그(RS) 세포가 발견되었으며, 이는 골수에 종양이 침입했음을 나타냅니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RS_CELLS</LocID>                                          	
+			<Text>리드-스텐버그 세포</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RS_CELLS_DESC</LocID>                                          	
+			<Text>조직생검 결과, 전형적인 리드-스텐버그(RS) 세포가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MCL</LocID>                                          	
+			<Text>외투세포림프종 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MCL_DESC</LocID>                                          	
+			<Text>조직생검 결과, 외투세포림프종이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DLBCL</LocID>                                          	
+			<Text>미만성 거대B세포림프종 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DLBCL_DESC</LocID>                                          	
+			<Text>조직생검 결과, 미만성 거대B세포림프종이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FL</LocID>                                          	
+			<Text>소포림프종 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FL_DESC</LocID>                                          	
+			<Text>조직생검 결과, 미만성 소포림프종이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MM</LocID>                                          	
+			<Text>다발골수종 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MM_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 골수 내 클론 형질세포의 증가가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERURICEMIA</LocID>                                          	
+			<Text>고요산혈증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERURICEMIA_DESC</LocID>                                          	
+			<Text>환자의 혈중 요산 수치가 너무 높습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERCALCEMIA</LocID>                                          	
+			<Text>고칼슘혈증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HYPERCALCEMIA_DESC</LocID>                                          	
+			<Text>고칼슘혈증은 흔한 전해질 질환입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DAT_HLA</LocID>                                          	
+			<Text>직접항글로불린검사 양성</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_DAT_HLA_DESC</LocID>                                          	
+			<Text>직접항글로불린검사 결과가 양성입니다. 이는 적혈구에 항체가 부착되어 있음을 의미합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IAT_HLA</LocID>                                          	
+			<Text>간접항글로불린검사 양성</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IAT_HLA_DESC</LocID>                                          	
+			<Text>간접항글로불린검사 결과가 양성입니다. 이는 적혈구 항체가 한 개 이상 혈액 내에 존재함을 의미합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_CRISIS</LocID>                                          	
+			<Text>용혈위기</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_CRISIS_DESC</LocID>                                          	
+			<Text>점진적으로 악화되는 증상과 최근의 혈액검사 결과를 고려했을 때, 환자는 용혈위기를 겪고 있는 것으로 의심됩니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SPLENOMEGALY</LocID>                                          	
+			<Text>비장비대</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SPLENOMEGALY_DESC</LocID>                                          	
+			<Text>비장이 늑골 가장자리 아래에서 만져지며, 이는 비장 비대를 시사합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MDS</LocID>                                          	
+			<Text>골수이형성증후군</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MDS_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 골수에서 세포이형성이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_ANEMIA</LocID>                                          	
+			<Text>용혈빈혈 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HEMOLYTIC_ANEMIA_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 망상적혈구와 철적혈모구 증가가 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_THL</LocID>                                          	
+			<Text>지중해빈혈 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_THL_DESC</LocID>                                          	
+			<Text>헤모글로빈 전기영동 결과, 지중해빈혈과 관련된 비정상적인 헤모글로빈이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_APL</LocID>                                          	
+			<Text>급성전골수성백혈병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_APL_DESC</LocID>                                          	
+			<Text>골수세포 화학, 면역학, 세포유전학, 분자생물학 검사를 통해 급성전골수설백혈병이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HCL</LocID>                                          	
+			<Text>털세포백혈병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_HCL_DESC</LocID>                                          	
+			<Text>골수세포 화학, 면역학, 세포유전학, 분자생물학 검사를 통해 털세포백혈병이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CML</LocID>                                          	
+			<Text>만성골수성백혈병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CML_DESC</LocID>                                          	
+			<Text>골수세포 화학, 면역학, 세포유전학, 분자생물학 검사를 통해 만성골수성백혈병이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AML</LocID>                                          	
+			<Text>급성골수성백혈병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AML_DESC</LocID>                                          	
+			<Text>골수세포 화학, 면역학, 세포유전학, 분자생물학 검사를 통해 급성골수성백혈병이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AAL</LocID>                                          	
+			<Text>급성림프구성백혈병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AAL_DESC</LocID>                                          	
+			<Text>골수세포 화학, 면역학, 세포유전학, 분자생물학 검사를 통해 급성림프구성백혈병이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CNSL</LocID>                                          	
+			<Text>중추신경계전이 백혈병</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_CNSL_DESC</LocID>                                          	
+			<Text>백혈병 세포가 중추신경계를 침범하여 두통, 메스꺼움, 구토, 목 경직, 경련, 혼수, 뇌신경 손상과 같은 증상을 보입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IDA</LocID>                                          	
+			<Text>철결핍빈혈 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IDA_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 철결핍빈혈의 징후가 나타났습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MA</LocID>                                          	
+			<Text>거대적혈모구빈혈 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MA_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 거대적혈모구빈혈의 징후가 나타났습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_NORMOCYTIC_ANEMIA</LocID>                                          	
+			<Text>정상적혈구빈혈</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_NORMOCYTIC_ANEMIA_DESC</LocID>                                          	
+			<Text>정상적혈구빈혈은 혈류 내 적혈구(RBC) 수가 감소한 상태로, 적혈구의 크기(평균 적혈구 용적, MCV)가 정상 범위(80~100펨토리터)를 유지하는 상태를 말합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MICROCYTIC_HYPOCHROMIC_ANEMIA</LocID>                                          	
+			<Text>소적혈구빈혈</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MICROCYTIC_HYPOCHROMIC_ANEMIA_DESC</LocID>                                          	
+			<Text>소적혈구빈혈은 적혈구의 평균 크기가 정상보다 작은 상태로, 적혈구의 크기(평균 적혈구 용적, MCV)가 80펨토리터 미만입니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MACROCYTIC_ANEMIA</LocID>                                          	
+			<Text>큰적혈구빈혈</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_MACROCYTIC_ANEMIA_DESC</LocID>                                          	
+			<Text>큰적혈구빈혈은 혈류에 비정상적으로 큰 적혈구(RBC)가 존재하는 상태로, 적혈구의 크기(평균 적혈구 용적, MCV)가 100펨토리터를 초과합니다. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IRON_DEFICIENCY</LocID>                                          	
+			<Text>철분 결핍</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_IRON_DEFICIENCY_DESC</LocID>                                          	
+			<Text>혈청 페리틴 검사 결과, 철분 결핍이 확인되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_VITAMIN_B12_DEFICIENCY</LocID>                                          	
+			<Text>비타민 B12결핍</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_VITAMIN_B12_DEFICIENCY_DESC</LocID>                                          	
+			<Text>혈청 비타민 B12 검사 결과, 비타민 B12가 결핍된 것으로 나타났습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FOLATE_DEFICIENCY</LocID>                                          	
+			<Text>엽산 결핍</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FOLATE_DEFICIENCY_DESC</LocID>                                          	
+			<Text>혈청 엽산 검사 결과, 엽산 결핍이 발견되었습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_LOSS_OF_APETITE</LocID>                                          	
+			<Text>식욕감퇴</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AA</LocID>                                          	
+			<Text>재생불량빈혈 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_AA_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 재생불량빈혈의 징후가 나타났습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT</LocID>                                          	
+			<Text>망상적혈구 증가증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_INCREASED_RETICULOCYTE_COUNT_DESC</LocID>                                          	
+			<Text>망상적혈구 수치의 증가는 용혈빈혈에서 흔히 볼 수 있는 골수의 격렬한 적혈구 증식을 시사합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RETICULOCYTOPENIA</LocID>                                          	
+			<Text>망상적혈구 감소증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_RETICULOCYTOPENIA_DESC</LocID>                                          	
+			<Text>망상적혈구 수치의 감소는 재생불량빈혈이나 순수적혈구무형성에서 흔히 볼 수 있는 골수 조혈 기능의 감소를 시사합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SEVERE_BONE_PAIN</LocID>                                          	
+			<Text>심한 뼈 통증</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_SEVERE_BONE_PAIN_DESC</LocID>                                          	
+			<Text>환자가 극심한 뼈의 통증을 호소합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_vWD</LocID>                                          	
+			<Text>폰 빌레브란트병 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_vWD_DESC</LocID>                                          	
+			<Text>폰 빌레브란트 인자 항원 검사 결과, 폰 빌레브란트병을 시사합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FVIII_LOW</LocID>                                          	
+			<Text>VIII 인자 활성 감소</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FVIII_LOW_DESC</LocID>                                          	
+			<Text>VIII 인자의 활성 감소는 혈우병 A를 시사합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FIX_LOW</LocID>                                          	
+			<Text>IX 인자 활성 감소</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_FIX_LOW_DESC</LocID>                                          	
+			<Text>IX 인자의 활성 감소는 혈우병 B를 시사합니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_TCP</LocID>                                          	
+			<Text>원발성 면역혈소판감소증 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_TCP_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 원발성 면역혈소판감소증의 징후가 나타났습니다.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PRCA</LocID>                                          	
+			<Text>순수적혈구무형성 소견</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+			<LocID>SYM_HEM_PRCA_DESC</LocID>                                          	
+			<Text>골수흡인 결과, 순수적혈구무형성의 징후가 나타났습니다.</Text>  
+		</GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

@@ -7,6 +7,7 @@
 
         <Contributors>
 			<Name>S2SKY</Name>
+			<Name>바굴</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -29,6 +30,51 @@
 			<GameDBLocalizedString>	<LocID>TRT_CRP_OESTROGENOTHERAPIE_DESCRIPTION</LocID>					<Text>프로게스틴 없이 에스트로겐 주입을 포함하는 호르몬 치환 요법입니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>TRT_CRP_SURVEILLANCE</LocID>										<Text>의료 서비스</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>TRT_CRP_SURVEILLANCE_DESCRIPTION</LocID>							<Text>의사, 간호사, 또는 기타 의료 전문가들에 의해 환자의 건강 및 웰빙을 위해 필요한 서비스를 제공합니다.</Text>	</GameDBLocalizedString>
+
+
+
+
+
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>염화칼륨</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>가장 많이 사용되는 것은 미세 캡슐 형태의 염화칼륨으로, 경구용 칼륨 보충제입니다.</Text>	</GameDBLocalizedString>
+		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>								<Text>수분 크림</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>					<Text>피부 건조를 방지하는 데 사용되는 화장품입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>										<Text>포도당 주입</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>							<Text>포도당 수액을 주사합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>									<Text>히드로코르티손</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>						<Text>부신 피질에서 분비되는 호르몬으로 염증을 가라앉히는 항염작용과 생리적 기능을 상승시키는 역할을 합니다.</Text>	</GameDBLocalizedString>
+		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT</LocID>										<Text>자가이식</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT_DESCRIPTION</LocID>							<Text>같은 개체 내에서 신체부위를 이식합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT</LocID>										<Text>동종이식</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT_DESCRIPTION</LocID>							<Text>같은 종이지만 유전적으로 다른 개체의 신체부위를 이식합니다.</Text>	</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER</LocID>									<Text>철분 킬레이트 제제</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER_DESCRIPTION</LocID>						<Text>철분 과잉증을 치료하는 데 샤용됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE</LocID>									<Text>경화요법</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE_DESCRIPTION</LocID>						<Text>염증을 유발하고 혈액을 응고시키며 혈관 벽을 좁히는 자극제를 주사하여 정맥류 혈관을 치료하는 것입니다.</Text>	</GameDBLocalizedString>
+		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR</LocID>										<Text>면역억제제</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR_DESCRIPTION</LocID>							<Text>면역 체계의 활동을 억제하거나 예방하는 약물입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV</LocID>											<Text>IV PPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV_DESCRIPTION</LocID>								<Text>위내시경 전에 고용량 양성자 펌프 억제제를 사용하면 내시경 지혈의 필요성이 줄어듭니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION</LocID>								<Text>혈관내 색전술</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION_DESCRIPTION</LocID>					<Text>혈관내 색전술에서는 카테터를 다리 동맥에 삽입하여 X-선 영상을 사용하여 색전제를 주입합니다. </Text>	</GameDBLocalizedString>
+
+
+	
+	
+	
+	
+	        
+			<GameDBLocalizedString>      <LocID>TRT_CRP_BRONCHOSCOPIC_THERAPY</LocID>                           <Text>기관지 내시경치료</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_CRP_BRONCHOSCOPIC_THERAPY_DESCRIPTION</LocID>               <Text>치료 목적으로 기도 내부를 시각화하는 내시경 기법입니다. 기기는 일반적으로 코나 입을 통해 기도에 삽입되거나 때때로 기관절개술을 통해 삽입됩니다.</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_CRP_INTRAVENOUS_ANTIFUNGALS</LocID>                         <Text>항진균제(IV)</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>TRT_CRP_INTRAVENOUS_ANTIFUNGALS_DESCRIPTION</LocID>             <Text>항진균제를 정맥 내에 주사합니다. \n\n필요한 방: 아무 진료실 / 치료실 / 병동</Text>  </GameDBLocalizedString>
+			
+
             <GameDBLocalizedString>      <LocID>TRT_CRP_INTRAVENOUS_IMMUNOGLOBULIN</LocID>                          <Text>면역글로불린(IV)</Text>  </GameDBLocalizedString>
 			
 			</LocalizedStrings>

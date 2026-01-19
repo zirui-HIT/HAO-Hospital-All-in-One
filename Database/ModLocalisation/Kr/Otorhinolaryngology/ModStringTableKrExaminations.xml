@@ -4,18 +4,231 @@
         <LanguageCode>kr</LanguageCode>
         <LanguageNameLocalized>한국어</LanguageNameLocalized>
         <Contributors>
-            <Name>아린</Name>
+            <Name>바굴</Name>
         </Contributors>
         <LocalizedStrings>
-            
-            <GameDBLocalizedString>      <LocID>EXM_OTOR_LARYNGOSCOPY</LocID>                  	<Text>극성 중이염</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_OTOR_LARYNGOSCOPY_DESCRIPTION</LocID>	<Text>작은 비디오 카메라와 끝에 광원이 있는 유연한 튜브(내시경)를 코를 통해 삽입하여 후두, 글롯, 성대를 검사하는 절차. 후두경은 기관삽입을 용이하게 하는데도 사용된다. \n\n필수실: 의국 / 관찰실 / ICU</Text>  </GameDBLocalizedString>
-			<GameDBLocalizedString>      <LocID>EXM_JM_EAR_EXAMINATION</LocID>	<Text>귀 검사</Text>  </GameDBLocalizedString>
+        
+	    
+		 
+		 
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE</LocID>                  
+			<Text>이음향방사</Text> 
+			</GameDBLocalizedString>
 			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE_DESCRIPTION</LocID>                  
+			<Text>이음향방사(OAE)는 달팽이관의 외유모세포 활동에 의해 발생되는 에너지로, 외부의 소리가 대뇌청각중추까지 전도되는 방향과는 정반대로 달팽이관에서 발생하여 외이도 쪽으로 누설되는 에너지(소리)를 측정하는 것입니다. \n\n필요한 방: 이비인후과 진료실</Text> 
+			</GameDBLocalizedString>
 			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>청력 검사(ENT)</Text> 
+			</GameDBLocalizedString>
 			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM</LocID>                  
+			<Text>청력도</Text> 
+			</GameDBLocalizedString>
 			
-            
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>                  
+			<Text>청력도는 청력계로 측정한 주파수의 가청 임계값을 나타내는 그래프입니다. Y축은 데시벨 단위로 측정된 강도를 나타내고 X축은 헤르츠 단위로 측정된 주파수를 나타냅니다. \n\n필요한 방: 이비인후과 청력검사실</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY</LocID>                  
+			<Text>이경검사</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY_DESCRIPTION</LocID>                  
+			<Text>밝은 조명과 확대경을 이용하여 귀 안의 고막의 상태를 관찰하는 검사입니다. \n\n필요한 방: 이비인후과 내시경실</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+            <LocID>EXM_JM_EAR_BIOPSY_SAMPLING</LocID>                  
+	        <Text>귀 생검</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>귀 생검은 수술 마취 하에 외이도 샘플을 채취하는 수술 절차입니다. 이는 일반적으로 귀 종양이 무엇으로 구성되어 있는지 알아보기 위해 수행됩니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_TESTING</LocID>                  
+	        <Text>귀 생검 병리검사</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>귀 생검은 수술 마취 하에 외이도 샘플을 채취하는 수술 절차입니다. 이는 일반적으로 귀 종양이 무엇으로 구성되어 있는지 알아보기 위해 수행됩니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+		 
+		 
+		    <GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY</LocID>                  
+			<Text>비경검사</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY_DESCRIPTION</LocID>                  
+			<Text>코를 직접 벌리는 기구인 비경을 쓰고 점막의 상태, 분비물의 상태, 해부학적인 이상이나 이물질, 종양 등을 관찰합니다. \n\n필요한 방: 이비인후과 내시경실</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_SAMPLING</LocID>                  
+	        <Text>코 생검</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>코 생검은 수술 마취 하에 비강 샘플을 채취하는 수술 절차입니다. 이는 일반적으로 코 종양이 무엇으로 구성되어 있는지 알아보기 위해 수행됩니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_TESTING</LocID>                  
+	        <Text>코 생검 병리검사</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>코 생검은 수술 마취 하에 비강 샘플을 채취하는 수술 절차입니다. 이는 일반적으로 코 종양이 무엇으로 구성되어 있는지 알아보기 위해 수행됩니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 현미경</Text> 
+	        </GameDBLocalizedString>
+
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_NASAL_SWAB_SAMPLING</LocID>
+			<Text>비강 도말채취</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_NASAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+			<Text>비강 도말 배양검사는 호흡기 감염을 일으키는 바이러스와 박테리아를 검사하는 검사입니다. 검사는 콧구멍이나 비인두에서 세포 샘플을 채취하여 수행할 수 있습니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_NASAL_SWAB_TESTING</LocID>
+			<Text>비강 도말 배양검사</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_NASAL_SWAB_TESTING_DESCRIPTION</LocID>  
+			<Text>비강 도말 배양검사는 호흡기 감염을 일으키는 바이러스와 박테리아를 검사하는 검사입니다. 검사는 콧구멍이나 비인두에서 세포 샘플을 채취하여 수행할 수 있습니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+			</GameDBLocalizedString>
+
+		 
+		 
+            <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text>후두경 검사(ENT)</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_LARYNGOSCOPY</LocID>
+			<Text>정밀 후두경 검사</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_SAMPLING</LocID>                  
+	        <Text>인후 생검</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>인후 생검은 외과적 마취 하에 인후 샘플을 추출하는 수술 절차입니다. 이는 일반적으로 인후 종양이 무엇으로 구성되어 있는지 알아보기 위해 수행됩니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_TESTING</LocID>                  
+	        <Text>인후 생검 병리검사</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>인후 생검은 외과적 마취 하에 인후 샘플을 추출하는 수술 절차입니다. 이는 일반적으로 인후 종양이 무엇으로 구성되어 있는지 알아보기 위해 수행됩니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_SAMPLING</LocID>
+	        <Text>인후 도말채취</Text> 
+        	</GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>인후 도말 배양검사는 일반적으로 인후의 세균 감염을 진단하는 데 사용되는 검사입니다. 인후 도말 검사의 목적은 인후에 감염을 일으킬 수 있는 유기체의 존재를 감지하는 것입니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_TESTING</LocID>
+	        <Text>인후 도말 배양검사</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_THROAT_SWAB_TESTING_DESCRIPTION</LocID>  
+	        <Text>인후 도말 배양검사는 일반적으로 인후의 세균 감염을 진단하는 데 사용되는 검사입니다. 인후 도말 검사의 목적은 인후에 감염을 일으킬 수 있는 유기체의 존재를 감지하는 것입니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+	        </GameDBLocalizedString>
+		
+		 
+		 
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY</LocID>                  
+			<Text>수면다원검사</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>                  
+			<Text>수면다원검사는 수면장애를 진단하기 위한 검사입니다. 수면 중 뇌파, 안구운동, 근육의 움직임, 호흡, 심전도 등을 종합적으로 측정하고 동시에 수면 상태를 비디오를 통해 녹화합니다. \n\n필요한 방: 수면검사실 </Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>피부알레르기검사(ENT)</Text> 
+			</GameDBLocalizedString>
+			
+		  
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING</LocID>
+			<Text>연쇄상구균 신속항원검사 샘플 추출</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING_DESCRIPTION</LocID>  
+			<Text>연쇄상구균 신속항원검사(RST)는 A군 연쇄상구균(GAS)에 의한 연쇄상구균 인두염의 진단을 돕기 위해 임상에서 널리 사용되는 신속항원검사(RADT)의 일종입니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_TESTING</LocID>
+			<Text>연쇄상구균 신속항원검사</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_RAPID_STREP_TESTING_DESCRIPTION</LocID>  
+			<Text>연쇄상구균 신속항원검사(RST)는 A군 연쇄상구균(GAS)에 의한 연쇄상구균 인두염의 진단을 돕기 위해 임상에서 널리 사용되는 신속항원검사(RADT)의 일종입니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+			</GameDBLocalizedString>
+	
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+	        <Text>객담 시료채취</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>객담 배양검사는 폐나 호흡 통로를 감염시키는 박테리아나 곰팡이를 감지하고 식별하는 검사입니다. 박테리아나 곰팡이가 자라지 않으면 배양은 음성입니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+	        <Text>객담 배양검사</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+	        <Text>객담 배양검사는 폐나 호흡 통로를 감염시키는 박테리아나 곰팡이를 감지하고 식별하는 검사입니다. 박테리아나 곰팡이가 자라지 않으면 배양은 음성입니다. \n\n검사: 아무 부서 / 아무 진단과 \n\n필요한 방: 이비인후과 진료실 \n\n필요 장비: 유리그릇 + 흄 후드 + 배양기 + 현미경</Text> 
+        	</GameDBLocalizedString>
+	
 		</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

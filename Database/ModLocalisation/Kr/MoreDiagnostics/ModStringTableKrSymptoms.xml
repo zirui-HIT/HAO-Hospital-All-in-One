@@ -11,40 +11,40 @@
         <LocalizedStrings>
 		
 			<!-- ================================================== From CRP  ================================================== -->
-	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>Splenomegaly</Text>	</GameDBLocalizedString>
-	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>Hypercalcemia</Text>	</GameDBLocalizedString>
-	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>Severe Hypercalcemia</Text>  </GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>				<Text>비장 비대</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>				<Text>고칼슘혈증</Text>	</GameDBLocalizedString>
+	<GameDBLocalizedString>	<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>		<Text>중증 고칼슘혈증</Text>  </GameDBLocalizedString>
 	
 			<!-- ================================================== Normaux ================================================== -->	
 <!--  v0.01  -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>Systolic heart murmurs</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>Systolic heart murmurs are heart murmurs heard during systole. The systole is the part of the cardiac cycle during which some chambers of the heart muscle contract after refilling with blood.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>Diastolic heart murmurs</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>Diastolic heart murmurs are heart murmurs heard during diastole. Diastole is the part of the cardiac cycle during which the heart refills with blood after the emptying done during systole (contraction).</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>LVH</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>Left ventricular hypertrophy (LVH) is thickening of the heart muscle of the left ventricle of the heart, that is, left-sided ventricular hypertrophy.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>								<Text>수축기잡음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>					<Text>심장의 심실이 수축할 때 생기는 잡음입니다. 흔히 판막이 제대로 열리지 않거나 좁아졌을 경우 생깁니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>								<Text>이완기잡음</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>					<Text>심장의 심실이 이완할 때 생기는 잡음입니다. 흔히 판막이 제대로 닫히지 않거나 좁아졌을 경우 생깁니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG</LocID>												<Text>좌심실비대</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>									<Text>좌심실비대(LVH)는 심장의 좌심실이 두꺼워진 것을 말합니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3</LocID>												<Text>S1Q3</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>Abbreviation which means “S wave in DI and Q wave in DIII” at the ECG. It translates a dextrorotation - physiological or pathological - along the longitudinal axis of the heart, which brings the right ventricle further forward and to the right of the left ventricle. This sign, alone or in combination with other ECG signs, is sometimes used to reinforce a hypothesis of pulmonary embolism.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>Wells score positive</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>This is a diagnostic score for pulmonary embolism.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>Positive Geneva score</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>This is a diagnostic score for pulmonary embolism and deep vein thrombosis.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>High D-dimer</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>D-dimers are produced by the breakdown of fibrin, a protein involved in blood clotting. The doctor prescribes a dosage of D-dimers if he suspects the presence of blood clots.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>High BNP</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>BNP (Brain natriuretic peptide), is a neuro-hormone synthesized by heart cells called cardiomyocytes in response to an increase in blood pressure, especially during the development of heart failure.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>Compartment syndrome</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>Compartment syndrome is a condition in which increased pressure within one of the body's anatomical compartments results in insufficient blood supply to tissue within that space. There are two main types: acute and chronic. Compartments of the leg or arm are most commonly involved.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>Para-umbilical mass</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>Perception of a swinging and expansive para-umbilical mass.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>Mesenteric ischemia</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>Mesenteric ischemia is a medical condition in which injury to the small intestine occurs due to not enough blood supply. \n\nRequired room: Operating room at General Surgery dpt + ICU</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>									<Text>심전도 검사 결과, lead I에서는 S파가, lead III에서는 Q파가 크게 관찰되었습니다. 이는 폐색전증의 가능성을 시사합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS</LocID>										<Text>웰스 점수 위험군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>							<Text>폐색전증을 진단하기 위한 평가입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>										<Text>제네바 점수 위험군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>							<Text>폐색전증과 심부정맥색전증(DVT)을 진단하기 위한 평가입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE</LocID>											<Text>D-다이머 상승</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>								<Text>체내에서 혈전이 용해될 때 발생하는 단백질 중 하나입니다. 특히 혈전색전증과 파종혈관내응고에서 D-이합체는 현저히 증가될 수 있습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP</LocID>												<Text>BNP 상승</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>									<Text>뇌나트륨이뇨펩티드(BNP)은 심장에 부하가 걸렸을 때 심실에서 혈액으로 분비되는 호르몬입니다. 심부전이 있으면 현저하게 BNP 농도가 증가하게 됩니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>										<Text>구획증후군</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>							<Text>구획 증후군은 여러 이유로 인해 부종이 심해질 때, 근육 구획 내의 압력이 증가하면서 그곳의 동맥을 압박하고 말단부의 혈액 공급을 차단하여, 4~8시간 안에 구획 내 근육과 기타 연부 조직이 괴사하는 질환을 의미합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>								<Text>배꼽옆종괴</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>					<Text>배꼽 옆에 혹이 있습니다</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>							<Text>장간막 허혈</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>				<Text>장간막허혈은 혈액 공급이 충분하지 않아 소장에 손상이 발생하는 의학적 상태입니다.</Text>	</GameDBLocalizedString>
 <!-- v0.02 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>Pituitary adenoma</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>Discovery of a pituitary adenoma on MRI. This doesn't provide information on the secreting nature or not of it.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>										<Text>뇌하수체 선종</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>							<Text>MRI 촬영 결과, 뇌하수체에 양성 종양이 발견되었습니다.</Text>	</GameDBLocalizedString>
 <!-- v0.03.2 -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>Brain abscess</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>Brain abscess (or cerebral abscess) is an abscess caused by inflammation and collection of infected material, coming from local (ear infection, dental abscess, infection of paranasal sinuses, infection of the mastoid air cells of the temporal bone, epidural abscess) or remote (lung, heart, kidney etc.) infectious sources, within the brain tissue.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>									<Text>뇌농양</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>						<Text>뇌농양은 뇌 조직 내로 침입한 세균으로 인해 발생하는 농양입니다.</Text>	</GameDBLocalizedString>
 
 
 			<!-- ================================================== CRP - translate and transfer to CRP ==================================================	
@@ -115,30 +115,30 @@
 			
 			<!-- ================================================== Main ================================================== -->	
 <!--  v0.01  -->
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>Aortic stenosis</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>Decrease in diameter of the aortic valve.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>Aortic insufficiency</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>Insufficient aortic valve.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>Severe hypertension</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>Severe hypertension, rapid onset.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>Reflex syncope</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>It is a neurovegetative reflex of arterial hypotension with more or less marked bradycardia following a stimulus.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>Positive test</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>Orthostatic hypotension test returned positive.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>Conduction disorder</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>Complete paroxysmal blockage of the intracardiac conduction.</Text>	</GameDBLocalizedString>	
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>Prodromes</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>The signs and symptoms that precede syncope are called prodromes. Lipothymia can be summed up as an imminent feeling of fainting.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>AF</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>The diagnosis of AF can only be confirmed on an ECG trace. This shows an absence of visible P wave and the most often irregular QRS.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>SAB</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>Sino-Atrial Block (SAB) is a complete interruption of intra-atrial conduction after certain sinus impulses.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>AVB3</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>The 3rd degree Atrioventricular Block is a complete and permanent interruption of the transmission of atrial impulses to the ventricles..</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>LBBB</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>Typical appearance of LBBB at ECG.</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>VT</Text>	</GameDBLocalizedString>
-			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>Typical appearance of VT at ECG.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>								<Text>대동맥협착</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>					<Text>대동맥의 판막 부위가 좁아졌습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>									<Text>대동맥판막 기능부전</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>						<Text>대동맥판막의 기능이 감소했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA</LocID>											<Text>중증 고혈압</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>								<Text>혈압이 급격하고도 심하게 상승했습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>										<Text>반사성 실신</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>							<Text>신경학적으로 유도된 혈압이나 심박수 감소로 인한 짧은 의식 상실입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>											<Text>양성 반응</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>								<Text>기립성 저혈압 검사에서 양성 반응이 나왔습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>											<Text>전도장애</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>								<Text>심실 내 전도 과정에서 전기 자극의 흐름이 차단된 경우를 말합니다.</Text>	</GameDBLocalizedString>	
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>											<Text>실신 전조</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>								<Text>환자가 실신의 전조증상을 보입니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG</LocID>												<Text>심방세동</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>									<Text>AF. 심전도 검사 결과, P파가 관찰되지 않았으며 불규칙한 QRS파가 관찰되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG</LocID>												<Text>동방차단</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>									<Text>SA block. 동결절은 규칙적으로 자극을 형성하는데, 이것이 심방으로 전도되지 않는 것을 말합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG</LocID>												<Text>3도 방실차단</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>									<Text>complete AV block. 심방과 심실이 전기적으로 완전히 절연되어 심방의 전기가 심실로 내려가지 못하는 것을 말합니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG</LocID>												<Text>좌각차단</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>									<Text>LBBB. 심전도 검사 결과, 특징적인 LBBB의 파형이 관찰되었습니다.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG</LocID>												<Text>심실빈맥</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>									<Text>VT. 심전도 검사 결과, 특징적인 VT의 파형이 관찰되었습니다.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG</LocID>												<Text>QT extension</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>									<Text>Extension of the QT space at the ECG.</Text>	</GameDBLocalizedString>
 			<GameDBLocalizedString>	<LocID>SYM_MOREDG_TCJ_ECG</LocID>												<Text>JT</Text>	</GameDBLocalizedString>

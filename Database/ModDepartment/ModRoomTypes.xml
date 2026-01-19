@@ -806,6 +806,7 @@
             <Tag>gs_sonography_unit</Tag>
             <Tag>onco_sonography_unit</Tag>
             <Tag>hospitalization_workspace</Tag>
+            <Tag>ent_endoscopy</Tag>
         </Tags>
 
         <RequiredSkill>SKILL_LAB_SPECIALIST_SPEC_USG</RequiredSkill>
@@ -3312,7 +3313,7 @@
     </GameDBRoomType>
 
     <GameDBRoomType ID="ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE">
-        <AbbreviationLocID>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE_DESC</AbbreviationLocID>
+        <AbbreviationLocID>ROOM_TYPE_INPATIENT_DENTISTRY_OFFICE_DESCRIPTION</AbbreviationLocID>
         <TextureID>398</TextureID>
         <IconIndex>828</IconIndex>
         <AccessRights>PATIENT_PROCEDURE</AccessRights>
