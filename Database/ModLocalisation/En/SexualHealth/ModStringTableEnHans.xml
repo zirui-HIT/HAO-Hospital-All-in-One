@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_SEXUAL_HEALTH">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Moomin Littlesocks</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <!-- Sexual Health -->
+
+            <GameDBLocalizedString>
+                <LocID>ADDON_SEXUAL_HEALTH</LocID>
+                <Text>Sexual Health Department</Text>
+            </GameDBLocalizedString>
+
+            <GameDBLocalizedString>
+                <LocID>ADDON_OBJECT_DECAL_SEX_HEALTH</LocID>
+                <Text>Sexual Health</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ADDON_OBJECT_DECAL_SEX_HEALTH_DESCRIPTION</LocID>
+                <Text>Wall decoration</Text>
+            </GameDBLocalizedString>
+
+            <GameDBLocalizedString>
+                <LocID>ADDON_OBJECT_SEX_HEALTH_POSTER_A</LocID>
+                <Text>Poster - Virus</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ADDON_OBJECT_SEX_HEALTH_POSTER_A_DESCRIPTION</LocID>
+                <Text>Decoration used to distract bored patients.</Text>
+            </GameDBLocalizedString>
+
+            <GameDBLocalizedString>
+                <LocID>ADDON_OBJECT_SEX_HEALTH_POSTER_B</LocID>
+                <Text>Poster - Genitals</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>ADDON_OBJECT_SEX_HEALTH_POSTER_B_DESCRIPTION</LocID>
+                <Text>Decoration used to distract bored patients.</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+
+    </GameDBStringTable>
+
+</Database>

@@ -949,17 +949,16 @@
                 <MaxCount>1</MaxCount>
             </GameDBDepartmentRoomRequirement>
 
+            <GameDBDepartmentRoomRequirement>
+                <RoomDatabaseEntryRef>DLC_ROOM_TYPE_LOUNGE</RoomDatabaseEntryRef>
+                <MinCount>0</MinCount>
+                <MaxCount>1</MaxCount>
+            </GameDBDepartmentRoomRequirement>
         </RequiredRoomsHospitalization>
 
         <SharedRoomsHospitalization>
             <GameDBDepartmentRoomRequirement>
                 <RoomDatabaseEntryRef>ROOM_TYPE_OPERATING_ROOM</RoomDatabaseEntryRef>
-                <MinCount>0</MinCount>
-                <MaxCount>1</MaxCount>
-            </GameDBDepartmentRoomRequirement>
-
-            <GameDBDepartmentRoomRequirement>
-                <RoomDatabaseEntryRef>DLC_ROOM_TYPE_LOUNGE</RoomDatabaseEntryRef>
                 <MinCount>0</MinCount>
                 <MaxCount>1</MaxCount>
             </GameDBDepartmentRoomRequirement>

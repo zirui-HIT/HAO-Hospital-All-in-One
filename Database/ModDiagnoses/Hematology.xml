@@ -2327,6 +2327,7 @@
 			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 			<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 			<ExaminationRef>EXM_USG</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 		</Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -2342,7 +2343,7 @@
 		<IconIndex>1221</IconIndex>
 		<CustomIconBigAssetRef>ASSET_MOREDG_ICON_DG9</CustomIconBigAssetRef>
 		<CustomIconSmallAssetRef>ASSET_MOREDG_ICON_DG9_SMALL</CustomIconSmallAssetRef>
-		<DepartmentRef>DPT_GENERAL_SURGERY_DEPARTMENT</DepartmentRef>
+		<DepartmentRef>DPT_HEMATOLOGY</DepartmentRef>
 		<InsurancePayment>2000</InsurancePayment>
 		<Tags>
 			<Tag>disease</Tag>
